@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>König Suppen Zumachen</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Des Zentrums für Gastrosophie</orgName>
+                    <ptr target="http://gastrosophie.sbg.ac.at/"/>
+                </publisher>
+                <date when="2014-04-22"/>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <title>König Suppen Zumachen</title>
+                        <title type="alt">Königssuppe</title>
+                        <note>„ein Dotter Suppen“ ist hier eine Sauce mit Ei gebunden</note>
+                        <author>
+                            <persName xml:id="person1">
+                                <forename>Marlene</forename>
+                                <surname>Ernst</surname>
+                                <email>marlene.ernst@sbg.ac.at</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person32">
+                                <forename>Christine</forename>
+                                <surname>Überei</surname>
+                                <email>christine.ueberei@stud.sbg.ac.at</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person33">
+                                <forename>Juliane</forename>
+                                <surname>Wiemerslage</surname>
+                                <email>Jwiemerslage@web.de</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person30">
+                                <forename>Irene</forename>
+                                <surname>Tripp</surname>
+                                <email>irenetripp@hotmail.com</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person19">
+                                <forename>Lukas</forename>
+                                <surname>Fallwickl</surname>
+                                <email>Lukas_Andreas.Fallwickl@stud.sbg.ac.at</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person20">
+                                <forename>Magdalena</forename>
+                                <surname>Bogenhuber</surname>
+                                <email>magdalena.bogenhuber@stud.sbg.ac.at</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person29">
+                                <forename>Andrea</forename>
+                                <surname>Sobieszek</surname>
+                                <email>A.Sobieszek@utanet.at</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person18">
+                                <forename>Mae</forename>
+                                <surname>Lene</surname>
+                                <email>marlene.ernst@stud.sbg.ac.at</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person28">
+                                <forename>Sabine</forename>
+                                <surname>Schwaiger</surname>
+                                <email>sabine.schwaiger@a1.net</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person36">
+                                <forename>Lotte</forename>
+                                <surname>Caglar</surname>
+                                <email>lotte.caglar@gmx.at</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person38">
+                                <forename>Wolfram</forename>
+                                <surname>Kracker</surname>
+                                <email>wolfram.kracker@aon.at</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person39">
+                                <forename>Waltraud</forename>
+                                <surname>Ernst</surname>
+                                <email>wernst@gmx.at</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person35">
+                                <forename>Marlies</forename>
+                                <surname>Berger</surname>
+                                <email>marlies.berger@sbg.ac.at</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person26">
+                                <forename>Helga</forename>
+                                <surname>Kraihamer</surname>
+                                <email>h.kraihamer@gmail.com</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person37">
+                                <forename>Margit</forename>
+                                <surname>Gull</surname>
+                                <email>m.gull@gmx.at</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person41">
+                                <forename>Maximilian</forename>
+                                <surname>Schmidauer</surname>
+                                <email>maximilian.schmidauer@stud.sbg.ac.at</email>
+                            </persName>
+                        </author>
+                        <textLang mainLang="deu"/>
+                        <imprint>
+                            <biblScope unit="entry">001</biblScope>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Rezeptdatenbank</repository>
+                        <idno>163</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="ingredients">
+                <listObject>
+                    <object type="Zutaten" xml:id="austern">Austern</object>
+                    <object type="Zutaten" xml:id="eier">Eier</object>
+                    <object type="Zutaten" xml:id="kapaun">Kapaun</object>
+                    <object type="Zutaten" xml:id="lunge">Lunge</object>
+                    <object type="Zutaten" xml:id="pistazien">Pistazien</object>
+                    <object type="Zutaten" xml:id="zimt">Zimt</object>
+                    <object type="Zutaten" xml:id="zitronensaft">Zitronensaft</object>
+                </listObject>
+            </div>
+            <div type="utensils">
+                <listObject>
+                    <object type="MaterielleKultur" xml:id="zinnschuessel">Zinnschüssel</object>
+                </listObject>
+            </div>
+            <div type="recipe">
+                <p>Nimbe ein Guetten <objectName ref="kapaun">Coppaun<gap/></objectName>, siede<gap/> <lb/> ihme marb<gap/>, nimb die Prust von dem <lb/> Coppaun, hackh sye gar khlein, Nimb <lb/> das March* vnnd die Nirn auch eiterl<gap/>, <lb/> vnnd Wasche es Sauber aus, khere<gap/> sye in <lb/> Mell vmb, Pache<gap/> sye in butter, das <lb/> sye Zimblich Resch<gap/> Werden, thue daß <lb/> Gehackte in ein Zinnene<gap/> schisßl<gap/>, Gies<gap/> <lb/> ein Coppauner<gap/> oder henner brie<gap/> daran, <lb/> seze es Auf ein Gluett<gap/>, lasse es siden<gap/>,. <lb/> Wan du es Anrichten Wilst, so Giesse <lb/> ein Dotter Suppen<gap/> daran, Nimb <lb/> lemony<gap/>, trucke den Safft darein, Nimb <lb/> <objectName ref="pistazien">Pistazy<gap/></objectName>, Ziechs ab<gap/>, thue es auf die <lb/> Suppen, Ziere den schisßl ranft<gap/> mit <lb/> Gebachnen<gap/> Prisl<gap/>, vnnd <objectName ref="austern">Austern</objectName>, Gibe <lb/> es Warm, stuppe<gap/> es mit <objectName ref="zimt">Zimmet</objectName><gap/>, vnd <lb/> salze es, so ist sye Guett.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+
