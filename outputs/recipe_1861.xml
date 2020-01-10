@@ -16,11 +16,11 @@
                 <biblStruct>
                     <monogr>
                         <title>Gemuess vō ein̄ chalb</title>
-                        <title type="alt"><![CDATA[Kalbsmus*<p>
+                        <title type="alt">Kalbsmus*<p>
 Wenn es dich interessiert, werde ich dir ein gutes Musrezept verraten: Nimm Kalbsblut und vermische es mit Wein, gib es aufs Feuer und lass es bei starker Hitze kochen. Hast du keinen Zucker, dann nimm Honig und Lebkuchen anstatt – wenn dir der Zucker fehlt. Gib Schmalz dazu, dann wird das Mus fein. Dann gib fein gehackte Lunge, die gut gekocht ist, dazu. Dann ist das Mus fertig. Vergiss das Salz nicht, sonst wird es nicht gut, auch gutes Gewürze musst du dazu verwenden, streu es hinein etc.
 <p>
 * Mus wie üblich im Mittelalter als etwas klein Gehacktes zu verstehen.
-]]></title>
+</title>
                         <note></note>
                         <author>
                             <persName xml:id="person1">
@@ -175,11 +175,18 @@ Wenn es dich interessiert, werde ich dir ein gutes Musrezept verraten: Nimm Kalb
                 </listObject>
             </div>
         <div type="recipe">
-        <p>v wirt daz gemuess vein vnd lungel dÿe
+        <p>WIldu daz pedencken ein guͤt gemuess
+wil ich dir schencken Da vō nÿ̄ den
+Swaÿs vn̄ tue in in einē wein vn̄ misches
+vn̄ Seczes czwͤ einem fewer vn̄ lass hoch
+auff sÿedn̄ habstu nicht czuckker So nÿm
+hoenig vn̄ leczeltn̄ an die stat Wo dir der
+czuckker ab gat vn̄ tue Smalcz dar ein So
+v wirt daz gemuess vein vnd lungel dÿe
 an dÿ stat gesotn̄ ist seÿ hack auch dar ein
 So hastu daz gemuess gar Salcz uʾs uʾgiss nicht
 oder ez wird gar enwicht vn̄ guͤtes gew=
-uͤrcz muͤstu dar czwͤ han vn̄ schuͤt ez daran etc.]]></p>
+uͤrcz muͤstu dar czwͤ han vn̄ schuͤt ez daran etc.</p>
             </div>
         </body>
     </text>

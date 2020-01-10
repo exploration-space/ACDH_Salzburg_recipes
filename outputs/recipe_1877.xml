@@ -16,13 +16,13 @@
                 <biblStruct>
                     <monogr>
                         <title>Item salsa que servatur per annum</title>
-                        <title type="alt"><![CDATA[Salsenpulver für das ganze Jahr<p>
+                        <title type="alt">Salsenpulver für das ganze Jahr<p>
 Pflücke im Mai Petersilie, Pfefferkraut*, Salbei, junge Rübenblätter und schneide sie zusammen sehr klein. Dann nimm Wasser** und ein Tuch*** und mische alles darin. Reibe alles durch dieses Tuch und gib die Masse in einen großen Multer****. Wenn Sonne darauf scheint, verschwindet die Flüssigkeit; trockne es und bewahre es als Pulver auf. Und wenn du eine Sauce zubereiten willst, befeuchte es mit Wein oder Essig wie bei einer anderen Salse.
 <p>
 * Pfefferkraut = Lepidium latifolium, eine Pflanzenart aus der Gattung der Kressen.<br>
 ** Wörtlich: Tau, Flüssigkeit.<br>
 *** Beuteltuch (Siebtuch, Siebleinwand), durchsichtiges, gazeartiges Gewebe von Baumwolle, Leinen, Wolle oder Seide, aus starken, fest gedrehten Fäden.<br>
-**** Multer: längliches ausgehöhltes Gefäsz, Trog (Grimm).]]></title>
+**** Multer: längliches ausgehöhltes Gefäsz, Trog (Grimm).</title>
                         <note></note>
                         <author>
                             <persName xml:id="person1">
@@ -177,9 +177,14 @@ Pflücke im Mai Petersilie, Pfefferkraut*, Salbei, junge Rübenblätter und schn
                 </listObject>
             </div>
         <div type="recipe">
-        <p>tr recedet ros et exsicce et collige in modum
+        <p>Recipe in Mayo Petroselinum
+Pfefferchrawt salviam Jung piessen pleter
+et seca valde minuti invicem et cape rorem
+cum panno et misce et misce (!) et there per pannum
+et pone in multer late quando sol advenit
+tr recedet ros et exsicce et collige in modum
 pulveris et servatur et quando vis parare humectare
-per vinum et acetum ut aliam salsam]]></p>
+per vinum et acetum ut aliam salsam</p>
             </div>
         </body>
     </text>

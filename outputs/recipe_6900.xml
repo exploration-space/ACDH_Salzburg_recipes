@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Kramatsvögel in Pasteten eyngemacht.]</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Des Zentrums für Gastrosophie</orgName>
+                    <ptr target="http://gastrosophie.sbg.ac.at/"/>
+                </publisher>
+                <date when="2019-06-28"/>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <title>[Kramatsvögel in Pasteten eyngemacht.]</title>
+                        <title type="alt"></title>
+                        <note></note>
+                        <author>
+                            <persName xml:id="person1">
+                                <forename>Marlene</forename>
+                                <surname>Ernst</surname>
+                                <email>marlene.ernst@sbg.ac.at</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person32">
+                                <forename>Christine</forename>
+                                <surname>Überei</surname>
+                                <email>christine.ueberei@stud.sbg.ac.at</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person33">
+                                <forename>Juliane</forename>
+                                <surname>Wiemerslage</surname>
+                                <email>Jwiemerslage@web.de</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person30">
+                                <forename>Irene</forename>
+                                <surname>Tripp</surname>
+                                <email>irenetripp@hotmail.com</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person19">
+                                <forename>Lukas</forename>
+                                <surname>Fallwickl</surname>
+                                <email>Lukas_Andreas.Fallwickl@stud.sbg.ac.at</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person20">
+                                <forename>Magdalena</forename>
+                                <surname>Bogenhuber</surname>
+                                <email>magdalena.bogenhuber@stud.sbg.ac.at</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person29">
+                                <forename>Andrea</forename>
+                                <surname>Sobieszek</surname>
+                                <email>A.Sobieszek@utanet.at</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person18">
+                                <forename>Mae</forename>
+                                <surname>Lene</surname>
+                                <email>marlene.ernst@stud.sbg.ac.at</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person28">
+                                <forename>Sabine</forename>
+                                <surname>Schwaiger</surname>
+                                <email>sabine.schwaiger@a1.net</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person36">
+                                <forename>Lotte</forename>
+                                <surname>Caglar</surname>
+                                <email>lotte.caglar@gmx.at</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person38">
+                                <forename>Wolfram</forename>
+                                <surname>Kracker</surname>
+                                <email>wolfram.kracker@aon.at</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person39">
+                                <forename>Waltraud</forename>
+                                <surname>Ernst</surname>
+                                <email>wernst@gmx.at</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person35">
+                                <forename>Marlies</forename>
+                                <surname>Berger</surname>
+                                <email>marlies.berger@sbg.ac.at</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person26">
+                                <forename>Helga</forename>
+                                <surname>Kraihamer</surname>
+                                <email>h.kraihamer@gmail.com</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person37">
+                                <forename>Margit</forename>
+                                <surname>Gull</surname>
+                                <email>m.gull@gmx.at</email>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName xml:id="person41">
+                                <forename>Maximilian</forename>
+                                <surname>Schmidauer</surname>
+                                <email>maximilian.schmidauer@stud.sbg.ac.at</email>
+                            </persName>
+                        </author>
+                        <textLang mainLang="deu"/>
+                        <imprint>
+                            <biblScope unit="volume"></biblScope>
+                            <biblScope unit="chapter"></biblScope>
+                            <biblScope unit="entry"></biblScope>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Rezeptdatenbank</repository>
+                        <idno>10978</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="ingredients">
+                <listObject>
+			<object type="Zutaten" xml:id="limonen">\2</object>
+			<object type="Zutaten" xml:id="pastetenteig">\2</object>
+			<object type="Zutaten" xml:id="wacholderdrosseln">\2</object>
+                 </listObject>
+            </div>
+             <div type="utensils">
+                <listObject>
+			
+                </listObject>
+            </div>
+            <div type="dietetic">
+                <listObject>
+			
+                </listObject>
+            </div>
+        <div type="recipe">
+        <p>\2</p>
+            </div>
+        </body>
+    </text>
+</TEI>

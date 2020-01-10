@@ -16,8 +16,8 @@
                 <biblStruct>
                     <monogr>
                         <title>Ein edels suͤffeͣr fur aÿtter</title>
-                        <title type="alt"><![CDATA[Ein edles Getränk gegen Eiter (Wermutmilch, medizinisch)<p>
-Willst du einen edlen medizinischen Trank zubereiten, damit dir während des Jahres kein Geschwür entstehe und kein Eiter schade, dann koch Wermut in Ziegenmilch. Wenn er genug gekocht hat, dann seihe ihn durch ein Tuch und trink ihn aus. Dann bist du während des Jahres sicher vor Geschwüren und auch vor Eiter.]]></title>
+                        <title type="alt">Ein edles Getränk gegen Eiter (Wermutmilch, medizinisch)<p>
+Willst du einen edlen medizinischen Trank zubereiten, damit dir während des Jahres kein Geschwür entstehe und kein Eiter schade, dann koch Wermut in Ziegenmilch. Wenn er genug gekocht hat, dann seihe ihn durch ein Tuch und trink ihn aus. Dann bist du während des Jahres sicher vor Geschwüren und auch vor Eiter.</title>
                         <note></note>
                         <author>
                             <persName xml:id="person1">
@@ -168,7 +168,13 @@ Willst du einen edlen medizinischen Trank zubereiten, damit dir während des Jah
                 </listObject>
             </div>
         <div type="recipe">
-        <p></p>
+        <p>WIldu machn̄ ein edels getranck daz
+dir im Jar dhain druͤs werd noch dhain
+aÿttʾ nicht schad So seut wermut in gais
+milch, wen er gesotn̄ ist so seich in durch
+ein duch vnd supff inn dan aus So pist
+tu sicher des Jares von den druͤsen vnd
+auch von den aÿttʾ</p>
             </div>
         </body>
     </text>

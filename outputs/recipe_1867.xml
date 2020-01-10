@@ -16,10 +16,10 @@
                 <biblStruct>
                     <monogr>
                         <title>Eī weiss gmuͤss</title>
-                        <title type="alt"><![CDATA[Weißes Mus<p>
+                        <title type="alt">Weißes Mus<p>
 Willst du mehr von einem weißen Mus wissen, musst du dafür Mandeln nehmen. Hack das zusammen mit Hühnerfleisch*. Zucker und Schweineschmalz musst du auch dafür nehmen. Vergiss das Salz nicht, sonst gelingt es nicht.
 <p>
-* Im Kochbuch des Meister Hans (95r, Nr. 250) ist noch „weis prot“ eingefügt. Es scheint, dass der Schreiber das zu „weyss vor“ verunstaltet hat. Es müssten also Mandeln mit Weißbrot und Hühnerfleisch zusammen gehackt werden.]]></title>
+* Im Kochbuch des Meister Hans (95r, Nr. 250) ist noch „weis prot“ eingefügt. Es scheint, dass der Schreiber das zu „weyss vor“ verunstaltet hat. Es müssten also Mandeln mit Weißbrot und Hühnerfleisch zusammen gehackt werden.</title>
                         <note></note>
                         <author>
                             <persName xml:id="person1">
@@ -172,7 +172,11 @@ Willst du mehr von einem weißen Mus wissen, musst du dafür Mandeln nehmen. Hac
                 </listObject>
             </div>
         <div type="recipe">
-        <p></p>
+        <p>WIldu mer vō weissm̄ gmuͤss han So
+muͤstu mādel dar czwͤ habn̄ vn̄ hack dass
+weÿss vor (!) den huͤnrn̄ klain vn̄ an czuckkʾ
+vn̄ Sweinē Smalcz muͤst auch dar czwͤ han
+Salcz vʾgiss nicht odʾ es wurd gar enwicht</p>
             </div>
         </body>
     </text>

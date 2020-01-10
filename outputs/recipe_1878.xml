@@ -16,8 +16,8 @@
                 <biblStruct>
                     <monogr>
                         <title>Item Salsa</title>
-                        <title type="alt"><![CDATA[Salse<p>
-Nimm Lebkuchen, schneide ihn dünn und zerkleinere ihn fein, wie es bei einem Pfefferbrot ist. Koch ihn in einer Pfanne [mit Wein] und drück ihn durch ein Tuch wie eine Pfeffersauce. Gib Zucker, Zimt und ein wenig Honig dazu. Lass alles in einer Pfanne aufkochen und gib Salz und Zucker dazu.]]></title>
+                        <title type="alt">Salse<p>
+Nimm Lebkuchen, schneide ihn dünn und zerkleinere ihn fein, wie es bei einem Pfefferbrot ist. Koch ihn in einer Pfanne [mit Wein] und drück ihn durch ein Tuch wie eine Pfeffersauce. Gib Zucker, Zimt und ein wenig Honig dazu. Lass alles in einer Pfanne aufkochen und gib Salz und Zucker dazu.</title>
                         <note></note>
                         <author>
                             <persName xml:id="person1">
@@ -172,7 +172,11 @@ Nimm Lebkuchen, schneide ihn dünn und zerkleinere ihn fein, wie es bei einem Pf
                 </listObject>
             </div>
         <div type="recipe">
-        <p></p>
+        <p>Recipe panem piperatum cite (!) tenue et macera (?)
+ut piper panis sit coque in patella et exprime
+per pannum ut piper adde zucer zinamoni etc.
+modicum mellis. Da mit wels Auf einer
+pfan et da (!) adde salem und zuckkarum</p>
             </div>
         </body>
     </text>

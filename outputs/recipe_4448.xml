@@ -17,10 +17,10 @@
                     <monogr>
                         <title>Eine Brüh von gehackten Limonien über allerley Gebratens.</title>
                         <title type="alt"></title>
-                        <note><![CDATA[<ul>
+                        <note><ul>
  <li><em>Der Unterschied zwischen Limonien und Citronen ist unklar; im Nürnberger Kochbuch werden 10 Mal so oft Citronen erwähnt; manchmal allerdings auch beides im gleichen Rezept ("...nehmet Citronen und Limonien"). In Haggers Salzburger Kochbuch ist hingegen fast nur von "Lemoni" die Rede, hin und wieder auch von Citronen; auch dort scheint es sich um verschiedene Zitrus-Varianten zu handeln, weil manchmal beide verlangt werden. Möglicherweise sind Limonen besonders saftige und aromatische Zitronen vom Anbaugebiet um den Gardasee; dort gibt es ja auch einen Ort namens "Limone sul Garda".</em></li>
  <li><em>Holbeeren sind Himbeeren</em></li>
-</ul>]]></note>
+</ul></note>
                         <author>
                             <persName xml:id="person1">
                                 <forename>Marlene</forename>
@@ -176,7 +176,9 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p></p>
+        <p>SChneidet und hacket die Limonien <lb/> wann ihr die Kerne zuvor heraus genommen <lb/> klein <lb/> thut sie in ein Häfelein <lb/> giesst Wein und ein wenig Fleischbrüh <lb/> wie auch Rosen= Holbeer= oder Holunder= Essig <lb/> welcher beliebt <lb/> daran; streuet Pfeffer <lb/> Cardamomen <lb/> Muscatnüsse <lb/> und ein klein wenig Negelein darein <lb/> zuckerts nach belieben <lb/> last es aufsieden <lb/> und richtets dann über das Gebratens. <gap/>
+
+<gap/> Diese Brüh ist sonderlich gut über einen Lendbraten zu machen.</p>
             </div>
         </body>
     </text>

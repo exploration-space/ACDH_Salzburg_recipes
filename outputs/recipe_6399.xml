@@ -17,12 +17,12 @@
                     <monogr>
                         <title>Wenn ein Bier nach dem Faß schmäckt.</title>
                         <title type="alt"></title>
-                        <note><![CDATA[<ul>
+                        <note><ul>
  <li><em>"Reinfall" (heute Rainfarn genannt): zählt zu den Bitterkräutern, wie z.B. auch Hopfen, Wermut und Tausenguldenkraut. Rainfarn galt vor allem als Mittel gegen Würmer und Ungeziefer, führte allerdings manchmal zu Vergiftungen. Es gibt im deutschen Sprachraum Dutzende von Trivialnamen für diese gelbblühende unverwüstliche Pflanze.
 </em><em>Damit nicht zu verwechseln ist der "Rheinfal" (verschiedene Schreibweisen); dies ist auch die Bezeichnung für einen Süßwein ähnlich dem Malvasia und Muskateller, der ursprünglich vermutlich aus Istrien stammt.</em></li>
  <li><em>" deß heyligen Geistes Wurtzel":</em> <em>auch bekannt unter Engelwurz (Angelica), Theriakwurzel (= als wichtiger Bestandteil des mysteriösen Allheilmittels Theriak), Heiligenbitter und zahlreichen anderen Trivialnamen. Diese Wurzel genoss als Heilmittel und als Mittel gegen Zauberei hohes Ansehen, z.B. bei Paracelsus, und wurde u.a. bei Pestepidemien eingesetzt.</em></li>
  <li><em>"Benedicten die rote": andere Bezeichnungen für dieses bittere Heilkraut sind Kardobenedikte, Benediktenkraut oder -distel, Bitter- oder Heildistel. Es wächst vor allem im Mittelmeerraum und galt früher als Allheilmittel. Heute zählt es durch seine Bitterstoffe zu den sanft wirkenden verdauungsfördernden Mitteln.</em></li>
-</ul>]]></note>
+</ul></note>
                         <author>
                             <persName xml:id="person1">
                                 <forename>Marlene</forename>
@@ -176,7 +176,9 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p></p>
+        <p>Item <lb/> nim(m) ein Büntel von fünff vnd dreyssig Weitzkörnern <lb/> hencks in das Faß <lb/> so wirt das Bier wolgeschmack zu trincken.
+
+Item <lb/> nim(m) Reinfall <lb/> ist ein Kraut <lb/> Wacholderbeer <lb/> vnd deß heyligen Geistes Wurtzel <lb/> Benedicten die rote <lb/> eines so viel als deß andern <lb/> vnd vier frisch oder harte Eyer <lb/> vnd hengs oder legs in das Bierfaß.</p>
             </div>
         </body>
     </text>

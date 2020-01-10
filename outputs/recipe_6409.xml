@@ -17,12 +17,12 @@
                     <monogr>
                         <title>Daß sich ein Bier nicht verkehrt.</title>
                         <title type="alt"></title>
-                        <note><![CDATA[<ul>
+                        <note><ul>
  <li><em>Linden- und Nussblätter enthalten viel Tannin (Gerbstoff), der Beifuß enthält Bitterstoffe und ätherische Öle; gemeinsam mit Wermut konnten sie offensichtlich das "Kippen" des Bieres verhindern. (Ob weiße Kieselsteine aus einem fließenden Wasser eine ähnliche Wirkung erzielten, ist eher fraglich, aber auch heutzutage legen manche Menschen Steine in einen Krug Trinkwasser und schwören auf einen positiven Effekt.)</em></li>
  <li><em>Exkurs zum Beifuß: Der bittere und leicht giftige Beifuß war einer der Bestandteile einer populären Kräutermischung ("Grut"), die jahrhundertelang vor allem entlang der Nordseeküste zum Würzen von (Hafer)Bier verwendet wurde. Schon vor 1000 Jahren wurde das Grutrecht urkundlich erwähnt. Da manche dieser dem Bier zugesetzten Kräuter auch halluzinogen wirkten (z.B. der Sumpfporst) und es manchmal zu Vergiftungen, Krämpfen und Raserei kam, handelt es sich beim "Reinheitsgebot" möglicherweise um ein frühes Drogengesetz. Es sollte dadurch der Gebrauch heidnischer Ritualpflanzen (Tollkirsche, Stechapfel, Bilsenkraut, Fliegenpilz...) unterdrückt werden.</em></li>
  <li><em>Zwischen dem 13. und 16. Jh. wurde das "Grutbier" (= Kräuterbier) zunehmend vom Hopfenbier auf Gerstenbasis verdrängt. Der bittere Hopfen konservierte das Bier besser, was den Transport und Handel erleichterte.
 </em><em>Grutbiere erleben übrigens seit einigen Jahren wieder eine Renaissance, z.B. in Dänemark, Belgien und den Niederlanden.</em></li>
-</ul>]]></note>
+</ul></note>
                         <author>
                             <persName xml:id="person1">
                                 <forename>Marlene</forename>
@@ -174,7 +174,9 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p></p>
+        <p>Item <lb/> nim(m) Linden Bletter <lb/> Nußbletter <lb/> Beyfuß gleich <lb/> vnnd halb so viel Wermut <lb/> vnd hencks in das Bier.
+
+Item <lb/> etliche legen schöne weisse Kißling darein <lb/> auß einem fliessenden Wasser.</p>
             </div>
         </body>
     </text>

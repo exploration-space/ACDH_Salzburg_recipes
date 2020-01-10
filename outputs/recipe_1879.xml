@@ -16,8 +16,8 @@
                 <biblStruct>
                     <monogr>
                         <title>Item salsa alba</title>
-                        <title type="alt"><![CDATA[Weiße Salse<p>
-Nimm Mandelkerne und geriebenes Brot, zerreibe sie in einem Mörser zusammen mit Wein und Essig. Dann reibe es durch ein Tuch, so dick du es möchtest. Oder nimm an Stelle der Mandelkerne Knoblauch und würze es wie vorher nach Belieben.]]></title>
+                        <title type="alt">Weiße Salse<p>
+Nimm Mandelkerne und geriebenes Brot, zerreibe sie in einem Mörser zusammen mit Wein und Essig. Dann reibe es durch ein Tuch, so dick du es möchtest. Oder nimm an Stelle der Mandelkerne Knoblauch und würze es wie vorher nach Belieben.</title>
                         <note></note>
                         <author>
                             <persName xml:id="person1">
@@ -170,7 +170,10 @@ Nimm Mandelkerne und geriebenes Brot, zerreibe sie in einem Mörser zusammen mit
                 </listObject>
             </div>
         <div type="recipe">
-        <p></p>
+        <p>Recipe Nucleos amigdalarum et pa
+nem contritum contere in mortario cum vino et aceto
+et there per pannum quanto spissius vis Vel recipe
+loco nucleorum alleum et fac ut prius aromatisare</p>
             </div>
         </body>
     </text>

@@ -16,11 +16,11 @@
                 <biblStruct>
                     <monogr>
                         <title>Von akcher speÿs etc.</title>
-                        <title type="alt"><![CDATA[Ackerspeise*<p>
+                        <title type="alt">Ackerspeise*<p>
 Die Ackerspeise wollen wir nicht unbeachtet lassen: Milch und Eier muss du dazu haben, dann nimm von einer Rinderlunge und gib Schmalz** dazu, dann wird das Mus gut. 30 Eier musst du für ein Essen nehmen und Safran. Dann wird es gelb und schön anzusehen.
 <p>
 *Eigentlich: Speise aus Feldfrüchten.
-** Im mhd. Text steht wörtlich „von einer Rinderlunge nimm das Schmalz dazu“; das ergibt jedoch kaum Sinn, da eine Rinderlunge weitgehend fettfrei ist.]]></title>
+** Im mhd. Text steht wörtlich „von einer Rinderlunge nimm das Schmalz dazu“; das ergibt jedoch kaum Sinn, da eine Rinderlunge weitgehend fettfrei ist.</title>
                         <note></note>
                         <author>
                             <persName xml:id="person1">
@@ -173,7 +173,13 @@ Die Ackerspeise wollen wir nicht unbeachtet lassen: Milch und Eier muss du dazu 
                 </listObject>
             </div>
         <div type="recipe">
-        <p></p>
+        <p>VOn ackcher speÿs well wir nicht lan mi=
+lich vn̄ aÿr muͤst dar czwͤ han von einer
+kuelingln̄ nÿmbstu Nÿmbstu (!) daz Smalcz
+dar czwͤ So wirt dass gemuͤss guͤt dreÿs=
+sinck aÿer muͤstu czw einē eessen han
+vn̄ saffrian Wan̄ da wirt ez gel vn̄ wol
+gestalt von etc.</p>
             </div>
         </body>
     </text>

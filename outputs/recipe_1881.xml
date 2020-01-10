@@ -16,8 +16,8 @@
                 <biblStruct>
                     <monogr>
                         <title>[Gefüllte Äpfel]</title>
-                        <title type="alt"><![CDATA[Gefüllte Äpfel<p>
-Nimm vier Äpfel pro Herrn auf einen Teller. Danach schneide vier gebratene Regelbirnen und etwas rohen Apfel so dünn du kannst, schneide alles miteinander klein; aromatisiere es mit Wein, mach daraus eine gute Fülle und koche sie. Dann schäle Äpfel auf schöne Art und schneide sie in der Mitte durch; höhle die Hälften aus und fülle sie mit der zuvor genannten Masse; stich ein Hölzchen durch, sodass beide Apfelhälften darauf haften und lass es stecken. Basta und aus!]]></title>
+                        <title type="alt">Gefüllte Äpfel<p>
+Nimm vier Äpfel pro Herrn auf einen Teller. Danach schneide vier gebratene Regelbirnen und etwas rohen Apfel so dünn du kannst, schneide alles miteinander klein; aromatisiere es mit Wein, mach daraus eine gute Fülle und koche sie. Dann schäle Äpfel auf schöne Art und schneide sie in der Mitte durch; höhle die Hälften aus und fülle sie mit der zuvor genannten Masse; stich ein Hölzchen durch, sodass beide Apfelhälften darauf haften und lass es stecken. Basta und aus!</title>
                         <note></note>
                         <author>
                             <persName xml:id="person1">
@@ -169,7 +169,16 @@ Nimm vier Äpfel pro Herrn auf einen Teller. Danach schneide vier gebratene Rege
                 </listObject>
             </div>
         <div type="recipe">
-        <p></p>
+        <p>Item recipe quattuor poma ad unam scutellam pro domino et
+scinde quanto tenuius potes Darnach vier
+gepraten Regelspirn et de pomo crudo seca
+[337v] in invicem aromatisetur cum vinis at fac ex illo
+Bonam replecionem et cocatur (?) Idem excortica pul
+chre poma et dividuntur in duas partes per medium
+et excava ambas partes et imple cum pre
+dicta replecione et transfige lignum ut adhe
+reant partes pomi und weczeuchs
+dann in pasta et pista</p>
             </div>
         </body>
     </text>

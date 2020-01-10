@@ -16,8 +16,8 @@
                 <biblStruct>
                     <monogr>
                         <title>Item salsa rubea</title>
-                        <title type="alt"><![CDATA[Rote Salse<p>
-Nimm Berberitzen und ein wenig geriebenen Lebkuchen und reibe alles gemeinsam mit Wein durch ein Tuch. Wenn du magst, kannst du es würzen.]]></title>
+                        <title type="alt">Rote Salse<p>
+Nimm Berberitzen und ein wenig geriebenen Lebkuchen und reibe alles gemeinsam mit Wein durch ein Tuch. Wenn du magst, kannst du es würzen.</title>
                         <note></note>
                         <author>
                             <persName xml:id="person1">
@@ -168,7 +168,9 @@ Nimm Berberitzen und ein wenig geriebenen Lebkuchen und reibe alles gemeinsam mi
                 </listObject>
             </div>
         <div type="recipe">
-        <p></p>
+        <p>Recipe berberis et modicum
+de [pane] piperato contrito et there per pannum cum vino si placet
+potes aromatisetur</p>
             </div>
         </body>
     </text>

@@ -16,9 +16,9 @@
                 <biblStruct>
                     <monogr>
                         <title>Ein manndel Schottn̄</title>
-                        <title type="alt"><![CDATA[Mandelschotten<p>
+                        <title type="alt">Mandelschotten<p>
 Vom Kren (?) haben wir noch etwas. Dazu musst du Mandeln und 140 g Zucker haben, die gib zusammen mit Milch über den Schotten.<p>
-** Vierting = 1/4 Pfund = 140 g.]]></title>
+** Vierting = 1/4 Pfund = 140 g.</title>
                         <note></note>
                         <author>
                             <persName xml:id="person1">
@@ -171,7 +171,9 @@ Vom Kren (?) haben wir noch etwas. Dazu musst du Mandeln und 140 g Zucker haben,
                 </listObject>
             </div>
         <div type="recipe">
-        <p></p>
+        <p>[Vo]n krann heb wir wider an Dar czuͤ
+muͤstu manndel hann vnd ein viͤrduͤḡ
+tzuckher vnd milich vber den schottn̄</p>
             </div>
         </body>
     </text>
