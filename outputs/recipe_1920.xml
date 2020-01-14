@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb die pfrillen, Salz nit Zuuill, vnd ein mäßl Wein <lb/> zu einem mäßl pfrilln, in ain pfan, vnd buter, in <lb/> den Wein, so groß als ein henen aÿ, laß Sieden, vnd schidt <lb/> die pfrillen drein, nicht zu lang, gibs auf den tisch. <lb/></p>
+        <p> Nimb die pfrillen, <objectName ref="salz">Salz</objectName> nit Zuuill, vnd ein mäßl <objectName ref="wein">Wein</objectName> <lb/> zu einem mäßl pfrilln, in ain pfan, vnd buter, in <lb/> den <objectName ref="wein">Wein</objectName>, so groß als ein henen aÿ, laß Sieden, vnd schidt <lb/> die pfrillen drein, nicht zu lang, gibs auf den <objectName ref="tisch">tisch</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

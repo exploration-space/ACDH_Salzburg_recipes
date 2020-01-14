@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm von zehen Eyern abgeschlagenen puren Faum <lb/> laß zweymal so viel gantz gute Milch <lb/> oder gar einen süssen Ram sieden <lb/> gieß die Klar mit starckem Sprittlen in die gesottne Milch oder Ram <lb/> daß es fein dicklecht wird <lb/> zuckere es nach Gefallen <lb/> seihs durch ein Sieblein auf die Schüssel <lb/> laß kalt werden <lb/> bestreus mit abgezognen und gehackten Pistazien, und gibs.</p>
+        <p> Nimm von zehen Eyern abgeschlagenen puren Faum <lb/> laß zweymal so viel gantz gute <objectName ref="milch">Milch</objectName> <lb/> oder gar einen süssen Ram sieden <lb/> gieß die Klar mit starckem Sprittlen in die gesottne <objectName ref="milch">Milch</objectName> oder Ram <lb/> daß es fein dicklecht wird <lb/> zuckere es nach Gefallen <lb/> seihs durch ein Sieblein auf die <objectName ref="schuessel">Schüssel</objectName> <lb/> laß kalt werden <lb/> bestreus mit abgezognen und gehackten <objectName ref="pistazien">Pistazien</objectName>, und gibs. </p>
             </div>
         </body>
     </text>

@@ -180,7 +180,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm hart= gesottne Eyer <lb/> schneids zu Spalten <lb/> legs ordentlich auf die Schüssel <lb/> oder Teller <lb/> regaliers mit rothen Ruben <lb/> Capry <lb/> Sardellen <lb/> grünen Kräutlein <lb/> Salat <lb/> Briggen <lb/> Oliven <lb/> und abgesottene gebutzte Schnecken <lb/> oder was du hast <lb/> bestreue den aufgerichten Salat <lb/> mit klein= geschnittenen grünen Zwiblen <lb/> und klein= gehackten Kräutlein <lb/> Pfeffer <lb/> Imber und Saltz <lb/> mische Oel und Eßig untereinander <lb/> und gibs über diesen aufgerichten Salat völlig her <lb/> so ist er schön und gut.</p>
+        <p> NImm hart= gesottne Eyer <lb/> schneids zu Spalten <lb/> legs ordentlich auf die <objectName ref="schuessel">Schüssel</objectName> <lb/> oder <objectName ref="teller">Teller</objectName> <lb/> regaliers mit rothen Ruben <lb/> Capry <lb/> <objectName ref="sardellen">Sardellen</objectName> <lb/> grünen Kräutlein <lb/> <objectName ref="salat">Salat</objectName> <lb/> Briggen <lb/> <objectName ref="oliven">Oliven</objectName> <lb/> und abgesottene gebutzte <objectName ref="schnecken">Schnecken</objectName> <lb/> oder was du hast <lb/> bestreue den aufgerichten <objectName ref="salat">Salat</objectName> <lb/> mit klein= geschnittenen grünen Zwiblen <lb/> und klein= gehackten Kräutlein <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber und Saltz <lb/> mische Oel und Eßig untereinander <lb/> und gibs über diesen aufgerichten <objectName ref="salat">Salat</objectName> völlig her <lb/> so ist er schön und gut. </p>
             </div>
         </body>
     </text>

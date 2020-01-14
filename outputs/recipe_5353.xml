@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIse Stuck von dem wilden Schwein <lb/> nemlichen <lb/> der Rucken <lb/> und die Brust <lb/> seynd auch gut in die Pasteten ; wie bey der Hirschen= Pasteten <lb/> die Einrichtung gemeldt worden <lb/> im 7. Capitel <lb/> und N°. 15. zu finden.</p>
+        <p> DIse Stuck von dem wilden Schwein <lb/> nemlichen <lb/> der Rucken <lb/> und die <objectName ref="brust">Brust</objectName> <lb/> seynd auch gut in die <objectName ref="pastete">Pasteten</objectName>; wie bey der Hirschen= <objectName ref="pastete">Pasteten</objectName> <lb/> die Einrichtung gemeldt worden <lb/> im 7. Capitel <lb/> und N°. 15. zu finden. </p>
             </div>
         </body>
     </text>

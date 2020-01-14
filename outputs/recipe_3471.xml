@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIese werden <lb/> weil sie schön zuvor marinirt <lb/> mit gebachnen Hechten <lb/> Presolen <lb/> gebachnen Ferchen <lb/> und andern dergleichen Fischen <lb/> in ein Pasteten gemacht <lb/> sammt einem Zusatz  und Brät  von frischem Fisch Gehäck <lb/> auch Zwibel <lb/> Lemoni <lb/> Capry <lb/> Sardellen <lb/> Schwammen <lb/> Austern <lb/> Müschelen <lb/> Lorbeerblättlein <lb/> und frischem Butter <lb/> im Anrichten aber mit einer guten Sardellen= oder Austern= Brühe versehen.</p>
+        <p> DIese werden <lb/> weil sie schön zuvor marinirt <lb/> mit gebachnen Hechten <lb/> Presolen <lb/> gebachnen Ferchen <lb/> und andern dergleichen Fischen <lb/> in ein <objectName ref="pastete">Pasteten</objectName> gemacht <lb/> sammt einem Zusatz und Brät von frischem <objectName ref="fisch">Fisch</objectName> <objectName ref="gehaeck">Gehäck</objectName> <lb/> auch Zwibel <lb/> Lemoni <lb/> Capry <lb/> <objectName ref="sardellen">Sardellen</objectName> <lb/> Schwammen <lb/> <objectName ref="austern">Austern</objectName> <lb/> Müschelen <lb/> Lorbeerblättlein <lb/> und frischem <objectName ref="butter">Butter</objectName> <lb/> im Anrichten aber mit einer guten Sardellen= oder Austern= <objectName ref="bruehe">Brühe</objectName> versehen. </p>
             </div>
         </body>
     </text>

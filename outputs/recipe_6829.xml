@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) ein Hammelschlegel <lb/> breun jn wol auff dem Roßt ab <lb/> spick jhn mit Speck <lb/> der grob geschnitten ist <lb/> pfeffers wol <lb/> vnd saltzs <lb/> schlags in einen groben Teig <lb/> machs zu <lb/> vnd backs <lb/> vnd laß kalt werden <lb/> so wirt es gut vnnd wolgeschmack.</p>
+        <p> Nim ( m ) ein Hammelschlegel <lb/> breun jn wol auff dem Roßt ab <lb/> spick jhn mit <objectName ref="speck">Speck</objectName> <lb/> der grob geschnitten ist <lb/> pfeffers wol <lb/> vnd saltzs <lb/> schlags in einen groben <objectName ref="teig">Teig</objectName> <lb/> machs zu <lb/> vnd backs <lb/> vnd laß kalt werden <lb/> so wirt es gut vnnd wolgeschmack. </p>
             </div>
         </body>
     </text>

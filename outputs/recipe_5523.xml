@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>LAsset zuvörderst den kalten Braten zu kleinen dinnen Schnittlein oder Plätzlein zerschneiden <lb/> giesset Fleischbrüh und entweder einen Holbeer = oder aber nur gemeinen Essig daran ; mischet gerieben rocken Brod <lb/> oder auch ein wenig eingebrenntes Mehl <lb/> und zu letzt das Marck von einer Citronen <lb/> und etwan dergleichen würfflicht = geschnittene Schelffen darunter : mischets mit Ingber <lb/> Pfeffer <lb/> Cardamomen und Muscaten = Blüh <lb/> last es sieden ; werfft aber zu letzt ein Stuck Butter darein <lb/> daß es zu einem dicken Brühlein werde <lb/> und tragets dann zu Tisch.</p>
+        <p> LAsset zuvörderst den kalten Braten zu kleinen dinnen Schnittlein oder Plätzlein zerschneiden <lb/> giesset Fleischbrüh und entweder einen Holbeer = oder aber nur gemeinen <objectName ref="essig">Essig</objectName> daran; mischet gerieben rocken Brod <lb/> oder auch ein wenig eingebrenntes <objectName ref="mehl">Mehl</objectName> <lb/> und zu letzt das Marck von einer Citronen <lb/> und etwan dergleichen würfflicht = geschnittene Schelffen darunter : mischets mit Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Cardamomen und Muscaten = Blüh <lb/> last es sieden; werfft aber zu letzt ein Stuck <objectName ref="butter">Butter</objectName> darein <lb/> daß es zu einem dicken Brühlein werde <lb/> und tragets dann zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

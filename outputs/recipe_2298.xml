@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mach also an Wie oben die Nudl, aber ein Wenig mehr Sembl, vnd doch <lb/> mehr aÿr, auch ringer angemacht, gieß in ein fazenet, oder säkhl, <lb/> Wie ein Plenkhen, binds Zue, laß in einem hafen Sieden, in einer <lb/> fleischbrüe, schneids auf ein schißl, ein Puter süpl drüber, ist bereith.</p>
+        <p> Mach also an Wie oben die Nudl, aber ein Wenig mehr Sembl, vnd doch <lb/> mehr aÿr, auch ringer angemacht, gieß in ein fazenet, oder säkhl, <lb/> Wie ein Plenkhen, binds Zue, laß in einem <objectName ref="hafen">hafen</objectName> Sieden, in einer <lb/> fleischbrüe, schneids auf ein schißl, ein Puter süpl drüber, ist bereith. </p>
             </div>
         </body>
     </text>

@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Puter vnd lablets Wasser durcheinander, weich ein blat an, <lb/> schneids Zu stükhlein, Welge es din auß, Sez auf wie ein Zwifl= <lb/> khnopf, villerleÿ fühlen drein, so ist er bereith. <lb/></p>
+        <p> Nimb Puter vnd lablets <objectName ref="wasser">Wasser</objectName> durcheinander, weich ein blat an, <lb/> schneids Zu stükhlein, Welge es din auß, Sez auf wie ein Zwifl= <lb/> khnopf, villerleÿ fühlen drein, so ist er bereith. <lb/> </p>
             </div>
         </body>
     </text>

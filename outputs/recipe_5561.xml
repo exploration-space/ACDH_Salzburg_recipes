@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Eyer <lb/> schlag sie durcheinander <lb/> vn(d) laß sie durch ein Härin Tuch lauffen <lb/> saltz die Eyer <lb/> vn(d) geuß sie in gesotte(n) Milch <lb/> rürs vmb <lb/> biß auffseudt vnd gerinnet <lb/> schüt es auff ein Durchschlag <lb/> vnd laß wol kalt werden <lb/> vnnd beschwers mit etwas <lb/> thu es auff ein saubers Bret <lb/> vn(d) schneidt es fein länglicht <lb/> wie du wilt <lb/> wirffs in heisse Butter <lb/> machs fein bräunlicht <lb/> gibs warm vnd trucken auff ein Tisch <lb/> vnnd besträw es mit weissem Zucker <lb/> so ist es gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) Eyer <lb/> schlag sie durcheinander <lb/> vn ( d ) laß sie durch ein Härin <objectName ref="tuch">Tuch</objectName> lauffen <lb/> saltz die Eyer <lb/> vn ( d ) geuß sie in gesotte ( n ) <objectName ref="milch">Milch</objectName> <lb/> rürs vmb <lb/> biß auffseudt vnd gerinnet <lb/> schüt es auff ein <objectName ref="durchschlag">Durchschlag</objectName> <lb/> vnd laß wol kalt werden <lb/> vnnd beschwers mit etwas <lb/> thu es auff ein saubers Bret <lb/> vn ( d ) schneidt es fein länglicht <lb/> wie du wilt <lb/> wirffs in heisse <objectName ref="butter">Butter</objectName> <lb/> machs fein bräunlicht <lb/> gibs warm vnd trucken auff ein <objectName ref="tisch">Tisch</objectName> <lb/> vnnd besträw es mit weissem <objectName ref="zucker">Zucker</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

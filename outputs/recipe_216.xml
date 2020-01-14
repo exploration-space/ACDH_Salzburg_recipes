@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb schöne Grosse öpfel, schöls<gap/> Zuuor <lb/><lb/> (ve 102) schneidts Rundt gar Din, nimb halb <lb/> wasser vnnd halb wein, vnd ein Grossen <lb/> brockhen<gap/> schmalz<gap/>, las warm werden, <lb/> mach ein taig<gap/> an riehr<gap/> in woll ab, <lb/> schlag von .1. oder .2. Ayrn<gap/> die Clar <lb/> darein mach ihn wie ein strauben <lb/> taig<gap/>, nit Gar Zu dickh<gap/>, wan du es ein= <lb/> legen wilst, lass den thaig<gap/> daruon <lb/> rinen, das sye din werden, bach<gap/> es <lb/> schön in schmalz. <lb/></p>
+        <p> Nimb schöne Grosse öpfel, schöls<gap/> Zuuor <lb/><lb/> ( ve 102 ) schneidts Rundt gar Din, nimb halb <lb/> <objectName ref="wasser">wasser</objectName> vnnd halb <objectName ref="wein">wein</objectName>, vnd ein Grossen <lb/> brockhen<gap/> schmalz<gap/>, las warm werden, <lb/> mach ein taig<gap/> an riehr<gap/> in woll ab, <lb/> schlag von.1. oder.2. Ayrn<gap/> die Clar <lb/> darein mach ihn wie ein <objectName ref="strauben">strauben</objectName> <lb/> taig<gap/>, nit Gar Zu dickh<gap/>, wan du es ein= <lb/> legen wilst, lass den thaig<gap/> daruon <lb/> rinen, das sye din werden, bach<gap/> es <lb/> schön in <objectName ref="schmalz">schmalz</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

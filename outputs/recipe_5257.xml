@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) sie <lb/> vn(d) wasch sie auß laulichtem Wasser drey oder viermal <lb/> daß der Sandt wol davon kompt <lb/> setz sie zu mit halb Wasser <lb/> vnd halb Wein <lb/> auch mit gestossenem Pfeffer <lb/> laß darmit sieden ein halbe stundt <lb/> gibs trucken vnd warm auff ein Tisch <lb/> vnnd gestossen Pfeffer darzu. Vnd wenn sie sauber außgewäschen seyn <lb/> so darff man sie nicht schelen <lb/> wenn man sie essen wil. Vnd du mußt sie ein wenig saltzen <lb/> so werden sie desto wolgeschmacker.</p>
+        <p> Nim ( m ) sie <lb/> vn ( d ) wasch sie auß laulichtem <objectName ref="wasser">Wasser</objectName> drey oder viermal <lb/> daß der Sandt wol davon kompt <lb/> setz sie zu mit halb <objectName ref="wasser">Wasser</objectName> <lb/> vnd halb <objectName ref="wein">Wein</objectName> <lb/> auch mit gestossenem <objectName ref="pfeffer">Pfeffer</objectName> <lb/> laß darmit sieden ein halbe stundt <lb/> gibs trucken vnd warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> vnnd gestossen <objectName ref="pfeffer">Pfeffer</objectName> darzu. Vnd wenn sie sauber außgewäschen seyn <lb/> so darff man sie nicht schelen <lb/> wenn man sie essen wil. Vnd du mußt sie ein wenig saltzen <lb/> so werden sie desto wolgeschmacker. </p>
             </div>
         </body>
     </text>

@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>RUben so lang <lb/> schneidt man nach der Läng entzwey <lb/> höhlet sie aus <lb/> und füllet sie mit allerhand Gehäck und Füll <lb/> wie die grosse Krebs und grosse Cucummern <lb/> im Anrichten werden sie Stern= weiß auf die Schüssel gelegt <lb/> das dicke Theil auswendig <lb/> und die Füll übersich <lb/> und auf die Mitte ein grosse gefüllte Rub <lb/> Semmel oder Pulpedon, die andere Gattung von Ruben seynd hierinn vielfältig angehenckt und untermischt.</p>
+        <p> RUben so lang <lb/> schneidt man nach der Läng entzwey <lb/> höhlet sie aus <lb/> und füllet sie mit allerhand <objectName ref="gehaeck">Gehäck</objectName> und Füll <lb/> wie die grosse Krebs und grosse Cucummern <lb/> im Anrichten werden sie Stern= weiß auf die <objectName ref="schuessel">Schüssel</objectName> gelegt <lb/> das dicke Theil auswendig <lb/> und die Füll übersich <lb/> und auf die Mitte ein grosse gefüllte Rub <lb/> Semmel oder Pulpedon, die andere Gattung von Ruben seynd hierinn vielfältig angehenckt und untermischt. </p>
             </div>
         </body>
     </text>

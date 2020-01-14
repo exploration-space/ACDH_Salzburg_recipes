@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb rohe khlaine khrebsen, thue die hilß vnd das gelbe <lb/> herauß, thues in austern scholln, sezs auf ein glietl, thue <lb/> Maran, Petersill ein Wenig dran, auch Pfeffer vnd <lb/> Mußcatblüe. <lb/></p>
+        <p> Nimb rohe khlaine khrebsen, thue die hilß vnd das gelbe <lb/> herauß, thues in <objectName ref="austern">austern</objectName> scholln, sezs auf ein glietl, thue <lb/> Maran, Petersill ein Wenig dran, auch <objectName ref="pfeffer">Pfeffer</objectName> vnd <lb/> Mußcatblüe. <lb/> </p>
             </div>
         </body>
     </text>

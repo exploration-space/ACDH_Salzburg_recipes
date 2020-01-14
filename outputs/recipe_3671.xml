@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Weich ein oder anderthalb schön weisse Kreutzer= Semmel in ein gute süsse Milch <lb/> laß weich werden <lb/> trucks darnach wol aus <lb/> und treib ein Viertung <lb/> oder mehr Butter <lb/> oder schönes frisches Schmaltz pflaumig ab <lb/> und darnach die Semmel schön glat darunter <lb/> und schlag funffzehen oder sechzehen frische Eyer darein <lb/> so offt zwey Dotter <lb/> so offt ein ganzes Ey <lb/> rührs stets <lb/> daß schön hoch aufgeht <lb/> und pflaumig wird <lb/> zuckers so süß du es haben willst <lb/> nimm auch klein= geschnittne Lemoni= Schelffen und Citroni <lb/> schmirb ein Schüssel und Reiff mit Butter <lb/> bachs schön langsam <lb/> also ist es recht.</p>
+        <p> Weich ein oder anderthalb schön weisse Kreutzer= Semmel in ein gute süsse <objectName ref="milch">Milch</objectName> <lb/> laß weich werden <lb/> trucks darnach wol aus <lb/> und treib ein <objectName ref="viertung">Viertung</objectName> <lb/> oder mehr <objectName ref="butter">Butter</objectName> <lb/> oder schönes frisches Schmaltz pflaumig ab <lb/> und darnach die Semmel schön glat darunter <lb/> und schlag funffzehen oder sechzehen frische Eyer darein <lb/> so offt zwey Dotter <lb/> so offt ein ganzes Ey <lb/> rührs stets <lb/> daß schön hoch aufgeht <lb/> und pflaumig wird <lb/> zuckers so süß du es haben willst <lb/> nimm auch klein= geschnittne Lemoni= Schelffen und Citroni <lb/> schmirb ein <objectName ref="schuessel">Schüssel</objectName> und Reiff mit <objectName ref="butter">Butter</objectName> <lb/> bachs schön langsam <lb/> also ist es recht. </p>
             </div>
         </body>
     </text>

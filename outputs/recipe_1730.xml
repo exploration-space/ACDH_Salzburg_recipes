@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>bints in ain Faß, vnd laß sieden, wan Er <lb/> halb gesoten ist, so geuß ain guete Khandl <lb/> Essich daran, wein, vnd Salz. <lb/></p>
+        <p> bints in ain Faß, vnd laß sieden, wan Er <lb/> halb gesoten ist, so geuß ain guete Khandl <lb/> Essich daran, <objectName ref="wein">wein</objectName>, vnd <objectName ref="salz">Salz</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

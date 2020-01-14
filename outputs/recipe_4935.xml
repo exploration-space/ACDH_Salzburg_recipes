@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIedet das Vorhäs <lb/> wie allbereit gemeldet <lb/> und machet den Pfeffer darüber <lb/> wie selbiger bey dem Wildpret <lb/> im gleich nachfolgenden Neundten Theil <lb/> an seinem Ort beschrieben werden wird; davon so wol der daselbst vorangesetzte Inhalt <lb/> als auch das zu End befindliche Register <lb/> Nachricht geben kan.</p>
+        <p> SIedet das Vorhäs <lb/> wie allbereit gemeldet <lb/> und machet den <objectName ref="pfeffer">Pfeffer</objectName> darüber <lb/> wie selbiger bey dem Wildpret <lb/> im gleich nachfolgenden Neundten Theil <lb/> an seinem Ort beschrieben werden wird; davon so wol der daselbst vorangesetzte Inhalt <lb/> als auch das zu End befindliche Register <lb/> Nachricht geben kan. </p>
             </div>
         </body>
     </text>

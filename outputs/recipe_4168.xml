@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn muß die Salbling <lb/> oder Forellen schön blau absieden <lb/> und in der Brühe kalt werden lassen <lb/> hernach werden sie in die Schüssel gelegt <lb/> mit einer schönen Haussen= Blatter garniert ; wie bey dem Hecht zu lesen N°. 3 in dem nechsten und 3. Capitel.</p>
+        <p> MAn muß die Salbling <lb/> oder <objectName ref="forelle">Forellen</objectName> schön blau absieden <lb/> und in der <objectName ref="bruehe">Brühe</objectName> kalt werden lassen <lb/> hernach werden sie in die <objectName ref="schuessel">Schüssel</objectName> gelegt <lb/> mit einer schönen Haussen= Blatter garniert; wie bey dem <objectName ref="hecht">Hecht</objectName> zu lesen N°. 3 in dem nechsten und 3. Capitel. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Erstlich siede<gap/> den Höchten blau ab <lb/> lass in ein wenig in den Essig <lb/> ligen stoss<gap/> den Krön schen Klein <lb/> mit ein stuckh<gap/> Putter auch ein <lb/><lb/> (ve 45) semel Molln<gap/> in ein Arbes brie<gap/> <lb/> Gewaigt<gap/> thue alles in ein häffl<gap/> <lb/> Gies<gap/> ein Arbes brie daran salz <lb/> lass sieden<gap/> leg butter daran <lb/> leg die fisch auf ein schisßl<gap/> Gieß<gap/> die <lb/> brie<gap/> daryber deckhe ihm Zue lass <lb/> ihm ein wenig breglen<gap/> <lb/></p>
+        <p> Erstlich siede<gap/> den Höchten blau ab <lb/> lass in ein wenig in den <objectName ref="essig">Essig</objectName> <lb/> ligen stoss<gap/> den Krön schen Klein <lb/> mit ein stuckh<gap/> Putter auch ein <lb/><lb/> ( ve 45 ) semel Molln<gap/> in ein Arbes brie<gap/> <lb/> Gewaigt<gap/> thue alles in ein häffl<gap/> <lb/> Gies<gap/> ein Arbes brie daran <objectName ref="salz">salz</objectName> <lb/> lass sieden<gap/> leg <objectName ref="butter">butter</objectName> daran <lb/> leg die <objectName ref="fisch">fisch</objectName> auf ein schisßl<gap/> Gieß<gap/> die <lb/> brie<gap/> daryber deckhe ihm Zue lass <lb/> ihm ein wenig breglen<gap/> <lb/> </p>
             </div>
         </body>
     </text>

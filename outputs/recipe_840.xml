@@ -170,9 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Scheele und halbiere süß oder saure Aepffel <lb/> und bräune sie aus Schmaltz <lb/> die süssen richte mit wol Zucker <lb/> Wein <lb/> und Zimmet=Stup <lb/> auch mit sauber gebutzten schwartzen Weinbeerlein in ein Casserol <lb/> oder erdene Rein <lb/> die sauren Aepffel aber gleich auf die Schaalen <lb/> laß zugedeckter kochen <lb/> und gibs mit kurtzer Brühe <lb/> mit Zucker bestreuter.
-
-NB. Wer will kann sauber geklaubte Pinioli, oder langlecht geschnittne Mandeln darein nehmen.</p>
+        <p> Scheele und halbiere süß oder saure Aepffel <lb/> und bräune sie aus Schmaltz <lb/> die süssen richte mit wol <objectName ref="zucker">Zucker</objectName> <lb/> <objectName ref="wein">Wein</objectName> <lb/> und Zimmet=Stup <lb/> auch mit sauber gebutzten schwartzen Weinbeerlein in ein Casserol <lb/> oder erdene <objectName ref="rein">Rein</objectName> <lb/> die sauren Aepffel aber gleich auf die Schaalen <lb/> laß zugedeckter kochen <lb/> und gibs mit kurtzer <objectName ref="bruehe">Brühe</objectName> <lb/> mit <objectName ref="zucker">Zucker</objectName> bestreuter. NB. Wer will kann sauber geklaubte Pinioli, oder langlecht geschnittne <objectName ref="mandeln">Mandeln</objectName> darein nehmen. </p>
             </div>
         </body>
     </text>

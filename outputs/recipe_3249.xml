@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DErgleichen Reh= Rucken wird ausgelößter <lb/> gespickter <lb/> oder ungespickter mit Butter <lb/> Speck <lb/> Eßig und Wein <lb/> Lemoni= Schelffen <lb/> Rosmarin <lb/> guten Gewürtz <lb/> mit Meel oder Brod braun eingebrennt <lb/> und letztlich mit fäumigen Butter <lb/> oder heissem Schmaltz ein weniges Näglein= Stup darein geröst <lb/> mit Fleischbrühe in kurzer Suppen verdeckter gedämpfft.</p>
+        <p> DErgleichen Reh= Rucken wird ausgelößter <lb/> gespickter <lb/> oder ungespickter mit <objectName ref="butter">Butter</objectName> <lb/> <objectName ref="speck">Speck</objectName> <lb/> Eßig und <objectName ref="wein">Wein</objectName> <lb/> Lemoni= Schelffen <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> guten Gewürtz <lb/> mit Meel oder Brod braun eingebrennt <lb/> und letztlich mit fäumigen <objectName ref="butter">Butter</objectName> <lb/> oder heissem Schmaltz ein weniges Näglein= Stup darein geröst <lb/> mit <objectName ref="fleischbruehe">Fleischbrühe</objectName> in kurzer <objectName ref="suppe">Suppen</objectName> verdeckter gedämpfft. </p>
             </div>
         </body>
     </text>

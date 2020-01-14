@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>HAuet einen Kalbs= Rucken in Stücken <lb/> oder lasset ihn nach belieben gantz <lb/> jedoch aber nicht all zu weich sieden; schneidet inzwischen ein gut theil frischen Speck und Majoran darunter; hebet das Fleisch aus seiner eigenen Brüh heraus <lb/> in einem stollichten Hafen <lb/> thut das geschnittene vom Speck und Majoran dazu <lb/> würtzet es wohl mit Ingber <lb/> Pfeffer und Muscatnüssen <lb/> last es ferner sieden <lb/> jedoch nicht gar zu lang <lb/> damit der Speck nicht all zu sehr zergehe: Richtet es dann in eine Schüssel <lb/> und tragets zu Tisch.</p>
+        <p> HAuet einen Kalbs= Rucken in Stücken <lb/> oder lasset ihn nach belieben gantz <lb/> jedoch aber nicht all zu weich sieden; schneidet inzwischen ein gut theil frischen <objectName ref="speck">Speck</objectName> und <objectName ref="majoran">Majoran</objectName> darunter; hebet das <objectName ref="fleisch">Fleisch</objectName> aus seiner eigenen Brüh heraus <lb/> in einem stollichten <objectName ref="hafen">Hafen</objectName> <lb/> thut das geschnittene vom <objectName ref="speck">Speck</objectName> und <objectName ref="majoran">Majoran</objectName> dazu <lb/> würtzet es wohl mit Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Muscatnüssen <lb/> last es ferner sieden <lb/> jedoch nicht gar zu lang <lb/> damit der <objectName ref="speck">Speck</objectName> nicht all zu sehr zergehe : Richtet es dann in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und tragets zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

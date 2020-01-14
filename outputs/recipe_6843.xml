@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schweinen Knödel eyngemacht in eine Pasteten <lb/> die von Ruckenteig auffgetrieben ist.</p>
+        <p> Schweinen <objectName ref="knoedel">Knödel</objectName> eyngemacht in eine <objectName ref="pastete">Pasteten</objectName> <lb/> die von Ruckenteig auffgetrieben ist. </p>
             </div>
         </body>
     </text>

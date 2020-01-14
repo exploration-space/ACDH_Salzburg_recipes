@@ -169,11 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Kütten siedts waich, schlags. durch, nimb. 3 Ayr dotter, schlags <lb/> darunder, nimb. 3 löfluoll Obere  milch, riers durcheinander ab, vnd zuckh= <lb/> ers, nimb in ein schisßl schmalz, söz auf ein gluett, vnd lasß zergehen, <lb/> Thues undereinandere schisßl, vnd oben auf ein gluett, lass siedten, So <lb/> wirdts wie ein Mandlkhoch, Sträe aber obenauf ein zuckher, So ists <lb/> Förttig.<lb/>.
-
-
-
-</p>
+        <p> Nimb Kütten siedts waich, schlags. durch, nimb. 3 Ayr dotter, schlags <lb/> darunder, nimb. 3 löfluoll Obere <objectName ref="milch">milch</objectName>, riers durcheinander ab, vnd zuckh= <lb/> ers, nimb in ein schisßl <objectName ref="schmalz">schmalz</objectName>, söz auf ein gluett, vnd lasß zergehen, <lb/> Thues undereinandere schisßl, vnd oben auf ein gluett, lass siedten, So <lb/> wirdts wie ein Mandlkhoch, Sträe aber obenauf ein zuckher, So ists <lb/> Förttig./. </p>
             </div>
         </body>
     </text>

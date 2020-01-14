@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm frisch und gantz brätiges Rind = Fleisch <lb/> hacke es gantz klein <lb/> mit gutem Speck <lb/> wohlriechenden Kräutlein <lb/> Gewürtz und Fetten <lb/> wenig zerdruckten Knoblauch <lb/> Zwibel <lb/> wenig Wein <lb/> oder Ram und Saltz ; alles wohl untereinander vermischet ; in die schweinerne oder rinderne Därm gefüllt <lb/> geselcht <lb/> oder frischer gesotten <lb/> und abgebräunt <lb/> auch Strutzen oder Ballen daraus gemacht <lb/> in allerhand Ruben <lb/> Kraut <lb/> weiß und braun gemischte Speisen <lb/> dienet auch vor die Herren Feld = Köch.</p>
+        <p> Nimm frisch und gantz brätiges Rind = <objectName ref="fleisch">Fleisch</objectName> <lb/> hacke es gantz klein <lb/> mit gutem <objectName ref="speck">Speck</objectName> <lb/> wohlriechenden Kräutlein <lb/> Gewürtz und Fetten <lb/> wenig zerdruckten <objectName ref="knoblauch">Knoblauch</objectName> <lb/> Zwibel <lb/> wenig <objectName ref="wein">Wein</objectName> <lb/> oder Ram und Saltz; alles wohl untereinander vermischet; in die schweinerne oder rinderne Därm gefüllt <lb/> geselcht <lb/> oder frischer gesotten <lb/> und abgebräunt <lb/> auch Strutzen oder Ballen daraus gemacht <lb/> in allerhand Ruben <lb/> <objectName ref="kraut">Kraut</objectName> <lb/> weiß und braun gemischte Speisen <lb/> dienet auch vor die Herren Feld = Köch. </p>
             </div>
         </body>
     </text>

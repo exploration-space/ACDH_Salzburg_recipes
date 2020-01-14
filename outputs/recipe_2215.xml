@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb 9. Aÿrdoter, vnd 2. löffl voll Zukher, vnd ein khändl milch, vnd <lb/> schmalz, einer halben Nuß groß, vnd ein guets khürnigs mell, mach ein <lb/> taig auß dem allem, treib die Subtill, vnd bachs, sie Werden fast marb. <lb/></p>
+        <p> Nimb 9. Aÿrdoter, vnd 2. löffl voll Zukher, vnd ein khändl <objectName ref="milch">milch</objectName>, vnd <lb/> <objectName ref="schmalz">schmalz</objectName>, einer halben Nuß groß, vnd ein guets khürnigs mell, mach ein <lb/> taig auß dem allem, treib die Subtill, vnd bachs, sie Werden fast marb. <lb/> </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wann die Datteln von dem kern gesondert <lb/> so weiche sie in den stärckesten Wein <lb/> zwey <lb/> drey oder noch mehr Stunden <lb/> setz es mit Zucker <lb/> bedeckter <lb/> übers Feuer <lb/> laß kurtz einkochen <lb/> beym Anrichten gib wenig Zimmet=Stup darüber.</p>
+        <p> Wann die <objectName ref="datteln">Datteln</objectName> von dem kern gesondert <lb/> so weiche sie in den stärckesten <objectName ref="wein">Wein</objectName> <lb/> zwey <lb/> drey oder noch mehr Stunden <lb/> setz es mit <objectName ref="zucker">Zucker</objectName> <lb/> bedeckter <lb/> übers <objectName ref="feuer">Feuer</objectName> <lb/> laß kurtz einkochen <lb/> beym Anrichten gib wenig Zimmet=Stup darüber. </p>
             </div>
         </body>
     </text>

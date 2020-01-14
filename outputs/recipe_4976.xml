@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SEtzet die Erd= Aepffel im Wasser zu; wann sie eine kleine weile gesotten haben <lb/> so giesst das Wasser herab <lb/> und ein kaltes darüber <lb/> schneidets Plätzlein= weiß; sind sie aber nicht groß <lb/> kan man sie gantz lassen: darnach machets wie man die Kohl= Ruben macht; oder man kan sie auch kalt im Essig und Oel <lb/> als einen Salat <lb/> geniessen.</p>
+        <p> SEtzet die Erd= Aepffel im <objectName ref="wasser">Wasser</objectName> zu; wann sie eine kleine weile gesotten haben <lb/> so giesst das <objectName ref="wasser">Wasser</objectName> herab <lb/> und ein kaltes darüber <lb/> schneidets Plätzlein= weiß; sind sie aber nicht groß <lb/> kan man sie gantz lassen : darnach machets wie man die Kohl= Ruben macht; oder man kan sie auch kalt im <objectName ref="essig">Essig</objectName> und Oel <lb/> als einen <objectName ref="salat">Salat</objectName> <lb/> geniessen. </p>
             </div>
         </body>
     </text>

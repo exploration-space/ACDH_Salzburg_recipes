@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Hackhe ein Kölbernes bräd<gap/>, aber nit so <lb/><lb/> (ve 3) Khlein als ein Anders Gehäckh, schlage <lb/> 2. oder .3. Ayr<gap/> Darein, nimb <lb/> ein löffel voll Mell, rests<gap/> in haissen <lb/> schmalz<gap/> oder Zergangnen butter, <lb/> vnnd thue Lemony<gap/> Käppern<gap/>, vnd ein <lb/> wönig Fleisch brüe<gap/> Daran, rests<gap/> auf <lb/> der Gluett<gap/>, aber nit lang, das es <lb/> nit sper<gap/> würdt so ists recht. <lb/></p>
+        <p> Hackhe ein Kölbernes bräd<gap/>, aber nit so <lb/><lb/> ( ve 3 ) Khlein als ein Anders Gehäckh, schlage <lb/> 2. oder.3. Ayr<gap/> Darein, nimb <lb/> ein <objectName ref="loeffel">löffel</objectName> voll Mell, rests<gap/> in haissen <lb/> schmalz<gap/> oder Zergangnen <objectName ref="butter">butter</objectName>, <lb/> vnnd thue Lemony<gap/> Käppern<gap/>, vnd ein <lb/> wönig <objectName ref="fleisch">Fleisch</objectName> brüe<gap/> Daran, rests<gap/> auf <lb/> der Gluett<gap/>, aber nit lang, das es <lb/> nit sper<gap/> würdt so ists recht. <lb/> </p>
             </div>
         </body>
     </text>

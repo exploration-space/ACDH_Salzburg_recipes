@@ -167,10 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>GIesset unter einen schönen geläuterten Zucker einen Saurach= oder Wein= Lägelein= Safft <lb/> rührets wohl unter einander <lb/> biß der Zucker feucht und dick wird <lb/> schneidet <lb/> nach belieben <lb/> Pistacien= Nüßlein darein; giessets dann auf einen Marmorstein <lb/> oder zinnerns Blech <lb/> und schneidet oder formirets <lb/> nach gefallen <lb/> zu Stritzeln oder Morselln. <gap/>
-
-<gap/> Diese Morselln können auch gemachet werden <lb/> wie die Num. 140. beschriebene Citronen= Morselln.
-</p>
+        <p> GIesset unter einen schönen geläuterten <objectName ref="zucker">Zucker</objectName> einen Saurach= oder Wein= Lägelein= Safft <lb/> rührets wohl unter einander <lb/> biß der <objectName ref="zucker">Zucker</objectName> feucht und dick wird <lb/> schneidet <lb/> nach belieben <lb/> Pistacien= Nüßlein darein; giessets dann auf einen Marmorstein <lb/> oder zinnerns <objectName ref="blech">Blech</objectName> <lb/> und schneidet oder formirets <lb/> nach gefallen <lb/> zu Stritzeln oder Morselln. <gap/> <gap/> Diese Morselln können auch gemachet werden <lb/> wie die Num. 140. beschriebene Citronen= Morselln. </p>
             </div>
         </body>
     </text>

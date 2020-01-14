@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>EYer= Salat <lb/> hart gesotten <lb/> zerschnitten <lb/> und zum Salat gemacht mit Eßig und Oel.</p>
+        <p> EYer= <objectName ref="salat">Salat</objectName> <lb/> hart gesotten <lb/> zerschnitten <lb/> und zum <objectName ref="salat">Salat</objectName> gemacht mit Eßig und Oel. </p>
             </div>
         </body>
     </text>

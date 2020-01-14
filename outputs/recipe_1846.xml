@@ -170,16 +170,7 @@ Willst du eine gute Suppe aus Mandeln und Wein zubereiten, dann zerkleinere die 
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WIldu machn̄ ein gutte prue von mād̄l
-vnd von wein so stoss den mādel klain vnd
-streich in durch mit dem wein vnd tu ÿmbʾ
-dar ein vnd ein durrē visch prue auch
-ein winczgʾis dar vndʾ ob du dʾ visch
-prue nicht hiest so geuss ein winczigs
-wasβ dar vnder vnd mach es gel Alz
-du es anrichtest so sneÿd gepat semel
-dar ein wurfflot vnd solt gebn̄ an dem
-Charfreÿtag fur ein suppen odʾ wā du wild</p>
+        <p> WIldu machn̄ ein gutte prue von mād̄l vnd von <objectName ref="wein">wein</objectName> so stoss den mādel klain vnd streich in durch mit dem <objectName ref="wein">wein</objectName> vnd tu ÿmbʾ dar ein vnd ein durrē visch prue auch ein winczgʾis dar vndʾ ob du dʾ visch prue nicht hiest so geuss ein winczigs wasβ dar vnder vnd mach es gel Alz du es anrichtest so sneÿd gepat semel dar ein wurfflot vnd solt gebn̄ an dem Charfreÿtag fur ein <objectName ref="suppe">suppen</objectName> odʾ wā du <objectName ref="wild">wild</objectName> </p>
             </div>
         </body>
     </text>

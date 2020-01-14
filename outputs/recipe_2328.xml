@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein ÿberblibnes Prät, hakhs khlein, Wie Zu einem gehäkht, nimb ein <lb/> geribne Sembl, rests im schmalz oder Buter, thues in das gehakht brät, schlag <lb/> aÿr 4 oder 5. dran, nach dem dus groß machen thuest, nimb ein Rämbl, <lb/> darzue, sez ein schmalz ÿber, laß nit gar haiß Werden, thue die angemachte <lb/> fihl drein, unden vnd oben ein gluet, laß bachen, Wans genueg ist, so <lb/> thues herauß, schneid Pafesen drauß, richts auf ein schißl, geuß Puter <lb/> drauf, gibs Warmb. <lb/></p>
+        <p> Nimb ein ÿberblibnes Prät, hakhs khlein, Wie Zu einem gehäkht, nimb ein <lb/> geribne Sembl, rests im <objectName ref="schmalz">schmalz</objectName> oder Buter, thues in das gehakht brät, schlag <lb/> aÿr 4 oder 5. dran, nach dem dus groß machen thuest, nimb ein Rämbl, <lb/> darzue, sez ein <objectName ref="schmalz">schmalz</objectName> ÿber, laß nit gar haiß Werden, thue die angemachte <lb/> fihl drein, unden vnd oben ein gluet, laß bachen, Wans genueg ist, so <lb/> thues herauß, schneid Pafesen drauß, richts auf ein schißl, geuß Puter <lb/> drauf, gibs Warmb. <lb/> </p>
             </div>
         </body>
     </text>

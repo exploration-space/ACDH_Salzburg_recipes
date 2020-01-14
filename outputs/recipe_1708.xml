@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Stosß <lb/> die Mandl klain, geuß Roßenwasser darzue, <lb/> vnnd nembt Weinbör darunter vnnd zugger, <lb/> treibts woll ab mit ainen gueten Wein, streichs <lb/> glat auf den taig, Salz nit, bachs nit zu hart. <lb/></p>
+        <p> Stosß <lb/> die Mandl klain, geuß Roßenwasser darzue, <lb/> vnnd nembt Weinbör darunter vnnd zugger, <lb/> treibts woll ab mit ainen gueten <objectName ref="wein">Wein</objectName>, streichs <lb/> glat auf den taig, <objectName ref="salz">Salz</objectName> nit, bachs nit zu hart. <lb/> </p>
             </div>
         </body>
     </text>

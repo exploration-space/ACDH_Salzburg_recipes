@@ -169,9 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Laß die Sültzen gar an die statt sieden <lb/> schneidt sie zween Finger breit <lb/> vnd steck sie an ein höltzern Spieß <lb/> leg sie auff ein Roßt <lb/> vnnd brats <lb/> begeuß mit frischer vngeschmältzter Butter <lb/> vnnd wann du es anrichtest <lb/> so besträw es mit gestossenem Pfeffer vnnd Saltz <lb/> so ist es gut vnnd wolgeschmack.
-
-</p>
+        <p> Laß die Sültzen gar an die statt sieden <lb/> schneidt sie zween Finger breit <lb/> vnd steck sie an ein höltzern <objectName ref="spiess">Spieß</objectName> <lb/> leg sie auff ein Roßt <lb/> vnnd brats <lb/> begeuß mit frischer vngeschmältzter <objectName ref="butter">Butter</objectName> <lb/> vnnd wann du es anrichtest <lb/> so besträw es mit gestossenem <objectName ref="pfeffer">Pfeffer</objectName> vnnd Saltz <lb/> so ist es gut vnnd wolgeschmack. </p>
             </div>
         </body>
     </text>

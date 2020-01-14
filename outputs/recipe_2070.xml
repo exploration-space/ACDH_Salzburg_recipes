@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Ists ein Ferchen, thue es auf, schneid Wie du Wilt einschlagen <lb/> khrump oder khrat, Salz ein, gewürz mit Imber vnd <lb/> Pfeffer, leg darzue Saluel: vnd Lorbeerbleter, spreng <lb/> ein wenig Essig drauf, laß ein halben tag stehn, mach den <lb/> taig an guet oder schlecht, wie du wilt, richt den visch wie <lb/> du Wilt, drein, an boden, vnd auf den visch allerleÿ <lb/> gewürz, Puter vnd Lorbeer, auch Saluelblätl, die miessen <lb/> frisch sein, machs Zue, vnd bachs, gibs khalt, ist es aber ein <lb/> khärpfen, oder ein altn, So thue die schieppn daruon, <lb/> vnd nimb khein Essig, nur Woll ein gesalzen, richts ein wie <lb/> die ferchen, gibs khalt, oder mach ein brüelein drüber. <lb/></p>
+        <p> Ists ein Ferchen, thue es auf, schneid Wie du Wilt einschlagen <lb/> khrump oder khrat, <objectName ref="salz">Salz</objectName> ein, gewürz mit Imber vnd <lb/> <objectName ref="pfeffer">Pfeffer</objectName>, leg darzue Saluel : vnd Lorbeerbleter, spreng <lb/> ein wenig <objectName ref="essig">Essig</objectName> drauf, laß ein halben tag stehn, mach den <lb/> taig an guet oder schlecht, wie du wilt, richt den visch wie <lb/> du Wilt, drein, an boden, vnd auf den visch allerleÿ <lb/> gewürz, Puter vnd <objectName ref="lorbeer-2">Lorbeer</objectName>, auch Saluelblätl, die miessen <lb/> frisch sein, machs Zue, vnd bachs, gibs khalt, ist es aber ein <lb/> khärpfen, oder ein altn, So thue die schieppn daruon, <lb/> vnd nimb khein <objectName ref="essig">Essig</objectName>, nur Woll ein gesalzen, richts ein wie <lb/> die ferchen, gibs khalt, oder mach ein brüelein drüber. <lb/> </p>
             </div>
         </body>
     </text>

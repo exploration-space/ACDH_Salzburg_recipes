@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Treib ein Pasteten auff von weissem Teig <lb/> vnd mach sie eyn <lb/> es sey kalt oder warm <lb/> so ist es auff beyde manier gut.</p>
+        <p> Treib ein <objectName ref="pastete">Pasteten</objectName> auff von weissem <objectName ref="teig">Teig</objectName> <lb/> vnd mach sie eyn <lb/> es sey kalt oder warm <lb/> so ist es auff beyde manier gut. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Weichseln mit wol Zucker und gantzen Zimmet kurtz gesotten <lb/> wann sie noch die Stengel haben <lb/> seynd kalt und warm gut <lb/> schön zierlich in die Schüssel gericht <lb/> und den Safft dick darüber.</p>
+        <p> Weichseln mit wol <objectName ref="zucker">Zucker</objectName> und gantzen Zimmet kurtz gesotten <lb/> wann sie noch die Stengel haben <lb/> seynd kalt und warm gut <lb/> schön zierlich in die <objectName ref="schuessel">Schüssel</objectName> gericht <lb/> und den Safft dick darüber. </p>
             </div>
         </body>
     </text>

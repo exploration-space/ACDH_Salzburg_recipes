@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SCheel und schneide aus weiß oder rothen <lb/> oder andern sauren grossen und guten Aepffeln <lb/> dünne Blätter <lb/> so dünn es seyn kan <lb/> drucke mit einem runden blechenen Rohr die Stern oder Butzen heraus <lb/> mach einen Taig von Mund= Meel <lb/> und weissen Bier <lb/> so dünn als ein dünnes Kinds= Koch <lb/> duncke diese Aepffel= Rädlein darein <lb/> und bachs schön Liecht= gelb aus heissem Schmaltz <lb/> bey dem Anrichten dick mit Zucker bestreut <lb/> und mit einer glüenden Decken den Zucker gebrennt <lb/> seynd auch köstlich <lb/> absonderlich vor diese <lb/> so gern rösch essen.</p>
+        <p> SCheel und schneide aus weiß oder rothen <lb/> oder andern sauren grossen und guten Aepffeln <lb/> dünne Blätter <lb/> so dünn es seyn kan <lb/> drucke mit einem runden blechenen <objectName ref="rohr">Rohr</objectName> die Stern oder Butzen heraus <lb/> mach einen Taig von Mund= Meel <lb/> und weissen <objectName ref="bier">Bier</objectName> <lb/> so dünn als ein dünnes Kinds= Koch <lb/> duncke diese Aepffel= <objectName ref="raedlein">Rädlein</objectName> darein <lb/> und bachs schön Liecht= gelb aus heissem Schmaltz <lb/> bey dem Anrichten dick mit <objectName ref="zucker">Zucker</objectName> bestreut <lb/> und mit einer glüenden Decken den <objectName ref="zucker">Zucker</objectName> gebrennt <lb/> seynd auch köstlich <lb/> absonderlich vor diese <lb/> so gern rösch essen. </p>
             </div>
         </body>
     </text>

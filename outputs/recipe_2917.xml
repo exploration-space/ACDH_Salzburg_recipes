@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEn Carfiol gebrühter zu bachen <lb/> durch ein Eyer= Taiglein gezogen <lb/> aus heissem Schmaltz <lb/> gleich den Kälber= Füssen gebachen <lb/> ist gut zum Regalieren <lb/> auch warm <lb/> in allerhand weiß und brauner Jus.</p>
+        <p> DEn Carfiol gebrühter zu bachen <lb/> durch ein Eyer= Taiglein gezogen <lb/> aus heissem Schmaltz <lb/> gleich den Kälber= Füssen gebachen <lb/> ist gut zum Regalieren <lb/> auch warm <lb/> in allerhand weiß und brauner <objectName ref="jus">Jus</objectName>. </p>
             </div>
         </body>
     </text>

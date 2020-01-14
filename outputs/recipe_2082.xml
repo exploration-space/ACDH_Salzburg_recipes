@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schwëll die Zibeben in einem Wein, darnach laß khiel Werden, <lb/> Zukher vnd Zimet stup dran, fihls auf ein blat, Wie andere <lb/> dorten, mach ein außgeschnitnes blätl drüber, mach ein Eÿß <lb/> drüber, also schlag ein aÿr auf, khlopffs Woll, bestreich den <lb/> dorten dikh damit, säe Woll Zukher drauf Weill er noch naß <lb/> ist, Wan er bachen, säe Wider Zukher drauf, solches ist ÿber alle <lb/> obst dorten, bachs ÿber Wie andere dorten, so ist sie bereith. <lb/></p>
+        <p> Schwëll die <objectName ref="zibeben">Zibeben</objectName> in einem <objectName ref="wein">Wein</objectName>, darnach laß khiel Werden, <lb/> Zukher vnd Zimet stup dran, fihls auf ein blat, Wie andere <lb/> dorten, mach ein außgeschnitnes blätl drüber, mach ein Eÿß <lb/> drüber, also schlag ein aÿr auf, khlopffs Woll, bestreich den <lb/> dorten dikh damit, säe Woll Zukher drauf Weill er noch naß <lb/> ist, Wan er bachen, säe Wider Zukher drauf, solches ist ÿber alle <lb/> obst dorten, bachs ÿber Wie andere dorten, so ist sie bereith. <lb/> </p>
             </div>
         </body>
     </text>

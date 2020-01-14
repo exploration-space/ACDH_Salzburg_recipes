@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Siedte<gap/> das Wildtbrät in Wasser, <lb/> hackhe Zwifel<gap/>, vnd opfel<gap/> rests<gap/> in <lb/> schmalz<gap/>, auch semel bresl<gap/> thues <lb/> in ein häffl<gap/>, Gies<gap/> halb Wein vnd <lb/> halb fleisch brie<gap/>, auch Nögl<gap/>, vnnd <lb/> Zimmet stup<gap/>, vnd salzen, dan so <lb/> thue auch Zuckher, binolly<gap/>, vnnd <lb/> Pissdazy<gap/>, darzue las sieden<gap/>, vnnd <lb/> richts yber das Wiltbrädt<gap/> an <lb/></p>
+        <p> Siedte<gap/> das Wildtbrät in <objectName ref="wasser">Wasser</objectName>, <lb/> hackhe Zwifel<gap/>, vnd opfel<gap/> rests<gap/> in <lb/> schmalz<gap/>, auch semel bresl<gap/> thues <lb/> in ein häffl<gap/>, Gies<gap/> halb <objectName ref="wein">Wein</objectName> vnd <lb/> halb <objectName ref="fleisch">fleisch</objectName> brie<gap/>, auch Nögl<gap/>, vnnd <lb/> Zimmet stup<gap/>, vnd salzen, dan so <lb/> thue auch Zuckher, binolly<gap/>, vnnd <lb/> Pissdazy<gap/>, darzue las sieden<gap/>, vnnd <lb/> richts yber das Wiltbrädt<gap/> an <lb/> </p>
             </div>
         </body>
     </text>

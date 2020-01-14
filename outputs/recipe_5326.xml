@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Span= Sau= Lungen wird gebrühet <lb/> klein geschnitten <lb/> und in allweg der Kälbern gleich eingemacht <lb/> mit Wein und Fleischbrühe <lb/> frischen Butter <lb/> Pfeffer und Muscatnuß <lb/> gelb eingebrennt mit Zwibel <lb/> oder mit Lemoni= Schaalen und Safft <lb/> c. auch wenig Saffran.</p>
+        <p> DIe Span= Sau= <objectName ref="lunge">Lungen</objectName> wird gebrühet <lb/> klein geschnitten <lb/> und in allweg der Kälbern gleich eingemacht <lb/> mit <objectName ref="wein">Wein</objectName> und <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> frischen <objectName ref="butter">Butter</objectName> <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Muscatnuß <lb/> gelb eingebrennt mit Zwibel <lb/> oder mit Lemoni= Schaalen und Safft <lb/> c. auch wenig Saffran. </p>
             </div>
         </body>
     </text>

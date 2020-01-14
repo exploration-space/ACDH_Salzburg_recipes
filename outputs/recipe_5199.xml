@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChäle Aepffel <lb/> schneide sie fein dinn <lb/> thue selbige in ein Töpflein <lb/> gieß einen guten Wein daran <lb/> laß sie so lang sieden biß sie weich werden <lb/> treibe sie durch <lb/> und schlage vier oder fünff Eyer dazu <lb/> rühre sie zusamt ein wenig geriebenen Eyer= Brod darunter <lb/> thue Zucker daran <lb/> schmiere eine zinnerne Schüssel mit Butter <lb/> und giesse dieses Aepfel= Mus darein <lb/> laß auf einer Kohlen <lb/> oder einem Bach= Hefelein <lb/> worinnen es zwar schöner wird <lb/> aufsieden <lb/> streue dann Trisanet darauf <lb/> so ists fertig.</p>
+        <p> SChäle Aepffel <lb/> schneide sie fein dinn <lb/> thue selbige in ein <objectName ref="toepflein">Töpflein</objectName> <lb/> gieß einen guten <objectName ref="wein">Wein</objectName> daran <lb/> laß sie so lang sieden biß sie weich werden <lb/> treibe sie durch <lb/> und schlage vier oder fünff Eyer dazu <lb/> rühre sie zusamt ein wenig geriebenen Eyer= Brod darunter <lb/> thue <objectName ref="zucker">Zucker</objectName> daran <lb/> schmiere eine zinnerne <objectName ref="schuessel">Schüssel</objectName> mit <objectName ref="butter">Butter</objectName> <lb/> und giesse dieses Aepfel= Mus darein <lb/> laß auf einer <objectName ref="kohlen">Kohlen</objectName> <lb/> oder einem Bach= Hefelein <lb/> worinnen es zwar schöner wird <lb/> aufsieden <lb/> streue dann Trisanet darauf <lb/> so ists fertig. </p>
             </div>
         </body>
     </text>

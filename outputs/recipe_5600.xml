@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Brüh von eingesaltzenen Gurcken oder Kimmerlingen wird eben auf diese Art gemacht <lb/> wie die gleich vorhergehende von den Limonien ; indeme man nehmlich <lb/> mit dem gebähten Brod etliche klein = geschnittene Gurcken oder Kimmerlinge in der Fleischbrüh sieden lässet <lb/> durchzwinget <lb/> gewürtzet <lb/> und so dann über das Fleisch anrichtet. Nur ist noch dieses der einiges Unterscheid <lb/> daß <lb/> wann man über ein Kalb = oder lamms = Fleisch diese Brüh will machen <lb/> man ein weisses Brod dazu nimmt.</p>
+        <p> DIe Brüh von eingesaltzenen Gurcken oder Kimmerlingen wird eben auf diese Art gemacht <lb/> wie die gleich vorhergehende von den Limonien; indeme man nehmlich <lb/> mit dem gebähten Brod etliche klein = geschnittene Gurcken oder Kimmerlinge in der Fleischbrüh sieden lässet <lb/> durchzwinget <lb/> gewürtzet <lb/> und so dann über das <objectName ref="fleisch">Fleisch</objectName> anrichtet. Nur ist noch dieses der einiges Unterscheid <lb/> daß <lb/> wann man über ein <objectName ref="kalb">Kalb</objectName> = oder lamms = <objectName ref="fleisch">Fleisch</objectName> diese Brüh will machen <lb/> man ein weisses Brod dazu nimmt. </p>
             </div>
         </body>
     </text>

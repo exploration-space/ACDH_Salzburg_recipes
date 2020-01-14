@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DRehet an wohl zeitigen Weixeln die Stiele heraus <lb/> läutert ein schönes Honig; machet in einem Tiegel <lb/> ein Lag Weixel und eine Lag gantze Muscaten= Blüh <lb/> Zimmet und Negelein Wechsel= weiß <lb/> und dieses etwan dreymahl ; darnach giesset das Hönig warm darüber <lb/> leget einen Schachtel= Deckel oder Bretlein darauf <lb/> beschwerets <lb/> und lassets vierzehen Tage stehen; alsdann seihet es ab <lb/> übersiedets ein wenig <lb/> und giessets nochmal warm darüber.</p>
+        <p> DRehet an wohl zeitigen Weixeln die Stiele heraus <lb/> läutert ein schönes <objectName ref="honig">Honig</objectName>; machet in einem <objectName ref="tiegel">Tiegel</objectName> <lb/> ein Lag Weixel und eine Lag gantze Muscaten= Blüh <lb/> Zimmet und Negelein Wechsel= weiß <lb/> und dieses etwan dreymahl; darnach giesset das Hönig warm darüber <lb/> leget einen Schachtel= <objectName ref="deckel">Deckel</objectName> oder Bretlein darauf <lb/> beschwerets <lb/> und lassets vierzehen Tage stehen; alsdann seihet es ab <lb/> übersiedets ein wenig <lb/> und giessets nochmal warm darüber. </p>
             </div>
         </body>
     </text>

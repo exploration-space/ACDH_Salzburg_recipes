@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Röste die von der Gall gesäuberte Lebern in Butter<lb/> oder Schmaltz <lb/> und stosse sie mit hart= gesottenen Eyerdottern <lb/> Gewürtz <lb/> mit wenig Pfeffer und Muscatnuß <lb/> und treibs mit Wein <lb/> oder Fleischbrühe durch; Mit Fleischbrühe ist es gleick also warmer gut <lb/> wann du aber den Wein nimmst <lb/> so muß auch Zucker und wenig Zimmet darzu kommen; In hitzigen Fiebern aber bleibt der Wein <lb/> und das Gewürtz aus.</p>
+        <p> Röste die von der Gall gesäuberte <objectName ref="leber">Lebern</objectName> in Butter/ oder Schmaltz <lb/> und stosse sie mit hart= gesottenen Eyerdottern <lb/> Gewürtz <lb/> mit wenig <objectName ref="pfeffer">Pfeffer</objectName> und Muscatnuß <lb/> und treibs mit <objectName ref="wein">Wein</objectName> <lb/> oder <objectName ref="fleischbruehe">Fleischbrühe</objectName> durch; Mit <objectName ref="fleischbruehe">Fleischbrühe</objectName> ist es gleick also warmer gut <lb/> wann du aber den <objectName ref="wein">Wein</objectName> nimmst <lb/> so muß auch <objectName ref="zucker">Zucker</objectName> und wenig Zimmet darzu kommen; In hitzigen Fiebern aber bleibt der <objectName ref="wein">Wein</objectName> <lb/> und das Gewürtz aus. </p>
             </div>
         </body>
     </text>

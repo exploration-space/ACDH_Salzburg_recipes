@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAch erstlich eine gute gemischte Füll <lb/> dann nimm die Schüssel <lb/> und lege darein ein ausgewalgtes Blättlein mürben= oder Butter=Taig <lb/> aber so groß <lb/> als die Schüssel ist <lb/> dann lege auch die Füll ordentlich darein <lb/> mit aller zugehör <lb/> wie in andern dergleichen Pasteten <lb/> und bedeck es übersich mit dem Knödlein=Gehäck <lb/> laß bachen <lb/> bestecks und gibs <lb/> wann du aber meynest es seye zu wenig Brühe <lb/> wird im Anrichten oben durch ein Löchlein mit einem Trachter mehr hinein gegossen.</p>
+        <p> MAch erstlich eine gute gemischte Füll <lb/> dann nimm die <objectName ref="schuessel">Schüssel</objectName> <lb/> und lege darein ein ausgewalgtes Blättlein mürben= oder Butter=Taig <lb/> aber so groß <lb/> als die <objectName ref="schuessel">Schüssel</objectName> ist <lb/> dann lege auch die Füll ordentlich darein <lb/> mit aller zugehör <lb/> wie in andern dergleichen <objectName ref="pastete">Pasteten</objectName> <lb/> und bedeck es übersich mit dem Knödlein=Gehäck <lb/> laß bachen <lb/> bestecks und gibs <lb/> wann du aber meynest es seye zu wenig <objectName ref="bruehe">Brühe</objectName> <lb/> wird im Anrichten oben durch ein Löchlein mit einem Trachter mehr hinein gegossen. </p>
             </div>
         </body>
     </text>

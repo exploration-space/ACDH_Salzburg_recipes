@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ERstlich stich aus denen Aepffeln die Butzen heraus <lb/> und wasche sie aus Wasser; nachmal gieß in einen stollichten Hafen ein halb Seidlein Wasser daran <lb/> thue ein wenig Bach= oder frisches Schmaltz dazu <lb/> verdecks mit einer Stürtzen <lb/> und laß sie dünsten biß weich werden; setz in eine Glut oder Kohlen <lb/> drehe den Hafen offt um <lb/> schwinge ihn bißweilen <lb/> damit sich die Aepffel nicht anlegen <lb/> und streue <lb/> wann man sie anrichtet <lb/> einen Zucker darauf.</p>
+        <p> ERstlich stich aus denen Aepffeln die Butzen heraus <lb/> und wasche sie aus <objectName ref="wasser">Wasser</objectName>; nachmal gieß in einen stollichten <objectName ref="hafen">Hafen</objectName> ein halb Seidlein <objectName ref="wasser">Wasser</objectName> daran <lb/> thue ein wenig Bach= oder frisches Schmaltz dazu <lb/> verdecks mit einer Stürtzen <lb/> und laß sie dünsten biß weich werden; setz in eine <objectName ref="glut">Glut</objectName> oder <objectName ref="kohlen">Kohlen</objectName> <lb/> drehe den <objectName ref="hafen">Hafen</objectName> offt um <lb/> schwinge ihn bißweilen <lb/> damit sich die Aepffel nicht anlegen <lb/> und streue <lb/> wann man sie anrichtet <lb/> einen <objectName ref="zucker">Zucker</objectName> darauf. </p>
             </div>
         </body>
     </text>

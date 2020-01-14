@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Tauben Pasteten in ein auffgesetzte Pasteten von weissem Teig <lb/> mit Agrastbeer <lb/> Butter <lb/> Ingwer vnd Saltz <lb/> eyngemacht <lb/> darmit hacken lassen <lb/> vnd warm auff ein Tisch geben <lb/> ist gut vnd wolgeschmack.</p>
+        <p> <objectName ref="taube">Tauben</objectName> <objectName ref="pastete">Pasteten</objectName> in ein auffgesetzte <objectName ref="pastete">Pasteten</objectName> von weissem <objectName ref="teig">Teig</objectName> <lb/> mit Agrastbeer <lb/> <objectName ref="butter">Butter</objectName> <lb/> <objectName ref="ingwer">Ingwer</objectName> vnd Saltz <lb/> eyngemacht <lb/> darmit hacken lassen <lb/> vnd warm auff ein <objectName ref="tisch">Tisch</objectName> geben <lb/> ist gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

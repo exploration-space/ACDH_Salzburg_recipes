@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) ein Weck <lb/> beschneidt  jn  <lb/>  vnd schneidt Schnitten darvon fein dünn <lb/> tauch sie in den Teig  <lb/> darauß du die Pfantzel hast gebacken <lb/> zeuchs in heisse  Butter  <lb/> vnd backs fein langsam <lb/> so wirt es aufflauffen  <lb/>  vnd resch seyn <lb/> besträew es mit Zucker  <lb/>  vnd gibs warm auff ein Tisch.</p>
+        <p> Nim ( m ) ein Weck <lb/> beschneidt jn <lb/> vnd schneidt Schnitten darvon fein dünn <lb/> tauch sie in den <objectName ref="teig">Teig</objectName> <lb/> darauß du die Pfantzel hast gebacken <lb/> zeuchs in heisse <objectName ref="butter">Butter</objectName> <lb/> vnd backs fein langsam <lb/> so wirt es aufflauffen <lb/> vnd resch seyn <lb/> besträew es mit <objectName ref="zucker">Zucker</objectName> <lb/> vnd gibs warm auff ein <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

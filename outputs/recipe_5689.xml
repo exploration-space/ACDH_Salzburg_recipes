@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>REibe Pfeffer= Kuchen und halb so viel Semmel= Mehl <lb/> röste beedes <lb/> oder nur zum wenigsten das Semmel= Meel <lb/> im heissen Schmaltz ; darnach giesse Wein daran <lb/> zuckere und würtze es mit Ingber <lb/> Zimmet und Nägelein <lb/> laß zu einer rechten Dicke einsieden <lb/> und rühre es offt um <lb/> damit es nicht anbrenne : wann mans nun anrichten will <lb/> so streuet man klein= und würfflicht= geschnittene Citronen= Schelfen darauf.</p>
+        <p> REibe Pfeffer= Kuchen und halb so viel Semmel= <objectName ref="mehl">Mehl</objectName> <lb/> röste beedes <lb/> oder nur zum wenigsten das Semmel= Meel <lb/> im heissen Schmaltz; darnach giesse <objectName ref="wein">Wein</objectName> daran <lb/> zuckere und würtze es mit Ingber <lb/> Zimmet und Nägelein <lb/> laß zu einer rechten Dicke einsieden <lb/> und rühre es offt um <lb/> damit es nicht anbrenne : wann mans nun anrichten will <lb/> so streuet man klein= und würfflicht= geschnittene Citronen= Schelfen darauf. </p>
             </div>
         </body>
     </text>

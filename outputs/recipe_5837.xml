@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm ein Stuck Zucker <lb/> mit wenig weissen Wein <lb/> laß auf einem Kohlfeuer in einer erdenen glaßierten Rein <lb/> oder in einer meßingen <lb/> oder kupffernen und wol=verzinnten Pfannen <lb/> oder Casserol sieden <lb/> biß es dick <lb/>  oder zu einem Sierrup wird <lb/> dann seihe abgeschlagene Eyer <lb/> durch ein Zucker=Strauben=Löffel <lb/> oder andern darzu bequemen Fäum=Löffel darein <lb/> laß gemach fertig werden <lb/> gib Geruch nach Gefallen <lb/> regaliers mit süsser Bacherey <lb/> dann sie werden wie subtile Farfflen.</p>
+        <p> NImm ein Stuck <objectName ref="zucker">Zucker</objectName> <lb/> mit wenig weissen <objectName ref="wein">Wein</objectName> <lb/> laß auf einem Kohlfeuer in einer erdenen glaßierten <objectName ref="rein">Rein</objectName> <lb/> oder in einer meßingen <lb/> oder kupffernen und wol=verzinnten Pfannen <lb/> oder Casserol sieden <lb/> biß es dick <lb/> oder zu einem Sierrup wird <lb/> dann seihe abgeschlagene Eyer <lb/> durch ein Zucker=Strauben=Löffel <lb/> oder andern darzu bequemen Fäum=Löffel darein <lb/> laß gemach fertig werden <lb/> gib Geruch nach Gefallen <lb/> regaliers mit süsser Bacherey <lb/> dann sie werden wie subtile Farfflen. </p>
             </div>
         </body>
     </text>

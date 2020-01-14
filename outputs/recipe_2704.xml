@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>LAß weisses Bier siedend werden <lb/> zuckers nach belieben ; zerklopffe Eyerdottern mit einem Stuck Butter <lb/> rühre es mit dem siedenden Bier an <lb/> und richts über würfflicht= geschnittenes weisses <lb/> oder auch nur von Korn oder Rocken gebachenes Haus= Brod : Soll sie aber noch besser für die Husten dienen <lb/> so nehme man <lb/> an statt des Koch= Zuckers <lb/> weissen Zucker= Candi <lb/> und trinke die Suppe lauter <lb/> ohne Brod <lb/> so heiß man immer kan.</p>
+        <p> LAß weisses <objectName ref="bier">Bier</objectName> siedend werden <lb/> zuckers nach belieben; zerklopffe Eyerdottern mit einem Stuck <objectName ref="butter">Butter</objectName> <lb/> rühre es mit dem siedenden <objectName ref="bier">Bier</objectName> an <lb/> und richts über würfflicht= geschnittenes weisses <lb/> oder auch nur von Korn oder Rocken gebachenes Haus= Brod : Soll sie aber noch besser für die Husten dienen <lb/> so nehme man <lb/> an statt des Koch= Zuckers <lb/> weissen Zucker= Candi <lb/> und trinke die <objectName ref="suppe">Suppe</objectName> lauter <lb/> ohne Brod <lb/> so heiß man immer kan. </p>
             </div>
         </body>
     </text>

@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wachteln zugericht <lb/> wenn sie gebraten seyn <lb/> so legt mans in ein Mandelgescharb <lb/> vnd laß darmit ein Sudt auffthun <lb/> so wirdt es gut vnnd wolgeschmack.</p>
+        <p> <objectName ref="wachtel">Wachteln</objectName> zugericht <lb/> wenn sie gebraten seyn <lb/> so legt mans in ein Mandelgescharb <lb/> vnd laß darmit ein Sudt auffthun <lb/> so wirdt es gut vnnd wolgeschmack. </p>
             </div>
         </body>
     </text>

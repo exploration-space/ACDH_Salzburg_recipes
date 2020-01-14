@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Erbeß vnd Gersten miteinander gesotten <lb/> mit guter Erbeßbrüh <lb/> vnd wol geschmältzt. Die Speiß ist auch nicht böß zu essen <lb/> vnnd in Osterreich nennet man es ein Ritschet.</p>
+        <p> Erbeß vnd <objectName ref="gerste">Gersten</objectName> miteinander gesotten <lb/> mit guter Erbeßbrüh <lb/> vnd wol geschmältzt. Die Speiß ist auch nicht böß zu essen <lb/> vnnd in Osterreich nennet man es ein Ritschet. </p>
             </div>
         </body>
     </text>

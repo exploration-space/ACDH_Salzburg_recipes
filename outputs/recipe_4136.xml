@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DAs Hirsch= Kalb ist auch gut <lb/> und wann es noch jung <lb/> und in der Größ und Schwere <lb/> wie ein Reh <lb/> oder auch grösser ist <lb/> so wird es auch gleich dem Reh <lb/> und Deendlein verkocht <lb/> eingemacht <lb/> die Schlegel und Rucken gespaitzt <lb/> gespickt <lb/> gebraten und zugericht <lb/> wie die nachfolgende Reh <lb/> Gämbs <lb/> Deendel <lb/> und auch die rechte kälberne Schlegel <lb/> etc. Dise Hirsch= Kälber seynd auch köstlich in die Pasteten <lb/> etc. Mit gleichen Gemächt und Brühen <lb/> wie in dem Bacherey= Buch nach Genügen zu finden <lb/> wird also der geehrte Leser dahin gewiesen.</p>
+        <p> DAs Hirsch= <objectName ref="kalb">Kalb</objectName> ist auch gut <lb/> und wann es noch jung <lb/> und in der Größ und Schwere <lb/> wie ein Reh <lb/> oder auch grösser ist <lb/> so wird es auch gleich dem Reh <lb/> und Deendlein verkocht <lb/> eingemacht <lb/> die <objectName ref="schlegel">Schlegel</objectName> und Rucken gespaitzt <lb/> gespickt <lb/> gebraten und zugericht <lb/> wie die nachfolgende Reh <lb/> Gämbs <lb/> Deendel <lb/> und auch die rechte kälberne <objectName ref="schlegel">Schlegel</objectName> <lb/> etc. Dise Hirsch= Kälber seynd auch köstlich in die <objectName ref="pastete">Pasteten</objectName> <lb/> etc. Mit gleichen Gemächt und <objectName ref="bruehe">Brühen</objectName> <lb/> wie in dem Bacherey= Buch nach Genügen zu finden <lb/> wird also der geehrte Leser dahin gewiesen. </p>
             </div>
         </body>
     </text>

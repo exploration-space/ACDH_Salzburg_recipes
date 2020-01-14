@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe schäfferne Brust abgebratner am Spiß <lb/> oder Rost <lb/> in Stücklein zerhackter <lb/> kan in einer Zwibel= Brühe gelb <lb/> mit geriebenen Kren <lb/> und gerösten Semmel= Bröslein in einer kurtzen Fleischbrühe <lb/> mit gehörigem Gewürtz und Saltz; oder in einer andern sauren Brühe <lb/> kurtz und wohl weich gesotten <lb/> angericht werden.</p>
+        <p> DIe schäfferne <objectName ref="brust">Brust</objectName> abgebratner am Spiß <lb/> oder <objectName ref="rost">Rost</objectName> <lb/> in Stücklein zerhackter <lb/> kan in einer Zwibel= <objectName ref="bruehe">Brühe</objectName> gelb <lb/> mit geriebenen Kren <lb/> und gerösten Semmel= Bröslein in einer kurtzen <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> mit gehörigem Gewürtz und Saltz; oder in einer andern sauren <objectName ref="bruehe">Brühe</objectName> <lb/> kurtz und wohl weich gesotten <lb/> angericht werden. </p>
             </div>
         </body>
     </text>

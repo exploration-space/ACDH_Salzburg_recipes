@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Auß dem Manscho Blancko kanstu machen Spanische Krapfen <lb/> oder Vngerische Turten <lb/> oder Spanische Pasteten.</p>
+        <p> Auß dem Manscho Blancko kanstu machen Spanische Krapfen <lb/> oder Vngerische Turten <lb/> oder Spanische <objectName ref="pastete">Pasteten</objectName>. </p>
             </div>
         </body>
     </text>

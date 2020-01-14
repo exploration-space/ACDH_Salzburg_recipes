@@ -169,11 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Birn werden fleissig geschählet <lb/> die Stiele daran gelassen <lb/> und im Schmaltz geröstet <lb/> ein Wein daran gegossen <lb/> Zucker darein gestreuet <lb/> und gesotten: Dann richtet mans an <lb/> und streuet Zimmet darauf.
-
-<gap/><gap/><gap/>
-
-Auf solche Weise kan man ebenfalls Muscateller=Birn <lb/> oder auch Johannes=Beerlein <lb/> und zwar jedes entweder besonder <lb/> oder auch unter einander vermischet <lb/> kochen und dünsten.</p>
+        <p> DIe Birn werden fleissig geschählet <lb/> die Stiele daran gelassen <lb/> und im Schmaltz geröstet <lb/> ein <objectName ref="wein">Wein</objectName> daran gegossen <lb/> <objectName ref="zucker">Zucker</objectName> darein gestreuet <lb/> und gesotten : Dann richtet mans an <lb/> und streuet Zimmet darauf. <gap/><gap/><gap/> Auf solche Weise kan man ebenfalls Muscateller=Birn <lb/> oder auch Johannes=Beerlein <lb/> und zwar jedes entweder besonder <lb/> oder auch unter einander vermischet <lb/> kochen und dünsten. </p>
             </div>
         </body>
     </text>

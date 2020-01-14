@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Seud die khrepsen, doch nit gar an die stat, schneid das händig beÿ <lb/> den Augen Wëkh, stosß in eim Merser, mit bähten Semblschniten <lb/> gar khlein, treibs mit einer gueten milch ab durch ein sib, thue es <lb/> in ein Reindl, schlag aÿr dran, spridls undereinander ein Wenig <lb/> Puter, Wans gsoten, gibs in eim Reindl Warmb, man khans auch <lb/> gewürzen, Wan man Will. <lb/></p>
+        <p> Seud die khrepsen, doch nit gar an die stat, schneid das händig beÿ <lb/> den <objectName ref="augen">Augen</objectName> Wëkh, stosß in eim Merser, mit bähten Semblschniten <lb/> gar khlein, treibs mit einer gueten <objectName ref="milch">milch</objectName> ab durch ein sib, thue es <lb/> in ein Reindl, schlag aÿr dran, spridls undereinander ein Wenig <lb/> Puter, Wans gsoten, gibs in eim Reindl Warmb, man khans auch <lb/> <objectName ref="gewuerze">gewürzen</objectName>, Wan man Will. <lb/> </p>
             </div>
         </body>
     </text>

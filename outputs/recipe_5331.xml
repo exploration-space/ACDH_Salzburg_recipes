@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneidt das gebutzte Spanfärcklein <lb/> erstlich untersich <lb/> hernach auch am Rucken von einander durch das Köpfflein durchauß ; saltze es wohl <lb/> und reibs mit gedürrten Majoran= Stup <lb/> und Kuttelkraut auch zimlich ein <lb/> aber zuvor nimm das Hirnlein aus dem Köpfflein <lb/> und schneide die Kruspel aus dem Näßlein <lb/> damit es nicht schmeckend wird <lb/> wie auch die Niernlein <lb/> hernach hängs in Rauch <lb/> aber in kein zu gähe Hitz <lb/> sie seynd in kurtzer Zeit geselcht ; und wann sie in Reiß <lb/> Erbsen <lb/> oder Gersten Stücklein= weiß gesotten werden <lb/> geben sie gar einen guten Geschmack.</p>
+        <p> SChneidt das gebutzte Spanfärcklein <lb/> erstlich untersich <lb/> hernach auch am Rucken von einander durch das Köpfflein durchauß; saltze es wohl <lb/> und reibs mit gedürrten Majoran= Stup <lb/> und <objectName ref="kuttelkraut">Kuttelkraut</objectName> auch zimlich ein <lb/> aber zuvor nimm das Hirnlein aus dem Köpfflein <lb/> und schneide die Kruspel aus dem Näßlein <lb/> damit es nicht schmeckend wird <lb/> wie auch die Niernlein <lb/> hernach hängs in <objectName ref="rauch">Rauch</objectName> <lb/> aber in kein zu gähe Hitz <lb/> sie seynd in kurtzer Zeit geselcht; und wann sie in Reiß <lb/> <objectName ref="erbsen">Erbsen</objectName> <lb/> oder <objectName ref="gerste">Gersten</objectName> Stücklein= weiß gesotten werden <lb/> geben sie gar einen guten Geschmack. </p>
             </div>
         </body>
     </text>

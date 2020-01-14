@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>To a Peck of Flour put three Quarters of the Weight in Butter; dry your Flour well and lay it on a Table, make a Hole and put in the Whites of a Dozen Eggs well beaten; but first break into it a third Part of your Butter; then make up your Paste with Water, roll it out, and the rest of your Butter by Degrees.</p>
+        <p> To a Peck of Flour put three Quarters of the Weight in <objectName ref="butter">Butter</objectName>; dry your Flour well and lay it on a Table, make a Hole and put in the Whites of a Dozen Eggs well beaten; but first break into it a third Part of your <objectName ref="butter">Butter</objectName>; then make up your Paste with Water, roll it out, and the rest of your <objectName ref="butter">Butter</objectName> by Degrees. </p>
             </div>
         </body>
     </text>

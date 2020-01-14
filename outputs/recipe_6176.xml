@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Vnd auß dem Magen ein gehacktes <lb/> wenn er am ersten gesotten ist <lb/> wie vorhin vermeldt <lb/> wie man es machen sol.</p>
+        <p> Vnd auß dem <objectName ref="magen">Magen</objectName> ein gehacktes <lb/> wenn er am ersten gesotten ist <lb/> wie vorhin vermeldt <lb/> wie man es machen sol. </p>
             </div>
         </body>
     </text>

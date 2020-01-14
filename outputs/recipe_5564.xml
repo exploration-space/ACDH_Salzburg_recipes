@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>AUf diese erst = besagte weise <lb/> kan man auch den Käß = Kohl <lb/> Carviol oder Blumen = Kohl in Oel zurichten ; wann er nehmlich im Wasser oder Fleischbrüh zu erst abgtesotten <lb/> oder abgebrühet ist <lb/> seihet man ihn ab <lb/> und legt selbigen in einen stollichten Hafen <lb/> streuet auch obbemeldete Gewürtz darein <lb/> giesset so dann Oel und eine siedende Fleischbrüh dazu <lb/> und läst es mit einander sieden <lb/> doch darff man der Brüh nicht zu viel daran giessen <lb/> damit die Brüh nicht zu dinn <lb/> sondern etwas dicklicht werde : Oder man kan auch wohl ein Stäublein Mehl daran brennen.</p>
+        <p> AUf diese erst = besagte weise <lb/> kan man auch den Käß = <objectName ref="kohl">Kohl</objectName> <lb/> Carviol oder <objectName ref="blumen">Blumen</objectName> = <objectName ref="kohl">Kohl</objectName> in Oel zurichten; wann er nehmlich im <objectName ref="wasser">Wasser</objectName> oder Fleischbrüh zu erst abgtesotten <lb/> oder abgebrühet ist <lb/> seihet man ihn ab <lb/> und legt selbigen in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> streuet auch obbemeldete Gewürtz darein <lb/> giesset so dann Oel und eine siedende Fleischbrüh dazu <lb/> und läst es mit einander sieden <lb/> doch darff man der Brüh nicht zu viel daran giessen <lb/> damit die Brüh nicht zu dinn <lb/> sondern etwas dicklicht werde : Oder man kan auch wohl ein Stäublein <objectName ref="mehl">Mehl</objectName> daran brennen. </p>
             </div>
         </body>
     </text>

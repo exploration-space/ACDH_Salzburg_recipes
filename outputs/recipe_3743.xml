@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Hack <lb/> klopff <lb/> saltz und spicke die rinderne Presolen <lb/> mit abgewürtztem Speck <lb/> und Petersil = Kräutlein <lb/> melbige dise ein <lb/> und bräune sie in Butter oder schweinen Schmatz <lb/> laß sie mit Wein und Fleischbrühe kurtz einkochen <lb/> mache ein gute Rago von Schwammen und Brüßlein darüber <lb/> und gibs.</p>
+        <p> Hack <lb/> klopff <lb/> saltz und spicke die rinderne Presolen <lb/> mit abgewürtztem <objectName ref="speck">Speck</objectName> <lb/> und Petersil = Kräutlein <lb/> melbige dise ein <lb/> und bräune sie in <objectName ref="butter">Butter</objectName> oder schweinen Schmatz <lb/> laß sie mit <objectName ref="wein">Wein</objectName> und <objectName ref="fleischbruehe">Fleischbrühe</objectName> kurtz einkochen <lb/> mache ein gute Rago von Schwammen und Brüßlein darüber <lb/> und gibs. </p>
             </div>
         </body>
     </text>

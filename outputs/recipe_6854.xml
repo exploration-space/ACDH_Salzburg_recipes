@@ -170,9 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Birckhan gespickt mit Speck <lb/> mit Pfeffer vnnd Ingwer wol gewürtzt <lb/> vnd saltzs wol <lb/> treib ein Pasteten von Ruckenteig darzu auff <lb/> vnnd laß darinnen backen <lb/> vnd widerumb kalt werden <lb/> so wirt es gut vnnd wolgeschmack.
-
-</p>
+        <p> Birckhan gespickt mit <objectName ref="speck">Speck</objectName> <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName> vnnd <objectName ref="ingwer">Ingwer</objectName> wol gewürtzt <lb/> vnd saltzs wol <lb/> treib ein <objectName ref="pastete">Pasteten</objectName> von Ruckenteig darzu auff <lb/> vnnd laß darinnen backen <lb/> vnd widerumb kalt werden <lb/> so wirt es gut vnnd wolgeschmack. </p>
             </div>
         </body>
     </text>

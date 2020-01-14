@@ -169,9 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ain Bouch: d´aqa .2. oder .3. lot Salve <lb/> blummen wol gebuzt, in daß wasßer <lb/> gelegt .1. Stundt also stehen lasß wol <lb/>durch einander gerührt. Seuhs mische <lb/> darunter .4. loth zkher Amber et m: <lb/> w: bl. gieß g: <lb/><lb/>
-
-daß sorbetta musß vmb 1. l: zukher <lb/> vnd 1. l blumen mehrern haben. <lb/> daß wasßer solte allzeit nit ein sack <lb/> duech passirt werden. <lb/></p>
+        <p> ain Bouch : d´aqa.2. oder.3. lot Salve <lb/> blummen wol gebuzt, in daß wasßer <lb/> gelegt.1. Stundt also stehen lasß wol /durch einander gerührt. Seuhs mische <lb/> darunter.4. <objectName ref="loth">loth</objectName> zkher <objectName ref="amber">Amber</objectName> et m : <lb/> w : bl. gieß g : <lb/><lb/> daß sorbetta musß vmb 1. l : zukher <lb/> vnd 1. l <objectName ref="blumen">blumen</objectName> mehrern haben. <lb/> daß wasßer solte allzeit nit ein <objectName ref="sack">sack</objectName> <lb/> duech passirt werden. <lb/> </p>
             </div>
         </body>
     </text>

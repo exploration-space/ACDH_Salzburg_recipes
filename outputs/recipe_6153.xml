@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim saur frische Limonien <lb/> walg sie <lb/> daß sie weich werden <lb/> schneidt sie voneinander <lb/> vnd druck den Safft herauß <lb/> thu die Kern darvon <lb/> machs ab mit Zimmet vnd Zucker <lb/> so ist es gut vnnd wolgeschmack. Du kanst auch solchen Safft <lb/> der lauter ist <lb/> sieden lassen mit geläutertem zucker <lb/> vnd wenn er fein dick gesotten <lb/> so kan mans zum Braten brauchen.</p>
+        <p> Nim saur frische Limonien <lb/> walg sie <lb/> daß sie weich werden <lb/> schneidt sie voneinander <lb/> vnd druck den Safft herauß <lb/> thu die Kern darvon <lb/> machs ab mit Zimmet vnd <objectName ref="zucker">Zucker</objectName> <lb/> so ist es gut vnnd wolgeschmack. Du kanst auch solchen Safft <lb/> der lauter ist <lb/> sieden lassen mit geläutertem <objectName ref="zucker">zucker</objectName> <lb/> vnd wenn er fein dick gesotten <lb/> so kan mans zum Braten brauchen. </p>
             </div>
         </body>
     </text>

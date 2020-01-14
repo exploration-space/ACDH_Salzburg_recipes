@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb zimblich .Vüll Clein gestossnen<gap/> Zuckher, <lb/> daß weiß von ainem ayr<gap/>, vnd ain Löfeluol <lb/> Lemoni<gap/> safft<gap/>, vnnd ein wenig rossen <lb/> Wasser, riehr<gap/> dises alles woll Vnder einander, <lb/> vnnd biß der Zuckher Vesst würdt, wan er <lb/> Vesst ist, so leg ihn in ein Merscher<gap/>, <lb/> vnnd stoss<gap/> ihn zu einem Vessten taig<gap/>, dar= <lb/> nach Kanst du Pastätten oder Dortten darauß <lb/> machen, was du wilst, da Kanst du es <lb/> von halb mehl vnd von halb zuckher machen. <lb/> nach Deinem belieben. So ist er, recht guett, <lb/><lb/> (Z-UII 005)</p>
+        <p> Nimb zimblich.Vüll Clein gestossnen<gap/> Zuckher, <lb/> daß weiß von ainem ayr<gap/>, vnd ain Löfeluol <lb/> Lemoni<gap/> safft<gap/>, vnnd ein wenig rossen <lb/> <objectName ref="wasser">Wasser</objectName>, riehr<gap/> dises alles woll Vnder einander, <lb/> vnnd biß der Zuckher Vesst würdt, wan er <lb/> Vesst ist, so leg ihn in ein Merscher<gap/>, <lb/> vnnd stoss<gap/> ihn zu einem Vessten taig<gap/>, dar= <lb/> nach Kanst du Pastätten oder Dortten darauß <lb/> machen, was du wilst, da Kanst du es <lb/> von halb <objectName ref="mehl">mehl</objectName> vnd von halb zuckher machen. <lb/> nach Deinem belieben. So ist er, recht guett, <lb/><lb/> ( Z-UII 005 ) </p>
             </div>
         </body>
     </text>

@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>PEtersil= Wurtzen <lb/> die grosse Gattung <lb/> gebrüht <lb/> seynd gut zum Salat wie die Pastenacker.</p>
+        <p> PEtersil= Wurtzen <lb/> die grosse Gattung <lb/> gebrüht <lb/> seynd gut zum <objectName ref="salat">Salat</objectName> wie die Pastenacker. </p>
             </div>
         </body>
     </text>

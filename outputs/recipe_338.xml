@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Thue den Höchten auf schiepe<gap/> ihn salz <lb/> ihn ein vnd Pache<gap/> ihn, hernach waickhe<gap/> <lb/> ein sembl in siess obers<gap/>, fisle<gap/> den <lb/> Fisch auss, thue Die Grätten<gap/> Daruon <lb/> vnnd hackhe ihn Klein, Dreib<gap/> ein <lb/> Putter in ein weidling<gap/> ab, das Ge= <lb/> hackht vnnd Ausgetruckhte sembl <lb/> Darunter, Nimb Zimet stupp<gap/> siess <lb/> obers, vnnd Vier Ayr Dotter, machs <lb/> also an, mache in Geschnidtene Nudl<gap/> <lb/><lb/> (re 164) taig<gap/> an, Walgs<gap/> Dinn Aus vnd streich <lb/> ihn auf wie den Andern strudl<gap/>, siedt<gap/> <lb/> ihn vnnd machs wie mit den spin= <lb/> nath<gap/> strudl also ist es Recht. <lb/></p>
+        <p> Thue den Höchten auf schiepe<gap/> ihn <objectName ref="salz">salz</objectName> <lb/> ihn ein vnd Pache<gap/> ihn, hernach waickhe<gap/> <lb/> ein sembl in siess obers<gap/>, fisle<gap/> den <lb/> <objectName ref="fisch">Fisch</objectName> auss, thue Die Grätten<gap/> Daruon <lb/> vnnd hackhe ihn Klein, Dreib<gap/> ein <lb/> Putter in ein weidling<gap/> ab, das Ge= <lb/> hackht vnnd Ausgetruckhte sembl <lb/> Darunter, Nimb Zimet stupp<gap/> siess <lb/> obers, vnnd Vier Ayr Dotter, machs <lb/> also an, mache in Geschnidtene Nudl<gap/> <lb/><lb/> ( re 164 ) taig<gap/> an, Walgs<gap/> Dinn Aus vnd streich <lb/> ihn auf wie den Andern strudl<gap/>, siedt<gap/> <lb/> ihn vnnd machs wie mit den spin= <lb/> nath<gap/> strudl also ist es Recht. <lb/> </p>
             </div>
         </body>
     </text>

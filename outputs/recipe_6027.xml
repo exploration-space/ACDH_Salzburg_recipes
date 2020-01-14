@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Lerchen werden gerupffet <lb/> und ihnen hernach die Haut über den Kopff abgezogen <lb/> gleich wie den andern : Lasset sie ein wenig im Wasser ligen <lb/> waschet <lb/> saltzet und pfeffert sie ein <lb/> steckets überzwerch an <lb/> doch also daß der Kopff und die Füsse frey hangen <lb/> und nicht untergesteckt werden <lb/> treiffet sie mit heissem Schmaltz oder Butter <lb/> und bestreuts <lb/> wann sie schier gebraten sind <lb/> mit geriebenen Brod <lb/> betreiffets nochmal ein wenig mit Butter <lb/> und legets dann wohl ausgezieret in eine Schüssel.</p>
+        <p> DIe <objectName ref="lerchen">Lerchen</objectName> werden gerupffet <lb/> und ihnen hernach die Haut über den Kopff abgezogen <lb/> gleich wie den andern : Lasset sie ein wenig im <objectName ref="wasser">Wasser</objectName> ligen <lb/> waschet <lb/> saltzet und pfeffert sie ein <lb/> steckets überzwerch an <lb/> doch also daß der Kopff und die Füsse frey hangen <lb/> und nicht untergesteckt werden <lb/> treiffet sie mit heissem Schmaltz oder <objectName ref="butter">Butter</objectName> <lb/> und bestreuts <lb/> wann sie schier gebraten sind <lb/> mit geriebenen Brod <lb/> betreiffets nochmal ein wenig mit <objectName ref="butter">Butter</objectName> <lb/> und legets dann wohl ausgezieret in eine <objectName ref="schuessel">Schüssel</objectName>. </p>
             </div>
         </body>
     </text>

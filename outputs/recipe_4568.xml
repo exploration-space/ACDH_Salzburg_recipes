@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet ein Pfund Mehl <lb/> ein halb Pfund Zucker <lb/> und zwanzig Loth Butter ; machet mit Eyern einen Teig daraus <lb/> formiret davon runde kleine Dörtlein : verfertiget eine Füll darein <lb/> von Trisanet <lb/> Mandeln <lb/> Citronat <lb/> Rosinen <lb/> Weinbeern oder Corinthen <lb/> und bachets in einer Dorten= Pfannen <lb/> oder einem Bach= Oefelein <lb/> wie es beliebt.</p>
+        <p> NEhmet ein <objectName ref="pfund">Pfund</objectName> <objectName ref="mehl">Mehl</objectName> <lb/> ein halb <objectName ref="pfund">Pfund</objectName> <objectName ref="zucker">Zucker</objectName> <lb/> und zwanzig <objectName ref="loth">Loth</objectName> <objectName ref="butter">Butter</objectName>; machet mit Eyern einen <objectName ref="teig">Teig</objectName> daraus <lb/> formiret davon runde kleine Dörtlein : verfertiget eine Füll darein <lb/> von Trisanet <lb/> <objectName ref="mandeln">Mandeln</objectName> <lb/> Citronat <lb/> <objectName ref="rosinen">Rosinen</objectName> <lb/> Weinbeern oder Corinthen <lb/> und bachets in einer Dorten= Pfannen <lb/> oder einem Bach= Oefelein <lb/> wie es beliebt. </p>
             </div>
         </body>
     </text>

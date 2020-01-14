@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ERstlich wann der Laperdan aus der Tonnen genommen wird <lb/> muß solcher drey oder viermal wohl ausgewaschen <lb/> hernach in ein frisches Wasser über Nacht gelegt <lb/> in einen Tiegel gethan <lb/> und mit Wasser so weit übergossen werden <lb/> daß es darüber zusammen gehet <lb/> darinnen muß er eine gute halbe Stund lang kochen; dann nimmt man ihn aus dem Tiegel <lb/> und legt ihn <lb/> wann das Wasser abgeseihet <lb/> in eine Schüssel <lb/> macht eine Butter warm <lb/> jedoch also daß sie nicht braun wird <lb/> sondern schön licht= gelb bleibt <lb/> und brennt sie darüber <lb/> streuet so dann Ingber darauf <lb/> und trägt ihn zu Tisch.</p>
+        <p> ERstlich wann der Laperdan aus der Tonnen genommen wird <lb/> muß solcher drey oder viermal wohl ausgewaschen <lb/> hernach in ein frisches <objectName ref="wasser">Wasser</objectName> über Nacht gelegt <lb/> in einen <objectName ref="tiegel">Tiegel</objectName> gethan <lb/> und mit <objectName ref="wasser">Wasser</objectName> so weit übergossen werden <lb/> daß es darüber zusammen gehet <lb/> darinnen muß er eine gute halbe Stund lang kochen; dann nimmt man ihn aus dem <objectName ref="tiegel">Tiegel</objectName> <lb/> und legt ihn <lb/> wann das <objectName ref="wasser">Wasser</objectName> abgeseihet <lb/> in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> macht eine <objectName ref="butter">Butter</objectName> warm <lb/> jedoch also daß sie nicht braun wird <lb/> sondern schön licht= gelb bleibt <lb/> und brennt sie darüber <lb/> streuet so dann Ingber darauf <lb/> und trägt ihn zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

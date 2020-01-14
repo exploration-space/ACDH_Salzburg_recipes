@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm dergleichen Wämmlein <lb/> untergreiffe sie mit einem scharffen Messer <lb/> daß mans füllen kan; dann nimm auf eins <lb/> ein paar Bratwürst <lb/> oder mache ein anders dergleichen Gehäck <lb/> wohl von Gewürtz und guten Kräutlein <lb/> auch Knoblauch und Sardellen <lb/> fülle die Wämmlein inwendig darmit <lb/> rolle sie fest über einander <lb/> und binds wohl mit Spagat <lb/> und laß <lb/> und laß mit Kälber=Füß <lb/> oder Alladoba sieden <lb/> wanns fertig <lb/> so laß kalt werden <lb/> dann schneids zu Scheiben <lb/> gleich einer Span=Sau=Wurst <lb/> und gibs <lb/> mit Pfeffer <lb/> Oel und Saltz <lb/> auch Eßig <lb/> regaliers grün.</p>
+        <p> NImm dergleichen Wämmlein <lb/> untergreiffe sie mit einem scharffen <objectName ref="messer">Messer</objectName> <lb/> daß mans füllen kan; dann nimm auf eins <lb/> ein paar Bratwürst <lb/> oder mache ein anders dergleichen <objectName ref="gehaeck">Gehäck</objectName> <lb/> wohl von Gewürtz und guten Kräutlein <lb/> auch <objectName ref="knoblauch">Knoblauch</objectName> und <objectName ref="sardellen">Sardellen</objectName> <lb/> fülle die Wämmlein inwendig darmit <lb/> rolle sie fest über einander <lb/> und binds wohl mit <objectName ref="spagat">Spagat</objectName> <lb/> und laß <lb/> und laß mit Kälber=Füß <lb/> oder Alladoba sieden <lb/> wanns fertig <lb/> so laß kalt werden <lb/> dann schneids zu Scheiben <lb/> gleich einer Span=Sau=Wurst <lb/> und gibs <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Oel und Saltz <lb/> auch Eßig <lb/> regaliers grün. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb das Wiltprädt lass es sieten<gap/> <lb/> schen Marb<gap/> Nimbe in ein Häfferl<gap/> <lb/> halb rindtsuppen<gap/> halb Essig Nimbe <lb/> darein .12. oder .18. Gestossne<gap/> <lb/> Nägl thue es in die suppen<gap/> bren<gap/> <lb/> es schön liecht<gap/> ein löge ein Guettes <lb/> stuckh<gap/> putter daran lass es also <lb/> sieten<gap/> löge das Wildtprädt in <lb/> ein rein<gap/> Giess<gap/> die suppn<gap/> daryber <lb/> löge noch ein stickhl<gap/> butter Darein <lb/> lass es sieten gibs also fertig. <lb/></p>
+        <p> Nimb das Wiltprädt lass es sieten<gap/> <lb/> schen Marb<gap/> Nimbe in ein Häfferl<gap/> <lb/> halb rindtsuppen<gap/> halb <objectName ref="essig">Essig</objectName> Nimbe <lb/> darein.12. oder.18. Gestossne<gap/> <lb/> Nägl thue es in die suppen<gap/> bren<gap/> <lb/> es schön liecht<gap/> ein löge ein Guettes <lb/> stuckh<gap/> putter daran lass es also <lb/> sieten<gap/> löge das Wildtprädt in <lb/> ein rein<gap/> Giess<gap/> die suppn<gap/> daryber <lb/> löge noch ein stickhl<gap/> <objectName ref="butter">butter</objectName> Darein <lb/> lass es sieten gibs also fertig. <lb/> </p>
             </div>
         </body>
     </text>

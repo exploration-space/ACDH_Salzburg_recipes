@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SPargel gantzer ordinari gebrüht <lb/> ist gut mit Pfeffer <lb/> Essig und Oel kalt.</p>
+        <p> <objectName ref="spargel">SPargel</objectName> gantzer ordinari gebrüht <lb/> ist gut mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> <objectName ref="essig">Essig</objectName> und Oel kalt. </p>
             </div>
         </body>
     </text>

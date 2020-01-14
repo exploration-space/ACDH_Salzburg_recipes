@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) die Wacholderbeer <lb/> vnd stoß sie <lb/> nim(m) ein Hennenbrüh <lb/> die vber ein Braten gegossen ist worden <lb/> daß nicht viel <lb/> sondern lind gesaltzen ist <lb/> streich mit derselbigen Brüh die Wacholderbeer durch <lb/> laß auffsieden mit gestossenem Pfeffer. Wenn die Kramatsvögel gebraten seyn <lb/> so geuß die Brüh darüber <lb/> weil sie warm ist <lb/> so ist es gut vnnd wolgeschmack.</p>
+        <p> Nim ( m ) die Wacholderbeer <lb/> vnd stoß sie <lb/> nim ( m ) ein Hennenbrüh <lb/> die vber ein Braten gegossen ist worden <lb/> daß nicht viel <lb/> sondern lind gesaltzen ist <lb/> streich mit derselbigen Brüh die Wacholderbeer durch <lb/> laß auffsieden mit gestossenem <objectName ref="pfeffer">Pfeffer</objectName>. Wenn die Kramatsvögel gebraten seyn <lb/> so geuß die Brüh darüber <lb/> weil sie warm ist <lb/> so ist es gut vnnd wolgeschmack. </p>
             </div>
         </body>
     </text>

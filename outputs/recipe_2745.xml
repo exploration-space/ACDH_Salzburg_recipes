@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Diese Suppen wird in allweg gleich der vorigen gemacht <lb/> ausgenommen <lb/> daß man an statt Weinbeer unzeitige Agrest= oder Stahlbeer nehmen kan <lb/> so in allem verfertiget werden <lb/> wie oben bey denen Weintrauben angedeutet worden.</p>
+        <p> Diese <objectName ref="suppe">Suppen</objectName> wird in allweg gleich der vorigen gemacht <lb/> ausgenommen <lb/> daß man an statt Weinbeer unzeitige Agrest= oder Stahlbeer nehmen kan <lb/> so in allem verfertiget werden <lb/> wie oben bey denen <objectName ref="weintrauben">Weintrauben</objectName> angedeutet worden. </p>
             </div>
         </body>
     </text>

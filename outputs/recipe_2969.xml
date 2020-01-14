@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>KApis <lb/> oder weiß Kopff= Kraut <lb/> so noch frisch und süß ist <lb/> wird allweg dem Köhl gleich gefüllt und verkocht <lb/> ist biß dato bey der Suppen und andern Speisen viel darvon geschrieben worden <lb/> jedoch ist noch dieses übrig <lb/> daß zu diesem Kraut schier allzeit ein wenig Kümmel gebraucht wird.</p>
+        <p> KApis <lb/> oder weiß Kopff= <objectName ref="kraut">Kraut</objectName> <lb/> so noch frisch und süß ist <lb/> wird allweg dem Köhl gleich gefüllt und verkocht <lb/> ist biß dato bey der <objectName ref="suppe">Suppen</objectName> und andern Speisen viel darvon geschrieben worden <lb/> jedoch ist noch dieses übrig <lb/> daß zu diesem <objectName ref="kraut">Kraut</objectName> schier allzeit ein wenig <objectName ref="kuemmel">Kümmel</objectName> gebraucht wird. </p>
             </div>
         </body>
     </text>

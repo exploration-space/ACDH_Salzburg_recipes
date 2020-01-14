@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb schens Außschlag mell, vnd salz dasselbe, dan schneid Puter <lb/> drein, vnd treib den Woll ab, in Mell, das er nit khnollig Wird, <lb/> dan nimb ein frisch Wasser, vnd mach darmit an, aber nit Zu <lb/> lehn, dan er bald vergossen ist, Walg ihn auß, richt das fleisch <lb/> oder hiendl drein, schlags ÿber, so ist es bereith. <lb/></p>
+        <p> Nimb schens Außschlag mell, vnd <objectName ref="salz">salz</objectName> dasselbe, dan schneid Puter <lb/> drein, vnd treib den Woll ab, in Mell, das er nit khnollig Wird, <lb/> dan nimb ein frisch <objectName ref="wasser">Wasser</objectName>, vnd mach darmit an, aber nit Zu <lb/> lehn, dan er bald vergossen ist, Walg ihn auß, richt das <objectName ref="fleisch">fleisch</objectName> <lb/> oder hiendl drein, schlags ÿber, so ist es bereith. <lb/> </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@ In einer handschriftlichen Rezeptsammlung, die im Stift Admont liegt (Stiftsarch
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ain viertl Mandl, stoß sie klein, Nimb ain <lb/> viertl Schmalz, treibs ab, die Mandl auch mit dem <lb/> schmalz abgetriben, d(a)s es gar fämbig wiert, Nimb <lb/> 4: ayr .2. ganze, vnd .2. tuter, Nimb .2 Eß= <lb/> =löfel voll wasser, ain viertl zugger, Nimb Meell <lb/> mach ain taigl an, d(a)s er nit zu hart od(er) zu lint <lb/> wiert, Nimb ¼. Buter darzue, souil alß wie in ain <lb/> andern buter taig, vnd v̈berschlag Ime auch also, <lb/><lb/> (5v)</p>
+        <p> Nimb ain viertl Mandl, stoß sie klein, Nimb ain <lb/> viertl <objectName ref="schmalz">Schmalz</objectName>, treibs ab, die Mandl auch mit dem <lb/> <objectName ref="schmalz">schmalz</objectName> abgetriben, d ( a ) s es gar fämbig wiert, Nimb <lb/> 4 : ayr.2. ganze, vnd.2. tuter, Nimb.2 Eß= <lb/> =löfel voll <objectName ref="wasser">wasser</objectName>, ain viertl zugger, Nimb Meell <lb/> mach ain taigl an, d ( a ) s er nit zu hart od ( er ) zu lint <lb/> wiert, Nimb ¼. Buter darzue, souil alß wie in ain <lb/> andern buter taig, vnd v̈berschlag Ime auch also, <lb/><lb/> ( 5v ) </p>
             </div>
         </body>
     </text>

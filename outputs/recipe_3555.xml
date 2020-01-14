@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm frische Aepffel <lb/> scheels <lb/> und schneids ganz dünn <lb/> benetze sie ein wenig mit Wein <lb/> Zucker <lb/> Zimmet <lb/> gibs vorher in die Dorten <lb/> und bache es.</p>
+        <p> NImm frische Aepffel <lb/> scheels <lb/> und schneids ganz dünn <lb/> benetze sie ein wenig mit <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet <lb/> gibs vorher in die Dorten <lb/> und bache es. </p>
             </div>
         </body>
     </text>

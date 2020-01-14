@@ -172,9 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim Hötscherbötsch<gap/> suppen, treibs<gap/> in ein <lb/> degl<gap/> ab, hernach schlag<gap/> ayr<gap/> Clar<gap/> ab, daß <lb/> es schen faimet<gap/>, hernach nimb allezeit ein <lb/> klein Löfl voll gefethen<gap/> zuckher<gap/>, und ein <lb/> ayr<gap/> Clar<gap/> in die sulzen<gap/>, und riehrs<gap/> auf <lb/> einer seithen<gap/> ein ganze stundt ab, schmirbe<gap/> <lb/> ein schisßel<gap/>, richte<gap/> daß mueß<gap/> mit den Löffl <lb/> hinein schen hoch auf einander Bachs<gap/> in offen<gap/> <lb/> oder im rohr so ists guet. <lb/>
-
-[Anm.: „Nim Hötscherbötsch suppen“: „suppen“ wurde nachträglich hinzugefügt.]</p>
+        <p> Nim Hötscherbötsch<gap/> <objectName ref="suppe">suppen</objectName>, treibs<gap/> in ein <lb/> degl<gap/> ab, hernach schlag<gap/> ayr<gap/> Clar<gap/> ab, daß <lb/> es schen faimet<gap/>, hernach nimb allezeit ein <lb/> klein Löfl voll gefethen<gap/> zuckher<gap/>, und ein <lb/> ayr<gap/> Clar<gap/> in die sulzen<gap/>, und riehrs<gap/> auf <lb/> einer seithen<gap/> ein ganze stundt ab, schmirbe<gap/> <lb/> ein schisßel<gap/>, richte<gap/> daß mueß<gap/> mit den Löffl <lb/> hinein schen hoch auf einander Bachs<gap/> in offen<gap/> <lb/> oder im <objectName ref="rohr">rohr</objectName> so ists guet. <lb/> [ Anm. : „ Nim Hötscherbötsch <objectName ref="suppe">suppen</objectName> “ : „ <objectName ref="suppe">suppen</objectName> “ wurde nachträglich hinzugefügt. ] </p>
             </div>
         </body>
     </text>

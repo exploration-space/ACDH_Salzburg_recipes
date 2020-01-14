@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Cut thin Collops off from a Fillet of Veal, and hack them; then take the Yolks of four Eggs beat, a little melted Butter, a little Salt and some Nutmeg, or grated Lemon Peel; then dip in each Collop, and lay them on a Pewter Dish, flour them, and let them lie till you want them. Put a Bit of Butter in the Frying Pan, and fry your Collops quick, shaking them all the time to keep the Butter from oiling; then pour it into a Stew-pan close covered, and keep it warm; then put some Gravy to them, some Mushrooms (or what you like best) and a Bit of Butter; toss it up thick, and squeeze an Orange over it.</p>
+        <p> Cut thin Collops off from a Fillet of Veal, and hack them; then take the Yolks of four Eggs beat, a little melted <objectName ref="butter">Butter</objectName>, a little Salt and some Nutmeg, or grated Lemon Peel; then dip in each Collop, and lay them on a Pewter Dish, flour them, and let them lie till you want them. Put a Bit of <objectName ref="butter">Butter</objectName> in the Frying Pan, and fry your Collops quick, shaking them all the time to keep the <objectName ref="butter">Butter</objectName> from oiling; then pour it into a Stew-pan close covered, and keep it warm; then put some Gravy to them, some Mushrooms ( or what you like best ) and a Bit of <objectName ref="butter">Butter</objectName>; toss it up thick, and squeeze an Orange over it. </p>
             </div>
         </body>
     </text>

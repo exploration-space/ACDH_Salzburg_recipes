@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BResset das Marck von einer Citronen durch ein Tüchlein; rühret dann in einem Schälein so viel Zucker darunter <lb/> biß sie nimmer fliessen <lb/> wie auch ein wenig klein= und würfflicht= zerschnittene Schelffen <lb/> von gedachter Citronen: bestreichet einen Marmorstein mit Mandel= Oel <lb/> und giesset die Grieben oder Morselln darauf <lb/> so gehen sie gerne herab.</p>
+        <p> BResset das Marck von einer Citronen durch ein Tüchlein; rühret dann in einem Schälein so viel <objectName ref="zucker">Zucker</objectName> darunter <lb/> biß sie nimmer fliessen <lb/> wie auch ein wenig klein= und würfflicht= zerschnittene Schelffen <lb/> von gedachter Citronen : bestreichet einen Marmorstein mit Mandel= Oel <lb/> und giesset die <objectName ref="grieben">Grieben</objectName> oder Morselln darauf <lb/> so gehen sie gerne herab. </p>
             </div>
         </body>
     </text>

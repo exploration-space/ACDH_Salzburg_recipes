@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb das bräth gsotner oder rocher, stosß es in eim Merser, ÿberhakh <lb/> Zuuor ein guets march oder faisten, treibs in ein Pëkhl ab, mit einem <lb/> Milchrämb, Salz, schlag aÿr dran, souill vonnöthen, es mueß ring an= <lb/> gemacht sein, vnd ein wenig Mußcatblüe vnd Zimetstup, hiz ein schmalz <lb/> in einer Pfan, gieß darein, nit gar 2. finger hoch unden vnd oben ein <lb/> gluet, gibs Warmb. <lb/></p>
+        <p> Nimb das bräth gsotner oder rocher, stosß es in eim Merser, ÿberhakh <lb/> Zuuor ein guets march oder faisten, treibs in ein Pëkhl ab, mit einem <lb/> Milchrämb, <objectName ref="salz">Salz</objectName>, schlag aÿr dran, souill vonnöthen, es mueß ring an= <lb/> gemacht sein, vnd ein wenig Mußcatblüe vnd Zimetstup, hiz ein <objectName ref="schmalz">schmalz</objectName> <lb/> in einer Pfan, gieß darein, nit gar 2. finger hoch unden vnd oben ein <lb/> gluet, gibs Warmb. <lb/> </p>
             </div>
         </body>
     </text>

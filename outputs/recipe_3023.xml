@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIto <lb/> gelbe Ruben gebutzt <lb/> nach der Länge entzwey geschnitten <lb/> ausgehohlt <lb/> mit guter Füll gefüllt <lb/> gebachen <lb/> oder ungebachen <lb/> und mit Butter <lb/> Zwibel <lb/> Gewürtz und Petersil <lb/> auch andern guten Kräutlein <lb/> mit Erbesbrühe <lb/> mit kurtzer Brühe gar gekocht.</p>
+        <p> DIto <lb/> gelbe Ruben gebutzt <lb/> nach der Länge entzwey geschnitten <lb/> ausgehohlt <lb/> mit guter Füll gefüllt <lb/> gebachen <lb/> oder ungebachen <lb/> und mit <objectName ref="butter">Butter</objectName> <lb/> Zwibel <lb/> Gewürtz und Petersil <lb/> auch andern guten Kräutlein <lb/> mit Erbesbrühe <lb/> mit kurtzer <objectName ref="bruehe">Brühe</objectName> gar gekocht. </p>
             </div>
         </body>
     </text>

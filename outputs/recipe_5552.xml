@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mach ein Teig an von lauter Wein <lb/> stoß Weichsel mit dem Stengel hinein <lb/> laß den Teig herab rinnen <lb/> vnd wirffs geschwindt in heisse Butter <lb/> vnd laß geschwindt backen <lb/> daß der Safft nit herauß rinnet <lb/> wenns gebacken ist <lb/> so besträw es mit weissem Zucker <lb/> vnd gibs warm auff ein Tisch.</p>
+        <p> Mach ein <objectName ref="teig">Teig</objectName> an von lauter <objectName ref="wein">Wein</objectName> <lb/> stoß Weichsel mit dem Stengel hinein <lb/> laß den <objectName ref="teig">Teig</objectName> herab rinnen <lb/> vnd wirffs geschwindt in heisse <objectName ref="butter">Butter</objectName> <lb/> vnd laß geschwindt backen <lb/> daß der Safft nit herauß rinnet <lb/> wenns gebacken ist <lb/> so besträw es mit weissem <objectName ref="zucker">Zucker</objectName> <lb/> vnd gibs warm auff ein <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) die Zungen auß dem Karpffen <lb/> vnd laß sie an die statt sieden <lb/> säuber vnd schab sie auß. Nim(m) darnach Pfeffer vn(n) Saltz durcheinander <lb/> leg die Zungen in Austern Schalen <lb/> thu darein ein wenig vngeschmältzte Butter <lb/> sträw Pfeffer vnnd Saltz darüber <lb/> thu sie auff ein Roßt auff Kolen <lb/> vnnd laß braten <lb/> kehrs offt vmb <lb/> wenn sie gebraten seyn <lb/> so richt sie auff ein Schüssel an <lb/> sampt den Schalen <lb/> so ist es ein gut Essen.</p>
+        <p> Nim ( m ) die <objectName ref="zunge">Zungen</objectName> auß dem Karpffen <lb/> vnd laß sie an die statt sieden <lb/> säuber vnd schab sie auß. Nim ( m ) darnach <objectName ref="pfeffer">Pfeffer</objectName> vn ( n ) Saltz durcheinander <lb/> leg die <objectName ref="zunge">Zungen</objectName> in <objectName ref="austern">Austern</objectName> Schalen <lb/> thu darein ein wenig vngeschmältzte <objectName ref="butter">Butter</objectName> <lb/> sträw <objectName ref="pfeffer">Pfeffer</objectName> vnnd Saltz darüber <lb/> thu sie auff ein Roßt auff Kolen <lb/> vnnd laß braten <lb/> kehrs offt vmb <lb/> wenn sie gebraten seyn <lb/> so richt sie auff ein <objectName ref="schuessel">Schüssel</objectName> an <lb/> sampt den Schalen <lb/> so ist es ein gut Essen. </p>
             </div>
         </body>
     </text>

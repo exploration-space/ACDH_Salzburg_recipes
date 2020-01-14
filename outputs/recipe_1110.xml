@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Lard your Breast of Veal with Bacon; then half boil it in Water and Salt, whole Pepper, and a Bunch of Sweet Herbs; then take it out, and dust it with some grated Bread, Sweet herbs shred small, grated Nutmeg and Salt, all mixed together; then broil it on both Sides, and make a Sauce of Anchovies and Gravy thicken'd up with Butter. Garnish with Pickles.</p>
+        <p> Lard your Breast of Veal with Bacon; then half boil it in Water and Salt, whole Pepper, and a Bunch of Sweet Herbs; then take it out, and dust it with some grated Bread, Sweet herbs shred small, grated Nutmeg and Salt, all mixed together; then broil it on both Sides, and make a <objectName ref="sauce">Sauce</objectName> of Anchovies and Gravy thicken 'd up with <objectName ref="butter">Butter</objectName>. Garnish with Pickles. </p>
             </div>
         </body>
     </text>

@@ -173,9 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein guetten brockhen<gap/> Putter treib<gap/> <lb/> in ab, daß er schen auflaufft, schlag .3. ayr <lb/> Dotter vnd .2. ganze air<gap/> Darein, riehrs<gap/> wol <lb/> ab, vnnd Nimb germb<gap/> souil du Vermeinst <lb/> Daß genueg sey, vnd ein guette sisse <lb/> milich<gap/> riehr<gap/> ein weises<gap/> mehl darein, <lb/> vnnd ein hendtuol Clein gestossne<gap/> Mandl, <lb/> mehl darein, machs in der dickhe<gap/> daß <lb/> er gleich von löfel herunder geht, schmirb<gap/> <lb/> ein modl<gap/> mit butter ein, gieß<gap/> den taig<gap/> <lb/> darein, sez ihn in ein Dortten pfann<gap/>, laß <lb/> Kiell<gap/> bachen<gap/>, Kanst in Zuckhern wan du wilst, <lb/> so ist er fertig <lb/>
-
-[Anm.: Die Kräuter, welche Teil des Rezeptes sind, scheinen nur in der Überschrift auf, sie werden im Rezept als selbstverständliche Zutat vorausgesetzt und nicht mehr als Zutat angeführt.]</p>
+        <p> Nimb ein guetten brockhen<gap/> Putter treib<gap/> <lb/> in ab, daß er schen auflaufft, schlag.3. ayr <lb/> Dotter vnd.2. ganze air<gap/> Darein, riehrs<gap/> wol <lb/> ab, vnnd Nimb germb<gap/> souil du Vermeinst <lb/> Daß genueg sey, vnd ein guette sisse <lb/> milich<gap/> riehr<gap/> ein weises<gap/> <objectName ref="mehl">mehl</objectName> darein, <lb/> vnnd ein hendtuol Clein gestossne<gap/> Mandl, <lb/> <objectName ref="mehl">mehl</objectName> darein, machs in der dickhe<gap/> daß <lb/> er gleich von löfel herunder geht, schmirb<gap/> <lb/> ein modl<gap/> mit <objectName ref="butter">butter</objectName> ein, gieß<gap/> den taig<gap/> <lb/> darein, sez ihn in ein Dortten pfann<gap/>, laß <lb/> Kiell<gap/> bachen<gap/>, Kanst in Zuckhern wan du wilst, <lb/> so ist er fertig <lb/> [ Anm. : Die <objectName ref="kraeuter">Kräuter</objectName>, welche Teil des Rezeptes sind, scheinen nur in der Überschrift auf, sie werden im Rezept als selbstverständliche Zutat vorausgesetzt und nicht mehr als Zutat angeführt. ] </p>
             </div>
         </body>
     </text>

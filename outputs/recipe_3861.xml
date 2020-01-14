@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn dise abgesotten <lb/> werden sie in einer gelben mit Petersil durchgetriebnen Erbsen= Brühe <lb/> mit Butter und Gewürtz eingericht <lb/> warmer <lb/> oder mit Eßig und Kreen kalter gegeben.</p>
+        <p> WAnn dise abgesotten <lb/> werden sie in einer gelben mit Petersil durchgetriebnen Erbsen= <objectName ref="bruehe">Brühe</objectName> <lb/> mit <objectName ref="butter">Butter</objectName> und Gewürtz eingericht <lb/> warmer <lb/> oder mit Eßig und Kreen kalter gegeben. </p>
             </div>
         </body>
     </text>

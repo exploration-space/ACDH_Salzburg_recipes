@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Röste die zerlegte Haßel= oder Reb= Hünlein <lb/> wann sie gebraten <lb/> mit wenig Meel im Butter <lb/> und wann das Meel braun genug <lb/> so röste das Nägelein= Stupp auch mit <lb/> biß es lieblich riechet <lb/> hernach gib Wein <lb/> oder Eßig und Fleischbrühe daran <lb/> aber nicht zu viel <lb/> mit wenig Pfeffer und Lemoni= Schelffen; hast du ein braunes jus darzu <lb/> so ist es besser <lb/> regaliers mit Genueser= Kräpfflein <lb/> oder Pastetlein.</p>
+        <p> Röste die zerlegte Haßel= oder Reb= Hünlein <lb/> wann sie gebraten <lb/> mit wenig Meel im <objectName ref="butter">Butter</objectName> <lb/> und wann das Meel braun genug <lb/> so röste das Nägelein= Stupp auch mit <lb/> biß es lieblich riechet <lb/> hernach gib <objectName ref="wein">Wein</objectName> <lb/> oder Eßig und <objectName ref="fleischbruehe">Fleischbrühe</objectName> daran <lb/> aber nicht zu viel <lb/> mit wenig <objectName ref="pfeffer">Pfeffer</objectName> und Lemoni= Schelffen; hast du ein braunes <objectName ref="jus">jus</objectName> darzu <lb/> so ist es besser <lb/> regaliers mit Genueser= Kräpfflein <lb/> oder Pastetlein. </p>
             </div>
         </body>
     </text>

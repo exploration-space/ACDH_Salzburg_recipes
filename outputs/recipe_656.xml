@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneide weisses Brod würfflicht <lb/> röste es zusamt einem Löffel voll Zucker im Schmaltz <lb/> es muß aber deß Schmaltzes nicht viel seyn <lb/> sondern daß nur das Brod damit angefeuchtet werde; legs hernach in eine Schüssel <lb/> zupffe schöne grosse Weixeln ab <lb/> und wasche sie aus einem frischen Wasser <lb/> röste selbige in der Pfannen im Zucker <lb/> gieß Wein daran <lb/> laß ein wenig mit einander sieden: richts dann über das geröstete Brod <lb/> und streue Zucker und Zimmet <lb/> oder aber ein Trisanet darauf.</p>
+        <p> SChneide weisses Brod würfflicht <lb/> röste es zusamt einem <objectName ref="loeffel">Löffel</objectName> voll <objectName ref="zucker">Zucker</objectName> im Schmaltz <lb/> es muß aber deß Schmaltzes nicht viel seyn <lb/> sondern daß nur das Brod damit angefeuchtet werde; legs hernach in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> zupffe schöne grosse Weixeln ab <lb/> und wasche sie aus einem frischen <objectName ref="wasser">Wasser</objectName> <lb/> röste selbige in der Pfannen im <objectName ref="zucker">Zucker</objectName> <lb/> gieß <objectName ref="wein">Wein</objectName> daran <lb/> laß ein wenig mit einander sieden : richts dann über das geröstete Brod <lb/> und streue <objectName ref="zucker">Zucker</objectName> und Zimmet <lb/> oder aber ein Trisanet darauf. </p>
             </div>
         </body>
     </text>

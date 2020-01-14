@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Khiten, schelß vnnd spalts voneinand(er), <lb/> Puz die Kern darauß, sez zue in ain siedigen <lb/> wasser, laß sieden, aber d(a)s sie nit zu waich werden, <lb/> Nimb ½. mäßl wasser, vnd ¼. zugger zusamben, <lb/> in ain Pöckh, laß sieden, fämb es ab, vnd wan du <lb/> es abgefämbt host, so leg die Küten darein, Nimb <lb/> ain Citronni, druckh den Safft darein, die Zitron <lb/> schallen schneit gar klein, v̈ber sits in ein wasser <lb/> solang man ain par ayr siedt, thue es in d(a)s böckh, <lb/> wan die Küten gesoten haben biß auf ain Mäßl, <lb/> solegs auf ain Schißl, thue die Zitron scheller oben <lb/> darauf, auf die Sulz, vnd sez auf ein Kaltes orth, <lb/> laß bestehen, <lb/></p>
+        <p> Nimb Khiten, schelß vnnd spalts voneinand ( er ), <lb/> Puz die Kern darauß, sez zue in ain siedigen <lb/> <objectName ref="wasser">wasser</objectName>, laß sieden, aber d ( a ) s sie nit zu waich werden, <lb/> Nimb ½. mäßl <objectName ref="wasser">wasser</objectName>, vnd ¼. zugger zusamben, <lb/> in ain Pöckh, laß sieden, fämb es ab, vnd wan du <lb/> es abgefämbt host, so leg die Küten darein, Nimb <lb/> ain Citronni, druckh den Safft darein, die Zitron <lb/> schallen schneit gar klein, v̈ber sits in ein <objectName ref="wasser">wasser</objectName> <lb/> solang man ain par ayr siedt, thue es in d ( a ) s böckh, <lb/> wan die Küten gesoten haben biß auf ain Mäßl, <lb/> solegs auf ain Schißl, thue die Zitron scheller oben <lb/> darauf, auf die Sulz, vnd sez auf ein Kaltes orth, <lb/> laß bestehen, <lb/> </p>
             </div>
         </body>
     </text>

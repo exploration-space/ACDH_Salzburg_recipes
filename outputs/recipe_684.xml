@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAsche sie wohl aus warmen Wasser <lb/> so lang biß solches davon gantz hell und rein herab fliesset; setze selbige in einem andern Wasser zu <lb/> laß sieden <lb/> biß sie eine dicke Brüh bekommen <lb/> und brenne ein wenig Mehl daran.</p>
+        <p> WAsche sie wohl aus warmen <objectName ref="wasser">Wasser</objectName> <lb/> so lang biß solches davon gantz hell und <objectName ref="rein">rein</objectName> herab fliesset; setze selbige in einem andern <objectName ref="wasser">Wasser</objectName> zu <lb/> laß sieden <lb/> biß sie eine dicke Brüh bekommen <lb/> und brenne ein wenig <objectName ref="mehl">Mehl</objectName> daran. </p>
             </div>
         </body>
     </text>

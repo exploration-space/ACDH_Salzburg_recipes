@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Turtelet von allerley grün Kräutern <lb/> d(aß) mans also macht wie von Spenat.</p>
+        <p> Turtelet von allerley grün <objectName ref="kraeuter">Kräutern</objectName> <lb/> d ( aß ) mans also macht wie von Spenat. </p>
             </div>
         </body>
     </text>

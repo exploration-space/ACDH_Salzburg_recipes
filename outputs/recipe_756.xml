@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Rosoglio nit gar .2. theil zukher vnd <lb/> ein theil Prandtwein daß geshier von <lb/> methall zu sieden, aber nit gar ein <lb/> halbe Stundt, dem geruch von geistern <lb/> Jesamin oder Pomeränzen, den Prandt,, <lb/> wein Sieden lasßen aber daß nit daß feuer <lb/> darein schlagt vnd sieden lasßen darauf <lb/> der den zukher in Prandtwein sieden <lb/> lasßen, hernach hebe daß Rosoglio hin,, <lb/> weg, seiches durch, vnd laß etlich tag <lb/> an der Son stehen. <lb/><lb/></p>
+        <p> Rosoglio nit gar.2. theil zukher vnd <lb/> ein theil Prandtwein daß geshier von <lb/> methall zu sieden, aber nit gar ein <lb/> halbe Stundt, dem geruch von geistern <lb/> Jesamin oder Pomeränzen, den Prandt,, <lb/> <objectName ref="wein">wein</objectName> Sieden lasßen aber daß nit daß <objectName ref="feuer">feuer</objectName> <lb/> darein schlagt vnd sieden lasßen darauf <lb/> der den zukher in Prandtwein sieden <lb/> lasßen, hernach hebe daß Rosoglio hin,, <lb/> weg, seiches durch, vnd laß etlich tag <lb/> an der Son stehen. <lb/><lb/> </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m)  ein solchen Teig <lb/> vnd treib jn auß <lb/> schlag Weichselsalsen darein <lb/> schneidts mit dem Redtlein ab <lb/> wirffs in Butter <lb/> vnd backs <lb/> gibs warm auff ein Tisch <lb/> vnd besträw es mit weissem Zucker <lb/> so seind es gute Krapffen von Weichselsalsen. Du magst solche Krapffen machen von allerley Salsen.</p>
+        <p> Nim ( m ) ein solchen <objectName ref="teig">Teig</objectName> <lb/> vnd treib jn auß <lb/> schlag Weichselsalsen darein <lb/> schneidts mit dem Redtlein ab <lb/> wirffs in <objectName ref="butter">Butter</objectName> <lb/> vnd backs <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> vnd besträw es mit weissem <objectName ref="zucker">Zucker</objectName> <lb/> so seind es gute Krapffen von Weichselsalsen. Du magst solche Krapffen machen von allerley Salsen. </p>
             </div>
         </body>
     </text>

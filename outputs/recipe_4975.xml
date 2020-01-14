@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>KOchet die Möhren oder gelbe Ruben <lb/> wie schon gedacht <lb/> aber nur im Wasser <lb/> dann von der Brüh werden sie nicht so gut; wann sie nun gesotten und abgebrühet <lb/> kan mans mit Weixeln also machen: Thut ein theil gelb= gekochter Ruben in einen stollichten Hafen; nehmet hernach abgezupffte Weixeln <lb/> waschet und röstets im Schmaltz <lb/> schüttets dann in den Hafen zu den Ruben <lb/> rührets unter einander <lb/> deckets zu <lb/> und last sie sieden.</p>
+        <p> KOchet die Möhren oder gelbe Ruben <lb/> wie schon gedacht <lb/> aber nur im <objectName ref="wasser">Wasser</objectName> <lb/> dann von der Brüh werden sie nicht so gut; wann sie nun gesotten und abgebrühet <lb/> kan mans mit Weixeln also machen : Thut ein theil gelb= gekochter Ruben in einen stollichten <objectName ref="hafen">Hafen</objectName>; nehmet hernach abgezupffte Weixeln <lb/> waschet und röstets im Schmaltz <lb/> schüttets dann in den <objectName ref="hafen">Hafen</objectName> zu den Ruben <lb/> rührets unter einander <lb/> deckets zu <lb/> und last sie sieden. </p>
             </div>
         </body>
     </text>

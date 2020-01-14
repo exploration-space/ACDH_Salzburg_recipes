@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Geudt jn in Wein <lb/> Essig vnd Saltz <lb/> ab <lb/> laß jn im Saltzwasser ligen <lb/> biß er kalt wirdt <lb/> mach jn eyn in ein Feßlein oder Hafen <lb/> thu darzwischen grün Fenchel oder Dill <lb/> vnd geuß lauter Weinessig darüber <lb/> so kan er sich ein gantz viertel Jar halten <lb/> daß er gut vnd wolgeschmack bleibt.</p>
+        <p> Geudt jn in <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="essig">Essig</objectName> vnd Saltz <lb/> ab <lb/> laß jn im Saltzwasser ligen <lb/> biß er kalt wirdt <lb/> mach jn eyn in ein Feßlein oder <objectName ref="hafen">Hafen</objectName> <lb/> thu darzwischen grün <objectName ref="fenchel">Fenchel</objectName> oder <objectName ref="dill">Dill</objectName> <lb/> vnd geuß lauter <objectName ref="weinessig">Weinessig</objectName> darüber <lb/> so kan er sich ein gantz viertel Jar halten <lb/> daß er gut vnd wolgeschmack bleibt. </p>
             </div>
         </body>
     </text>

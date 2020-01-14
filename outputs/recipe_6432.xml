@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Mehl <lb/> Eyerdotter <lb/> vnd ein wenig Milch darvnter <lb/> streich es durch ein Härin Tuch <lb/> rürs in gesotten Milch <lb/> wen(n)s auffgesotten ist <lb/> so rür darvnter frische Butter <lb/> die vnzerlassen ist <lb/> vnd saltzs ab <lb/> wenn du es anrichtest <lb/> so thu klein geschnitten Brot darauff <lb/> so darffstu das Müßlein nit zuckern. Denn es ist an jm selber gut vnd wolgeschmack. Vnd das Muß nennet man Pappin.</p>
+        <p> Nim ( m ) <objectName ref="mehl">Mehl</objectName> <lb/> Eyerdotter <lb/> vnd ein wenig <objectName ref="milch">Milch</objectName> darvnter <lb/> streich es durch ein Härin <objectName ref="tuch">Tuch</objectName> <lb/> rürs in gesotten <objectName ref="milch">Milch</objectName> <lb/> wen ( n ) s auffgesotten ist <lb/> so rür darvnter frische <objectName ref="butter">Butter</objectName> <lb/> die vnzerlassen ist <lb/> vnd saltzs ab <lb/> wenn du es anrichtest <lb/> so thu klein geschnitten <objectName ref="brot">Brot</objectName> darauff <lb/> so darffstu das Müßlein nit <objectName ref="zucker">zuckern</objectName>. Denn es ist an jm selber gut vnd wolgeschmack. Vnd das Muß nennet man Pappin. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SPargel ist auch gut gantz oder geschnitten <lb/> gebrüht <lb/> mit Pfeffer und Muscatnuß <lb/> in guter etwas dicker Ram= Brühe.</p>
+        <p> <objectName ref="spargel">SPargel</objectName> ist auch gut gantz oder geschnitten <lb/> gebrüht <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName> und Muscatnuß <lb/> in guter etwas dicker Ram= <objectName ref="bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

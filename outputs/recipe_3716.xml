@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Gäumen wohl gesotten <lb/> gehäutlet <lb/> oder gebutzt <lb/> und dünn geschnitten <lb/> können mit Gewürtz <lb/> Lemoni=Schelffen <lb/> guten Schwammen zur Rago <lb/> oder mit kleinen Petersil=Kräutlein zur Fricasse, oder mit Zwibel sauer <lb/> in gelber Brühe gekocht <lb/> und zugericht werden.</p>
+        <p> DIe Gäumen wohl gesotten <lb/> gehäutlet <lb/> oder gebutzt <lb/> und dünn geschnitten <lb/> können mit Gewürtz <lb/> Lemoni=Schelffen <lb/> guten Schwammen zur Rago <lb/> oder mit kleinen Petersil=Kräutlein zur Fricasse, oder mit Zwibel sauer <lb/> in gelber <objectName ref="bruehe">Brühe</objectName> gekocht <lb/> und zugericht werden. </p>
             </div>
         </body>
     </text>

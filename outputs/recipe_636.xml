@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Marilln oder Abricosen werden geschählet <lb/> und halb voneinander geschnitten; dann nimmt man die Kerne heraus <lb/> giesst einen Wein daran <lb/> läst sie in einer Schüssel dünsten <lb/> streuet Zucker und Trisanet darein <lb/> und schneidet Pinien=Nüßlein oder Mandeln darunter : Zuletzt werden sie auch mit selbigen <lb/> oder aber kleinen Stengelein Bisam=Zucker <lb/> bestecket <lb/> und aufgetragen.</p>
+        <p> DIe Marilln oder Abricosen werden geschählet <lb/> und halb voneinander geschnitten; dann nimmt man die Kerne heraus <lb/> giesst einen <objectName ref="wein">Wein</objectName> daran <lb/> läst sie in einer <objectName ref="schuessel">Schüssel</objectName> dünsten <lb/> streuet <objectName ref="zucker">Zucker</objectName> und Trisanet darein <lb/> und schneidet Pinien=Nüßlein oder <objectName ref="mandeln">Mandeln</objectName> darunter : Zuletzt werden sie auch mit selbigen <lb/> oder aber kleinen Stengelein Bisam=Zucker <lb/> bestecket <lb/> und aufgetragen. </p>
             </div>
         </body>
     </text>

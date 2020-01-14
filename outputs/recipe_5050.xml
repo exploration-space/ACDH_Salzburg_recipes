@@ -173,9 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm geriebne Mandel <lb/> und wohl halb so viel Zucker <lb/> mit Lemoni=Schaalen <lb/> oder wohlriechend Wasser <lb/> und Eyer=Dotter <lb/> oder auch dergleichen Faim angemacht <lb/> sammt ein wenig Lemoni=Safft <lb/> rührs unter einander <lb/> und fülle die Kräpfflein von Butter oder mürben Taig <lb/> und bachs der Gebühr nach im Ofen <lb/> oder im Schmaltz <lb/> mit oder ohne Eyß <lb/> dise dienen allzeit zum Garnieren <lb/> oder auch vor ein Speis.
-
- </p>
+        <p> Nimm geriebne Mandel <lb/> und wohl halb so viel <objectName ref="zucker">Zucker</objectName> <lb/> mit Lemoni=Schaalen <lb/> oder wohlriechend <objectName ref="wasser">Wasser</objectName> <lb/> und Eyer=Dotter <lb/> oder auch dergleichen Faim angemacht <lb/> sammt ein wenig Lemoni=Safft <lb/> rührs unter einander <lb/> und fülle die Kräpfflein von <objectName ref="butter">Butter</objectName> oder mürben Taig <lb/> und bachs der Gebühr nach im <objectName ref="ofen">Ofen</objectName> <lb/> oder im Schmaltz <lb/> mit oder ohne Eyß <lb/> dise dienen allzeit zum Garnieren <lb/> oder auch vor ein Speis. </p>
             </div>
         </body>
     </text>

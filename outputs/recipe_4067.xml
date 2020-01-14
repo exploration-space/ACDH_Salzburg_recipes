@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>KLaube gedörrte Feigen sauber <lb/> wie auch Weinbeerlein <lb/> hacke es klein untereinander <lb/> siede dieses Gehäck in gutem Wein <lb/> oder Wein= Most <lb/> aber nicht zu dünn <lb/> mische wenig Zucker <lb/> Zimmet <lb/> und anders Gewürtz darunter <lb/> damit es ein wenig recent wird <lb/> laß abkühlen <lb/> streichs hernach mit Oblat= oder Taig= Blätter <lb/> und lege ein anders darüber <lb/> schneids nach Gefallen <lb/> mach einen Taig mit purem Wein und Mund= Meel an <lb/> in der Dicken wie einen Salbey= Taig <lb/> duncke die Oblat an denen Enden in den Taig <lb/> und bachs schön Liecht= gelb aus Schmaltz <lb/> das nicht gar zu heiß ist.</p>
+        <p> KLaube gedörrte <objectName ref="feigen">Feigen</objectName> sauber <lb/> wie auch Weinbeerlein <lb/> hacke es klein untereinander <lb/> siede dieses <objectName ref="gehaeck">Gehäck</objectName> in gutem <objectName ref="wein">Wein</objectName> <lb/> oder Wein= <objectName ref="most">Most</objectName> <lb/> aber nicht zu dünn <lb/> mische wenig <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet <lb/> und anders Gewürtz darunter <lb/> damit es ein wenig recent wird <lb/> laß abkühlen <lb/> streichs hernach mit Oblat= oder Taig= Blätter <lb/> und lege ein anders darüber <lb/> schneids nach Gefallen <lb/> mach einen Taig mit purem <objectName ref="wein">Wein</objectName> und Mund= Meel an <lb/> in der Dicken wie einen Salbey= Taig <lb/> duncke die Oblat an denen Enden in den Taig <lb/> und bachs schön Liecht= gelb aus Schmaltz <lb/> das nicht gar zu heiß ist. </p>
             </div>
         </body>
     </text>

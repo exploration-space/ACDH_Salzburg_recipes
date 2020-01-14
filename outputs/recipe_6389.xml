@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Koch jn mit einer Rindtfleischbrüh <lb/> wie man Gersten seudt <lb/> oder mit Mandelmilch fein süß <lb/> oder mit Kühmilch <lb/> vnd frischer vngesaltzener Butter <lb/> die nicht saur ist <lb/> so wirt es weiß vnd wolgeschmack.</p>
+        <p> Koch jn mit einer Rindtfleischbrüh <lb/> wie man <objectName ref="gerste">Gersten</objectName> seudt <lb/> oder mit <objectName ref="mandelmilch">Mandelmilch</objectName> fein süß <lb/> oder mit Kühmilch <lb/> vnd frischer vngesaltzener <objectName ref="butter">Butter</objectName> <lb/> die nicht saur ist <lb/> so wirt es weiß vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

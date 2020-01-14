@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Reh= Schlegel werden ordinari sauber gehäutlet <lb/> gesaltzen <lb/> gepaitzt <lb/> oder frischer gespickt und gebraten <lb/> mit einer gelben <lb/> oder braunen Brühe von Capry= Zwibel= Lemoni= Müschlein= Sardellen= Citronen= Maulbeer= oder Weichsel= Brühe <lb/> und andern sauren <lb/> oder süssen Sossen versehen.</p>
+        <p> DIe Reh= <objectName ref="schlegel">Schlegel</objectName> werden ordinari sauber gehäutlet <lb/> gesaltzen <lb/> gepaitzt <lb/> oder frischer gespickt und gebraten <lb/> mit einer gelben <lb/> oder braunen <objectName ref="bruehe">Brühe</objectName> von Capry= Zwibel= Lemoni= Müschlein= Sardellen= Citronen= Maulbeer= oder Weichsel= <objectName ref="bruehe">Brühe</objectName> <lb/> und andern sauren <lb/> oder süssen Sossen versehen. </p>
             </div>
         </body>
     </text>

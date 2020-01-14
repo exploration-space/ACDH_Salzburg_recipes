@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Auch Knödel von Wachteln <lb/> daß man die Füß vnd Flügel nimpt zu den Knödeln <lb/> vnd d(aß) mans miteinander seudt vnd eynmacht <lb/> so sihet mans <lb/> daß Wachteln seindt.</p>
+        <p> Auch <objectName ref="knoedel">Knödel</objectName> von <objectName ref="wachtel">Wachteln</objectName> <lb/> daß man die Füß vnd Flügel nimpt zu den <objectName ref="knoedel">Knödeln</objectName> <lb/> vnd d ( aß ) mans miteinander seudt vnd eynmacht <lb/> so sihet mans <lb/> daß <objectName ref="wachtel">Wachteln</objectName> seindt. </p>
             </div>
         </body>
     </text>

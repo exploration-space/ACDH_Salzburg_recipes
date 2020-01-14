@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) den Karpffen <lb/> schupe jhn <lb/> vnd thu jn auff <lb/> saltz jhn eyn <lb/> vnd laß jhn ein weil im Saltz ligen <lb/> setz Wasser auff mit Petersilgen Wurtzel <lb/> auch mit Muscatenblüt <lb/> gantzem Pfeffer <lb/> vnnd klein gehackte geschweißte Zwibeln. Wasch den Karpffen auß dem Saltz <lb/> vnd leg jn in die Brüh <lb/> laß darmit sieden <lb/> pfeffers vnd saltzs <lb/> so wird es gut vnd wolgeschmack. Also kocht man die Karpffen in seiner eygenen Brüh <lb/> Vnnd wenn man wil anrichten <lb/> so thut man gebehte Schnitten Brot darvnter <lb/> so wirdt es desto besser vnnd wolgeschmacker.</p>
+        <p> Nim ( m ) den Karpffen <lb/> schupe jhn <lb/> vnd thu jn auff <lb/> saltz jhn eyn <lb/> vnd laß jhn ein weil im Saltz ligen <lb/> setz <objectName ref="wasser">Wasser</objectName> auff mit Petersilgen Wurtzel <lb/> auch mit Muscatenblüt <lb/> gantzem <objectName ref="pfeffer">Pfeffer</objectName> <lb/> vnnd klein gehackte geschweißte Zwibeln. Wasch den Karpffen auß dem Saltz <lb/> vnd leg jn in die Brüh <lb/> laß darmit sieden <lb/> pfeffers vnd saltzs <lb/> so wird es gut vnd wolgeschmack. Also kocht man die Karpffen in seiner eygenen Brüh <lb/> Vnnd wenn man wil anrichten <lb/> so thut man gebehte Schnitten <objectName ref="brot">Brot</objectName> darvnter <lb/> so wirdt es desto besser vnnd wolgeschmacker. </p>
             </div>
         </body>
     </text>

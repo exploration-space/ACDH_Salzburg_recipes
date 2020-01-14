@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn die Köpflein im gesaltznen Wasser genug gesotten <lb/> werden sie sammt der Zung sauber geputzt <lb/> mit Butter begossen <lb/> mit angemachten Semmel=Brosen bestreut <lb/> auf dem Rost abgebräunt <lb/> und also trucken gegeben; gib darzu wenig Eßig <lb/> Pfeffer und Saltz <lb/> seynd sie gantzer <lb/> so löse das Hirn=Schälein auf.</p>
+        <p> WAnn die Köpflein im gesaltznen <objectName ref="wasser">Wasser</objectName> genug gesotten <lb/> werden sie sammt der Zung sauber geputzt <lb/> mit <objectName ref="butter">Butter</objectName> begossen <lb/> mit angemachten Semmel=Brosen bestreut <lb/> auf dem <objectName ref="rost">Rost</objectName> abgebräunt <lb/> und also trucken gegeben; gib darzu wenig Eßig <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Saltz <lb/> seynd sie gantzer <lb/> so löse das Hirn=Schälein auf. </p>
             </div>
         </body>
     </text>

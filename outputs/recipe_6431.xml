@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Brenn Mehl in Milch <lb/> nicht gar zu dick <lb/> wen(n)s gesotten ist <lb/> so saltz ab <lb/> vnd schaw <lb/> daß du es nicht versaltzest. Wenn du es wilt anrichten <lb/> so thu gerößt  Brot <lb/> das klein geschnitten ist <lb/> darüber <lb/> vnd besträw es auch mit Zucker <lb/> so ist es gut vnd wolgeschmack.</p>
+        <p> Brenn <objectName ref="mehl">Mehl</objectName> in <objectName ref="milch">Milch</objectName> <lb/> nicht gar zu dick <lb/> wen ( n ) s gesotten ist <lb/> so saltz ab <lb/> vnd schaw <lb/> daß du es nicht versaltzest. Wenn du es wilt anrichten <lb/> so thu gerößt <objectName ref="brot">Brot</objectName> <lb/> das klein geschnitten ist <lb/> darüber <lb/> vnd besträw es auch mit <objectName ref="zucker">Zucker</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

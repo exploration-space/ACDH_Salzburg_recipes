@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ain wenig Wein in ain rein<gap/>, auch ain <lb/> Stickhl<gap/> zugger<gap/>, Lemany<gap/> Schöllen<gap/>, ein wenig <lb/> Putter<gap/>, laß auf sieden<gap/>, strähe<gap/> hernach gereste<gap/> <lb/> Semmbl Prosn darauf, laß also dickh<gap/> ain sieden<gap/> <lb/> gibs warmer. <lb/></p>
+        <p> Nimb ain wenig <objectName ref="wein">Wein</objectName> in ain rein<gap/>, auch ain <lb/> Stickhl<gap/> zugger<gap/>, Lemany<gap/> Schöllen<gap/>, ein wenig <lb/> Putter<gap/>, laß auf sieden<gap/>, strähe<gap/> hernach gereste<gap/> <lb/> Semmbl Prosn darauf, laß also dickh<gap/> ain sieden<gap/> <lb/> gibs warmer. <lb/> </p>
             </div>
         </body>
     </text>

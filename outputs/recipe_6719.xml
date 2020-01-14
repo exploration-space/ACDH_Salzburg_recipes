@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Gebackene Hechtleber <lb/> mit Agrastbrüh begossen <lb/> oder trucken gegeben auff ein Tisch <lb/> oder auff ein grün Kraut gelegt.</p>
+        <p> Gebackene <objectName ref="hechtleber">Hechtleber</objectName> <lb/> mit Agrastbrüh begossen <lb/> oder trucken gegeben auff ein <objectName ref="tisch">Tisch</objectName> <lb/> oder auff ein grün <objectName ref="kraut">Kraut</objectName> gelegt. </p>
             </div>
         </body>
     </text>

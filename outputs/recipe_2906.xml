@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ARtischocken gibt man auch abgesottner mit gewürtzter Erbes= Brühe <lb/> auch Butter <lb/> Oel <lb/> und Parmesan- Käß vermischt <lb/> warm zu Tisch.</p>
+        <p> <objectName ref="artischocken">ARtischocken</objectName> gibt man auch abgesottner mit gewürtzter Erbes= <objectName ref="bruehe">Brühe</objectName> <lb/> auch <objectName ref="butter">Butter</objectName> <lb/> Oel <lb/> und Parmesan- Käß vermischt <lb/> warm zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

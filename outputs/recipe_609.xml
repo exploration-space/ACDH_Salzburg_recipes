@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb außgepresten quittensafft 2. pfundt geläu= tert Honig 4. pfund <lb/> frisch Brunnenwassers 6. pfund <lb/> oder halb Wasser vnd halb Wein <lb/> sieds vn= tereinander ob einem linden Kolfewer <lb/> biß es dich gnug dünckt <lb/> wilstu den Safft kräfftig haben <lb/> mag= stu in ein seiden Tüchlein gute Würtz bin= den <lb/> vnnd darunder sieden lassen.</p>
+        <p> Nimb außgepresten quittensafft 2. pfundt geläu= tert <objectName ref="honig">Honig</objectName> 4. <objectName ref="pfund">pfund</objectName> <lb/> frisch Brunnenwassers 6. <objectName ref="pfund">pfund</objectName> <lb/> oder halb <objectName ref="wasser">Wasser</objectName> vnd halb <objectName ref="wein">Wein</objectName> <lb/> sieds vn= tereinander ob einem linden Kolfewer <lb/> biß es dich gnug dünckt <lb/> wilstu den Safft kräfftig haben <lb/> mag= stu in ein seiden Tüchlein gute Würtz bin= den <lb/> vnnd darunder sieden lassen. </p>
             </div>
         </body>
     </text>

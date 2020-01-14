@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb von 15. Aÿrn das Weisse, Zerschlags mit einem Wenigen <lb/> Salz, souill Milch genomen, als der khlopfften aÿr seind, aim halb <lb/> lt: Mandl gstossen, treibs durch ein sib, thues darnach alles Zu= <lb/> sammen, nimb ½: lt: Zukher darzue, vnd misch durcheinander, <lb/> thue es in ein Pfan, die Zuuor ÿber Zogen seÿ mit eim aÿr= <lb/> flädl, Wie man aÿr khreitl drauß macht, geuß die fühl drein, <lb/> bachs langsamb, oben vnd unden mit gluet, leg oben Puter blätlet <lb/> auf den dorten, ehe du ihn angreiffst. <lb/></p>
+        <p> Nimb von 15. Aÿrn das Weisse, Zerschlags mit einem Wenigen <lb/> <objectName ref="salz">Salz</objectName>, souill <objectName ref="milch">Milch</objectName> genomen, als der khlopfften aÿr seind, aim halb <lb/> lt : Mandl gstossen, treibs durch ein sib, thues darnach alles Zu= <lb/> sammen, nimb ½ : lt : Zukher darzue, vnd misch durcheinander, <lb/> thue es in ein Pfan, die Zuuor ÿber Zogen seÿ mit eim aÿr= <lb/> flädl, Wie man aÿr khreitl drauß macht, geuß die fühl drein, <lb/> bachs langsamb, oben vnd unden mit gluet, leg oben Puter blätlet <lb/> auf den dorten, ehe du ihn angreiffst. <lb/> </p>
             </div>
         </body>
     </text>

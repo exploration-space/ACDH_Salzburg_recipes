@@ -174,9 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm brätiges Fleisch vom Schaafs= Schlegel <lb/> oder vom magern Ochsen= Fleisch <lb/> hacke es mit gutem Speck <lb/> Marck <lb/> oder Niern= Feisten <lb/> Zwibel <lb/> Petersil= Kräutlein gantz klein <lb/> gewürtz es mit Pfeffer <lb/> Muscatnuß und Saltz <lb/> machs an mit wenig Wasser <lb/> Milch <lb/> oder Fleischbrühe <lb/> und etwas Eyerdotter <lb/> mach Knödlein daraus <lb/> laß in einer etwas gelben Fleischbrühe sieden <lb/> und gibs gleich mit diser <lb/> oder in einer Dotter= Brühe <lb/> oder in die Pasteten.
-
-</p>
+        <p> NImm brätiges <objectName ref="fleisch">Fleisch</objectName> vom Schaafs= <objectName ref="schlegel">Schlegel</objectName> <lb/> oder vom magern Ochsen= <objectName ref="fleisch">Fleisch</objectName> <lb/> hacke es mit gutem <objectName ref="speck">Speck</objectName> <lb/> Marck <lb/> oder Niern= <objectName ref="feisten">Feisten</objectName> <lb/> Zwibel <lb/> Petersil= Kräutlein gantz klein <lb/> gewürtz es mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Muscatnuß und Saltz <lb/> machs an mit wenig <objectName ref="wasser">Wasser</objectName> <lb/> <objectName ref="milch">Milch</objectName> <lb/> oder <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> und etwas Eyerdotter <lb/> mach Knödlein daraus <lb/> laß in einer etwas gelben <objectName ref="fleischbruehe">Fleischbrühe</objectName> sieden <lb/> und gibs gleich mit diser <lb/> oder in einer Dotter= <objectName ref="bruehe">Brühe</objectName> <lb/> oder in die <objectName ref="pastete">Pasteten</objectName>. </p>
             </div>
         </body>
     </text>

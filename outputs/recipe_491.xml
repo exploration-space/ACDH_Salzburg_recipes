@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ain pfundt<gap/> Mandl, stoss<gap/> es nit gohr <lb/> Clein, Nimb ain halb pfundt Zuckher, stoss <lb/> es Clein, fähe<gap/> es durch ein Härenes<gap/> <lb/> Sibel<gap/>, thue den Zuckher vnd Mandl in ein Degel<gap/> <lb/> riehrs<gap/> vndereinander schlag ain air<gap/> nach dem <lb/> andern darein, Biß er die recht Dickhe<gap/> hat, <lb/> thue ein schmalz<gap/> in ein pfan<gap/>, lass das schmalz <lb/> Zergenn, Nimb daß schmalz schmirb<gap/> den <lb/> Modl<gap/> Damit vnd bach<gap/> es Khill<gap/> herauß <lb/> so seint sye Recht <lb/></p>
+        <p> Nimb ain pfundt<gap/> Mandl, stoss<gap/> es nit gohr <lb/> Clein, Nimb ain halb pfundt Zuckher, stoss <lb/> es Clein, fähe<gap/> es durch ein Härenes<gap/> <lb/> Sibel<gap/>, thue den Zuckher vnd Mandl in ein Degel<gap/> <lb/> riehrs<gap/> vndereinander schlag ain air<gap/> nach dem <lb/> andern darein, Biß er die recht Dickhe<gap/> hat, <lb/> thue ein schmalz<gap/> in ein pfan<gap/>, lass das <objectName ref="schmalz">schmalz</objectName> <lb/> Zergenn, Nimb daß <objectName ref="schmalz">schmalz</objectName> schmirb<gap/> den <lb/> Modl<gap/> Damit vnd bach<gap/> es Khill<gap/> herauß <lb/> so seint sye Recht <lb/> </p>
             </div>
         </body>
     </text>

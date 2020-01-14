@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schneid die sembl in 4. oder 6. Thaill, oder noch mehr, nach dem sie groß <lb/> sein, schneid feine ringl drein, bachs in haissen schmalz fein liechtbraun, <lb/> die brüe mach Wie oben ÿber den blinden stokhfisch, geuß ÿber die <lb/> bachne Sembl, dekhs Zue, laß dünsten, beÿ oder auf einer gluet= <lb/> pfan, oder auf einem haissen hafen, das lind Wird, gibs Warm, <lb/> etlich schidten khraut ÿber die Sembl, mueß aber Woll gemacht sein. <lb/></p>
+        <p> Schneid die sembl in 4. oder 6. Thaill, oder noch mehr, nach dem sie groß <lb/> sein, schneid feine ringl drein, bachs in haissen <objectName ref="schmalz">schmalz</objectName> fein liechtbraun, <lb/> die brüe mach Wie oben ÿber den blinden stokhfisch, geuß ÿber die <lb/> bachne Sembl, dekhs Zue, laß dünsten, beÿ oder auf einer gluet= <lb/> pfan, oder auf einem haissen <objectName ref="hafen">hafen</objectName>, das lind Wird, gibs Warm, <lb/> etlich schidten khraut ÿber die Sembl, mueß aber Woll gemacht sein. <lb/> </p>
             </div>
         </body>
     </text>

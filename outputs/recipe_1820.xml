@@ -172,19 +172,7 @@ Willst du gute Latwerge aus Birnen machen, dann schäle die Birnen sorgfältig, 
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WIldu machn̄ gut latwarÿ von Reḡl=
-pirn̄ So schel dÿ piren schon
-vnd sneÿt si zw virtailn̄ vnd tuͤ di kern̄
-dar aus vnd tuͤ si dan di pirē in ein hefen
-vnd secz sÿ auf ein glut vnd geuss ein virtail
-wasser dan an und vʾmach den hafen daz dʾ
-tumst (!) nicht aus ge wenn si sein dan gen̄ug
-habn̄ So stoss si klain vnd tu es in ein ke=
-ssel vnd secz auf einē drifuz vbʾ ein gute
-glut vnd ruͤr es albeg vnd ÿe peÿ ein
-weil so geuͤss ein winczigs hon̄ig dar an
-vnd stupp sie wol ab mit gutem geburcz
-so wʾdent si gar gut</p>
+        <p> WIldu machn̄ gut latwarÿ von Reḡlpirn̄ So schel dÿ piren schon vnd sneÿt si zw virtailn̄ vnd tuͤ di kern̄ dar aus vnd tuͤ si dan di pirē in ein hefen vnd secz sÿ auf ein <objectName ref="glut">glut</objectName> vnd geuss ein virtail <objectName ref="wasser">wasser</objectName> dan an und vʾmach den <objectName ref="hafen">hafen</objectName> daz dʾ tumst ( ! ) nicht aus ge wenn si sein dan gen̄ug habn̄ So stoss si klain vnd tu es in ein <objectName ref="kessel">kessel</objectName> vnd secz auf einē drifuz vbʾ ein gute <objectName ref="glut">glut</objectName> vnd ruͤr es albeg vnd ÿe peÿ ein weil so geuͤss ein winczigs hon̄ig dar an vnd stupp sie wol ab mit gutem geburcz so wʾdent si gar gut </p>
             </div>
         </body>
     </text>

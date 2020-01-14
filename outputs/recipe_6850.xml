@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) junge Hünner <lb/> klopff vnd quell sie im Wasser <lb/> säubers auß <lb/> vnd treib ein Pasteten darzu auff von weissem Teig <lb/> schneidt gesaltzen Limonien fein breit darein <lb/> gib auff den Boden klein gehackte(n) Speck <lb/> mit grünen wolschmeckenden Kräutern <lb/> thu auch Saltz vnd Ingwer darein <lb/> machs zu <lb/> vnnd scheubs in Ofen <lb/> Wenns gebacken ist <lb/> so schneidts auff <lb/> vnnd geuß ein saure Brüh <lb/> die mit Eyerdottern vnd Agrastbeer ist angemacht <lb/> darein <lb/> vn(d) gibs warm auff ein Tisch.</p>
+        <p> Nim ( m ) junge Hünner <lb/> klopff vnd quell sie im <objectName ref="wasser">Wasser</objectName> <lb/> säubers auß <lb/> vnd treib ein <objectName ref="pastete">Pasteten</objectName> darzu auff von weissem <objectName ref="teig">Teig</objectName> <lb/> schneidt gesaltzen Limonien fein breit darein <lb/> gib auff den Boden klein gehackte ( n ) <objectName ref="speck">Speck</objectName> <lb/> mit grünen wolschmeckenden <objectName ref="kraeuter">Kräutern</objectName> <lb/> thu auch Saltz vnd <objectName ref="ingwer">Ingwer</objectName> darein <lb/> machs zu <lb/> vnnd scheubs in <objectName ref="ofen">Ofen</objectName> <lb/> Wenns gebacken ist <lb/> so schneidts auff <lb/> vnnd geuß ein saure Brüh <lb/> die mit Eyerdottern vnd Agrastbeer ist angemacht <lb/> darein <lb/> vn ( d ) gibs warm auff ein <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

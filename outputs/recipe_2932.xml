@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>EYer hart gesotten <lb/> dann gescheelt <lb/> und nach der Läng entzwey geschnitten <lb/> werden mit gestossenen Mandeln <lb/> geweichter Semmel in Ram <lb/> mit den hart= gesottenen Eyerdottern gehackt und vermischt <lb/> mit Gewürtz und nothwendigem Saltz <lb/> die weisse Eyer gefüllt <lb/> das übrige mit mehrer Eyern zum Eingerührten gemacht <lb/> in die Schüssel gericht <lb/> mit den gefüllten Eyern umlegt <lb/> und mit Mandel= Pafössen regaliert</p>
+        <p> EYer hart gesotten <lb/> dann gescheelt <lb/> und nach der Läng entzwey geschnitten <lb/> werden mit gestossenen <objectName ref="mandeln">Mandeln</objectName> <lb/> geweichter Semmel in Ram <lb/> mit den hart= gesottenen Eyerdottern gehackt und vermischt <lb/> mit Gewürtz und nothwendigem Saltz <lb/> die weisse Eyer gefüllt <lb/> das übrige mit mehrer Eyern zum Eingerührten gemacht <lb/> in die <objectName ref="schuessel">Schüssel</objectName> gericht <lb/> mit den gefüllten Eyern umlegt <lb/> und mit Mandel= Pafössen regaliert </p>
             </div>
         </body>
     </text>

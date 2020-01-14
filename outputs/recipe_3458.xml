@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm gebutzte Vögel <lb/> röste sie in einem Schmaltz <lb/> wann sie geröst seyn <lb/> so thue sie in ein Reinlein <lb/> nimm gewaschene Weinbeerlein <lb/> stoß gar wohl <lb/> treibs mit einem süssen Wein durch <lb/> und thue das durchgetriebene an die Vögel <lb/> wie auch ein gute Fleisch= Brühe <lb/> Eßig <lb/> Näglein und Pfeffer <lb/> brenns ein wenig ein <lb/> laß sieden <lb/> wann du es anrichten wilst <lb/> so streue Zimmet darauf <lb/> und vergiß das Saltz und Zucker nicht.</p>
+        <p> NImm gebutzte <objectName ref="voegel">Vögel</objectName> <lb/> röste sie in einem Schmaltz <lb/> wann sie geröst seyn <lb/> so thue sie in ein Reinlein <lb/> nimm gewaschene Weinbeerlein <lb/> stoß gar wohl <lb/> treibs mit einem süssen <objectName ref="wein">Wein</objectName> durch <lb/> und thue das durchgetriebene an die <objectName ref="voegel">Vögel</objectName> <lb/> wie auch ein gute Fleisch= <objectName ref="bruehe">Brühe</objectName> <lb/> Eßig <lb/> Näglein und <objectName ref="pfeffer">Pfeffer</objectName> <lb/> brenns ein wenig ein <lb/> laß sieden <lb/> wann du es anrichten wilst <lb/> so streue Zimmet darauf <lb/> und vergiß das Saltz und <objectName ref="zucker">Zucker</objectName> nicht. </p>
             </div>
         </body>
     </text>

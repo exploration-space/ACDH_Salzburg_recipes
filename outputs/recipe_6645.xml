@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Ein Rencken <lb/> der frisch ist <lb/> kan man auff vielerley manier zurichten <lb/> denn es ist ein sehr guter Fisch.</p>
+        <p> Ein Rencken <lb/> der frisch ist <lb/> kan man auff vielerley manier zurichten <lb/> denn es ist ein sehr guter <objectName ref="fisch">Fisch</objectName>. </p>
             </div>
         </body>
     </text>

@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Thue den höchten<gap/> auf mach Kleine <lb/> stickhl<gap/> daraus wie den allfisch<gap/> <lb/> salz es ein leg spänlen<gap/> auf den <lb/> Rost damit er nit anbrindt<gap/> bradte<gap/> <lb/> ihm schön Praun brenn ein hais <lb/> schmalz<gap/> darauf Er er gar Praun <lb/> wirdt hernach lege ihm in ein <lb/> Reindl<gap/> Gies<gap/> ein wenig Arbes brie<gap/> <lb/> Daran vnnd auch butter Pfeffer <lb/> vnnd Nägl stup<gap/> vnnd lemony <lb/> safft<gap/> lass ihm ein wenig Preglen<gap/> <lb/> lege auch ein wenig lemony schöllel<gap/> <lb/> vnd strähe<gap/> Zimit stup<gap/> darauf so es recht. <lb/><lb/> (re 52)</p>
+        <p> Thue den höchten<gap/> auf mach Kleine <lb/> stickhl<gap/> daraus wie den allfisch<gap/> <lb/> <objectName ref="salz">salz</objectName> es ein leg spänlen<gap/> auf den <lb/> <objectName ref="rost">Rost</objectName> damit er nit anbrindt<gap/> bradte<gap/> <lb/> ihm schön Praun brenn ein hais <lb/> schmalz<gap/> darauf Er er gar Praun <lb/> wirdt hernach lege ihm in ein <lb/> Reindl<gap/> Gies<gap/> ein wenig Arbes brie<gap/> <lb/> Daran vnnd auch <objectName ref="butter">butter</objectName> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> vnnd Nägl stup<gap/> vnnd lemony <lb/> safft<gap/> lass ihm ein wenig Preglen<gap/> <lb/> lege auch ein wenig lemony schöllel<gap/> <lb/> vnd strähe<gap/> Zimit stup<gap/> darauf so es recht. <lb/><lb/> ( re 52 ) </p>
             </div>
         </body>
     </text>

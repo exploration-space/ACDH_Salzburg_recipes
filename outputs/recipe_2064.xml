@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein wenig lablets Wasser, oder Aÿrdoter, vnd Woll Puter <lb/> oder Schmalz, mach ein taig an gar fest Zum aufsezen, schneid <lb/> die hiendl Zu 4. stükhlein, thues in ein häfferl, gieß Fleischbrie <lb/> vnd Wein daran, Zibeben, Weinbörl, vnd darnach Pomeräntschen= <lb/> schelln, die mueß man Pritten, das sie nit händtig Werden, <lb/> darnach legt mans darzue, vnd gibs nit ganz gesoten, vnd nur <lb/><lb/> (32v) gebritt ist, legt mans in die Pasteten, etliche bräkhl <lb/> Buter auch an den boden, mach die Pasteten Zue, vnd Zer= <lb/> schlag ein aÿr, bestreich sie darmit ÿber vnd ÿber, bachs in <lb/> einer dorten pfanen, so ist es beraith. <lb/></p>
+        <p> Nimb ein wenig lablets <objectName ref="wasser">Wasser</objectName>, oder Aÿrdoter, vnd Woll Puter <lb/> oder <objectName ref="schmalz">Schmalz</objectName>, mach ein taig an gar fest Zum aufsezen, schneid <lb/> die hiendl Zu 4. stükhlein, thues in ein häfferl, gieß Fleischbrie <lb/> vnd <objectName ref="wein">Wein</objectName> daran, <objectName ref="zibeben">Zibeben</objectName>, Weinbörl, vnd darnach Pomeräntschen= <lb/> schelln, die mueß man Pritten, das sie nit händtig Werden, <lb/> darnach legt mans darzue, vnd gibs nit ganz gesoten, vnd nur <lb/><lb/> ( 32v ) gebritt ist, legt mans in die <objectName ref="pastete">Pasteten</objectName>, etliche bräkhl <lb/> Buter auch an den boden, mach die <objectName ref="pastete">Pasteten</objectName> Zue, vnd Zer= <lb/> schlag ein aÿr, bestreich sie darmit ÿber vnd ÿber, bachs in <lb/> einer dorten pfanen, so ist es beraith. <lb/> </p>
             </div>
         </body>
     </text>

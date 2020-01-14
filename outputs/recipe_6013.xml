@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Füß abgesotten in Cassenadt <lb/> zu backen <lb/> in kleine Pasteten eynzumachen <lb/> oder in Kuchen zu machen <lb/> wie du es haben wilt <lb/> vnnd wenn du es in ein fein säurlichs glattes Pfefferlein machst <lb/> ist es auch nicht zu verachten.</p>
+        <p> Füß abgesotten in Cassenadt <lb/> zu backen <lb/> in kleine <objectName ref="pastete">Pasteten</objectName> eynzumachen <lb/> oder in Kuchen zu machen <lb/> wie du es haben wilt <lb/> vnnd wenn du es in ein fein säurlichs glattes Pfefferlein machst <lb/> ist es auch nicht zu verachten. </p>
             </div>
         </body>
     </text>

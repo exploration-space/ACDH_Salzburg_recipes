@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BRühet und bereitet die Fische <lb/> wie oben gedacht <lb/> saltzt und schwinget sie im Mehl <lb/> und bachts aus Oel oder Schmaltz nach belieben <lb/> doch also daß sie fein lind bleiben; druckt auch sauere Pomerantzen aus <lb/> und richtet selbige darüber <lb/> oder aber schneidet die Pomerantzen in vier Theile <lb/> und leget sie zwischen die Fische auf die Schüssel <lb/> damit man bey Tisch <lb/> nach eigenen gefallen <lb/> den Safft darauf drucken könne.</p>
+        <p> BRühet und bereitet die Fische <lb/> wie oben gedacht <lb/> saltzt und schwinget sie im <objectName ref="mehl">Mehl</objectName> <lb/> und bachts aus Oel oder Schmaltz nach belieben <lb/> doch also daß sie fein lind bleiben; druckt auch sauere Pomerantzen aus <lb/> und richtet selbige darüber <lb/> oder aber schneidet die Pomerantzen in vier Theile <lb/> und leget sie zwischen die Fische auf die <objectName ref="schuessel">Schüssel</objectName> <lb/> damit man bey <objectName ref="tisch">Tisch</objectName> <lb/> nach eigenen gefallen <lb/> den Safft darauf drucken könne. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Brisilln sind am besten <lb/> wann sie nur vier und zwantzig Stunden zuvor im Essig gelegen <lb/> gespickt <lb/> und mit gehöriger Gewürtz versehen werden : dann schlägt man sie in eine rundformirte Pasteten <lb/> und versiehet sie mit einer Brüh <lb/> wie selbige Num 1. und 2. gelehret worden <lb/> woselbst man sich Berichts erholen <lb/> und so dann diese und andere Fleisch= Pasteten darnach aufrichten <lb/> und zusammen machen kan.</p>
+        <p> DIe Brisilln sind am besten <lb/> wann sie nur vier und zwantzig Stunden zuvor im <objectName ref="essig">Essig</objectName> gelegen <lb/> gespickt <lb/> und mit gehöriger Gewürtz versehen werden : dann schlägt man sie in eine rundformirte <objectName ref="pastete">Pasteten</objectName> <lb/> und versiehet sie mit einer Brüh <lb/> wie selbige Num 1. und 2. gelehret worden <lb/> woselbst man sich Berichts erholen <lb/> und so dann diese und andere Fleisch= <objectName ref="pastete">Pasteten</objectName> darnach aufrichten <lb/> und zusammen machen kan. </p>
             </div>
         </body>
     </text>

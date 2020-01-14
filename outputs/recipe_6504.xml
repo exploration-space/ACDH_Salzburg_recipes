@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim den Rogen <lb/> vnnd klaub Kern nach dem andern <lb/> thu jhnein Hafenkessel<lb/> der vberzindt ist <lb/> vnnd schneidt klein Zwibeln darein <lb/> schlag jn ein stundt drey oder vier mit hältzern Löffel <lb/> daß er wol voneinander gestossen wirt <lb/> mach jn ab mit Saltz vnd gestossenden Pfeffer <lb/> auch mit gutem sauren Essig <lb/> rür das darvnter <lb/> vnd laß also stehen <lb/> so wirt es fein blaw vnd gut <lb/> als wenns gesotten wer <lb/> nim es herauß mit einem Faumlöffel <lb/> vnd geuß widerumb ein frischen Essig darüber <lb/> so jsset man jn roh <lb/> ist ein gut Essen <lb/> sonderlich für einen Vngerischen Herren.</p>
+        <p> Nim den Rogen <lb/> vnnd klaub Kern nach dem andern <lb/> thu jhnein Hafenkessel/ der vberzindt ist <lb/> vnnd schneidt klein Zwibeln darein <lb/> schlag jn ein stundt drey oder vier mit hältzern <objectName ref="loeffel">Löffel</objectName> <lb/> daß er wol voneinander gestossen wirt <lb/> mach jn ab mit Saltz vnd gestossenden <objectName ref="pfeffer">Pfeffer</objectName> <lb/> auch mit gutem sauren <objectName ref="essig">Essig</objectName> <lb/> rür das darvnter <lb/> vnd laß also stehen <lb/> so wirt es fein blaw vnd gut <lb/> als wenns gesotten wer <lb/> nim es herauß mit einem <objectName ref="faumloeffel">Faumlöffel</objectName> <lb/> vnd geuß widerumb ein frischen <objectName ref="essig">Essig</objectName> darüber <lb/> so jsset man jn roh <lb/> ist ein gut Essen <lb/> sonderlich für einen Vngerischen Herren. </p>
             </div>
         </body>
     </text>

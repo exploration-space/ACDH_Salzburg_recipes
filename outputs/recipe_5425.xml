@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn  die Quitten zu Stücken geschnitten worden <lb/> dünstets im Wein und Zucker <lb/> biß sie weich sind <lb/> nehmets heraus : Machet einen Teig mit Mehl <lb/> Wein und Zucker an <lb/> ziehet die Schnitten dadurch <lb/> und last sie im Schmaltz schön rösch abbachen.</p>
+        <p> WAnn die <objectName ref="quitten">Quitten</objectName> zu Stücken geschnitten worden <lb/> dünstets im <objectName ref="wein">Wein</objectName> und <objectName ref="zucker">Zucker</objectName> <lb/> biß sie weich sind <lb/> nehmets heraus : Machet einen <objectName ref="teig">Teig</objectName> mit <objectName ref="mehl">Mehl</objectName> <lb/> <objectName ref="wein">Wein</objectName> und <objectName ref="zucker">Zucker</objectName> an <lb/> ziehet die Schnitten dadurch <lb/> und last sie im Schmaltz schön rösch abbachen. </p>
             </div>
         </body>
     </text>

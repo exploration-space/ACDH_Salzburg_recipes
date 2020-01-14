@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb <lb/> ain Wennig Essig, schneit ain lemony gewürf= <lb/> =let, gilbs woll mit Pfeffer, Imber, vnd zug= <lb/> =ger, die midten leben, stosß an ain Spisß, <lb/> brenn auf ainen Rast, wens halb gesoten ist, <lb/> brenn ain wennig Schmalz daran. <lb/></p>
+        <p> Nimb <lb/> ain Wennig <objectName ref="essig">Essig</objectName>, schneit ain lemony gewürf= <lb/> =let, gilbs woll mit <objectName ref="pfeffer">Pfeffer</objectName>, Imber, vnd zug= <lb/> =ger, die midten leben, stosß an ain Spisß, <lb/> brenn auf ainen Rast, wens halb gesoten ist, <lb/> brenn ain wennig <objectName ref="schmalz">Schmalz</objectName> daran. <lb/> </p>
             </div>
         </body>
     </text>

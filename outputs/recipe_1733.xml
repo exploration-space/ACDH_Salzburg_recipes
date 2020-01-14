@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Stoß Mandl klain vndter die zibeben, Nimb <lb/> 10: Ayr darunter, treibs mit ainen guetn <lb/> weinn darunter, zuggers woll, Nimb <lb/> Roßenwasser, laß ain wennig Sieden, riers <lb/> stäts durcheinannd(er), d(a)s es sich nit ableg, <lb/> Salz ain wennig. <lb/></p>
+        <p> Stoß Mandl klain vndter die <objectName ref="zibeben">zibeben</objectName>, Nimb <lb/> 10 : Ayr darunter, treibs mit ainen guetn <lb/> <objectName ref="wein">weinn</objectName> darunter, zuggers woll, Nimb <lb/> Roßenwasser, laß ain wennig Sieden, riers <lb/> stäts durcheinannd ( er ), d ( a ) s es sich nit ableg, <lb/> <objectName ref="salz">Salz</objectName> ain wennig. <lb/> </p>
             </div>
         </body>
     </text>

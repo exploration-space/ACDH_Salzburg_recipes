@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>VOn Hirschen werden die Ruck= Braten gehäutlet <lb/> ausgelößt <lb/> gesaltzen und gespickt <lb/> in saurem Ram und Eßig gedämpfft <lb/> und ehender diser gar fertig <lb/> mit gescheelten und blättlet= geschnittenen Cucumern <lb/> und nothwendigen Gewürtz eingericht <lb/> gantz abkochen gelassen ; oder man muß es mit einer sauren Zwibel= Brühe lassen überhalb kochen <lb/> hernach gib die geschnittene Cucumern darzu <lb/> laß gar kochen mit seinem nothwendigen Gewürtz <lb/> hernach treib die Brühe durch <lb/> und gibs an die Ruck= Brätlein <lb/> und also kann es mit dem Gebratenen auch geschehen.</p>
+        <p> VOn Hirschen werden die Ruck= Braten gehäutlet <lb/> ausgelößt <lb/> gesaltzen und gespickt <lb/> in saurem Ram und Eßig gedämpfft <lb/> und ehender diser gar fertig <lb/> mit gescheelten und blättlet= geschnittenen Cucumern <lb/> und nothwendigen Gewürtz eingericht <lb/> gantz abkochen gelassen; oder man muß es mit einer sauren Zwibel= <objectName ref="bruehe">Brühe</objectName> lassen überhalb kochen <lb/> hernach gib die geschnittene Cucumern darzu <lb/> laß gar kochen mit seinem nothwendigen Gewürtz <lb/> hernach treib die <objectName ref="bruehe">Brühe</objectName> durch <lb/> und gibs an die Ruck= Brätlein <lb/> und also kann es mit dem Gebratenen auch geschehen. </p>
             </div>
         </body>
     </text>

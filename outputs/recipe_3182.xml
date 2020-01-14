@@ -169,9 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZIehe Mandeln ab <lb/> weichs in Rosenwasser ein <lb/> laß eine weile darinnen ligen <lb/> seihe sie dann ab; stoß einen Zucker gröblicht <lb/> laß ein Schmaltz in einer Pfannen wohl heiß werden <lb/> schwinge die Mandeln in dem gröblicht= zerstossenen Zucker <lb/> legs geschwind in das wohl= heisse Schmaltz <lb/> bachs schön licht heraus: legs auf ein und anderes frisches Papier <lb/> biß sie erkuhlt seyn <lb/> und trags dann zu einer Collation auf.
-
-</p>
+        <p> ZIehe <objectName ref="mandeln">Mandeln</objectName> ab <lb/> weichs in <objectName ref="rosenwasser">Rosenwasser</objectName> ein <lb/> laß eine weile darinnen ligen <lb/> seihe sie dann ab; stoß einen <objectName ref="zucker">Zucker</objectName> gröblicht <lb/> laß ein Schmaltz in einer Pfannen wohl heiß werden <lb/> schwinge die <objectName ref="mandeln">Mandeln</objectName> in dem gröblicht= zerstossenen <objectName ref="zucker">Zucker</objectName> <lb/> legs geschwind in das wohl= heisse Schmaltz <lb/> bachs schön licht heraus : legs auf ein und anderes frisches <objectName ref="papier">Papier</objectName> <lb/> biß sie erkuhlt seyn <lb/> und trags dann zu einer Collation auf. </p>
             </div>
         </body>
     </text>

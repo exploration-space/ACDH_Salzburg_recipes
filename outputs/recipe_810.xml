@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Scheele die Kütten halbierter <lb/> und schneide die Steine heraus <lb/> setz im kalten Wasser zum Feuer <lb/> laß halb kochen <lb/> seihs ab <lb/> richts in ein Casserol <lb/> oder Rein schön ordentlich <lb/> bestecke jeden Kütten mit einem Näglein <lb/> lege gantzen Zimmet mit einem Stück Zucker darein <lb/> gieß puren Wein daran laß zugedeckter genug kochen <lb/> und wann sie in dem Kochen keine schöne Farb bekommen <lb/> so lege rothe Durnisol=Flecklein darzu <lb/> so werden sie roth <lb/> oder laß den Wein aus <lb/> und behalt das erste Wasser darbey.</p>
+        <p> Scheele die Kütten halbierter <lb/> und schneide die Steine heraus <lb/> setz im kalten <objectName ref="wasser">Wasser</objectName> zum <objectName ref="feuer">Feuer</objectName> <lb/> laß halb kochen <lb/> seihs ab <lb/> richts in ein Casserol <lb/> oder <objectName ref="rein">Rein</objectName> schön ordentlich <lb/> bestecke jeden Kütten mit einem Näglein <lb/> lege gantzen Zimmet mit einem Stück <objectName ref="zucker">Zucker</objectName> darein <lb/> gieß puren <objectName ref="wein">Wein</objectName> daran laß zugedeckter genug kochen <lb/> und wann sie in dem Kochen keine schöne Farb bekommen <lb/> so lege rothe Durnisol=Flecklein darzu <lb/> so werden sie roth <lb/> oder laß den <objectName ref="wein">Wein</objectName> aus <lb/> und behalt das erste <objectName ref="wasser">Wasser</objectName> darbey. </p>
             </div>
         </body>
     </text>

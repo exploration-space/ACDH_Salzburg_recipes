@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Erdbeer= Essig wird gleichfalls in allen angestellt <lb/> als wie der Holbeer= Essig.</p>
+        <p> DEr Erdbeer= <objectName ref="essig">Essig</objectName> wird gleichfalls in allen angestellt <lb/> als wie der Holbeer= <objectName ref="essig">Essig</objectName>. </p>
             </div>
         </body>
     </text>

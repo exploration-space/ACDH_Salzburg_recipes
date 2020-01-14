@@ -169,9 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schieb<gap/> den höchten vnnd mache ihm <lb/><lb/> (re 45) auf Pfärze<gap/> ihm in Putter schmirb<gap/> ein <lb/> schisßl<gap/> mit butter sähe<gap/> ein Geschabnen<gap/> <lb/> Khrenn<gap/> in die schisßl<gap/> lege die Stückhl<gap/> <lb/> darauf Nimb ein eingebrende<gap/> Arbes <lb/> brie<gap/> Gewirz<gap/> lass sieden<gap/> das die brie<gap/> <lb/> ein wenig dickhät<gap/> ist Gies<gap/> hernach yber <lb/> den fisch ab sträh<gap/> geschabenen<gap/> Khren<gap/> <lb/> daryber ab lege ein butter daran <lb/> deckhe ihm Zue lass ihm breglen<gap/> er <lb/> ist Guett. <lb/>
-
-[Anm.: „Geschabnen Khrenn“: fein gerissener Kren (Meerrettich)]</p>
+        <p> Schieb<gap/> den höchten vnnd mache ihm <lb/><lb/> ( re 45 ) auf Pfärze<gap/> ihm in Putter schmirb<gap/> ein <lb/> schisßl<gap/> mit <objectName ref="butter">butter</objectName> sähe<gap/> ein Geschabnen<gap/> <lb/> Khrenn<gap/> in die schisßl<gap/> lege die Stückhl<gap/> <lb/> darauf Nimb ein eingebrende<gap/> Arbes <lb/> brie<gap/> Gewirz<gap/> lass sieden<gap/> das die brie<gap/> <lb/> ein wenig dickhät<gap/> ist Gies<gap/> hernach yber <lb/> den <objectName ref="fisch">fisch</objectName> ab sträh<gap/> geschabenen<gap/> Khren<gap/> <lb/> daryber ab lege ein <objectName ref="butter">butter</objectName> daran <lb/> deckhe ihm Zue lass ihm breglen<gap/> er <lb/> ist Guett. <lb/> [ Anm. : „ Geschabnen Khrenn “ : fein gerissener Kren ( <objectName ref="meerrettich">Meerrettich</objectName> ) ] </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmt die Schafmäuler oder den Feld= Salat <lb/> klaubet selbigen sauber <lb/> thut oben die kleinen Stortzeln davon <lb/> waschet und macht ihn mit Oel und Essig an ; schneidet oder hacket ein einigs Zwiebelein gar klein darunter <lb/> bezieret ihn mit halb ausgeschnittenen Citronen= Plätzen <lb/> und streuet würfflicht= geschnittene Citronen= Schelffen darauf : dann kan man auch den Schüssel= Rand mit Hertz= weiß geschlossenen Sardelln <lb/> und in vier Theile zerschnittenen Citronen <lb/> und zwar eines um das andere geleget <lb/> auszieren.</p>
+        <p> NEhmt die Schafmäuler oder den Feld= <objectName ref="salat">Salat</objectName> <lb/> klaubet selbigen sauber <lb/> thut oben die kleinen Stortzeln davon <lb/> waschet und macht ihn mit Oel und <objectName ref="essig">Essig</objectName> an; schneidet oder hacket ein einigs Zwiebelein gar klein darunter <lb/> bezieret ihn mit halb ausgeschnittenen Citronen= Plätzen <lb/> und streuet würfflicht= geschnittene Citronen= Schelffen darauf : dann kan man auch den Schüssel= Rand mit Hertz= weiß geschlossenen Sardelln <lb/> und in vier Theile zerschnittenen Citronen <lb/> und zwar eines um das andere geleget <lb/> auszieren. </p>
             </div>
         </body>
     </text>

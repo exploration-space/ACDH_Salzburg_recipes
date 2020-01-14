@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn zerklopffet <lb/> ohngefehr zu einem halben Maas= Häfelein <lb/> sechs Eyer <lb/> würtzet selbige mit Cardamomen und Muscatblühe <lb/> gilbts mit Saffran <lb/> rührt auch ein Stuck Butter darein <lb/> und giesst es alsdann in eine siedende Fleischbrühe <lb/> rührts immer herum <lb/> und löst es mit einem Kochlöffel vornen von dem Töpfflein ab <lb/> daß es sich nicht anlege. Wann man nun mercket <lb/> daß es dick werden will <lb/> so wird es von fernen zum Feuer gesetzt <lb/> damit es allgemach koche <lb/> und daß ja die Eyer nicht hart werden <lb/> sondern gantz lind bleiben : alsdann wird es angerichtet <lb/> und Muscatblühe darauf gestreuet.</p>
+        <p> MAn zerklopffet <lb/> ohngefehr zu einem halben Maas= <objectName ref="haefelein">Häfelein</objectName> <lb/> sechs Eyer <lb/> würtzet selbige mit Cardamomen und Muscatblühe <lb/> gilbts mit Saffran <lb/> rührt auch ein Stuck <objectName ref="butter">Butter</objectName> darein <lb/> und giesst es alsdann in eine siedende <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> rührts immer herum <lb/> und löst es mit einem <objectName ref="kochloeffel">Kochlöffel</objectName> vornen von dem Töpfflein ab <lb/> daß es sich nicht anlege. Wann man nun mercket <lb/> daß es dick werden will <lb/> so wird es von fernen zum <objectName ref="feuer">Feuer</objectName> gesetzt <lb/> damit es allgemach koche <lb/> und daß ja die Eyer nicht hart werden <lb/> sondern gantz lind bleiben : alsdann wird es angerichtet <lb/> und Muscatblühe darauf gestreuet. </p>
             </div>
         </body>
     </text>

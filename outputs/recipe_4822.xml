@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneidet von fünff Pfunden Rindfleisch die Haut und das äderige hinweg; nehmet auch zwey Pfund Schweinen Fleisch <lb/> hacket beedes klein <lb/> schneidet ein Pfund Speck würfflicht <lb/> und mischet ihn <lb/> zusamt einem Loth gestossenen <lb/> und eben so viel <lb/> nur ein wenig in einem Mörsel zerknirschten gröbern Pfeffer <lb/> wie auch Rosmarin <lb/> Maseran und Saltz <lb/> nach gutduncken <lb/> darunter <lb/> füllets aufs härteste in den Darm <lb/> und last sie hernach in Rauch aufhencken.</p>
+        <p> SChneidet von fünff Pfunden <objectName ref="rindfleisch">Rindfleisch</objectName> die Haut und das äderige hinweg; nehmet auch zwey <objectName ref="pfund">Pfund</objectName> Schweinen <objectName ref="fleisch">Fleisch</objectName> <lb/> hacket beedes klein <lb/> schneidet ein <objectName ref="pfund">Pfund</objectName> <objectName ref="speck">Speck</objectName> würfflicht <lb/> und mischet ihn <lb/> zusamt einem <objectName ref="loth">Loth</objectName> gestossenen <lb/> und eben so viel <lb/> nur ein wenig in einem Mörsel zerknirschten gröbern <objectName ref="pfeffer">Pfeffer</objectName> <lb/> wie auch <objectName ref="rosmarin">Rosmarin</objectName> <lb/> Maseran und Saltz <lb/> nach gutduncken <lb/> darunter <lb/> füllets aufs härteste in den <objectName ref="darm">Darm</objectName> <lb/> und last sie hernach in <objectName ref="rauch">Rauch</objectName> aufhencken. </p>
             </div>
         </body>
     </text>

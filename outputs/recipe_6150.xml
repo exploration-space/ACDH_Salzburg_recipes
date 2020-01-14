@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim Brunnkreß <lb/> vn wasch sie sauber auß <lb/> reibs darnach in einem Reibstein <lb/> zerlaß mit Weinessig <lb/> vnnd rür Pfeffer <lb/> Ingwer <lb/> vnnd ein wenig Saltz <lb/> darvnter <lb/> so ist es gut vnd wolgeschmack.</p>
+        <p> Nim Brunnkreß <lb/> vn wasch sie sauber auß <lb/> reibs darnach in einem <objectName ref="reibstein">Reibstein</objectName> <lb/> zerlaß mit <objectName ref="weinessig">Weinessig</objectName> <lb/> vnnd rür <objectName ref="pfeffer">Pfeffer</objectName> <lb/> <objectName ref="ingwer">Ingwer</objectName> <lb/> vnnd ein wenig Saltz <lb/> darvnter <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

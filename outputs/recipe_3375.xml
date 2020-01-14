@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES wird der Lachs <lb/> oder Rhein= Salm frischer eingesaltzen <lb/> mit Gewürtz <lb/> Butter <lb/> Zwibel <lb/> oder Lemoni gelb gedämpfft <lb/> zur Tafel gegeben.</p>
+        <p> ES wird der <objectName ref="lachs">Lachs</objectName> <lb/> oder Rhein= Salm frischer eingesaltzen <lb/> mit Gewürtz <lb/> <objectName ref="butter">Butter</objectName> <lb/> Zwibel <lb/> oder Lemoni gelb gedämpfft <lb/> zur Tafel gegeben. </p>
             </div>
         </body>
     </text>

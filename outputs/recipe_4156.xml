@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DAs Indian wird gebraten <lb/> in feine Stücklein geschnitten <lb/> und daraus mit gutem Wein <lb/> Zucker <lb/> Zimmet <lb/> Pinioli, Lemoni= Schelffen ein gutes Trüet gemacht.</p>
+        <p> DAs Indian wird gebraten <lb/> in feine Stücklein geschnitten <lb/> und daraus mit gutem <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet <lb/> Pinioli, Lemoni= Schelffen ein gutes Trüet gemacht. </p>
             </div>
         </body>
     </text>

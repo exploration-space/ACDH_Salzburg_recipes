@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Foren in Pasteten eyngemacht <lb/> vnd kalt lassen werden <lb/> oder warm mit sauren Limonien eyngemacht in Pasteten <lb/> die fein auffgetrieben ist <lb/> seind gut vnd wolgeschmack.</p>
+        <p> Foren in <objectName ref="pastete">Pasteten</objectName> eyngemacht <lb/> vnd kalt lassen werden <lb/> oder warm mit sauren Limonien eyngemacht in <objectName ref="pastete">Pasteten</objectName> <lb/> die fein auffgetrieben ist <lb/> seind gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

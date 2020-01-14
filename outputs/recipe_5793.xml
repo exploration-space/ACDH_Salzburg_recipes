@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) die Leber <lb/> vnd schneidt sie klein <lb/> vnd nim(m) Butter in ein Pfannen <lb/> mach sie heiß <lb/> vnd rößt die Leber darinnen <lb/> vn(n) wen(n) sie gerößt ist <lb/> so mach sie mit Gewürtz ab <lb/> gieß darein ein wenig Rindtfleischbrüh <lb/> vnd ein wenig Essig <lb/> laß es kurtz einsieden mit den grünen Kräutern <lb/> so ist es gut essen. Vnd man nennet es ein gefricusierte Leber.</p>
+        <p> Nim ( m ) die <objectName ref="leber">Leber</objectName> <lb/> vnd schneidt sie klein <lb/> vnd nim ( m ) <objectName ref="butter">Butter</objectName> in ein Pfannen <lb/> mach sie heiß <lb/> vnd rößt die <objectName ref="leber">Leber</objectName> darinnen <lb/> vn ( n ) wen ( n ) sie gerößt ist <lb/> so mach sie mit Gewürtz ab <lb/> gieß darein ein wenig Rindtfleischbrüh <lb/> vnd ein wenig <objectName ref="essig">Essig</objectName> <lb/> laß es kurtz einsieden mit den grünen <objectName ref="kraeuter">Kräutern</objectName> <lb/> so ist es gut essen. Vnd man nennet es ein gefricusierte <objectName ref="leber">Leber</objectName>. </p>
             </div>
         </body>
     </text>

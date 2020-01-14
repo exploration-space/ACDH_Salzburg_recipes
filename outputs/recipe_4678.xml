@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>LAß eine Milch aufsieden <lb/> giesse dann so viel davon an das Mehl <lb/> daß es naß wird <lb/> rühre den Teig aber nicht gar vest ab ; lege indessen etliche Eyer in warmes Wasser <lb/> schlags nachmal an den Teig <lb/> saltze <lb/> und rühre ihn ferner ab <lb/> doch <lb/> wie gedacht <lb/> nicht zu viel <lb/> dann es hat nichts zu bedeuten <lb/> wann er gleich knockericht oder butzicht ist ; formire runde Kügelein daraus <lb/> lege sie in ein nicht allzu heisses Schmaltz <lb/> und bachs heraus.</p>
+        <p> LAß eine <objectName ref="milch">Milch</objectName> aufsieden <lb/> giesse dann so viel davon an das <objectName ref="mehl">Mehl</objectName> <lb/> daß es naß wird <lb/> rühre den <objectName ref="teig">Teig</objectName> aber nicht gar vest ab; lege indessen etliche Eyer in warmes <objectName ref="wasser">Wasser</objectName> <lb/> schlags nachmal an den <objectName ref="teig">Teig</objectName> <lb/> saltze <lb/> und rühre ihn ferner ab <lb/> doch <lb/> wie gedacht <lb/> nicht zu viel <lb/> dann es hat nichts zu bedeuten <lb/> wann er gleich knockericht oder butzicht ist; formire runde Kügelein daraus <lb/> lege sie in ein nicht allzu heisses Schmaltz <lb/> und bachs heraus. </p>
             </div>
         </body>
     </text>

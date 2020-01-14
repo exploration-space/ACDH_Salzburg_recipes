@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES werden die Salbling und Forellen mit Oel auf dem heissen Rost gebraten <lb/> hernach mit Oel <lb/> Eßig <lb/> Gewürtz und Capry versehen <lb/> warmer <lb/> oder kalt gegeben.</p>
+        <p> ES werden die Salbling und <objectName ref="forelle">Forellen</objectName> mit Oel auf dem heissen <objectName ref="rost">Rost</objectName> gebraten <lb/> hernach mit Oel <lb/> Eßig <lb/> Gewürtz und Capry versehen <lb/> warmer <lb/> oder kalt gegeben. </p>
             </div>
         </body>
     </text>

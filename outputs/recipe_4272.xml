@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DAs gesottne Hirn wird gesäubert <lb/> gewürtzt <lb/> gehackt <lb/> und in gutem Butter <lb/> oder Oel geröst <lb/> mit grünen Petersil <lb/> Saltz <lb/> und Lemoni= Safft gegeben.</p>
+        <p> DAs gesottne <objectName ref="hirn">Hirn</objectName> wird gesäubert <lb/> gewürtzt <lb/> gehackt <lb/> und in gutem <objectName ref="butter">Butter</objectName> <lb/> oder Oel geröst <lb/> mit grünen Petersil <lb/> Saltz <lb/> und Lemoni= Safft gegeben. </p>
             </div>
         </body>
     </text>

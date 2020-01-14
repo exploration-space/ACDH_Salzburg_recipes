@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Eyngemacht in seinem Schweiß <lb/> oder in schwartzem <lb/> es sey süß oder saur <lb/> wie man die Hasen eynmacht in einem Pfeffer vnd Schweiß.</p>
+        <p> Eyngemacht in seinem Schweiß <lb/> oder in schwartzem <lb/> es sey süß oder saur <lb/> wie man die <objectName ref="hase">Hasen</objectName> eynmacht in einem <objectName ref="pfeffer">Pfeffer</objectName> vnd Schweiß. </p>
             </div>
         </body>
     </text>

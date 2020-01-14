@@ -172,9 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIede und bereite den Hecht <lb/> als obgedacht <lb/> thue einen guten Theil Milchram zusamt ein wenig Fleischbrüh daran <lb/> wie auch Cardamomen <lb/> Muscaten= Blüh und Ingber <lb/> laß es mit einem Stuck Butter aufsieden : indessen bähe etliche Semmelschnitten <lb/> lege selbige in eine Schüssel <lb/> und den Fisch darauf <lb/> richte die Brüh darüber <lb/> und bestreue ihn oben mit Muscaten= Blüh. <gap/>
-
-<gap/> Andere brennen ein Löffelein voll Mehl <lb/> im Schmaltz geröstet <lb/> darüber <lb/> und lassen  es im Milchram und Fleischbrüh aufsieden <lb/> auch das geschnittene Brod nicht bähen <lb/> sondern dafür im Schmaltz rösten.</p>
+        <p> SIede und bereite den <objectName ref="hecht">Hecht</objectName> <lb/> als obgedacht <lb/> thue einen guten Theil Milchram zusamt ein wenig Fleischbrüh daran <lb/> wie auch Cardamomen <lb/> Muscaten= Blüh und Ingber <lb/> laß es mit einem Stuck <objectName ref="butter">Butter</objectName> aufsieden : indessen bähe etliche <objectName ref="semmelschnitten">Semmelschnitten</objectName> <lb/> lege selbige in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und den <objectName ref="fisch">Fisch</objectName> darauf <lb/> richte die Brüh darüber <lb/> und bestreue ihn oben mit Muscaten= Blüh. <gap/> <gap/> Andere brennen ein Löffelein voll <objectName ref="mehl">Mehl</objectName> <lb/> im Schmaltz geröstet <lb/> darüber <lb/> und lassen es im Milchram und Fleischbrüh aufsieden <lb/> auch das geschnittene Brod nicht bähen <lb/> sondern dafür im Schmaltz rösten. </p>
             </div>
         </body>
     </text>

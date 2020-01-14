@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet das Weisse von funffzehen Eyern <lb/> zerschlagets wohl <lb/> saltzets ein klein wenig <lb/> thut so viel Milch als der zerklopfften Eyer <lb/> und ein halb Pfund gestossener Mandeln dazu <lb/> treibets durch ein Sieb ; mischet es hernach alles zusammen <lb/> und ein halb Pfund Zucker darunter : mischet einen Boden wie zu den andern Dorten <lb/> schüttets darein <lb/> und lassets bachen.</p>
+        <p> NEhmet das Weisse von funffzehen Eyern <lb/> zerschlagets wohl <lb/> saltzets ein klein wenig <lb/> thut so viel <objectName ref="milch">Milch</objectName> als der zerklopfften Eyer <lb/> und ein halb <objectName ref="pfund">Pfund</objectName> gestossener <objectName ref="mandeln">Mandeln</objectName> dazu <lb/> treibets durch ein <objectName ref="sieb">Sieb</objectName>; mischet es hernach alles zusammen <lb/> und ein halb <objectName ref="pfund">Pfund</objectName> <objectName ref="zucker">Zucker</objectName> darunter : mischet einen Boden wie zu den andern Dorten <lb/> schüttets darein <lb/> und lassets bachen. </p>
             </div>
         </body>
     </text>

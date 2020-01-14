@@ -172,9 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Eyngemacht Magen vnd Lebern mit Pettersilgen Wurtzel <lb/> vnnd grünen wolschmeckende(n) Kräutern <lb/> die klein gehackt seyn <lb/> thu darein ein wenig gantze Muscatenblüt <lb/> gantzen Pfeffer <lb/> vnd eyngebrennt Mehl <lb/> laß das miteinander sieden <lb/> wirff ein wenig vngeschmältzte Butter darein <lb/> vnd laß darmit ein Sudt auffthun <lb/> so ist es gut vnd wolgeschmack.
-
-</p>
+        <p> Eyngemacht <objectName ref="magen">Magen</objectName> vnd <objectName ref="leber">Lebern</objectName> mit Pettersilgen Wurtzel <lb/> vnnd grünen wolschmeckende ( n ) <objectName ref="kraeuter">Kräutern</objectName> <lb/> die klein gehackt seyn <lb/> thu darein ein wenig gantze Muscatenblüt <lb/> gantzen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> vnd eyngebrennt <objectName ref="mehl">Mehl</objectName> <lb/> laß das miteinander sieden <lb/> wirff ein wenig vngeschmältzte <objectName ref="butter">Butter</objectName> darein <lb/> vnd laß darmit ein Sudt auffthun <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

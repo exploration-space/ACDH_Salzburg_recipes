@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>VErlohrne <lb/> oder roher eingesetzte Eyer in ein mit Butter bestrichene Schüssel <lb/> mit klein= gehackten grünen Petersil <lb/> Gewürtz <lb/> und mit geriebenen Parmesan-Käß bestreuter auf der Glut lassen anziehen <lb/> übersich aber mit einer glüenden Decken fertig gemacht <lb/> und gleich aufgetragen <lb/> seynd gut <lb/> wann sie nicht zu hart werden.</p>
+        <p> VErlohrne <lb/> oder roher eingesetzte Eyer in ein mit <objectName ref="butter">Butter</objectName> bestrichene <objectName ref="schuessel">Schüssel</objectName> <lb/> mit klein= gehackten grünen Petersil <lb/> Gewürtz <lb/> und mit geriebenen Parmesan-Käß bestreuter auf der <objectName ref="glut">Glut</objectName> lassen anziehen <lb/> übersich aber mit einer glüenden Decken fertig gemacht <lb/> und gleich aufgetragen <lb/> seynd gut <lb/> wann sie nicht zu hart werden. </p>
             </div>
         </body>
     </text>

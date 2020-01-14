@@ -168,9 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Zu einem Fuder Weins nim Kühmilch <lb/> Zucker <lb/> abfeilung von Hirschhorn <lb/> jedes ein viertheil <lb/> vnd solt jedes besonder in einem leinen Säcklein in den Wein hencken <lb/> so wirt er noch kräfftiger.
-
-Oder nim zu einem Fuder Weins ein Pfundt gestossenen Rautensamen <lb/> ein viertheil Zuckers <lb/> henck jedes besonder in Wein <lb/> so wirt er starck.</p>
+        <p> Zu einem <objectName ref="fuder">Fuder</objectName> Weins nim Kühmilch <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> abfeilung von <objectName ref="hirschhorn">Hirschhorn</objectName> <lb/> jedes ein viertheil <lb/> vnd solt jedes besonder in einem leinen <objectName ref="saecklein">Säcklein</objectName> in den <objectName ref="wein">Wein</objectName> hencken <lb/> so wirt er noch kräfftiger. Oder nim zu einem <objectName ref="fuder">Fuder</objectName> Weins ein Pfundt gestossenen Rautensamen <lb/> ein viertheil Zuckers <lb/> henck jedes besonder in <objectName ref="wein">Wein</objectName> <lb/> so wirt er starck. </p>
             </div>
         </body>
     </text>

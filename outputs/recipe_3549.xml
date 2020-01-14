@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIede die Kütten weiß und weich <lb/> treibe sie durch <lb/> gleich einem Aepffel= Koch <lb/> und richte sie ein mit Zucker <lb/> Zimmet und Lemoni; es ist eine Füll in allerhand feine Dorten <lb/> auch in die kleine Dörtlein gut zu machen.</p>
+        <p> SIede die Kütten weiß und weich <lb/> treibe sie durch <lb/> gleich einem Aepffel= Koch <lb/> und richte sie ein mit <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet und Lemoni; es ist eine Füll in allerhand feine Dorten <lb/> auch in die kleine Dörtlein gut zu machen. </p>
             </div>
         </body>
     </text>

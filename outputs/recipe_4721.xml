@@ -172,9 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Röstet einen geriebenen Canarien= Zucker in einem messingen Kesselein <lb/> über einem kleinen Kohlfeuer; drucket alsdann Citronen= Safft daran <lb/> so viel <lb/> biß man vermeynet <lb/> daß der Zucker damit angefeuchtet seye; rührets wohl unter einander <lb/> und lassets auf der Kohlen mit stetigem rühren stehen <lb/> biß alles wohl unter einander feucht wird <lb/> und fast der Zucker anheben will dinn zu werden <lb/> und zu sieden: hebets dann vom Feuer hinweg <lb/> rühret klein= geschnittene Citronen= Schelffen darunter; und giessets nachmal auf einen Marmorstein <lb/> zinnernen Deller oder Blat <lb/> wie die andern Grieben oder Morselln. <gap/>
-
-<gap/> Auf diese Art kan man auch von Alchermes <lb/> Wein= Lägelein <lb/> oder einem andern beliebigen Safft <lb/> Grieben oder Morselln giessen.</p>
+        <p> Röstet einen geriebenen Canarien= <objectName ref="zucker">Zucker</objectName> in einem messingen <objectName ref="kesselein">Kesselein</objectName> <lb/> über einem kleinen Kohlfeuer; drucket alsdann Citronen= Safft daran <lb/> so viel <lb/> biß man vermeynet <lb/> daß der <objectName ref="zucker">Zucker</objectName> damit angefeuchtet seye; rührets wohl unter einander <lb/> und lassets auf der <objectName ref="kohlen">Kohlen</objectName> mit stetigem rühren stehen <lb/> biß alles wohl unter einander feucht wird <lb/> und fast der <objectName ref="zucker">Zucker</objectName> anheben will dinn zu werden <lb/> und zu sieden : hebets dann vom <objectName ref="feuer">Feuer</objectName> hinweg <lb/> rühret klein= geschnittene Citronen= Schelffen darunter; und giessets nachmal auf einen Marmorstein <lb/> zinnernen Deller oder Blat <lb/> wie die andern <objectName ref="grieben">Grieben</objectName> oder Morselln. <gap/> <gap/> Auf diese Art kan man auch von Alchermes <lb/> Wein= Lägelein <lb/> oder einem andern beliebigen Safft <lb/> <objectName ref="grieben">Grieben</objectName> oder Morselln giessen. </p>
             </div>
         </body>
     </text>

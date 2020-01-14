@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimbe Mandl Schels<gap/> vnd Stoss<gap/> gar <lb/> Klein waickheen<gap/> ein Sembl in ein <lb/><lb/> (ve 186) Wasser Nimbs vnnd truckhs wide= <lb/> rumb woll Auß stoss<gap/> es auch vnder <lb/> Die Mandl vnnd mit Gesottenen<gap/> <lb/> Wasser Durch ein Sibl<gap/> Getriben<gap/> das <lb/> ein Dickhe<gap/> Mandl Milich<gap/> wirdt, her= <lb/> nach Zuckhern vnnd also einen oder <lb/> Zwey Sudt<gap/> thuen lassen vnnd weill <lb/> es siedt<gap/>, allweill mit den löffel <lb/> Gerirt<gap/>, so Dann Angericht auf die <lb/> Sembl schnitl<gap/> gibs sye ist Recht <lb/> vnnd Guett. <lb/></p>
+        <p> Nimbe Mandl Schels<gap/> vnd Stoss<gap/> gar <lb/> Klein waickheen<gap/> ein Sembl in ein <lb/><lb/> ( ve 186 ) <objectName ref="wasser">Wasser</objectName> Nimbs vnnd truckhs wide= <lb/> rumb woll Auß stoss<gap/> es auch vnder <lb/> Die Mandl vnnd mit Gesottenen<gap/> <lb/> <objectName ref="wasser">Wasser</objectName> Durch ein Sibl<gap/> Getriben<gap/> das <lb/> ein Dickhe<gap/> Mandl Milich<gap/> wirdt, her= <lb/> nach Zuckhern vnnd also einen oder <lb/> Zwey Sudt<gap/> thuen lassen vnnd weill <lb/> es siedt<gap/>, allweill mit den <objectName ref="loeffel">löffel</objectName> <lb/> Gerirt<gap/>, so Dann Angericht auf die <lb/> Sembl schnitl<gap/> gibs sye ist Recht <lb/> vnnd Guett. <lb/> </p>
             </div>
         </body>
     </text>

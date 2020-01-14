@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Pren<gap/> ein wenig schmalz<gap/> in das Mell, <lb/> vnnd ein siedteten<gap/> österreicher wein <lb/><lb/> (ve 120) vnnd ein Ganz Ayr<gap/>, mach den <lb/> taig<gap/> fein Din An, Druckh die öpfel <lb/> Darein, Pachs<gap/> in schmalz khiell<gap/> <lb/> heraus so ist es Recht. <lb/></p>
+        <p> Pren<gap/> ein wenig schmalz<gap/> in das Mell, <lb/> vnnd ein siedteten<gap/> österreicher <objectName ref="wein">wein</objectName> <lb/><lb/> ( ve 120 ) vnnd ein Ganz Ayr<gap/>, mach den <lb/> taig<gap/> fein Din An, Druckh die öpfel <lb/> Darein, Pachs<gap/> in <objectName ref="schmalz">schmalz</objectName> khiell<gap/> <lb/> heraus so ist es Recht. <lb/> </p>
             </div>
         </body>
     </text>

@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIiedet die Briese <lb/> thut Hüner= Leberlein <lb/> Maseran und Marck dazu <lb/> und hackets unter einander; wanns gehackt ist <lb/> thuts in eine Schüssel <lb/> schlaget Eyer daran <lb/> würtzets mit Muscatblüh <lb/> Ingber <lb/> Pfeffer <lb/> und Cardamomen <lb/> schlagt es in ein Kalbs= Netz <lb/> und formirt es länglicht <lb/> wie andere Würste: Legets in ein wenig Schmaltz in eine Bratpfannen <lb/> last sie darinnen braten <lb/> und tragets hernach zu Tisch.</p>
+        <p> SIiedet die Briese <lb/> thut Hüner= Leberlein <lb/> Maseran und Marck dazu <lb/> und hackets unter einander; wanns gehackt ist <lb/> thuts in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> schlaget Eyer daran <lb/> würtzets mit Muscatblüh <lb/> Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> und Cardamomen <lb/> schlagt es in ein Kalbs= <objectName ref="netz">Netz</objectName> <lb/> und formirt es länglicht <lb/> wie andere Würste : Legets in ein wenig Schmaltz in eine Bratpfannen <lb/> last sie darinnen braten <lb/> und tragets hernach zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

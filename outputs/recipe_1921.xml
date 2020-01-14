@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Seuds Woll, geuß auch den Essig dran, das sie sich ab= <lb/> schlagen, so Werdens fein blab. <lb/></p>
+        <p> Seuds Woll, geuß auch den <objectName ref="essig">Essig</objectName> dran, das sie sich ab= <lb/> schlagen, so Werdens fein blab. <lb/> </p>
             </div>
         </body>
     </text>

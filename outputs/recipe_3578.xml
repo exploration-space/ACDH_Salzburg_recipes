@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Haussen kan vorhero eingesaltzen <lb/> gemelbt <lb/> und recht aus Schmaltz heraus gebachen werden <lb/> und alsdann auch mit dergleichen Gehäck <lb/> gebachenen und gesottenen Knödlein <lb/> Maurachen <lb/> oder andere Schwammen <lb/> Butter und Gewürtz eingeschlagen in Taig <lb/> und gebachen <lb/> und im Anrichten mit brauner jus von Fischen <lb/> oder mit einer Sardellen= Brühe braun versehen werden.</p>
+        <p> DEr Haussen kan vorhero eingesaltzen <lb/> gemelbt <lb/> und recht aus Schmaltz heraus gebachen werden <lb/> und alsdann auch mit dergleichen <objectName ref="gehaeck">Gehäck</objectName> <lb/> gebachenen und gesottenen Knödlein <lb/> Maurachen <lb/> oder andere Schwammen <lb/> <objectName ref="butter">Butter</objectName> und Gewürtz eingeschlagen in Taig <lb/> und gebachen <lb/> und im Anrichten mit brauner <objectName ref="jus">jus</objectName> von Fischen <lb/> oder mit einer Sardellen= <objectName ref="bruehe">Brühe</objectName> braun versehen werden. </p>
             </div>
         </body>
     </text>

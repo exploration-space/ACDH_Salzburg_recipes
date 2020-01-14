@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein höchten, thue ihn auf, vnd schiep ihn, schneid ihn Zu <lb/> stukhen, Salz ihn recht ein, laß ihn ein wenig in Salz ligen, <lb/> darnach nimb halb Wasser, vnd halb Wein, leg ein bäts <lb/> Schnitl drein, nimb nägel vnd Mußcatblüe, laß es sieden, <lb/><lb/> (7r) darnach leg den höcht drein, laß ihn gemach sieden, das <lb/> genug ist, darnach leg ein buter dran, vnd gilbs, richt ihn <lb/> an, es ist guet. <lb/></p>
+        <p> Nimb ein höchten, thue ihn auf, vnd schiep ihn, schneid ihn Zu <lb/> stukhen, <objectName ref="salz">Salz</objectName> ihn recht ein, laß ihn ein wenig in <objectName ref="salz">Salz</objectName> ligen, <lb/> darnach nimb halb <objectName ref="wasser">Wasser</objectName>, vnd halb <objectName ref="wein">Wein</objectName>, leg ein bäts <lb/> Schnitl drein, nimb <objectName ref="naegel">nägel</objectName> vnd Mußcatblüe, laß es sieden, <lb/><lb/> ( 7r ) darnach leg den höcht drein, laß ihn gemach sieden, das <lb/> genug ist, darnach leg ein buter dran, vnd gilbs, richt ihn <lb/> an, es ist guet. <lb/> </p>
             </div>
         </body>
     </text>

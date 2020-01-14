@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Man soll einen Nieren von einem gebratnen kälbernen Braten nehmen <lb/> sammt der Faisten klein hacken <lb/> und drey Löffelvoll geriebne Semmel darzu schlagen <lb/> vier Eyer <lb/> und ein wenig Pfeffer <lb/> in ein Reinlein thun <lb/> darnach ein Fleisch=Suppen <lb/> oder gute Milch daran giessen <lb/> und auf einem Glütlein wol sieden lassen <lb/> man kan auch grünes darunter nehmen.</p>
+        <p> Man soll einen <objectName ref="nieren">Nieren</objectName> von einem gebratnen kälbernen Braten nehmen <lb/> sammt der Faisten klein hacken <lb/> und drey Löffelvoll geriebne Semmel darzu schlagen <lb/> vier Eyer <lb/> und ein wenig <objectName ref="pfeffer">Pfeffer</objectName> <lb/> in ein Reinlein thun <lb/> darnach ein Fleisch=Suppen <lb/> oder gute <objectName ref="milch">Milch</objectName> daran giessen <lb/> und auf einem Glütlein wol sieden lassen <lb/> man kan auch grünes darunter nehmen. </p>
             </div>
         </body>
     </text>

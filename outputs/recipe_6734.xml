@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schup den Hecht <lb/> vnd zeuch die Haut vom Kopff biß auff den Schwantz <lb/> schneidt das breite Fischfleisch vom Gradt hinweg <lb/> hacks klein mit ein wenig Zwibeln <lb/> thu ein wenig Pfeffer <lb/> Ingwer vn Saffran darein <lb/> auch frische vnzerlassene Butter <lb/> vnd schwartze Rosein <lb/> Eyerdotter <lb/> vnd ein wenig Saltz. Füll den Hecht darmit <lb/> zeuch alsdenn die Haut darüber <lb/> daltz oben vber her <lb/> legs auff ein Roßt <lb/> vnnd brats gemach <lb/> mach ein süß oder saure Brüh darvnter <lb/> vnd magst warm oder kalt geben.</p>
+        <p> Schup den <objectName ref="hecht">Hecht</objectName> <lb/> vnd zeuch die Haut vom Kopff biß auff den Schwantz <lb/> schneidt das breite Fischfleisch vom Gradt hinweg <lb/> hacks klein mit ein wenig Zwibeln <lb/> thu ein wenig <objectName ref="pfeffer">Pfeffer</objectName> <lb/> <objectName ref="ingwer">Ingwer</objectName> vn Saffran darein <lb/> auch frische vnzerlassene <objectName ref="butter">Butter</objectName> <lb/> vnd schwartze Rosein <lb/> Eyerdotter <lb/> vnd ein wenig Saltz. Füll den <objectName ref="hecht">Hecht</objectName> darmit <lb/> zeuch alsdenn die Haut darüber <lb/> daltz oben vber her <lb/> legs auff ein Roßt <lb/> vnnd brats gemach <lb/> mach ein süß oder saure Brüh darvnter <lb/> vnd magst warm oder kalt geben. </p>
             </div>
         </body>
     </text>

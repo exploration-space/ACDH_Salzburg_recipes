@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb einen Hais gesodtnen<gap/> fisch <lb/> lege ihm auf ein schisßl<gap/> thue halb <lb/> Wasser vnnd halb Wein vnd Arbes <lb/> brie<gap/> Daran Pren<gap/> es mit sembl <lb/> Presl<gap/> ein Gewierz<gap/> es vnnd Gies<gap/> <lb/> Pämöhl<gap/> daran thue auch Käpprä<gap/> <lb/> Daran gib es Kalt oder Warmb <lb/><lb/> (ve 51) Kanst es auch yber ein Gebradtnen<gap/> <lb/> fisch also machen. <lb/></p>
+        <p> Nimb einen Hais gesodtnen<gap/> <objectName ref="fisch">fisch</objectName> <lb/> lege ihm auf ein schisßl<gap/> thue halb <lb/> <objectName ref="wasser">Wasser</objectName> vnnd halb <objectName ref="wein">Wein</objectName> vnd Arbes <lb/> brie<gap/> Daran Pren<gap/> es mit sembl <lb/> Presl<gap/> ein Gewierz<gap/> es vnnd Gies<gap/> <lb/> Pämöhl<gap/> daran thue auch Käpprä<gap/> <lb/> Daran gib es Kalt oder Warmb <lb/><lb/> ( ve 51 ) Kanst es auch yber ein Gebradtnen<gap/> <lb/> <objectName ref="fisch">fisch</objectName> also machen. <lb/> </p>
             </div>
         </body>
     </text>

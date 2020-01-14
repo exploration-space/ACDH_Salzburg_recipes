@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm ein subtil Gehäck <lb/> von Kälber=Brät <lb/> streichs auf ein dünnes Blättlein=Taig <lb/> roll es über einander <lb/> und mache ein Strudel darauß</p>
+        <p> NImm ein subtil <objectName ref="gehaeck">Gehäck</objectName> <lb/> von Kälber=Brät <lb/> streichs auf ein dünnes Blättlein=Taig <lb/> roll es über einander <lb/> und mache ein Strudel darauß </p>
             </div>
         </body>
     </text>

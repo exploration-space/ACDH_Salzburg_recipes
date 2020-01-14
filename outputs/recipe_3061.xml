@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Spenat wird sauber geklaubt <lb/> gewaschen <lb/> überbrüht <lb/> und gesaltzen <lb/> dann wieder abgesiehen <lb/> ein wenig ausgeballt <lb/> dann gehackt <lb/> oder gleich gantzer mit Pfeffer und Muscatnuß gewürtzt <lb/> den Spenat mit wenig weiß Meel im Butter herüber geschwungen <lb/> lege auch einen gantzen Zwibel mit Näglein besteckt darzu <lb/> gieß auch ein wenig Ram <lb/> Fleisch= oder Erbes= Brühe zu <lb/> schwing ihn auf der Glut noch etlichmal herüber <lb/> biß er recht warm wird <lb/> gib ihn mit ausgebachnen Semmel= Schnitten <lb/> sauber damit besteckt <lb/> und um den Ranfft gelegt <lb/> und was anders entzwischen.</p>
+        <p> DEr Spenat wird sauber geklaubt <lb/> gewaschen <lb/> überbrüht <lb/> und gesaltzen <lb/> dann wieder abgesiehen <lb/> ein wenig ausgeballt <lb/> dann gehackt <lb/> oder gleich gantzer mit <objectName ref="pfeffer">Pfeffer</objectName> und Muscatnuß gewürtzt <lb/> den Spenat mit wenig weiß Meel im <objectName ref="butter">Butter</objectName> herüber geschwungen <lb/> lege auch einen gantzen Zwibel mit Näglein besteckt darzu <lb/> gieß auch ein wenig Ram <lb/> Fleisch= oder Erbes= <objectName ref="bruehe">Brühe</objectName> zu <lb/> schwing ihn auf der <objectName ref="glut">Glut</objectName> noch etlichmal herüber <lb/> biß er recht warm wird <lb/> gib ihn mit ausgebachnen Semmel= Schnitten <lb/> sauber damit besteckt <lb/> und um den Ranfft gelegt <lb/> und was anders entzwischen. </p>
             </div>
         </body>
     </text>

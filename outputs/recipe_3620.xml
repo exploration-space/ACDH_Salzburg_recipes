@@ -184,7 +184,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SPicks mit grobem Speck <lb/> bassiers in der Pfann <lb/> laß dämpffen in der Rein <lb/> mit Champignonen <lb/> 1. Löffel= voll Suppen <lb/> einen Glaß= weissen Wein <lb/> angemacht mit Saltz <lb/> Pfeffer <lb/> und ein Büschelein wohl= riechenden Kräutern <lb/> Näglein und Muscatblühe <lb/> wann es genug ist <lb/> so bassier Meel in der Pfann <lb/> die Soß darmit zu binden <lb/> oder einzubrennen; garniers mit gebachenen Brod <lb/> Brüßlen <lb/> und Lemoni= Safft im Anrichten.</p>
+        <p> SPicks mit grobem <objectName ref="speck">Speck</objectName> <lb/> bassiers in der Pfann <lb/> laß dämpffen in der <objectName ref="rein">Rein</objectName> <lb/> mit Champignonen <lb/> 1. Löffel= voll <objectName ref="suppe">Suppen</objectName> <lb/> einen Glaß= weissen <objectName ref="wein">Wein</objectName> <lb/> angemacht mit Saltz <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> und ein Büschelein wohl= riechenden <objectName ref="kraeuter">Kräutern</objectName> <lb/> Näglein und Muscatblühe <lb/> wann es genug ist <lb/> so bassier Meel in der Pfann <lb/> die Soß darmit zu binden <lb/> oder einzubrennen; garniers mit gebachenen Brod <lb/> Brüßlen <lb/> und Lemoni= Safft im Anrichten. </p>
             </div>
         </body>
     </text>

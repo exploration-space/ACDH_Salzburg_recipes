@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Melaunkern <lb/> zerstoß sie <lb/> vnnd treib sie mit warmen Wasser durch <lb/> machs wol dick <lb/> vnd laß stehen <lb/> so darffstu kein Gewürtz darein.</p>
+        <p> Nim ( m ) Melaunkern <lb/> zerstoß sie <lb/> vnnd treib sie mit warmen <objectName ref="wasser">Wasser</objectName> durch <lb/> machs wol dick <lb/> vnd laß stehen <lb/> so darffstu kein Gewürtz darein. </p>
             </div>
         </body>
     </text>

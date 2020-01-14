@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DAs geriebene Brod wird in guten Schmaltz oder Butter ein wenig geröst <lb/> dann gieß eine lindgesaltzne Fleischbrühe oder Wasser <lb/> mit Muscatnuß daran <lb/> und laß eine Weil gemach sieden <lb/> schau daß in rechter Dicke ist <lb/> auch nicht versaltzen sey <lb/> und gibs. Beliebt es <lb/> so gilbs mit Saffran.</p>
+        <p> DAs geriebene Brod wird in guten Schmaltz oder <objectName ref="butter">Butter</objectName> ein wenig geröst <lb/> dann gieß eine lindgesaltzne <objectName ref="fleischbruehe">Fleischbrühe</objectName> oder <objectName ref="wasser">Wasser</objectName> <lb/> mit Muscatnuß daran <lb/> und laß eine Weil gemach sieden <lb/> schau daß in rechter Dicke ist <lb/> auch nicht versaltzen sey <lb/> und gibs. Beliebt es <lb/> so gilbs mit Saffran. </p>
             </div>
         </body>
     </text>

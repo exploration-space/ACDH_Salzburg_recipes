@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>EYer hart gesotten <lb/> das weisse langlecht <lb/> wie Kuttelfleck geschnitten <lb/> gewürtzt <lb/> und Liecht= gelb eingebrennt <lb/> mit Milch oder Erbesbrühe <lb/> und Krebs= Butter gekocht <lb/> mit einem gantzen Zwibel mit Näglein besteckt <lb/> und klein= gehackten Petersil <lb/> auch Saltz versehen <lb/> regaliert mit den Dottern <lb/> und Mandel= oder Krebs= Pafössen.</p>
+        <p> EYer hart gesotten <lb/> das weisse langlecht <lb/> wie Kuttelfleck geschnitten <lb/> gewürtzt <lb/> und Liecht= gelb eingebrennt <lb/> mit <objectName ref="milch">Milch</objectName> oder Erbesbrühe <lb/> und Krebs= <objectName ref="butter">Butter</objectName> gekocht <lb/> mit einem gantzen Zwibel mit Näglein besteckt <lb/> und klein= gehackten Petersil <lb/> auch Saltz versehen <lb/> regaliert mit den Dottern <lb/> und Mandel= oder Krebs= Pafössen. </p>
             </div>
         </body>
     </text>

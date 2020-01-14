@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Durchtriebene Erbeß laß kalt werden <lb/> leg sie in ein ander Schüssel <lb/> vnd geuß Essig darüber. Also essen sie es am Spessert gern.</p>
+        <p> Durchtriebene Erbeß laß kalt werden <lb/> leg sie in ein ander <objectName ref="schuessel">Schüssel</objectName> <lb/> vnd geuß <objectName ref="essig">Essig</objectName> darüber. Also essen sie es am Spessert gern. </p>
             </div>
         </body>
     </text>

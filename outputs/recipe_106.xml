@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb den Höchten schipp<gap/> ihn sauber <lb/> mach ihn Auf vnnd mache ihn Zu <lb/> stickh<gap/> leg ihn in ein rein<gap/> thue dan <lb/> Gehackhten Zwifl<gap/> Gehackhten beter= <lb/> sill Khäppern<gap/> vnnd lemony safft<gap/> <lb/> Wein Arbes brie<gap/> Gebäte<gap/> semel <lb/> schnidl<gap/> lass beysamben khochen <lb/> wan Er Gesodten<gap/> ist so leg buttr <lb/> schnidl<gap/> in ein schisßl<gap/> vnd richt <lb/><lb/> (ve 44) den Höchten darauf vnnd seiche<gap/> <lb/> die brie<gap/> darauf leg ein butter daran <lb/></p>
+        <p> Nimb den Höchten schipp<gap/> ihn sauber <lb/> mach ihn Auf vnnd mache ihn Zu <lb/> stickh<gap/> leg ihn in ein rein<gap/> thue dan <lb/> Gehackhten Zwifl<gap/> Gehackhten beter= <lb/> sill Khäppern<gap/> vnnd lemony safft<gap/> <lb/> <objectName ref="wein">Wein</objectName> Arbes brie<gap/> Gebäte<gap/> semel <lb/> schnidl<gap/> lass beysamben khochen <lb/> wan Er Gesodten<gap/> ist so leg buttr <lb/> schnidl<gap/> in ein schisßl<gap/> vnd richt <lb/><lb/> ( ve 44 ) den Höchten darauf vnnd seiche<gap/> <lb/> die brie<gap/> darauf leg ein <objectName ref="butter">butter</objectName> daran <lb/> </p>
             </div>
         </body>
     </text>

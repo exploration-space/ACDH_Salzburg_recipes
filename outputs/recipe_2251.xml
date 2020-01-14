@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein gar guete Milch oder rämb, auf ein tisch 12. oder 15. aÿr, 5. <lb/> oder 6. löffl voll schens mell, spridls Woll undereinander, seichs dann <lb/> in ein pfan, rühr es ab dem Feuer gschwind ab, das nit anbrint, <lb/> Wans schier Zam geht, vnd dikh Wird, nimb in ein Messingene pfann <lb/> ein stükhlein Puter, laß nit als Zergehn, geuß das obgeschribne khoch <lb/> drein, sez ihn ein gluet, auch oben auf die hafendekh. <lb/></p>
+        <p> Nimb ein gar guete <objectName ref="milch">Milch</objectName> oder rämb, auf ein <objectName ref="tisch">tisch</objectName> 12. oder 15. aÿr, 5. <lb/> oder 6. löffl voll schens mell, spridls Woll undereinander, seichs dann <lb/> in ein pfan, rühr es ab dem <objectName ref="feuer">Feuer</objectName> gschwind ab, das nit anbrint, <lb/> Wans schier Zam geht, vnd dikh Wird, nimb in ein Messingene pfann <lb/> ein stükhlein Puter, laß nit als Zergehn, geuß das obgeschribne khoch <lb/> drein, sez ihn ein gluet, auch oben auf die hafendekh. <lb/> </p>
             </div>
         </body>
     </text>

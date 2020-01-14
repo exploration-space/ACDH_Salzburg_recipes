@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schab die Wurzen schen weiß, schneids voneinander in der mith, bindts <lb/> Zusammen in ein Pischl, legs in ein khalts Wasser, thues in ein häferl, geuß <lb/> ein Wenig Wein, vnd ein Wenig fleischbrie dran, Puter vnd Pfefferstup, <lb/> gar ein Wenig hönig oder Zukher, laß dran einsieden, das Waich werden, <lb/> richts auf ein schißl Zum fleischessen, so ists bereith. <lb/></p>
+        <p> Schab die Wurzen schen weiß, schneids voneinander in der mith, bindts <lb/> Zusammen in ein Pischl, legs in ein khalts <objectName ref="wasser">Wasser</objectName>, thues in ein häferl, geuß <lb/> ein Wenig <objectName ref="wein">Wein</objectName>, vnd ein Wenig fleischbrie dran, Puter vnd Pfefferstup, <lb/> gar ein Wenig hönig oder Zukher, laß dran einsieden, das Waich werden, <lb/> richts auf ein schißl Zum fleischessen, so ists bereith. <lb/> </p>
             </div>
         </body>
     </text>

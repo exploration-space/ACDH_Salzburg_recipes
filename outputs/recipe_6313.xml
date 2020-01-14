@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Meerträubel drey pfundt <lb/> außgeschelter wolgestossener Zimmetrinden vier Lot <lb/> seudt in etwan viel Most <lb/> geuß darnach in ein Faß mit Most. Er wirt in zwölff tagen lauter <lb/> brauch jn am meisten im Winter. Ist sonderlich gut alten vnd krancken Leuten <lb/> Melancholicis vnnd Phlegmaticis <lb/> ringert die Brust <lb/> strärckt den Magen <lb/> Leber vnnd Blut <lb/> widerstehet der Fäulung <lb/> vertreibet das vnwillen <lb/> Husten vnnd Keichen <lb/> macht ein natürlichen Stulgang <lb/> verzehret vbrige flüssigkeit.</p>
+        <p> Meerträubel drey pfundt <lb/> außgeschelter wolgestossener Zimmetrinden vier Lot <lb/> seudt in etwan viel <objectName ref="most">Most</objectName> <lb/> geuß darnach in ein Faß mit <objectName ref="most">Most</objectName>. Er wirt in zwölff tagen lauter <lb/> brauch jn am meisten im Winter. Ist sonderlich gut alten vnd krancken Leuten <lb/> Melancholicis vnnd Phlegmaticis <lb/> ringert die <objectName ref="brust">Brust</objectName> <lb/> strärckt den <objectName ref="magen">Magen</objectName> <lb/> <objectName ref="leber">Leber</objectName> vnnd <objectName ref="blut">Blut</objectName> <lb/> widerstehet der Fäulung <lb/> vertreibet das vnwillen <lb/> Husten vnnd Keichen <lb/> macht ein natürlichen Stulgang <lb/> verzehret vbrige flüssigkeit. </p>
             </div>
         </body>
     </text>

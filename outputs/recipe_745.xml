@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>wan du wilst den wein woll bewahrn, daß er <lb/> nit abstehe oder sauer werde wie Esßig <lb/><lb/> laß ein Spundt machen von Erlen holz muß <lb/> aber grien sein vnd so lang daß er nicht gar <lb/> den Poden des vasßes erreicht vnd auf die die <lb/> 4. finger kürzer daß laß dießen Spundt Stehen <lb/> durch daß ganze Jahr bohre 3. oder 4. <lb/> lecher darein vnd Stökh hinein weisßen <lb/> n mirauch oder mastix daß also Stehen <lb/> vnd verbleibt der wein bey seiner natirlichen <lb/> Crafft vnd behaltt einen guten geruch. <lb/></p>
+        <p> wan du wilst den <objectName ref="wein">wein</objectName> woll bewahrn, daß er <lb/> nit abstehe oder sauer werde wie Esßig <lb/><lb/> laß ein Spundt machen von Erlen <objectName ref="holz">holz</objectName> muß <lb/> aber grien sein vnd so lang daß er nicht gar <lb/> den Poden des vasßes erreicht vnd auf die die <lb/> 4. finger kürzer daß laß dießen Spundt Stehen <lb/> durch daß ganze Jahr bohre 3. oder 4. <lb/> lecher darein vnd Stökh hinein weisßen <lb/> n mirauch oder <objectName ref="mastix">mastix</objectName> daß also Stehen <lb/> vnd verbleibt der <objectName ref="wein">wein</objectName> bey seiner natirlichen <lb/> Crafft vnd behaltt einen guten geruch. <lb/> </p>
             </div>
         </body>
     </text>

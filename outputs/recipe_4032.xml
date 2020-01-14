@@ -179,9 +179,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZErschneidet die Hüner oder Capaunen in vier Theile <lb/> saltzets <lb/> und last es in einer Fleischbrüh sieden <lb/> stosset dann die Leber <lb/> den Magen <lb/> Füß und Hals <lb/> wie auch einen Schnitten gebähtes Brod <lb/> und so es beliebt <lb/> ein und andere Petersilien= Wurtzeln; wann diese Stücke alle zuvor ein wenig abgesotten worden <lb/> in einem Mörsel <lb/> giesst die Brüh von dem gesottenen Hun darüber <lb/> treibts durch ein Sieblein <lb/> seihet das Hun ab <lb/> und giesset diese durchgetriebene Brüh darüber <lb/> würtzet sie mit Ingber <lb/> Muscaten= Blüh und ein wenig Saffran <lb/> werfft ein Stuck Butter dazu <lb/> last es alles zusammen aufsieden <lb/> und richtets denn an in eine Schüssel.
-
- </p>
+        <p> ZErschneidet die Hüner oder Capaunen in vier Theile <lb/> saltzets <lb/> und last es in einer Fleischbrüh sieden <lb/> stosset dann die <objectName ref="leber">Leber</objectName> <lb/> den <objectName ref="magen">Magen</objectName> <lb/> Füß und Hals <lb/> wie auch einen Schnitten gebähtes Brod <lb/> und so es beliebt <lb/> ein und andere Petersilien= Wurtzeln; wann diese Stücke alle zuvor ein wenig abgesotten worden <lb/> in einem Mörsel <lb/> giesst die Brüh von dem gesottenen Hun darüber <lb/> treibts durch ein Sieblein <lb/> seihet das Hun ab <lb/> und giesset diese durchgetriebene Brüh darüber <lb/> würtzet sie mit Ingber <lb/> Muscaten= Blüh und ein wenig Saffran <lb/> werfft ein Stuck <objectName ref="butter">Butter</objectName> dazu <lb/> last es alles zusammen aufsieden <lb/> und richtets denn an in eine <objectName ref="schuessel">Schüssel</objectName>. </p>
             </div>
         </body>
     </text>

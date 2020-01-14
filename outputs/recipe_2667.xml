@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn nehme ein gantze oder halbe Maas Reinfal <lb/> lasse solchen sieden <lb/> lege gebähte Semmelschnitten in die Schüssel <lb/> und bestreue sie mit Zimmet <lb/> samt etwas wenigs gestossner Mandeln : wann der Reinfal aufgesotten <lb/> richtet man solchen darüber : alsdann kan mans mit gebachnen Mandeln und gefüllt= gedünsten Zibeben neben herum um den Schüssel= Rand belegen <lb/> und auszieren.</p>
+        <p> MAn nehme ein gantze oder halbe <objectName ref="maas">Maas</objectName> <objectName ref="reinfal-suesswein">Reinfal</objectName> <lb/> lasse solchen sieden <lb/> lege gebähte <objectName ref="semmelschnitten">Semmelschnitten</objectName> in die <objectName ref="schuessel">Schüssel</objectName> <lb/> und bestreue sie mit Zimmet <lb/> samt etwas wenigs gestossner <objectName ref="mandeln">Mandeln</objectName> : wann der <objectName ref="reinfal-suesswein">Reinfal</objectName> aufgesotten <lb/> richtet man solchen darüber : alsdann kan mans mit gebachnen <objectName ref="mandeln">Mandeln</objectName> und gefüllt= gedünsten <objectName ref="zibeben">Zibeben</objectName> neben herum um den Schüssel= Rand belegen <lb/> und auszieren. </p>
             </div>
         </body>
     </text>

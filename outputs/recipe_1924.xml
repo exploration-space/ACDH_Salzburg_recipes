@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Die seud man auch in Wein mit Buter, gegilbt vnd gewürzt, <lb/> vnd die pfrillen am ersten mit Salz gesprengt, nit Zuuill, <lb/> darnach schits in den gsotnen Wein, laß nit zu lang Sieden, <lb/> grundl seud auch also guet im buter. <lb/></p>
+        <p> Die seud man auch in <objectName ref="wein">Wein</objectName> mit Buter, gegilbt vnd gewürzt, <lb/> vnd die pfrillen am ersten mit <objectName ref="salz">Salz</objectName> gesprengt, nit Zuuill, <lb/> darnach schits in den gsotnen <objectName ref="wein">Wein</objectName>, laß nit zu lang Sieden, <lb/> grundl seud auch also guet im buter. <lb/> </p>
             </div>
         </body>
     </text>

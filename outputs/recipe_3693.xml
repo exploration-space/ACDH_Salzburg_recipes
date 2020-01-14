@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn die Kräuter gestossen <lb/> und der Safft darvon mit Milch durchgetrieben ist <lb/> so rühre ein wenig Spinat=Döpflein damit ab <lb/> so wird es schön grün; mit diser durchgetriebenen grünen Milch <lb/> mache eine rechtes Eingerührtes und nicht zu fest <lb/> gewürtz es ein wenig <lb/> und gibs gleich also mit frischen Butter in eine Dorten <lb/> oder mach es mit Zucker oder Käs.</p>
+        <p> WAnn die <objectName ref="kraeuter">Kräuter</objectName> gestossen <lb/> und der Safft darvon mit <objectName ref="milch">Milch</objectName> durchgetrieben ist <lb/> so rühre ein wenig Spinat=Döpflein damit ab <lb/> so wird es schön grün; mit diser durchgetriebenen grünen <objectName ref="milch">Milch</objectName> <lb/> mache eine rechtes Eingerührtes und nicht zu fest <lb/> gewürtz es ein wenig <lb/> und gibs gleich also mit frischen <objectName ref="butter">Butter</objectName> in eine Dorten <lb/> oder mach es mit <objectName ref="zucker">Zucker</objectName> oder Käs. </p>
             </div>
         </body>
     </text>

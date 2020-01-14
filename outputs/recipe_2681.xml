@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Dünstet die Prinelln im rothen <lb/> oder auch nur weissen Wein <lb/> ein klein wenig in einem stollichten Hafen <lb/> streuet Zucker <lb/> Zimmet <lb/> und so es beliebt <lb/> Cardamomen und Muscatenblüh <lb/> darein <lb/> last es mit einander aufsieden; belegt inzwischen den Boden der Schüssel <lb/> mit denen gedünsteten Prinelln <lb/> das Hun aber oder andere Gebratens auf selbige <lb/> und richtet dann die Brüh darüber: Man kan auch den Rand der Schüssel <lb/> mit einigen Tropffen <lb/> von dem rothen Wein besprengen <lb/> oder aber mit würfflicht= geschnittenen Citronen= Schelffen bestreuen.</p>
+        <p> Dünstet die Prinelln im rothen <lb/> oder auch nur weissen <objectName ref="wein">Wein</objectName> <lb/> ein klein wenig in einem stollichten <objectName ref="hafen">Hafen</objectName> <lb/> streuet <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet <lb/> und so es beliebt <lb/> Cardamomen und Muscatenblüh <lb/> darein <lb/> last es mit einander aufsieden; belegt inzwischen den Boden der <objectName ref="schuessel">Schüssel</objectName> <lb/> mit denen gedünsteten Prinelln <lb/> das Hun aber oder andere Gebratens auf selbige <lb/> und richtet dann die Brüh darüber : Man kan auch den Rand der <objectName ref="schuessel">Schüssel</objectName> <lb/> mit einigen Tropffen <lb/> von dem rothen <objectName ref="wein">Wein</objectName> besprengen <lb/> oder aber mit würfflicht= geschnittenen Citronen= Schelffen bestreuen. </p>
             </div>
         </body>
     </text>

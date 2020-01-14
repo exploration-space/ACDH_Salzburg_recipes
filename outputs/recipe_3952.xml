@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAchet einen Teig an <lb/> wie zu den krummen Strauben <lb/> es sey gleich wie zu den Weissen <lb/> oder aber andern zuvor beschriebenen: lasset ein Schmaltz in einem Pfännlein heiß werden <lb/> stellet einen höltzernen Zapffen mitten in das Pfännlein; giesset den Teig in ein Triechterlein <lb/> fahret damit um den Zapffen in das heisse Schmaltz herum: Wann es ein wenig gebachen <lb/> und gelb werden will <lb/> so ziehet den Zapffen langsam heraus <lb/> und wendet das Strauben= Kräntzlein subtil um <lb/> damit es auf der andern Seiten auch schön gelb werde <lb/> bestreuets mit Zucker <lb/> und tragets zu Tisch.</p>
+        <p> MAchet einen <objectName ref="teig">Teig</objectName> an <lb/> wie zu den krummen <objectName ref="strauben">Strauben</objectName> <lb/> es sey gleich wie zu den Weissen <lb/> oder aber andern zuvor beschriebenen : lasset ein Schmaltz in einem <objectName ref="pfaennlein">Pfännlein</objectName> heiß werden <lb/> stellet einen höltzernen Zapffen mitten in das <objectName ref="pfaennlein">Pfännlein</objectName>; giesset den <objectName ref="teig">Teig</objectName> in ein Triechterlein <lb/> fahret damit um den Zapffen in das heisse Schmaltz herum : Wann es ein wenig gebachen <lb/> und gelb werden will <lb/> so ziehet den Zapffen langsam heraus <lb/> und wendet das Strauben= Kräntzlein subtil um <lb/> damit es auf der andern Seiten auch schön gelb werde <lb/> bestreuets mit <objectName ref="zucker">Zucker</objectName> <lb/> und tragets zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

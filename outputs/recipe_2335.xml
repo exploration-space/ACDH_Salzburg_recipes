@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb khlaine khrebsen, seud die wie sonst, vnd schöll sie auß, vnd thue die <lb/> därml sauber herauß, vnd schoen gewürfflete brökhl sembl, rests <lb/> im schmalz fein resch. aber doch nit verbrent, vnd thues Zusammen die <lb/> khrebsen vnd Sembl brokhen in ein schißl, geuß ein fleisch: oder <lb/> Arbesbrüe dran, süssen Puter vnd gwürz, laß auf ein glietl ein <lb/> wenig sieden, doch nit Zu starkh, gibs Warmb, ist bereith. <lb/></p>
+        <p> Nimb khlaine khrebsen, seud die wie sonst, vnd schöll sie auß, vnd thue die <lb/> därml sauber herauß, vnd schoen gewürfflete brökhl sembl, rests <lb/> im <objectName ref="schmalz">schmalz</objectName> fein resch. aber doch nit verbrent, vnd thues Zusammen die <lb/> khrebsen vnd Sembl brokhen in ein schißl, geuß ein <objectName ref="fleisch">fleisch</objectName> : oder <lb/> Arbesbrüe dran, süssen Puter vnd gwürz, laß auf ein glietl ein <lb/> wenig sieden, doch nit Zu starkh, gibs Warmb, ist bereith. <lb/> </p>
             </div>
         </body>
     </text>

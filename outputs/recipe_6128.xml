@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim Zucker <lb/> würtz vnd schabs <lb/> so werden sie weiß <lb/> quells im Wasser <lb/> vnd küls auß <lb/> machs ab mit Essig <lb/> Oel vnd Saltz. Du kansts auch wol roh geben <lb/> wenn sie sauber vnd rein geschelet oder geschabt seyn.</p>
+        <p> Nim <objectName ref="zucker">Zucker</objectName> <lb/> würtz vnd schabs <lb/> so werden sie weiß <lb/> quells im <objectName ref="wasser">Wasser</objectName> <lb/> vnd küls auß <lb/> machs ab mit <objectName ref="essig">Essig</objectName> <lb/> Oel vnd Saltz. Du kansts auch wol roh geben <lb/> wenn sie sauber vnd <objectName ref="rein">rein</objectName> geschelet oder geschabt seyn. </p>
             </div>
         </body>
     </text>

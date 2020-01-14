@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneidet <lb/> waschet und brühet das Kraut <lb/> aber nicht zu hart <lb/> doch daß es etwas härtlicht bleibt ; alsdann seihet das Wasser auf das genauste davon herab <lb/> hackets klein <lb/> und <lb/> so es beliebt <lb/> auch ein wenig Mandelkerne darunter : machet alsdann ein wenig Schmaltz heiß <lb/> und röstet das Kraut darinnen : wann es nun geröstet ist <lb/> giesset in einen stollichten Hafen einen guten Kern oder Ram daran <lb/> setzet es in eine Kohlen <lb/> und lassets sieden <lb/> aber nicht gar zu lang : Wann ihr es nun anrichten wolt <lb/> so streuet Saltz und Pfeffer drauf.</p>
+        <p> SChneidet <lb/> waschet und brühet das <objectName ref="kraut">Kraut</objectName> <lb/> aber nicht zu hart <lb/> doch daß es etwas härtlicht bleibt; alsdann seihet das <objectName ref="wasser">Wasser</objectName> auf das genauste davon herab <lb/> hackets klein <lb/> und <lb/> so es beliebt <lb/> auch ein wenig Mandelkerne darunter : machet alsdann ein wenig Schmaltz heiß <lb/> und röstet das <objectName ref="kraut">Kraut</objectName> darinnen : wann es nun geröstet ist <lb/> giesset in einen stollichten <objectName ref="hafen">Hafen</objectName> einen guten Kern oder Ram daran <lb/> setzet es in eine <objectName ref="kohlen">Kohlen</objectName> <lb/> und lassets sieden <lb/> aber nicht gar zu lang : Wann ihr es nun anrichten wolt <lb/> so streuet Saltz und <objectName ref="pfeffer">Pfeffer</objectName> drauf. </p>
             </div>
         </body>
     </text>

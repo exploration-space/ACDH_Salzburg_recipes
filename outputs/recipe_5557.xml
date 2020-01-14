@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Peltzschwammen <lb/> schneidt sie fein länglicht <lb/> nicht dick <lb/> wasch sie fein sauber auß. Nim(m) Grieß vnd Mehl durcheinander <lb/> saltzs vnnd pfeffers <lb/> besträw die Schwammen wol darmit <lb/> vnnd wirff sie in heisse Butter <lb/> vnd laß sie fein langsam backen <lb/> besträw sie mit Pfeffer <lb/> vnd gibs warm auff ein Tisch <lb/> so ist es ein Gebackens von Schwammen.</p>
+        <p> Nim ( m ) Peltzschwammen <lb/> schneidt sie fein länglicht <lb/> nicht dick <lb/> wasch sie fein sauber auß. Nim ( m ) <objectName ref="griess">Grieß</objectName> vnd <objectName ref="mehl">Mehl</objectName> durcheinander <lb/> saltzs vnnd pfeffers <lb/> besträw die Schwammen wol darmit <lb/> vnnd wirff sie in heisse <objectName ref="butter">Butter</objectName> <lb/> vnd laß sie fein langsam backen <lb/> besträw sie mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> vnd gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> so ist es ein Gebackens von Schwammen. </p>
             </div>
         </body>
     </text>

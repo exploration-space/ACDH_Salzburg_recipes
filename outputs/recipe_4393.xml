@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wann die Magenfalten allerdings abgesotten <lb/> schneidets zu Stücken <lb/> thuts in einen stollichten Hafen <lb/> giesset eine Fleischbrüh daran <lb/> nehmet sauber gewaschen und geklaubtes Petersilien = Kraut <lb/> und geschählte Zwiebeln <lb/> hacket sie unter einander <lb/> und röstets in einem Schmaltz <lb/> thut es zu denen Magenfalten in den Hafen <lb/> würtzet es auch mit Ingber <lb/> Pfeffer und Muscatnuß <lb/> und lasset es also sieden ; thut auch zu letzt ein gut Stuck Butter hinein <lb/> so wird sie gut seyn : So es beliebt <lb/> kan man ein weiß = geriebenes Brod mit darunter mischen <lb/> und sieden lassen .</p>
+        <p> Wann die Magenfalten allerdings abgesotten <lb/> schneidets zu Stücken <lb/> thuts in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> giesset eine Fleischbrüh daran <lb/> nehmet sauber gewaschen und geklaubtes <objectName ref="petersilie">Petersilien</objectName> = <objectName ref="kraut">Kraut</objectName> <lb/> und geschählte <objectName ref="zwiebel">Zwiebeln</objectName> <lb/> hacket sie unter einander <lb/> und röstets in einem Schmaltz <lb/> thut es zu denen Magenfalten in den <objectName ref="hafen">Hafen</objectName> <lb/> würtzet es auch mit Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Muscatnuß <lb/> und lasset es also sieden; thut auch zu letzt ein gut Stuck <objectName ref="butter">Butter</objectName> hinein <lb/> so wird sie gut seyn : So es beliebt <lb/> kan man ein weiß = geriebenes Brod mit darunter mischen <lb/> und sieden lassen. </p>
             </div>
         </body>
     </text>

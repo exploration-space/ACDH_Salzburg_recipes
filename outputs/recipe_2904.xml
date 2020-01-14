@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm die Artischocken <lb/> schneid die gröbeste Blätter alle darvon <lb/> schneid sie nach der Läng zu Spalten <lb/> butze das Rauhe sauber heraus <lb/> saltze und meelbe sie ein <lb/> und bachs gemach aus heissem Schmaltz <lb/> nimms zum Regalieren <lb/> oder zu einer kleinen Speiß <lb/> mit gebachnem Petersil.</p>
+        <p> NImm die <objectName ref="artischocken">Artischocken</objectName> <lb/> schneid die gröbeste Blätter alle darvon <lb/> schneid sie nach der Läng zu Spalten <lb/> butze das Rauhe sauber heraus <lb/> saltze und meelbe sie ein <lb/> und bachs gemach aus heissem Schmaltz <lb/> nimms zum Regalieren <lb/> oder zu einer kleinen Speiß <lb/> mit gebachnem Petersil. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZU diesem nimm säurlete Aepffel <lb/> brats <lb/> und nimm sechs Löffelvoll dergleichen geschabne Aepffel <lb/> zwey welsche Nuß groß eingeweichten schönen Tragant <lb/> und von acht Eyern die Klar <lb/> rührs zum lautern Faum <lb/> rühr ein Löffelvoll um den andern in das Aepffel= Koch <lb/> hernach nimm zwölff Loth Zucker <lb/> von einem Lemoni die Schelffen <lb/> rührs daß schön faumt <lb/> und bachs schön <lb/> so ists recht und gut.</p>
+        <p> ZU diesem nimm säurlete Aepffel <lb/> brats <lb/> und nimm sechs Löffelvoll dergleichen geschabne Aepffel <lb/> zwey welsche Nuß groß eingeweichten schönen <objectName ref="tragant">Tragant</objectName> <lb/> und von acht Eyern die Klar <lb/> rührs zum lautern Faum <lb/> rühr ein Löffelvoll um den andern in das Aepffel= Koch <lb/> hernach nimm zwölff <objectName ref="loth">Loth</objectName> <objectName ref="zucker">Zucker</objectName> <lb/> von einem Lemoni die Schelffen <lb/> rührs daß schön faumt <lb/> und bachs schön <lb/> so ists recht und gut. </p>
             </div>
         </body>
     </text>

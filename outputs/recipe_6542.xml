@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIe werden entweder alleinig <lb/> oder auf das Kraut gelegter gegeben <lb/> oder warmer in einem Marginat, von gerösten <lb/> klein gehackten Zwibeln <lb/> Knoblauch <lb/> Eßig <lb/> Oel <lb/> Gewürtz <lb/> oder auch kalter mit Oel und Eßig <lb/> Pfeffer und Saltz.</p>
+        <p> SIe werden entweder alleinig <lb/> oder auf das <objectName ref="kraut">Kraut</objectName> gelegter gegeben <lb/> oder warmer in einem Marginat, von gerösten <lb/> klein gehackten Zwibeln <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> Eßig <lb/> Oel <lb/> Gewürtz <lb/> oder auch kalter mit Oel und Eßig <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Saltz. </p>
             </div>
         </body>
     </text>

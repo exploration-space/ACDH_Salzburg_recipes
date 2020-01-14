@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Vier Lot weiß Ingwer <lb/> ein Lot Cardomomum <lb/> ein Lot Zimmetrinden <lb/> ein quintlin Mastix <lb/> zwey Lot Coriander <lb/> ein halb Lot rote Rosen <lb/> ein pfundt Honig <lb/> oder Zucker <lb/> ein viertheil einer Maß gutes Weins. Solcher Wein sol also klar gemacht werden.</p>
+        <p> Vier Lot weiß <objectName ref="ingwer">Ingwer</objectName> <lb/> ein Lot Cardomomum <lb/> ein Lot Zimmetrinden <lb/> ein quintlin <objectName ref="mastix">Mastix</objectName> <lb/> zwey Lot Coriander <lb/> ein halb Lot rote <objectName ref="rosen">Rosen</objectName> <lb/> ein pfundt <objectName ref="honig">Honig</objectName> <lb/> oder <objectName ref="zucker">Zucker</objectName> <lb/> ein viertheil einer <objectName ref="mass">Maß</objectName> gutes Weins. Solcher <objectName ref="wein">Wein</objectName> sol also klar gemacht werden. </p>
             </div>
         </body>
     </text>

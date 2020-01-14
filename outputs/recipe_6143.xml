@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Salsen von grün Pettersilgen gemacht <lb/> mit gebehtem Brot und Essig durchgestrichen <lb/> pfeffers vnd saltzs ein wenig <lb/> so wirt es gut vnd wolgeschmack.</p>
+        <p> Salsen von grün Pettersilgen gemacht <lb/> mit gebehtem <objectName ref="brot">Brot</objectName> und <objectName ref="essig">Essig</objectName> durchgestrichen <lb/> pfeffers vnd saltzs ein wenig <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

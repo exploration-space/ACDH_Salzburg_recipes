@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAchet diese Brüh über das bereits abgesottene Kalb= oder Lamms= Fleisch <lb/> wie die beede kurtz vorher beschriebene; lasset aber mit dem Brod die Agrest (welche von dem unzeitigen Weintrauben genommen werden) oder auch mit denen Stachelbeeren zugleich sieden <lb/> und treibt es hernach mit durch: machet sie im übrigen allerdings zusammen <lb/> wie die Limonien= Brüh Num. 99. nur daß ihr an statt der geschnittenen Limonien noch mehr gantze Agrest= oder Stachel= Beere in die durchgetriebene Brüh werffet <lb/> und selbige ferner damit sieden lasset.</p>
+        <p> MAchet diese Brüh über das bereits abgesottene Kalb= oder Lamms= <objectName ref="fleisch">Fleisch</objectName> <lb/> wie die beede kurtz vorher beschriebene; lasset aber mit dem Brod die Agrest ( welche von dem unzeitigen <objectName ref="weintrauben">Weintrauben</objectName> genommen werden ) oder auch mit denen <objectName ref="stachelbeeren">Stachelbeeren</objectName> zugleich sieden <lb/> und treibt es hernach mit durch : machet sie im übrigen allerdings zusammen <lb/> wie die Limonien= Brüh Num. 99. nur daß ihr an statt der geschnittenen Limonien noch mehr gantze Agrest= oder Stachel= Beere in die durchgetriebene Brüh werffet <lb/> und selbige ferner damit sieden lasset. </p>
             </div>
         </body>
     </text>

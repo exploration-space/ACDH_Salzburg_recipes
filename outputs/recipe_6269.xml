@@ -166,9 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim Maßholtern Holtz <lb/> vnd schab die groben Rinden davon <lb/> vnd die andern schab biß auffs Holtz <lb/> ein groß Handt voll <lb/> vnd dörr sie an der Sonnen <lb/> oder auff einem Ofen in der Stuben <lb/> vnd thu sie in den Wein <lb/> vnd laß darinnen ligen <lb/> er kompt wider.
-
-Wiltu aber abgetropffnen Wein wider bringen <lb/> so henck wilden Hopffen darein <lb/> zween oder drey tage.</p>
+        <p> Nim Maßholtern Holtz <lb/> vnd schab die groben Rinden davon <lb/> vnd die andern schab biß auffs Holtz <lb/> ein groß Handt voll <lb/> vnd dörr sie an der Sonnen <lb/> oder auff einem <objectName ref="ofen">Ofen</objectName> in der Stuben <lb/> vnd thu sie in den <objectName ref="wein">Wein</objectName> <lb/> vnd laß darinnen ligen <lb/> er kompt wider. Wiltu aber abgetropffnen <objectName ref="wein">Wein</objectName> wider bringen <lb/> so henck wilden Hopffen darein <lb/> zween oder drey tage. </p>
             </div>
         </body>
     </text>

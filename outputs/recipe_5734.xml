@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm halb= pfündige <lb/> oder auch nach belieben grössere Hechtlein <lb/> schuppe selbige <lb/> und mache sie am Bauch auf <lb/> thue das Eingeweid heraus <lb/> wasche <lb/> saltze und würtze sie; legs hernach in einen stollichten Hafen oder Pasteten= Tiegel <lb/> laß ein frisches Baum= Oel heiß werden <lb/> brenn dasselbige über die Fische <lb/> gieß Wein <lb/> Fleischbrüh <lb/> und ein paar Löffel voll Essig dazu <lb/> thu etliche kleine Rosmarin= Sträußlein und ein klein wenig Semmel= Mehl daran <lb/> laß mit einander dampffen oder aufsieden <lb/> richts an <lb/> und bestreue es oben mit würfflicht= und klein= geschnittenen Citronen= Schelffen.</p>
+        <p> NImm halb= pfündige <lb/> oder auch nach belieben grössere Hechtlein <lb/> schuppe selbige <lb/> und mache sie am Bauch auf <lb/> thue das Eingeweid heraus <lb/> wasche <lb/> saltze und würtze sie; legs hernach in einen stollichten <objectName ref="hafen">Hafen</objectName> oder Pasteten= <objectName ref="tiegel">Tiegel</objectName> <lb/> laß ein frisches Baum= Oel heiß werden <lb/> brenn dasselbige über die Fische <lb/> gieß <objectName ref="wein">Wein</objectName> <lb/> Fleischbrüh <lb/> und ein paar <objectName ref="loeffel">Löffel</objectName> voll <objectName ref="essig">Essig</objectName> dazu <lb/> thu etliche kleine Rosmarin= Sträußlein und ein klein wenig Semmel= <objectName ref="mehl">Mehl</objectName> daran <lb/> laß mit einander dampffen oder aufsieden <lb/> richts an <lb/> und bestreue es oben mit würfflicht= und klein= geschnittenen Citronen= Schelffen. </p>
             </div>
         </body>
     </text>

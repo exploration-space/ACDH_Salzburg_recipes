@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Karwenada vom Hausen mit der Brüh zugericht <lb/> ist gut vnd wolgeschmack <lb/> die Brüh mit gestossenem Pfeffer angemacht.</p>
+        <p> Karwenada vom Hausen mit der Brüh zugericht <lb/> ist gut vnd wolgeschmack <lb/> die Brüh mit gestossenem <objectName ref="pfeffer">Pfeffer</objectName> angemacht. </p>
             </div>
         </body>
     </text>

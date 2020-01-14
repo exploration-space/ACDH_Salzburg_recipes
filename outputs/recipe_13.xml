@@ -171,9 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimbe den Rechschlögl, thue ihme sauber <lb/> abheitten<gap/>, vnnd schön spickhen<gap/>, vnnd <lb/> thue ihme halb Praden<gap/>, hernach <lb/> mache ein brüe<gap/> mit Sardellen<gap/>, <lb/> Lemony Safft<gap/>, vnnd Gewürz<gap/>, vnd <lb/> Wein, vnnd ein Ganzen Zwifel<gap/>, <lb/> Auch Fleischbrüe<gap/>, Gies<gap/> die brüe yber <lb/> den Rechschlögl, lass ihn Woll <lb/> Aufkochen. <lb/><lb/> (re 4)
-
-[Anm.: „halb Praden“: das Fleisch soll nicht ganz durch gebraten werden, also innen noch rosa sein]</p>
+        <p> Nimbe den Rechschlögl, thue ihme sauber <lb/> abheitten<gap/>, vnnd schön spickhen<gap/>, vnnd <lb/> thue ihme halb Praden<gap/>, hernach <lb/> mache ein brüe<gap/> mit Sardellen<gap/>, <lb/> Lemony Safft<gap/>, vnnd Gewürz<gap/>, vnd <lb/> <objectName ref="wein">Wein</objectName>, vnnd ein Ganzen Zwifel<gap/>, <lb/> Auch Fleischbrüe<gap/>, Gies<gap/> die brüe yber <lb/> den Rechschlögl, lass ihn Woll <lb/> Aufkochen. <lb/><lb/> ( re 4 ) [ Anm. : „ halb Praden “ : das <objectName ref="fleisch">Fleisch</objectName> soll nicht ganz durch gebraten werden, also innen noch rosa sein ] </p>
             </div>
         </body>
     </text>

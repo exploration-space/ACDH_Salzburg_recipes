@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Kramatsvögel in Pasteten fein warm eyngemacht <lb/> mit saur Limonien <lb/> seind sie auch gut.</p>
+        <p> Kramatsvögel in <objectName ref="pastete">Pasteten</objectName> fein warm eyngemacht <lb/> mit saur Limonien <lb/> seind sie auch gut. </p>
             </div>
         </body>
     </text>

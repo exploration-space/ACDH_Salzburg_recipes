@@ -174,36 +174,7 @@ Willst du ein ganzes Huhn in einer Flasche machen, dann koch das Huhn gut und be
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WIldu machn̄ ein ganncz hun in einē
-chragllatz glas So průe daz hun schon vnd
-laz im di haut peÿ dem hals vnd pewirff
-es schon zwischn̄ haut vnd des fleisch
-vnd zewch im die haut ab also gancze
-pis an̄ die fuss ÿnbendig ab also daz si
-[321v] an dʾ haut pelibn̄ Vnd mach ein klains Stu=
-mpffocz holcz̄l vnd plas in di haut wo si
-dan ze prochn̄ seÿ da naͤ si dan zw vnd
-nÿm den den (!) ainē fuss vnd stos in in daz
-glaz vnd darnach den andrʾ fus vnd nÿm
-daz stumpffocz holczel vnd stos ÿe dʾ haut
-ein winczigis hin ein wen du nu di haut
-hin ein gestos pis an den hals So halt
-den hals hÿe obn̄ vnd vbʾsturcz in mit
-dʾ haut vbʾ daz glas vnd pint es mit einē
-fabn̄ (!) zw So nÿm daz hun vnd wirff es
-auf ein fleisch vnd las siedn̄ wē es
-nu gesotn̄ ist so hack aÿr vnd petʾsill vnd
-saluā vnd gut stupp vnd plas dan in das
-glas So tuͤt sich daz hun auf so full dan
-die full dar ein vnd wē die haut vol ist
-so vʾmacht seÿ obn̄ wol daz sie nicht hin
-ein vall vnd daz kain wasβ hin ein mog
-komē vnd tu es dan in ein hafen vnd
-geus ein wasβ dar an vnd deck es zw
-vnd laz siedn̄ so wirt es sich strechn̄ in
-dem glas, daz mā siecht die fluḡl die
-fuss vnd den hals vnd den ganczn̄ potich
-mit ein ander</p>
+        <p> WIldu machn̄ ein ganncz hun in einē chragllatz <objectName ref="glas">glas</objectName> So průe daz hun schon vnd laz im di haut peÿ dem hals vnd pewirff es schon zwischn̄ haut vnd des <objectName ref="fleisch">fleisch</objectName> vnd zewch im die haut ab also gancze pis an̄ die fuss ÿnbendig ab also daz si [ 321v ] an dʾ haut pelibn̄ Vnd mach ein klains Stumpffocz holcz̄l vnd plas in di haut wo si dan ze prochn̄ seÿ da naͤ si dan zw vnd nÿm den den ( ! ) ainē fuss vnd stos in in daz glaz vnd darnach den andrʾ fus vnd nÿm daz stumpffocz holczel vnd stos ÿe dʾ haut ein winczigis hin ein wen du nu di haut hin ein gestos pis an den hals So halt den hals hÿe obn̄ vnd vbʾsturcz in mit dʾ haut vbʾ daz <objectName ref="glas">glas</objectName> vnd pint es mit einē fabn̄ ( ! ) zw So nÿm daz hun vnd wirff es auf ein <objectName ref="fleisch">fleisch</objectName> vnd las siedn̄ wē es nu gesotn̄ ist so hack aÿr vnd petʾsill vnd saluā vnd gut stupp vnd plas dan in das <objectName ref="glas">glas</objectName> So tuͤt sich daz hun auf so full dan die full dar ein vnd wē die haut vol ist so vʾmacht seÿ obn̄ wol daz sie nicht hin ein vall vnd daz kain wasβ hin ein mog komē vnd tu es dan in ein <objectName ref="hafen">hafen</objectName> vnd geus ein wasβ dar an vnd deck es zw vnd laz siedn̄ so wirt es sich strechn̄ in dem <objectName ref="glas">glas</objectName>, daz mā siecht die fluḡl die fuss vnd den hals vnd den ganczn̄ potich mit ein ander </p>
             </div>
         </body>
     </text>

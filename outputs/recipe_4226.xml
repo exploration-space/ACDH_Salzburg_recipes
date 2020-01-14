@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn dieser zuvor wol gewässert <lb/> und wieder getrücknet worden <lb/> mit Butter <lb/> oder Oel <lb/> und hernach mit Oel <lb/> Eßig und Pfeffer angericht <lb/> oder mit Senff vermischten Butter warm <lb/> oder auf durchgetriebene Erbes <lb/> mit gerösten Semmel= Bröcklen.</p>
+        <p> WAnn dieser zuvor wol gewässert <lb/> und wieder getrücknet worden <lb/> mit <objectName ref="butter">Butter</objectName> <lb/> oder Oel <lb/> und hernach mit Oel <lb/> Eßig und <objectName ref="pfeffer">Pfeffer</objectName> angericht <lb/> oder mit Senff vermischten <objectName ref="butter">Butter</objectName> warm <lb/> oder auf durchgetriebene Erbes <lb/> mit gerösten Semmel= Bröcklen. </p>
             </div>
         </body>
     </text>

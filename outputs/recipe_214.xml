@@ -168,9 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mache ein butter taig<gap/> von Zuckher vnd <lb/> Rosenwasser, darnach mach von Mandl <lb/> taig<gap/> Kigerl<gap/> vnd walze<gap/> den din Aus, <lb/> leg die Kigl<gap/> darein, schneidt es ganz <lb/> Klein herab, bach<gap/> es schön, so is es bereith <lb/>
-
-[Anm.: Hier fehlt die Angabe von Butter und Mehl um wirklich einen Teig herstellen zu können. Es wurde vermutlich vorausgesetzt, daß das Grundrezept bekannt ist.]</p>
+        <p> Mache ein <objectName ref="butter">butter</objectName> taig<gap/> von Zuckher vnd <lb/> <objectName ref="rosenwasser">Rosenwasser</objectName>, darnach mach von Mandl <lb/> taig<gap/> Kigerl<gap/> vnd walze<gap/> den din Aus, <lb/> leg die Kigl<gap/> darein, schneidt es ganz <lb/> Klein herab, bach<gap/> es schön, so is es bereith <lb/> [ Anm. : Hier fehlt die Angabe von <objectName ref="butter">Butter</objectName> und <objectName ref="mehl">Mehl</objectName> um wirklich einen <objectName ref="teig">Teig</objectName> herstellen zu können. Es wurde vermutlich vorausgesetzt, daß das Grundrezept bekannt ist. ] </p>
             </div>
         </body>
     </text>

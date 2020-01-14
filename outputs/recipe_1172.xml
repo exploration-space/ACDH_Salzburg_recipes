@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Yber<gap/> siede<gap/> die zungen zimblich waich thues <lb/> herauß khiels<gap/> ab, ziehe<gap/> die hauth ab, schneyde<gap/> schnizl<gap/> <lb/> daruon druckhs<gap/> im Putter<gap/> ein, lögs<gap/> auf den <lb/> Rost<gap/>, laß ein wenig anlauffen<gap/>, thues in ein <lb/> Rein<gap/>, schitte<gap/> ösßig, oder Wein vnd Fleischprie<gap/> daran <lb/> lög<gap/> Putter<gap/> zue, gewierz<gap/>, ganzen zwifl<gap/>, mit Nägl<gap/> <lb/> bestöckht<gap/>, zuggers<gap/>, nimb auch Weinpierl<gap/>, ganze <lb/> Mandl<gap/>, thueß einprenen<gap/> mit Putter<gap/>, Mehl<gap/> vnd <lb/> khlein geschnitnen<gap/> zwifl<gap/>, doch nit zu dickh<gap/>, laß allso <lb/> khochen, richts<gap/> an, gibe die Weinpierl<gap/> vnd Mandl<gap/>, <lb/> oben dariber, <lb/></p>
+        <p> Yber<gap/> siede<gap/> die <objectName ref="zunge">zungen</objectName> zimblich waich thues <lb/> herauß khiels<gap/> ab, ziehe<gap/> die hauth ab, schneyde<gap/> schnizl<gap/> <lb/> daruon druckhs<gap/> im Putter<gap/> ein, lögs<gap/> auf den <lb/> Rost<gap/>, laß ein wenig anlauffen<gap/>, thues in ein <lb/> Rein<gap/>, schitte<gap/> ösßig, oder <objectName ref="wein">Wein</objectName> vnd Fleischprie<gap/> daran <lb/> lög<gap/> Putter<gap/> zue, gewierz<gap/>, ganzen zwifl<gap/>, mit Nägl<gap/> <lb/> bestöckht<gap/>, zuggers<gap/>, nimb auch Weinpierl<gap/>, ganze <lb/> Mandl<gap/>, thueß einprenen<gap/> mit Putter<gap/>, Mehl<gap/> vnd <lb/> khlein geschnitnen<gap/> zwifl<gap/>, doch nit zu dickh<gap/>, laß allso <lb/> khochen, richts<gap/> an, gibe die Weinpierl<gap/> vnd Mandl<gap/>, <lb/> oben dariber, <lb/> </p>
             </div>
         </body>
     </text>

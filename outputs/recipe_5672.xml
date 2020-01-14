@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAsche Prinelln oder geschählte Pflaumen <lb/> laß selbige im Wein sieden biß sie weich werden ; treibs nachmal durch ein Sieblein <lb/> röste geriebenes rocken Brod im Schmaltz <lb/> und gieß die durchgetriebene Pflaumen daran <lb/> zuckers <lb/> und laß noch einmal aufsieden.</p>
+        <p> WAsche Prinelln oder geschählte <objectName ref="pflaumen">Pflaumen</objectName> <lb/> laß selbige im <objectName ref="wein">Wein</objectName> sieden biß sie weich werden; treibs nachmal durch ein Sieblein <lb/> röste geriebenes rocken Brod im Schmaltz <lb/> und gieß die durchgetriebene <objectName ref="pflaumen">Pflaumen</objectName> daran <lb/> zuckers <lb/> und laß noch einmal aufsieden. </p>
             </div>
         </body>
     </text>

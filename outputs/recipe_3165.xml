@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn macht auch dise Füll <lb/> von gesottnem und ausgezopfften Hecht <lb/> mit klein= gehackten Zwibel und Semmel= Brosen in Butter geröst <lb/> mit süssen Gewürtz <lb/> Pinioli,  Weinbeer <lb/> Lemoni= Schelffen <lb/> Eyer und süssen Ram trucken angemacht <lb/> und wird der Fisch darmit gefüllt <lb/> und im Ofen gebraten <lb/> wie der vorige <lb/> und wann er fertig <lb/> gibt man ihn mit süsser Weinbeer= Pinioli- und gelber Capry= Brühe <lb/> mit Wein <lb/> Lemoni <lb/> und süssem Gewürtz gemacht <lb/> wohl von Lemoni <lb/> Eßig und Zucker.</p>
+        <p> MAn macht auch dise Füll <lb/> von gesottnem und ausgezopfften <objectName ref="hecht">Hecht</objectName> <lb/> mit klein= gehackten Zwibel und Semmel= Brosen in <objectName ref="butter">Butter</objectName> geröst <lb/> mit süssen Gewürtz <lb/> Pinioli, Weinbeer <lb/> Lemoni= Schelffen <lb/> Eyer und süssen Ram trucken angemacht <lb/> und wird der <objectName ref="fisch">Fisch</objectName> darmit gefüllt <lb/> und im <objectName ref="ofen">Ofen</objectName> gebraten <lb/> wie der vorige <lb/> und wann er fertig <lb/> gibt man ihn mit süsser Weinbeer= Pinioli- und gelber Capry= <objectName ref="bruehe">Brühe</objectName> <lb/> mit <objectName ref="wein">Wein</objectName> <lb/> Lemoni <lb/> und süssem Gewürtz gemacht <lb/> wohl von Lemoni <lb/> Eßig und <objectName ref="zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb .1. Bouch: d´aqa vnd .2. tt moßpör <lb/> vnd zerquetsche sye in der Schüsßl mit <lb/> ain hilzenen lefl vnd daß jenige wasßer <lb/> stehen lassen aber nit gar ein Stundt. dar,, <lb/> noch geseüchen vnd misch darunter .4. loth <lb/> zuckher vnd ein wenig roßen wasßer amber <lb/> et mus: w: blt. gieß ins gschier zum <lb/> kalt werden oder geführn. <lb/></p>
+        <p> Nimb.1. Bouch : d´aqa vnd.2. tt moßpör <lb/> vnd zerquetsche sye in der Schüsßl mit <lb/> ain hilzenen lefl vnd daß jenige wasßer <lb/> stehen lassen aber nit gar ein Stundt. dar,, <lb/> noch geseüchen vnd misch darunter.4. <objectName ref="loth">loth</objectName> <lb/> zuckher vnd ein wenig roßen wasßer <objectName ref="amber">amber</objectName> <lb/> et mus : w : blt. gieß ins gschier zum <lb/> kalt werden oder geführn. <lb/> </p>
             </div>
         </body>
     </text>

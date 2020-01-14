@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Item <lb/> so nim ein heiß Brot <lb/> das erst auß dem Ofen kompt <lb/> vnd brich das voneinander <lb/> vnd leg das also auff den Spunt <lb/> vnd laß ligen <lb/> biß es kalt wirt <lb/> so zeucht es den Geschmack an sich <lb/> Ist das Faß groß <lb/> so thu es ein mal oder drey <lb/> es hilfft vnd ist bewert.</p>
+        <p> Item <lb/> so nim ein heiß <objectName ref="brot">Brot</objectName> <lb/> das erst auß dem <objectName ref="ofen">Ofen</objectName> kompt <lb/> vnd brich das voneinander <lb/> vnd leg das also auff den Spunt <lb/> vnd laß ligen <lb/> biß es kalt wirt <lb/> so zeucht es den Geschmack an sich <lb/> Ist das Faß groß <lb/> so thu es ein mal oder drey <lb/> es hilfft vnd ist bewert. </p>
             </div>
         </body>
     </text>

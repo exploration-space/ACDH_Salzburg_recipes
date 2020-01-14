@@ -171,9 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Scheele die Kütten <lb/> und schneide das Steinige darvon <lb/> mache dünne Spalten <lb/> dämpffe sie mit Zucker <lb/> Wein <lb/> gantzen Zimmet und Näglein <lb/> und wann sie weich genug <lb/> kühle sie aus <lb/> und trückne sie ab <lb/> mache einen Taig von purem Wein <lb/> und weissen Meel <lb/> so dünn als einen Schnitten=Taig <lb/> stecke die Spalten an ein Spißlein <lb/> ziehs durch den Taig <lb/> laß ihn wol abseihen <lb/> oder abtropffnen <lb/> bachs zimlich heiß <lb/> bey dem Anrichten bestreus mit Zucker.
-
-NB. Man kan diese Kütten=Spalten auch aus Brand=Taig oder andern auflauffenden Weixel= oder Salbey=Taig bachen <lb/> wie bey dem Schmaltz=Gebäch in dem 5. Capitel zur Genügen zu sehen ist.</p>
+        <p> Scheele die Kütten <lb/> und schneide das Steinige darvon <lb/> mache dünne Spalten <lb/> dämpffe sie mit <objectName ref="zucker">Zucker</objectName> <lb/> <objectName ref="wein">Wein</objectName> <lb/> gantzen Zimmet und Näglein <lb/> und wann sie weich genug <lb/> kühle sie aus <lb/> und trückne sie ab <lb/> mache einen Taig von purem <objectName ref="wein">Wein</objectName> <lb/> und weissen Meel <lb/> so dünn als einen Schnitten=Taig <lb/> stecke die Spalten an ein Spißlein <lb/> ziehs durch den Taig <lb/> laß ihn wol abseihen <lb/> oder abtropffnen <lb/> bachs zimlich heiß <lb/> bey dem Anrichten bestreus mit <objectName ref="zucker">Zucker</objectName>. NB. Man kan diese Kütten=Spalten auch aus Brand=Taig oder andern auflauffenden Weixel= oder Salbey=Taig bachen <lb/> wie bey dem Schmaltz=Gebäch in dem 5. Capitel zur Genügen zu sehen ist. </p>
             </div>
         </body>
     </text>

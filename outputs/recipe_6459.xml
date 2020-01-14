@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m)  Epffel <lb/> vnd schneidt den butzen herauß <lb/> sprütz ein wenig Wein darüber <lb/> daß ein wenig feucht ist <lb/> mehls wol <lb/>vnnd wirffs in heisse Butter <lb/> backs <lb/> daß sie fein resch seyn <lb/> gibs warm auff ein Tisch <lb/> vnnd besträw es mit Zucker. Also heißt man geschwembt Epffel auß der Butter.</p>
+        <p> Nim ( m ) Epffel <lb/> vnd schneidt den butzen herauß <lb/> sprütz ein wenig <objectName ref="wein">Wein</objectName> darüber <lb/> daß ein wenig feucht ist <lb/> mehls wol /vnnd wirffs in heisse <objectName ref="butter">Butter</objectName> <lb/> backs <lb/> daß sie fein resch seyn <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> vnnd besträw es mit <objectName ref="zucker">Zucker</objectName>. Also heißt man geschwembt Epffel auß der <objectName ref="butter">Butter</objectName>. </p>
             </div>
         </body>
     </text>

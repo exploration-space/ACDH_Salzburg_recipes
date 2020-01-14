@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>PEtersil <lb/> von diesen und andern Suppen= Kräutern ist hierinn an vielen Orten angezogen.</p>
+        <p> PEtersil <lb/> von diesen und andern Suppen= <objectName ref="kraeuter">Kräutern</objectName> ist hierinn an vielen Orten angezogen. </p>
             </div>
         </body>
     </text>

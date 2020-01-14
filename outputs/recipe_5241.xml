@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) gerieben Ruckenbrot <lb/> thu darvnter Driet <lb/> auch klein geschnitten Muscatennüß <lb/> machs an mit Maluasier <lb/> nicht gar zu trucken <lb/> noch zu gar naß <lb/> sträw kleinen Confect darüber <lb/> vnd gibs kalt auff ein Tisch. Hastu kein Maluasier <lb/> so machs mit einem Wein ab <lb/> so ist es gut vnd lieblich.</p>
+        <p> Nim ( m ) gerieben Ruckenbrot <lb/> thu darvnter Driet <lb/> auch klein geschnitten Muscatennüß <lb/> machs an mit Maluasier <lb/> nicht gar zu trucken <lb/> noch zu gar naß <lb/> sträw kleinen Confect darüber <lb/> vnd gibs kalt auff ein <objectName ref="tisch">Tisch</objectName>. Hastu kein Maluasier <lb/> so machs mit einem <objectName ref="wein">Wein</objectName> ab <lb/> so ist es gut vnd lieblich. </p>
             </div>
         </body>
     </text>

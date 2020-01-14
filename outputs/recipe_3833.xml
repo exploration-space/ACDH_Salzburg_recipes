@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>PRaxen ausgelößt <lb/> mit Gewürtz <lb/> Saltz <lb/> geweichter Semmel <lb/> linden und wol fetten Eingerührten <lb/> Allfisch= Brät <lb/> oder Butter <lb/> gibt allerhand Knödlein <lb/> Strützlein <lb/> Polpeden <lb/> auch Eingebundenes <lb/> Eyerflärlein <lb/> oder Netzlein einzuschlagen <lb/> und in Butter zu braten <lb/> etc.</p>
+        <p> PRaxen ausgelößt <lb/> mit Gewürtz <lb/> Saltz <lb/> geweichter Semmel <lb/> linden und wol fetten Eingerührten <lb/> Allfisch= Brät <lb/> oder <objectName ref="butter">Butter</objectName> <lb/> gibt allerhand Knödlein <lb/> Strützlein <lb/> Polpeden <lb/> auch Eingebundenes <lb/> Eyerflärlein <lb/> oder Netzlein einzuschlagen <lb/> und in <objectName ref="butter">Butter</objectName> zu braten <lb/> etc. </p>
             </div>
         </body>
     </text>

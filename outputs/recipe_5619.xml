@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Rühret gestossene Mandeln <lb/> und etwas von dem schönsten Mehl unter einander <lb/> giesset ein wenig Rosenwasser daran <lb/> streuet klar= gestossen= und durchgerädelten weissen Zucker darein ; mischet das Weisse von zwey oder drey Eyern darunter <lb/> klopftets aber zuvor in einem Hafelein <lb/> und rühret so dann den Teig schön glatt damit ab <lb/> daß er wird wie ein gebrennter Num. 56. biß 59. beschriebener teig : Leget ihn dann mit einem kleinen eisernen tieffen Löffelein ins Schmaltz <lb/> und bachet die Küchlein heraus.</p>
+        <p> Rühret gestossene <objectName ref="mandeln">Mandeln</objectName> <lb/> und etwas von dem schönsten <objectName ref="mehl">Mehl</objectName> unter einander <lb/> giesset ein wenig <objectName ref="rosenwasser">Rosenwasser</objectName> daran <lb/> streuet klar= gestossen= und durchgerädelten weissen <objectName ref="zucker">Zucker</objectName> darein; mischet das Weisse von zwey oder drey Eyern darunter <lb/> klopftets aber zuvor in einem Hafelein <lb/> und rühret so dann den <objectName ref="teig">Teig</objectName> schön glatt damit ab <lb/> daß er wird wie ein gebrennter Num. 56. biß 59. beschriebener <objectName ref="teig">teig</objectName> : Leget ihn dann mit einem kleinen eisernen tieffen Löffelein ins Schmaltz <lb/> und bachet die Küchlein heraus. </p>
             </div>
         </body>
     </text>

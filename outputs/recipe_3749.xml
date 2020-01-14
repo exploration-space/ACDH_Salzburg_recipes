@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DArzu nimm ein Semmel <lb/> scheele die Rinden darvon <lb/> weichs in ein gute süsse Ober= Milch <lb/> laß weich werden <lb/> trucks aus <lb/> zerstoß wol in einem Mersel <lb/> nimm frischen süssen Butter <lb/> rühre ihn <lb/> oder stoß ihn unter die Semmel gar wol ab <lb/> wanns genug ist <lb/> so nimms heraus in ein Schüssel <lb/> schlag vier oder sechs Eyerdotter darein <lb/> nachdem du viel machen wilst <lb/> zuckers wol <lb/> schmirb ein Schüssel mit Butter <lb/> und setz auf ein Glut <lb/> gib oben auch Glut <lb/> alsdann gehts hoch auf <lb/> ist gut und recht.</p>
+        <p> DArzu nimm ein Semmel <lb/> scheele die Rinden darvon <lb/> weichs in ein gute süsse Ober= <objectName ref="milch">Milch</objectName> <lb/> laß weich werden <lb/> trucks aus <lb/> zerstoß wol in einem Mersel <lb/> nimm frischen süssen <objectName ref="butter">Butter</objectName> <lb/> rühre ihn <lb/> oder stoß ihn unter die Semmel gar wol ab <lb/> wanns genug ist <lb/> so nimms heraus in ein <objectName ref="schuessel">Schüssel</objectName> <lb/> schlag vier oder sechs Eyerdotter darein <lb/> nachdem du viel machen wilst <lb/> zuckers wol <lb/> schmirb ein <objectName ref="schuessel">Schüssel</objectName> mit <objectName ref="butter">Butter</objectName> <lb/> und setz auf ein <objectName ref="glut">Glut</objectName> <lb/> gib oben auch <objectName ref="glut">Glut</objectName> <lb/> alsdann gehts hoch auf <lb/> ist gut und recht. </p>
             </div>
         </body>
     </text>

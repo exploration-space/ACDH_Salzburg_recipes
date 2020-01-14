@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Reh= Brust wird von allen Beinern ausgelößt <lb/> mit solchen wohl fetten und abgewürtzten Reh= Brät <lb/> mit Piniolen <lb/> klein und grossen gebutzten Weinbeeren vermischt <lb/> zusammen gerollt <lb/> und wohl fest gebunden <lb/> und verfahren <lb/> darmit <lb/> wie No. 7. in disem Capitel weiter beschrieben <lb/> hernach ein gutes Mandel= Geschärb <lb/> mit Wein <lb/> gebutzten klein und grossen  Rosinen <lb/> mit einer kurzen dicken Brühe <lb/> wohl süß <lb/> gelb <lb/> oder braun versehen <lb/> und darüber gegeben.</p>
+        <p> DIe Reh= <objectName ref="brust">Brust</objectName> wird von allen Beinern ausgelößt <lb/> mit solchen wohl fetten und abgewürtzten Reh= Brät <lb/> mit Piniolen <lb/> klein und grossen gebutzten <objectName ref="weinbeeren">Weinbeeren</objectName> vermischt <lb/> zusammen gerollt <lb/> und wohl fest gebunden <lb/> und verfahren <lb/> darmit <lb/> wie No. 7. in disem Capitel weiter beschrieben <lb/> hernach ein gutes Mandel= Geschärb <lb/> mit <objectName ref="wein">Wein</objectName> <lb/> gebutzten klein und grossen <objectName ref="rosinen">Rosinen</objectName> <lb/> mit einer kurzen dicken <objectName ref="bruehe">Brühe</objectName> <lb/> wohl süß <lb/> gelb <lb/> oder braun versehen <lb/> und darüber gegeben. </p>
             </div>
         </body>
     </text>

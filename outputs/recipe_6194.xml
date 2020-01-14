@@ -172,9 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) von der Ganß das Hirn <lb/> wenns gesotten ist <lb/> vnd reib ein Weck <lb/> der beschnitten ist <lb/> hack das durcheinander <lb/> thu etliche Eyerdotter <lb/> vnnd ein wenig Ingwer darein <lb/> versaltz es nicht <lb/> nim(m) ein Turtenpfannen <lb/> vnd Butter darein <lb/> machs heiß <lb/> vnd nim(m) ein höltzern Löffel voll <lb/> thu es in das heisse Schmaltz hinein <lb/> kehr es darnach vmb <lb/> vnnd machs <lb/> daß sichs fein bäckt <lb/> denn es ist geschwindt gebacken. Mach ein stücklein sechs oder siben <lb/> daß ein Schüssel voll wirt <lb/> denn du mußt viel haben von Gänsen <lb/> daß ein Schüssel voll wirt. Vnd die Speiß nennet man Durtelet von Gänßhirn.
-
-</p>
+        <p> Nim ( m ) von der Ganß das <objectName ref="hirn">Hirn</objectName> <lb/> wenns gesotten ist <lb/> vnd reib ein Weck <lb/> der beschnitten ist <lb/> hack das durcheinander <lb/> thu etliche Eyerdotter <lb/> vnnd ein wenig <objectName ref="ingwer">Ingwer</objectName> darein <lb/> versaltz es nicht <lb/> nim ( m ) ein Turtenpfannen <lb/> vnd <objectName ref="butter">Butter</objectName> darein <lb/> machs heiß <lb/> vnd nim ( m ) ein höltzern <objectName ref="loeffel">Löffel</objectName> voll <lb/> thu es in das heisse Schmaltz hinein <lb/> kehr es darnach vmb <lb/> vnnd machs <lb/> daß sichs fein bäckt <lb/> denn es ist geschwindt gebacken. Mach ein stücklein sechs oder siben <lb/> daß ein <objectName ref="schuessel">Schüssel</objectName> voll wirt <lb/> denn du mußt viel haben von Gänsen <lb/> daß ein <objectName ref="schuessel">Schüssel</objectName> voll wirt. Vnd die Speiß nennet man Durtelet von Gänßhirn. </p>
             </div>
         </body>
     </text>

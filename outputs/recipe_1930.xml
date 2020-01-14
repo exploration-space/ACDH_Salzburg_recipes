@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb höchten, mach stukh drauß, seuds in Wasser, khosts <lb/> am Salz, so er recht gesalzen vnd gesoten ist, seüch die <lb/> brüe herab, laß Wol durcheinander sieden, Zimetröhrn <lb/> vnd Ingberstup spar nit, ob du Wilt, magst ein Wenig <lb/> Pfefferstup drein nemmen, darnach Zeuch dem höchten fein <lb/><lb/> (11v) Die haut ab, geuß die obgeschribne Putersuppen dran, <lb/> laß ein khleine Weill sieden, darnach geuß die Suppen <lb/> auf bähte Schniten, leg die höchten stukh darauf, so ist es <lb/> beraith. <lb/></p>
+        <p> Nimb höchten, mach stukh drauß, seuds in <objectName ref="wasser">Wasser</objectName>, khosts <lb/> am <objectName ref="salz">Salz</objectName>, so er recht gesalzen vnd gesoten ist, seüch die <lb/> brüe herab, laß Wol durcheinander sieden, Zimetröhrn <lb/> vnd Ingberstup spar nit, ob du Wilt, magst ein Wenig <lb/> Pfefferstup drein nemmen, darnach Zeuch dem höchten fein <lb/><lb/> ( 11v ) Die haut ab, geuß die obgeschribne Putersuppen dran, <lb/> laß ein khleine Weill sieden, darnach geuß die <objectName ref="suppe">Suppen</objectName> <lb/> auf bähte Schniten, leg die höchten stukh darauf, so ist es <lb/> beraith. <lb/> </p>
             </div>
         </body>
     </text>

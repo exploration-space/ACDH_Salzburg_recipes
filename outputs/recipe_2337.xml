@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mach aÿrblätl Wie Zu aÿrkhreitl, vnd mach ein eingerührts, nimb <lb/> Weinbörl, rest ein wenig Sembl darunder, vnd rührs undereinander, <lb/> vnd thue in die Aÿrblätl, vnd machs also Wie laßkhöpfl, Zusammen <lb/> als rund, vnd stels in ein schißl herumb, vnd mach ein Rosmarin süpl <lb/> drüber, ein wenig Sembl drein, nimb ein wenig Wein vnd fleischbrüe <lb/> oder Arbes brüe, schneid den Rosmarin fein khlain, vnd laß sieden, <lb/> vnd geuß darüber, vnd sez auf ein glietl, vnd laß Preglen, es ist be= <lb/> reith. <lb/></p>
+        <p> Mach aÿrblätl Wie Zu aÿrkhreitl, vnd mach ein eingerührts, nimb <lb/> Weinbörl, rest ein wenig Sembl darunder, vnd rührs undereinander, <lb/> vnd thue in die Aÿrblätl, vnd machs also Wie laßkhöpfl, Zusammen <lb/> als rund, vnd stels in ein schißl herumb, vnd mach ein <objectName ref="rosmarin">Rosmarin</objectName> süpl <lb/> drüber, ein wenig Sembl drein, nimb ein wenig <objectName ref="wein">Wein</objectName> vnd fleischbrüe <lb/> oder Arbes brüe, schneid den <objectName ref="rosmarin">Rosmarin</objectName> fein khlain, vnd laß sieden, <lb/> vnd geuß darüber, vnd sez auf ein glietl, vnd laß Preglen, es ist be= <lb/> reith. <lb/> </p>
             </div>
         </body>
     </text>

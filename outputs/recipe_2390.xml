@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet ein Pfund Zucker <lb/> wie auch Wasser <lb/> Wein und Essig <lb/> jedes ein viertel Pfund <lb/> last es so lang mit einander sieden <lb/> biß es zu einer Salsen wird <lb/> und drucket dann zu letzt den Safft von Citronen darauf.</p>
+        <p> NEhmet ein <objectName ref="pfund">Pfund</objectName> <objectName ref="zucker">Zucker</objectName> <lb/> wie auch <objectName ref="wasser">Wasser</objectName> <lb/> <objectName ref="wein">Wein</objectName> und <objectName ref="essig">Essig</objectName> <lb/> jedes ein viertel <objectName ref="pfund">Pfund</objectName> <lb/> last es so lang mit einander sieden <lb/> biß es zu einer Salsen wird <lb/> und drucket dann zu letzt den Safft von Citronen darauf. </p>
             </div>
         </body>
     </text>

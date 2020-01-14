@@ -173,9 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Röste die sauber= gebutzte <lb/> und eingesaltzne Wachteln mit wenig Meel im Butter und gutem Speck; hernach gib ein wenig Fleischbrühe <lb/> Gewürtz und Stachel= Beer <lb/> Agres <lb/> oder Weintrauben darzu <lb/> laß kochen; hernach treib dise Brühe durch ein Haar= Sieblein <lb/> oder Tuch <lb/> wegen der Kerner <lb/> damit sie mit den Hülsen wieder davon kommen; hernach thut man etlich schöne <lb/> ausgeklaubte Beer darein <lb/> laß es ein wenig wieder aufkochen <lb/> damit man siehet <lb/> mit was dise Speiß ist zugericht worden.
-
-</p>
+        <p> Röste die sauber= gebutzte <lb/> und eingesaltzne <objectName ref="wachtel">Wachteln</objectName> mit wenig Meel im <objectName ref="butter">Butter</objectName> und gutem <objectName ref="speck">Speck</objectName>; hernach gib ein wenig <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> Gewürtz und Stachel= Beer <lb/> Agres <lb/> oder <objectName ref="weintrauben">Weintrauben</objectName> darzu <lb/> laß kochen; hernach treib dise <objectName ref="bruehe">Brühe</objectName> durch ein Haar= Sieblein <lb/> oder <objectName ref="tuch">Tuch</objectName> <lb/> wegen der Kerner <lb/> damit sie mit den Hülsen wieder davon kommen; hernach thut man etlich schöne <lb/> ausgeklaubte Beer darein <lb/> laß es ein wenig wieder aufkochen <lb/> damit man siehet <lb/> mit was dise Speiß ist zugericht worden. </p>
             </div>
         </body>
     </text>

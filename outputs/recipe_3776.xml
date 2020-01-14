@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Lachs <lb/> oder Rhein= Salm wird gebachen <lb/> und in süsser Brühe <lb/> mit gerösten Semmel= Brosen <lb/> Wein <lb/> Zucker und gutem Gewürtz zur Tafel gegeben.</p>
+        <p> DEr <objectName ref="lachs">Lachs</objectName> <lb/> oder Rhein= Salm wird gebachen <lb/> und in süsser <objectName ref="bruehe">Brühe</objectName> <lb/> mit gerösten Semmel= Brosen <lb/> <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> und gutem Gewürtz zur Tafel gegeben. </p>
             </div>
         </body>
     </text>

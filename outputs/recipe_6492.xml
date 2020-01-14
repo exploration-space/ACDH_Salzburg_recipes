@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Du kanst auch wol ein Turten machen von einem solchen Teig <lb/> vn(n) kanst es kalt lassen werden <lb/> die nennet man Käse Turten <lb/>  vnd wen(n) du es wilt auff ein Tisch geben <lb/> so besprengs mit Rosenwasser <lb/> vnnd gibs kalt <lb/>  besträw es mit weissem Zucker. Du magsts gantz geben oder zerschneiden.</p>
+        <p> Du kanst auch wol ein Turten machen von einem solchen <objectName ref="teig">Teig</objectName> <lb/> vn ( n ) kanst es kalt lassen werden <lb/> die nennet man <objectName ref="kaese">Käse</objectName> Turten <lb/> vnd wen ( n ) du es wilt auff ein <objectName ref="tisch">Tisch</objectName> geben <lb/> so besprengs mit <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> vnnd gibs kalt <lb/> besträw es mit weissem <objectName ref="zucker">Zucker</objectName>. Du magsts gantz geben oder zerschneiden. </p>
             </div>
         </body>
     </text>

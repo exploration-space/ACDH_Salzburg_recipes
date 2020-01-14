@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAngolt gebrüht <lb/> dann mit Butter und wenig Meel geröst <lb/> in Milchram zu geben.</p>
+        <p> MAngolt gebrüht <lb/> dann mit <objectName ref="butter">Butter</objectName> und wenig Meel geröst <lb/> in Milchram zu geben. </p>
             </div>
         </body>
     </text>

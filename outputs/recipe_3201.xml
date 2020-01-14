@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BRatwürst vom Hecht= Brät gemacht <lb/> findest du bey der gefüllten Hecht= Suppen <lb/> von frischen Brät <lb/> in Biber= und Otter= auch andere Därm zu machen <lb/> sammt den folgenden Stucken.</p>
+        <p> BRatwürst vom Hecht= Brät gemacht <lb/> findest du bey der gefüllten Hecht= <objectName ref="suppe">Suppen</objectName> <lb/> von frischen Brät <lb/> in Biber= und Otter= auch andere Därm zu machen <lb/> sammt den folgenden Stucken. </p>
             </div>
         </body>
     </text>

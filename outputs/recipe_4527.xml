@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn zerklopffet das Weisse von zehen Eyern <lb/> giest eine halbe Maas Kern oder süssen Ram und Rosen Wassser dazu ; dann zuckert mans und klopffet und quirlet es wol durcheinander <lb/> giessts hernach in eine Pfanne <lb/> und lässt es auf der Glut <lb/> so lang als harte Eyer sieden : wann solches geschehen <lb/> wird es durchgeseihet in eine Schüssel <lb/> und so es erkaltet <lb/> streut man durch einen ausgeschnittenen Model Zimmet darauf.</p>
+        <p> MAn zerklopffet das Weisse von zehen Eyern <lb/> giest eine halbe <objectName ref="maas">Maas</objectName> Kern oder süssen Ram und <objectName ref="rosen">Rosen</objectName> Wassser dazu; dann zuckert mans und klopffet und quirlet es wol durcheinander <lb/> giessts hernach in eine <objectName ref="pfanne">Pfanne</objectName> <lb/> und lässt es auf der <objectName ref="glut">Glut</objectName> <lb/> so lang als harte Eyer sieden : wann solches geschehen <lb/> wird es durchgeseihet in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und so es erkaltet <lb/> streut man durch einen ausgeschnittenen <objectName ref="model">Model</objectName> Zimmet darauf. </p>
             </div>
         </body>
     </text>

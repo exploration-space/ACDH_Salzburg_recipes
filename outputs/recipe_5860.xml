@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Kröß von dem Spenferckel eyngemacht <lb/> es sey gelb oder weiß <lb/> mit Eyerdottern <lb/> Essig <lb/> grünen Kräutern <lb/> frischer Butter <lb/> v(o)n ein wenig Rindfleischbrüh <lb/> vnd laß es darmit auffsieden <lb/> vnd wenn es auffgesotten <lb/> so geuß die Brüh <lb/> die du darzu gemacht <lb/> darüber <lb/> die ander <lb/> darinnen es gesotten <lb/> thu hinweg <lb/> denn sie ist nicht gut <lb/> schmeckt nach der Herberg.</p>
+        <p> Kröß von dem Spenferckel eyngemacht <lb/> es sey gelb oder weiß <lb/> mit Eyerdottern <lb/> <objectName ref="essig">Essig</objectName> <lb/> grünen <objectName ref="kraeuter">Kräutern</objectName> <lb/> frischer <objectName ref="butter">Butter</objectName> <lb/> v ( o ) n ein wenig Rindfleischbrüh <lb/> vnd laß es darmit auffsieden <lb/> vnd wenn es auffgesotten <lb/> so geuß die Brüh <lb/> die du darzu gemacht <lb/> darüber <lb/> die ander <lb/> darinnen es gesotten <lb/> thu hinweg <lb/> denn sie ist nicht gut <lb/> schmeckt nach der Herberg. </p>
             </div>
         </body>
     </text>

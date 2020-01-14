@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DAs Brät von Indian <lb/> mit Milchram <lb/> guter Fett <lb/> Speck <lb/> oder Kälber= Euterlein <lb/> und gut Gewürtz <lb/> klein gehackt <lb/> gibt gute Bratwürstlein <lb/> mit <lb/> oder ohne Semmel und Eyer ; Etliche lassen das Brät ein wenig anlauffen.</p>
+        <p> DAs Brät von Indian <lb/> mit Milchram <lb/> guter <objectName ref="fett">Fett</objectName> <lb/> <objectName ref="speck">Speck</objectName> <lb/> oder Kälber= Euterlein <lb/> und gut Gewürtz <lb/> klein gehackt <lb/> gibt gute Bratwürstlein <lb/> mit <lb/> oder ohne Semmel und Eyer; Etliche lassen das Brät ein wenig anlauffen. </p>
             </div>
         </body>
     </text>

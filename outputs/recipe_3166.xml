@@ -171,9 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES werden die Hechte geschüppt <lb/> ausgenommen <lb/> und überzwerch zu Stücklein geschnitten <lb/> eingesaltzen <lb/> gewürtzt <lb/> mit Salbey und Lorbeer= Blättlein <lb/> gleich wie die Aalfisch <lb/> oder die rechte Vögel <lb/> an Bratspiß gesteckt <lb/> und mit Butter <lb/> oder Oel schön herab gebraten <lb/> auch <lb/> so es beliebt <lb/> auf die Letzt mit Butter begossen <lb/> mit angemachter geriebner Semmel bestreut <lb/> und mit schöner Farb gegeben gleich trucken <lb/> mit Lemoni= Safft <lb/> oder mit einer sauren Brühe.
-
-NB. Die Hechte können auch mit Semmel <lb/> Eyer und Ram mit zertruckten Wachholder= Beern <lb/> Zwibel und Gewürtz gefüllt <lb/> gebraten <lb/> und mit dergleichen durchgetriebnen Brühe gegeben werden.</p>
+        <p> ES werden die Hechte geschüppt <lb/> ausgenommen <lb/> und überzwerch zu Stücklein geschnitten <lb/> eingesaltzen <lb/> gewürtzt <lb/> mit Salbey und Lorbeer= Blättlein <lb/> gleich wie die Aalfisch <lb/> oder die rechte <objectName ref="voegel">Vögel</objectName> <lb/> an Bratspiß gesteckt <lb/> und mit <objectName ref="butter">Butter</objectName> <lb/> oder Oel schön herab gebraten <lb/> auch <lb/> so es beliebt <lb/> auf die Letzt mit <objectName ref="butter">Butter</objectName> begossen <lb/> mit angemachter geriebner Semmel bestreut <lb/> und mit schöner Farb gegeben gleich trucken <lb/> mit Lemoni= Safft <lb/> oder mit einer sauren <objectName ref="bruehe">Brühe</objectName>. NB. Die Hechte können auch mit Semmel <lb/> Eyer und Ram mit zertruckten Wachholder= Beern <lb/> Zwibel und Gewürtz gefüllt <lb/> gebraten <lb/> und mit dergleichen durchgetriebnen <objectName ref="bruehe">Brühe</objectName> gegeben werden. </p>
             </div>
         </body>
     </text>

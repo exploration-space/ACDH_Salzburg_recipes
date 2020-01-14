@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) das Hinterviertel vom Ochsen <lb/> wasch es auß <lb/> vnnd saltz es ein <lb/> stecks darnach an ein Spieß <lb/> vnnd laß langsam braten <lb/> in die vier vnd zwentzig stunden. Vn(d) du mußt achtung drauff geben <lb/> daß du es zum Frühmahl anrichtest <lb/> als dann schneidt zimlich viel Zwibeln klein <lb/> vnd schweiß sie wol in Butter <lb/> thu auch ein wenig Saltz darein <lb/> vnnd wenn du den Braten anrichtest <lb/> so thu die Zwibeln oben drauff. Also tregt man es für einen König in Polen.</p>
+        <p> Nim ( m ) das Hinterviertel vom Ochsen <lb/> wasch es auß <lb/> vnnd saltz es ein <lb/> stecks darnach an ein <objectName ref="spiess">Spieß</objectName> <lb/> vnnd laß langsam braten <lb/> in die vier vnd zwentzig stunden. Vn ( d ) du mußt achtung drauff geben <lb/> daß du es zum Frühmahl anrichtest <lb/> als dann schneidt zimlich viel Zwibeln klein <lb/> vnd schweiß sie wol in <objectName ref="butter">Butter</objectName> <lb/> thu auch ein wenig Saltz darein <lb/> vnnd wenn du den Braten anrichtest <lb/> so thu die Zwibeln oben drauff. Also tregt man es für einen König in Polen. </p>
             </div>
         </body>
     </text>

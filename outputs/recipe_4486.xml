@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr gewässerte Stockfisch wird <lb/> wie ordinari <lb/> wann er im Wasser den ersten Sud gethan <lb/> abgesiehen <lb/> voneinander geklaubt <lb/> und nach Belieben gewürtzt; dann ein wol= gemachte wenige Erbesbrühe <lb/> mit wol Butter <lb/> oder Oel siedig gemacht <lb/> den Stockfisch sammt aller Zugehör darein geworffen <lb/> etlichmal übergeschwungen <lb/> und vor dem Anrichten gesaltzen <lb/> und wol warmer gegeben <lb/> mit kurtzer Brühe <lb/> Pfeffer und Muscatnuß.</p>
+        <p> DEr gewässerte <objectName ref="stockfisch">Stockfisch</objectName> wird <lb/> wie ordinari <lb/> wann er im <objectName ref="wasser">Wasser</objectName> den ersten Sud gethan <lb/> abgesiehen <lb/> voneinander geklaubt <lb/> und nach Belieben gewürtzt; dann ein wol= gemachte wenige Erbesbrühe <lb/> mit wol <objectName ref="butter">Butter</objectName> <lb/> oder Oel siedig gemacht <lb/> den <objectName ref="stockfisch">Stockfisch</objectName> sammt aller Zugehör darein geworffen <lb/> etlichmal übergeschwungen <lb/> und vor dem Anrichten gesaltzen <lb/> und wol warmer gegeben <lb/> mit kurtzer <objectName ref="bruehe">Brühe</objectName> <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Muscatnuß. </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Schöps= Schlegel wird gehackt <lb/> geklopfft <lb/> und eingesaltzen <lb/> das hinterste Bein zu End abgehackt; das Fleisch zuruck geschoben <lb/> daß das blosse <lb/> weisse Rohr von dem Bein gleich einem Stiel heraus gehet; ziehe ihn mit grob= geschnittenen <lb/> gewürtzten <lb/> langen Speck <lb/> wohl durch das Brät <lb/> worzu auch ein wenig Knoblauch <lb/> oder Sardellen kommen können <lb/> stecke ihn an <lb/> und wann er schön gebraten; so gibe ihn mit einer sauren Cucummern= Brühe <lb/> sammt seiner abgeträufften Brühe <lb/> doch ohne Feisten.</p>
+        <p> DEr Schöps= <objectName ref="schlegel">Schlegel</objectName> wird gehackt <lb/> geklopfft <lb/> und eingesaltzen <lb/> das hinterste Bein zu End abgehackt; das <objectName ref="fleisch">Fleisch</objectName> zuruck geschoben <lb/> daß das blosse <lb/> weisse <objectName ref="rohr">Rohr</objectName> von dem Bein gleich einem Stiel heraus gehet; ziehe ihn mit grob= geschnittenen <lb/> gewürtzten <lb/> langen <objectName ref="speck">Speck</objectName> <lb/> wohl durch das Brät <lb/> worzu auch ein wenig <objectName ref="knoblauch">Knoblauch</objectName> <lb/> oder <objectName ref="sardellen">Sardellen</objectName> kommen können <lb/> stecke ihn an <lb/> und wann er schön gebraten; so gibe ihn mit einer sauren Cucummern= <objectName ref="bruehe">Brühe</objectName> <lb/> sammt seiner abgeträufften <objectName ref="bruehe">Brühe</objectName> <lb/> doch ohne <objectName ref="feisten">Feisten</objectName>. </p>
             </div>
         </body>
     </text>

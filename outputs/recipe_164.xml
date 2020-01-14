@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>[Anm.: Der Rezepttext für Oblaten fehlt]</p>
+        <p> [ Anm. : Der Rezepttext für <objectName ref="oblaten">Oblaten</objectName> fehlt ] </p>
             </div>
         </body>
     </text>

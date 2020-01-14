@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Du kanst auch Bonen fricusiern mit Speck <lb/> so werden sie gut vnd wolgeschmack.</p>
+        <p> Du kanst auch Bonen fricusiern mit <objectName ref="speck">Speck</objectName> <lb/> so werden sie gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

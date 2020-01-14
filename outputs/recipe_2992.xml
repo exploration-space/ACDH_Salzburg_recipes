@@ -165,11 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>PEtersil= Wurtzen gebutzt <lb/> und gesotten <lb/> gibt man viel zum Rindfleisch.
-
-Dito <lb/> gesotten <lb/> und kalter zum Salat.
-
-</p>
+        <p> PEtersil= Wurtzen gebutzt <lb/> und gesotten <lb/> gibt man viel zum <objectName ref="rindfleisch">Rindfleisch</objectName>. Dito <lb/> gesotten <lb/> und kalter zum <objectName ref="salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

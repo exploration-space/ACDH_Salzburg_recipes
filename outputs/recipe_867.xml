@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wann sie sauber geklaubt <lb/> ausgekernt <lb/> und mit Zucker in Wein ein wenig gedämpfft <lb/> und wieder abgekühlt seynd <lb/> wird von Wein und Eyern mit schönem Meel ein dünnes Taiglein angemacht <lb/> die Zibeben mit einem subtilen Spißlein angestockter durch dieses Taiglein gezogen <lb/> und eines nach der andern schön und rösch heraus gebachen <lb/> beym Anrichten aber erst mit Zucker bestreut.</p>
+        <p> Wann sie sauber geklaubt <lb/> ausgekernt <lb/> und mit <objectName ref="zucker">Zucker</objectName> in <objectName ref="wein">Wein</objectName> ein wenig gedämpfft <lb/> und wieder abgekühlt seynd <lb/> wird von <objectName ref="wein">Wein</objectName> und Eyern mit schönem Meel ein dünnes Taiglein angemacht <lb/> die <objectName ref="zibeben">Zibeben</objectName> mit einem subtilen Spißlein angestockter durch dieses Taiglein gezogen <lb/> und eines nach der andern schön und rösch heraus gebachen <lb/> beym Anrichten aber erst mit <objectName ref="zucker">Zucker</objectName> bestreut. </p>
             </div>
         </body>
     </text>

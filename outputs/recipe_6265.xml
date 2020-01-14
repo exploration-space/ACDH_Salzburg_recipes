@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Item <lb/> wenn der Most vergoren hat <lb/> so henck darein Samen eines Krauts <lb/> heißt Millefolium oder Schaffgarbe <lb/> oder geuß Oel darauff <lb/> wie vor geschrieben ist.</p>
+        <p> Item <lb/> wenn der <objectName ref="most">Most</objectName> vergoren hat <lb/> so henck darein Samen eines Krauts <lb/> heißt Millefolium oder Schaffgarbe <lb/> oder geuß Oel darauff <lb/> wie vor geschrieben ist. </p>
             </div>
         </body>
     </text>

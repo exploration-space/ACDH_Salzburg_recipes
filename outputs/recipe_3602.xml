@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm magers Kalbfleisch <lb/> ein Stücklein Speck <lb/> laß mit einander im Fleischhafen planschieren <lb/> oder anlauffen <lb/> wanns abkühlt ist <lb/> hack ein wenig Schwein= Feisten <lb/> wenig Zwibel <lb/> 2. oder 3. zerdruckten Knoblauch <lb/> und stoß alles zusammen im Mörser mit Milch oder Ram <lb/> und gelben Eyern <lb/> und leg dise Farce, oder Brät alsdann in deine Crepinnen <lb/> oder Netzlein <lb/> als wie die weisse Würstlein; Man bacht sie aber in einer Dorten= Schüssel oder Blättlein <lb/> bey kleinem Feuer <lb/> daß sie eine schöne Farb bekommen.</p>
+        <p> NImm magers <objectName ref="kalbfleisch">Kalbfleisch</objectName> <lb/> ein Stücklein <objectName ref="speck">Speck</objectName> <lb/> laß mit einander im Fleischhafen planschieren <lb/> oder anlauffen <lb/> wanns abkühlt ist <lb/> hack ein wenig Schwein= <objectName ref="feisten">Feisten</objectName> <lb/> wenig Zwibel <lb/> 2. oder 3. zerdruckten <objectName ref="knoblauch">Knoblauch</objectName> <lb/> und stoß alles zusammen im <objectName ref="moerser">Mörser</objectName> mit <objectName ref="milch">Milch</objectName> oder Ram <lb/> und gelben Eyern <lb/> und leg dise Farce, oder Brät alsdann in deine Crepinnen <lb/> oder Netzlein <lb/> als wie die weisse Würstlein; Man bacht sie aber in einer Dorten= <objectName ref="schuessel">Schüssel</objectName> oder Blättlein <lb/> bey kleinem <objectName ref="feuer">Feuer</objectName> <lb/> daß sie eine schöne Farb bekommen. </p>
             </div>
         </body>
     </text>

@@ -180,9 +180,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm ein kleines Niern=Brätlein <lb/> laß es ein wenig in Wasser <lb/> Wein <lb/> oder Fleischbrühe anlauffen <lb/> dann saltz und gewürtz es ein wenig <lb/> und spicks mit Sardellen <lb/> Knoblauch und Salbey <lb/> überspicks aber subtil mit Speck <lb/> legs in ein darzu bequemes erdenes Geschirr <lb/> begieß übersich mit Butter <lb/> schieß in warmen Ofen <lb/> daß eine schöne Farb gewinne <lb/> wanns fertig <lb/> so gibs auf eine kleine Schüssel <lb/> mit seiner selbst eigenen Soß <lb/> durch das Tuch <lb/> oder Sieblein durchtrieben <lb/> regaliers mit Presolen; es ist auch ohne Speck also gedämpffter gut.
-
- </p>
+        <p> NImm ein kleines Niern=Brätlein <lb/> laß es ein wenig in <objectName ref="wasser">Wasser</objectName> <lb/> <objectName ref="wein">Wein</objectName> <lb/> oder <objectName ref="fleischbruehe">Fleischbrühe</objectName> anlauffen <lb/> dann saltz und gewürtz es ein wenig <lb/> und spicks mit <objectName ref="sardellen">Sardellen</objectName> <lb/> <objectName ref="knoblauch">Knoblauch</objectName> und Salbey <lb/> überspicks aber subtil mit <objectName ref="speck">Speck</objectName> <lb/> legs in ein darzu bequemes erdenes <objectName ref="geschirr">Geschirr</objectName> <lb/> begieß übersich mit <objectName ref="butter">Butter</objectName> <lb/> schieß in warmen <objectName ref="ofen">Ofen</objectName> <lb/> daß eine schöne Farb gewinne <lb/> wanns fertig <lb/> so gibs auf eine kleine <objectName ref="schuessel">Schüssel</objectName> <lb/> mit seiner selbst eigenen Soß <lb/> durch das <objectName ref="tuch">Tuch</objectName> <lb/> oder Sieblein durchtrieben <lb/> regaliers mit Presolen; es ist auch ohne <objectName ref="speck">Speck</objectName> also gedämpffter gut. </p>
             </div>
         </body>
     </text>

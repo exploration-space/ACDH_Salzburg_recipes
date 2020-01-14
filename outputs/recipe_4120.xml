@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm Hirsch <lb/> oder anders Wildprät <lb/> setz es zu <lb/> mit Wasser <lb/> Eßig <lb/> auch wenig Saltz <lb/> laß es verfäumen <lb/> sodann gewürtze es mit Pfeffer <lb/> Imber <lb/> und ein wenig Nägelein ; wirff darzu braun Brod im Butter geröst <lb/> mit viel kleingehackten Zwibeln <lb/> und solchen kleinen Speck <lb/> zerropffte Lorbeer= Blättlein <lb/> laß zusammen sieden <lb/> so wird es gut <lb/> die Brühe soll aber just recht <lb/> und nicht zu viel seyn ; wer will <lb/> nimmt auch zerdruckte Wachholder= Beer darzu.</p>
+        <p> NImm Hirsch <lb/> oder anders Wildprät <lb/> setz es zu <lb/> mit <objectName ref="wasser">Wasser</objectName> <lb/> Eßig <lb/> auch wenig Saltz <lb/> laß es verfäumen <lb/> sodann gewürtze es mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> und ein wenig Nägelein; wirff darzu braun Brod im <objectName ref="butter">Butter</objectName> geröst <lb/> mit viel kleingehackten Zwibeln <lb/> und solchen kleinen <objectName ref="speck">Speck</objectName> <lb/> zerropffte Lorbeer= Blättlein <lb/> laß zusammen sieden <lb/> so wird es gut <lb/> die <objectName ref="bruehe">Brühe</objectName> soll aber just recht <lb/> und nicht zu viel seyn; wer will <lb/> nimmt auch zerdruckte Wachholder= Beer darzu. </p>
             </div>
         </body>
     </text>

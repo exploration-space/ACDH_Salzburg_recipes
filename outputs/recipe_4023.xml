@@ -172,9 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIese werden geschwellt <lb/> abgezogen <lb/> in frisches Wasser geworffen <lb/> wieder abgesiehen <lb/> mit klein= gefädten Zucker gemeelbigt <lb/> und schön Liecht= gelb aus heissem Schmaltz gebachen <lb/> und in einem gebachnen Schüssel= Reiff <lb/> von Butter= Taig angericht <lb/> aber nicht viel gezuckert <lb/> doch wol warmer zur Tafel gegeben.
-
-NB. Wer will <lb/> macht einen Taig an <lb/> von halb Meel und halb Zucker <lb/> wenig Zimmet= Stup <lb/> Wein <lb/> und wol= riechendem Wasser <lb/> oder Essentz <lb/> und zwey Eyerdotter <lb/> und treibt ihn eines kleinen Fingers= dick schön glatt ab <lb/> und druckt mit dem blechenen Model gemachte Mandeln daraus <lb/> dann setz in einem Pfändlein Schmaltz aufs Feuer <lb/> und wanns warm ist <lb/> so bachs schön Liecht= braun <lb/> und zuckere es in dem Anrichten.</p>
+        <p> DIese werden geschwellt <lb/> abgezogen <lb/> in frisches <objectName ref="wasser">Wasser</objectName> geworffen <lb/> wieder abgesiehen <lb/> mit klein= gefädten <objectName ref="zucker">Zucker</objectName> gemeelbigt <lb/> und schön Liecht= gelb aus heissem Schmaltz gebachen <lb/> und in einem gebachnen Schüssel= Reiff <lb/> von Butter= Taig angericht <lb/> aber nicht viel gezuckert <lb/> doch wol warmer zur Tafel gegeben. NB. Wer will <lb/> macht einen Taig an <lb/> von halb Meel und halb <objectName ref="zucker">Zucker</objectName> <lb/> wenig Zimmet= Stup <lb/> <objectName ref="wein">Wein</objectName> <lb/> und wol= riechendem <objectName ref="wasser">Wasser</objectName> <lb/> oder Essentz <lb/> und zwey Eyerdotter <lb/> und treibt ihn eines kleinen Fingers= dick schön glatt ab <lb/> und druckt mit dem blechenen <objectName ref="model">Model</objectName> gemachte <objectName ref="mandeln">Mandeln</objectName> daraus <lb/> dann setz in einem Pfändlein Schmaltz aufs <objectName ref="feuer">Feuer</objectName> <lb/> und wanns warm ist <lb/> so bachs schön Liecht= braun <lb/> und zuckere es in dem Anrichten. </p>
             </div>
         </body>
     </text>

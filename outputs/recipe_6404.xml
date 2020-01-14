@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Saur Kraut mit einer gesottenen Hennen <lb/> vnnd geräuchertem Speck <lb/> ist auch nicht böß zu essen.</p>
+        <p> Saur <objectName ref="kraut">Kraut</objectName> mit einer gesottenen Hennen <lb/> vnnd geräuchertem <objectName ref="speck">Speck</objectName> <lb/> ist auch nicht böß zu essen. </p>
             </div>
         </body>
     </text>

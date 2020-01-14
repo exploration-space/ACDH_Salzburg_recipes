@@ -174,8 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>RIchte die Tauben zum Braten <lb/> planschiere und spicke sie <lb/> dann hacke Gewürtz <lb/> Speck <lb/> Petersil und grünen Fenchel untereinander <lb/> fülle innwendig die Tauben darmit <lb/> brats <lb/> oder dämpffs <lb/> und gibs gleich also <lb/> oder gibs ungespickter <lb/> vor ein andere Speiß <lb/> und ein Ragu darüber <lb/> von Brüßlein <lb/> Dardoffeln <lb/> Capry <lb/> Sardellen <lb/> oder Schwammen <lb/> u.
-</p>
+        <p> RIchte die <objectName ref="taube">Tauben</objectName> zum Braten <lb/> planschiere und spicke sie <lb/> dann hacke Gewürtz <lb/> <objectName ref="speck">Speck</objectName> <lb/> Petersil und grünen <objectName ref="fenchel">Fenchel</objectName> untereinander <lb/> fülle innwendig die <objectName ref="taube">Tauben</objectName> darmit <lb/> brats <lb/> oder dämpffs <lb/> und gibs gleich also <lb/> oder gibs ungespickter <lb/> vor ein andere Speiß <lb/> und ein Ragu darüber <lb/> von Brüßlein <lb/> Dardoffeln <lb/> Capry <lb/> <objectName ref="sardellen">Sardellen</objectName> <lb/> oder Schwammen <lb/> u. </p>
             </div>
         </body>
     </text>

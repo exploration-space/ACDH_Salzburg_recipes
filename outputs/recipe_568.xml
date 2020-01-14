@@ -173,14 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Man nimt: ¼ tt<gap/> frischen Butter, <lb/>
-¼ tt feingesiebten Zucker, <lb/>
-¼ tt feingestossene<gap/> Mandeln, <lb/>
-5 Eyerdotten und das Weiße von <lb/>
-2 Eyern<gap/> zum Schne geschlagen. <lb/>
-4 Loth<gap/> Mundmehl<gap/> <lb/>
-4 Loth Semelbresel und sehr wenig Salz. <lb/><lb/> (Z-UII-54)
-Treibe<gap/> den Butter so lange ab, bis er gut <lb/> pfläumig<gap/> wird, riere<gap/> den Zucker darein <lb/> und darnach die Eyerdotter, einen nach <lb/> den andern, so daß jeder gut ver= <lb/> riert wird, dann die Mandeln, den <lb/> Schnee, zuletzt das Mehl und die Semel= <lb/> bresel; diese beyden Stücke müssen langsam <lb/> darein geriert<gap/> werden. Man vergesse zu= <lb/> letzt das Salzen nicht. Blech und Reif<gap/> werden <lb/> mit Butter geschmirt<gap/>, die Hälfte des Taiges<gap/> <lb/> darein gegossen<gap/>, eine beliebige Fülle<gap/> <lb/> darauf gestrichen, und mit der andern <lb/> Hälfte Taig<gap/> bedeckt, dann langsam in Ofen <lb/> gebacken<gap/>. <lb/><lb/> (Z UII ve 38)</p>
+        <p> Man nimt : ¼ tt<gap/> frischen <objectName ref="butter">Butter</objectName>, <lb/> ¼ tt feingesiebten <objectName ref="zucker">Zucker</objectName>, <lb/> ¼ tt feingestossene<gap/> <objectName ref="mandeln">Mandeln</objectName>, <lb/> 5 Eyerdotten und das Weiße von <lb/> 2 Eyern<gap/> zum Schne geschlagen. <lb/> 4 Loth<gap/> Mundmehl<gap/> <lb/> 4 <objectName ref="loth">Loth</objectName> Semelbresel und sehr wenig <objectName ref="salz">Salz</objectName>. <lb/><lb/> ( Z-UII-54 ) Treibe<gap/> den <objectName ref="butter">Butter</objectName> so lange ab, bis er gut <lb/> pfläumig<gap/> wird, riere<gap/> den <objectName ref="zucker">Zucker</objectName> darein <lb/> und darnach die Eyerdotter, einen nach <lb/> den andern, so daß jeder gut ver= <lb/> riert wird, dann die <objectName ref="mandeln">Mandeln</objectName>, den <lb/> Schnee, zuletzt das <objectName ref="mehl">Mehl</objectName> und die Semel= <lb/> bresel; diese beyden Stücke müssen langsam <lb/> darein geriert<gap/> werden. Man vergesse zu= <lb/> letzt das Salzen nicht. <objectName ref="blech">Blech</objectName> und Reif<gap/> werden <lb/> mit <objectName ref="butter">Butter</objectName> geschmirt<gap/>, die Hälfte des Taiges<gap/> <lb/> darein gegossen<gap/>, eine beliebige Fülle<gap/> <lb/> darauf gestrichen, und mit der andern <lb/> Hälfte Taig<gap/> bedeckt, dann langsam in <objectName ref="ofen">Ofen</objectName> <lb/> gebacken<gap/>. <lb/><lb/> ( Z UII ve 38 ) </p>
             </div>
         </body>
     </text>

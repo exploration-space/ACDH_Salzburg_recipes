@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZErklopffet so viel Eyer als ihr wollet ; machet ein Teiglein mit Semmelmehl <lb/> und zwar ein wenig dinner an <lb/> als den Käß= Küchlein= Teig <lb/> so gehen sie desto besser: formirets dann wie die Käß= Küchlein <lb/> legets in ein heisses Schmaltz <lb/> und bachets schön gelb heraus.</p>
+        <p> ZErklopffet so viel Eyer als ihr wollet; machet ein Teiglein mit <objectName ref="semmelmehl">Semmelmehl</objectName> <lb/> und zwar ein wenig dinner an <lb/> als den Käß= Küchlein= <objectName ref="teig">Teig</objectName> <lb/> so gehen sie desto besser : formirets dann wie die Käß= Küchlein <lb/> legets in ein heisses Schmaltz <lb/> und bachets schön gelb heraus. </p>
             </div>
         </body>
     </text>

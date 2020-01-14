@@ -176,9 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneidet und hacket die Limonien <lb/> wann ihr die Kerne zuvor heraus genommen <lb/> klein <lb/> thut sie in ein Häfelein <lb/> giesst Wein und ein wenig Fleischbrüh <lb/> wie auch Rosen= Holbeer= oder Holunder= Essig <lb/> welcher beliebt <lb/> daran; streuet Pfeffer <lb/> Cardamomen <lb/> Muscatnüsse <lb/> und ein klein wenig Negelein darein <lb/> zuckerts nach belieben <lb/> last es aufsieden <lb/> und richtets dann über das Gebratens. <gap/>
-
-<gap/> Diese Brüh ist sonderlich gut über einen Lendbraten zu machen.</p>
+        <p> SChneidet und hacket die Limonien <lb/> wann ihr die Kerne zuvor heraus genommen <lb/> klein <lb/> thut sie in ein <objectName ref="haefelein">Häfelein</objectName> <lb/> giesst <objectName ref="wein">Wein</objectName> und ein wenig Fleischbrüh <lb/> wie auch Rosen= Holbeer= oder Holunder= <objectName ref="essig">Essig</objectName> <lb/> welcher beliebt <lb/> daran; streuet <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Cardamomen <lb/> Muscatnüsse <lb/> und ein klein wenig Negelein darein <lb/> zuckerts nach belieben <lb/> last es aufsieden <lb/> und richtets dann über das Gebratens. <gap/> <gap/> Diese Brüh ist sonderlich gut über einen Lendbraten zu machen. </p>
             </div>
         </body>
     </text>

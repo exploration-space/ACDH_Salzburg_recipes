@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Reiß wird auf die gleich jetzo Num. 78. beschriebene Art allerdings zugerichtet <lb/> wann er dann fertig <lb/> rühret man so viel Zucker darunter als man vor nöthig erachtet  <lb/> und man denselben süß verlanget : alsdann richtet man ihn an <lb/> dupffet Butter oben darauf <lb/> und bestreuet ihn mit gestossener Zimmet.</p>
+        <p> DEr Reiß wird auf die gleich jetzo Num. 78. beschriebene Art allerdings zugerichtet <lb/> wann er dann fertig <lb/> rühret man so viel <objectName ref="zucker">Zucker</objectName> darunter als man vor nöthig erachtet <lb/> und man denselben süß verlanget : alsdann richtet man ihn an <lb/> dupffet <objectName ref="butter">Butter</objectName> oben darauf <lb/> und bestreuet ihn mit gestossener Zimmet. </p>
             </div>
         </body>
     </text>

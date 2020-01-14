@@ -172,10 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SAltzet ein Wasser in einem Häfelein <lb/> werfft eine frische Butter oder Schmaltz hinein <lb/> lassets sieden; dann zwieret von dem schönsten Mehl <lb/> etwas in einer Schüssel <lb/> mit obigen siedenden Wasser an <lb/> und rührets ferner hernach mit Eyern ab <lb/> leget sie aber zuvor in ein warmes Wasser; rühret den Teig biß er schön glatt wird: Dann machet ein Schmaltz heiß <lb/> last es aber wieder ein wenig erkuhlen; leget den Teig mit einem eisernen Löffel <lb/> wie die gebrennten Küchlein <lb/> ein <lb/> bachets fein kühl ab<lb/> und gebet zuletzt eine bessere Hitze. <gap/>
-
-<gap/> Von diesem jetzt= beschriebenen Wasser= Bläslein= Teig <lb/> kan man eben dergleichen länglichte Küchlein oder Stritzeln machen; wie von dem Teig zu den gebrennten Küchlein.
-</p>
+        <p> SAltzet ein <objectName ref="wasser">Wasser</objectName> in einem <objectName ref="haefelein">Häfelein</objectName> <lb/> werfft eine frische <objectName ref="butter">Butter</objectName> oder Schmaltz hinein <lb/> lassets sieden; dann zwieret von dem schönsten <objectName ref="mehl">Mehl</objectName> <lb/> etwas in einer <objectName ref="schuessel">Schüssel</objectName> <lb/> mit obigen siedenden <objectName ref="wasser">Wasser</objectName> an <lb/> und rührets ferner hernach mit Eyern ab <lb/> leget sie aber zuvor in ein warmes <objectName ref="wasser">Wasser</objectName>; rühret den <objectName ref="teig">Teig</objectName> biß er schön glatt wird : Dann machet ein Schmaltz heiß <lb/> last es aber wieder ein wenig erkuhlen; leget den <objectName ref="teig">Teig</objectName> mit einem eisernen <objectName ref="loeffel">Löffel</objectName> <lb/> wie die gebrennten Küchlein <lb/> ein <lb/> bachets fein kühl ab/ und gebet zuletzt eine bessere Hitze. <gap/> <gap/> Von diesem jetzt= beschriebenen Wasser= Bläslein= <objectName ref="teig">Teig</objectName> <lb/> kan man eben dergleichen länglichte Küchlein oder Stritzeln machen; wie von dem <objectName ref="teig">Teig</objectName> zu den gebrennten Küchlein. </p>
             </div>
         </body>
     </text>

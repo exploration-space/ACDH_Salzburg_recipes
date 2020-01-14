@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb allerley Suppen, thues in ein Reindl, vnd <lb/> sez vndter d(a)s brätl ain brätl Pfan, heb diesel= <lb/> =bige Supen auf, die von brätl rinnt, vnd thues <lb/> in ain Reindl, auch Nägl, Mußcatblie vnd Pfeffer, <lb/> vnd ain wennig Seyer, Nimb dan ain Citronni d(a)s <lb/> gelbe schneits gar klain vnnd lanng, v̈bersez es, Nimb <lb/> auch darzue ain Weinn, laß woll sieden, wilstu es <lb/> sieß haben, Nimb ain zugger darzue, vnd wan d(a)s <lb/> brätl bradten ist, gieß die Supen darauf, vnd <lb/> gibs. <lb/></p>
+        <p> Nimb allerley <objectName ref="suppe">Suppen</objectName>, thues in ein Reindl, vnd <lb/> sez vndter d ( a ) s brätl ain brätl Pfan, heb diesel= <lb/> =bige Supen auf, die von brätl rinnt, vnd thues <lb/> in ain Reindl, auch Nägl, Mußcatblie vnd <objectName ref="pfeffer">Pfeffer</objectName>, <lb/> vnd ain wennig Seyer, Nimb dan ain Citronni d ( a ) s <lb/> gelbe schneits gar klain vnnd lanng, v̈bersez es, Nimb <lb/> auch darzue ain <objectName ref="wein">Weinn</objectName>, laß woll sieden, wilstu es <lb/> sieß haben, Nimb ain zugger darzue, vnd wan d ( a ) s <lb/> brätl bradten ist, gieß die Supen darauf, vnd <lb/> gibs. <lb/> </p>
             </div>
         </body>
     </text>

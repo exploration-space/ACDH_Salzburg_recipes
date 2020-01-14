@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Gebratene Leber mit Neglein vnd Zimet gespickt <lb/> vnd von kleinen Kapern ein Brüh gemacht <lb/> darvnter oder darüber gegossen <lb/> so ist es auch gut.</p>
+        <p> Gebratene <objectName ref="leber">Leber</objectName> mit Neglein vnd Zimet gespickt <lb/> vnd von kleinen <objectName ref="kapern">Kapern</objectName> ein Brüh gemacht <lb/> darvnter oder darüber gegossen <lb/> so ist es auch gut. </p>
             </div>
         </body>
     </text>

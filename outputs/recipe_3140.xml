@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BRunnen= Kreß ist gut gebrüht und ungebrühter <lb/> mit Eßig und Oel wol angemacht zum Salat.</p>
+        <p> BRunnen= Kreß ist gut gebrüht und ungebrühter <lb/> mit Eßig und Oel wol angemacht zum <objectName ref="salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Streich Mandeln durch mit Hausenblasen <lb/> braun <lb/> oder laß weiß <lb/> wenns auffgesotten <lb/> vnnd kalt ist <lb/> vnnd wol angemacht mit Zucker <lb/> so geuß es in die Mandeln <lb/> die fein auff Krebßart gemacht seyn <lb/> oder auffallerley Fischmodel <lb/> so stehet es zierlich vn schön <lb/> es hab ein Farb was es wöll <lb/> es sey weiß <lb/> schwartz <lb/> gelb <lb/> Rosein oder Violfarb <lb/> so ist es zierlich vnnd auch lieblich.</p>
+        <p> Streich <objectName ref="mandeln">Mandeln</objectName> durch mit <objectName ref="hausenblase">Hausenblasen</objectName> <lb/> braun <lb/> oder laß weiß <lb/> wenns auffgesotten <lb/> vnnd kalt ist <lb/> vnnd wol angemacht mit <objectName ref="zucker">Zucker</objectName> <lb/> so geuß es in die <objectName ref="mandeln">Mandeln</objectName> <lb/> die fein auff Krebßart gemacht seyn <lb/> oder auffallerley Fischmodel <lb/> so stehet es zierlich vn schön <lb/> es hab ein Farb was es wöll <lb/> es sey weiß <lb/> schwartz <lb/> gelb <lb/> Rosein oder Violfarb <lb/> so ist es zierlich vnnd auch lieblich. </p>
             </div>
         </body>
     </text>

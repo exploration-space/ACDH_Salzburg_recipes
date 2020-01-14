@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) süsse Milch <lb/> die dick ist <lb/> setz sie auff Kolen <lb/> vnd laß sie auffsieden <lb/> bleib darbey <lb/> daß nicht vbergehet <lb/> auch nicht darein stäubt <lb/> setz es vom Feuwer hinweg <lb/> vnd rürs mit einem höltzern Löffel vmb <lb/> setzs in einen kalten Keller <lb/> vnd laß vber Nacht stehen <lb/> (daß) wol kalt wirt <lb/> so wirt es ein dicke Haut darauff gewinnen <lb/> schepff sie herab mit einem Faumlöffel <lb/> vnd richt es in ein Schüssel oder in ein Silber an <lb/> Vnnd wenn du es schier wilt zu essen geben <lb/> so besträw es mit schönem weissen Zucker. Vnnd die Speiß nennet man in Italia ein Gandelat.</p>
+        <p> Nim ( m ) süsse <objectName ref="milch">Milch</objectName> <lb/> die dick ist <lb/> setz sie auff Kolen <lb/> vnd laß sie auffsieden <lb/> bleib darbey <lb/> daß nicht vbergehet <lb/> auch nicht darein stäubt <lb/> setz es vom Feuwer hinweg <lb/> vnd rürs mit einem höltzern <objectName ref="loeffel">Löffel</objectName> vmb <lb/> setzs in einen kalten <objectName ref="keller">Keller</objectName> <lb/> vnd laß vber Nacht stehen <lb/> ( daß ) wol kalt wirt <lb/> so wirt es ein dicke Haut darauff gewinnen <lb/> schepff sie herab mit einem <objectName ref="faumloeffel">Faumlöffel</objectName> <lb/> vnd richt es in ein <objectName ref="schuessel">Schüssel</objectName> oder in ein <objectName ref="silber">Silber</objectName> an <lb/> Vnnd wenn du es schier wilt zu essen geben <lb/> so besträw es mit schönem weissen <objectName ref="zucker">Zucker</objectName>. Vnnd die Speiß nennet man in Italia ein Gandelat. </p>
             </div>
         </body>
     </text>

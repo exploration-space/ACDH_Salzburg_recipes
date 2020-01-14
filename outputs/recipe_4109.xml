@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn das Wildprät gebührend gesotten <lb/> so röste viel klein= geschnittene Zwibel <lb/> und dergleichen gute und saure Aepffel <lb/> in Schmaltz <lb/> oder Butter mit wenig Meel ; gieß daran wenig Brühe <lb/> Wein <lb/> oder Eßig <lb/> Zucker <lb/> Gewürtz mit Zimmet <lb/> auch wenig Saffran <lb/> mit wenig Lemoni= Schelffen <lb/> treibs durch <lb/> oder gibs gleich also ; nicht zu dünn über das Wildprät <lb/> wann aber dise Brühe durchgetrieben wird <lb/> so können auch Näglein darein genommen werden.</p>
+        <p> WAnn das Wildprät gebührend gesotten <lb/> so röste viel klein= geschnittene Zwibel <lb/> und dergleichen gute und saure Aepffel <lb/> in Schmaltz <lb/> oder <objectName ref="butter">Butter</objectName> mit wenig Meel; gieß daran wenig <objectName ref="bruehe">Brühe</objectName> <lb/> <objectName ref="wein">Wein</objectName> <lb/> oder Eßig <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> Gewürtz mit Zimmet <lb/> auch wenig Saffran <lb/> mit wenig Lemoni= Schelffen <lb/> treibs durch <lb/> oder gibs gleich also; nicht zu dünn über das Wildprät <lb/> wann aber dise <objectName ref="bruehe">Brühe</objectName> durchgetrieben wird <lb/> so können auch Näglein darein genommen werden. </p>
             </div>
         </body>
     </text>

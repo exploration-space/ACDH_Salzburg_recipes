@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm die gebutzte Wachteln gefüllter <lb/> oder auch ungefüllter; rösts in Butter schön gelb <lb/> hernach klaube den Reiß <lb/> und wasche ihn sauber <lb/> hernach wird er zu den gerösten Wachteln gemischet <lb/> mit wenig Muscatblühe <lb/> und Knoblauch <lb/> und etlichmal überschwungen; hernach mit guter Fleischbrühe völlig kochen lassen; sie seynd köstlich; es wird auch ein Sträußlein Rosmarin darzu gelegt <lb/> und wieder herauß genommen.</p>
+        <p> NImm die gebutzte <objectName ref="wachtel">Wachteln</objectName> gefüllter <lb/> oder auch ungefüllter; rösts in <objectName ref="butter">Butter</objectName> schön gelb <lb/> hernach klaube den Reiß <lb/> und wasche ihn sauber <lb/> hernach wird er zu den gerösten <objectName ref="wachtel">Wachteln</objectName> gemischet <lb/> mit wenig Muscatblühe <lb/> und <objectName ref="knoblauch">Knoblauch</objectName> <lb/> und etlichmal überschwungen; hernach mit guter <objectName ref="fleischbruehe">Fleischbrühe</objectName> völlig kochen lassen; sie seynd köstlich; es wird auch ein Sträußlein <objectName ref="rosmarin">Rosmarin</objectName> darzu gelegt <lb/> und wieder herauß genommen. </p>
             </div>
         </body>
     </text>

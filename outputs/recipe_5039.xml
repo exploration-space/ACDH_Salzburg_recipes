@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn sie nach ihrer Beschaffenheit weich genug gesotten <lb/> oder nur was weniges überbrühet <lb/> als die Lungen <lb/> oder frischer seyn <lb/> gleich wie die Leber <lb/> so können sie auch in allen Veränderungen <lb/> der kälbern gleich verkocht werden ; wird also der geehrte Leser <lb/> oder Leserin dahin gewiesen ; doch aber muß man das Schwein= Fleisch ein wenig stärcker saltzen und gewürtzen.</p>
+        <p> WAnn sie nach ihrer Beschaffenheit weich genug gesotten <lb/> oder nur was weniges überbrühet <lb/> als die <objectName ref="lunge">Lungen</objectName> <lb/> oder frischer seyn <lb/> gleich wie die <objectName ref="leber">Leber</objectName> <lb/> so können sie auch in allen Veränderungen <lb/> der kälbern gleich verkocht werden; wird also der geehrte Leser <lb/> oder Leserin dahin gewiesen; doch aber muß man das Schwein= <objectName ref="fleisch">Fleisch</objectName> ein wenig stärcker saltzen und gewürtzen. </p>
             </div>
         </body>
     </text>

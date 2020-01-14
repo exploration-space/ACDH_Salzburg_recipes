@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>LEget ddas abgesottene Fleisch in einen stollichten Hafen <lb/> giesst Fleischbrüh daran <lb/> brennet ein Mehl <lb/> schön licht = gelb im Schmaltz gröstet <lb/> darauf ; thut gestossenen Coriander dazu <lb/> würtzets mit Ingber und Pfeffer <lb/> machts mit ein wenig Wein = Essig säuerlicht <lb/> last es alles zusammen sieden <lb/> und richtets dann an.</p>
+        <p> LEget ddas abgesottene <objectName ref="fleisch">Fleisch</objectName> in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> giesst Fleischbrüh daran <lb/> brennet ein <objectName ref="mehl">Mehl</objectName> <lb/> schön licht = gelb im Schmaltz gröstet <lb/> darauf; thut gestossenen Coriander dazu <lb/> würtzets mit Ingber und <objectName ref="pfeffer">Pfeffer</objectName> <lb/> machts mit ein wenig <objectName ref="wein">Wein</objectName> = <objectName ref="essig">Essig</objectName> säuerlicht <lb/> last es alles zusammen sieden <lb/> und richtets dann an. </p>
             </div>
         </body>
     </text>

@@ -186,8 +186,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm drey Viertel Pf. Speck <lb/> frisch geschaben <lb/> 10. hart=gesottene Eyer <lb/> das weiß und das gelbe jedes besonder gehackt <lb/> alsdann den Speck unter die Eyer abgetrieben <lb/> mit einem Milch=Ram zu einem Mässel 6. frische Eyer genommen <lb/> und darmit angemacht <lb/> braun von Zimmet <lb/> süß von Zucker <lb/> und zu disen Dorten in mürben Taig mit zwey Eyer=Dotter und Butter angemacht <lb/> und ausgewalgt <lb/> das Beck mit Butter geschmirt <lb/> mit Semmel=Bröslein bestreuet <lb/> das Blättlein darein gethan <lb/> und die Füll darauf geschütt <lb/> zierlich herum ausgemacht <lb/> und etwas kühl gebachen <lb/> darnach streuet man Zucker darauf <lb/> wann man will <lb/> kan man ein halb Pf. klein=gestossene Mandel darunter nehmen.
- </p>
+        <p> NImm drey Viertel Pf. <objectName ref="speck">Speck</objectName> <lb/> frisch geschaben <lb/> 10. hart=gesottene Eyer <lb/> das weiß und das gelbe jedes besonder gehackt <lb/> alsdann den <objectName ref="speck">Speck</objectName> unter die Eyer abgetrieben <lb/> mit einem Milch=Ram zu einem Mässel 6. frische Eyer genommen <lb/> und darmit angemacht <lb/> braun von Zimmet <lb/> süß von <objectName ref="zucker">Zucker</objectName> <lb/> und zu disen Dorten in mürben Taig mit zwey Eyer=Dotter und <objectName ref="butter">Butter</objectName> angemacht <lb/> und ausgewalgt <lb/> das Beck mit <objectName ref="butter">Butter</objectName> geschmirt <lb/> mit Semmel=Bröslein bestreuet <lb/> das Blättlein darein gethan <lb/> und die Füll darauf geschütt <lb/> zierlich herum ausgemacht <lb/> und etwas kühl gebachen <lb/> darnach streuet man <objectName ref="zucker">Zucker</objectName> darauf <lb/> wann man will <lb/> kan man ein halb Pf. klein=gestossene Mandel darunter nehmen. </p>
             </div>
         </body>
     </text>

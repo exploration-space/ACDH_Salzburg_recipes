@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BUtze die Hünlein sauber <lb/> ziehe ihnen die Haut ab <lb/> und thu sie abgliedern <lb/> und legs zwey Stund in ein gesaltzen Wasser <lb/> nimms alsdann herauß <lb/> trückne sie sauber ab <lb/> kehrs in Meel um <lb/> bachs wie die Frösch <lb/> gibs warm <lb/> und trucken <lb/> mit gebachenen grünen Kräutern.</p>
+        <p> BUtze die Hünlein sauber <lb/> ziehe ihnen die Haut ab <lb/> und thu sie abgliedern <lb/> und legs zwey Stund in ein gesaltzen <objectName ref="wasser">Wasser</objectName> <lb/> nimms alsdann herauß <lb/> trückne sie sauber ab <lb/> kehrs in Meel um <lb/> bachs wie die Frösch <lb/> gibs warm <lb/> und trucken <lb/> mit gebachenen grünen <objectName ref="kraeuter">Kräutern</objectName>. </p>
             </div>
         </body>
     </text>

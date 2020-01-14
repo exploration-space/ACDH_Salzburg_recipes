@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm etliche Eyer <lb/> mache an den beeden Spitzen Löchlein darein <lb/> und blase das Weisse und Gelbe heraus <lb/> wie offt gedacht ; rühre es nur ein wenig in einem Schmaltz ab ; reibe dann ein wenig abgezogene Mandeln klein <lb/> hacke ein Stücklein Speck <lb/> und menge es darunter <lb/> saltze und würtze es mit Ingber <lb/> Muscatnuß und Saffran <lb/> und fülle es wieder in die Schalen ; stecks an Spießlein <lb/> legs auf einen Rost <lb/> und brate sie ab.</p>
+        <p> NImm etliche Eyer <lb/> mache an den beeden Spitzen Löchlein darein <lb/> und <objectName ref="blase">blase</objectName> das Weisse und Gelbe heraus <lb/> wie offt gedacht; rühre es nur ein wenig in einem Schmaltz ab; reibe dann ein wenig abgezogene <objectName ref="mandeln">Mandeln</objectName> klein <lb/> hacke ein Stücklein <objectName ref="speck">Speck</objectName> <lb/> und menge es darunter <lb/> saltze und würtze es mit Ingber <lb/> Muscatnuß und Saffran <lb/> und fülle es wieder in die Schalen; stecks an Spießlein <lb/> legs auf einen <objectName ref="rost">Rost</objectName> <lb/> und brate sie ab. </p>
             </div>
         </body>
     </text>

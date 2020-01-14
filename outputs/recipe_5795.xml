@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) saure Milch <lb/> schlag darein Eyerdotter <lb/> vnd ein wenig Mehl vnd Essig <lb/> setz es auff das Feuwr <lb/> vnd rürs durcheinander <lb/> biß daß auffseudt <lb/> vnd wenns auffgesotten hat <lb/> so streichs durch ein Härin Tuch <lb/> Vnnd wenn die Brust gesotten ist <lb/> geußt man die Brüh obé  darüber <lb/> thu darvnter ein wenig vngeschmältzte frische Butter <lb/> laß darmit ein Sudt auffthun <lb/> so ist es gut. Solche Brüh ist gut vber vielerley Fleisch <lb/> daß gekocht ist.</p>
+        <p> Nim ( m ) saure <objectName ref="milch">Milch</objectName> <lb/> schlag darein Eyerdotter <lb/> vnd ein wenig <objectName ref="mehl">Mehl</objectName> vnd <objectName ref="essig">Essig</objectName> <lb/> setz es auff das Feuwr <lb/> vnd rürs durcheinander <lb/> biß daß auffseudt <lb/> vnd wenns auffgesotten hat <lb/> so streichs durch ein Härin <objectName ref="tuch">Tuch</objectName> <lb/> Vnnd wenn die <objectName ref="brust">Brust</objectName> gesotten ist <lb/> geußt man die Brüh obé darüber <lb/> thu darvnter ein wenig vngeschmältzte frische <objectName ref="butter">Butter</objectName> <lb/> laß darmit ein Sudt auffthun <lb/> so ist es gut. Solche Brüh ist gut vber vielerley <objectName ref="fleisch">Fleisch</objectName> <lb/> daß gekocht ist. </p>
             </div>
         </body>
     </text>

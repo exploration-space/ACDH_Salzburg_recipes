@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Ayr<gap/> vnnd siess obers<gap/> sprigl<gap/> alles <lb/> vnndereinander ab salz vnd gilbs<gap/> <lb/> ein wönig thue Zimmet<gap/> vnnd Wein= <lb/> berl<gap/> darein fils<gap/> in die Därmmel<gap/> <lb/> nit gar Zu voll las es sieten<gap/> <lb/><lb/> (re 32) wie andere Wirstl hernach schmirb<gap/> <lb/> ein schisßl<gap/> mit butter vnnd schneidt <lb/> aus den wirstl<gap/> stickheln<gap/> richts <lb/> auf die schisßl vnnd Gies<gap/> ein Fleisch <lb/> brie<gap/> daran lass es auf einen <lb/> Gliedl<gap/>  Preglen<gap/> sye seint Guett. <lb/></p>
+        <p> Nimb Ayr<gap/> vnnd siess obers<gap/> sprigl<gap/> alles <lb/> vnndereinander ab <objectName ref="salz">salz</objectName> vnd gilbs<gap/> <lb/> ein wönig thue Zimmet<gap/> vnnd Wein= <lb/> berl<gap/> darein fils<gap/> in die Därmmel<gap/> <lb/> nit gar Zu voll las es sieten<gap/> <lb/><lb/> ( re 32 ) wie andere Wirstl hernach schmirb<gap/> <lb/> ein schisßl<gap/> mit <objectName ref="butter">butter</objectName> vnnd schneidt <lb/> aus den wirstl<gap/> stickheln<gap/> richts <lb/> auf die schisßl vnnd Gies<gap/> ein <objectName ref="fleisch">Fleisch</objectName> <lb/> brie<gap/> daran lass es auf einen <lb/> Gliedl<gap/> Preglen<gap/> sye seint Guett. <lb/> </p>
             </div>
         </body>
     </text>

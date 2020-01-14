@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim ein rot Häuptkraut <lb/> schneidts fein klein <lb/> vnd quells ein wenig in warmen Wasser <lb/> küls darnach geschwindt auß <lb/> machs mit Essig vn Oel ab <lb/> vnd wenn es ein weil im Essig ligt <lb/> so wirt es schön rot.</p>
+        <p> Nim ein rot Häuptkraut <lb/> schneidts fein klein <lb/> vnd quells ein wenig in warmen <objectName ref="wasser">Wasser</objectName> <lb/> küls darnach geschwindt auß <lb/> machs mit <objectName ref="essig">Essig</objectName> vn Oel ab <lb/> vnd wenn es ein weil im <objectName ref="essig">Essig</objectName> ligt <lb/> so wirt es schön rot. </p>
             </div>
         </body>
     </text>

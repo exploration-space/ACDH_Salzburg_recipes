@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Item <lb/> wen der Wein anfäht zu geren <lb/> so stoß ein Schüssel voll Wacholderbeer darein <lb/> oder Hopffen <lb/> oder Beyfußsamen <lb/> oder Spicanardus <lb/> oder gedört Kornblät <lb/> henck das darein <lb/> so helt sich der Wein bey der Farb vnd krafft <lb/> vnd wenn der Wein vergoren hat <lb/> so thu es wider herauß <lb/> daß er nicht darnach schmeckendt werd <lb/> so bleibt er bey seiner Krafft vn guten Farb <lb/> biß ans ende <lb/> cc.</p>
+        <p> Item <lb/> wen der <objectName ref="wein">Wein</objectName> anfäht zu geren <lb/> so stoß ein <objectName ref="schuessel">Schüssel</objectName> voll Wacholderbeer darein <lb/> oder Hopffen <lb/> oder Beyfußsamen <lb/> oder Spicanardus <lb/> oder gedört Kornblät <lb/> henck das darein <lb/> so helt sich der <objectName ref="wein">Wein</objectName> bey der Farb vnd krafft <lb/> vnd wenn der <objectName ref="wein">Wein</objectName> vergoren hat <lb/> so thu es wider herauß <lb/> daß er nicht darnach schmeckendt werd <lb/> so bleibt er bey seiner Krafft vn guten Farb <lb/> biß ans ende <lb/> cc. </p>
             </div>
         </body>
     </text>

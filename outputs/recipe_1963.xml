@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein neugebachne sembl, schneide die ringgen alle daruon, <lb/> das nichts als die mohlen bleibt, Waichs in ein guete milch, <lb/> das gar Waich werde, balls hernach Woll auß, damit die <lb/> milch daruon khombt, stosß in ainem Merser, schlag aÿr <lb/> daran, das lener Werde als ein brandtkhöhl taig, schlags mit <lb/> einem löfl in ein khieles schmalz, bachs mit fleiß, verbrens <lb/> vnd versalzs nit. <lb/><lb/> (15v)</p>
+        <p> Nimb ein neugebachne sembl, schneide die ringgen alle daruon, <lb/> das nichts als die mohlen bleibt, Waichs in ein guete <objectName ref="milch">milch</objectName>, <lb/> das gar Waich werde, balls hernach Woll auß, damit die <lb/> <objectName ref="milch">milch</objectName> daruon khombt, stosß in ainem Merser, schlag aÿr <lb/> daran, das lener Werde als ein brandtkhöhl taig, schlags mit <lb/> einem löfl in ein khieles <objectName ref="schmalz">schmalz</objectName>, bachs mit fleiß, verbrens <lb/> vnd versalzs nit. <lb/><lb/> ( 15v ) </p>
             </div>
         </body>
     </text>

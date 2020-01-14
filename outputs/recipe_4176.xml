@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn die Aeschen geräuchert <lb/> oder geselcht <lb/> so läßt man sie im Wasser einen kleinen Sud thun ; und gibs auf die Schüssel mit einer guten Butter= Brühe ; oder mit einer durchgetriebenen Erbsen= Brühe mit Butter <lb/> Lemoni <lb/> oder Petersil= Kräutlein <lb/> und guten Gewürtz wohl eingericht <lb/> oder also in süssen <lb/> oder sauren Ram kurtz eingekochter <lb/> mit <lb/> oder ohne Haut <lb/> und warmer zur Tafel gegeben.</p>
+        <p> WAnn die Aeschen geräuchert <lb/> oder geselcht <lb/> so läßt man sie im <objectName ref="wasser">Wasser</objectName> einen kleinen Sud thun; und gibs auf die <objectName ref="schuessel">Schüssel</objectName> mit einer guten Butter= <objectName ref="bruehe">Brühe</objectName>; oder mit einer durchgetriebenen Erbsen= <objectName ref="bruehe">Brühe</objectName> mit <objectName ref="butter">Butter</objectName> <lb/> Lemoni <lb/> oder Petersil= Kräutlein <lb/> und guten Gewürtz wohl eingericht <lb/> oder also in süssen <lb/> oder sauren Ram kurtz eingekochter <lb/> mit <lb/> oder ohne Haut <lb/> und warmer zur Tafel gegeben. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>RUben= Kräutlein <lb/> so gelb <lb/> von denen im Winter eingesetzten Ruben <lb/> gebrüht <lb/> ist gut mit oder ohne Weinbeerlein <lb/> süß oder saur <lb/> kalter zum Salat.</p>
+        <p> RUben= Kräutlein <lb/> so gelb <lb/> von denen im Winter eingesetzten Ruben <lb/> gebrüht <lb/> ist gut mit oder ohne Weinbeerlein <lb/> süß oder saur <lb/> kalter zum <objectName ref="salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@ Rollada = Würste
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn das Schwein jung <lb/> und nicht zu feist ist <lb/> so kan demselben nach dem Brühen die schön= gebutzte Haut abgezogen werden <lb/> das Schwein <lb/> aber gleich einem Reh zerlegt <lb/> eingepaitzt <lb/> gespickt oder ungespickt gebraten <lb/> auch allweg <lb/> wie das Kalb verkocht werden <lb/> nur allein <lb/> daß dises ein wenig mehr an Saltz und Gewürtz begehrt ; vor Krancke aber <lb/> ist das Kalbfleisch besser und gesunder <lb/> c. aus der schön= abgezogenen Schweins= Haut können allerhand Würst <lb/> wie sie bey den Spanfärcklein beschrieben <lb/> und bey den Ochsen <lb/> die man Rollada nennet <lb/> gemachet werden.</p>
+        <p> WAnn das Schwein jung <lb/> und nicht zu feist ist <lb/> so kan demselben nach dem <objectName ref="bruehe">Brühen</objectName> die schön= gebutzte Haut abgezogen werden <lb/> das Schwein <lb/> aber gleich einem Reh zerlegt <lb/> eingepaitzt <lb/> gespickt oder ungespickt gebraten <lb/> auch allweg <lb/> wie das <objectName ref="kalb">Kalb</objectName> verkocht werden <lb/> nur allein <lb/> daß dises ein wenig mehr an Saltz und Gewürtz begehrt; vor Krancke aber <lb/> ist das <objectName ref="kalbfleisch">Kalbfleisch</objectName> besser und gesunder <lb/> c. aus der schön= abgezogenen Schweins= Haut können allerhand Würst <lb/> wie sie bey den Spanfärcklein beschrieben <lb/> und bey den Ochsen <lb/> die man Rollada nennet <lb/> gemachet werden. </p>
             </div>
         </body>
     </text>

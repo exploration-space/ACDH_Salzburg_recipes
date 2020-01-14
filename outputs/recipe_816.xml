@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Gib einer jeden Kösten einen Schnitt <lb/> und dämpffe sie in einem zugedeckten Geschirr <lb/> auf der Glut <lb/> bedecks übersich mit einem feuchten Tuch <lb/> biß sie sich sauber scheelen lassen <lb/> hernach nimm ein gantzes Stück Zucker <lb/> feuchte ihn an mit Muscat oder andern köstlichen Wein <lb/> lege ein Lemoni=Schaalen mit gantzen Zimmet und Näglein darein <lb/> und wann der Syrup dicklecht gesotten <lb/> so schütte die gescheelte Kösten darein <lb/> und laß bedeckter kochen <lb/> biß sie weich genug <lb/> richts ohne Gewürtz und Lemoni=Schelffen an <lb/> mit ihrem Safft <lb/> und gibs mit Zucker bestreuter warm.</p>
+        <p> Gib einer jeden Kösten einen Schnitt <lb/> und dämpffe sie in einem zugedeckten <objectName ref="geschirr">Geschirr</objectName> <lb/> auf der <objectName ref="glut">Glut</objectName> <lb/> bedecks übersich mit einem feuchten <objectName ref="tuch">Tuch</objectName> <lb/> biß sie sich sauber scheelen lassen <lb/> hernach nimm ein gantzes Stück <objectName ref="zucker">Zucker</objectName> <lb/> feuchte ihn an mit Muscat oder andern köstlichen <objectName ref="wein">Wein</objectName> <lb/> lege ein Lemoni=Schaalen mit gantzen Zimmet und Näglein darein <lb/> und wann der Syrup dicklecht gesotten <lb/> so schütte die gescheelte Kösten darein <lb/> und laß bedeckter kochen <lb/> biß sie weich genug <lb/> richts ohne Gewürtz und Lemoni=Schelffen an <lb/> mit ihrem Safft <lb/> und gibs mit <objectName ref="zucker">Zucker</objectName> bestreuter warm. </p>
             </div>
         </body>
     </text>

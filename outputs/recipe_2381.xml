@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm den Kern von welschen Nüssen <lb/> ein Semmel= Mehl oder geriebenes weisses Brod <lb/> und das Weisse von hart= gesottenen Eyern <lb/> stoß es unter einander <lb/> treibs mit guten Wein durch <lb/> saltze und würtze es nach belieben <lb/> und trags dann mit dem Gebratens zu Tisch.</p>
+        <p> NImm den Kern von welschen <objectName ref="nuesse">Nüssen</objectName> <lb/> ein Semmel= <objectName ref="mehl">Mehl</objectName> oder geriebenes weisses Brod <lb/> und das Weisse von hart= gesottenen Eyern <lb/> stoß es unter einander <lb/> treibs mit guten <objectName ref="wein">Wein</objectName> durch <lb/> saltze und würtze es nach belieben <lb/> und trags dann mit dem Gebratens zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

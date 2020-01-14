@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>EBen dergleichen gefüllte Semmel= Schnitten <lb/> wann sie durch die Eyer <lb/> welche mit Saltz und klein= gehackten Petersil abgeschlagen; so es beliebt <lb/> auch ein wenig weiß <lb/> oder Semmel= Mehl darein gerührt <lb/> durchgezogen <lb/> und aus heissem Schmaltz gebachen werden <lb/> seyn auch gut.</p>
+        <p> EBen dergleichen gefüllte Semmel= Schnitten <lb/> wann sie durch die Eyer <lb/> welche mit Saltz und klein= gehackten Petersil abgeschlagen; so es beliebt <lb/> auch ein wenig weiß <lb/> oder Semmel= <objectName ref="mehl">Mehl</objectName> darein gerührt <lb/> durchgezogen <lb/> und aus heissem Schmaltz gebachen werden <lb/> seyn auch gut. </p>
             </div>
         </body>
     </text>

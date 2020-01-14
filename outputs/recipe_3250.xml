@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MIt mehreren Umständen <lb/> findest du solche schon in dem Bacherey= Buch unter denen Wildprät= Pasteten <lb/> mit seinem Kupffer.</p>
+        <p> MIt mehreren Umständen <lb/> findest du solche schon in dem Bacherey= Buch unter denen Wildprät= <objectName ref="pastete">Pasteten</objectName> <lb/> mit seinem Kupffer. </p>
             </div>
         </body>
     </text>

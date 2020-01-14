@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimbe auf ein Mitters Reindl<gap/> <lb/> 12. Ayr Dotter ein Guettes stuckh<gap/> <lb/> putter .4. löffel voll Wein vnnd <lb/> Zuckhers aber nit Zu siess<gap/> sprigl<gap/> <lb/> es Durch ein ander ab vnd Riers<gap/> in <lb/> den Reindl<gap/> Gar Gemach<gap/> herab es <lb/> Muess aber nicht siedten<gap/> Gib es ist <lb/> schön vnnd Guett. <lb/><lb/> (ve 234)</p>
+        <p> Nimbe auf ein Mitters Reindl<gap/> <lb/> 12. Ayr Dotter ein Guettes stuckh<gap/> <lb/> putter.4. <objectName ref="loeffel">löffel</objectName> voll <objectName ref="wein">Wein</objectName> vnnd <lb/> Zuckhers aber nit Zu siess<gap/> sprigl<gap/> <lb/> es Durch ein ander ab vnd Riers<gap/> in <lb/> den Reindl<gap/> Gar Gemach<gap/> herab es <lb/> Muess aber nicht siedten<gap/> Gib es ist <lb/> schön vnnd Guett. <lb/><lb/> ( ve 234 ) </p>
             </div>
         </body>
     </text>

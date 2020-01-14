@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Erstlich Zergehe einen frischen butter <lb/><lb/> (re 91) nimb so vill wasser als butter, las <lb/> siedten<gap/> riehr<gap/> ein schenes Mell<gap/> darein <lb/> vnnd ein löffel Voll prandtwein <lb/> wärme die Ayr<gap/> vnd nimb zu .2. <lb/> Clar einen Dotter, nimb dan schene <lb/> frische Weixl die nit Masig<gap/> sein <lb/> Nimb ein Kleines Dieffes pfändl<gap/> <lb/> hiz ein schmalz<gap/> Darin thue die <lb/> Weixl ins taigl<gap/> Dunckhen<gap/>, treibs<gap/> <lb/> fein vmb das nit ankhleben, thues <lb/> Geschwindt in ein heis schmolz<gap/>, las <lb/> nit gleich Zuboden Gehen thue nur <lb/> allzeit aine allein bachen<gap/>, thue <lb/> Zuckher darauf, Gibs olso her. <lb/></p>
+        <p> Erstlich Zergehe einen frischen <objectName ref="butter">butter</objectName> <lb/><lb/> ( re 91 ) nimb so vill <objectName ref="wasser">wasser</objectName> als <objectName ref="butter">butter</objectName>, las <lb/> siedten<gap/> riehr<gap/> ein schenes Mell<gap/> darein <lb/> vnnd ein <objectName ref="loeffel">löffel</objectName> Voll prandtwein <lb/> wärme die Ayr<gap/> vnd nimb zu.2. <lb/> Clar einen Dotter, nimb dan schene <lb/> frische Weixl die nit Masig<gap/> sein <lb/> Nimb ein Kleines Dieffes pfändl<gap/> <lb/> hiz ein schmalz<gap/> Darin thue die <lb/> Weixl ins taigl<gap/> Dunckhen<gap/>, treibs<gap/> <lb/> fein vmb das nit ankhleben, thues <lb/> Geschwindt in ein heis schmolz<gap/>, las <lb/> nit gleich Zuboden Gehen thue nur <lb/> allzeit aine allein bachen<gap/>, thue <lb/> Zuckher darauf, Gibs olso her. <lb/> </p>
             </div>
         </body>
     </text>

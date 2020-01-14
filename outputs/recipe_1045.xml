@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Take a Dozen of Eggs, beat them very well, and season them with Salt and a little Pepper; then having your Frying-pan ready, with a good deal of fresh Butter in it, let it be thorougly hot; then put in your Eggs, with four Spoonsful of strong Gravy; and have ready some Parsley, a little Onion cut small, which throw over it; when it is enough turn it; and when done, dish it, and squeeze Orange or Lemon over it.</p>
+        <p> Take a Dozen of Eggs, beat them very well, and season them with Salt and a little Pepper; then having your Frying-pan ready, with a good deal of fresh <objectName ref="butter">Butter</objectName> in it, let it be thorougly hot; then put in your Eggs, with four Spoonsful of strong Gravy; and have ready some Parsley, a little Onion cut small, which throw over it; when it is enough turn it; and when done, dish it, and squeeze Orange or Lemon over it. </p>
             </div>
         </body>
     </text>

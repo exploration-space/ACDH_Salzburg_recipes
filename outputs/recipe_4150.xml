@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>VOn der Indian= Brust wird das Fleisch gestossen <lb/> mit Eyern und Milchram angemacht <lb/> gibt ein gutes Schüssel= Mus ; wer will <lb/> nimmt auch Zucker und Zimmet <lb/> oder Rosen= Wasser <lb/> und klein= geriebene Mandel darzu.</p>
+        <p> VOn der Indian= <objectName ref="brust">Brust</objectName> wird das <objectName ref="fleisch">Fleisch</objectName> gestossen <lb/> mit Eyern und Milchram angemacht <lb/> gibt ein gutes Schüssel= Mus; wer will <lb/> nimmt auch <objectName ref="zucker">Zucker</objectName> und Zimmet <lb/> oder Rosen= <objectName ref="wasser">Wasser</objectName> <lb/> und klein= geriebene Mandel darzu. </p>
             </div>
         </body>
     </text>

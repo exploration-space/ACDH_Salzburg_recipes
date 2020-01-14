@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb die füesß vnd ohrn, buz es sauber, thue es in ein Neues <lb/> hefen, geuß ein Wasser daran, seür es, vnd salz, laß es <lb/> sieden, leg ein hand voll schen Arbes darzue, faimb es fleissig ab, <lb/> nimb Mußcatblüe vnd ihmer darZue, gilbs, laß alles mitein= <lb/> ander sieden biß an die stat, richts an, geuß die Sulzen <lb/> drüber. <lb/></p>
+        <p> Nimb die füesß vnd ohrn, buz es sauber, thue es in ein Neues <lb/> hefen, geuß ein <objectName ref="wasser">Wasser</objectName> daran, seür es, vnd <objectName ref="salz">salz</objectName>, laß es <lb/> sieden, leg ein hand voll schen Arbes darzue, faimb es fleissig ab, <lb/> nimb Mußcatblüe vnd ihmer darZue, gilbs, laß alles mitein= <lb/> ander sieden biß an die stat, richts an, geuß die Sulzen <lb/> drüber. <lb/> </p>
             </div>
         </body>
     </text>

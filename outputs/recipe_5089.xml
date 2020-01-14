@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChlein blau <lb/> oder heiß abgesottner <lb/> und die Haut abgezogen <lb/> mit einem <lb/> von klein= gehackten Sardellen eingerichten braunen Butter begossen <lb/> und mit Lemoni= Safft <lb/> oder etlich Tropffen Wein recent gemacht <lb/> mit Gewürtz bestreut <lb/> wol warmer gegeben <lb/> seynd gut und wolgeschmack.</p>
+        <p> SChlein blau <lb/> oder heiß abgesottner <lb/> und die Haut abgezogen <lb/> mit einem <lb/> von klein= gehackten <objectName ref="sardellen">Sardellen</objectName> eingerichten braunen <objectName ref="butter">Butter</objectName> begossen <lb/> und mit Lemoni= Safft <lb/> oder etlich Tropffen <objectName ref="wein">Wein</objectName> recent gemacht <lb/> mit Gewürtz bestreut <lb/> wol warmer gegeben <lb/> seynd gut und wolgeschmack. </p>
             </div>
         </body>
     </text>

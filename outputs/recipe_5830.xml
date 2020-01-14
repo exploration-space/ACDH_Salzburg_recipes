@@ -171,9 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mach auch ein Muß auß dem Manscho Blancko. Nim(m) d(as) Manscho Blancko <lb/> vnd theils mit Eyern ab <lb/> vn(d) mit süsser Milch <lb/> nim(m) ein Schüssel <lb/> vn(d) schmier die am Boden mit Butter <lb/> die kalt ist <lb/> thu darnach das Muß in die Schüssel <lb/> scheub es in Ofen <lb/> vnd backs <lb/> so wirt es fein aufflauffen <lb/> vn(d) wenn du es anrichtest <lb/> so besträw es mit Zucker <lb/> so wirt es gut.
-
-</p>
+        <p> Mach auch ein Muß auß dem Manscho Blancko. Nim ( m ) d ( as ) Manscho Blancko <lb/> vnd theils mit Eyern ab <lb/> vn ( d ) mit süsser <objectName ref="milch">Milch</objectName> <lb/> nim ( m ) ein <objectName ref="schuessel">Schüssel</objectName> <lb/> vn ( d ) schmier die am Boden mit <objectName ref="butter">Butter</objectName> <lb/> die kalt ist <lb/> thu darnach das Muß in die <objectName ref="schuessel">Schüssel</objectName> <lb/> scheub es in <objectName ref="ofen">Ofen</objectName> <lb/> vnd backs <lb/> so wirt es fein aufflauffen <lb/> vn ( d ) wenn du es anrichtest <lb/> so besträw es mit <objectName ref="zucker">Zucker</objectName> <lb/> so wirt es gut. </p>
             </div>
         </body>
     </text>

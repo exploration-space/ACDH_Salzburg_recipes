@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>LEget das Kraut in einen Hafen <lb/> giesst Fleischbrüh daran <lb/> ingleichen auch ein gutes frischen Baum = Oel <lb/> pfeffert und saltzets <lb/> last es sieden <lb/> rührets bißweilen herum <lb/> und streuet hernach im Anrichten noch ein wenig Pfeffer darauf.</p>
+        <p> LEget das <objectName ref="kraut">Kraut</objectName> in einen <objectName ref="hafen">Hafen</objectName> <lb/> giesst Fleischbrüh daran <lb/> ingleichen auch ein gutes frischen Baum = Oel <lb/> pfeffert und saltzets <lb/> last es sieden <lb/> rührets bißweilen herum <lb/> und streuet hernach im Anrichten noch ein wenig <objectName ref="pfeffer">Pfeffer</objectName> darauf. </p>
             </div>
         </body>
     </text>

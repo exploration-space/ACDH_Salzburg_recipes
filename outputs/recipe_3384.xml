@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet erstlich ein saueres Kraut <lb/> setzt es zu wie man sonsten pflegt <lb/> aber lasts nicht gar zu weich sieden; macht indessen die Ruppen auf <lb/> waschets aus <lb/> saltzet sie ein <lb/> und lasts bey einer Stund lang im Saltz ligen <lb/> hernach streifft den Schleiffer auswendig von denen Ruppen ab <lb/> und leget auf eine Schüssel eine Lage sauer Kraut <lb/> wie auch ein wenig Butter und Pfeffer <lb/> dann die Ruppen oben darauf <lb/> und dazwischen wiederum Kraut <lb/> Butter und Pfeffer <lb/> und so fort an: alsdann lasse man alles zugedeckt mit einander auf der Kohlen zur Genüge sieden.</p>
+        <p> NEhmet erstlich ein saueres <objectName ref="kraut">Kraut</objectName> <lb/> setzt es zu wie man sonsten pflegt <lb/> aber lasts nicht gar zu weich sieden; macht indessen die Ruppen auf <lb/> waschets aus <lb/> saltzet sie ein <lb/> und lasts bey einer Stund lang im Saltz ligen <lb/> hernach streifft den Schleiffer auswendig von denen Ruppen ab <lb/> und leget auf eine <objectName ref="schuessel">Schüssel</objectName> eine Lage sauer <objectName ref="kraut">Kraut</objectName> <lb/> wie auch ein wenig <objectName ref="butter">Butter</objectName> und <objectName ref="pfeffer">Pfeffer</objectName> <lb/> dann die Ruppen oben darauf <lb/> und dazwischen wiederum <objectName ref="kraut">Kraut</objectName> <lb/> <objectName ref="butter">Butter</objectName> und <objectName ref="pfeffer">Pfeffer</objectName> <lb/> und so fort an : alsdann lasse man alles zugedeckt mit einander auf der <objectName ref="kohlen">Kohlen</objectName> zur Genüge sieden. </p>
             </div>
         </body>
     </text>

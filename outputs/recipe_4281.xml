@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Presolen werden mit gutem Gehäck belegt <lb/> mit Eyern bestrichen <lb/> dann mit Pinioli gespickt <lb/> mit Butter begossen <lb/> oder mit klein= gehackter Feisten bestreut <lb/> bache es schnell hinweg im Ofen <lb/> oder auf der Glut <lb/> und gibs mit guter Soß <lb/> oder auf ein subtil gehäck.</p>
+        <p> DIe Presolen werden mit gutem <objectName ref="gehaeck">Gehäck</objectName> belegt <lb/> mit Eyern bestrichen <lb/> dann mit Pinioli gespickt <lb/> mit <objectName ref="butter">Butter</objectName> begossen <lb/> oder mit klein= gehackter <objectName ref="feisten">Feisten</objectName> bestreut <lb/> bache es schnell hinweg im <objectName ref="ofen">Ofen</objectName> <lb/> oder auf der <objectName ref="glut">Glut</objectName> <lb/> und gibs mit guter Soß <lb/> oder auf ein subtil <objectName ref="gehaeck">gehäck</objectName>. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DAs Hirn muß in gesaltznem Wasser ein wenig gebrühet <lb/> zu Stucken geschnitten <lb/> gewürtzt <lb/> eingemelbt <lb/> und gleich denen Fischen aus Schmaltz gebachen werden; alsdann gibs trucken <lb/> oder in brauner jus, mit gebachenen Petersil und Lemoni= Safft.</p>
+        <p> DAs <objectName ref="hirn">Hirn</objectName> muß in gesaltznem <objectName ref="wasser">Wasser</objectName> ein wenig gebrühet <lb/> zu Stucken geschnitten <lb/> gewürtzt <lb/> eingemelbt <lb/> und gleich denen Fischen aus Schmaltz gebachen werden; alsdann gibs trucken <lb/> oder in brauner <objectName ref="jus">jus</objectName>, mit gebachenen Petersil und Lemoni= Safft. </p>
             </div>
         </body>
     </text>

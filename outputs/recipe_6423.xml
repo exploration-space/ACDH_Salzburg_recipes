@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Korn <lb/> daß nicht gar zeitig ist <lb/> das noch ein wenig grün ist <lb/> kochs in einer süssen Milch <lb/> so ist es gut vnnd wolgeschmack <lb/> es sey Weitz oder Korn.</p>
+        <p> Nim ( m ) Korn <lb/> daß nicht gar zeitig ist <lb/> das noch ein wenig grün ist <lb/> kochs in einer süssen <objectName ref="milch">Milch</objectName> <lb/> so ist es gut vnnd wolgeschmack <lb/> es sey Weitz oder Korn. </p>
             </div>
         </body>
     </text>

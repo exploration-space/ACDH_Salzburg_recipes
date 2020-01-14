@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Piuni Kern <lb/> schel sie <lb/> wie man Mandeln abzeucht <lb/> stoß in einem Mörsel <lb/> vnnd streich sie mit warmen Wasser durch <lb/> machs süß mit weissem Zucker <lb/> vnnd laß darmit auffsieden <lb/> so ist es gut vnnd auch wolgeschmack.</p>
+        <p> Nim ( m ) Piuni Kern <lb/> schel sie <lb/> wie man <objectName ref="mandeln">Mandeln</objectName> abzeucht <lb/> stoß in einem Mörsel <lb/> vnnd streich sie mit warmen <objectName ref="wasser">Wasser</objectName> durch <lb/> machs süß mit weissem <objectName ref="zucker">Zucker</objectName> <lb/> vnnd laß darmit auffsieden <lb/> so ist es gut vnnd auch wolgeschmack. </p>
             </div>
         </body>
     </text>

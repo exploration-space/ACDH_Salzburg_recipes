@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES wird der Lachs <lb/> oder Rhein= Salm heißgesottner gezupfft <lb/> mit Dardoffeln in weisser Butter= Brühe gegeben.</p>
+        <p> ES wird der <objectName ref="lachs">Lachs</objectName> <lb/> oder Rhein= Salm heißgesottner gezupfft <lb/> mit Dardoffeln in weisser Butter= <objectName ref="bruehe">Brühe</objectName> gegeben. </p>
             </div>
         </body>
     </text>

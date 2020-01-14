@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Lasse Wein mit Zucker <lb/> und gantzen Zimmet <lb/> sammt wenig Lemoni=Schaalen aufkochen <lb/> so lang als ein Ey kann hart gekocht werden <lb/> nimm geklaubte und zeitige Erdbeer <lb/> und wann du den Safft oder Wein vom Feuer genommen in den Sud <lb/> schütte die Erdbeer darein <lb/> überschwings etlichmal <lb/> richts an mit kutzer Brühe <lb/> nimm den Zimmet darvon <lb/> bestreus vor dem Auftragen mit Zucker <lb/> gibs warm oder kalter <lb/> aber frisch und kalt seynd sie besser und schöner.</p>
+        <p> Lasse <objectName ref="wein">Wein</objectName> mit <objectName ref="zucker">Zucker</objectName> <lb/> und gantzen Zimmet <lb/> sammt wenig Lemoni=Schaalen aufkochen <lb/> so lang als ein Ey kann hart gekocht werden <lb/> nimm geklaubte und zeitige Erdbeer <lb/> und wann du den Safft oder <objectName ref="wein">Wein</objectName> vom <objectName ref="feuer">Feuer</objectName> genommen in den Sud <lb/> schütte die Erdbeer darein <lb/> überschwings etlichmal <lb/> richts an mit kutzer <objectName ref="bruehe">Brühe</objectName> <lb/> nimm den Zimmet darvon <lb/> bestreus vor dem Auftragen mit <objectName ref="zucker">Zucker</objectName> <lb/> gibs warm oder kalter <lb/> aber frisch und kalt seynd sie besser und schöner. </p>
             </div>
         </body>
     </text>

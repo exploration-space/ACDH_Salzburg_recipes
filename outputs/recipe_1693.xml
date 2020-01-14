@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb deckhl, schneits zu zway stukhen, Nembt <lb/> lints gewürz, zugger, geuß ein wenig wein <lb/> daran, bachs nit zuhart. <lb/></p>
+        <p> Nimb deckhl, schneits zu zway stukhen, Nembt <lb/> lints gewürz, zugger, geuß ein wenig <objectName ref="wein">wein</objectName> <lb/> daran, bachs nit zuhart. <lb/> </p>
             </div>
         </body>
     </text>

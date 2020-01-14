@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Item <lb/> laß den Essig ein Nacht oder drey vber Klapperrosen <lb/> oder Graß Blumen stehen <lb/> vn(d) schüt den Essig ab <lb/> so ist er schön rot <lb/> du magst von Kornblumen blaw <lb/> oder von Lauendel <lb/> Roßmarin <lb/> vnd dergleichen wolgeschmackten Essig machen.</p>
+        <p> Item <lb/> laß den <objectName ref="essig">Essig</objectName> ein Nacht oder drey vber Klapperrosen <lb/> oder Graß <objectName ref="blumen">Blumen</objectName> stehen <lb/> vn ( d ) schüt den <objectName ref="essig">Essig</objectName> ab <lb/> so ist er schön rot <lb/> du magst von <objectName ref="kornblumen">Kornblumen</objectName> blaw <lb/> oder von Lauendel <lb/> Roßmarin <lb/> vnd dergleichen wolgeschmackten <objectName ref="essig">Essig</objectName> machen. </p>
             </div>
         </body>
     </text>

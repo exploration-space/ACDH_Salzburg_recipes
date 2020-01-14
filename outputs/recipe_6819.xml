@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Erbsbrüh <lb/> Muscatblüt <lb/> gantzen Pfeffer <lb/> frische Butter <lb/> die vnzerlassen ist <lb/> vnd gesaltzene Limonien <lb/> die fein breit geschnitten seyn <lb/> seudt das miteinander <lb/> so wirdt es gut vnd wolgeschmack. Vnd man kan viel machen von einer Barben <lb/> ist aber nicht ein gesunder Fisch <lb/> vnnd wenn mancher wissen solt <lb/> was er für ein eygenschafft hette <lb/> er esse nicht darvon <lb/> Denn er purgieret sich alle Monat wie ein Weibesbildt.</p>
+        <p> Nim ( m ) Erbsbrüh <lb/> Muscatblüt <lb/> gantzen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> frische <objectName ref="butter">Butter</objectName> <lb/> die vnzerlassen ist <lb/> vnd gesaltzene Limonien <lb/> die fein breit geschnitten seyn <lb/> seudt das miteinander <lb/> so wirdt es gut vnd wolgeschmack. Vnd man kan viel machen von einer <objectName ref="barbe">Barben</objectName> <lb/> ist aber nicht ein gesunder <objectName ref="fisch">Fisch</objectName> <lb/> vnnd wenn mancher wissen solt <lb/> was er für ein eygenschafft hette <lb/> er esse nicht darvon <lb/> Denn er purgieret sich alle Monat wie ein Weibesbildt. </p>
             </div>
         </body>
     </text>

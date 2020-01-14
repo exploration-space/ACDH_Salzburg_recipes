@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>THu eine gute Hand voll ausgekörnte Hüffen oder Hagenbutten in eine halbe Maas Wein <lb/> zuckere dieselbe wol <lb/> und lasse sie eine gute weil miteinander aufsieden; hernach treibs durch einen Seiher <lb/> bähe drey oder vier Semmelschnitten <lb/> richte diese Brühe darüber; stelle es <lb/> in einer zugedeckten Schüssel <lb/> auf eine Glut oder Kohlfeuer <lb/> laß es noch einmal aufsieden <lb/> streue Zucker darauf <lb/> und trage sie also zu Tisch.</p>
+        <p> THu eine gute Hand voll ausgekörnte Hüffen oder Hagenbutten in eine halbe <objectName ref="maas">Maas</objectName> <objectName ref="wein">Wein</objectName> <lb/> zuckere dieselbe wol <lb/> und lasse sie eine gute weil miteinander aufsieden; hernach treibs durch einen <objectName ref="seiher">Seiher</objectName> <lb/> bähe drey oder vier <objectName ref="semmelschnitten">Semmelschnitten</objectName> <lb/> richte diese <objectName ref="bruehe">Brühe</objectName> darüber; stelle es <lb/> in einer zugedeckten <objectName ref="schuessel">Schüssel</objectName> <lb/> auf eine <objectName ref="glut">Glut</objectName> oder Kohlfeuer <lb/> laß es noch einmal aufsieden <lb/> streue <objectName ref="zucker">Zucker</objectName> darauf <lb/> und trage sie also zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

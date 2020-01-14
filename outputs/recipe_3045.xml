@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Man soll 5. Eyerdotter <lb/> und 5. gantze Eyer nehmen <lb/> und gieß süsse obere Milch ein Seidlein daran <lb/> alles wohl durcheinander zerschlagen <lb/> darnach soll man nehmen bey einem Seidlein Schmaltz <lb/> in ein Reinlein <lb/> und wohl lassen heiß werden <lb/> und darein brennen <lb/> 3. Löffelvoll Meel <lb/> das schön ist <lb/> daß fein rerig wird <lb/> alsdann die abgeklopffte Milch darein giesen <lb/> und rühren <lb/> bis sie siedt <lb/> darnach muß mans nicht mehr rühren <lb/> und auf einer Glut zugedeckt sieden lassen <lb/> man muß sehen <lb/> daß fein gantz heraus gehet <lb/> und das Schmaltz darvon seihen <lb/> man mags ein wenig saltzen oder zuckern <lb/> ist beedes gut.</p>
+        <p> Man soll 5. Eyerdotter <lb/> und 5. gantze Eyer nehmen <lb/> und gieß süsse obere <objectName ref="milch">Milch</objectName> ein Seidlein daran <lb/> alles wohl durcheinander zerschlagen <lb/> darnach soll man nehmen bey einem Seidlein Schmaltz <lb/> in ein Reinlein <lb/> und wohl lassen heiß werden <lb/> und darein brennen <lb/> 3. Löffelvoll Meel <lb/> das schön ist <lb/> daß fein rerig wird <lb/> alsdann die abgeklopffte <objectName ref="milch">Milch</objectName> darein giesen <lb/> und rühren <lb/> bis sie siedt <lb/> darnach muß mans nicht mehr rühren <lb/> und auf einer <objectName ref="glut">Glut</objectName> zugedeckt sieden lassen <lb/> man muß sehen <lb/> daß fein gantz heraus gehet <lb/> und das Schmaltz darvon seihen <lb/> man mags ein wenig saltzen oder <objectName ref="zucker">zuckern</objectName> <lb/> ist beedes gut. </p>
             </div>
         </body>
     </text>

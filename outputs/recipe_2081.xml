@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Stosß die Mandl khlein, geuß Rosenwasser dran, das sie nit <lb/> Öellig Werden, den stosß ¾ Mandl Zu einem dorten, Zukher drunder, <lb/> Rosenwasser, aÿrdoter, mach die fühl an, das mans streichen <lb/> khan, nimb lablets Wasser vnd Puter durcheinander, mach ein <lb/> taigl an, als Wie Zu einem ofen. Welg ihn fein din sez ihn <lb/> auf wie ein dorten, thue die fihl drein, nimb drein Rosenwasser, <lb/> Aÿrkhlar vnd Zukher durcheinander, streichs auf den dorten, das <lb/> ein glats Eÿß Wird, so ist er bereith. <lb/></p>
+        <p> Stosß die Mandl khlein, geuß <objectName ref="rosenwasser">Rosenwasser</objectName> dran, das sie nit <lb/> Öellig Werden, den stosß ¾ Mandl Zu einem dorten, Zukher drunder, <lb/> <objectName ref="rosenwasser">Rosenwasser</objectName>, aÿrdoter, mach die fühl an, das mans streichen <lb/> khan, nimb lablets <objectName ref="wasser">Wasser</objectName> vnd Puter durcheinander, mach ein <lb/> taigl an, als Wie Zu einem <objectName ref="ofen">ofen</objectName>. Welg ihn fein din sez ihn <lb/> auf wie ein dorten, thue die fihl drein, nimb drein <objectName ref="rosenwasser">Rosenwasser</objectName>, <lb/> Aÿrkhlar vnd Zukher durcheinander, streichs auf den dorten, das <lb/> ein glats Eÿß Wird, so ist er bereith. <lb/> </p>
             </div>
         </body>
     </text>

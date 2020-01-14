@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim kleine Hecht <lb/> die schön seyn an Schupen <lb/> vn ist es an einem Fleischtage <lb/> so spick jn mit Speck. Wenn das verrichtet <lb/> so seudt jn trucken ab <lb/> geuß darüber Essig <lb/> Pfeffer vnd Butter <lb/> die fein warm ist. Ists aber an einem Fast Tage <lb/> so nim Hausen Blasen <lb/> die wol gesotten <lb/> schneidt sie wie Speck <lb/> vnd spick jn darmit <lb/> seudt jn fein blaw ab <lb/> gib darüber mit Butter ein saure Brüh <lb/> oder lauter Butter <lb/> wie du wilt <lb/> so wirdt man meynen <lb/> er sey mit Speck vnd nicht mit Hausen Blasen gespickt.</p>
+        <p> Nim kleine <objectName ref="hecht">Hecht</objectName> <lb/> die schön seyn an Schupen <lb/> vn ist es an einem Fleischtage <lb/> so spick jn mit <objectName ref="speck">Speck</objectName>. Wenn das verrichtet <lb/> so seudt jn trucken ab <lb/> geuß darüber <objectName ref="essig">Essig</objectName> <lb/> <objectName ref="pfeffer">Pfeffer</objectName> vnd <objectName ref="butter">Butter</objectName> <lb/> die fein warm ist. Ists aber an einem Fast Tage <lb/> so nim Hausen Blasen <lb/> die wol gesotten <lb/> schneidt sie wie <objectName ref="speck">Speck</objectName> <lb/> vnd spick jn darmit <lb/> seudt jn fein blaw ab <lb/> gib darüber mit <objectName ref="butter">Butter</objectName> ein saure Brüh <lb/> oder lauter <objectName ref="butter">Butter</objectName> <lb/> wie du wilt <lb/> so wirdt man meynen <lb/> er sey mit <objectName ref="speck">Speck</objectName> vnd nicht mit Hausen Blasen gespickt. </p>
             </div>
         </body>
     </text>

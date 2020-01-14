@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim Pettersilgen Wurtzel <lb/> geuß ein Erbsbrüh darüber <lb/> vnnd ein wenig gestossen Ingwer <lb/> sampt dem gantzen Pfeffer <lb/> vnd ein wenig Muscatenblüt vnd eyngebrennt Mehl <lb/> auch ein frische Butter <lb/> die vngeschmältzt ist <lb/> laß das miteinander sieden. Du kanst auch darzu nemmen ein Spenat <lb/> der fein gequellt ist <lb/> so wirdt es gut vnnd wolgeschmack. Du magst es säurlich machen oder nicht. Hastu kein Erbsbrüh <lb/> so schneidt Pettersilgen Wurtzel <lb/> setz sie mit einem Wasser auff <lb/> schneidt Zwibeln klein darein <lb/> laß darmit sieden <lb/> so wirstu ein gute Brüh haben vber die Foren.</p>
+        <p> Nim Pettersilgen Wurtzel <lb/> geuß ein Erbsbrüh darüber <lb/> vnnd ein wenig gestossen <objectName ref="ingwer">Ingwer</objectName> <lb/> sampt dem gantzen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> vnd ein wenig Muscatenblüt vnd eyngebrennt <objectName ref="mehl">Mehl</objectName> <lb/> auch ein frische <objectName ref="butter">Butter</objectName> <lb/> die vngeschmältzt ist <lb/> laß das miteinander sieden. Du kanst auch darzu nemmen ein Spenat <lb/> der fein gequellt ist <lb/> so wirdt es gut vnnd wolgeschmack. Du magst es säurlich machen oder nicht. Hastu kein Erbsbrüh <lb/> so schneidt Pettersilgen Wurtzel <lb/> setz sie mit einem <objectName ref="wasser">Wasser</objectName> auff <lb/> schneidt Zwibeln klein darein <lb/> laß darmit sieden <lb/> so wirstu ein gute Brüh haben vber die Foren. </p>
             </div>
         </body>
     </text>

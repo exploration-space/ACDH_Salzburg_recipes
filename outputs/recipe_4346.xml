@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Das Hirn solle gesotten <lb/> gesäubert <lb/> und mit Eyern <lb/> Semmel= Bröslein <lb/> und kleinen Petersil= Kräutlein <lb/> Gewürtz und nothwendigem Saltz gehackt <lb/> und auf die Semmel= Schnitten aufgestrichen <lb/> in Eyern umgekehrt <lb/> und in Schmaltz gebachen werden <lb/> mit grünen ausgebachenen Kräutern.</p>
+        <p> Das <objectName ref="hirn">Hirn</objectName> solle gesotten <lb/> gesäubert <lb/> und mit Eyern <lb/> Semmel= Bröslein <lb/> und kleinen Petersil= Kräutlein <lb/> Gewürtz und nothwendigem Saltz gehackt <lb/> und auf die Semmel= Schnitten aufgestrichen <lb/> in Eyern umgekehrt <lb/> und in Schmaltz gebachen werden <lb/> mit grünen ausgebachenen <objectName ref="kraeuter">Kräutern</objectName>. </p>
             </div>
         </body>
     </text>

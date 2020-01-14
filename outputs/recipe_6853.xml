@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Indianische Hennen gespickt mit Zimmet vnd Neglein <lb/> treib darzu ein Pasteten auff mit einem Ruckenteig <lb/> vnd leg den Indianischen Han hinein <lb/> besträw jn wol mit Pfeffer <lb/> Neglein vn(d) Saltz <lb/> schneidt Speck fein dünne vnd breit <lb/> vnd beleg den Han in der Pasteten damit <lb/> daß du jhn nicht spicken darffst <lb/> machs zu <lb/> vnd scheubs in Ofen <lb/> laß backen <lb/> vnd kalt werden <lb/> so wirt es auch gut.</p>
+        <p> Indianische Hennen gespickt mit Zimmet vnd Neglein <lb/> treib darzu ein <objectName ref="pastete">Pasteten</objectName> auff mit einem Ruckenteig <lb/> vnd leg den Indianischen Han hinein <lb/> besträw jn wol mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Neglein vn ( d ) Saltz <lb/> schneidt <objectName ref="speck">Speck</objectName> fein dünne vnd breit <lb/> vnd beleg den Han in der <objectName ref="pastete">Pasteten</objectName> damit <lb/> daß du jhn nicht spicken darffst <lb/> machs zu <lb/> vnd scheubs in <objectName ref="ofen">Ofen</objectName> <lb/> laß backen <lb/> vnd kalt werden <lb/> so wirt es auch gut. </p>
             </div>
         </body>
     </text>

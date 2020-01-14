@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Hering <lb/> vnd schneidt sie voneinander <lb/> wirff sie in heisse Butter <lb/> vn(d) rößts geschwindt auß <lb/> streichs mit guter Erbeßbrüh durch <lb/> pfeffers vnd gelbs <lb/> thu Saltz vnd Butter darein <lb/> vnd laß damit auffsieden <lb/> thu die Milch also gantz vom Hering darein <lb/> vnd laß gemach sieden. Thu auch grüne Kräuter <lb/> die klein gehackt seyn <lb/> darein <lb/> so wirdt es gut vnd wolgeschmack. Vnd man nennet es ein Heringsuppen.</p>
+        <p> Nim ( m ) <objectName ref="hering">Hering</objectName> <lb/> vnd schneidt sie voneinander <lb/> wirff sie in heisse <objectName ref="butter">Butter</objectName> <lb/> vn ( d ) rößts geschwindt auß <lb/> streichs mit guter Erbeßbrüh durch <lb/> pfeffers vnd gelbs <lb/> thu Saltz vnd <objectName ref="butter">Butter</objectName> darein <lb/> vnd laß damit auffsieden <lb/> thu die <objectName ref="milch">Milch</objectName> also gantz vom <objectName ref="hering">Hering</objectName> darein <lb/> vnd laß gemach sieden. Thu auch grüne <objectName ref="kraeuter">Kräuter</objectName> <lb/> die klein gehackt seyn <lb/> darein <lb/> so wirdt es gut vnd wolgeschmack. Vnd man nennet es ein Heringsuppen. </p>
             </div>
         </body>
     </text>

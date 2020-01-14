@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb die khoppen, geuß ein Essig drüber, das sie sich <lb/> darinen ganz abschlagen, Salzs, schits in ein pfan sied= <lb/> endes Wasser, so sie sich beÿ dem khopf aufthuen, oder <lb/> der Rukhen hört Wird, so haben sie genug. <lb/></p>
+        <p> Nimb die khoppen, geuß ein <objectName ref="essig">Essig</objectName> drüber, das sie sich <lb/> darinen ganz abschlagen, Salzs, schits in ein pfan sied= <lb/> endes <objectName ref="wasser">Wasser</objectName>, so sie sich beÿ dem khopf aufthuen, oder <lb/> der Rukhen hört Wird, so haben sie genug. <lb/> </p>
             </div>
         </body>
     </text>

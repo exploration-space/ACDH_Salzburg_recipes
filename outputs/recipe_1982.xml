@@ -175,11 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein oblat, vnd legs auf ein saubers Papier, thue den <lb/> taig herauß mit einem löfl auf das oblat, vnd machs <lb/> eines fingers lang, scheub es flux in einen Warmen <lb/> ofen, so Wird es fein aufflauffen, vnd Wens khalt wird, <lb/> so ist es also mirb, das einem im Maull Zergeht, vnd man nenet es Von lauter Zukher Pißcaten, vnd Wen du sie <lb/> Wilt braun haben, so nimb gestossnen Zimet drunder, du <lb/> khanst auch solche Pißcaten machen von lauter Aÿrdoter, so sein sie auch guet vnd mirb. <lb/>
-
-Nimb ein oblat vnd geribne Mandl, die mit Rosenwasser <lb/> angemacht sein, streichs auf das oblat, schneid es, nach der <lb/> oblat leng eines fingers brait, khrimp es fein Wie hobel <lb/> sein, vnd scheubs in ofen, der nit Zu haiß ist, vnd laß <lb/> trukhen Werden, also macht man die hoblschniden von <lb/> mandl. <lb/>
-
-Nimb mell vnd für vier doter, vnd ein wenig Zukher <lb/> darunder, mach khnödl drauß, vnd bachs auß haissen <lb/> buter fein langsamb, das es sich fein außbächt, gibs <lb/> trukhen oder in einer brüe auf ein tisch. <lb/></p>
+        <p> Nimb ein oblat, vnd legs auf ein saubers <objectName ref="papier">Papier</objectName>, thue den <lb/> taig herauß mit einem löfl auf das oblat, vnd machs <lb/> eines fingers lang, scheub es flux in einen Warmen <lb/> <objectName ref="ofen">ofen</objectName>, so Wird es fein aufflauffen, vnd Wens khalt wird, <lb/> so ist es also mirb, das einem im Maull Zergeht, vnd man nenet es Von lauter Zukher Pißcaten, vnd Wen du sie <lb/> Wilt braun haben, so nimb gestossnen Zimet drunder, du <lb/> khanst auch solche Pißcaten machen von lauter Aÿrdoter, so sein sie auch guet vnd mirb. <lb/> Nimb ein oblat vnd geribne Mandl, die mit <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> angemacht sein, streichs auf das oblat, schneid es, nach der <lb/> oblat leng eines fingers brait, khrimp es fein Wie hobel <lb/> sein, vnd scheubs in <objectName ref="ofen">ofen</objectName>, der nit Zu haiß ist, vnd laß <lb/> trukhen Werden, also macht man die hoblschniden von <lb/> mandl. <lb/> Nimb mell vnd für vier doter, vnd ein wenig Zukher <lb/> darunder, mach khnödl drauß, vnd bachs auß haissen <lb/> buter fein langsamb, das es sich fein außbächt, gibs <lb/> trukhen oder in einer brüe auf ein <objectName ref="tisch">tisch</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

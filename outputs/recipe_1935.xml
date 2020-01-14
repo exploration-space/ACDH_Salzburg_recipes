@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wan der schlegl an die stat gebraten ist, so nimb ein rind= <lb/> suppen, vnd seur es mit gueten Essig, aber nit Zuuill, <lb/> schneid Zwaÿ Zwiflhaubt rund, röst es im schmalz, vnd schit es <lb/> in das Süpl, pfeffer es ein wenig, Zuggers, aber das der <lb/> Essig für schlegt, vnd laß es Sieden, geuß ÿber den Schlëgl, <lb/> gibs also. <lb/></p>
+        <p> Wan der schlegl an die stat gebraten ist, so nimb ein rind= <lb/> <objectName ref="suppe">suppen</objectName>, vnd seur es mit gueten <objectName ref="essig">Essig</objectName>, aber nit Zuuill, <lb/> schneid Zwaÿ Zwiflhaubt rund, röst es im <objectName ref="schmalz">schmalz</objectName>, vnd schit es <lb/> in das Süpl, <objectName ref="pfeffer">pfeffer</objectName> es ein wenig, Zuggers, aber das der <lb/> <objectName ref="essig">Essig</objectName> für schlegt, vnd laß es Sieden, geuß ÿber den Schlëgl, <lb/> gibs also. <lb/> </p>
             </div>
         </body>
     </text>

@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Seudt jn am ersten <lb/> schneidt jn darnach zu stücken <lb/> steck jn an einen Spieß <lb/> vnd brat jn <lb/> laß in kalt werden <lb/> vnd wenn du jn anrichtest <lb/> so gib ein grüne Salsen darzu <lb/> so ist es auch gut.</p>
+        <p> Seudt jn am ersten <lb/> schneidt jn darnach zu stücken <lb/> steck jn an einen <objectName ref="spiess">Spieß</objectName> <lb/> vnd brat jn <lb/> laß in kalt werden <lb/> vnd wenn du jn anrichtest <lb/> so gib ein grüne Salsen darzu <lb/> so ist es auch gut. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WEichsel Salsen<lb/> wenn sie dick gesotten <lb/> so zerleßt man sie mit Wein vnd Zucker <lb/> besträwt es mit Driet <lb/> so ist es gut vn wol geschmack.</p>
+        <p> WEichsel Salsen/ wenn sie dick gesotten <lb/> so zerleßt man sie mit <objectName ref="wein">Wein</objectName> vnd <objectName ref="zucker">Zucker</objectName> <lb/> besträwt es mit Driet <lb/> so ist es gut vn wol geschmack. </p>
             </div>
         </body>
     </text>

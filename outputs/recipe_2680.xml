@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZUpffet die Amarelln von den Stielen <lb/> waschet sie sauber <lb/> giesset in einem stollichten Häfelein einen guten Wein daran <lb/> lassets sieden <lb/> biß sie ein wenig weich werden <lb/> thut Zucker und Trisanet darein <lb/> und richtets über das Gebratens; oder aber man kan auch diese Brüh etwas dicklicht machen <lb/> und ein gut theil Amarelln <lb/> mit einem Stuck Dotter= oder Zucker= Brod <lb/> im Wein sieden <lb/> biß sie gantz weich werden <lb/> dann durchzwingen <lb/> und wieder frische Amarelln in dieser Brüh aufsieden lassen <lb/> Zucker und Trisanet darein streuen <lb/> und über das Gebratene richten.</p>
+        <p> ZUpffet die Amarelln von den Stielen <lb/> waschet sie sauber <lb/> giesset in einem stollichten <objectName ref="haefelein">Häfelein</objectName> einen guten <objectName ref="wein">Wein</objectName> daran <lb/> lassets sieden <lb/> biß sie ein wenig weich werden <lb/> thut <objectName ref="zucker">Zucker</objectName> und Trisanet darein <lb/> und richtets über das Gebratens; oder aber man kan auch diese Brüh etwas dicklicht machen <lb/> und ein gut theil Amarelln <lb/> mit einem Stuck Dotter= oder Zucker= Brod <lb/> im <objectName ref="wein">Wein</objectName> sieden <lb/> biß sie gantz weich werden <lb/> dann durchzwingen <lb/> und wieder frische Amarelln in dieser Brüh aufsieden lassen <lb/> <objectName ref="zucker">Zucker</objectName> und Trisanet darein streuen <lb/> und über das Gebratene richten. </p>
             </div>
         </body>
     </text>

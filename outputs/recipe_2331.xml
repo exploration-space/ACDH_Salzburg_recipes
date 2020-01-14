@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb rogges brot, schneids gewürfflet, rests im schmalz, thue es auf ein schißl, <lb/> laß etlich brokhen in der pfan, gieß darin Wasser vnd Salz, laß sieden, <lb/> vnd gieß als miteinander an die brokhen in die schißl, ist bereith. <lb/></p>
+        <p> Nimb rogges <objectName ref="brot">brot</objectName>, schneids gewürfflet, rests im <objectName ref="schmalz">schmalz</objectName>, thue es auf ein schißl, <lb/> laß etlich brokhen in der pfan, gieß darin <objectName ref="wasser">Wasser</objectName> vnd <objectName ref="salz">Salz</objectName>, laß sieden, <lb/> vnd gieß als miteinander an die brokhen in die schißl, ist bereith. <lb/> </p>
             </div>
         </body>
     </text>

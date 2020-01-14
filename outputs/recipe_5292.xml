@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Höl die Epffel auß <lb/> thu Zimmet vnd Zucker durcheinander darein <lb/> thu sie in ein Turtenpfannen <lb/> oder scheubs in einem heissen Ofen <lb/> vnd brat es <lb/> thu darein frische Butter <lb/> oder Zuckerkandel <lb/> gibs warm auff ein Tisch <lb/> vnd besträw es mit Zucker.</p>
+        <p> Höl die Epffel auß <lb/> thu Zimmet vnd <objectName ref="zucker">Zucker</objectName> durcheinander darein <lb/> thu sie in ein Turtenpfannen <lb/> oder scheubs in einem heissen <objectName ref="ofen">Ofen</objectName> <lb/> vnd brat es <lb/> thu darein frische <objectName ref="butter">Butter</objectName> <lb/> oder Zuckerkandel <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> vnd besträw es mit <objectName ref="zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

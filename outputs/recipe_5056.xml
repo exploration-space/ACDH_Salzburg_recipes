@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm nach Geduncken süssen Ram <lb/> ein wenig Fein= Meel <lb/> Zucker <lb/> und gantzen Zimmet <lb/> Lemoni= Schaalen <lb/> mit etlichen Nägelein besteckt <lb/> Rosen= Wasser <lb/> dann rühre dises mit so viel Eyerdottern ab <lb/> setze es mit stetem Rühren auf eine starcke Glut <lb/> oder Wind= Ofen <lb/> biß anfangt zu sieden <lb/> und ein feines Köchlein gibt ; laß nicht starck zusammen gehen <lb/> und treibs durch ein Sieblein in eine Schüssel ; dises ist eine gute Füll <lb/> in alle Dorten <lb/> dünn von Taig <lb/> doch ohne Ausschnitt.</p>
+        <p> Nimm nach Geduncken süssen Ram <lb/> ein wenig Fein= Meel <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> und gantzen Zimmet <lb/> Lemoni= Schaalen <lb/> mit etlichen Nägelein besteckt <lb/> Rosen= <objectName ref="wasser">Wasser</objectName> <lb/> dann rühre dises mit so viel Eyerdottern ab <lb/> setze es mit stetem Rühren auf eine starcke <objectName ref="glut">Glut</objectName> <lb/> oder Wind= <objectName ref="ofen">Ofen</objectName> <lb/> biß anfangt zu sieden <lb/> und ein feines Köchlein gibt; laß nicht starck zusammen gehen <lb/> und treibs durch ein Sieblein in eine <objectName ref="schuessel">Schüssel</objectName>; dises ist eine gute Füll <lb/> in alle Dorten <lb/> dünn von Taig <lb/> doch ohne Ausschnitt. </p>
             </div>
         </body>
     </text>

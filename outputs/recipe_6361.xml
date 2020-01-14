@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Oder rößts auß Butter <lb/> daß resch ist <lb/> gibst trucken auff ein Tisch <lb/> besträw es mit weissem Zucker <lb/> daß warm auff ein Tisch kompt.</p>
+        <p> Oder rößts auß <objectName ref="butter">Butter</objectName> <lb/> daß resch ist <lb/> gibst trucken auff ein <objectName ref="tisch">Tisch</objectName> <lb/> besträw es mit weissem <objectName ref="zucker">Zucker</objectName> <lb/> daß warm auff ein <objectName ref="tisch">Tisch</objectName> kompt. </p>
             </div>
         </body>
     </text>

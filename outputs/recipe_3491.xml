@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SArdellen und Zoia seynd zweyerley Fischlein <lb/> die man in dem Garzer fangt <lb/> seynd köstlich <lb/> frisch abgesotten <lb/> auch wie die Grundeln gesotten und eingemacht <lb/> oder auch gesaltzen <lb/> und auf dem Rost <lb/> oder in mit Butter <lb/> oder Oel beschmierten Papier gebraten <lb/> sie seynd auch gut aus Schmaltz <lb/> oder Oel gebachen.</p>
+        <p> <objectName ref="sardellen">SArdellen</objectName> und Zoia seynd zweyerley Fischlein <lb/> die man in dem <objectName ref="garzer">Garzer</objectName> fangt <lb/> seynd köstlich <lb/> frisch abgesotten <lb/> auch wie die Grundeln gesotten und eingemacht <lb/> oder auch gesaltzen <lb/> und auf dem <objectName ref="rost">Rost</objectName> <lb/> oder in mit <objectName ref="butter">Butter</objectName> <lb/> oder Oel beschmierten <objectName ref="papier">Papier</objectName> gebraten <lb/> sie seynd auch gut aus Schmaltz <lb/> oder Oel gebachen. </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nembt den Schönesten zugger, last in woll <lb/> stosßen, d(a)s er klein werde wie ain Meell, Nembt <lb/> darnach den Gumy tragant, der zuuor .24: <lb/> stundt in Roßenwasser gewaikht ist, Nembt <lb/> daruon alß vill Ir wölt, riert den tragant <lb/> woll vmb mit ainen Stempfl, thuet alß dan <lb/> gestossenen zugger darein, biß ain taig dar= <lb/> =auß wiert, vnd Ir es in Modl truckhn khönt, <lb/> Wan Ir aines oder .6. getrukht, so thuets auf <lb/> ain papier, d(a)s mit Crafft meell besprengt <lb/> ist, vnd thuets in ain Turten Pfan, da feüer <lb/> vndten vnd oben ist, vnd mues gar ain wenig <lb/> sein, oben etwas mehr, laß es also biß es <lb/> aufgelaffen ist, darnach Nembts vnd <lb/> khönts vergulten lasßen. <lb/><lb/> (51r)</p>
+        <p> Nembt den Schönesten zugger, last in woll <lb/> stosßen, d ( a ) s er klein werde wie ain Meell, Nembt <lb/> darnach den Gumy <objectName ref="tragant">tragant</objectName>, der zuuor.24 : <lb/> stundt in Roßenwasser gewaikht ist, Nembt <lb/> daruon alß vill Ir wölt, riert den <objectName ref="tragant">tragant</objectName> <lb/> woll vmb mit ainen Stempfl, thuet alß dan <lb/> gestossenen zugger darein, biß ain taig dar= <lb/> =auß wiert, vnd Ir es in Modl truckhn khönt, <lb/> Wan Ir aines oder.6. getrukht, so thuets auf <lb/> ain <objectName ref="papier">papier</objectName>, d ( a ) s mit Crafft meell besprengt <lb/> ist, vnd thuets in ain Turten Pfan, da feüer <lb/> vndten vnd oben ist, vnd mues gar ain wenig <lb/> sein, oben etwas mehr, laß es also biß es <lb/> aufgelaffen ist, darnach Nembts vnd <lb/> khönts vergulten lasßen. <lb/><lb/> ( 51r ) </p>
             </div>
         </body>
     </text>

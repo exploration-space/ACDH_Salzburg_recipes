@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Pomerantzen <lb/> an einem gantzen weissen Zuckerhut die Schelffen abgerieben <lb/> nimm diese Schelffen mit dem abgeschabenen gelben Zucker <lb/> den ausgedruckten Safft ohne Kerner mit gutem Wein vermischter <lb/> mit Semmel=Brosen und klein=gestossenen Mandeln <lb/> und wenigen Zimmet angemacht <lb/> mit Butter und Eyern abgetrieben <lb/> gibt ein köstliches Schüssel=Koch.</p>
+        <p> Pomerantzen <lb/> an einem gantzen weissen <objectName ref="zuckerhut">Zuckerhut</objectName> die Schelffen abgerieben <lb/> nimm diese Schelffen mit dem abgeschabenen gelben <objectName ref="zucker">Zucker</objectName> <lb/> den ausgedruckten Safft ohne Kerner mit gutem <objectName ref="wein">Wein</objectName> vermischter <lb/> mit Semmel=Brosen und klein=gestossenen <objectName ref="mandeln">Mandeln</objectName> <lb/> und wenigen Zimmet angemacht <lb/> mit <objectName ref="butter">Butter</objectName> und Eyern abgetrieben <lb/> gibt ein köstliches Schüssel=Koch. </p>
             </div>
         </body>
     </text>

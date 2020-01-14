@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ETliche machen aus disem Safft <lb/> oder durchgetriebener Milch <lb/> einen Eyerschotten <lb/> und rührends auch <lb/> sammt der Semmel darein <lb/> und lassens <lb/> wie es an sich selbst ist <lb/> oder machen es süß <lb/> oder an statt des Zuckers <lb/> mit geriebenen Parmesan=Käß; und auf dise Weiß <lb/> macht man aufgangene Müser von Spanischen auch andern guten roth=und andern Wein <lb/> auch von allerhand Säfften und Salsen: Allein die aufgeloffene und fäumende Müser werden anderst gemacht und eingericht.</p>
+        <p> ETliche machen aus disem Safft <lb/> oder durchgetriebener <objectName ref="milch">Milch</objectName> <lb/> einen Eyerschotten <lb/> und rührends auch <lb/> sammt der Semmel darein <lb/> und lassens <lb/> wie es an sich selbst ist <lb/> oder machen es süß <lb/> oder an statt des Zuckers <lb/> mit geriebenen Parmesan=Käß; und auf dise Weiß <lb/> macht man aufgangene Müser von Spanischen auch andern guten roth=und andern <objectName ref="wein">Wein</objectName> <lb/> auch von allerhand Säfften und Salsen : Allein die aufgeloffene und fäumende Müser werden anderst gemacht und eingericht. </p>
             </div>
         </body>
     </text>

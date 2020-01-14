@@ -172,9 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schab den Merrettich rein <lb/> vnd schneidt jn fein sauber <lb/> thu ein wenig Mandeln darzu <lb/> vnd reibs in einem Reibscherben miteinander. Thu es in einen Hafen oder vberzinten Fischkessel <lb/> vnnd laß den Merrettich mit einer guten Hennen oder Rindtfleischbrüh auffsieden <lb/> so wirdt es weiß <lb/> vnnd thu Rindtfeißt darein <lb/> so wirdt es wolgeschmack darvon. Vnd wenn die Zungen gesotten ist vn(d) auß geseubert <lb/> so schneidt sie von einander <lb/> vnnd thu sie in die Rindtfleischbrüh <lb/> so bleibt es warm. Vnd wenn du es wilt anrichten <lb/> so richt den Merrettich am ersten an <lb/> leg die Zungen darein <lb/> vnnd begeuß mit einem Rindtfeißt <lb/> vnd versaltz es nicht <lb/> so ist es zierlich <lb/> gut vnd wolgeschmack.
-
-</p>
+        <p> Schab den Merrettich <objectName ref="rein">rein</objectName> <lb/> vnd schneidt jn fein sauber <lb/> thu ein wenig <objectName ref="mandeln">Mandeln</objectName> darzu <lb/> vnd reibs in einem <objectName ref="reibscherben">Reibscherben</objectName> miteinander. Thu es in einen <objectName ref="hafen">Hafen</objectName> oder vberzinten <objectName ref="fischkessel">Fischkessel</objectName> <lb/> vnnd laß den Merrettich mit einer guten Hennen oder Rindtfleischbrüh auffsieden <lb/> so wirdt es weiß <lb/> vnnd thu Rindtfeißt darein <lb/> so wirdt es wolgeschmack darvon. Vnd wenn die <objectName ref="zunge">Zungen</objectName> gesotten ist vn ( d ) auß geseubert <lb/> so schneidt sie von einander <lb/> vnnd thu sie in die Rindtfleischbrüh <lb/> so bleibt es warm. Vnd wenn du es wilt anrichten <lb/> so richt den Merrettich am ersten an <lb/> leg die <objectName ref="zunge">Zungen</objectName> darein <lb/> vnnd begeuß mit einem Rindtfeißt <lb/> vnd versaltz es nicht <lb/> so ist es zierlich <lb/> gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

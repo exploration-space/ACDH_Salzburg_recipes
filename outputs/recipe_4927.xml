@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAschet die Schweinene Miltzlein <lb/> lasset sie im Wasser <lb/> oder halb Wasser und Fleischbrüh <lb/> nur ein wenig absieden oder schüpffen <lb/> nehments dann aus der Brüh wieder heraus <lb/> saltzets und pfefferts <lb/> legets auf einen Rost <lb/> schmierets überal fein fleißig mit Butter <lb/> und bratet es also schön safftig ab.</p>
+        <p> WAschet die Schweinene Miltzlein <lb/> lasset sie im <objectName ref="wasser">Wasser</objectName> <lb/> oder halb <objectName ref="wasser">Wasser</objectName> und Fleischbrüh <lb/> nur ein wenig absieden oder schüpffen <lb/> nehments dann aus der Brüh wieder heraus <lb/> saltzets und pfefferts <lb/> legets auf einen <objectName ref="rost">Rost</objectName> <lb/> schmierets überal fein fleißig mit <objectName ref="butter">Butter</objectName> <lb/> und bratet es also schön safftig ab. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Zu diesem nimm eine gute halbe Milch <lb/> vier Eyerdotter <lb/> sprittle es wol untereinander ab <lb/> laß in einem Pfändlein einen Butter zergehen <lb/> gieß ihn darein <lb/> darnach nimm so viel Grieß als Milch begehrt <lb/> rührs darein <lb/> daß es in der Dicken wird als ein Koch <lb/> laß in einer Rein ein Schmaltz heiß werde <lb/> schütt es darein <lb/> kochs auf einem Glütlein herab <lb/> also ist es recht <lb/> wanns beliebt <lb/> so zuckere es.</p>
+        <p> Zu diesem nimm eine gute halbe <objectName ref="milch">Milch</objectName> <lb/> vier Eyerdotter <lb/> sprittle es wol untereinander ab <lb/> laß in einem Pfändlein einen <objectName ref="butter">Butter</objectName> zergehen <lb/> gieß ihn darein <lb/> darnach nimm so viel <objectName ref="griess">Grieß</objectName> als <objectName ref="milch">Milch</objectName> begehrt <lb/> rührs darein <lb/> daß es in der Dicken wird als ein Koch <lb/> laß in einer <objectName ref="rein">Rein</objectName> ein Schmaltz heiß werde <lb/> schütt es darein <lb/> kochs auf einem Glütlein herab <lb/> also ist es recht <lb/> wanns beliebt <lb/> so zuckere es. </p>
             </div>
         </body>
     </text>

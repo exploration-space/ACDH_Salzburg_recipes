@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Gelb eyngemacht mit Limonien. Vberreck das Fleisch <lb/> vn(n) säubers auß <lb/> nim(m) Wasser vnnd Essig <lb/> setz es damit zu (denn du findest nicht vberal Wein <lb/> vnd danck du Gott <lb/> daß du Essig hast) mach es ab mit Saffran vnd Pfeffer <lb/> laß mit den Limonien sieden <lb/> vnd brenn Mehl darein <lb/> oder streich ein Weck durch mit einer Brüh <lb/> in welcher das Fleisch gesotten hat <lb/> so wirt es dick vnd wolgeschmack.</p>
+        <p> Gelb eyngemacht mit Limonien. Vberreck das <objectName ref="fleisch">Fleisch</objectName> <lb/> vn ( n ) säubers auß <lb/> nim ( m ) <objectName ref="wasser">Wasser</objectName> vnnd <objectName ref="essig">Essig</objectName> <lb/> setz es damit zu ( denn du findest nicht vberal <objectName ref="wein">Wein</objectName> <lb/> vnd danck du Gott <lb/> daß du <objectName ref="essig">Essig</objectName> hast ) mach es ab mit Saffran vnd <objectName ref="pfeffer">Pfeffer</objectName> <lb/> laß mit den Limonien sieden <lb/> vnd brenn <objectName ref="mehl">Mehl</objectName> darein <lb/> oder streich ein Weck durch mit einer Brüh <lb/> in welcher das <objectName ref="fleisch">Fleisch</objectName> gesotten hat <lb/> so wirt es dick vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

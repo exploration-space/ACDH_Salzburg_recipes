@@ -171,9 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) die Vögel <lb/> vnd quell sie wol <lb/> vnnd säuber sie auß <lb/> geuß darüber ein gute Rindtfleischbrüh <lb/> auch Muscatenblüt <lb/> vnnd ein wenig eyngebrennt Mehl <lb/> vnnd Pettersilgen Wurtzel <lb/> fein klein geschnitten <lb/> Laß das miteinander sieden <lb/> thu frische vngeschmältzte Butter darein <lb/> vnd laß darmit ein starcken Sudt auffthun <lb/> so wirt es weiß vnnd wolgeschmack von der Butter. Vnnd solche Speiß magstu saur machen <lb/> oder süß lassen. Auch mit Limonien eyngemacht <lb/> daß weiß vnd saur bleibt <lb/> ist es gut vnd wolgeschmack.
-
-</p>
+        <p> Nim ( m ) die <objectName ref="voegel">Vögel</objectName> <lb/> vnd quell sie wol <lb/> vnnd säuber sie auß <lb/> geuß darüber ein gute Rindtfleischbrüh <lb/> auch Muscatenblüt <lb/> vnnd ein wenig eyngebrennt <objectName ref="mehl">Mehl</objectName> <lb/> vnnd Pettersilgen Wurtzel <lb/> fein klein geschnitten <lb/> Laß das miteinander sieden <lb/> thu frische vngeschmältzte <objectName ref="butter">Butter</objectName> darein <lb/> vnd laß darmit ein starcken Sudt auffthun <lb/> so wirt es weiß vnnd wolgeschmack von der <objectName ref="butter">Butter</objectName>. Vnnd solche Speiß magstu saur machen <lb/> oder süß lassen. Auch mit Limonien eyngemacht <lb/> daß weiß vnd saur bleibt <lb/> ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schneid saure Aepffel zu Spältlein <lb/> kehre sie in Meel um <lb/> und bachs im Schmaltz <lb/> darnach klein hacken <lb/> 3. Eyer und eine Obere Milch daran rühren <lb/> auch ein wenig geriebne Semmel <lb/> Zucker und Zimmet darzu thun <lb/> darnach in einen Reindl ein wenig Schmaltz lassen heiß werden <lb/> das Koch darein schütten <lb/> unten und oben Glut.</p>
+        <p> Schneid saure Aepffel zu Spältlein <lb/> kehre sie in Meel um <lb/> und bachs im Schmaltz <lb/> darnach klein hacken <lb/> 3. Eyer und eine Obere <objectName ref="milch">Milch</objectName> daran rühren <lb/> auch ein wenig geriebne Semmel <lb/> <objectName ref="zucker">Zucker</objectName> und Zimmet darzu thun <lb/> darnach in einen Reindl ein wenig Schmaltz lassen heiß werden <lb/> das Koch darein schütten <lb/> unten und oben <objectName ref="glut">Glut</objectName>. </p>
             </div>
         </body>
     </text>

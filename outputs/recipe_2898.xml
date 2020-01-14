@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIese seynd gut vor die Krancke <lb/> wann sie gebrüht <lb/> dann mit Butter und Muscatnuß gleich dem Spinat zugericht werden.</p>
+        <p> DIese seynd gut vor die Krancke <lb/> wann sie gebrüht <lb/> dann mit <objectName ref="butter">Butter</objectName> und Muscatnuß gleich dem <objectName ref="spinat">Spinat</objectName> zugericht werden. </p>
             </div>
         </body>
     </text>

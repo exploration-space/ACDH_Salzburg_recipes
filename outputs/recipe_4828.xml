@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm die Krebse so viel du wilt <lb/> siede sie ab <lb/> wie sonsten <lb/> schähle die Schwäntze und Scheeren heraus <lb/> hacke sie klein; röste ein Eyerbrod in Butter <lb/> mische es zusamt ein wenig ungeröstetes Brod auch darunter <lb/> schlage Eyer daran <lb/> würtze es mit Cardamomen und Muscaten= Blüh <lb/> rühre es unter einander <lb/> formire kleine Knötlein daraus <lb/> legs auch in eine Fleischbrüh <lb/> und siede sie wie die obigen.</p>
+        <p> NImm die <objectName ref="krebse">Krebse</objectName> so viel du wilt <lb/> siede sie ab <lb/> wie sonsten <lb/> schähle die Schwäntze und Scheeren heraus <lb/> hacke sie klein; röste ein Eyerbrod in <objectName ref="butter">Butter</objectName> <lb/> mische es zusamt ein wenig ungeröstetes Brod auch darunter <lb/> schlage Eyer daran <lb/> würtze es mit Cardamomen und Muscaten= Blüh <lb/> rühre es unter einander <lb/> formire kleine Knötlein daraus <lb/> legs auch in eine Fleischbrüh <lb/> und siede sie wie die obigen. </p>
             </div>
         </body>
     </text>

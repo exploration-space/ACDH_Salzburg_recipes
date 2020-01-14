@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES wird der Lachs <lb/> oder Rhein= Salm heiß abgesotten <lb/> mit wenig Knoblauch <lb/> oder Zwibeln <lb/> Rosmarin <lb/> Gewürtz <lb/> Eßig <lb/> Oel <lb/> Capry und Lemoni warmer gegeben.</p>
+        <p> ES wird der <objectName ref="lachs">Lachs</objectName> <lb/> oder Rhein= Salm heiß abgesotten <lb/> mit wenig <objectName ref="knoblauch">Knoblauch</objectName> <lb/> oder Zwibeln <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> Gewürtz <lb/> Eßig <lb/> Oel <lb/> Capry und Lemoni warmer gegeben. </p>
             </div>
         </body>
     </text>

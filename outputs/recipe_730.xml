@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb .3. tt agresta. oder 5. Vnzeitig wein,, <lb/> hör trauben zu ein Bouch: wasßer zerstosßen <lb/> selbe woll in ein steinen merscher wie <lb/> oben, laß den auß gedruckhten safft durch <lb/><lb/> ein hartuech gehen nimb darzue .5. l. <lb/> oder waß mehrer zkher Pißamb amber w: blt <lb/> auch eni wenig roßen wasßer gieß ins ge,, <lb/> schier vnd laß kalt oder gefrührn. oder wol dikh. <lb/> daß gschier mueß von dinen Plöch sein <lb/> zum gefrürn alß dan Eiß. <lb/></p>
+        <p> Nimb.3. tt agresta. oder 5. Vnzeitig <objectName ref="wein">wein</objectName>,, <lb/> hör trauben zu ein Bouch : wasßer zerstosßen <lb/> selbe woll in ein steinen merscher wie <lb/> oben, laß den auß gedruckhten safft durch <lb/><lb/> ein hartuech gehen nimb darzue.5. l. <lb/> oder waß mehrer zkher Pißamb <objectName ref="amber">amber</objectName> w : blt <lb/> auch eni wenig roßen wasßer gieß ins ge,, <lb/> schier vnd laß kalt oder gefrührn. oder wol dikh. <lb/> daß gschier mueß von dinen Plöch sein <lb/> zum gefrürn alß dan Eiß. <lb/> </p>
             </div>
         </body>
     </text>

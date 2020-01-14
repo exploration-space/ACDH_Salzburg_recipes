@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn die Kalbs= Miltzlein gewässert <lb/> und sauber gewaschen sind <lb/> setzet sie in halb Wasser und halb Fleischbrüh zu <lb/> saltzets ein wenig <lb/> lassets eine weile sieden; nehmet sie dann aus dieser Brüh heraus <lb/> lassets entweder gantz <lb/> oder schneidets zu Stücklein <lb/> wie es euch beliebt <lb/> thuts in einen stollichten Hafen <lb/> und machet eine Negeleins= oder Limonien= Brüh darüber <lb/> wie selbige anderswo <lb/> und zwar die letzere <lb/> in dem Theil von den Brühen Num. 14. bereits beschrieben zu finden.</p>
+        <p> WAnn die Kalbs= Miltzlein gewässert <lb/> und sauber gewaschen sind <lb/> setzet sie in halb <objectName ref="wasser">Wasser</objectName> und halb Fleischbrüh zu <lb/> saltzets ein wenig <lb/> lassets eine weile sieden; nehmet sie dann aus dieser Brüh heraus <lb/> lassets entweder gantz <lb/> oder schneidets zu Stücklein <lb/> wie es euch beliebt <lb/> thuts in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> und machet eine Negeleins= oder Limonien= Brüh darüber <lb/> wie selbige anderswo <lb/> und zwar die letzere <lb/> in dem Theil von den <objectName ref="bruehe">Brühen</objectName> Num. 14. bereits beschrieben zu finden. </p>
             </div>
         </body>
     </text>

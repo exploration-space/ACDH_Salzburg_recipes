@@ -175,9 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>HIezu nimmt man nur die blosse abgezogene Haut <lb/> von dem Spanfärcklein allein ; breitet sie auf dem Tisch <lb/> oder Brett aus <lb/> besprengt sie mit wohl Saltz <lb/> Gewürtz <lb/> wohlriechenden Kräutern <lb/> Lemoni= Schelffen <lb/> zerdruckten Koblauch mit klein= gehackten Sardellen ; dann wird sie also ohne weitere Füll so fest als es möglich zusammen gerollt <lb/> gebunden <lb/> auch in ein Tisch= Serviette, mit Zwecken <lb/> oder dicken Spänen noch fester gebunden <lb/> und mit halben Sud wieder fester überbunden <lb/> und mit dem Köpfflein <lb/> welches auch gantzer herab geschnitten <lb/> völlig gekocht <lb/> oder gesotten <lb/> und die übrige Ordnung damit beobachtet <lb/> als wie bey der vorher beschriebenen Spanfärcklein= Wurst <lb/> brauchs zum Regalieren <lb/> oder gibs mit dem Köpfflein in Eßig und Oel.
-
- </p>
+        <p> HIezu nimmt man nur die blosse abgezogene Haut <lb/> von dem Spanfärcklein allein; breitet sie auf dem <objectName ref="tisch">Tisch</objectName> <lb/> oder <objectName ref="brett">Brett</objectName> aus <lb/> besprengt sie mit wohl Saltz <lb/> Gewürtz <lb/> wohlriechenden <objectName ref="kraeuter">Kräutern</objectName> <lb/> Lemoni= Schelffen <lb/> zerdruckten Koblauch mit klein= gehackten <objectName ref="sardellen">Sardellen</objectName>; dann wird sie also ohne weitere Füll so fest als es möglich zusammen gerollt <lb/> gebunden <lb/> auch in ein Tisch= <objectName ref="serviette">Serviette</objectName>, mit <objectName ref="zwecken">Zwecken</objectName> <lb/> oder dicken Spänen noch fester gebunden <lb/> und mit halben Sud wieder fester überbunden <lb/> und mit dem Köpfflein <lb/> welches auch gantzer herab geschnitten <lb/> völlig gekocht <lb/> oder gesotten <lb/> und die übrige Ordnung damit beobachtet <lb/> als wie bey der vorher beschriebenen Spanfärcklein= <objectName ref="wurst">Wurst</objectName> <lb/> brauchs zum Regalieren <lb/> oder gibs mit dem Köpfflein in Eßig und Oel. </p>
             </div>
         </body>
     </text>

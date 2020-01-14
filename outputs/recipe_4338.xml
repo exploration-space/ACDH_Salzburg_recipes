@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Diese werden auch gleich den Weichslen mit oder ohne ihre Stein zugericht <lb/> und in ein Dorten gefüllt.</p>
+        <p> Diese werden auch gleich den Weichslen mit oder ohne ihre <objectName ref="stein">Stein</objectName> zugericht <lb/> und in ein Dorten gefüllt. </p>
             </div>
         </body>
     </text>

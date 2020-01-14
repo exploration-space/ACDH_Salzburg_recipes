@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mach ein Teig an mit Milch <lb/> Eyern <lb/> vnd schönem weissen Mehl <lb/> thu ein wenig Bierhefen darein <lb/> vn(n) mach ein guten Teig <lb/> der nicht gar steiff ist <lb/>  vnnd versaltz jn nicht <lb/> setz jn zu der wärm <lb/> daß er fein auffgehet <lb/> stürtz jhn auff ein saubers Bret <lb/> vn(n) thu kleine schwartze Rosein darvnter <lb/> mach Strützel darauß <lb/> wirff sie in heisse Butter <lb/> vnd backs <lb/> so wirt es fein aufflauffen <lb/> gibs kalt oder warm auff ein Tisch <lb/> besträw es mit Zucker <lb/> so ist es ein gut Gebackens.</p>
+        <p> Mach ein <objectName ref="teig">Teig</objectName> an mit <objectName ref="milch">Milch</objectName> <lb/> Eyern <lb/> vnd schönem weissen <objectName ref="mehl">Mehl</objectName> <lb/> thu ein wenig <objectName ref="bierhefe">Bierhefen</objectName> darein <lb/> vn ( n ) mach ein guten <objectName ref="teig">Teig</objectName> <lb/> der nicht gar steiff ist <lb/> vnnd versaltz jn nicht <lb/> setz jn zu der wärm <lb/> daß er fein auffgehet <lb/> stürtz jhn auff ein saubers Bret <lb/> vn ( n ) thu kleine schwartze Rosein darvnter <lb/> mach Strützel darauß <lb/> wirff sie in heisse <objectName ref="butter">Butter</objectName> <lb/> vnd backs <lb/> so wirt es fein aufflauffen <lb/> gibs kalt oder warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> besträw es mit <objectName ref="zucker">Zucker</objectName> <lb/> so ist es ein gut Gebackens. </p>
             </div>
         </body>
     </text>

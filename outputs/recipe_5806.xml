@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm 1. Pf. frischen <lb/> ungesaltznen Speck <lb/> hack oder schabe ihn <lb/> siede 14. oder15. Eyer gar hart <lb/> nimm die Dotter <lb/> treibs wohl ab <lb/> daßsie nicht knollet seyn <lb/> unter den Speck gemischt <lb/> Zucker ein viertel Pf. Zimmet ein Loth <lb/> 6. oder 7. Eyer darein gerührt <lb/> sammt ein wenig Ram <lb/> er muß aber auch nicht gar zu dünn gemacht werden <lb/> alsdann eingefüllt und gebachen <lb/> wie andere<lb/> im Anrichten streue Zucker darauf.</p>
+        <p> NImm 1. Pf. frischen <lb/> ungesaltznen <objectName ref="speck">Speck</objectName> <lb/> hack oder schabe ihn <lb/> siede 14. oder15. Eyer gar hart <lb/> nimm die Dotter <lb/> treibs wohl ab <lb/> daßsie nicht knollet seyn <lb/> unter den <objectName ref="speck">Speck</objectName> gemischt <lb/> <objectName ref="zucker">Zucker</objectName> ein viertel Pf. Zimmet ein <objectName ref="loth">Loth</objectName> <lb/> 6. oder 7. Eyer darein gerührt <lb/> sammt ein wenig Ram <lb/> er muß aber auch nicht gar zu dünn gemacht werden <lb/> alsdann eingefüllt und gebachen <lb/> wie andere/ im Anrichten streue <objectName ref="zucker">Zucker</objectName> darauf. </p>
             </div>
         </body>
     </text>

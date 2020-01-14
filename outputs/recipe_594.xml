@@ -168,11 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim Muscatnüß so viel du wilt <lb/> weiche sie in eine gute scharpffe Laugen <lb/> gieß allweg vber den andern tag eine frische daran <lb/> laß 14. tag also weichen <lb/> thu die obern Schelffen davon <lb/> legs in ein frisch Was= ser <lb/> biß die Laug davon kompt <lb/> gib ihnen darnach den gebürenden zucker vnd Honig <lb/> wie bey den Einma= chungen der grünen Ingwern durch mancherley Gattung verzeichnet ist.
-
-NOTA.
-
-Solcher gestalt mag man auch zitwan <lb/> Galgant vnd Calmus einmachen.</p>
+        <p> Nim Muscatnüß so viel du wilt <lb/> weiche sie in eine gute scharpffe <objectName ref="lauge">Laugen</objectName> <lb/> gieß allweg vber den andern tag eine frische daran <lb/> laß 14. tag also weichen <lb/> thu die obern Schelffen davon <lb/> legs in ein frisch Was= ser <lb/> biß die Laug davon kompt <lb/> gib ihnen darnach den gebürenden <objectName ref="zucker">zucker</objectName> vnd <objectName ref="honig">Honig</objectName> <lb/> wie bey den Einma= chungen der grünen <objectName ref="ingwer">Ingwern</objectName> durch mancherley Gattung verzeichnet ist. NOTA. Solcher gestalt mag man auch zitwan <lb/> <objectName ref="galgant">Galgant</objectName> vnd Calmus einmachen. </p>
             </div>
         </body>
     </text>

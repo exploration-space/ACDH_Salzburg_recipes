@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Eyerdotter vnd Essig darein <lb/> rürs umb <lb/> vnd nim(m) ein Wasser darvnter <lb/> auch Butter vnd Saltz <lb/> laß damit auffsieden <lb/> so ist es auch gut.</p>
+        <p> Nim ( m ) Eyerdotter vnd <objectName ref="essig">Essig</objectName> darein <lb/> rürs umb <lb/> vnd nim ( m ) ein <objectName ref="wasser">Wasser</objectName> darvnter <lb/> auch <objectName ref="butter">Butter</objectName> vnd Saltz <lb/> laß damit auffsieden <lb/> so ist es auch gut. </p>
             </div>
         </body>
     </text>

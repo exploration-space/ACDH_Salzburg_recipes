@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet schöne gedörrte Aepffel <lb/> waschet <lb/> und setzet sie im Wein und ein wenig Wasser zu <lb/> lassets sieden biß weich werden: Dann legets in eine Schüssel <lb/> und bestreuets mit Zimmet und Zucker.</p>
+        <p> NEhmet schöne gedörrte Aepffel <lb/> waschet <lb/> und setzet sie im <objectName ref="wein">Wein</objectName> und ein wenig <objectName ref="wasser">Wasser</objectName> zu <lb/> lassets sieden biß weich werden : Dann legets in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und bestreuets mit Zimmet und <objectName ref="zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

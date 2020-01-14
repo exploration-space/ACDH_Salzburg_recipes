@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Koch Linsen mit einer Erbeßbrüh <lb/> vnd mit guter frischer Butter <lb/> die vnzerlassen ist <lb/> schweiß Zwibeln in Butter <lb/> vnnd wenn du schier wilt anrichten <lb/> so thu auch grüne wolschmeckende Kräuter <lb/> die klein geschnitté seyn <lb/> darvnter <lb/> oder schneidt Knobloch fein klein an statt der Zwibel <lb/> so ist es auch gut vnd wolgeschmack.  Also kocht man die Linsen in der Fasten <lb/> es sey mit Zwibel oder mit Knobloch.</p>
+        <p> Koch <objectName ref="linsen">Linsen</objectName> mit einer Erbeßbrüh <lb/> vnd mit guter frischer <objectName ref="butter">Butter</objectName> <lb/> die vnzerlassen ist <lb/> schweiß Zwibeln in <objectName ref="butter">Butter</objectName> <lb/> vnnd wenn du schier wilt anrichten <lb/> so thu auch grüne wolschmeckende <objectName ref="kraeuter">Kräuter</objectName> <lb/> die klein geschnitté seyn <lb/> darvnter <lb/> oder schneidt Knobloch fein klein an statt der Zwibel <lb/> so ist es auch gut vnd wolgeschmack. Also kocht man die <objectName ref="linsen">Linsen</objectName> in der Fasten <lb/> es sey mit Zwibel oder mit Knobloch. </p>
             </div>
         </body>
     </text>

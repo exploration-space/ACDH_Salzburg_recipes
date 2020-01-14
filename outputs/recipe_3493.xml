@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SArdellen werden gebutzt <lb/> ausgelößt <lb/> zerhackt <lb/> und zu allerhand Brühen und Speisen gemischt <lb/> dann so lang sie frisch seynd <lb/> so seynd sie auch köstlich <lb/> und vielfältig zu applicieren.</p>
+        <p> <objectName ref="sardellen">SArdellen</objectName> werden gebutzt <lb/> ausgelößt <lb/> zerhackt <lb/> und zu allerhand <objectName ref="bruehe">Brühen</objectName> und Speisen gemischt <lb/> dann so lang sie frisch seynd <lb/> so seynd sie auch köstlich <lb/> und vielfältig zu applicieren. </p>
             </div>
         </body>
     </text>

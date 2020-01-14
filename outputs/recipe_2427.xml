@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet schöne grosse Weixeln <lb/> schneidet die Stiele halb ab <lb/> stosset so dann andre Weixeln <lb/> presset sie durch <lb/> nehmet zu einem Seidlein oder halben Maas solch ausgepressten Safftes ein Pfund Zucker <lb/> lasset denselben mit dem Safft wohl sieden <lb/> leget die Weixeln darein <lb/> lassets hernach wieder sieden <lb/> und faumet sie nachmals heraus: Setzet dann die Weixeln in eine Schachtel oder Gläslein <lb/> daß die Stiele alle übersich kommen <lb/> lasset die Brüh ferner sieden <lb/> biß sie recht dick wird <lb/> und Fäden ziehet <lb/> giesset dann selbige über die Weixeln in die Gläslein oder Schachteln <lb/> so werden sie sich sultzen <lb/> gut und schön bleiben.</p>
+        <p> NEhmet schöne grosse Weixeln <lb/> schneidet die Stiele halb ab <lb/> stosset so dann andre Weixeln <lb/> presset sie durch <lb/> nehmet zu einem Seidlein oder halben <objectName ref="maas">Maas</objectName> solch ausgepressten Safftes ein <objectName ref="pfund">Pfund</objectName> <objectName ref="zucker">Zucker</objectName> <lb/> lasset denselben mit dem Safft wohl sieden <lb/> leget die Weixeln darein <lb/> lassets hernach wieder sieden <lb/> und faumet sie nachmals heraus : Setzet dann die Weixeln in eine <objectName ref="schachtel">Schachtel</objectName> oder Gläslein <lb/> daß die Stiele alle übersich kommen <lb/> lasset die Brüh ferner sieden <lb/> biß sie recht dick wird <lb/> und Fäden ziehet <lb/> giesset dann selbige über die Weixeln in die Gläslein oder Schachteln <lb/> so werden sie sich sultzen <lb/> gut und schön bleiben. </p>
             </div>
         </body>
     </text>

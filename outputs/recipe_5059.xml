@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schneidt jhn mit den Hörnern vnnd der Haut ab <lb/> setz Wasser in einem Kessel auff <lb/> vnd mach es heiß <lb/> brühe den Kopff darinn <lb/> wie man die Füß zurichtet <lb/> daß das Haar darvon gehet. Vnd wann er sauber bereitet ist <lb/> so setz jn in Wasser zu <lb/> vnd verfaum jhn wol <lb/> wirff zimlich viel Saltz darein <lb/> vnnd laß darmit an die statt sieden <lb/> zeuch jn auß auff ein saubers Bret <lb/> vnd laß jn kalt werden <lb/> seuber jn auß. Vnnd wann du jn wilt auff ein Tisch geben <lb/> kanstu jn schmücken mit Golt oder Silber. Vnnd wann er kalt ist <lb/> so ist er gut zu essen <lb/> vnd stehet schön vor ein Schauessen.</p>
+        <p> Schneidt jhn mit den Hörnern vnnd der Haut ab <lb/> setz <objectName ref="wasser">Wasser</objectName> in einem <objectName ref="kessel">Kessel</objectName> auff <lb/> vnd mach es heiß <lb/> <objectName ref="bruehe">brühe</objectName> den Kopff darinn <lb/> wie man die Füß zurichtet <lb/> daß das Haar darvon gehet. Vnd wann er sauber bereitet ist <lb/> so setz jn in <objectName ref="wasser">Wasser</objectName> zu <lb/> vnd verfaum jhn wol <lb/> wirff zimlich viel Saltz darein <lb/> vnnd laß darmit an die statt sieden <lb/> zeuch jn auß auff ein saubers Bret <lb/> vnd laß jn kalt werden <lb/> seuber jn auß. Vnnd wann du jn wilt auff ein <objectName ref="tisch">Tisch</objectName> geben <lb/> kanstu jn schmücken mit Golt oder <objectName ref="silber">Silber</objectName>. Vnnd wann er kalt ist <lb/> so ist er gut zu essen <lb/> vnd stehet schön vor ein Schauessen. </p>
             </div>
         </body>
     </text>

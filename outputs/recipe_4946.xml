@@ -176,9 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIse werden zu Stucken zerhackt <lb/> gesotten <lb/> oder im Petersil <lb/> Zwibel <lb/> und allerhand sauren gelben Kreen <lb/> und andern guten Pfeffer= Brühen zugericht ; denn Schwein= Fleisch hat gern guten Eßig <lb/> Pfeffer <lb/> und wohl Saltz <lb/> es ist auch gut zerhackter <lb/> und gesottner in allerhand Köhl <lb/> Ruben und Kraut c.
-
- </p>
+        <p> DIse werden zu Stucken zerhackt <lb/> gesotten <lb/> oder im Petersil <lb/> Zwibel <lb/> und allerhand sauren gelben Kreen <lb/> und andern guten Pfeffer= <objectName ref="bruehe">Brühen</objectName> zugericht; denn Schwein= <objectName ref="fleisch">Fleisch</objectName> hat gern guten Eßig <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> und wohl Saltz <lb/> es ist auch gut zerhackter <lb/> und gesottner in allerhand Köhl <lb/> Ruben und <objectName ref="kraut">Kraut</objectName> c. </p>
             </div>
         </body>
     </text>

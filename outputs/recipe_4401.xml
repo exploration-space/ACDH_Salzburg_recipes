@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nachdem das Kalbs = Kröß allerdings zubereitet <lb/> und fast weich gesotten ist <lb/> so leget es eine halbe Stund zuvor <lb/> ehe man selbiges anrichten will <lb/> in einen stollichten Hafen <lb/> giesset eine Fleischbrüh daran <lb/> thut ein wenig geriebenes Semmel = Mehl <lb/> und klein = zerriebenen düren Majoran dazu <lb/> würtzets mit Pfeffer und einer Muscatnuß <lb/> und lassets zuletzt mit einem Stuck Butter aufsieden .</p>
+        <p> Nachdem das Kalbs = Kröß allerdings zubereitet <lb/> und fast weich gesotten ist <lb/> so leget es eine halbe Stund zuvor <lb/> ehe man selbiges anrichten will <lb/> in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> giesset eine Fleischbrüh daran <lb/> thut ein wenig geriebenes Semmel = <objectName ref="mehl">Mehl</objectName> <lb/> und klein = zerriebenen düren <objectName ref="majoran">Majoran</objectName> dazu <lb/> würtzets mit <objectName ref="pfeffer">Pfeffer</objectName> und einer Muscatnuß <lb/> und lassets zuletzt mit einem Stuck <objectName ref="butter">Butter</objectName> aufsieden. </p>
             </div>
         </body>
     </text>

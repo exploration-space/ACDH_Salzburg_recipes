@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein Viertung Prein, siedt in In einer guetten obern milch, bis er gar <lb/><lb/> dickh vnd waich wirdt, schlag ihn durch, nimb auch souill gestosßne <lb/> Mandl, 2. ayrdotter, vnd ein ganzes ayr, auch ¼. putter, Zuckhers <lb/> gar woll, daß syes ist, riehrs ein Stundt, das wie ein faimb wirdt, <lb/> dann nimb Lemani schöllen, Klein geschniten, so yberprent sein, thuee <lb/> es darunter, schmirb ein schißl mit putter, thuee das Koch darein <lb/> oben sträe Zimblich Vill zuckher, thuee oben : vnd Unten gluett, so <lb/> laufft es hoch auf. <lb/></p>
+        <p> Nimb ein <objectName ref="viertung">Viertung</objectName> Prein, siedt in In einer guetten obern <objectName ref="milch">milch</objectName>, bis er gar <lb/><lb/> dickh vnd waich wirdt, schlag ihn durch, nimb auch souill gestosßne <lb/> Mandl, 2. ayrdotter, vnd ein ganzes ayr, auch ¼. putter, Zuckhers <lb/> gar woll, daß syes ist, riehrs ein Stundt, das wie ein faimb wirdt, <lb/> dann nimb Lemani schöllen, Klein geschniten, so yberprent sein, thuee <lb/> es darunter, schmirb ein schißl mit putter, thuee das Koch darein <lb/> oben sträe Zimblich Vill zuckher, thuee oben : vnd Unten gluett, so <lb/> laufft es hoch auf. <lb/> </p>
             </div>
         </body>
     </text>

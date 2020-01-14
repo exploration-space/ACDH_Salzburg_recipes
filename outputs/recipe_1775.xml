@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Imber, Pfeffer, buter, vnd Wein= <lb/> =pör. <lb/></p>
+        <p> Nimb Imber, <objectName ref="pfeffer">Pfeffer</objectName>, buter, vnd Wein= <lb/> =pör. <lb/> </p>
             </div>
         </body>
     </text>

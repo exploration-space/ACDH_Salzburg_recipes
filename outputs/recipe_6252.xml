@@ -165,11 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Du solt den Weinkeller rein halten vnter den Fassen <lb/> vnnd vberal schön fegen <lb/> wenn es not ist <lb/> vnd im Sommer bewar die Thür vnd die Fenster <lb/> daß nicht die Sonn auff oder in die Keller schein <lb/> vnnd im Winter verstopffe sie wol <lb/> daß kein Kalte hinein mög <lb/> vnnd verhüte jhr vor den Osterwinden <lb/> vnd vor dem Donder vnd Plitz <lb/> daß die nicht hinein mögen kommen.
-
-Item <lb/> wenn du im Winter in den Keller gehest <lb/> so thu die Thür nach dir fleissig zu <lb/> daß die Kälte nicht hinein schlage <lb/> Auch soltu verhüten <lb/> daß du kein Kolfeuwer darein machest <lb/> denn es ist den Weinen gar schädlich <lb/> der dampff leget sich in die Wein <lb/> daß sie nachmals gern verstossen.
-
-Item <lb/> welche Kellerthür vnnd Fenster stehen gegen dem Sudt vnnd Nordtwindt <lb/> die seind die besten <lb/> die magst du zu zeiten offen lassen <lb/> wenn der Himmel hell ist <lb/> vnd die guten Windt wehen <lb/> doch daß solches geschehe am Abendt oder Morgens <lb/> wenn es nicht heiß´ist.</p>
+        <p> Du solt den Weinkeller <objectName ref="rein">rein</objectName> halten vnter den Fassen <lb/> vnnd vberal schön fegen <lb/> wenn es not ist <lb/> vnd im Sommer bewar die Thür vnd die Fenster <lb/> daß nicht die Sonn auff oder in die <objectName ref="keller">Keller</objectName> schein <lb/> vnnd im Winter verstopffe sie wol <lb/> daß kein Kalte hinein mög <lb/> vnnd verhüte jhr vor den Osterwinden <lb/> vnd vor dem Donder vnd Plitz <lb/> daß die nicht hinein mögen kommen. Item <lb/> wenn du im Winter in den <objectName ref="keller">Keller</objectName> gehest <lb/> so thu die Thür nach dir fleissig zu <lb/> daß die Kälte nicht hinein schlage <lb/> Auch soltu verhüten <lb/> daß du kein Kolfeuwer darein machest <lb/> denn es ist den Weinen gar schädlich <lb/> der dampff leget sich in die <objectName ref="wein">Wein</objectName> <lb/> daß sie nachmals gern verstossen. Item <lb/> welche Kellerthür vnnd Fenster stehen gegen dem Sudt vnnd Nordtwindt <lb/> die seind die besten <lb/> die magst du zu zeiten offen lassen <lb/> wenn der Himmel hell ist <lb/> vnd die guten Windt wehen <lb/> doch daß solches geschehe am Abendt oder Morgens <lb/> wenn es nicht heiß´ist. </p>
             </div>
         </body>
     </text>

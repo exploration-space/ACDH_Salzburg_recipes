@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Boil your Eggs hard, and take out a good many of the Yolks whole; then cut the rest in Quarters, Yolks and Whites together; set on some Gravy, with a little shred Thyme and Parsley in it, and give it a Boil or two; then put in your Eggs, with a little grated Nutmeg; shake it up with a Bit of Butter, till it be as thick as another Fricassy; then fry Artichoke Bottoms in thin Slices, and serve it up. Garnish with Eggs shred small.</p>
+        <p> Boil your Eggs hard, and take out a good many of the Yolks whole; then cut the rest in Quarters, Yolks and Whites together; set on some Gravy, with a little shred Thyme and Parsley in it, and give it a Boil or two; then put in your Eggs, with a little grated Nutmeg; shake it up with a Bit of <objectName ref="butter">Butter</objectName>, till it be as thick as another Fricassy; then fry Artichoke Bottoms in thin Slices, and serve it up. Garnish with Eggs shred small. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schwantz vnnd Gradt vom Schwein gekocht mit Zwibeln <lb/> auff Böhemisch <lb/> es sey saur oder nicht <lb/> oder im Pfeffer <lb/> ist auff alle manier gut.</p>
+        <p> Schwantz vnnd Gradt vom Schwein gekocht mit Zwibeln <lb/> auff Böhemisch <lb/> es sey saur oder nicht <lb/> oder im <objectName ref="pfeffer">Pfeffer</objectName> <lb/> ist auff alle manier gut. </p>
             </div>
         </body>
     </text>

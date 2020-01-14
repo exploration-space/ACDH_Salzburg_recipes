@@ -171,9 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAschet und brühet die Morgeln <lb/> wie vor gedacht <lb/> hacket dann ein Petersilien= Kraut klein <lb/> röstets mit ein wenig geriebenen Semmel= Mehl in Butter <lb/> schlagt Eyer daran <lb/> würtzets; füllet dann diese Füll <lb/> wann sie wohl unter einander gerühret worden <lb/> in grosse Morgeln oder Maurachen <lb/> und last sie in der gleich zuvor beschriebenen Butter= Brüh sieden.
-
-AUf eben diese Art kan man auch die so genannte Stock= Morgeln hacken <lb/> würtzen <lb/> mit Eyern und ein wenig gerösteten Semmel= Mehl anmachen <lb/> und die Spitz= Morgeln oder Maurachen <lb/> nach belieben <lb/> damit füllen.</p>
+        <p> WAschet und brühet die Morgeln <lb/> wie vor gedacht <lb/> hacket dann ein Petersilien= <objectName ref="kraut">Kraut</objectName> klein <lb/> röstets mit ein wenig geriebenen Semmel= <objectName ref="mehl">Mehl</objectName> in <objectName ref="butter">Butter</objectName> <lb/> schlagt Eyer daran <lb/> würtzets; füllet dann diese Füll <lb/> wann sie wohl unter einander gerühret worden <lb/> in grosse Morgeln oder Maurachen <lb/> und last sie in der gleich zuvor beschriebenen Butter= Brüh sieden. AUf eben diese Art kan man auch die so genannte Stock= Morgeln hacken <lb/> würtzen <lb/> mit Eyern und ein wenig gerösteten Semmel= <objectName ref="mehl">Mehl</objectName> anmachen <lb/> und die Spitz= Morgeln oder Maurachen <lb/> nach belieben <lb/> damit füllen. </p>
             </div>
         </body>
     </text>

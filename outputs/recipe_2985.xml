@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BOhnen <lb/> wie die Erbes mit Gersten <lb/> mit Fleisch= Brühe <lb/> Wasser <lb/> oder Milch gekocht <lb/> mit Wasser aber sollen sie wol geschmältzt werden.</p>
+        <p> <objectName ref="bohnen">BOhnen</objectName> <lb/> wie die Erbes mit <objectName ref="gerste">Gersten</objectName> <lb/> mit Fleisch= <objectName ref="bruehe">Brühe</objectName> <lb/> <objectName ref="wasser">Wasser</objectName> <lb/> oder <objectName ref="milch">Milch</objectName> gekocht <lb/> mit <objectName ref="wasser">Wasser</objectName> aber sollen sie wol geschmältzt werden. </p>
             </div>
         </body>
     </text>

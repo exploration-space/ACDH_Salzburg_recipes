@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn dise heiß <lb/> oder blau abgesotten <lb/> werden sie in weisser Butter= Brühe mit gehackten Sardellen <lb/> Wein <lb/> und Lemoni= Schelffen zur Tafel gegeben.</p>
+        <p> WAnn dise heiß <lb/> oder blau abgesotten <lb/> werden sie in weisser Butter= <objectName ref="bruehe">Brühe</objectName> mit gehackten <objectName ref="sardellen">Sardellen</objectName> <lb/> <objectName ref="wein">Wein</objectName> <lb/> und Lemoni= Schelffen zur Tafel gegeben. </p>
             </div>
         </body>
     </text>

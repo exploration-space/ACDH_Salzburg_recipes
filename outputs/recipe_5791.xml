@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Geselcht oder geräuchert Zungen die kanstu kalt geben <lb/> wenn sie gekocht seyn <lb/> oder warm <lb/> kanst sie auch kochen im Pfeffer <lb/> wenn sie dürr seyn <lb/> kanst sie auch geben vnter ein Kölkraut <lb/> wenn das Kraut grün ist.</p>
+        <p> Geselcht oder geräuchert <objectName ref="zunge">Zungen</objectName> die kanstu kalt geben <lb/> wenn sie gekocht seyn <lb/> oder warm <lb/> kanst sie auch kochen im <objectName ref="pfeffer">Pfeffer</objectName> <lb/> wenn sie dürr seyn <lb/> kanst sie auch geben vnter ein Kölkraut <lb/> wenn das <objectName ref="kraut">Kraut</objectName> grün ist. </p>
             </div>
         </body>
     </text>

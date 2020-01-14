@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Ruben muß man erstlich recht braten <lb/> darnach zu breit= lichten dinnen Schnitten schneiden <lb/> und ein wenig zuckern <lb/> alsdann in einen niedern Dorten= Hafen von Butter Teig gemacht <lb/> einfüllen <lb/> und gar viel Butter so wohl an Boden <lb/> als in die mitte <lb/> und oben darauf legen : Will mans aber nicht gern süß haben <lb/> so lasse man den Zucker davon <lb/> und nehme an statt deß Butters <lb/> zimlich viel klein= geschnittenes Ochsen= oder Rinds= Marck <lb/> oder sonst ein gut gesottenes Rinds= Fett dazu.</p>
+        <p> DIe Ruben muß man erstlich recht braten <lb/> darnach zu breit= lichten dinnen Schnitten schneiden <lb/> und ein wenig <objectName ref="zucker">zuckern</objectName> <lb/> alsdann in einen niedern Dorten= <objectName ref="hafen">Hafen</objectName> von <objectName ref="butter">Butter</objectName> <objectName ref="teig">Teig</objectName> gemacht <lb/> einfüllen <lb/> und gar viel <objectName ref="butter">Butter</objectName> so wohl an Boden <lb/> als in die mitte <lb/> und oben darauf legen : Will mans aber nicht gern süß haben <lb/> so lasse man den <objectName ref="zucker">Zucker</objectName> davon <lb/> und nehme an statt deß Butters <lb/> zimlich viel klein= geschnittenes Ochsen= oder Rinds= Marck <lb/> oder sonst ein gut gesottenes Rinds= <objectName ref="fett">Fett</objectName> dazu. </p>
             </div>
         </body>
     </text>

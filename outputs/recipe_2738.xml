@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BUtzet <lb/> siedet <lb/> und bereitet die Schnecken <lb/> wie vorgedacht <lb/>saltzet und würtzet sie mit Pfeffer <lb/> ein wenig Cardamomen und Muscaten= Blüh ; schlaget dann jeden Schnecken besonders in ein Netz <lb/> steckets an ein Spießlein <lb/> und bratets bey einem gähen Feuer ab <lb/> oder man kan sie auch zusamt dem Spießlein auf einen Rost legen und braten ; zum öfftern aber <lb/> ( man bediene sich gleich dieser oder jener Art <lb/> ) mit Butter offt betreiffen <lb/> in eine Schüssel legen <lb/> und entweder Citronen oder sauern Pomerantzen= Safft darauf drucken.</p>
+        <p> BUtzet <lb/> siedet <lb/> und bereitet die <objectName ref="schnecken">Schnecken</objectName> <lb/> wie vorgedacht /saltzet und würtzet sie mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> ein wenig Cardamomen und Muscaten= Blüh; schlaget dann jeden <objectName ref="schnecken">Schnecken</objectName> besonders in ein <objectName ref="netz">Netz</objectName> <lb/> steckets an ein Spießlein <lb/> und bratets bey einem gähen <objectName ref="feuer">Feuer</objectName> ab <lb/> oder man kan sie auch zusamt dem Spießlein auf einen <objectName ref="rost">Rost</objectName> legen und braten; zum öfftern aber <lb/> ( man bediene sich gleich dieser oder jener Art <lb/> ) mit <objectName ref="butter">Butter</objectName> offt betreiffen <lb/> in eine <objectName ref="schuessel">Schüssel</objectName> legen <lb/> und entweder Citronen oder sauern Pomerantzen= Safft darauf drucken. </p>
             </div>
         </body>
     </text>

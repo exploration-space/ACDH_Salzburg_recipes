@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DAs Rindfleisch wird gehackt <lb/> und in allweg auf obige Art zugerichtet <lb/> auch die Knödlein <lb/> Strützlein <lb/> und Pastetlein zum Regalieren verfertiget <lb/> wie jetzt oben beschrieben worden <lb/> die Brühe aber kan von Saurampfen oder Körbelkraut mit Fleischbrühe <lb/> Butter und Eyerdottern gemachet <lb/> alsdann angerichtet und regaliert werden <lb/> wie erst zuvor gemeldet.</p>
+        <p> DAs <objectName ref="rindfleisch">Rindfleisch</objectName> wird gehackt <lb/> und in allweg auf obige Art zugerichtet <lb/> auch die Knödlein <lb/> Strützlein <lb/> und Pastetlein zum Regalieren verfertiget <lb/> wie jetzt oben beschrieben worden <lb/> die <objectName ref="bruehe">Brühe</objectName> aber kan von Saurampfen oder Körbelkraut mit <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> <objectName ref="butter">Butter</objectName> und Eyerdottern gemachet <lb/> alsdann angerichtet und regaliert werden <lb/> wie erst zuvor gemeldet. </p>
             </div>
         </body>
     </text>

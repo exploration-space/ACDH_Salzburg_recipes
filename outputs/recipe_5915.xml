@@ -175,8 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm den frischen Niern <lb/> klaube denselben gleich mit denen Händen von einander zu lauter Stücklein <lb/> wie er von sich selbst geartet ist <lb/> oder zerschneide ihn mit dem Messer <lb/> in gleichergestalt <lb/> biß auf das Adern=Werck <lb/> welches hinweg gethan wird <lb/> das Gute wird eingesaltzen <lb/> in viel Zwibel <lb/> mit Pfeffer <lb/> in wenig Eßig gepaitzt <lb/> und damit wohl übersotten <lb/> und wieder ausgewaschen; dann mit Indianer=Gäns=und andern dergleichen Mägen <lb/> in Blättlein geschnitten <lb/> gibt eine gute Rago <lb/> oder Fricasse, oder auch gleich der Lungen auf Teutsch eingemacht in saurer Brühe.
- </p>
+        <p> NImm den frischen Niern <lb/> klaube denselben gleich mit denen Händen von einander zu lauter Stücklein <lb/> wie er von sich selbst geartet ist <lb/> oder zerschneide ihn mit dem <objectName ref="messer">Messer</objectName> <lb/> in gleichergestalt <lb/> biß auf das Adern=Werck <lb/> welches hinweg gethan wird <lb/> das Gute wird eingesaltzen <lb/> in viel Zwibel <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> in wenig Eßig gepaitzt <lb/> und damit wohl übersotten <lb/> und wieder ausgewaschen; dann mit Indianer=Gäns=und andern dergleichen Mägen <lb/> in Blättlein geschnitten <lb/> gibt eine gute Rago <lb/> oder Fricasse, oder auch gleich der <objectName ref="lunge">Lungen</objectName> auf Teutsch eingemacht in saurer <objectName ref="bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

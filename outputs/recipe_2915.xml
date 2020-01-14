@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>CArfiol ist auch gut gebrüht <lb/> in weiß oder gelb= eingebrennten <lb/> gut gewürtzten Ram= Brühe.</p>
+        <p> CArfiol ist auch gut gebrüht <lb/> in weiß oder gelb= eingebrennten <lb/> gut gewürtzten Ram= <objectName ref="bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

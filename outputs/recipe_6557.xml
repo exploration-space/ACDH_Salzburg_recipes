@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>GEräucherten Stör mit lauter Erbsbrüh vnd vngeschmältzter Butter gekocht <lb/> vnd mit Pettersilgen Wurtzel. Nim gantzen Pfeffer vnnd Muscatenblüt <lb/> oder Spenat <lb/> so ist es gut vnd wolgeschmack.</p>
+        <p> GEräucherten <objectName ref="stoer">Stör</objectName> mit lauter Erbsbrüh vnd vngeschmältzter <objectName ref="butter">Butter</objectName> gekocht <lb/> vnd mit Pettersilgen Wurtzel. Nim gantzen <objectName ref="pfeffer">Pfeffer</objectName> vnnd Muscatenblüt <lb/> oder Spenat <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

@@ -171,9 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm wol= gebutzte Schnecken <lb/> saltz und gewürtze sie nach Gefallen <lb/> stecke sie mit Salbey= Blätter Wexel= weiß an kleine Spißlein <lb/> begieß sie mit Butter <lb/> oder Oel <lb/> besprengs geschwind mit Semmel= Brosen <lb/> legs auf den Rost <lb/> und brats geschwind hinweg <lb/> und gibs wie die kleine Vögel <lb/> mit braun oder fäumigem Butter <lb/> oder Oel.
-
-NB. Oder gibs mit einem kleinen Uberguß <lb/> von Sardellen= Butter <lb/> oder Dardoffel= Oel <lb/> und wenigen Lemoni= Safft.</p>
+        <p> NImm wol= gebutzte <objectName ref="schnecken">Schnecken</objectName> <lb/> saltz und gewürtze sie nach Gefallen <lb/> stecke sie mit Salbey= Blätter Wexel= weiß an kleine Spißlein <lb/> begieß sie mit <objectName ref="butter">Butter</objectName> <lb/> oder Oel <lb/> besprengs geschwind mit Semmel= Brosen <lb/> legs auf den <objectName ref="rost">Rost</objectName> <lb/> und brats geschwind hinweg <lb/> und gibs wie die kleine <objectName ref="voegel">Vögel</objectName> <lb/> mit braun oder fäumigem <objectName ref="butter">Butter</objectName> <lb/> oder Oel. NB. Oder gibs mit einem kleinen Uberguß <lb/> von Sardellen= <objectName ref="butter">Butter</objectName> <lb/> oder Dardoffel= Oel <lb/> und wenigen Lemoni= Safft. </p>
             </div>
         </body>
     </text>

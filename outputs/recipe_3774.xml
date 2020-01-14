@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn der Lachs <lb/> oder Rhein= Salm frisch <lb/> wird er zu kleinen Stücklein geschnitten <lb/> und allweg wie junge Hünlein <lb/> in Lemoni <lb/> unzeitigen Agres <lb/> oder Weintrauben eingemacht.</p>
+        <p> WAnn der <objectName ref="lachs">Lachs</objectName> <lb/> oder Rhein= Salm frisch <lb/> wird er zu kleinen Stücklein geschnitten <lb/> und allweg wie junge Hünlein <lb/> in Lemoni <lb/> unzeitigen Agres <lb/> oder <objectName ref="weintrauben">Weintrauben</objectName> eingemacht. </p>
             </div>
         </body>
     </text>

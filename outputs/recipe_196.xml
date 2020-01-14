@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Erstlich nimb ein schönes Mell<gap/>, vnd salz <lb/> es ein sauern Rämb<gap/> sprigle<gap/> es mit <lb/> einander Ab mach den taig<gap/> darmit <lb/> an, walg<gap/> ihme messer ruckhen dickh<gap/> <lb/> aus nimb ein häfl<gap/> oder Gläsl truckh <lb/><lb/> (ve 92) runde flöckhel<gap/> Aus, nimb ein <lb/> Finger huedt<gap/> thue in der Mitten <lb/> ein bläzl<gap/> Auß truckhen<gap/>, bachs<gap/> in <lb/> schmalz<gap/> nit Zu Kiel<gap/> so seindt sye <lb/> bereith. <lb/></p>
+        <p> Erstlich nimb ein schönes Mell<gap/>, vnd <objectName ref="salz">salz</objectName> <lb/> es ein sauern Rämb<gap/> sprigle<gap/> es mit <lb/> einander Ab mach den taig<gap/> darmit <lb/> an, walg<gap/> ihme <objectName ref="messer">messer</objectName> ruckhen dickh<gap/> <lb/> aus nimb ein häfl<gap/> oder Gläsl truckh <lb/><lb/> ( ve 92 ) runde flöckhel<gap/> Aus, nimb ein <lb/> Finger huedt<gap/> thue in der Mitten <lb/> ein bläzl<gap/> Auß truckhen<gap/>, bachs<gap/> in <lb/> schmalz<gap/> nit Zu Kiel<gap/> so seindt sye <lb/> bereith. <lb/> </p>
             </div>
         </body>
     </text>

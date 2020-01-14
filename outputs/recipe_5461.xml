@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIedet das Wildpret in Essig und Wasser weich <lb/> hebt es nach dem Sud heraus <lb/> legts in einen stollichten Hafen <lb/> giesst Essig und Fleischbrüh daran <lb/> schählet Zwiebeln <lb/> schneidet sie klein und würfflicht ; röstet geschnittene Zwiebeln <lb/> jnd dann ein wenig Weitzen = Mehl im Schmaltz <lb/> brennet es an die Brüh über das Wildpret <lb/> streuet Ingber und Pfeffer darein <lb/> last es sieden <lb/> und richtets dann an in eine Schüssel.</p>
+        <p> SIedet das Wildpret in <objectName ref="essig">Essig</objectName> und <objectName ref="wasser">Wasser</objectName> weich <lb/> hebt es nach dem Sud heraus <lb/> legts in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> giesst <objectName ref="essig">Essig</objectName> und Fleischbrüh daran <lb/> schählet <objectName ref="zwiebel">Zwiebeln</objectName> <lb/> schneidet sie klein und würfflicht; röstet geschnittene <objectName ref="zwiebel">Zwiebeln</objectName> <lb/> jnd dann ein wenig Weitzen = <objectName ref="mehl">Mehl</objectName> im Schmaltz <lb/> brennet es an die Brüh über das Wildpret <lb/> streuet Ingber und <objectName ref="pfeffer">Pfeffer</objectName> darein <lb/> last es sieden <lb/> und richtets dann an in eine <objectName ref="schuessel">Schüssel</objectName>. </p>
             </div>
         </body>
     </text>

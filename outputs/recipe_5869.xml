@@ -186,10 +186,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm sauber= gebutzte Hünlein <lb/> schneid ihnen die Füß ab <lb/> drucke das Brust= Bein ein <lb/> saltze und gewürtze sie mit Pfeffer <lb/> Imber <lb/> Muscatnuß <lb/> dämpffe sie mit Butter <lb/> Speck <lb/> Eßig <lb/> Fleischbrühe <lb/> Lemoni <lb/> Rosmarin <lb/> mit klein= geschnittenen Lorbeer= Blättlein <lb/> in ein Rein <lb/> oder Casserol <lb/> biß sie gantz gekocht <lb/> und schöne Farb haben; legs schön ordentlich in die Schüssel <lb/> und gib ein gutes Ragu von Mäglein <lb/> Leberlein <lb/> Maurachen <lb/> Brüßlein und Schwammen <lb/> auch anders dergleichen darüber <lb/> so mit wenig Meel in Butter geröst <lb/> mit Lemoni= Schelffen <lb/> wenig Wein <lb/> oder Lemoni= Safft und Fleischbrühe <lb/> mit gutem Gewürtz <lb/> kurz abgekocht <lb/> darüber.
-
-NB. Auf solche Weiß kann man allerhand Geflügel machen.
-</p>
+        <p> NImm sauber= gebutzte Hünlein <lb/> schneid ihnen die Füß ab <lb/> drucke das Brust= Bein ein <lb/> saltze und gewürtze sie mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> Muscatnuß <lb/> dämpffe sie mit <objectName ref="butter">Butter</objectName> <lb/> <objectName ref="speck">Speck</objectName> <lb/> Eßig <lb/> <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> Lemoni <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> mit klein= geschnittenen Lorbeer= Blättlein <lb/> in ein <objectName ref="rein">Rein</objectName> <lb/> oder Casserol <lb/> biß sie gantz gekocht <lb/> und schöne Farb haben; legs schön ordentlich in die <objectName ref="schuessel">Schüssel</objectName> <lb/> und gib ein gutes Ragu von Mäglein <lb/> Leberlein <lb/> Maurachen <lb/> Brüßlein und Schwammen <lb/> auch anders dergleichen darüber <lb/> so mit wenig Meel in <objectName ref="butter">Butter</objectName> geröst <lb/> mit Lemoni= Schelffen <lb/> wenig <objectName ref="wein">Wein</objectName> <lb/> oder Lemoni= Safft und <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> mit gutem Gewürtz <lb/> kurz abgekocht <lb/> darüber. NB. Auf solche Weiß kann man allerhand <objectName ref="gefluegel">Geflügel</objectName> machen. </p>
             </div>
         </body>
     </text>

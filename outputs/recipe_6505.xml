@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChlage die Köpflein in der Mitten voneinander <lb/> sieds im gesaltznen Wasser an die statt <lb/> butze die Zünglein <lb/> die Augen <lb/> die Nasen von allen Haaren und Unsauberkeit <lb/> hernach hacke das Hirn mit wenig Saltz <lb/> Gewürtz <lb/> klein=gehackten Petersil=Kräutlein <lb/> Eyerdotter und Semmel=Brosen angemacht <lb/> und fülle dises Hirn wieder an sein voriges Ort <lb/> dann werden die Köpflein durch abgeschlagene Eyer gezogen <lb/> und aus heissem Schmaltz gebachen; also auch wann die Köpflein zerlegt seyn.</p>
+        <p> SChlage die Köpflein in der Mitten voneinander <lb/> sieds im gesaltznen <objectName ref="wasser">Wasser</objectName> an die statt <lb/> butze die Zünglein <lb/> die <objectName ref="augen">Augen</objectName> <lb/> die <objectName ref="nasen">Nasen</objectName> von allen Haaren und Unsauberkeit <lb/> hernach hacke das <objectName ref="hirn">Hirn</objectName> mit wenig Saltz <lb/> Gewürtz <lb/> klein=gehackten Petersil=Kräutlein <lb/> Eyerdotter und Semmel=Brosen angemacht <lb/> und fülle dises <objectName ref="hirn">Hirn</objectName> wieder an sein voriges Ort <lb/> dann werden die Köpflein durch abgeschlagene Eyer gezogen <lb/> und aus heissem Schmaltz gebachen; also auch wann die Köpflein zerlegt seyn. </p>
             </div>
         </body>
     </text>

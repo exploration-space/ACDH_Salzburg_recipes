@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mach unden vnd oben ein löchl, vnd blaß es auß, das aÿr thue in eim <lb/> neuen Puter abrühren, Wieuill du machen Wilt, auch ein Wenig Mußcat= <lb/> blüe, Zimetstup, das rühr als undereinander, vnd streichs in die ausge= <lb/> blasne Aÿrschallen hinein, vnd thues auf ein Rost, vnd brats fein fleissig <lb/> das nit verbrent Werden, kher sie offt umb, seind bald verbrent, <lb/> auch bald gebraten, verkhlepp nach dem einfühlen die löcher, oben vnd <lb/> unden mit andern Aÿrschallen, das ganz auf den tisch khommen, Welge sie <lb/> in Rosenwasser umb, ehe du sie braten thuest. <lb/></p>
+        <p> Mach unden vnd oben ein löchl, vnd blaß es auß, das aÿr thue in eim <lb/> neuen Puter abrühren, Wieuill du machen Wilt, auch ein Wenig Mußcat= <lb/> blüe, Zimetstup, das rühr als undereinander, vnd streichs in die ausge= <lb/> blasne Aÿrschallen hinein, vnd thues auf ein <objectName ref="rost">Rost</objectName>, vnd brats fein fleissig <lb/> das nit verbrent Werden, kher sie offt umb, seind bald verbrent, <lb/> auch bald gebraten, verkhlepp nach dem einfühlen die löcher, oben vnd <lb/> unden mit andern Aÿrschallen, das ganz auf den <objectName ref="tisch">tisch</objectName> khommen, Welge sie <lb/> in <objectName ref="rosenwasser">Rosenwasser</objectName> umb, ehe du sie braten thuest. <lb/> </p>
             </div>
         </body>
     </text>

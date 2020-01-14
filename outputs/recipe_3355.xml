@@ -173,9 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Hünlein werden auf gewohnliche Art gewürtzt <lb/> in Fleischbrühe mit Wein vermischt <lb/> gesotten ; dann wird die Pomerantzen= Schaalen mit einem Brocken Zucker <lb/> und einer gebähten Schnitten <lb/> in dem Mörsel wohl gestossen <lb/> und auf die Letzt <lb/> ein Stuck in frisch Wasser getaucht <lb/> und wieder ausgedruckte Semmel= Mollen darzu in Mörsel geworfen <lb/> und wann alles zu einem Mus gestossen <lb/> wirds mit der Hünlein= Brühe abgerührt <lb/> und durch das Haar= Sieb getrieben <lb/> gelb und gut gemacht ; dann mit denen Hünlein wieder aufgesotten <lb/> und angericht.
-
-NB. Wann diese Brühe süß gemacht wird <lb/> ist der Geruch von Zimmet= Wasser <lb/> auch gut darbey.</p>
+        <p> DIe Hünlein werden auf gewohnliche Art gewürtzt <lb/> in <objectName ref="fleischbruehe">Fleischbrühe</objectName> mit <objectName ref="wein">Wein</objectName> vermischt <lb/> gesotten; dann wird die Pomerantzen= Schaalen mit einem Brocken <objectName ref="zucker">Zucker</objectName> <lb/> und einer gebähten Schnitten <lb/> in dem Mörsel wohl gestossen <lb/> und auf die Letzt <lb/> ein Stuck in frisch <objectName ref="wasser">Wasser</objectName> getaucht <lb/> und wieder ausgedruckte Semmel= Mollen darzu in Mörsel geworfen <lb/> und wann alles zu einem Mus gestossen <lb/> wirds mit der Hünlein= <objectName ref="bruehe">Brühe</objectName> abgerührt <lb/> und durch das Haar= <objectName ref="sieb">Sieb</objectName> getrieben <lb/> gelb und gut gemacht; dann mit denen Hünlein wieder aufgesotten <lb/> und angericht. NB. Wann diese <objectName ref="bruehe">Brühe</objectName> süß gemacht wird <lb/> ist der Geruch von Zimmet= <objectName ref="wasser">Wasser</objectName> <lb/> auch gut darbey. </p>
             </div>
         </body>
     </text>

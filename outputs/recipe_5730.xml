@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm einen Hecht <lb/> siede ihn in halb Essig <lb/> Wasser und Saltz recht ab; wann er gesotten <lb/> so klaub die Gräte davon <lb/> hacke den Fisch klein <lb/> thue ihn in ein Häfelein <lb/> gieß ein wenig Wein und Erbis= Brühe daran <lb/> wie auch Ingber <lb/> Pfeffer und ein Stuck Butter dazu <lb/> laß sieden <lb/> siede auch Eyer so lang biß sie hart werden <lb/> thue die Schalen davon <lb/> und nimm die Dottern heraus <lb/> lege sie also gantz in den gehackten Hecht <lb/> und trags warm auf den Tisch.</p>
+        <p> NImm einen <objectName ref="hecht">Hecht</objectName> <lb/> siede ihn in halb <objectName ref="essig">Essig</objectName> <lb/> <objectName ref="wasser">Wasser</objectName> und Saltz recht ab; wann er gesotten <lb/> so klaub die Gräte davon <lb/> hacke den <objectName ref="fisch">Fisch</objectName> klein <lb/> thue ihn in ein <objectName ref="haefelein">Häfelein</objectName> <lb/> gieß ein wenig <objectName ref="wein">Wein</objectName> und Erbis= <objectName ref="bruehe">Brühe</objectName> daran <lb/> wie auch Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und ein Stuck <objectName ref="butter">Butter</objectName> dazu <lb/> laß sieden <lb/> siede auch Eyer so lang biß sie hart werden <lb/> thue die Schalen davon <lb/> und nimm die Dottern heraus <lb/> lege sie also gantz in den gehackten <objectName ref="hecht">Hecht</objectName> <lb/> und trags warm auf den <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

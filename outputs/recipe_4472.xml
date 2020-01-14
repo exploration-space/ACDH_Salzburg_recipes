@@ -174,9 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Hechten werden gebachen <lb/> und gleich in die Schüssel <lb/> oder Casserol gelegt ; die Brühen aber werden mit geröstem Brod <lb/> besonders gemacht und durchgetrieben ; wie vor bey dem Wildprät offt gehort <lb/> nicht gar zu dick an den Fisch gegossen <lb/> und mit dem ersten Sud von der Glut hinweg genommen <lb/> der Ranfft mit Zucker und Zimmet <lb/> auch mit gerösten Brosen bestreut <lb/> und zu Tisch gegeben.
-
-Kütten = Quitten</p>
+        <p> DIe Hechten werden gebachen <lb/> und gleich in die <objectName ref="schuessel">Schüssel</objectName> <lb/> oder Casserol gelegt; die <objectName ref="bruehe">Brühen</objectName> aber werden mit geröstem Brod <lb/> besonders gemacht und durchgetrieben; wie vor bey dem Wildprät offt gehort <lb/> nicht gar zu dick an den <objectName ref="fisch">Fisch</objectName> gegossen <lb/> und mit dem ersten Sud von der <objectName ref="glut">Glut</objectName> hinweg genommen <lb/> der Ranfft mit <objectName ref="zucker">Zucker</objectName> und Zimmet <lb/> auch mit gerösten Brosen bestreut <lb/> und zu <objectName ref="tisch">Tisch</objectName> gegeben. Kütten = <objectName ref="quitten">Quitten</objectName> </p>
             </div>
         </body>
     </text>

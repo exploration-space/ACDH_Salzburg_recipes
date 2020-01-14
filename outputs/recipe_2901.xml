@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ARtischocken unterschiedlich zu füllen <lb/> wie N°. 80. 81. und 82. bey der Suppen zu sehen <lb/> und vor eine aparte Speiß zu geben.</p>
+        <p> <objectName ref="artischocken">ARtischocken</objectName> unterschiedlich zu füllen <lb/> wie N°. 80. 81. und 82. bey der <objectName ref="suppe">Suppen</objectName> zu sehen <lb/> und vor eine aparte Speiß zu geben. </p>
             </div>
         </body>
     </text>

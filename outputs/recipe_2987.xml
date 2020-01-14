@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BOhnen gesotten <lb/> gibt man auch unter das saure Kraut gemischt <lb/> wol fett.</p>
+        <p> <objectName ref="bohnen">BOhnen</objectName> gesotten <lb/> gibt man auch unter das saure <objectName ref="kraut">Kraut</objectName> gemischt <lb/> wol <objectName ref="fett">fett</objectName>. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn soll den geklaubten Reiß waschen <lb/> und in gantz guter Milch mit Zucker und wenig Zimmet= Stup wol dick einsieden <lb/> und wieder abkühlen lassen <lb/> rühre Eyer darein <lb/> nach Proportion des Reiß <lb/> schütte den Reiß auf ein Teller <lb/> schneide Strützlein nach Gefallen <lb/> kehrs in Meel <lb/> oder abgeschlagenen Eyern um <lb/> bachs schön liecht aus heissem Schmaltz <lb/> oder mische auch Weinbeerlein darunter <lb/> und gibs trucken <lb/> oder in süsser Mandel= Brühe.</p>
+        <p> MAn soll den geklaubten Reiß waschen <lb/> und in gantz guter <objectName ref="milch">Milch</objectName> mit <objectName ref="zucker">Zucker</objectName> und wenig Zimmet= Stup wol dick einsieden <lb/> und wieder abkühlen lassen <lb/> rühre Eyer darein <lb/> nach Proportion des Reiß <lb/> schütte den Reiß auf ein <objectName ref="teller">Teller</objectName> <lb/> schneide Strützlein nach Gefallen <lb/> kehrs in Meel <lb/> oder abgeschlagenen Eyern um <lb/> bachs schön liecht aus heissem Schmaltz <lb/> oder mische auch Weinbeerlein darunter <lb/> und gibs trucken <lb/> oder in süsser Mandel= <objectName ref="bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

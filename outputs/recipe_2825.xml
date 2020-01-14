@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm ausgelößt= gehackte Krebs= Schweifflein <lb/> schwings mit wenig Semmel= Brosen <lb/> und klein= gehackten Petersil <lb/> in Krebs= oder andern Butter herüber <lb/> mit wenig Erbes= oder Fleisch= Brühe und Muscatnuß <lb/> auf der Glut aufgesotten <lb/> ist fertig.</p>
+        <p> NImm ausgelößt= gehackte Krebs= Schweifflein <lb/> schwings mit wenig Semmel= Brosen <lb/> und klein= gehackten Petersil <lb/> in Krebs= oder andern <objectName ref="butter">Butter</objectName> herüber <lb/> mit wenig Erbes= oder Fleisch= <objectName ref="bruehe">Brühe</objectName> und Muscatnuß <lb/> auf der <objectName ref="glut">Glut</objectName> aufgesotten <lb/> ist fertig. </p>
             </div>
         </body>
     </text>

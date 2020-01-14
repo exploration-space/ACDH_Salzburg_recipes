@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm ein Aepffel=Koch auf ein Schussel <lb/> schlag zwey Eyer daran <lb/> sammt einem Dotter <lb/> stupffs mit Zimmet wol <lb/> zuckere es <lb/> damit es süß genug wird <lb/> rührs ein Viertel=Stund <lb/> schmirbe ein Schüssel und Reiff mit Butter <lb/> und schütt das Koch darein <lb/> bachs <lb/> wo du kanst <lb/> in Aepffel=oder Dorten=Pfann <lb/> laß gemach ausziehen ein Viertelstund <lb/> wanns gebachen ist <lb/> so zuckere es oben auf <lb/> es ist gut.</p>
+        <p> Nimm ein Aepffel=Koch auf ein Schussel <lb/> schlag zwey Eyer daran <lb/> sammt einem Dotter <lb/> stupffs mit Zimmet wol <lb/> zuckere es <lb/> damit es süß genug wird <lb/> rührs ein Viertel=Stund <lb/> schmirbe ein <objectName ref="schuessel">Schüssel</objectName> und Reiff mit <objectName ref="butter">Butter</objectName> <lb/> und schütt das Koch darein <lb/> bachs <lb/> wo du kanst <lb/> in Aepffel=oder <objectName ref="dortenpfann">Dorten=Pfann</objectName> <lb/> laß gemach ausziehen ein Viertelstund <lb/> wanns gebachen ist <lb/> so zuckere es oben auf <lb/> es ist gut. </p>
             </div>
         </body>
     </text>

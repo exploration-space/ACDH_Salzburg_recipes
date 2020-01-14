@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) grün Pettersilgen <lb/> die gesotten ist mit der Wurtzel <lb/> streich sie durch mit gebeht Schnitten Brot vnd Erbeßbrüh <lb/> machs ab mit Pfeffer <lb/> Saffran <lb/> Butter vnd Saltz <lb/> laß darmit sieden <lb/> so wirt es gut vnnd wolgeschmack.</p>
+        <p> Nim ( m ) grün Pettersilgen <lb/> die gesotten ist mit der Wurtzel <lb/> streich sie durch mit gebeht Schnitten <objectName ref="brot">Brot</objectName> vnd Erbeßbrüh <lb/> machs ab mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Saffran <lb/> <objectName ref="butter">Butter</objectName> vnd Saltz <lb/> laß darmit sieden <lb/> so wirt es gut vnnd wolgeschmack. </p>
             </div>
         </body>
     </text>

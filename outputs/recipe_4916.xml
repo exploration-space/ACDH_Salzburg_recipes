@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn die Leber reinlich gewaschen <lb/> und gehäutet worden <lb/> zerschneide selbige zu dinnen Stücklein <lb/> saltze sie aber nicht <lb/> sondern melbs alsobalden ein <lb/> und bachs aus einer Butter oder Schmaltz schön licht heraus; legs dann in eine Schüssel <lb/> bestreue es mit ein wenig Saltz <lb/> und klein= geschnittenen Zitronen= Schelffen; druck auch entweder alsobald <lb/> oder aber erst bey Tisch <lb/> den Safft von Citronen darauf <lb/> nach deinem belieben.</p>
+        <p> WAnn die <objectName ref="leber">Leber</objectName> reinlich gewaschen <lb/> und gehäutet worden <lb/> zerschneide selbige zu dinnen Stücklein <lb/> saltze sie aber nicht <lb/> sondern melbs alsobalden ein <lb/> und bachs aus einer <objectName ref="butter">Butter</objectName> oder Schmaltz schön licht heraus; legs dann in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> bestreue es mit ein wenig Saltz <lb/> und klein= geschnittenen Zitronen= Schelffen; druck auch entweder alsobald <lb/> oder aber erst bey <objectName ref="tisch">Tisch</objectName> <lb/> den Safft von Citronen darauf <lb/> nach deinem belieben. </p>
             </div>
         </body>
     </text>

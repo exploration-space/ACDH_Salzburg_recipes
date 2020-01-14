@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) die Hinterlauff von einem Gembsen <lb/> spick sie wol mit Speck <lb/> der wol dick geschnitten <lb/> würtz wol mit allerley Gewürtz <lb/> vnd versaltz es nit <lb/> schlags in ein Ruckenteig <lb/> vnnd wenns schier gebacken <lb/> so geuß Weinessig durch das Lufftloch darein <lb/> vnd laß damit backen. Vnd wenn du es herauß nimmest <lb/> so streich das Loch mit Ruckenteig wider zu <lb/> vnd laß kalt werden <lb/> so wirt es gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) die Hinterlauff von einem Gembsen <lb/> spick sie wol mit <objectName ref="speck">Speck</objectName> <lb/> der wol dick geschnitten <lb/> würtz wol mit allerley Gewürtz <lb/> vnd versaltz es nit <lb/> schlags in ein Ruckenteig <lb/> vnnd wenns schier gebacken <lb/> so geuß <objectName ref="weinessig">Weinessig</objectName> durch das Lufftloch darein <lb/> vnd laß damit backen. Vnd wenn du es herauß nimmest <lb/> so streich das Loch mit Ruckenteig wider zu <lb/> vnd laß kalt werden <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

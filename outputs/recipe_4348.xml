@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wann das Hirn gesotten <lb/> wird es klein gehackt <lb/> mit wenig Saltz und süssen Gewürtz <lb/> Wein= Beerlein <lb/> Mandeln <lb/> Pinioli, und dergleichen <lb/> auch Eyern <lb/> wohl fett in Butter geröst <lb/> in ausgehöhlte und gebachene runde Semmel gefüllt <lb/> mit süssem Ram oder brauner Brühe <lb/> oder jùs, übergossen; regaliers mit Paffössen <lb/> und ausgebachnen Petersil= Kräutlein; also macht mans auch mit grünen Kräutern oder Zwibel <lb/> und laßt die Weinbeerlein aus.</p>
+        <p> Wann das <objectName ref="hirn">Hirn</objectName> gesotten <lb/> wird es klein gehackt <lb/> mit wenig Saltz und süssen Gewürtz <lb/> Wein= Beerlein <lb/> <objectName ref="mandeln">Mandeln</objectName> <lb/> Pinioli, und dergleichen <lb/> auch Eyern <lb/> wohl <objectName ref="fett">fett</objectName> in <objectName ref="butter">Butter</objectName> geröst <lb/> in ausgehöhlte und gebachene runde Semmel gefüllt <lb/> mit süssem Ram oder brauner <objectName ref="bruehe">Brühe</objectName> <lb/> oder jùs, übergossen; regaliers mit Paffössen <lb/> und ausgebachnen Petersil= Kräutlein; also macht mans auch mit grünen <objectName ref="kraeuter">Kräutern</objectName> oder Zwibel <lb/> und laßt die Weinbeerlein aus. </p>
             </div>
         </body>
     </text>

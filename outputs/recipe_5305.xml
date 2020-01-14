@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schlag Eyer auff <lb/> schlag sie wol durcheinander <lb/> vnnd saltz sie <lb/> laß durch ein Härin Tuch lauffen <lb/> vnd zeuchs in eine Milch die seudt <lb/> rürs vmb <lb/> biß d(aß) auffseudt <lb/> daß nit anbrennt <lb/> wenns auffgesotten hat <lb/> so schüt es auff ein Durchschlag <lb/> laß d(as) Käse Wasser davon rinnen <lb/> vnd beschwers ein wenig <lb/> vnd laß kalt werden <lb/> wenns kalt ist <lb/> so stürtz es vmb auff ein Bret <lb/> vnnd schneidts klein oder länglicht <lb/> wie du es haben wilt <lb/> breuns auß heisser Butter <lb/> thu es in eine(n) Pfeffer <lb/> oder in ein Mandelgescharb oder Epffelgescharb <lb/> so ist es auch ein guts Essen.</p>
+        <p> Schlag Eyer auff <lb/> schlag sie wol durcheinander <lb/> vnnd saltz sie <lb/> laß durch ein Härin <objectName ref="tuch">Tuch</objectName> lauffen <lb/> vnd zeuchs in eine <objectName ref="milch">Milch</objectName> die seudt <lb/> rürs vmb <lb/> biß d ( aß ) auffseudt <lb/> daß nit anbrennt <lb/> wenns auffgesotten hat <lb/> so schüt es auff ein <objectName ref="durchschlag">Durchschlag</objectName> <lb/> laß d ( as ) <objectName ref="kaese">Käse</objectName> <objectName ref="wasser">Wasser</objectName> davon rinnen <lb/> vnd beschwers ein wenig <lb/> vnd laß kalt werden <lb/> wenns kalt ist <lb/> so stürtz es vmb auff ein Bret <lb/> vnnd schneidts klein oder länglicht <lb/> wie du es haben wilt <lb/> breuns auß heisser <objectName ref="butter">Butter</objectName> <lb/> thu es in eine ( n ) <objectName ref="pfeffer">Pfeffer</objectName> <lb/> oder in ein Mandelgescharb oder Epffelgescharb <lb/> so ist es auch ein guts Essen. </p>
             </div>
         </body>
     </text>

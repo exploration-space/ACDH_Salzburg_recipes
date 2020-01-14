@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet das Magere von übergebliebenen Rindfleisch <lb/> schneidets zu dinnen Plätzlein ; legets in eine Schüssel <lb/> giesst Essig und Fleischbrüh daran <lb/> streuet Ingber und Pfeffer daren <lb/> thut ein wenig Butter dazu <lb/> deckt eine andere Schüssel oben darauf <lb/> setzet es also auf ene Glut <lb/> lassets sieden <lb/> und übergiessets offt <lb/> biß es ein dickes Brühlein bekommet.</p>
+        <p> NEhmet das Magere von übergebliebenen <objectName ref="rindfleisch">Rindfleisch</objectName> <lb/> schneidets zu dinnen Plätzlein; legets in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> giesst <objectName ref="essig">Essig</objectName> und Fleischbrüh daran <lb/> streuet Ingber und <objectName ref="pfeffer">Pfeffer</objectName> daren <lb/> thut ein wenig <objectName ref="butter">Butter</objectName> dazu <lb/> deckt eine andere <objectName ref="schuessel">Schüssel</objectName> oben darauf <lb/> setzet es also auf ene <objectName ref="glut">Glut</objectName> <lb/> lassets sieden <lb/> und übergiessets offt <lb/> biß es ein dickes Brühlein bekommet. </p>
             </div>
         </body>
     </text>

@@ -171,9 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm gut= gescheelte und dürre Aepffel= Spalten <lb/> wasche sie sauber <lb/> sieds in einem erdenen oder verzinnten Geschirr <lb/> mit halb Wein und halb Wasser <lb/> auch wohl Zucker <lb/> zwey Nägelein und Zimmet <lb/> sie seyen gantz oder zerhackt <lb/> mit oder ohne Zusatz <lb/> dann sie seyn in allweg gut; doch aber dörffen sie nicht zu naß seyn.
-
-Dergleichen kan auch von dürren Pfersich <lb/> Kütten <lb/> Weichseln <lb/> Zwetschgen <lb/> Klotzen <lb/> und andern Obst geschehen.</p>
+        <p> NImm gut= gescheelte und dürre Aepffel= Spalten <lb/> wasche sie sauber <lb/> sieds in einem erdenen oder verzinnten <objectName ref="geschirr">Geschirr</objectName> <lb/> mit halb <objectName ref="wein">Wein</objectName> und halb <objectName ref="wasser">Wasser</objectName> <lb/> auch wohl <objectName ref="zucker">Zucker</objectName> <lb/> zwey Nägelein und Zimmet <lb/> sie seyen gantz oder zerhackt <lb/> mit oder ohne Zusatz <lb/> dann sie seyn in allweg gut; doch aber dörffen sie nicht zu naß seyn. Dergleichen kan auch von dürren Pfersich <lb/> Kütten <lb/> Weichseln <lb/> Zwetschgen <lb/> Klotzen <lb/> und andern Obst geschehen. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIedet die Hüner oder Capaunen <lb/> aber nicht zu weich <lb/> damit sie in nachfolgender Brüh noch einen Sud thun können; hacket hernach Petersilien= Kraut klein <lb/> thut es zusamt einen Semmel= Mehl in einen stollichten Hafen <lb/> giesset Fleischbrüh daran <lb/> würtzets mit gut= und scharffer Gewürtz <lb/> leget die Hüner darein <lb/> und lassets ferner sieden <lb/> biß sie weich werden: Oder aber machet die Brüh besonders zusammen <lb/> leget die gesottene Hüner oder Capaunen in eine Schüssel <lb/> und giesst dann die Brüh darüber <lb/> last aber zuvor ein Stück Butter darinnen mit aufsieden.</p>
+        <p> SIedet die Hüner oder Capaunen <lb/> aber nicht zu weich <lb/> damit sie in nachfolgender Brüh noch einen Sud thun können; hacket hernach Petersilien= <objectName ref="kraut">Kraut</objectName> klein <lb/> thut es zusamt einen Semmel= <objectName ref="mehl">Mehl</objectName> in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> giesset Fleischbrüh daran <lb/> würtzets mit gut= und scharffer Gewürtz <lb/> leget die Hüner darein <lb/> und lassets ferner sieden <lb/> biß sie weich werden : Oder aber machet die Brüh besonders zusammen <lb/> leget die gesottene Hüner oder Capaunen in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und giesst dann die Brüh darüber <lb/> last aber zuvor ein Stück <objectName ref="butter">Butter</objectName> darinnen mit aufsieden. </p>
             </div>
         </body>
     </text>

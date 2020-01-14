@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ain andern fisch, es sey ain Kärpf, seudt <lb/> in ainen wein, vnd ain wennig Esßig, vnd <lb/> ain Haußenblater, zwifel, Pfeffer, lindts <lb/> gewürz, laß gemach Sieden, Seichs ab, gilbs <lb/> nit, laß ain stunt stehen, d(a)s fein lauter <lb/> wiert, darnach leg die farb tiecher darein, dar= <lb/> =nach Seut ferchen fein haiß ab in Salz, nit <lb/> zu hart, darnach legs auf ain schißl, geuß die <lb/> Supen darein. <lb/></p>
+        <p> Nimb ain andern <objectName ref="fisch">fisch</objectName>, es sey ain Kärpf, seudt <lb/> in ainen <objectName ref="wein">wein</objectName>, vnd ain wennig Esßig, vnd <lb/> ain Haußenblater, zwifel, <objectName ref="pfeffer">Pfeffer</objectName>, lindts <lb/> gewürz, laß gemach Sieden, Seichs ab, gilbs <lb/> nit, laß ain stunt stehen, d ( a ) s fein lauter <lb/> wiert, darnach leg die farb tiecher darein, dar= <lb/> =nach Seut ferchen fein haiß ab in <objectName ref="salz">Salz</objectName>, nit <lb/> zu hart, darnach legs auf ain schißl, geuß die <lb/> Supen darein. <lb/> </p>
             </div>
         </body>
     </text>

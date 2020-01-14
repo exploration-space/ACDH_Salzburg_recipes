@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schlag Manscho Blancko in ein solchen Teig <lb/> es sey von Fleisch oder Fischen <lb/> daß du den Teig nicht versaltzest <lb/> vnnd fein kül außbäckest <lb/> besträw es mit Zucker <lb/> vnd gibs also warm auff ein Tisch <lb/> so ist es gut vnd wolgeschmack.</p>
+        <p> Schlag Manscho Blancko in ein solchen <objectName ref="teig">Teig</objectName> <lb/> es sey von <objectName ref="fleisch">Fleisch</objectName> oder Fischen <lb/> daß du den <objectName ref="teig">Teig</objectName> nicht versaltzest <lb/> vnnd fein kül außbäckest <lb/> besträw es mit <objectName ref="zucker">Zucker</objectName> <lb/> vnd gibs also warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

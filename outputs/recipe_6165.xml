@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>FEin gebraten <lb/> warm geben oder kalt <lb/> oder zugericht <lb/> daß er stehet in einer Schüssel <lb/> mit seinen Federn <lb/> so ist es ein herrlicher Vogel.</p>
+        <p> FEin gebraten <lb/> warm geben oder kalt <lb/> oder zugericht <lb/> daß er stehet in einer <objectName ref="schuessel">Schüssel</objectName> <lb/> mit seinen Federn <lb/> so ist es ein herrlicher Vogel. </p>
             </div>
         </body>
     </text>

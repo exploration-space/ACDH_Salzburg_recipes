@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet gesottenes <lb/> oder nur abgeschipfftes <lb/> Capaunen= oder Hüner= Fleisch <lb/> thut zimlich viel Marck darunter <lb/> hackt es klein <lb/> und reibt ein wenig Semmel= Mehl <lb/> und einen guten Theil Weinbeerlein oder Corinthen darein <lb/> würtzets mit Ingber <lb/> Pfeffer <lb/> Muscaten= Blüh und Saffran; schlaget zwey oder drey Eyer daran <lb/> rührt es unter einander <lb/> legets in eine gute Fleischbrüh <lb/> und lassets so lang als harte Eyer sieden.</p>
+        <p> NEhmet gesottenes <lb/> oder nur abgeschipfftes <lb/> Capaunen= oder Hüner= <objectName ref="fleisch">Fleisch</objectName> <lb/> thut zimlich viel Marck darunter <lb/> hackt es klein <lb/> und reibt ein wenig Semmel= <objectName ref="mehl">Mehl</objectName> <lb/> und einen guten Theil Weinbeerlein oder Corinthen darein <lb/> würtzets mit Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Muscaten= Blüh und Saffran; schlaget zwey oder drey Eyer daran <lb/> rührt es unter einander <lb/> legets in eine gute Fleischbrüh <lb/> und lassets so lang als harte Eyer sieden. </p>
             </div>
         </body>
     </text>

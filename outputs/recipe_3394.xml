@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BEreite die Grundeln wie schon gedacht <lb/> saltze und schwinge sie im Mehl <lb/> bache es dann schön gelb und rösch heraus <lb/> so sind sie recht.</p>
+        <p> BEreite die Grundeln wie schon gedacht <lb/> saltze und schwinge sie im <objectName ref="mehl">Mehl</objectName> <lb/> bache es dann schön gelb und rösch heraus <lb/> so sind sie recht. </p>
             </div>
         </body>
     </text>

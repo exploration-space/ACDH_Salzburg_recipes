@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Du magsts auch im Cassenadt absieden <lb/> gefellt dirs <lb/> es sey kalt <lb/> oder machs warm mit Erbsbrüh <lb/> vnnd frischer Butter <lb/> laß darmit auffsieden <lb/> machs saur oder nicht <lb/> so ist es auff beyde manier gut vnd wolgeschmack.</p>
+        <p> Du magsts auch im Cassenadt absieden <lb/> gefellt dirs <lb/> es sey kalt <lb/> oder machs warm mit Erbsbrüh <lb/> vnnd frischer <objectName ref="butter">Butter</objectName> <lb/> laß darmit auffsieden <lb/> machs saur oder nicht <lb/> so ist es auff beyde manier gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

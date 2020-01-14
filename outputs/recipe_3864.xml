@@ -172,10 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIse werden mit einer Dotter= Brühe von Butter <lb/> Wein <lb/> Erbsen= Brühe <lb/> Lemoni weiß <lb/> oder auch mit kleingehackten Petersil= Kräutlein gemacht <lb/> wohl gewürtzt <lb/> etc. und gegeben.
-
-NB. Vor einen <lb/> der nicht sauer essen darff <lb/> gibt mans pur mit guter Erbsen= Brühe <lb/> die wohl angemacht mit Butter und Muscatnuß <lb/> etc.
-</p>
+        <p> DIse werden mit einer Dotter= <objectName ref="bruehe">Brühe</objectName> von <objectName ref="butter">Butter</objectName> <lb/> <objectName ref="wein">Wein</objectName> <lb/> Erbsen= <objectName ref="bruehe">Brühe</objectName> <lb/> Lemoni weiß <lb/> oder auch mit kleingehackten Petersil= Kräutlein gemacht <lb/> wohl gewürtzt <lb/> etc. und gegeben. NB. Vor einen <lb/> der nicht sauer essen darff <lb/> gibt mans pur mit guter Erbsen= <objectName ref="bruehe">Brühe</objectName> <lb/> die wohl angemacht mit <objectName ref="butter">Butter</objectName> und Muscatnuß <lb/> etc. </p>
             </div>
         </body>
     </text>

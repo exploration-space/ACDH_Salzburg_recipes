@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>PLateis gebrüht <lb/> abgesiehen <lb/> in die Schüssel gelegt <lb/> mit Saltz <lb/> Gewürtz <lb/> klein= gehackten Petersil= Kräutlein <lb/> mit einem Stück Butter <lb/> und weniger gelber Erbes= Brühe.</p>
+        <p> PLateis gebrüht <lb/> abgesiehen <lb/> in die <objectName ref="schuessel">Schüssel</objectName> gelegt <lb/> mit Saltz <lb/> Gewürtz <lb/> klein= gehackten Petersil= Kräutlein <lb/> mit einem Stück <objectName ref="butter">Butter</objectName> <lb/> und weniger gelber Erbes= <objectName ref="bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Brüßlein müssen zerschnitten <lb/> gewürtzt <lb/> in Butter geröst <lb/> und mit Schwammen <lb/> oder Maurachen vermischt werden <lb/> mit etlich Tropffen Wein <lb/> oder Lemoni= Safft <lb/> mit guter jus.</p>
+        <p> DIe Brüßlein müssen zerschnitten <lb/> gewürtzt <lb/> in <objectName ref="butter">Butter</objectName> geröst <lb/> und mit Schwammen <lb/> oder Maurachen vermischt werden <lb/> mit etlich Tropffen <objectName ref="wein">Wein</objectName> <lb/> oder Lemoni= Safft <lb/> mit guter <objectName ref="jus">jus</objectName>. </p>
             </div>
         </body>
     </text>

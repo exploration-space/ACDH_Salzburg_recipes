@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES werden die ausgelößte Ruck= Brätlein nach der Länge geschnitten zu dünnen Flecklein <lb/> geklopfft <lb/> wenig gesaltzen <lb/> gewürtzt <lb/> und aus einander gelegt ; dann hacke guten Speck <lb/> Niernfeisten <lb/> Zwibel <lb/> Petersil <lb/> oder auch andere gute Kräutlein und Sardellen <lb/> alles gantz klein ; fülle die zubereitete Flecklein mit diser Füll <lb/> oder nimm gar ein gutes Bratwürst= Gehäck darunter <lb/> und rolle sie zusammen <lb/> und brats am Spiß im Safft <lb/> oder dämpffe sie <lb/> gleich einer Pasteten in dem Ofen ; gebts auch also mit einer Austern= oder Sardellen= Brühe versehen <lb/> ist auch eine gute Pasteten= Füll.</p>
+        <p> ES werden die ausgelößte Ruck= Brätlein nach der Länge geschnitten zu dünnen Flecklein <lb/> geklopfft <lb/> wenig gesaltzen <lb/> gewürtzt <lb/> und aus einander gelegt; dann hacke guten <objectName ref="speck">Speck</objectName> <lb/> Niernfeisten <lb/> Zwibel <lb/> Petersil <lb/> oder auch andere gute Kräutlein und <objectName ref="sardellen">Sardellen</objectName> <lb/> alles gantz klein; fülle die zubereitete Flecklein mit diser Füll <lb/> oder nimm gar ein gutes Bratwürst= <objectName ref="gehaeck">Gehäck</objectName> darunter <lb/> und rolle sie zusammen <lb/> und brats am Spiß im Safft <lb/> oder dämpffe sie <lb/> gleich einer <objectName ref="pastete">Pasteten</objectName> in dem <objectName ref="ofen">Ofen</objectName>; gebts auch also mit einer Austern= oder Sardellen= <objectName ref="bruehe">Brühe</objectName> versehen <lb/> ist auch eine gute Pasteten= Füll. </p>
             </div>
         </body>
     </text>

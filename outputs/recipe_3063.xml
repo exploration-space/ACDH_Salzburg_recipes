@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SPenat wie jetzt gedacht <lb/> mit Oel <lb/> Erbes= Brühe <lb/> und Parmesan- Käß.</p>
+        <p> SPenat wie jetzt gedacht <lb/> mit Oel <lb/> Erbes= <objectName ref="bruehe">Brühe</objectName> <lb/> und Parmesan- Käß. </p>
             </div>
         </body>
     </text>

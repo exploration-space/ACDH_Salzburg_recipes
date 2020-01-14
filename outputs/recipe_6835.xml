@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) von einem Spenferckel <lb/> das zu kleinen stücken gehackt ist <lb/> setzs auff das Feuwer <lb/> quells vnnd säubers auß <lb/> thu es in eine Pasteten <lb/> die von weissem Teig angemacht ist <lb/> pfeffers vnd saltzs <lb/> thu frische Butter <lb/> die vngeschmältzt ist <lb/> darüber <lb/> schneidt saure Limonien fein breit darein <lb/> machs zu <lb/> vnd scheubs in Ofen <lb/> vnd laß backen <lb/> schneidts auff <lb/> vn(d) geuß ein saur Brüh von Eyern gemacht <lb/> darüber <lb/> vnd gibs warm auff ein Tisch.</p>
+        <p> Nim ( m ) von einem Spenferckel <lb/> das zu kleinen stücken gehackt ist <lb/> setzs auff das Feuwer <lb/> quells vnnd säubers auß <lb/> thu es in eine <objectName ref="pastete">Pasteten</objectName> <lb/> die von weissem <objectName ref="teig">Teig</objectName> angemacht ist <lb/> pfeffers vnd saltzs <lb/> thu frische <objectName ref="butter">Butter</objectName> <lb/> die vngeschmältzt ist <lb/> darüber <lb/> schneidt saure Limonien fein breit darein <lb/> machs zu <lb/> vnd scheubs in <objectName ref="ofen">Ofen</objectName> <lb/> vnd laß backen <lb/> schneidts auff <lb/> vn ( d ) geuß ein saur Brüh von Eyern gemacht <lb/> darüber <lb/> vnd gibs warm auff ein <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb gebachne<gap/> fisch vnnd Gebädte<gap/> <lb/><lb/> (ve 46) schnidl<gap/> vnnd thues woll in Mess<gap/> <lb/> stessen<gap/> thus in ein Häfl<gap/> in <lb/> einer Arbes brie<gap/> lass sieden<gap/> treibs<gap/> <lb/> hernach Durch ein Enges Sibel<gap/> in <lb/> ein Reindl<gap/> auch Musgablie<gap/> vnd Zimmet stup<gap/> lass sieden<gap/> lege ein <lb/> stuckh<gap/> Putter darzur Richts auf bätte<gap/> <lb/> sembl schnidl<gap/> an vnnd schen Ge= <lb/> bachnen<gap/> fisch Milchner<gap/> darauf den <lb/> schissl<gap/> Ranfft<gap/> Muest mit Pachnen<gap/> <lb/> schnidl Ziehren. <lb/></p>
+        <p> Nimb gebachne<gap/> <objectName ref="fisch">fisch</objectName> vnnd Gebädte<gap/> <lb/><lb/> ( ve 46 ) schnidl<gap/> vnnd thues woll in Mess<gap/> <lb/> stessen<gap/> thus in ein Häfl<gap/> in <lb/> einer Arbes brie<gap/> lass sieden<gap/> treibs<gap/> <lb/> hernach Durch ein Enges Sibel<gap/> in <lb/> ein Reindl<gap/> auch Musgablie<gap/> vnd Zimmet stup<gap/> lass sieden<gap/> lege ein <lb/> stuckh<gap/> Putter darzur Richts auf bätte<gap/> <lb/> sembl schnidl<gap/> an vnnd schen Ge= <lb/> bachnen<gap/> <objectName ref="fisch">fisch</objectName> Milchner<gap/> darauf den <lb/> schissl<gap/> Ranfft<gap/> Muest mit Pachnen<gap/> <lb/> schnidl Ziehren. <lb/> </p>
             </div>
         </body>
     </text>

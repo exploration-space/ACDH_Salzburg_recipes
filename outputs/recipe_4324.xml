@@ -168,9 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm frische <lb/> wohl zeitige Ammerellen <lb/> klaube die Stein oder Kern heraus <lb/> legs mit viel Zucker und Zimmet in die Dorten <lb/> allwo der Boden zuvor mit Semmel= Brosen bestreuet ist <lb/> mach einen Ausschnitt darauf <lb/> und bach es <lb/> gibs mit Zucker bestreut.
-Sonst werden auch gantze Ammerellen in Zucker gesotten <lb/> und gießt man nichts daran <lb/> sie geben schon selber Safft <lb/> gibs mit Zimmet und Semmel= Brosen in die Dorten <lb/> wie oben.
-Dergleichen Safft und Latwergen seynd allzeit gut in allerhand Dorten.</p>
+        <p> Nimm frische <lb/> wohl zeitige Ammerellen <lb/> klaube die <objectName ref="stein">Stein</objectName> oder Kern heraus <lb/> legs mit viel <objectName ref="zucker">Zucker</objectName> und Zimmet in die Dorten <lb/> allwo der Boden zuvor mit Semmel= Brosen bestreuet ist <lb/> mach einen Ausschnitt darauf <lb/> und bach es <lb/> gibs mit <objectName ref="zucker">Zucker</objectName> bestreut. Sonst werden auch gantze Ammerellen in <objectName ref="zucker">Zucker</objectName> gesotten <lb/> und gießt man nichts daran <lb/> sie geben schon selber Safft <lb/> gibs mit Zimmet und Semmel= Brosen in die Dorten <lb/> wie oben. Dergleichen Safft und <objectName ref="latwerge">Latwergen</objectName> seynd allzeit gut in allerhand Dorten. </p>
             </div>
         </body>
     </text>

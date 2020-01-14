@@ -169,10 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> 
-BEreite und röste die Vögel <lb/> wie die obige vorher= beschriebene <lb/> thue sie in ein Häfelein <lb/> gieß Wein daran <lb/> streue Zucker und Trisanet hinein <lb/> wirff frische Beer von Weintrauben dazu <lb/> und laß es alles mit einander dämpffen <lb/> jedoch aber nicht zu lang <lb/> damit die Beere nicht zu weich werden: Alsdann richts an <lb/> und bestreue es nochmal mit Trisanet. Man kan auch die Beere erst <lb/> wann die Vögel schon ein wenig gesotten <lb/> hinein thun <lb/> damit selbige nicht zu weich werden.
-
- </p>
+        <p> BEreite und röste die <objectName ref="voegel">Vögel</objectName> <lb/> wie die obige vorher= beschriebene <lb/> thue sie in ein <objectName ref="haefelein">Häfelein</objectName> <lb/> gieß <objectName ref="wein">Wein</objectName> daran <lb/> streue <objectName ref="zucker">Zucker</objectName> und Trisanet hinein <lb/> wirff frische Beer von <objectName ref="weintrauben">Weintrauben</objectName> dazu <lb/> und laß es alles mit einander dämpffen <lb/> jedoch aber nicht zu lang <lb/> damit die Beere nicht zu weich werden : Alsdann richts an <lb/> und bestreue es nochmal mit Trisanet. Man kan auch die Beere erst <lb/> wann die <objectName ref="voegel">Vögel</objectName> schon ein wenig gesotten <lb/> hinein thun <lb/> damit selbige nicht zu weich werden. </p>
             </div>
         </body>
     </text>

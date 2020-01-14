@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Gebratene Gänßleber mit einem Kälbern Netz vmbwicklet <lb/> vn(d) fein sauber gebraten <lb/> wenn du es anrichtest <lb/> so gib ein grüne Brüh darvnter <lb/> oder ein braune Brüh <lb/> die nicht saur. ist. Vnd ich hab Lebern von einer Ganß die die Juden in Böhem gemestet <lb/> gebraten <lb/> die ein drey Pfundt vnd etliche Lot gewogen. Man kan auch ein Muß darauß machen <lb/> wie zuvor ist angezeigt worden.</p>
+        <p> Gebratene Gänßleber mit einem Kälbern <objectName ref="netz">Netz</objectName> vmbwicklet <lb/> vn ( d ) fein sauber gebraten <lb/> wenn du es anrichtest <lb/> so gib ein grüne Brüh darvnter <lb/> oder ein braune Brüh <lb/> die nicht saur. ist. Vnd ich hab <objectName ref="leber">Lebern</objectName> von einer Ganß die die Juden in Böhem gemestet <lb/> gebraten <lb/> die ein drey Pfundt vnd etliche Lot gewogen. Man kan auch ein Muß darauß machen <lb/> wie zuvor ist angezeigt worden. </p>
             </div>
         </body>
     </text>

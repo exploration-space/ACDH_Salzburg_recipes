@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn der Bug sauber <lb/> und das lange Bein <lb/> oder Knochen ein wenig abgehackt <lb/> auch das innwendige Bein mit Vortheil etlichmal abgeschlagen ist <lb/> daß die Haut mit dem auswendigen Fleisch noch gantz und unverletzt ist; so nimm ein langes Messer <lb/> mach die Schulter unter der Haut durchgehends hohl; mach darein ein gute Füll <lb/> wie du hier bey der Brust <lb/> und anderstwo dergleichen viel hast <lb/> mache das Loch wohl zu <lb/> und brats gleich einer gefüllten Brust; dem es beliebt <lb/> der planschiers und spicks über sich schön mit Speck <lb/> lege ein <lb/> oder mehr dergleichen auf eine Schüssel <lb/> und regaliers <lb/> so gut du kanst.</p>
+        <p> WAnn der Bug sauber <lb/> und das lange Bein <lb/> oder <objectName ref="knochen">Knochen</objectName> ein wenig abgehackt <lb/> auch das innwendige Bein mit Vortheil etlichmal abgeschlagen ist <lb/> daß die Haut mit dem auswendigen <objectName ref="fleisch">Fleisch</objectName> noch gantz und unverletzt ist; so nimm ein langes <objectName ref="messer">Messer</objectName> <lb/> mach die Schulter unter der Haut durchgehends hohl; mach darein ein gute Füll <lb/> wie du hier bey der <objectName ref="brust">Brust</objectName> <lb/> und anderstwo dergleichen viel hast <lb/> mache das Loch wohl zu <lb/> und brats gleich einer gefüllten <objectName ref="brust">Brust</objectName>; dem es beliebt <lb/> der planschiers und spicks über sich schön mit <objectName ref="speck">Speck</objectName> <lb/> lege ein <lb/> oder mehr dergleichen auf eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und regaliers <lb/> so gut du kanst. </p>
             </div>
         </body>
     </text>

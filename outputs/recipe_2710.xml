@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Die Tauben und  das jus wird eben auf dise Weiß <lb/> gleich wie jetzt bey denen Linsen zu sehen <lb/> zugericht <lb/> die Bonen auch solchergestalten gesotten <lb/> und mit dem jus durchgetrieben <lb/> die geröste Bröcklein darein gerührt <lb/> angerichtet <lb/> die Tauben darauf gelegt und aufgetragen <lb/> auch regaliert mit der gleichen gerösten Bröcklein <lb/> welche zuvor mit klein=gehacktem Petersil=Kraut in Butter geröstet werden.</p>
+        <p> Die <objectName ref="taube">Tauben</objectName> und das <objectName ref="jus">jus</objectName> wird eben auf dise Weiß <lb/> gleich wie jetzt bey denen <objectName ref="linsen">Linsen</objectName> zu sehen <lb/> zugericht <lb/> die Bonen auch solchergestalten gesotten <lb/> und mit dem <objectName ref="jus">jus</objectName> durchgetrieben <lb/> die geröste Bröcklein darein gerührt <lb/> angerichtet <lb/> die <objectName ref="taube">Tauben</objectName> darauf gelegt und aufgetragen <lb/> auch regaliert mit der gleichen gerösten Bröcklein <lb/> welche zuvor mit klein=gehacktem Petersil=Kraut in <objectName ref="butter">Butter</objectName> geröstet werden. </p>
             </div>
         </body>
     </text>

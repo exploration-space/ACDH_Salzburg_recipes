@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) die Hindtbeern <lb/> setz sie mit geriebnem Weck darzu <lb/> rürs vmb <lb/> biß daß auffseudt <lb/> so geben sie von jnen selber feuchtigkeit gnug <lb/> streichs durch ein Härin Tuch <lb/> vnd thu es in einen Fischkessel <lb/> machs süß <lb/> vnd setzs auff (daß) Feuwer <lb/> rürs vmb biß auffseudt <lb/> richt es auff ein Tisch <lb/> vnd besträw es mit Zucker <lb/> es sey kalt oder warm <lb/> ist es gut vnd auch wolgeschmack. Vnnd auß eim solchen Muß kanstu wol ein Turten machen <lb/> die ist auch nicht böß.</p>
+        <p> Nim ( m ) die Hindtbeern <lb/> setz sie mit geriebnem Weck darzu <lb/> rürs vmb <lb/> biß daß auffseudt <lb/> so geben sie von jnen selber feuchtigkeit gnug <lb/> streichs durch ein Härin <objectName ref="tuch">Tuch</objectName> <lb/> vnd thu es in einen <objectName ref="fischkessel">Fischkessel</objectName> <lb/> machs süß <lb/> vnd setzs auff ( daß ) Feuwer <lb/> rürs vmb biß auffseudt <lb/> richt es auff ein <objectName ref="tisch">Tisch</objectName> <lb/> vnd besträw es mit <objectName ref="zucker">Zucker</objectName> <lb/> es sey kalt oder warm <lb/> ist es gut vnd auch wolgeschmack. Vnnd auß eim solchen Muß kanstu wol ein Turten machen <lb/> die ist auch nicht böß. </p>
             </div>
         </body>
     </text>

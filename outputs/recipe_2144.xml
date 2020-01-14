@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>So nimb ein Grieß, oder Mell, brens im schmalz Woll ein, nimb <lb/> ihn den grieß 8. Aÿr, auf ein tisch, Zerschlags rain Woll, vnd nimb <lb/> süssen Milchrämb drunder, vnd geuß in den einbrenten grieß oder <lb/> mell, seuds, das ein dikhes mueß Wird, nimb dan Weinpör drein, <lb/> wan du Wilt, nimb dan ein andere Pfan, darin ein schmalz ge= <lb/> hizt seÿ, darein geuß das vorgeschribne khoch, sez auf ein Zimb= <lb/> liches glietlein, vnd hiz ein hafen dekh, so brent es sich unden vnd <lb/> oben, laß also lang bachen, so du es anrichst, so stürz die Pfan umb, <lb/> so felts fein ganz herauß, Zukhers, gibs dar. <lb/></p>
+        <p> So nimb ein <objectName ref="griess">Grieß</objectName>, oder Mell, brens im <objectName ref="schmalz">schmalz</objectName> Woll ein, nimb <lb/> ihn den <objectName ref="griess">grieß</objectName> 8. Aÿr, auf ein <objectName ref="tisch">tisch</objectName>, Zerschlags rain Woll, vnd nimb <lb/> süssen Milchrämb drunder, vnd geuß in den einbrenten <objectName ref="griess">grieß</objectName> oder <lb/> mell, seuds, das ein dikhes mueß Wird, nimb dan Weinpör drein, <lb/> wan du Wilt, nimb dan ein andere Pfan, darin ein <objectName ref="schmalz">schmalz</objectName> ge= <lb/> hizt seÿ, darein geuß das vorgeschribne khoch, sez auf ein Zimb= <lb/> liches glietlein, vnd hiz ein <objectName ref="hafen">hafen</objectName> dekh, so brent es sich unden vnd <lb/> oben, laß also lang bachen, so du es anrichst, so stürz die Pfan umb, <lb/> so felts fein ganz herauß, Zukhers, gibs dar. <lb/> </p>
             </div>
         </body>
     </text>

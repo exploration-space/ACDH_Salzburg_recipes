@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) von einem Karpffen die Milch <lb/> seudt sie mit Saltz vnd Wasser ab <lb/> säuber sie sauber auß <lb/> vnnd nim(m) darüber Erbeßbrüh <lb/> Pettersilgen Wurtzel <lb/> gantzen vnnd gestossen Pfeffer <lb/> auch vngeschmältzte Butter vnnd Saltz <lb/> laß damit sieden <lb/> so wirt es gut vnd wolgeschmak. Vnd wenn du es wilt anrichten <lb/> so richt es auff gebeht Schnitten Brot. Also kocht vnd richt man zu ein Suppen von Karpffenmilch.</p>
+        <p> Nim ( m ) von einem Karpffen die <objectName ref="milch">Milch</objectName> <lb/> seudt sie mit Saltz vnd <objectName ref="wasser">Wasser</objectName> ab <lb/> säuber sie sauber auß <lb/> vnnd nim ( m ) darüber Erbeßbrüh <lb/> Pettersilgen Wurtzel <lb/> gantzen vnnd gestossen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> auch vngeschmältzte <objectName ref="butter">Butter</objectName> vnnd Saltz <lb/> laß damit sieden <lb/> so wirt es gut vnd wolgeschmak. Vnd wenn du es wilt anrichten <lb/> so richt es auff gebeht Schnitten <objectName ref="brot">Brot</objectName>. Also kocht vnd richt man zu ein <objectName ref="suppe">Suppen</objectName> von Karpffenmilch. </p>
             </div>
         </body>
     </text>

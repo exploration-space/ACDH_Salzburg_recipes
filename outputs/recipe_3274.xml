@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneid und klopffe die Carbonädlein <lb/> lege sie in ein Casserol mit gar ein wenig Butter und weiß Meel <lb/> saltz und gewürtz sie auch ein wenig <lb/> lege darzu einen gantzen Zwibel <lb/> oder Brocken Speck mit 4. gantzen Nägelein besteckt <lb/> lege auch darzu geschabene <lb/> in feine Stücklein zerschnittene Petersil= Wurtzeln <lb/> und laß dises mit einander weich <lb/> und zimlich einsieden <lb/> auf die letzt thut man auch ein wenig Petersil= Kräutlein darein <lb/> laß noch ein wenig sieden; Wer will <lb/> mags auch ein wenig gilben <lb/> und gibs in feiner Brühe.</p>
+        <p> SChneid und klopffe die Carbonädlein <lb/> lege sie in ein Casserol mit gar ein wenig <objectName ref="butter">Butter</objectName> und weiß Meel <lb/> saltz und gewürtz sie auch ein wenig <lb/> lege darzu einen gantzen Zwibel <lb/> oder Brocken <objectName ref="speck">Speck</objectName> mit 4. gantzen Nägelein besteckt <lb/> lege auch darzu geschabene <lb/> in feine Stücklein zerschnittene Petersil= Wurtzeln <lb/> und laß dises mit einander weich <lb/> und zimlich einsieden <lb/> auf die letzt thut man auch ein wenig Petersil= Kräutlein darein <lb/> laß noch ein wenig sieden; Wer will <lb/> mags auch ein wenig gilben <lb/> und gibs in feiner <objectName ref="bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

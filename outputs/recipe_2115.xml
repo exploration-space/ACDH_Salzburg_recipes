@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Sied die höchten sonst mit schmalz, oder Essig vnd salz, thue die <lb/> gräden daruon, hakh darunder Petersill khreitl, nimb ein <lb/> guets stükhlein Puter, rest gar ein Wenig das gehäkh drein, <lb/> nimb darunder alles, Wie Zum khreß dorten. <lb/></p>
+        <p> Sied die höchten sonst mit <objectName ref="schmalz">schmalz</objectName>, oder <objectName ref="essig">Essig</objectName> vnd <objectName ref="salz">salz</objectName>, thue die <lb/> gräden daruon, hakh darunder Petersill khreitl, nimb ein <lb/> guets stükhlein Puter, rest gar ein Wenig das gehäkh drein, <lb/> nimb darunder alles, Wie Zum khreß dorten. <lb/> </p>
             </div>
         </body>
     </text>

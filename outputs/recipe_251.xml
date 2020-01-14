@@ -169,9 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb .3. löfel Voll stierck<gap/> Mell, <lb/> vnnd ein löfel Voll anders Mell, <lb/> vnnd ein löfel voll Zuckher .2. loth<gap/> <lb/> Nägel vnnd ein löfel Voll linten<gap/> <lb/> Koln<gap/>, misch alles vndereinder mach <lb/> lange strizl<gap/> daraus, Mach lange <lb/> strizl daraus, machs auß<gap/> wie <lb/> die Rässe Nägel<gap/> seindt, Druckhes<gap/> <lb/> so seint sye Recht <lb/>
-
-[Anm.: Die Beimengung von „linten Koln“ (Kohle in Pulverform) erscheint heute befremdlich, wurde aber vermutlich zum Einfärben verwendet, um eine möglichst authentische Farbe von Reißnägeln zu erhalten. Kohle könnte aber auch wegen ihrer diätätischen Wirkung wegen verwendet worden sein.]</p>
+        <p> Nimb.3. löfel Voll stierck<gap/> Mell, <lb/> vnnd ein löfel Voll anders Mell, <lb/> vnnd ein löfel voll Zuckher.2. loth<gap/> <lb/> <objectName ref="naegel">Nägel</objectName> vnnd ein löfel Voll linten<gap/> <lb/> Koln<gap/>, misch alles vndereinder mach <lb/> lange strizl<gap/> daraus, Mach lange <lb/> strizl daraus, machs auß<gap/> wie <lb/> die Rässe Nägel<gap/> seindt, Druckhes<gap/> <lb/> so seint sye Recht <lb/> [ Anm. : Die Beimengung von „ linten Koln “ ( <objectName ref="kohle">Kohle</objectName> in Pulverform ) erscheint heute befremdlich, wurde aber vermutlich zum Einfärben verwendet, um eine möglichst authentische Farbe von Reißnägeln zu erhalten. <objectName ref="kohle">Kohle</objectName> könnte aber auch wegen ihrer diätätischen Wirkung wegen verwendet worden sein. ] </p>
             </div>
         </body>
     </text>

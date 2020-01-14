@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb 8. Aÿr, vnd vill mehr gueten Rämb, Salz ihn Zimblich, thue ein <lb/> löffl voll Waizen mell drein, vnd nimb ein pfan, die man offt Zum <lb/> schmalz braucht, die nit liecht ist, vnd hiz ein schmalz drin, nit gar vil, <lb/> geuß aÿr vnd rämb drein, sez auf ein rost, vnd ein hafendekh mit <lb/> gluet drauf, laß also bachen, so breint es sich unden vnd oben an so <lb/> mans anrichten Will, so thue die hafendekh herab, das es sich von der <lb/> Pfan schelt, stürz dan die pfan umb auf ein schißl, so felt das reindl <lb/> herauß, thue Zukher drauf, gibs also auf den tisch. <lb/></p>
+        <p> Nimb 8. Aÿr, vnd vill mehr gueten Rämb, <objectName ref="salz">Salz</objectName> ihn Zimblich, thue ein <lb/> löffl voll Waizen mell drein, vnd nimb ein pfan, die man offt Zum <lb/> <objectName ref="schmalz">schmalz</objectName> braucht, die nit liecht ist, vnd hiz ein <objectName ref="schmalz">schmalz</objectName> drin, nit gar vil, <lb/> geuß aÿr vnd rämb drein, sez auf ein <objectName ref="rost">rost</objectName>, vnd ein hafendekh mit <lb/> gluet drauf, laß also bachen, so breint es sich unden vnd oben an so <lb/> mans anrichten Will, so thue die hafendekh herab, das es sich von der <lb/> Pfan schelt, stürz dan die pfan umb auf ein schißl, so felt das reindl <lb/> herauß, thue Zukher drauf, gibs also auf den <objectName ref="tisch">tisch</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Waller wird gantzer <lb/> oder Stück= weiß eingesaltzen <lb/> mit siedigem Eßig übergossen <lb/> hernach mit Gewürtz <lb/> Lorber= Blättlein <lb/> Rosmarin <lb/> Lemoni <lb/> und mit einem mit Näglein= besteckten Zwibel eingericht <lb/> und man muß ihn darinnen eine Zeitlang ligen lassen <lb/> und wird hernach mit <lb/> oder ohne Fäsch von Karpffen= und Hechten= Gehäck <lb/> oder Brät in die Pasteten eingeschlagen <lb/> mit <lb/> oder ohne zugemischte Sachen <lb/> mit gelber Brühe gegeben <lb/> so ist er trefflich gut.</p>
+        <p> DEr Waller wird gantzer <lb/> oder Stück= weiß eingesaltzen <lb/> mit siedigem Eßig übergossen <lb/> hernach mit Gewürtz <lb/> Lorber= Blättlein <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> Lemoni <lb/> und mit einem mit Näglein= besteckten Zwibel eingericht <lb/> und man muß ihn darinnen eine Zeitlang ligen lassen <lb/> und wird hernach mit <lb/> oder ohne Fäsch von Karpffen= und Hechten= <objectName ref="gehaeck">Gehäck</objectName> <lb/> oder Brät in die <objectName ref="pastete">Pasteten</objectName> eingeschlagen <lb/> mit <lb/> oder ohne zugemischte Sachen <lb/> mit gelber <objectName ref="bruehe">Brühe</objectName> gegeben <lb/> so ist er trefflich gut. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Take a Quart of Oysters, and clean them well; then strain the Liquor, and put to it a large Blade of Mace, a small Nutmeg sliced, and a little Salt; let the Oysters boil in this Liquor, and scum it very clean; when they are near enough, put to them some Parsly shred fine, and a little Eschallot, if you like it; also shred fine the Yolks of four Eggs, and near Half a Pound of Butter. Shake it constantly.</p>
+        <p> Take a <objectName ref="quart">Quart</objectName> of Oysters, and clean them well; then strain the Liquor, and put to it a large Blade of Mace, a small Nutmeg sliced, and a little Salt; let the Oysters boil in this Liquor, and scum it very clean; when they are near enough, put to them some Parsly shred fine, and a little Eschallot, if you like it; also shred fine the Yolks of four Eggs, and near Half a Pound of <objectName ref="butter">Butter</objectName>. Shake it constantly. </p>
             </div>
         </body>
     </text>

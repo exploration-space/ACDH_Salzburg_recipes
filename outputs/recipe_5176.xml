@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Aalenfisch <lb/> so gantzer <lb/> oder Stuck= weiß seynd gebraten worden <lb/> zum Aufbehalten <lb/> auf etlich Wochen <lb/> sollen mit wol Pfeffer <lb/> Imber und Muscat= Blumen <lb/> Lorbeer= Blätter <lb/> Rosmarin <lb/> Oel und Wein= Eßig <lb/> marginirt werden <lb/> verbraucht man sie aber bälder <lb/> oder frühzeitiger <lb/> auch Knoblauch und Zwibel.</p>
+        <p> Aalenfisch <lb/> so gantzer <lb/> oder Stuck= weiß seynd gebraten worden <lb/> zum Aufbehalten <lb/> auf etlich Wochen <lb/> sollen mit wol <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber und Muscat= <objectName ref="blumen">Blumen</objectName> <lb/> Lorbeer= Blätter <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> Oel und Wein= Eßig <lb/> marginirt werden <lb/> verbraucht man sie aber bälder <lb/> oder frühzeitiger <lb/> auch <objectName ref="knoblauch">Knoblauch</objectName> und Zwibel. </p>
             </div>
         </body>
     </text>

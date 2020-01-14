@@ -181,7 +181,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schneid die höchten Zu khleinen stükhlein, die ferchen laß ganz, <lb/> oder richt sie Wie dus gern hast, Salz ein vnd gewürzs, hiz ein <lb/> schmalz in einer Weiten pfannen, schidt die visch drein, das gleich <lb/> nur ein Wenig Zu samen schnurffen, vnd geschwind wider herauß, <lb/> Wer es gern hat, khans Woll gar roch einschlagen, richts in den <lb/> Pasteten taig mit allerleÿ gewürz, vnd Woll Puter, vnd khreitl= <lb/> werkh, vnd gesurten Lemonÿ, laß bachen, mach ein Prüelein <lb/> drein, Brenn Semblbrößl ein Wenig Mell darein, gieß ein <lb/> Wenig Essig, Wein, vnd Arbesbrüe, ein Wolgebäts Semblschnitl, <lb/> gewürz vnd Saffran, leg Puter drein, Wan du die Prie <lb/> drein giesst. <lb/><lb/> (33v)</p>
+        <p> Schneid die höchten Zu khleinen stükhlein, die ferchen laß ganz, <lb/> oder richt sie Wie dus gern hast, <objectName ref="salz">Salz</objectName> ein vnd gewürzs, hiz ein <lb/> <objectName ref="schmalz">schmalz</objectName> in einer Weiten pfannen, schidt die visch drein, das gleich <lb/> nur ein Wenig Zu samen schnurffen, vnd geschwind wider herauß, <lb/> Wer es gern hat, khans Woll gar roch einschlagen, richts in den <lb/> <objectName ref="pastete">Pasteten</objectName> taig mit allerleÿ gewürz, vnd Woll Puter, vnd khreitl= <lb/> werkh, vnd gesurten Lemonÿ, laß bachen, mach ein Prüelein <lb/> drein, Brenn Semblbrößl ein Wenig Mell darein, gieß ein <lb/> Wenig <objectName ref="essig">Essig</objectName>, <objectName ref="wein">Wein</objectName>, vnd Arbesbrüe, ein Wolgebäts Semblschnitl, <lb/> gewürz vnd Saffran, leg Puter drein, Wan du die Prie <lb/> drein giesst. <lb/><lb/> ( 33v ) </p>
             </div>
         </body>
     </text>

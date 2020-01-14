@@ -170,8 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn das Stuck Fleisch weich gesotten <lb/> auch auf dem Rost <lb/> oder in dem Ofen abgebräunt; dann können die in Würffel geschnittene <lb/> und in heissem Schmaltz braun gebachene Ruben <lb/> in guter <lb/> brauner jus, gekochter und gewürtzter <lb/> darüber gegeben werden.
-</p>
+        <p> WAnn das Stuck <objectName ref="fleisch">Fleisch</objectName> weich gesotten <lb/> auch auf dem <objectName ref="rost">Rost</objectName> <lb/> oder in dem <objectName ref="ofen">Ofen</objectName> abgebräunt; dann können die in Würffel geschnittene <lb/> und in heissem Schmaltz braun gebachene Ruben <lb/> in guter <lb/> brauner <objectName ref="jus">jus</objectName>, gekochter und gewürtzter <lb/> darüber gegeben werden. </p>
             </div>
         </body>
     </text>

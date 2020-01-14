@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein Wasser in ein pfan, thue ein schmalz drein, nit vill, Salz es, laß <lb/> das Wasser sieden, darnach säe mell drein in das Wasser, biß das dikh <lb/> Wird, als ein henen taig, stosß ihn Woll ab in einem Merser, leg aÿr in ein <lb/> Warmbs Wasser, schlag ains nach dem andern in den taig, vnd stosß ein iedes <lb/> Aÿr besonder in taig, er mueß dikher sein als ein straubentaig, schlag die <lb/> khiechl mit ein löfl ins Schmalz, vnd bachs khiel, so gehen sie schen auf, halt <lb/> den taig beÿ der Wermb. <lb/></p>
+        <p> Nimb ein <objectName ref="wasser">Wasser</objectName> in ein pfan, thue ein <objectName ref="schmalz">schmalz</objectName> drein, nit vill, <objectName ref="salz">Salz</objectName> es, laß <lb/> das <objectName ref="wasser">Wasser</objectName> sieden, darnach säe mell drein in das <objectName ref="wasser">Wasser</objectName>, biß das dikh <lb/> Wird, als ein henen taig, stosß ihn Woll ab in einem Merser, leg aÿr in ein <lb/> Warmbs <objectName ref="wasser">Wasser</objectName>, schlag ains nach dem andern in den taig, vnd stosß ein iedes <lb/> Aÿr besonder in taig, er mueß dikher sein als ein straubentaig, schlag die <lb/> khiechl mit ein löfl ins <objectName ref="schmalz">Schmalz</objectName>, vnd bachs khiel, so gehen sie schen auf, halt <lb/> den taig beÿ der Wermb. <lb/> </p>
             </div>
         </body>
     </text>

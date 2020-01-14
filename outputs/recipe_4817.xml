@@ -176,9 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>RUpffet und viertheilet die Tauben <lb/> wie bewust <lb/> saltzt und würtzet sie einwendig; legts in einen stollichten Hafen <lb/> giesset Fleischbrüh und ein wenig Essig daran <lb/> schneidet Limonien darein <lb/> würtzets mit Pfeffer <lb/> Cardamomen und Muscatblüh <lb/> und last sie dämpffen: Röstet indessen ein wenig Mehl im Schmaltz <lb/> und brennets in die Brüh <lb/> daß sie fein dicklicht wird; thut letzlich ein Stuck Butter darein <lb/> und richtets an.
-
- </p>
+        <p> RUpffet und viertheilet die <objectName ref="taube">Tauben</objectName> <lb/> wie bewust <lb/> saltzt und würtzet sie einwendig; legts in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> giesset Fleischbrüh und ein wenig <objectName ref="essig">Essig</objectName> daran <lb/> schneidet Limonien darein <lb/> würtzets mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Cardamomen und Muscatblüh <lb/> und last sie dämpffen : Röstet indessen ein wenig <objectName ref="mehl">Mehl</objectName> im Schmaltz <lb/> und brennets in die Brüh <lb/> daß sie fein dicklicht wird; thut letzlich ein Stuck <objectName ref="butter">Butter</objectName> darein <lb/> und richtets an. </p>
             </div>
         </body>
     </text>

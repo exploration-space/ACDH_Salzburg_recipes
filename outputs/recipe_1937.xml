@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb 4. Aÿrdoter, vnd ein süsß rämbl, leg ein Wenig schmalz <lb/> drein, laß warm Werden, das Zergeht, Wietl es ab, vnd <lb/> seichs in das mell, salzs, Weich den taig ab, Welg ihn auß, leg <lb/> die Mandl drauf, schlag den taig ÿber, bach es im Schmalz. <lb/><lb/> (12v)</p>
+        <p> Nimb 4. Aÿrdoter, vnd ein süsß rämbl, leg ein Wenig <objectName ref="schmalz">schmalz</objectName> <lb/> drein, laß warm Werden, das Zergeht, Wietl es ab, vnd <lb/> seichs in das mell, salzs, Weich den taig ab, Welg ihn auß, leg <lb/> die Mandl drauf, schlag den taig ÿber, bach es im <objectName ref="schmalz">Schmalz</objectName>. <lb/><lb/> ( 12v ) </p>
             </div>
         </body>
     </text>

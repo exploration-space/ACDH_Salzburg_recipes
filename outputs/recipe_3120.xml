@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>KOrn= Salat sauber geklaubt <lb/> gewaschen und wie andere grüne Salät <lb/> mit Eßig <lb/> Oel und Saltz angemacht <lb/> auch mit Eyer und rothen Ruben regaliert.</p>
+        <p> KOrn= <objectName ref="salat">Salat</objectName> sauber geklaubt <lb/> gewaschen und wie andere grüne Salät <lb/> mit Eßig <lb/> Oel und Saltz angemacht <lb/> auch mit Eyer und rothen Ruben regaliert. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Der Auerhahn wird zerstuckt <lb/> geklopfft <lb/> mit guten kälbern Bratwürst = Gehäck oder Fäsch <lb/> gibt eine gute Füll in die Pasteten <lb/> oder mit wohl Speck <lb/> Buter <lb/> Gewürtz <lb/> Kräuter <lb/> oder andern guten Schwämmen <lb/> in ein verschlossenes Casserol eingericht <lb/> und also kochen lassen.</p>
+        <p> Der <objectName ref="auerhahn">Auerhahn</objectName> wird zerstuckt <lb/> geklopfft <lb/> mit guten kälbern Bratwürst = <objectName ref="gehaeck">Gehäck</objectName> oder Fäsch <lb/> gibt eine gute Füll in die <objectName ref="pastete">Pasteten</objectName> <lb/> oder mit wohl <objectName ref="speck">Speck</objectName> <lb/> Buter <lb/> Gewürtz <lb/> <objectName ref="kraeuter">Kräuter</objectName> <lb/> oder andern guten Schwämmen <lb/> in ein verschlossenes Casserol eingericht <lb/> und also kochen lassen. </p>
             </div>
         </body>
     </text>

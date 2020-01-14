@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mach Hattele von einer Kälbern Hacksen in ein auffgetriebne Pasteten <lb/> die vo(n) weissem Teig gemacht ist <lb/> thu vngeschmältzte Butter darüber <lb/> vnd machs zu <lb/> vnd backs. Vnd wenn du es auffschneiden vnd anrichte(n) wilt <lb/> so geuß ein saures Brühlein <lb/> d(as) von Eyerdottern gemacht ist <lb/> darüber <lb/> gibs warm auff ein Tisch <lb/> so ist es gut vnd wolgeschmack.</p>
+        <p> Mach Hattele von einer Kälbern Hacksen in ein auffgetriebne <objectName ref="pastete">Pasteten</objectName> <lb/> die vo ( n ) weissem <objectName ref="teig">Teig</objectName> gemacht ist <lb/> thu vngeschmältzte <objectName ref="butter">Butter</objectName> darüber <lb/> vnd machs zu <lb/> vnd backs. Vnd wenn du es auffschneiden vnd anrichte ( n ) wilt <lb/> so geuß ein saures Brühlein <lb/> d ( as ) von Eyerdottern gemacht ist <lb/> darüber <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

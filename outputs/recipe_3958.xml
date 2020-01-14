@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneidet Schnitten von einer Semmel oder Weck <lb/> ziehets ein wenig durch ein Wasser (oder man kan sie auch durch einen Wein ziehen <lb/> und dann unter die Eyer etwas Zucker rühren) legets darnach in zerklopffte Eyer <lb/> und bachets schön gelb aus Schmaltz; machet dann in einem Schüsselein eine süsse Brüh von gutem Wein und Trisanet darüber: Oder man kan sie auch <lb/> nach belieben <lb/> nur also trocken geben und auftragen.</p>
+        <p> SChneidet Schnitten von einer Semmel oder Weck <lb/> ziehets ein wenig durch ein <objectName ref="wasser">Wasser</objectName> ( oder man kan sie auch durch einen <objectName ref="wein">Wein</objectName> ziehen <lb/> und dann unter die Eyer etwas <objectName ref="zucker">Zucker</objectName> rühren ) legets darnach in zerklopffte Eyer <lb/> und bachets schön gelb aus Schmaltz; machet dann in einem Schüsselein eine süsse Brüh von gutem <objectName ref="wein">Wein</objectName> und Trisanet darüber : Oder man kan sie auch <lb/> nach belieben <lb/> nur also trocken geben und auftragen. </p>
             </div>
         </body>
     </text>

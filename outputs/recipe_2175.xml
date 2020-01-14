@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Thue die rutten auf, vnd salz es ein, streich das salz gar schen ab, thues <lb/> in ein Reindl, geuß Arbes brüe, vnd ein wenig Wein dran, Puter <lb/> vnd Mußcatblüe, dëkhs Zue, laß gar schen ein sieden, so ists bereith. <lb/></p>
+        <p> Thue die rutten auf, vnd <objectName ref="salz">salz</objectName> es ein, streich das <objectName ref="salz">salz</objectName> gar schen ab, thues <lb/> in ein Reindl, geuß Arbes brüe, vnd ein wenig <objectName ref="wein">Wein</objectName> dran, Puter <lb/> vnd Mußcatblüe, dëkhs Zue, laß gar schen ein sieden, so ists bereith. <lb/> </p>
             </div>
         </body>
     </text>

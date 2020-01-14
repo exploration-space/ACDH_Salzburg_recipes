@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb die öpfl, schöll sie, mach die khern daruon, leg die <lb/> speitl in ein Wein, mach ein schmalz haiß, leg es drein, <lb/> vnd brein es, das es schen braun Wird, darnach nimb ihn, <lb/> Welg ihn nach deinem gefahlen, leg die öpfl drauf, Zugger <lb/> es, strä Weinbörl vnd Zibeben drein, auch linds stup. <lb/></p>
+        <p> Nimb die öpfl, schöll sie, mach die khern daruon, leg die <lb/> speitl in ein <objectName ref="wein">Wein</objectName>, mach ein <objectName ref="schmalz">schmalz</objectName> haiß, leg es drein, <lb/> vnd brein es, das es schen braun Wird, darnach nimb ihn, <lb/> Welg ihn nach deinem gefahlen, leg die öpfl drauf, Zugger <lb/> es, strä Weinbörl vnd <objectName ref="zibeben">Zibeben</objectName> drein, auch linds stup. <lb/> </p>
             </div>
         </body>
     </text>

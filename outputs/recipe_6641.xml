@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wenn die Rencken abgesotten seyn fein blaw <lb/> oder trucken <lb/> so nim(m) ein wenig Butter darüber <lb/> vnd  Erbsbrüh <lb/> auch ein wenig Kümel vnnd Essig <lb/> laß es darmit auffsieden <lb/> vnd thu ein wenig klein geschnittene Petersilgen darein <lb/> so werden sie auch gut seyn.</p>
+        <p> Wenn die Rencken abgesotten seyn fein blaw <lb/> oder trucken <lb/> so nim ( m ) ein wenig <objectName ref="butter">Butter</objectName> darüber <lb/> vnd Erbsbrüh <lb/> auch ein wenig Kümel vnnd <objectName ref="essig">Essig</objectName> <lb/> laß es darmit auffsieden <lb/> vnd thu ein wenig klein geschnittene Petersilgen darein <lb/> so werden sie auch gut seyn. </p>
             </div>
         </body>
     </text>

@@ -174,9 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES wird dem Hecht die Haut gantzer abgezogen <lb/> das Fleisch biß auf den Grat herab genommen <lb/> mit Kräutlein <lb/> Zwibel <lb/> Saltz <lb/> Semmel <lb/> Ram und Eyer <lb/> auch gute Gewürtz klein gehackt <lb/> und wieder an den Grat gelegt <lb/> der Fisch in erste Form gebracht <lb/> ( und von dem übrigen Gehäck <lb/> oder Brät ) so übergebliben <lb/> ein zierlicher Ranfft <lb/> um die Schüssel gemacht <lb/> und also mit Ram oder Butter und Erbsen= Brühe im Ofen <lb/> oder sonst gedämpfft.
-
-NB. Etliche begiessen dise angelegte Speisen mit zerlassenem Butter <lb/> und bestreuen solche hernach mit Semmel= Brosen <lb/> und geben dise erstbeschriebene Brühen <lb/> bey dem Anrichten kurtz darüber.</p>
+        <p> ES wird dem <objectName ref="hecht">Hecht</objectName> die Haut gantzer abgezogen <lb/> das <objectName ref="fleisch">Fleisch</objectName> biß auf den Grat herab genommen <lb/> mit Kräutlein <lb/> Zwibel <lb/> Saltz <lb/> Semmel <lb/> Ram und Eyer <lb/> auch gute Gewürtz klein gehackt <lb/> und wieder an den Grat gelegt <lb/> der <objectName ref="fisch">Fisch</objectName> in erste <objectName ref="form">Form</objectName> gebracht <lb/> ( und von dem übrigen <objectName ref="gehaeck">Gehäck</objectName> <lb/> oder Brät ) so übergebliben <lb/> ein zierlicher Ranfft <lb/> um die <objectName ref="schuessel">Schüssel</objectName> gemacht <lb/> und also mit Ram oder <objectName ref="butter">Butter</objectName> und Erbsen= <objectName ref="bruehe">Brühe</objectName> im <objectName ref="ofen">Ofen</objectName> <lb/> oder sonst gedämpfft. NB. Etliche begiessen dise angelegte Speisen mit zerlassenem <objectName ref="butter">Butter</objectName> <lb/> und bestreuen solche hernach mit Semmel= Brosen <lb/> und geben dise erstbeschriebene <objectName ref="bruehe">Brühen</objectName> <lb/> bey dem Anrichten kurtz darüber. </p>
             </div>
         </body>
     </text>

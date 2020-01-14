@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim schwartze Weichsel <lb/> die frisch abgebrochen seyn <lb/> thu die Stengel davo hinweg <lb/> stoß mit dem Korn <lb/> streich sie durch ein Härin Tuch <lb/> mach sie ab mit Zimmet vnd Zucker <lb/> gibs kalt zum Braten.</p>
+        <p> Nim schwartze Weichsel <lb/> die frisch abgebrochen seyn <lb/> thu die Stengel davo hinweg <lb/> stoß mit dem Korn <lb/> streich sie durch ein Härin <objectName ref="tuch">Tuch</objectName> <lb/> mach sie ab mit Zimmet vnd <objectName ref="zucker">Zucker</objectName> <lb/> gibs kalt zum Braten. </p>
             </div>
         </body>
     </text>

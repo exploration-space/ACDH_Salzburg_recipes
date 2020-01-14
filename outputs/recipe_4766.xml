@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SEtze die Linsen in Wasser zu <lb/> laß weich sieden <lb/> zwings dann durch einen Seiher oder Durchschlag <lb/> und laß ferner sieden; brenn ein klein wenig Mehl darein <lb/> und pfeffers : schneid indessen rocken Brod auf <lb/> röst dasselbe in Schmaltz <lb/> und richte die siedende Brüh darüber <lb/> setz es auf die Kohlen <lb/> laß sieden; und ehe sie zu Tisch getragen wird <lb/> röst geschnittene Zwiebeln in Schmaltz <lb/> und brenne sie darauf.</p>
+        <p> SEtze die <objectName ref="linsen">Linsen</objectName> in <objectName ref="wasser">Wasser</objectName> zu <lb/> laß weich sieden <lb/> zwings dann durch einen <objectName ref="seiher">Seiher</objectName> oder <objectName ref="durchschlag">Durchschlag</objectName> <lb/> und laß ferner sieden; brenn ein klein wenig <objectName ref="mehl">Mehl</objectName> darein <lb/> und pfeffers : schneid indessen rocken Brod auf <lb/> röst dasselbe in Schmaltz <lb/> und richte die siedende Brüh darüber <lb/> setz es auf die <objectName ref="kohlen">Kohlen</objectName> <lb/> laß sieden; und ehe sie zu <objectName ref="tisch">Tisch</objectName> getragen wird <lb/> röst geschnittene <objectName ref="zwiebel">Zwiebeln</objectName> in Schmaltz <lb/> und brenne sie darauf. </p>
             </div>
         </body>
     </text>

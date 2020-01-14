@@ -176,9 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>RÖstet die Hüner oder Capaunen <lb/> wie obgedacht <lb/> zerviertheilet im Schmaltz <lb/> giesset hernach Wein und Fleischbrühe daran <lb/> reibet einen Lebkuchen <lb/> thut ihn samt Zucker <lb/> Trisanet <lb/> Ingber <lb/> Pfeffer <lb/> Saffran und Cardamomen darein <lb/> last alles mit einander sieden <lb/> biß es recht ist: Alsdann richtets in eine Schüssel <lb/> und streuet klein= und würfflicht= geschnittene Zitronen= Schelffen darauf.
-
- </p>
+        <p> RÖstet die Hüner oder Capaunen <lb/> wie obgedacht <lb/> zerviertheilet im Schmaltz <lb/> giesset hernach <objectName ref="wein">Wein</objectName> und <objectName ref="fleischbruehe">Fleischbrühe</objectName> daran <lb/> reibet einen <objectName ref="lebkuchen">Lebkuchen</objectName> <lb/> thut ihn samt <objectName ref="zucker">Zucker</objectName> <lb/> Trisanet <lb/> Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Saffran und Cardamomen darein <lb/> last alles mit einander sieden <lb/> biß es recht ist : Alsdann richtets in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und streuet klein= und würfflicht= geschnittene Zitronen= Schelffen darauf. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Du magst auß einer solchen Kappaunen Brust ein Gehack machen <lb/> darvnter Ochsenmarck geschnitten <lb/> wie vorhin vermeldt ist. Auch Spanische Krapffen <lb/> oder Spanische Pastete(n) <lb/> oder ein Vngerische Turten.</p>
+        <p> Du magst auß einer solchen Kappaunen <objectName ref="brust">Brust</objectName> ein Gehack machen <lb/> darvnter Ochsenmarck geschnitten <lb/> wie vorhin vermeldt ist. Auch Spanische Krapffen <lb/> oder Spanische <objectName ref="pastete">Pastete</objectName> ( n ) <lb/> oder ein Vngerische Turten. </p>
             </div>
         </body>
     </text>

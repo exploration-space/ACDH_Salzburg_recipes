@@ -178,8 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Kuttelfleck werden gebutzt <lb/> gesotten <lb/> und mit Gewürtz in das Geschirr eingericht <lb/> wie die vorhergehende; dann gieß ein wenig gute Fleischbrühe und Eßig daran <lb/> unterdessen nimm ein Stuck übersottnen Speck <lb/> auf ein Hack=Brett <lb/> mit Zwibel <lb/> grünen Petersil <lb/> wenig Lorbeer=Stup und Rosmarin <lb/> hacke geschwind alles klein unter einander <lb/> und zuletzt eine gescheelte <lb/> in frisch Wasser gedunckte <lb/> und wieder ausgedruckte Semmel darunter; wirff dises alles in das Geschirr zu denen geschnittnen Flecken <lb/> gilbs ein wenig <lb/> und laß eine Weil sieden <lb/> sie seynd trefflich gut.
- </p>
+        <p> DIe Kuttelfleck werden gebutzt <lb/> gesotten <lb/> und mit Gewürtz in das <objectName ref="geschirr">Geschirr</objectName> eingericht <lb/> wie die vorhergehende; dann gieß ein wenig gute <objectName ref="fleischbruehe">Fleischbrühe</objectName> und Eßig daran <lb/> unterdessen nimm ein Stuck übersottnen <objectName ref="speck">Speck</objectName> <lb/> auf ein Hack=Brett <lb/> mit Zwibel <lb/> grünen Petersil <lb/> wenig Lorbeer=Stup und <objectName ref="rosmarin">Rosmarin</objectName> <lb/> hacke geschwind alles klein unter einander <lb/> und zuletzt eine gescheelte <lb/> in frisch <objectName ref="wasser">Wasser</objectName> gedunckte <lb/> und wieder ausgedruckte Semmel darunter; wirff dises alles in das <objectName ref="geschirr">Geschirr</objectName> zu denen geschnittnen Flecken <lb/> gilbs ein wenig <lb/> und laß eine Weil sieden <lb/> sie seynd trefflich gut. </p>
             </div>
         </body>
     </text>

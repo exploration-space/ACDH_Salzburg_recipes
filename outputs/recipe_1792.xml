@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Ferchen <lb/> oder andere fisch in buter. Hackh Petersill <lb/> vnnd zwifl durcheinand(er), nimb Mußcat= <lb/> =blie, vnd Imber, Pfeffer, Petersillwurze(n), <lb/> schneit die fein klain, nimb Arbes brüe vnd <lb/> etlich buter, sints sichert gesalzen, so seut <lb/> ain wasser od(er) zway daruon so duß ein= <lb/> =machst. <lb/></p>
+        <p> Ferchen <lb/> oder andere <objectName ref="fisch">fisch</objectName> in buter. Hackh Petersill <lb/> vnnd zwifl durcheinand ( er ), nimb Mußcat= <lb/> =blie, vnd Imber, <objectName ref="pfeffer">Pfeffer</objectName>, Petersillwurze ( n ), <lb/> schneit die fein klain, nimb Arbes brüe vnd <lb/> etlich buter, sints sichert gesalzen, so seut <lb/> ain <objectName ref="wasser">wasser</objectName> od ( er ) zway daruon so duß ein= <lb/> =machst. <lb/> </p>
             </div>
         </body>
     </text>

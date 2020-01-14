@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChählet die Quitten <lb/> holet sie fein dünn aus <lb/> hacket einen theil derselben <lb/> röstets im Schmaltz <lb/> thut Corinthen oder Weinbeere <lb/> Zucker <lb/> und gestossene Zimmet darein; füllets wieder in die Quitten <lb/> setzets in einen stollichten Hafen <lb/> giesst einen guten Wein und Zucker darein <lb/> siedets <lb/> daß sie ein dicklichtes Brühlein bekommen <lb/> und die Quitten schön roth werden: Wann ihr sie nun anrichten wollet <lb/> so streuet Zimmet und Zucker <lb/> oder aber ein Trisanet darauf.</p>
+        <p> SChählet die <objectName ref="quitten">Quitten</objectName> <lb/> holet sie fein dünn aus <lb/> hacket einen theil derselben <lb/> röstets im Schmaltz <lb/> thut Corinthen oder Weinbeere <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> und gestossene Zimmet darein; füllets wieder in die <objectName ref="quitten">Quitten</objectName> <lb/> setzets in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> giesst einen guten <objectName ref="wein">Wein</objectName> und <objectName ref="zucker">Zucker</objectName> darein <lb/> siedets <lb/> daß sie ein dicklichtes Brühlein bekommen <lb/> und die <objectName ref="quitten">Quitten</objectName> schön roth werden : Wann ihr sie nun anrichten wollet <lb/> so streuet Zimmet und <objectName ref="zucker">Zucker</objectName> <lb/> oder aber ein Trisanet darauf. </p>
             </div>
         </body>
     </text>

@@ -173,14 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m)  Zucker <lb/> der fein geläutert ist mit Rosenwasser <lb/> vnnd setz jhn mit dem Rundel auff Kolen <lb/> vnd laß jhn also sieden <lb/> vnnd wenn er wol dick ist <lb/> so rür Mandeln darvnter <lb/> vnnd rürs wol durcheinander <lb/> daß es nicht anbrennet. Setz es vom Feuwer hinweg <lb/>  nim(m)  gestossenen Zucker <lb/> vn(n) rür jn darvnter <lb/> vn(n) versuchs wie es so wolgeschmack ist. Vnd auß diesem Mandelteig magstu ein Marcipan machen <lb/> truckne jn im Ofen oder Pastetenpfann <lb/>
-laß wider kalt werden <lb/> vnd nim(m)  das weiß vom Ey <lb/> vnnd Rosenwasser <lb/> rürs
-vnter lautern Zucker <lb/> vnd je lenger du es rürst <lb/> je weisser es wirdt <lb/> laß es ein
-weil stehen <lb/> so gewinnt es ein schön weissen Faum <lb/> nim(m)  jn herab <lb/> vn(n) bestreich den Marcipan damit <lb/>  nim(m)  alsdenn die Deck von einer Turtenpfann <lb/>  vnnd thu Kolen darauff <lb/> so wirt der Faum fein aufflauffen <lb/> vnd weiß. Vnnd also
-macht man die guten Marcipan <lb/> sampt dem weissen Eyß. Du kanst auch
-wol weiß von Eyern vnter den Marcipan nemmen <lb/> vnd Rosenwasser <lb/> wen(n)
-du die Mandeln gar hast abgetrucknet <lb/> so nim(m)  erst das weiß von Eyern
-darvnter <lb/> vnd rürs wol darvnter <lb/>  so wirt es gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) <objectName ref="zucker">Zucker</objectName> <lb/> der fein geläutert ist mit <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> vnnd setz jhn mit dem Rundel auff Kolen <lb/> vnd laß jhn also sieden <lb/> vnnd wenn er wol dick ist <lb/> so rür <objectName ref="mandeln">Mandeln</objectName> darvnter <lb/> vnnd rürs wol durcheinander <lb/> daß es nicht anbrennet. Setz es vom Feuwer hinweg <lb/> nim ( m ) gestossenen <objectName ref="zucker">Zucker</objectName> <lb/> vn ( n ) rür jn darvnter <lb/> vn ( n ) versuchs wie es so wolgeschmack ist. Vnd auß diesem <objectName ref="mandelteig">Mandelteig</objectName> magstu ein Marcipan machen <lb/> truckne jn im <objectName ref="ofen">Ofen</objectName> oder Pastetenpfann <lb/> laß wider kalt werden <lb/> vnd nim ( m ) das weiß vom Ey <lb/> vnnd <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> rürs vnter lautern <objectName ref="zucker">Zucker</objectName> <lb/> vnd je lenger du es rürst <lb/> je weisser es wirdt <lb/> laß es ein weil stehen <lb/> so gewinnt es ein schön weissen Faum <lb/> nim ( m ) jn herab <lb/> vn ( n ) bestreich den Marcipan damit <lb/> nim ( m ) alsdenn die Deck von einer Turtenpfann <lb/> vnnd thu Kolen darauff <lb/> so wirt der Faum fein aufflauffen <lb/> vnd weiß. Vnnd also macht man die guten Marcipan <lb/> sampt dem weissen Eyß. Du kanst auch wol weiß von Eyern vnter den Marcipan nemmen <lb/> vnd <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> wen ( n ) du die <objectName ref="mandeln">Mandeln</objectName> gar hast abgetrucknet <lb/> so nim ( m ) erst das weiß von Eyern darvnter <lb/> vnd rürs wol darvnter <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

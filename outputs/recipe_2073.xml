@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wan die Pasteten gemacht ist, Zerschneid den khärpffen Zu <lb/> stükhlein, mach ein stükhl nach dem andern hinein, gewürzt <lb/> vnd gsalzen, vnd eingelegt mit den anderen gewürzen, als Wie <lb/> mit den andern vischen, darzue von allerleÿ gewürz, vnd ein <lb/> Wenig Zukher, Weinpörl, lemonÿ, ein wenig frisches Schmalz, <lb/> schlag den schwaif von dem khärpfen ein wenig mit Wein vnd <lb/> Essig ab, gerührt, als miteinander eingossen, Zuegedekht, laß <lb/> bachen 2. stund, alle Pasteten mach also. Etlich nemmen für den <lb/> Essig süssen Wein, vnd für Lemonÿ Zwifl, auch Weinpörl, laß <lb/> gleich so lang bachen als die andere. <lb/></p>
+        <p> Wan die <objectName ref="pastete">Pasteten</objectName> gemacht ist, Zerschneid den khärpffen Zu <lb/> stükhlein, mach ein stükhl nach dem andern hinein, gewürzt <lb/> vnd gsalzen, vnd eingelegt mit den anderen <objectName ref="gewuerze">gewürzen</objectName>, als Wie <lb/> mit den andern vischen, darzue von allerleÿ gewürz, vnd ein <lb/> Wenig Zukher, Weinpörl, lemonÿ, ein wenig frisches <objectName ref="schmalz">Schmalz</objectName>, <lb/> schlag den schwaif von dem khärpfen ein wenig mit <objectName ref="wein">Wein</objectName> vnd <lb/> <objectName ref="essig">Essig</objectName> ab, gerührt, als miteinander eingossen, Zuegedekht, laß <lb/> bachen 2. stund, alle <objectName ref="pastete">Pasteten</objectName> mach also. Etlich nemmen für den <lb/> <objectName ref="essig">Essig</objectName> süssen <objectName ref="wein">Wein</objectName>, vnd für Lemonÿ Zwifl, auch Weinpörl, laß <lb/> gleich so lang bachen als die andere. <lb/> </p>
             </div>
         </body>
     </text>

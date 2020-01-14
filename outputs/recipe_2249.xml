@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Puter, rämb vnd guete milch undereinander, laß in einer Erden <lb/> Rein aufsieden, oder in eim Messingen dorten Pfändl, schneid khalt <lb/> strauben gewürfflet drein, richt oben vnd unden, vnd umb das reindl herumb <lb/> ein hipsch glietl, so machts fein rämblein, gibs im Reindl. <lb/></p>
+        <p> Nimb Puter, rämb vnd guete <objectName ref="milch">milch</objectName> undereinander, laß in einer Erden <lb/> <objectName ref="rein">Rein</objectName> aufsieden, oder in eim Messingen dorten Pfändl, schneid khalt <lb/> <objectName ref="strauben">strauben</objectName> gewürfflet drein, richt oben vnd unden, vnd umb das reindl herumb <lb/> ein hipsch glietl, so machts fein rämblein, gibs im Reindl. <lb/> </p>
             </div>
         </body>
     </text>

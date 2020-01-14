@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>HIevon kan sich der geehrte Leser <lb/> zu End des Rindfleisch in dem Ersten Capitel zur Genügen ersehen <lb/> nur daß man hier mit dem Saltzen nicht zu wenig gebrauche.</p>
+        <p> HIevon kan sich der geehrte Leser <lb/> zu End des <objectName ref="rindfleisch">Rindfleisch</objectName> in dem Ersten Capitel zur Genügen ersehen <lb/> nur daß man hier mit dem Saltzen nicht zu wenig gebrauche. </p>
             </div>
         </body>
     </text>

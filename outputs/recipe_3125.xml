@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>LActuc= Salat gebutzt <lb/> gebrüht <lb/> und mit wenig Pfeffer <lb/> Eßig <lb/> Butter <lb/> oder Oel angemacht <lb/> ist gesunder als der frische.</p>
+        <p> LActuc= <objectName ref="salat">Salat</objectName> gebutzt <lb/> gebrüht <lb/> und mit wenig <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Eßig <lb/> <objectName ref="butter">Butter</objectName> <lb/> oder Oel angemacht <lb/> ist gesunder als der frische. </p>
             </div>
         </body>
     </text>

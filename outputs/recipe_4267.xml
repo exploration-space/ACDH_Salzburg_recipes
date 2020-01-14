@@ -179,7 +179,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Kälber= Zungen müssen gesotten <lb/> gescheelt <lb/> nach Belieben zerschnitten; Zwibel und Aepffel in kleine Stücklein geschnitten <lb/> sammt ein wenig weiß Meel <lb/> in Butter geröst <lb/> wenig Wein mit Fleischbrühe <lb/> Gewürtz <lb/> Saltz <lb/> 1. oder 2. Nägelein <lb/> Lemoni= Schelffen <lb/> etc. durch ein Tuch oder Sieb getrieben <lb/> und gelb über die Zungen <lb/> mit Mandeln <lb/> Wein= Beer und Zucker gegeben werden. Also seyn sie gut.</p>
+        <p> DIe Kälber= <objectName ref="zunge">Zungen</objectName> müssen gesotten <lb/> gescheelt <lb/> nach Belieben zerschnitten; Zwibel und Aepffel in kleine Stücklein geschnitten <lb/> sammt ein wenig weiß Meel <lb/> in <objectName ref="butter">Butter</objectName> geröst <lb/> wenig <objectName ref="wein">Wein</objectName> mit <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> Gewürtz <lb/> Saltz <lb/> 1. oder 2. Nägelein <lb/> Lemoni= Schelffen <lb/> etc. durch ein <objectName ref="tuch">Tuch</objectName> oder <objectName ref="sieb">Sieb</objectName> getrieben <lb/> und gelb über die <objectName ref="zunge">Zungen</objectName> <lb/> mit <objectName ref="mandeln">Mandeln</objectName> <lb/> Wein= Beer und <objectName ref="zucker">Zucker</objectName> gegeben werden. Also seyn sie gut. </p>
             </div>
         </body>
     </text>

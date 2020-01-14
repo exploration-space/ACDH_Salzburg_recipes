@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BAche die Fisch schön gelb mit Meel aus Schmaltz <lb/> legs in die Schüssel <lb/> mache die Brühe liecht= gelb mit weissen Wein <lb/> geweichter Semmel <lb/> Zucker und Zimmet <lb/> und drey gantzen Nägelein ; wanns versotten <lb/> so treibs durch <lb/> machs gut mit Lemoni <lb/> oder eingemachten Citronen <lb/> gibs über die Fisch warmer <lb/> und also zu Tisch.</p>
+        <p> BAche die <objectName ref="fisch">Fisch</objectName> schön gelb mit Meel aus Schmaltz <lb/> legs in die <objectName ref="schuessel">Schüssel</objectName> <lb/> mache die <objectName ref="bruehe">Brühe</objectName> liecht= gelb mit weissen <objectName ref="wein">Wein</objectName> <lb/> geweichter Semmel <lb/> <objectName ref="zucker">Zucker</objectName> und Zimmet <lb/> und drey gantzen Nägelein; wanns versotten <lb/> so treibs durch <lb/> machs gut mit Lemoni <lb/> oder eingemachten Citronen <lb/> gibs über die <objectName ref="fisch">Fisch</objectName> warmer <lb/> und also zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

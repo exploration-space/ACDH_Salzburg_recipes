@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein halb pfund Mandl, stosß khlein mit Rosenwasser, nimb <lb/> darunder voglspeiß oder aÿrkhäß mit 5. Aÿrn, laß Woll <lb/> außtrukhen, nimb vill Zukher drein, treibs auf einer schißl <lb/> durcheinander, nimb ein linds schmalz, oder buter, dar= <lb/> nach mehr ein Rosenwasser 2. oder 3. Aÿr drein geschlagen, <lb/> mach dan ein blat an von Aÿrn vnd Semblmell, schlags drauf, <lb/> vnd streichs durcheinander, khreizls umb vnd umb, nimb <lb/> dan Aÿrkhlar, das Zertreib Woll mit einem Zukher, bestreich <lb/> den dorten oben, aber nit verbrenen, gibs Warmb, <lb/> Wiltu es aber khalt geben, so nimb nit vill schmalz. <lb/></p>
+        <p> Nimb ein halb <objectName ref="pfund">pfund</objectName> Mandl, stosß khlein mit <objectName ref="rosenwasser">Rosenwasser</objectName>, nimb <lb/> darunder voglspeiß oder aÿrkhäß mit 5. Aÿrn, laß Woll <lb/> außtrukhen, nimb vill Zukher drein, treibs auf einer schißl <lb/> durcheinander, nimb ein linds <objectName ref="schmalz">schmalz</objectName>, oder buter, dar= <lb/> nach mehr ein <objectName ref="rosenwasser">Rosenwasser</objectName> 2. oder 3. Aÿr drein geschlagen, <lb/> mach dan ein blat an von Aÿrn vnd Semblmell, schlags drauf, <lb/> vnd streichs durcheinander, khreizls umb vnd umb, nimb <lb/> dan Aÿrkhlar, das Zertreib Woll mit einem Zukher, bestreich <lb/> den dorten oben, aber nit verbrenen, gibs Warmb, <lb/> Wiltu es aber khalt geben, so nimb nit vill <objectName ref="schmalz">schmalz</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

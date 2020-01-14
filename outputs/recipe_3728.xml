@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn die Austern noch recht schön frisch <lb/> und nicht gar sehr gesaltzen sind <lb/> so thue sie zusamt ein wenig Brühe aus dem Fäßlein in eine Schüssel <lb/> streue halb gestossenen Pfeffer darein <lb/> gieß ein klein wenig Wein daran <lb/> thue Baum= Oel oder Butter dazu <lb/> und laß sie also aufsieden; hernach drucke Citronen= Safft darein <lb/> streue dergleichen klein= und würfflicht= geschnittene Schelffen <lb/> wie auch <lb/> nach belieben <lb/> etwas von Muscaten= Blüh darauf <lb/> und trage sie zu Tisch.</p>
+        <p> WAnn die <objectName ref="austern">Austern</objectName> noch recht schön frisch <lb/> und nicht gar sehr gesaltzen sind <lb/> so thue sie zusamt ein wenig <objectName ref="bruehe">Brühe</objectName> aus dem Fäßlein in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> streue halb gestossenen <objectName ref="pfeffer">Pfeffer</objectName> darein <lb/> gieß ein klein wenig <objectName ref="wein">Wein</objectName> daran <lb/> thue Baum= Oel oder <objectName ref="butter">Butter</objectName> dazu <lb/> und laß sie also aufsieden; hernach drucke Citronen= Safft darein <lb/> streue dergleichen klein= und würfflicht= geschnittene Schelffen <lb/> wie auch <lb/> nach belieben <lb/> etwas von Muscaten= Blüh darauf <lb/> und trage sie zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

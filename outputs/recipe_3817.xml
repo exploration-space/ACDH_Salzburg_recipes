@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAche den Karpffen an dem Rucken auf <lb/> durchaus <lb/> und ungeschupter <lb/> saltz ihn ein <lb/> lege solchen auf ein drattenes Gatter <lb/> und setze es über den Rauch <lb/> zimlich hoch <lb/> daß er nicht von der Hitz verderbe; Wer aber kein solches Gatter bey Handen hat <lb/> der spanne sie mit dünnen Spänlein voneinander <lb/> und hängs in Rauch; ist die Hitz zu starck <lb/> so muß mans bald verkochen <lb/> dann sie lassen sich also nicht lang behalten.</p>
+        <p> MAche den Karpffen an dem Rucken auf <lb/> durchaus <lb/> und ungeschupter <lb/> saltz ihn ein <lb/> lege solchen auf ein drattenes Gatter <lb/> und setze es über den <objectName ref="rauch">Rauch</objectName> <lb/> zimlich hoch <lb/> daß er nicht von der Hitz verderbe; Wer aber kein solches Gatter bey Handen hat <lb/> der <objectName ref="spanne">spanne</objectName> sie mit dünnen Spänlein voneinander <lb/> und hängs in <objectName ref="rauch">Rauch</objectName>; ist die Hitz zu starck <lb/> so muß mans bald verkochen <lb/> dann sie lassen sich also nicht lang behalten. </p>
             </div>
         </body>
     </text>

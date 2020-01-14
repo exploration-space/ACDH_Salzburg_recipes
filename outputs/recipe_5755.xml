@@ -166,9 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Kalt in Pasteten mit seiner zugehörung <lb/> die Federn oben auff die Pasteten gemacht.
-
-</p>
+        <p> Kalt in <objectName ref="pastete">Pasteten</objectName> mit seiner zugehörung <lb/> die Federn oben auff die <objectName ref="pastete">Pasteten</objectName> gemacht. </p>
             </div>
         </body>
     </text>

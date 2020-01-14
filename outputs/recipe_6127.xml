@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>LEge die zertheilte Hünlein in ein Rein <lb/> gieß daran ein wenig Fleischbrühe <lb/> mit wenig Gewürtz und Saltz <lb/> wie sonst; schneid die Damattus= Aepffel zu Spalten <lb/> und laß damit sieden; wann die Hünlein gesotten <lb/> so legs aus <lb/> und in die Schüssel <lb/> oder ander Rein <lb/> treib die hinterlassene Brühe mit einer Semmel= Schnitten <lb/> oder weiß eingebrennt Meel <lb/> oder auch mit hart= gesottenen Eyerdottern <lb/> durch das Sieblein <lb/> machs süß <lb/> sauer <lb/> oder sonst gut am Geschmack <lb/> gibs warm über die Hünlein und trags auf; etliche geben auch dergleichen gantze Spältlein damit auf den Tisch <lb/> damit man siehet <lb/> was darinnen ist.</p>
+        <p> LEge die zertheilte Hünlein in ein <objectName ref="rein">Rein</objectName> <lb/> gieß daran ein wenig <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> mit wenig Gewürtz und Saltz <lb/> wie sonst; schneid die Damattus= Aepffel zu Spalten <lb/> und laß damit sieden; wann die Hünlein gesotten <lb/> so legs aus <lb/> und in die <objectName ref="schuessel">Schüssel</objectName> <lb/> oder ander <objectName ref="rein">Rein</objectName> <lb/> treib die hinterlassene <objectName ref="bruehe">Brühe</objectName> mit einer Semmel= Schnitten <lb/> oder weiß eingebrennt Meel <lb/> oder auch mit hart= gesottenen Eyerdottern <lb/> durch das Sieblein <lb/> machs süß <lb/> sauer <lb/> oder sonst gut am Geschmack <lb/> gibs warm über die Hünlein und trags auf; etliche geben auch dergleichen gantze Spältlein damit auf den <objectName ref="tisch">Tisch</objectName> <lb/> damit man siehet <lb/> was darinnen ist. </p>
             </div>
         </body>
     </text>

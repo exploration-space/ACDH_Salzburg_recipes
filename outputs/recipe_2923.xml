@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ERbes so dürr <lb/> mit Speck <lb/> Zwibel <lb/> Lorbeer <lb/> und andern guten Kräutern <lb/> sammt zwey Näglein und Muscat= Blühe gesotten <lb/> den Speck ausgelegt und klein geschnitten <lb/> die Erbes dick durchgetrieben <lb/> und mit dem Speck abgemacht <lb/> ist gut <lb/> gibs warm <lb/> mit gerauchten guten Schuncken= Wurst= oder dergleichen Schnitzlein darauf <lb/> ist ein Winter= Speiß.</p>
+        <p> ERbes so dürr <lb/> mit <objectName ref="speck">Speck</objectName> <lb/> Zwibel <lb/> <objectName ref="lorbeer-2">Lorbeer</objectName> <lb/> und andern guten <objectName ref="kraeuter">Kräutern</objectName> <lb/> sammt zwey Näglein und Muscat= Blühe gesotten <lb/> den <objectName ref="speck">Speck</objectName> ausgelegt und klein geschnitten <lb/> die Erbes dick durchgetrieben <lb/> und mit dem <objectName ref="speck">Speck</objectName> abgemacht <lb/> ist gut <lb/> gibs warm <lb/> mit gerauchten guten Schuncken= Wurst= oder dergleichen Schnitzlein darauf <lb/> ist ein Winter= Speiß. </p>
             </div>
         </body>
     </text>

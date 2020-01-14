@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn die Mispeln oder Hespelein <lb/> so annoch zimlich hart sind <lb/> durchstochen worden <lb/> giesset ein siedend Wasser darüber <lb/> last es nur ein wenig daran stehen <lb/> oder auch einen einigen wall darinnen aufthun <lb/> alsdann seyhet es davon ab; schlichtets wann sie wohl ertrocknet <lb/> nachmal in einen Tiegel oder Glas und giesset den geläuterten Zucker <lb/> wann er zuvor ein wenig erkaltet <lb/> darüber.</p>
+        <p> WAnn die <objectName ref="mispeln">Mispeln</objectName> oder Hespelein <lb/> so annoch zimlich hart sind <lb/> durchstochen worden <lb/> giesset ein siedend <objectName ref="wasser">Wasser</objectName> darüber <lb/> last es nur ein wenig daran stehen <lb/> oder auch einen einigen wall darinnen aufthun <lb/> alsdann seyhet es davon ab; schlichtets wann sie wohl ertrocknet <lb/> nachmal in einen <objectName ref="tiegel">Tiegel</objectName> oder <objectName ref="glas">Glas</objectName> und giesset den geläuterten <objectName ref="zucker">Zucker</objectName> <lb/> wann er zuvor ein wenig erkaltet <lb/> darüber. </p>
             </div>
         </body>
     </text>

@@ -169,10 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneidet von einer altgebachenen Semmel die Rinden herab <lb/> und aus der hinterbleibenden Brosam vier Theile; zerklopffet drey Eyer in so viel Löffeln süsser Milch oder Ram <lb/> saltzets ein wenig <lb/> weichet die Semmel darein <lb/> giesset sie offt herab und wieder darüber <lb/> kehrets um <lb/> daß wohl weich wird: Lasset ein Schmaltz heiß werden <lb/> und wieder ein wenig erkalten; legets dann ein <lb/> und bachets langsam ab. <gap/><gap/>
-
-<gap/><gap/> Auf einen gantzen Tisch gebrauchet man zu diesen gebachenen Küchlein <lb/> vier Semmeln und zwölff Eyer <lb/> auch so viel Löffel voll Milch oder süssen Ram.
-</p>
+        <p> SChneidet von einer altgebachenen Semmel die Rinden herab <lb/> und aus der hinterbleibenden Brosam vier Theile; zerklopffet drey Eyer in so viel Löffeln süsser <objectName ref="milch">Milch</objectName> oder Ram <lb/> saltzets ein wenig <lb/> weichet die Semmel darein <lb/> giesset sie offt herab und wieder darüber <lb/> kehrets um <lb/> daß wohl weich wird : Lasset ein Schmaltz heiß werden <lb/> und wieder ein wenig erkalten; legets dann ein <lb/> und bachets langsam ab. <gap/><gap/> <gap/><gap/> Auf einen gantzen <objectName ref="tisch">Tisch</objectName> gebrauchet man zu diesen gebachenen Küchlein <lb/> vier <objectName ref="semmeln">Semmeln</objectName> und zwölff Eyer <lb/> auch so viel <objectName ref="loeffel">Löffel</objectName> voll <objectName ref="milch">Milch</objectName> oder süssen Ram. </p>
             </div>
         </body>
     </text>

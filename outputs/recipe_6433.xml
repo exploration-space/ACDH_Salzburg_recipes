@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Rür Mehl mit kalter Mandelmilch ab <lb/> wenn sie seudt <lb/> laß damit wol sieden <lb/> rür frische Butter <lb/> die vngeschmältzt ist <lb/> darvnter <lb/> so wirt es gut vnd wolgeschmack.</p>
+        <p> Rür <objectName ref="mehl">Mehl</objectName> mit kalter <objectName ref="mandelmilch">Mandelmilch</objectName> ab <lb/> wenn sie seudt <lb/> laß damit wol sieden <lb/> rür frische <objectName ref="butter">Butter</objectName> <lb/> die vngeschmältzt ist <lb/> darvnter <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

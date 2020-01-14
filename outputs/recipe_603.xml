@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim das weiß von einem Ey <lb/> klopffs wol <lb/> thu ein wenig Wasser dran <lb/> vnd thu das Honig darein <lb/> sieds vnd laß kalt werden <lb/> gieß worein du wilt.</p>
+        <p> Nim das weiß von einem Ey <lb/> klopffs wol <lb/> thu ein wenig <objectName ref="wasser">Wasser</objectName> dran <lb/> vnd thu das <objectName ref="honig">Honig</objectName> darein <lb/> sieds vnd laß kalt werden <lb/> gieß worein du wilt. </p>
             </div>
         </body>
     </text>

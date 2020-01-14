@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChabe Peterlein= oder Petersilien= Wurtzeln schön ab <lb/> setze sie im Wasser zum Feuer <lb/> laß weich sieden <lb/> schuppe den Hecht <lb/> schneide ihn zu Stucken <lb/> oder man kan ihn auch <lb/> so es beliebig <lb/> krümmen ; siede denselben im Saltzwasser <lb/> und seihe ihn <lb/> wann er gesotten <lb/> wieder ab : gieß alsdann die gesottenen Peterlein= Wurtzeln samt der Brühe darüber <lb/> thue ein Stuck Butter <lb/> geriebene Muscat= Nuß <lb/> Pfeffer und ein wenig Saltz daran <lb/> laß sieden <lb/> biß es ein dickes Brühlein wird : alsdann richts an <lb/> leg die Würtzelein auf den Hecht <lb/> und streue ein wenig Muscaten=Blühe darauf.</p>
+        <p> SChabe Peterlein= oder Petersilien= Wurtzeln schön ab <lb/> setze sie im <objectName ref="wasser">Wasser</objectName> zum <objectName ref="feuer">Feuer</objectName> <lb/> laß weich sieden <lb/> schuppe den <objectName ref="hecht">Hecht</objectName> <lb/> schneide ihn zu Stucken <lb/> oder man kan ihn auch <lb/> so es beliebig <lb/> krümmen; siede denselben im Saltzwasser <lb/> und seihe ihn <lb/> wann er gesotten <lb/> wieder ab : gieß alsdann die gesottenen Peterlein= Wurtzeln samt der <objectName ref="bruehe">Brühe</objectName> darüber <lb/> thue ein Stuck <objectName ref="butter">Butter</objectName> <lb/> geriebene Muscat= Nuß <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und ein wenig Saltz daran <lb/> laß sieden <lb/> biß es ein dickes Brühlein wird : alsdann richts an <lb/> leg die Würtzelein auf den <objectName ref="hecht">Hecht</objectName> <lb/> und streue ein wenig Muscaten=Blühe darauf. </p>
             </div>
         </body>
     </text>

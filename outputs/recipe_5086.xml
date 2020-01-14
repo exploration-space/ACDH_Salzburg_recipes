@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChlein auf N°. 1. beschriebene Weiß blau und heiß abgesotten; blau <lb/> oder mit abgezogener Haut <lb/> in die Schüssel gelegt <lb/> gibt man in weisser abgegoßner Butter= Brühe <lb/> oder auch mit abgetriebner Dotter= Brühe.</p>
+        <p> SChlein auf N°. 1. beschriebene Weiß blau und heiß abgesotten; blau <lb/> oder mit abgezogener Haut <lb/> in die <objectName ref="schuessel">Schüssel</objectName> gelegt <lb/> gibt man in weisser abgegoßner Butter= <objectName ref="bruehe">Brühe</objectName> <lb/> oder auch mit abgetriebner Dotter= <objectName ref="bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

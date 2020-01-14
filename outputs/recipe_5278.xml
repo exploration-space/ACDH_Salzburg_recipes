@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZErschneide die Hünlein in Stücker <lb/> richts mit Saltz <lb/> Meel <lb/> Gewürtz <lb/> und einem guten Stuck Butter <lb/> in ein Casserol <lb/> oder Rein <lb/> mit gespicktem Zwibel von Näglein <lb/> Lemoni= Schelffen <lb/> und bräuns <lb/> oder dünste es liecht= gelb <lb/> und gieß Fleischbrühe und weissen Wein nach Nothdurfft daran <lb/> den Petersil butze sauber <lb/> bind ein Büschlein <lb/> legs auch zu den Hünlein <lb/> zu allerletzt streue auch klein= gehacktes Petersil= Kräutlein darein <lb/> mit einem kurzen Aufsud <lb/> gilbs <lb/> und gibs zur Tafel.</p>
+        <p> ZErschneide die Hünlein in Stücker <lb/> richts mit Saltz <lb/> Meel <lb/> Gewürtz <lb/> und einem guten Stuck <objectName ref="butter">Butter</objectName> <lb/> in ein Casserol <lb/> oder <objectName ref="rein">Rein</objectName> <lb/> mit gespicktem Zwibel von Näglein <lb/> Lemoni= Schelffen <lb/> und bräuns <lb/> oder dünste es liecht= gelb <lb/> und gieß <objectName ref="fleischbruehe">Fleischbrühe</objectName> und weissen <objectName ref="wein">Wein</objectName> nach Nothdurfft daran <lb/> den Petersil butze sauber <lb/> bind ein Büschlein <lb/> legs auch zu den Hünlein <lb/> zu allerletzt streue auch klein= gehacktes Petersil= Kräutlein darein <lb/> mit einem kurzen Aufsud <lb/> gilbs <lb/> und gibs zur Tafel. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm frischen Butter <lb/> rühre ihn so lang biß er schön weiß wird <lb/> alsdann rühr Semmel <lb/> oder schönes Meel darein <lb/> ein wenig Muscatblühe <lb/> schlag auch Eyer darein <lb/> und ein wenig süssen Ram <lb/> schlags ein <lb/> wie du wilst.</p>
+        <p> NImm frischen <objectName ref="butter">Butter</objectName> <lb/> rühre ihn so lang biß er schön weiß wird <lb/> alsdann rühr Semmel <lb/> oder schönes Meel darein <lb/> ein wenig Muscatblühe <lb/> schlag auch Eyer darein <lb/> und ein wenig süssen Ram <lb/> schlags ein <lb/> wie du wilst. </p>
             </div>
         </body>
     </text>

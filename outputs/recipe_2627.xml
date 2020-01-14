@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BEreitet das Peterlein= oder Petersilien= Kraut allerdings <lb/> wie selbiges in diesem Theil <lb/> bey den Hünern Num. 16. beschrieben worden <lb/> und kochet das Fleisch ab <lb/> wie gebräuchlich <lb/> doch nicht ganz vollkommen <lb/> sondern lasset es in der Peterlein= oder Petersilien= Brüh noch einen Sud <lb/> zusamt einer Butter mit aufthun.</p>
+        <p> BEreitet das Peterlein= oder Petersilien= <objectName ref="kraut">Kraut</objectName> allerdings <lb/> wie selbiges in diesem Theil <lb/> bey den Hünern Num. 16. beschrieben worden <lb/> und kochet das <objectName ref="fleisch">Fleisch</objectName> ab <lb/> wie gebräuchlich <lb/> doch nicht ganz vollkommen <lb/> sondern lasset es in der Peterlein= oder Petersilien= Brüh noch einen Sud <lb/> zusamt einer <objectName ref="butter">Butter</objectName> mit aufthun. </p>
             </div>
         </body>
     </text>

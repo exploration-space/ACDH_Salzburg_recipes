@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>RUpffet die Lerchen <lb/> doch daß keine kleine Löchlein darein fallen <lb/> blaset sie oben an dem Hals mit einem Feder= Kiel auf <lb/> nehmt Hüner= Leberlein <lb/> ein wenig Speck und Majoran <lb/> hackts klein unter einander <lb/> röstets im Schmaltz <lb/> zerklopfft ein Ey <lb/> giesst ein wenig Fleischbrüh daran <lb/> daß die Füll nicht zu dick sey <lb/> thut Saltz <lb/> Ingber <lb/> Pfeffer und Muscatblüh dazu <lb/> und füllts oben zum Hals hinein <lb/> bindet die Lerchen in Lorbeer= Blätter <lb/> steckets an Spieß <lb/> betreifft sie mit zerlassener Butter <lb/> und bratets allgemach ab <lb/> daß sie nicht aufbrechen.</p>
+        <p> RUpffet die <objectName ref="lerchen">Lerchen</objectName> <lb/> doch daß keine kleine Löchlein darein fallen <lb/> blaset sie oben an dem Hals mit einem Feder= Kiel auf <lb/> nehmt Hüner= Leberlein <lb/> ein wenig <objectName ref="speck">Speck</objectName> und <objectName ref="majoran">Majoran</objectName> <lb/> hackts klein unter einander <lb/> röstets im Schmaltz <lb/> zerklopfft ein Ey <lb/> giesst ein wenig Fleischbrüh daran <lb/> daß die Füll nicht zu dick sey <lb/> thut Saltz <lb/> Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Muscatblüh dazu <lb/> und füllts oben zum Hals hinein <lb/> bindet die <objectName ref="lerchen">Lerchen</objectName> in Lorbeer= Blätter <lb/> steckets an <objectName ref="spiess">Spieß</objectName> <lb/> betreifft sie mit zerlassener <objectName ref="butter">Butter</objectName> <lb/> und bratets allgemach ab <lb/> daß sie nicht aufbrechen. </p>
             </div>
         </body>
     </text>

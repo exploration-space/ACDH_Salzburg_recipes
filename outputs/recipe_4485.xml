@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn der Stockfisch sauber geklaubt ist <lb/> so wird er in einem Tuch eingebundner kurz gesotten <lb/> auf die warme Schüssel wol agbesiehener angericht <lb/> wol gewürtzt <lb/> und mit fäumigen braunem Butter <lb/> der mit klein= gehackten Sardellen eingericht ist <lb/> übergossen <lb/> und bedeckter zu Tafel geschickt.</p>
+        <p> WAnn der <objectName ref="stockfisch">Stockfisch</objectName> sauber geklaubt ist <lb/> so wird er in einem <objectName ref="tuch">Tuch</objectName> eingebundner kurz gesotten <lb/> auf die warme <objectName ref="schuessel">Schüssel</objectName> wol agbesiehener angericht <lb/> wol gewürtzt <lb/> und mit fäumigen braunem <objectName ref="butter">Butter</objectName> <lb/> der mit klein= gehackten <objectName ref="sardellen">Sardellen</objectName> eingericht ist <lb/> übergossen <lb/> und bedeckter zu Tafel geschickt. </p>
             </div>
         </body>
     </text>

@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Röstet ein gerieben rocken Brod im Schmaltz <lb/> man kan auch ein wenig Lebkuchen dazu nehmen <lb/> giesset Malvasier <lb/> oder sonst süssen Wein daran <lb/> last es einen Sud aufthun <lb/> und treibts hernach durch einen Seiher ; nach diesen nehmet geschählte Zwiebeln und Aepffel <lb/> hacket sie klein zusammen <lb/> und röstet es wohl im Schmaltz <lb/> thut das durch = getriebene daran <lb/> würtzt es mit Ingber <lb/> Pfeffer <lb/> Negelein <lb/> Cardamomen und Muscatblüh <lb/> zuckert es wohl <lb/> und giessets über ein abgesottenes Wildpret <lb/> last es noch einen Sud mit aufthun ; richtet es hernach an <lb/> und streuet Trisanet darauf.</p>
+        <p> Röstet ein gerieben rocken Brod im Schmaltz <lb/> man kan auch ein wenig <objectName ref="lebkuchen">Lebkuchen</objectName> dazu nehmen <lb/> giesset Malvasier <lb/> oder sonst süssen <objectName ref="wein">Wein</objectName> daran <lb/> last es einen Sud aufthun <lb/> und treibts hernach durch einen <objectName ref="seiher">Seiher</objectName>; nach diesen nehmet geschählte <objectName ref="zwiebel">Zwiebeln</objectName> und Aepffel <lb/> hacket sie klein zusammen <lb/> und röstet es wohl im Schmaltz <lb/> thut das durch = getriebene daran <lb/> würtzt es mit Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Negelein <lb/> Cardamomen und Muscatblüh <lb/> zuckert es wohl <lb/> und giessets über ein abgesottenes Wildpret <lb/> last es noch einen Sud mit aufthun; richtet es hernach an <lb/> und streuet Trisanet darauf. </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe gebachne Grundeln kalter gegeben <lb/> mit klein= gehackten Zwibeln <lb/> Knoblauch <lb/> grünen Petersil= Kräutlein <lb/> Pfeffer <lb/> Imber <lb/> Muscatnuß <lb/> Oel und wenig Eßig untereinander gegossen <lb/> und über die Fischlein gegeben <lb/> und aufgetragen <lb/> sind gut zu der Collation.</p>
+        <p> DIe gebachne Grundeln kalter gegeben <lb/> mit klein= gehackten Zwibeln <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> grünen Petersil= Kräutlein <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> Muscatnuß <lb/> Oel und wenig Eßig untereinander gegossen <lb/> und über die Fischlein gegeben <lb/> und aufgetragen <lb/> sind gut zu der Collation. </p>
             </div>
         </body>
     </text>

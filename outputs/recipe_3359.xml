@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Hünlein werden geviertheilt <lb/> mit dem breiten Messer geklopfft <lb/> mit Saltz und wenig Pfeffer und gestoßner Muscatnuß gewürtzt <lb/> eingemelbt <lb/> und im Butter schön liecht= gelb geröst ; gibs warm <lb/> mit Lemoni= Safft ; regaliers mit geröster Leber und grün gebachenen Petersil= Kräutlein.</p>
+        <p> DIe Hünlein werden geviertheilt <lb/> mit dem breiten <objectName ref="messer">Messer</objectName> geklopfft <lb/> mit Saltz und wenig <objectName ref="pfeffer">Pfeffer</objectName> und gestoßner Muscatnuß gewürtzt <lb/> eingemelbt <lb/> und im <objectName ref="butter">Butter</objectName> schön liecht= gelb geröst; gibs warm <lb/> mit Lemoni= Safft; regaliers mit geröster <objectName ref="leber">Leber</objectName> und grün gebachenen Petersil= Kräutlein. </p>
             </div>
         </body>
     </text>

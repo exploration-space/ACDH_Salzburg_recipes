@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>EBen auf diese Weiß kan auch von Wegwarten= oder Cichorien= Wurtzeln eine Suppe gemacht werden : es müssen aber die Wegwarten zuvor eine Sund im kalten Wasser ligen; und wann sie dann in Wasser abgesotten worden <lb/> noch eine Stunde in kaltes Wasser geleget werden <lb/> damit sich die Bittere wol heraus ziehe: Alsdann kan man diese Suppe ferner <lb/> wie bey der Scorzonera= Suppe beschrieben <lb/> verfertigen.</p>
+        <p> EBen auf diese Weiß kan auch von Wegwarten= oder Cichorien= Wurtzeln eine <objectName ref="suppe">Suppe</objectName> gemacht werden : es müssen aber die Wegwarten zuvor eine Sund im kalten <objectName ref="wasser">Wasser</objectName> ligen; und wann sie dann in <objectName ref="wasser">Wasser</objectName> abgesotten worden <lb/> noch eine Stunde in kaltes <objectName ref="wasser">Wasser</objectName> geleget werden <lb/> damit sich die Bittere wol heraus ziehe : Alsdann kan man diese <objectName ref="suppe">Suppe</objectName> ferner <lb/> wie bey der Scorzonera= <objectName ref="suppe">Suppe</objectName> beschrieben <lb/> verfertigen. </p>
             </div>
         </body>
     </text>

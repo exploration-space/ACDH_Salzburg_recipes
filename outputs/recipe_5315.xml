@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm wenig Wasser <lb/> oder Fleischbrühe <lb/> mit Wein und genugsamen Zucker und Weichsel= Safft mit Brod <lb/> oder Meel braun eingebrennt <lb/> gewürtz es mit wenig Imber <lb/> Zimmet und Muscatnuß; laß die gebachne Hünlein damit aufsieden <lb/> biß sie recht in dem Geschmack und in der Farb <lb/> auch nicht gar zu dick seynd <lb/> so seynd sie gut und recht.</p>
+        <p> NImm wenig <objectName ref="wasser">Wasser</objectName> <lb/> oder <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> mit <objectName ref="wein">Wein</objectName> und genugsamen <objectName ref="zucker">Zucker</objectName> und Weichsel= Safft mit Brod <lb/> oder Meel braun eingebrennt <lb/> gewürtz es mit wenig Imber <lb/> Zimmet und Muscatnuß; laß die gebachne Hünlein damit aufsieden <lb/> biß sie recht in dem Geschmack und in der Farb <lb/> auch nicht gar zu dick seynd <lb/> so seynd sie gut und recht. </p>
             </div>
         </body>
     </text>

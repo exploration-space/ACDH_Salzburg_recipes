@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Quitten <lb/> schel vnnd höl sie auß <lb/> setz sie auff in einem Wasser <lb/> vnd quell sie wol <lb/> besteck sie mit Neglein vnd mit Zimmet <lb/> machs in eine Pasteten <lb/> die hoch auffgetrieben ist <lb/> mit Butter <lb/> Zucker vnd Zimmet <lb/> laß in einem Ofen backen <lb/> so kanstu es kalt oder warm gben. Vnd wenn du es wilt anrichten <lb/> so besträw es mit weissem Zucker <lb/> so ist es gut vnd wolgeschmack. Also bäckt man die Quitten Pasteten.</p>
+        <p> Nim ( m ) <objectName ref="quitten">Quitten</objectName> <lb/> schel vnnd höl sie auß <lb/> setz sie auff in einem <objectName ref="wasser">Wasser</objectName> <lb/> vnd quell sie wol <lb/> besteck sie mit Neglein vnd mit Zimmet <lb/> machs in eine <objectName ref="pastete">Pasteten</objectName> <lb/> die hoch auffgetrieben ist <lb/> mit <objectName ref="butter">Butter</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> vnd Zimmet <lb/> laß in einem <objectName ref="ofen">Ofen</objectName> backen <lb/> so kanstu es kalt oder warm gben. Vnd wenn du es wilt anrichten <lb/> so besträw es mit weissem <objectName ref="zucker">Zucker</objectName> <lb/> so ist es gut vnd wolgeschmack. Also bäckt man die <objectName ref="quitten">Quitten</objectName> <objectName ref="pastete">Pasteten</objectName>. </p>
             </div>
         </body>
     </text>

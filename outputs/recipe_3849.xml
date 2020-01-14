@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIse seynd auch in allweg dem Lachs und Rhein= Salm gleich zu verkochen <lb/> im Sieden <lb/> Bachen <lb/> Braten <lb/> Einmachen in die Pasteten <lb/> und Selchen <lb/> oder Räuchern.</p>
+        <p> DIse seynd auch in allweg dem <objectName ref="lachs">Lachs</objectName> und Rhein= Salm gleich zu verkochen <lb/> im Sieden <lb/> Bachen <lb/> Braten <lb/> Einmachen in die <objectName ref="pastete">Pasteten</objectName> <lb/> und Selchen <lb/> oder Räuchern. </p>
             </div>
         </body>
     </text>

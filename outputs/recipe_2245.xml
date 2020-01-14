@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Seud den Reiß halb in Wasser, seichs Widerumb daruon, geuß guete <lb/> milch, oder gueten rämb siedent dran, laß ihn also an die stat sieden, <lb/> Wie ein dikhen Prein, Salz ihn dan, geuß ihn auf ein Pret, oder <lb/> Zinblat, das er khiel vnd fest Wird, schneid dan schnizl drauß, <lb/> Ziechs in eim mell umb, bachs in haissen schmalz, gibs Wie du Wilt.<lb/></p>
+        <p> Seud den Reiß halb in <objectName ref="wasser">Wasser</objectName>, seichs Widerumb daruon, geuß guete <lb/> <objectName ref="milch">milch</objectName>, oder gueten rämb siedent dran, laß ihn also an die stat sieden, <lb/> Wie ein dikhen Prein, <objectName ref="salz">Salz</objectName> ihn dan, geuß ihn auf ein Pret, oder <lb/> Zinblat, das er khiel vnd fest Wird, schneid dan schnizl drauß, <lb/> Ziechs in eim mell umb, bachs in haissen <objectName ref="schmalz">schmalz</objectName>, gibs Wie du Wilt./ </p>
             </div>
         </body>
     </text>

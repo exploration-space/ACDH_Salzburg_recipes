@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimbe .4. oder .5. schenne Khitten nach <lb/> den du ein Grosse schissl hast schölle<gap/> <lb/> sye schneidte sye auf löge es in ein <lb/> schissl in ein Frisches Wasser las in <lb/> einen saubern häffen<gap/> ein Wasser <lb/> Siedten<gap/> Wierffe die Khitten Darein <lb/> lass sye etlich Sudt<gap/> thuen Nimbe sye <lb/> heraus, löge sye auf ein schissl <lb/> Nimbe Gefätten<gap/> Zuckher sträe<gap/> in <lb/> Auf Die Kitten<gap/> Gies<gap/> einen Guetten <lb/> Viertung<gap/> Wein Darauf Döckhe sye <lb/> Zue, söz auf ein Gluet<gap/>, las sye <lb/> olso siedten<gap/> Wan sye schen Gesulzt<gap/> <lb/> vnnd Marb<gap/> sein sträe frische lang <lb/> Geschnidtene lemony<gap/> schöllen<gap/> darauf <lb/> Zuckhers vnnd Gibs, also ist es Recht <lb/></p>
+        <p> Nimbe.4. oder.5. schenne Khitten nach <lb/> den du ein Grosse schissl hast schölle<gap/> <lb/> sye schneidte sye auf löge es in ein <lb/> schissl in ein Frisches <objectName ref="wasser">Wasser</objectName> las in <lb/> einen saubern häffen<gap/> ein <objectName ref="wasser">Wasser</objectName> <lb/> Siedten<gap/> Wierffe die Khitten Darein <lb/> lass sye etlich Sudt<gap/> thuen Nimbe sye <lb/> heraus, löge sye auf ein schissl <lb/> Nimbe Gefätten<gap/> Zuckher sträe<gap/> in <lb/> Auf Die Kitten<gap/> Gies<gap/> einen Guetten <lb/> Viertung<gap/> <objectName ref="wein">Wein</objectName> Darauf Döckhe sye <lb/> Zue, söz auf ein Gluet<gap/>, las sye <lb/> olso siedten<gap/> Wan sye schen Gesulzt<gap/> <lb/> vnnd Marb<gap/> sein sträe frische lang <lb/> Geschnidtene lemony<gap/> schöllen<gap/> darauf <lb/> Zuckhers vnnd Gibs, also ist es Recht <lb/> </p>
             </div>
         </body>
     </text>

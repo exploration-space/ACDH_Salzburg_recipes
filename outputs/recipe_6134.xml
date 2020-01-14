@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn siedet die Lungen gantz weich <lb/> dann hacket man sie mit Petersil= Kräutlein <lb/> Wein= Beerlein <lb/> auf das kleinste <lb/> thue abgeriebene Mandeln <lb/> Zimmet <lb/> Imber <lb/> Pfeffer <lb/> Eyer <lb/> und Rosenwasser daran <lb/> rühr es wohl unter einander <lb/> mach es rund <lb/> und bachs im Schmaltz <lb/> aber im Safft <lb/> und mach von gutem Span schen Wein <lb/> Zucker <lb/> Rosinen<lb/> und geröstem Semmel= Meel <lb/> eine gute Brühe darüber.</p>
+        <p> MAn siedet die <objectName ref="lunge">Lungen</objectName> gantz weich <lb/> dann hacket man sie mit Petersil= Kräutlein <lb/> Wein= Beerlein <lb/> auf das kleinste <lb/> thue abgeriebene <objectName ref="mandeln">Mandeln</objectName> <lb/> Zimmet <lb/> Imber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Eyer <lb/> und <objectName ref="rosenwasser">Rosenwasser</objectName> daran <lb/> rühr es wohl unter einander <lb/> mach es rund <lb/> und bachs im Schmaltz <lb/> aber im Safft <lb/> und mach von gutem Span schen <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> Rosinen/ und geröstem Semmel= Meel <lb/> eine gute <objectName ref="bruehe">Brühe</objectName> darüber. </p>
             </div>
         </body>
     </text>

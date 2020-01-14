@@ -172,11 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm sauber ausgelößte Austern <lb/> seihe die Brühe darvon <lb/> und brauche diese anderwärtig <lb/> die Austern aber bespreng mit wenig Pfeffer und Saltz <lb/> schwings im Meel <lb/> und bachs aus heissem Schmaltz <lb/> oder Oel <lb/> und gibs mit gebachenen Petersil= Kräutlein <lb/> und guten Lemoni zu Tisch.
-
-NB. Was mehrers von Austern <lb/> findest du bey der Suppen und andern Speisen zugemischter vielfältig.
-
-Es wird auch nicht unbekannt seyn <lb/> daß unter den Austern zweyerley Sorten seynd <lb/> nemlich die grösseren <lb/> oder Arsenal= Austern <lb/> und die kleinere <lb/> als die Ordinari= Austern <lb/> aber im Kochen ist kein Unterschid <lb/> als daß die grössere stärckere Hitz zum Braten vonnöthen haben <lb/> auch im Braten übersich mit einem glüenden Blech sollen ausgekocht werden.</p>
+        <p> NImm sauber ausgelößte <objectName ref="austern">Austern</objectName> <lb/> seihe die <objectName ref="bruehe">Brühe</objectName> darvon <lb/> und brauche diese anderwärtig <lb/> die <objectName ref="austern">Austern</objectName> aber bespreng mit wenig <objectName ref="pfeffer">Pfeffer</objectName> und Saltz <lb/> schwings im Meel <lb/> und bachs aus heissem Schmaltz <lb/> oder Oel <lb/> und gibs mit gebachenen Petersil= Kräutlein <lb/> und guten Lemoni zu <objectName ref="tisch">Tisch</objectName>. NB. Was mehrers von <objectName ref="austern">Austern</objectName> <lb/> findest du bey der <objectName ref="suppe">Suppen</objectName> und andern Speisen zugemischter vielfältig. Es wird auch nicht unbekannt seyn <lb/> daß unter den <objectName ref="austern">Austern</objectName> zweyerley Sorten seynd <lb/> nemlich die grösseren <lb/> oder Arsenal= <objectName ref="austern">Austern</objectName> <lb/> und die kleinere <lb/> als die Ordinari= <objectName ref="austern">Austern</objectName> <lb/> aber im Kochen ist kein Unterschid <lb/> als daß die grössere stärckere Hitz zum Braten vonnöthen haben <lb/> auch im Braten übersich mit einem glüenden <objectName ref="blech">Blech</objectName> sollen ausgekocht werden. </p>
             </div>
         </body>
     </text>

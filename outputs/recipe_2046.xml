@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Pienssen oder moltn Pertram vnd Petersill, vnd <lb/> Maran, ÿberseud die Pienssen Zuuor, vnd Wasch sauber <lb/> auß, hakh es, vnd das ander khreitlwerch drunder, Rests im <lb/> Schmalz, schlag ein Aÿr oder Zwaÿ dran, das es ein Wenig <lb/> faist Wird, salzs vnd stups Woll, thue khleine Weinpöhr drunder, <lb/> nimb solchen taig Wie ob steht, fühls darein, mach gescheibte <lb/> khräpffl drauß, bestreichs ein wenig mit Aÿrkhlar, das nit <lb/> aufgehn, legs in ein siedents Wasser, das gesalzen ist, laß also <lb/> Sieden, doch nit Zu lang, nimb sie auß, vnd legs auf ein <lb/> schißl, strä geribne Sembl drauf, vnd leg ein Puter dran, <lb/> oder bren ein schmalz drüber, sez auf ein gluet, laß ein <lb/> Sud thuen. <lb/></p>
+        <p> Nimb Pienssen oder moltn Pertram vnd Petersill, vnd <lb/> Maran, ÿberseud die Pienssen Zuuor, vnd Wasch sauber <lb/> auß, hakh es, vnd das ander khreitlwerch drunder, Rests im <lb/> <objectName ref="schmalz">Schmalz</objectName>, schlag ein Aÿr oder Zwaÿ dran, das es ein Wenig <lb/> faist Wird, salzs vnd stups Woll, thue khleine Weinpöhr drunder, <lb/> nimb solchen taig Wie ob steht, fühls darein, mach gescheibte <lb/> khräpffl drauß, bestreichs ein wenig mit Aÿrkhlar, das nit <lb/> aufgehn, legs in ein siedents <objectName ref="wasser">Wasser</objectName>, das gesalzen ist, laß also <lb/> Sieden, doch nit Zu lang, nimb sie auß, vnd legs auf ein <lb/> schißl, strä geribne Sembl drauf, vnd leg ein Puter dran, <lb/> oder bren ein <objectName ref="schmalz">schmalz</objectName> drüber, sez auf ein gluet, laß ein <lb/> Sud thuen. <lb/> </p>
             </div>
         </body>
     </text>

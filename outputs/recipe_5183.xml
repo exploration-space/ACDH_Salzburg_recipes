@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn diese mit klein= gehackten Petersil= und Lemoni= Kräutlein <lb/> mit Gewürtz <lb/> Wein <lb/> oder Eßig abgesotten werden <lb/> so seynd sie auch gut.</p>
+        <p> WAnn diese mit klein= gehackten Petersil= und Lemoni= Kräutlein <lb/> mit Gewürtz <lb/> <objectName ref="wein">Wein</objectName> <lb/> oder Eßig abgesotten werden <lb/> so seynd sie auch gut. </p>
             </div>
         </body>
     </text>

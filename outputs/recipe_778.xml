@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm sauber gebutzte <lb/> oder gewaschne ungescheelte Birn <lb/> oder scheele sie <lb/> richts gantzer <lb/> mit gantzem Gewürtz <lb/> als Zucker <lb/> Zimmet <lb/> wenig Näglein <lb/> mit zwey oder drey Löffelvoll köstlichen Wein <lb/> in ein wolvermachtes <lb/> verzinntes oder erdenes Geschirr <lb/> setz in heissen Ofen <lb/> laß genug kochen <lb/> und gibs mit Zucker bestreuter.</p>
+        <p> Nimm sauber gebutzte <lb/> oder gewaschne ungescheelte Birn <lb/> oder scheele sie <lb/> richts gantzer <lb/> mit gantzem Gewürtz <lb/> als <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet <lb/> wenig Näglein <lb/> mit zwey oder drey Löffelvoll köstlichen <objectName ref="wein">Wein</objectName> <lb/> in ein wolvermachtes <lb/> verzinntes oder erdenes <objectName ref="geschirr">Geschirr</objectName> <lb/> setz in heissen <objectName ref="ofen">Ofen</objectName> <lb/> laß genug kochen <lb/> und gibs mit <objectName ref="zucker">Zucker</objectName> bestreuter. </p>
             </div>
         </body>
     </text>

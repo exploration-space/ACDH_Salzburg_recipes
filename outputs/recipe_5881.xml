@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>HAst du Hünlein oder Kapaunen ohne das zum Braten <lb/> so behalte die Leberlein und Mäglein zu der Suppen <lb/> welches du also machen must : Lasse die Mäglein an die statt sieden <lb/> die Leberlein aber nur ein wenig anlauffen <lb/> schneid sie alsdann gewürfflet <lb/> und röste solche mit dem gewürfflet= geschnittenen Brod zugleich im Butter <lb/> und <lb/> wann sie auf gleich jetzt beschriebene art zugerichtet seyn <lb/> thue solche in dem Anrichten unter die Erbsen mischen <lb/> und gleich also auftragen <lb/> ist sehr gut. Oder richte die Erbsen <lb/> wie oben stehet <lb/> und gibs mit dem gerösten Brod allein.</p>
+        <p> HAst du Hünlein oder Kapaunen ohne das zum Braten <lb/> so behalte die Leberlein und Mäglein zu der <objectName ref="suppe">Suppen</objectName> <lb/> welches du also machen must : Lasse die Mäglein an die statt sieden <lb/> die Leberlein aber nur ein wenig anlauffen <lb/> schneid sie alsdann gewürfflet <lb/> und röste solche mit dem gewürfflet= geschnittenen Brod zugleich im <objectName ref="butter">Butter</objectName> <lb/> und <lb/> wann sie auf gleich jetzt beschriebene art zugerichtet seyn <lb/> thue solche in dem Anrichten unter die <objectName ref="erbsen">Erbsen</objectName> mischen <lb/> und gleich also auftragen <lb/> ist sehr gut. Oder richte die <objectName ref="erbsen">Erbsen</objectName> <lb/> wie oben stehet <lb/> und gibs mit dem gerösten Brod allein. </p>
             </div>
         </body>
     </text>

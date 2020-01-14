@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimbe Rotte Rosin Die erst <lb/> frisch von der staudten khombt, <lb/> schneidte Die plädl<gap/> ab biss auf <lb/> das Gelbe hackhe sye Nimbe auf <lb/> ein halb lt<gap/>: Rosen ein lt: Zukher <lb/> Gies<gap/> ein seitl<gap/> Wasser Darauf, <lb/> las ihn siedten<gap/> leittere<gap/> ihn mit <lb/> einen Ayr Clar thue Die Gehackhte <lb/> Rosen Darein, las ihn also <lb/> siedten Gar Gemach<gap/> das er <lb/> sich Ganz sulzet<gap/>, höbe ihn <lb/> herab von feur<gap/> las ihn abkhillen<gap/> <lb/> thue in ihn ein Glas Vermache ihn <lb/> woll also ist er Recht vnd Guett. <lb/><lb/> (re 203)</p>
+        <p> Nimbe Rotte Rosin Die erst <lb/> frisch von der staudten khombt, <lb/> schneidte Die plädl<gap/> ab biss auf <lb/> das Gelbe hackhe sye Nimbe auf <lb/> ein halb lt<gap/> : <objectName ref="rosen">Rosen</objectName> ein lt : Zukher <lb/> Gies<gap/> ein seitl<gap/> <objectName ref="wasser">Wasser</objectName> Darauf, <lb/> las ihn siedten<gap/> leittere<gap/> ihn mit <lb/> einen Ayr Clar thue Die Gehackhte <lb/> <objectName ref="rosen">Rosen</objectName> Darein, las ihn also <lb/> siedten Gar Gemach<gap/> das er <lb/> sich Ganz sulzet<gap/>, höbe ihn <lb/> herab von feur<gap/> las ihn abkhillen<gap/> <lb/> thue in ihn ein <objectName ref="glas">Glas</objectName> Vermache ihn <lb/> woll also ist er Recht vnd Guett. <lb/><lb/> ( re 203 ) </p>
             </div>
         </body>
     </text>

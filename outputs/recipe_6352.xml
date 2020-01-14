@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Item nim(m) kyen <lb/> vnd schneid spänlin darvon einer spann lang <lb/> vnd eins fingers breit <lb/> vnnd wirff sie auff das Bier <lb/> dieweil es noch gantz warm ist <lb/> das benimpt jm das Sommerentzen.</p>
+        <p> Item nim ( m ) kyen <lb/> vnd schneid spänlin darvon einer spann lang <lb/> vnd eins fingers breit <lb/> vnnd wirff sie auff das <objectName ref="bier">Bier</objectName> <lb/> dieweil es noch gantz warm ist <lb/> das benimpt jm das Sommerentzen. </p>
             </div>
         </body>
     </text>

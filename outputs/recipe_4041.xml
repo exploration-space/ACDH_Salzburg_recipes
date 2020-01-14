@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn die Lachsen <lb/> oder Rhein= Salm frisch seynd <lb/> absonderlich die Schweiff= Stuck <lb/> so seynd sie auf das best zum Braten <lb/> mit Capry <lb/> und allerhand guten Brühen ; auch in Oel und Butter <lb/> kalt und warm gut.</p>
+        <p> WAnn die Lachsen <lb/> oder Rhein= Salm frisch seynd <lb/> absonderlich die Schweiff= Stuck <lb/> so seynd sie auf das best zum Braten <lb/> mit Capry <lb/> und allerhand guten <objectName ref="bruehe">Brühen</objectName>; auch in Oel und <objectName ref="butter">Butter</objectName> <lb/> kalt und warm gut. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb schens Waizens mell, Wieuill du Wilt, vnd den 3. oder 4. thaill <lb/><lb/> (50r) Roggen außschlag, nimb blabe milch, Wermb die selbe, das du den finger <lb/> gar Woll erleiden khanst, nimb ein Wenig gueten germb, spridls <lb/> under die milch, salz das mell, mach ein taig an, nit Zu dikh, vnd nit Zu <lb/> lind, das man ihn khan einschlagen, böhr vnd schlag ihn Woll mit dem <lb/> löffl, biß er blatern bekhombt, nimb dan auf ein tisch 4. oder 5. Aÿr, <lb/> legs in ein Warmbs Wasser, schlags warm in den taig, vnd schlag ihn <lb/> abermahlen starkh, sez alßdan mit eim löfl ins haiß schmalz, Wie <lb/> oben die andern khüchl. <lb/></p>
+        <p> Nimb schens Waizens mell, Wieuill du Wilt, vnd den 3. oder 4. thaill <lb/><lb/> ( 50r ) Roggen außschlag, nimb blabe <objectName ref="milch">milch</objectName>, Wermb die selbe, das du den finger <lb/> gar Woll erleiden khanst, nimb ein Wenig gueten germb, spridls <lb/> under die <objectName ref="milch">milch</objectName>, <objectName ref="salz">salz</objectName> das mell, mach ein taig an, nit Zu dikh, vnd nit Zu <lb/> lind, das man ihn khan einschlagen, böhr vnd schlag ihn Woll mit dem <lb/> löffl, biß er blatern bekhombt, nimb dan auf ein <objectName ref="tisch">tisch</objectName> 4. oder 5. Aÿr, <lb/> legs in ein Warmbs <objectName ref="wasser">Wasser</objectName>, schlags warm in den taig, vnd schlag ihn <lb/> abermahlen starkh, sez alßdan mit eim löfl ins haiß <objectName ref="schmalz">schmalz</objectName>, Wie <lb/> oben die andern khüchl. <lb/> </p>
             </div>
         </body>
     </text>

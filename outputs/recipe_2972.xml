@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>KRaut= Stengel oder Startzen gescheelt <lb/> gebrüht <lb/> zu Rädlein geschnitten <lb/> werden hernach eingemacht <lb/> und zugericht wie die Kohlrabi <lb/> und Carfiol <lb/> mit Fleisch= Erbes oder Butter= Brühe <lb/> auch fett genug <lb/> mit Pfeffer gemacht.</p>
+        <p> KRaut= Stengel oder Startzen gescheelt <lb/> gebrüht <lb/> zu <objectName ref="raedlein">Rädlein</objectName> geschnitten <lb/> werden hernach eingemacht <lb/> und zugericht wie die <objectName ref="kohlrabi">Kohlrabi</objectName> <lb/> und Carfiol <lb/> mit Fleisch= Erbes oder Butter= <objectName ref="bruehe">Brühe</objectName> <lb/> auch <objectName ref="fett">fett</objectName> genug <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName> gemacht. </p>
             </div>
         </body>
     </text>

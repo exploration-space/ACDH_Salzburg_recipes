@@ -173,9 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Man soll kleine Krebsen mit heissem Wasser überbrennen <lb/> die Gall heraus thun <lb/> in einem Mersel stossen <lb/> und gute süsse Ober=Milch daran giessen <lb/> durchdrucken <lb/> und 5. oder 6. Eyer wohl abrühren <lb/> darnach Butter in einer Schüssel zerlassen <lb/> den Taig darein giessen <lb/> unten und oben Glut thun <lb/> so wird es schön roth <lb/> man mags zuckern <lb/> oder ein wenig saltzen und pfeffern.
-
-NB. Also auch von Krebs <lb/> mit Zucker <lb/> Gewürtz und Wein.</p>
+        <p> Man soll kleine <objectName ref="krebse">Krebsen</objectName> mit heissem <objectName ref="wasser">Wasser</objectName> überbrennen <lb/> die Gall heraus thun <lb/> in einem Mersel stossen <lb/> und gute süsse Ober=Milch daran giessen <lb/> durchdrucken <lb/> und 5. oder 6. Eyer wohl abrühren <lb/> darnach <objectName ref="butter">Butter</objectName> in einer <objectName ref="schuessel">Schüssel</objectName> zerlassen <lb/> den Taig darein giessen <lb/> unten und oben <objectName ref="glut">Glut</objectName> thun <lb/> so wird es schön roth <lb/> man mags <objectName ref="zucker">zuckern</objectName> <lb/> oder ein wenig saltzen und <objectName ref="pfeffer">pfeffern</objectName>. NB. Also auch von Krebs <lb/> mit <objectName ref="zucker">Zucker</objectName> <lb/> Gewürtz und <objectName ref="wein">Wein</objectName>. </p>
             </div>
         </body>
     </text>

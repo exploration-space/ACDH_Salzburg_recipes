@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nachdeme der Magen sauber gebutzt <lb/> und wohl weich gesotten <lb/> wird er mit dieser Füll gefüllt <lb/> nemlich <lb/> hacke Speck <lb/> wenig Zwibel <lb/> Semmel <lb/> wohlriechende Kräutlein <lb/> Eyer <lb/> süssen Ram <lb/> und Gewürtz <lb/> mach es gelb mit wenig Saffran <lb/> oder roth mit Krebs=Butter <lb/> oder lasse es weiß ; füll darmit den Magen <lb/> vermache solchen gar fleißig <lb/> daß die Füll nicht durchdringet ; sied ihn in guter Fleischbrühe <lb/> und richte ein gutes Rago <lb/> oder Brühe darüber <lb/> er ist gut.</p>
+        <p> Nachdeme der <objectName ref="magen">Magen</objectName> sauber gebutzt <lb/> und wohl weich gesotten <lb/> wird er mit dieser Füll gefüllt <lb/> nemlich <lb/> hacke <objectName ref="speck">Speck</objectName> <lb/> wenig Zwibel <lb/> Semmel <lb/> wohlriechende Kräutlein <lb/> Eyer <lb/> süssen Ram <lb/> und Gewürtz <lb/> mach es gelb mit wenig Saffran <lb/> oder roth mit Krebs=Butter <lb/> oder lasse es weiß; füll darmit den <objectName ref="magen">Magen</objectName> <lb/> vermache solchen gar fleißig <lb/> daß die Füll nicht durchdringet; sied ihn in guter <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> und richte ein gutes Rago <lb/> oder <objectName ref="bruehe">Brühe</objectName> darüber <lb/> er ist gut. </p>
             </div>
         </body>
     </text>

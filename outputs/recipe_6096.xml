@@ -172,9 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Flecklein werden vom Schlegel geschnitten <lb/> geklopfft <lb/> mit gewürtztem Speck gespickt <lb/> und mit einig Wein <lb/> gleich den Rebhünlein gedämpfft <lb/> alsdann fricassirt <lb/> oder in brauner jus, pur mit Gewürtz <lb/> Lemoni <lb/> oder Knoblauch <lb/> oder in Butter gedämpfft <lb/> und gibs weiß <lb/> oder gelb <lb/> ein wenig sauer.
-
- </p>
+        <p> DIe Flecklein werden vom <objectName ref="schlegel">Schlegel</objectName> geschnitten <lb/> geklopfft <lb/> mit gewürtztem <objectName ref="speck">Speck</objectName> gespickt <lb/> und mit einig <objectName ref="wein">Wein</objectName> <lb/> gleich den Rebhünlein gedämpfft <lb/> alsdann fricassirt <lb/> oder in brauner <objectName ref="jus">jus</objectName>, pur mit Gewürtz <lb/> Lemoni <lb/> oder <objectName ref="knoblauch">Knoblauch</objectName> <lb/> oder in <objectName ref="butter">Butter</objectName> gedämpfft <lb/> und gibs weiß <lb/> oder gelb <lb/> ein wenig sauer. </p>
             </div>
         </body>
     </text>

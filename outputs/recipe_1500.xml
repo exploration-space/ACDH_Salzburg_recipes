@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein guette obere milch, vnd .6. oder .8. ayrdotter schlags <lb/> wohl durcheinander ab, vnd zuckhers wohl. thue ein löfluoll <lb/> schmalz in ein Reindl, laß haiß werdten. vnd thue ein oder .2. <lb/> löfluoll mundtmehl darein, vnd rests, aber es mues nit braun <lb/> werdten, darnach gieß die milch vnd ayrdotter darein, riehrs <lb/> bis siedt, nimb hernach Lemani. daß weiß schabe daruon, schneidts <lb/> Klain, riehrs darunter, vnd söz ein wenig vom feür weckh, <lb/> thue oben auf ein gluett vnd pachs also daß braun wirdt. <lb/></p>
+        <p> Nimb ein guette obere <objectName ref="milch">milch</objectName>, vnd.6. oder.8. ayrdotter schlags <lb/> wohl durcheinander ab, vnd zuckhers wohl. thue ein löfluoll <lb/> <objectName ref="schmalz">schmalz</objectName> in ein Reindl, laß haiß werdten. vnd thue ein oder.2. <lb/> löfluoll mundtmehl darein, vnd rests, aber es mues nit braun <lb/> werdten, darnach gieß die <objectName ref="milch">milch</objectName> vnd ayrdotter darein, riehrs <lb/> bis siedt, nimb hernach Lemani. daß weiß schabe daruon, schneidts <lb/> Klain, riehrs darunter, vnd söz ein wenig vom feür weckh, <lb/> thue oben auf ein gluett vnd pachs also daß braun wirdt. <lb/> </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim den Hausen in einen Kessel <lb/> seig ein gute Erbßbrüh <lb/> die fein lauter ist <lb/> darüber <lb/> thu Pettersilgen Wurtzel <lb/> gantzen Pfeffer <lb/> gantze Muscatenblüt <lb/> Spenat <lb/> der vberquellt ist <lb/> frische Butter <lb/> die vnzerlassen ist <lb/> vnd ein wenig gestossen Ingwer <lb/> darein <lb/> zerlaß es miteinander <lb/> so wirt es gut vnd wolgeschmack.</p>
+        <p> Nim den Hausen in einen <objectName ref="kessel">Kessel</objectName> <lb/> seig ein gute Erbßbrüh <lb/> die fein lauter ist <lb/> darüber <lb/> thu Pettersilgen Wurtzel <lb/> gantzen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> gantze Muscatenblüt <lb/> Spenat <lb/> der vberquellt ist <lb/> frische <objectName ref="butter">Butter</objectName> <lb/> die vnzerlassen ist <lb/> vnd ein wenig gestossen <objectName ref="ingwer">Ingwer</objectName> <lb/> darein <lb/> zerlaß es miteinander <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

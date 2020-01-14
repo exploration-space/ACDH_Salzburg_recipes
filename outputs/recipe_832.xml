@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Maul=Beer gantzer <lb/> mit wenig Wein <lb/> Zucker <lb/> gantzen Zimmet und Nägelein kurtz kochen lassen <lb/> und auf Semmel= Schnitten angerichter <lb/> mit Zucker bestreuter <lb/> seynd gesund <lb/> und auf der Schüssel wieder lassen einen kleinen Sud thun <lb/> auch bey dem Anrichten mit wenig Zucker bestreut; ist eine köstliche Hertz=Stärckung.</p>
+        <p> Maul=Beer gantzer <lb/> mit wenig <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> gantzen Zimmet und Nägelein kurtz kochen lassen <lb/> und auf Semmel= Schnitten angerichter <lb/> mit <objectName ref="zucker">Zucker</objectName> bestreuter <lb/> seynd gesund <lb/> und auf der <objectName ref="schuessel">Schüssel</objectName> wieder lassen einen kleinen Sud thun <lb/> auch bey dem Anrichten mit wenig <objectName ref="zucker">Zucker</objectName> bestreut; ist eine köstliche Hertz=Stärckung. </p>
             </div>
         </body>
     </text>

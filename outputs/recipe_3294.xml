@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nachdem er sauber gewaschen <lb/> in gantz guter Milch gesotten <lb/> vor dem Anrichten gesaltzen <lb/> und ein Stück Butter darein verkocht.</p>
+        <p> Nachdem er sauber gewaschen <lb/> in gantz guter <objectName ref="milch">Milch</objectName> gesotten <lb/> vor dem Anrichten gesaltzen <lb/> und ein Stück <objectName ref="butter">Butter</objectName> darein verkocht. </p>
             </div>
         </body>
     </text>

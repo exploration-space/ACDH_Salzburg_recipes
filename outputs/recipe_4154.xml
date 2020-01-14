@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn von dem gebratnen Indian etwas übergeblieben <lb/> wird es zu feinen Stücken gemacht <lb/> durch zerlassnen Butter gezogen <lb/> mit angemachtem Brod bestreut <lb/> und auf den Rost gelegt <lb/> wanns fertig <lb/> und schöne Farb hat <lb/> so gibs auf die Schüssel <lb/> mit einer Knoblauch= Lemoni= oder anderer sauren Brühe.</p>
+        <p> WAnn von dem gebratnen Indian etwas übergeblieben <lb/> wird es zu feinen Stücken gemacht <lb/> durch zerlassnen <objectName ref="butter">Butter</objectName> gezogen <lb/> mit angemachtem Brod bestreut <lb/> und auf den <objectName ref="rost">Rost</objectName> gelegt <lb/> wanns fertig <lb/> und schöne Farb hat <lb/> so gibs auf die <objectName ref="schuessel">Schüssel</objectName> <lb/> mit einer Knoblauch= Lemoni= oder anderer sauren <objectName ref="bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

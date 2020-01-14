@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schneid <lb/> klopff <lb/> saltz <lb/> und ziehe die rindernen Presolen <lb/> durch zerlassenen Butter und süsses Oel <lb/> besprengs mit zerstossenem Fenchel <lb/> Coriander <lb/> geriebnem Brod <lb/> Petersil = Kräutlein vermischter <lb/> richt sie in ein wohlverzinnte kupfferne Multer <lb/> mit wenigem Eßig im Ofen zu bachen ; oder brats auf dem Rost <lb/> und gib hernach eine Brühe von Butter <lb/> Oel <lb/> Lemoni = Safft <lb/> und weniger Fleischbrühe darüber ; oder nur Oel und Butter alleinig.</p>
+        <p> Schneid <lb/> klopff <lb/> saltz <lb/> und ziehe die rindernen Presolen <lb/> durch zerlassenen <objectName ref="butter">Butter</objectName> und süsses Oel <lb/> besprengs mit zerstossenem <objectName ref="fenchel">Fenchel</objectName> <lb/> Coriander <lb/> geriebnem Brod <lb/> Petersil = Kräutlein vermischter <lb/> richt sie in ein wohlverzinnte kupfferne <objectName ref="multer">Multer</objectName> <lb/> mit wenigem Eßig im <objectName ref="ofen">Ofen</objectName> zu bachen; oder brats auf dem <objectName ref="rost">Rost</objectName> <lb/> und gib hernach eine <objectName ref="bruehe">Brühe</objectName> von <objectName ref="butter">Butter</objectName> <lb/> Oel <lb/> Lemoni = Safft <lb/> und weniger <objectName ref="fleischbruehe">Fleischbrühe</objectName> darüber; oder nur Oel und <objectName ref="butter">Butter</objectName> alleinig. </p>
             </div>
         </body>
     </text>

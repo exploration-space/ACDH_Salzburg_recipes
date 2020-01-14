@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Du kanst auch Manscho Blancko auß der Brust machen <lb/> wie vorhin vermeldt ist.</p>
+        <p> Du kanst auch Manscho Blancko auß der <objectName ref="brust">Brust</objectName> machen <lb/> wie vorhin vermeldt ist. </p>
             </div>
         </body>
     </text>

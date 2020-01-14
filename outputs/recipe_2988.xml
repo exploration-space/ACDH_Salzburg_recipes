@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BOhnen gibt man auch in der Schweitz <lb/> mit im Schmaltz gerösten Brod <lb/> unter die Aepffel= Koch gemischt <lb/> und wol geschmältzt.</p>
+        <p> <objectName ref="bohnen">BOhnen</objectName> gibt man auch in der Schweitz <lb/> mit im Schmaltz gerösten Brod <lb/> unter die Aepffel= Koch gemischt <lb/> und wol geschmältzt. </p>
             </div>
         </body>
     </text>

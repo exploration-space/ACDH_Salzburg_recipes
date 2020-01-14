@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WEiche ein paar Semmeln <lb/> daran zuvor die Rinden herab geschnitten worden <lb/> in eine dick abgenommene Milch <lb/> stosse ein halb Pfund Zucker <lb/> treib die geweichte Semmeln durch <lb/> und thue den Zucker darein <lb/> gieß ein wenig Malvasier daran <lb/> machs aber nicht zu dinn <lb/> laß sieden <lb/> setz in den Keller <lb/> daß es erkuhle <lb/> und giebs dann zu essen.</p>
+        <p> WEiche ein paar <objectName ref="semmeln">Semmeln</objectName> <lb/> daran zuvor die Rinden herab geschnitten worden <lb/> in eine dick abgenommene <objectName ref="milch">Milch</objectName> <lb/> stosse ein halb <objectName ref="pfund">Pfund</objectName> <objectName ref="zucker">Zucker</objectName> <lb/> treib die geweichte <objectName ref="semmeln">Semmeln</objectName> durch <lb/> und thue den <objectName ref="zucker">Zucker</objectName> darein <lb/> gieß ein wenig Malvasier daran <lb/> machs aber nicht zu dinn <lb/> laß sieden <lb/> setz in den <objectName ref="keller">Keller</objectName> <lb/> daß es erkuhle <lb/> und giebs dann zu essen. </p>
             </div>
         </body>
     </text>

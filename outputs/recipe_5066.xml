@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Treib eine Pasteten auff <lb/> vnd schneidt die Ochsenzungen fein breit darein <lb/> thu kleine schwartze Rosein <lb/> frische vnzerlassene Butter <lb/> Ingwer vnd gesaltzen Limonien darein <lb/> mach sie mit einem Deckel von Teig zu <lb/> vnd scheub es in Ofen <lb/> Wanns gebacken ist <lb/> so schneidt den Deckel auff <lb/> vnd geuß ein wenig Brühe darein <lb/> so wirdt es safftig vnnd gut.</p>
+        <p> Treib eine <objectName ref="pastete">Pasteten</objectName> auff <lb/> vnd schneidt die <objectName ref="ochsenzunge">Ochsenzungen</objectName> fein breit darein <lb/> thu kleine schwartze Rosein <lb/> frische vnzerlassene <objectName ref="butter">Butter</objectName> <lb/> <objectName ref="ingwer">Ingwer</objectName> vnd gesaltzen Limonien darein <lb/> mach sie mit einem <objectName ref="deckel">Deckel</objectName> von <objectName ref="teig">Teig</objectName> zu <lb/> vnd scheub es in <objectName ref="ofen">Ofen</objectName> <lb/> Wanns gebacken ist <lb/> so schneidt den <objectName ref="deckel">Deckel</objectName> auff <lb/> vnd geuß ein wenig <objectName ref="bruehe">Brühe</objectName> darein <lb/> so wirdt es safftig vnnd gut. </p>
             </div>
         </body>
     </text>

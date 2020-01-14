@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim ein guten süssen Rahm mit der Milch <lb/> setz auff Kolen <lb/> vnd laß auffsieden <lb/> setzs weg <lb/> vnd laß kalt werden <lb/> so gewinnt es ein fein dicke Haut <lb/> nim sie mit einem Faumlöffel herab <lb/> vnd thu sie in eine Schüssel <lb/> vnnd besträw es mit Zucker <lb/> so ist es gut vnd wolgeschmack. Darumb nennet mans auff Italianisch Saudelat.</p>
+        <p> Nim ein guten süssen Rahm mit der <objectName ref="milch">Milch</objectName> <lb/> setz auff Kolen <lb/> vnd laß auffsieden <lb/> setzs weg <lb/> vnd laß kalt werden <lb/> so gewinnt es ein fein dicke Haut <lb/> nim sie mit einem <objectName ref="faumloeffel">Faumlöffel</objectName> herab <lb/> vnd thu sie in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> vnnd besträw es mit <objectName ref="zucker">Zucker</objectName> <lb/> so ist es gut vnd wolgeschmack. Darumb nennet mans auff Italianisch Saudelat. </p>
             </div>
         </body>
     </text>

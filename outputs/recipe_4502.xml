@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>RIchte den abgebrennten und klein= gehackten <lb/> auch im Butter gerösten Spinat <lb/> mit aus Schmaltz gerösten dünnen Semmel= Schnittlein <lb/> oder in Krebs= Butter gerösten <lb/> und würfflet= geschnittnen Semmel= Bröcklein in die Schüssel <lb/> leg den halbierten gebachnen Hecht <lb/> mit Kopff und Schweiff <lb/> oder in kleine Stücklein zertheilter <lb/> darauf <lb/> so ists gut und zierlich.</p>
+        <p> RIchte den abgebrennten und klein= gehackten <lb/> auch im <objectName ref="butter">Butter</objectName> gerösten <objectName ref="spinat">Spinat</objectName> <lb/> mit aus Schmaltz gerösten dünnen Semmel= Schnittlein <lb/> oder in Krebs= <objectName ref="butter">Butter</objectName> gerösten <lb/> und würfflet= geschnittnen Semmel= Bröcklein in die <objectName ref="schuessel">Schüssel</objectName> <lb/> leg den halbierten gebachnen <objectName ref="hecht">Hecht</objectName> <lb/> mit Kopff und Schweiff <lb/> oder in kleine Stücklein zertheilter <lb/> darauf <lb/> so ists gut und zierlich. </p>
             </div>
         </body>
     </text>

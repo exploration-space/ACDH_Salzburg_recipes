@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>CArfiol gibt man auch gebrüht <lb/> mit einer gewürtzten Erbes= Knoblauch= und Oel= Brühe <lb/> warm zu Tisch.</p>
+        <p> CArfiol gibt man auch gebrüht <lb/> mit einer gewürtzten Erbes= Knoblauch= und Oel= <objectName ref="bruehe">Brühe</objectName> <lb/> warm zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

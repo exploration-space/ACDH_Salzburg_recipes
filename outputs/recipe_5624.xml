@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>STosse ein viertel Pf[u]nd abgezogene Mandgeln mit Rosenwasser ab <lb/> reibe ein wenig Eyerbrod daran <lb/> mische Zucker <lb/> Zimmet und klein= geschnittenen Citronat darunter <lb/> schlag ein Ey darein <lb/> darein : mache also einen Teig in der Dicken wie zu den gewollenen Küchlein ;  formire Stritzeln daraus <lb/> und bachs gleich denen vorigen schön hell aus Schmaltz.</p>
+        <p> STosse ein viertel Pf [ u ] nd abgezogene Mandgeln mit <objectName ref="rosenwasser">Rosenwasser</objectName> ab <lb/> reibe ein wenig Eyerbrod daran <lb/> mische <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet und klein= geschnittenen Citronat darunter <lb/> schlag ein Ey darein <lb/> darein : mache also einen <objectName ref="teig">Teig</objectName> in der Dicken wie zu den gewollenen Küchlein; formire Stritzeln daraus <lb/> und bachs gleich denen vorigen schön hell aus Schmaltz. </p>
             </div>
         </body>
     </text>

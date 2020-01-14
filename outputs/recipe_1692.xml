@@ -170,7 +170,7 @@ Bei der ungarischen Torte handelt es sich um eine Art Lasagne mit Frucht- (Feige
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nembt ain guets Semel Meell, macht den <lb/> taig fein dün, mit gesalzenen wasser fein <lb/> lint, macht ain füll darein V: feigen, od(er) wein= <lb/> =pör genueg, oder von grienen Khreitern, streichs <lb/><lb/> (54v) auf den taig, mach oben darauf ain Vierzig <lb/> blöter ein, alß offt ain blat aufbricht, <lb/> so wanß, streich ain irden mit schmalz, vnd <lb/> zeuch den taig fein dün außeinander, so nimb <lb/> ain papier oder düner, alß dan bachen ein <lb/> guete stundt. <lb/></p>
+        <p> Nembt ain guets Semel Meell, macht den <lb/> taig fein dün, mit gesalzenen <objectName ref="wasser">wasser</objectName> fein <lb/> lint, macht ain füll darein V : <objectName ref="feigen">feigen</objectName>, od ( er ) wein= <lb/> =pör genueg, oder von grienen Khreitern, streichs <lb/><lb/> ( 54v ) auf den taig, mach oben darauf ain Vierzig <lb/> blöter ein, alß offt ain blat aufbricht, <lb/> so wanß, streich ain irden mit <objectName ref="schmalz">schmalz</objectName>, vnd <lb/> zeuch den taig fein dün außeinander, so nimb <lb/> ain <objectName ref="papier">papier</objectName> oder düner, alß dan bachen ein <lb/> guete stundt. <lb/> </p>
             </div>
         </body>
     </text>

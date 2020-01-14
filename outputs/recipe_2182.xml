@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein höchten, schiepp denselben, schneid ihn Zu stukhen, geuß Wein= <lb/> essig drüber, seud ihn herab, Wie ein andern höchten, vnd seich die <lb/> brüe daruon, nach dem schneid Zwifl, schneid Sembl schnitl, bähe sie, <lb/> vnd seuds beysammen in einem häferl mit Wein und Arbeßbrüe, vnd <lb/> schlag es durch ein Sib, alßdan nimb gueten süssen Wein, vnd Arbes= <lb/> brüe, in ein häferl, bedarffst auch Gewürzt, Zukhers vnd gilbs <lb/> Woll, darnach thues Zusammen, vnd laß Sieden, laß den Visch ein <lb/> Sud thuen, vnd gibs Warm. <lb/></p>
+        <p> Nimb ein höchten, schiepp denselben, schneid ihn Zu stukhen, geuß Wein= <lb/> <objectName ref="essig">essig</objectName> drüber, seud ihn herab, Wie ein andern höchten, vnd seich die <lb/> brüe daruon, nach dem schneid Zwifl, schneid Sembl schnitl, bähe sie, <lb/> vnd seuds beysammen in einem häferl mit <objectName ref="wein">Wein</objectName> und Arbeßbrüe, vnd <lb/> schlag es durch ein Sib, alßdan nimb gueten süssen <objectName ref="wein">Wein</objectName>, vnd Arbes= <lb/> brüe, in ein häferl, bedarffst auch Gewürzt, Zukhers vnd gilbs <lb/> Woll, darnach thues Zusammen, vnd laß Sieden, laß den Visch ein <lb/> Sud thuen, vnd gibs Warm. <lb/> </p>
             </div>
         </body>
     </text>

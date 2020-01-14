@@ -182,7 +182,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Kramets= Vögel <lb/> kleine Schnepfflein <lb/> Troscheln <lb/> Lerchen und andere Vögelein mehr <lb/> können auch in Pasteten eingeschlagen werden ; man bedient sich aber meinstens hiezu eines Butter= Teigs <lb/> und weden sie zuvor auf die Art zugerichtet <lb/> wie selbige bey denen Schnepffen= Pasteten Num. 14. und 15. bereits gelehret worden.</p>
+        <p> DIe Kramets= <objectName ref="voegel">Vögel</objectName> <lb/> kleine Schnepfflein <lb/> Troscheln <lb/> <objectName ref="lerchen">Lerchen</objectName> und andere Vögelein mehr <lb/> können auch in <objectName ref="pastete">Pasteten</objectName> eingeschlagen werden; man bedient sich aber meinstens hiezu eines Butter= Teigs <lb/> und weden sie zuvor auf die Art zugerichtet <lb/> wie selbige bey denen Schnepffen= <objectName ref="pastete">Pasteten</objectName> Num. 14. und 15. bereits gelehret worden. </p>
             </div>
         </body>
     </text>

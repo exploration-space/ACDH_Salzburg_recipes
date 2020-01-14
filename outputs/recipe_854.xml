@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Dieses mit halb Wein <lb/> und so viel Wasser gesotten <lb/> und durchgetrieben <lb/> mit kleingestoßnen Mandeln <lb/> wol Zucker und Eyern abgerührt <lb/> ist auch köstlich.</p>
+        <p> Dieses mit halb <objectName ref="wein">Wein</objectName> <lb/> und so viel <objectName ref="wasser">Wasser</objectName> gesotten <lb/> und durchgetrieben <lb/> mit kleingestoßnen <objectName ref="mandeln">Mandeln</objectName> <lb/> wol <objectName ref="zucker">Zucker</objectName> und Eyern abgerührt <lb/> ist auch köstlich. </p>
             </div>
         </body>
     </text>

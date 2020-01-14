@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn der geselchte <lb/> oder geräucherte Lachs <lb/> oder Rhein= Salm übersotten und gezupfft worden <lb/> so ist er auch gut auf alle erst= beschriebene Weiß und Veränderungen der Brühen ; wie auch in sauren Kraut <lb/> und in die Pasteten gut zu geben.</p>
+        <p> WAnn der geselchte <lb/> oder geräucherte <objectName ref="lachs">Lachs</objectName> <lb/> oder Rhein= Salm übersotten und gezupfft worden <lb/> so ist er auch gut auf alle erst= beschriebene Weiß und Veränderungen der <objectName ref="bruehe">Brühen</objectName>; wie auch in sauren <objectName ref="kraut">Kraut</objectName> <lb/> und in die <objectName ref="pastete">Pasteten</objectName> gut zu geben. </p>
             </div>
         </body>
     </text>

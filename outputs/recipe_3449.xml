@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Wachteln werden sauber gebutzt <lb/> ausgenommen <lb/> auf dem Rucken nach der Länge aufgeschnitten <lb/> gesaltzen und eingebaitzt <lb/> mit Knoblauch <lb/> Zwibel <lb/> Lorbeer= Blättlein und Rosmarin <lb/> vor dem Bachen sauber abgetrücknet <lb/> gemelbiget <lb/> und aus Schmaltz gebachen; gibs warmer <lb/> mit grünen gebachenen Petersil.</p>
+        <p> DIe <objectName ref="wachtel">Wachteln</objectName> werden sauber gebutzt <lb/> ausgenommen <lb/> auf dem Rucken nach der Länge aufgeschnitten <lb/> gesaltzen und eingebaitzt <lb/> mit <objectName ref="knoblauch">Knoblauch</objectName> <lb/> Zwibel <lb/> Lorbeer= Blättlein und <objectName ref="rosmarin">Rosmarin</objectName> <lb/> vor dem Bachen sauber abgetrücknet <lb/> gemelbiget <lb/> und aus Schmaltz gebachen; gibs warmer <lb/> mit grünen gebachenen Petersil. </p>
             </div>
         </body>
     </text>

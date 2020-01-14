@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BOhnen gesotten <lb/> und abgesiehen <lb/> dann mit klein= gehacktem Zwibel und Petersil <lb/> Pfeffer <lb/> Oel und Eßig angemacht <lb/> wie die Erbes und Linsen.</p>
+        <p> <objectName ref="bohnen">BOhnen</objectName> gesotten <lb/> und abgesiehen <lb/> dann mit klein= gehacktem Zwibel und Petersil <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Oel und Eßig angemacht <lb/> wie die Erbes und <objectName ref="linsen">Linsen</objectName>. </p>
             </div>
         </body>
     </text>

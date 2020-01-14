@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wasch sie Sauber, legs in ain taig, mit <lb/> zugger gewürz, laß ain halbe stundt bachn, <lb/> Salz nit, <lb/></p>
+        <p> Wasch sie Sauber, legs in ain taig, mit <lb/> zugger gewürz, laß ain halbe stundt bachn, <lb/> <objectName ref="salz">Salz</objectName> nit, <lb/> </p>
             </div>
         </body>
     </text>

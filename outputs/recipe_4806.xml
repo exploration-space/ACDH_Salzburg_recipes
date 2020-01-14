@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>STosset Mandeln mit Citronen Marck <lb/> rühret die gelbe äusserste Schelffen von Citronen <lb/> würfflicht= geschnitten <lb/> oder auf einem Reibeisen gerieben <lb/> welches noch besser <lb/> darunter <lb/> zuckerts nach belieben; solte der Teig zu dick seyn <lb/> so machet ihn mit Citronen= Safft etwas dinner <lb/> daß er sich streichen lässet: streichet ihn dann auf Oblat <lb/> setzets in Ofen <lb/> und bachets ab.</p>
+        <p> STosset <objectName ref="mandeln">Mandeln</objectName> mit Citronen Marck <lb/> rühret die gelbe äusserste Schelffen von Citronen <lb/> würfflicht= geschnitten <lb/> oder auf einem <objectName ref="reibeisen">Reibeisen</objectName> gerieben <lb/> welches noch besser <lb/> darunter <lb/> zuckerts nach belieben; solte der <objectName ref="teig">Teig</objectName> zu dick seyn <lb/> so machet ihn mit Citronen= Safft etwas dinner <lb/> daß er sich streichen lässet : streichet ihn dann auf Oblat <lb/> setzets in <objectName ref="ofen">Ofen</objectName> <lb/> und bachets ab. </p>
             </div>
         </body>
     </text>

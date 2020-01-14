@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Praxen <lb/> seynd flach= und breite Fisch <lb/> haben einen kleinen Kopff <lb/> ein weissers Bret als die Karpffen <lb/> weißlichte Schuppen <lb/> etwas kleiner als der Karpff ; und wann er groß <lb/> so ist es ein zimlich guter Fisch ; als erstlich abgesottner <lb/> als wie der Karpffen <lb/> auch in dem Sud zugedeckt <lb/> daß er die Schuppen nicht verliert <lb/> und mit Wein= Eßig <lb/> und grünen Petersil gegeben.</p>
+        <p> DIe Praxen <lb/> seynd flach= und breite <objectName ref="fisch">Fisch</objectName> <lb/> haben einen kleinen Kopff <lb/> ein weissers Bret als die Karpffen <lb/> weißlichte Schuppen <lb/> etwas kleiner als der Karpff; und wann er groß <lb/> so ist es ein zimlich guter <objectName ref="fisch">Fisch</objectName>; als erstlich abgesottner <lb/> als wie der Karpffen <lb/> auch in dem Sud zugedeckt <lb/> daß er die Schuppen nicht verliert <lb/> und mit Wein= Eßig <lb/> und grünen Petersil gegeben. </p>
             </div>
         </body>
     </text>

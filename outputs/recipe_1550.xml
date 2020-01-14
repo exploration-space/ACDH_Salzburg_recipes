@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ain Copaun vnnd .40. Austern, laß sie <lb/> auß, Nimb die austern vnd Supen zusamben in <lb/> ain Reindl, Nimb .20. austern daruon, vnd faß <lb/> sie in Copaun hinein, pfäll den Capaun zue, Salz <lb/> den Capaun woll ein, stekhe in an spiß, vnd <lb/> thue in gemach braten, begieß in alleweil mit <lb/> buter, sez etwas darunter, d(a)s die Capaun Supen <lb/> darein rindt, Nimb die Supen von Cobaun vnd <lb/> thues vndter die Austern Supen, Pfeffers ain we= <lb/> =nig, wan d(er) Capaun gebraten ist, so gieß die Supen <lb/> darüber, vnd gibs auf die taffel. <lb/><lb/> (7r)</p>
+        <p> Nimb ain Copaun vnnd.40. <objectName ref="austern">Austern</objectName>, laß sie <lb/> auß, Nimb die <objectName ref="austern">austern</objectName> vnd Supen zusamben in <lb/> ain Reindl, Nimb.20. <objectName ref="austern">austern</objectName> daruon, vnd faß <lb/> sie in Copaun hinein, pfäll den Capaun zue, <objectName ref="salz">Salz</objectName> <lb/> den Capaun woll ein, stekhe in an spiß, vnd <lb/> thue in gemach braten, begieß in alleweil mit <lb/> buter, sez etwas darunter, d ( a ) s die Capaun Supen <lb/> darein rindt, Nimb die Supen von Cobaun vnd <lb/> thues vndter die <objectName ref="austern">Austern</objectName> Supen, Pfeffers ain we= <lb/> =nig, wan d ( er ) Capaun gebraten ist, so gieß die Supen <lb/> darüber, vnd gibs auf die taffel. <lb/><lb/> ( 7r ) </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) geriebene Mandeln <lb/> mach sie ab mit Zucker <lb/> Rosenwasser <lb/> vn(d) mit klein schwartzen Rosein <lb/> mach ein Teig darzu an mit warmen Wasser <lb/> vnd ein wenig Butter <lb/> treib jn mit einem Walger auß <lb/> schlag die Mandeln darein <lb/> vnd schneidts mit einem Rädtlein ab <lb/> backs auß heisser Butter <lb/> die nicht gar zu heiß ist <lb/> gibs warm auff ein Tisch <lb/> vnd besträw es mit Zucker.</p>
+        <p> Nim ( m ) geriebene <objectName ref="mandeln">Mandeln</objectName> <lb/> mach sie ab mit <objectName ref="zucker">Zucker</objectName> <lb/> <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> vn ( d ) mit klein schwartzen Rosein <lb/> mach ein <objectName ref="teig">Teig</objectName> darzu an mit warmen <objectName ref="wasser">Wasser</objectName> <lb/> vnd ein wenig <objectName ref="butter">Butter</objectName> <lb/> treib jn mit einem Walger auß <lb/> schlag die <objectName ref="mandeln">Mandeln</objectName> darein <lb/> vnd schneidts mit einem Rädtlein ab <lb/> backs auß heisser <objectName ref="butter">Butter</objectName> <lb/> die nicht gar zu heiß ist <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> vnd besträw es mit <objectName ref="zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

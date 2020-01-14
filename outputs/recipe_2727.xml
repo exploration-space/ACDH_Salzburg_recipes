@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>TReibe ein halb Pfund Butter nach und nach ab <lb/> mit sieben oder acht Eyerdotter <lb/> und so viel halb= warmen süssen Ram <lb/> oder Milch <lb/> mit weisser Bier= Gerben <lb/> als zum Treiben oder Aufgehen vonnöthen ist <lb/> saltz <lb/> und rühre das schönste Meel darein <lb/> biß der Taig recht wird <lb/> schmier ein wol= verzinntes tieffes Geschirr mit Butter <lb/> schütte den Taig darein <lb/> laß ihn ein wenig zugedeckter bey der Wärme gehen <lb/> und bachs schön Liecht= gelb; zuletzt mache ein Eyß <lb/> von Zucker <lb/> Eyerkar <lb/> und Lemoni= Saft darauf.</p>
+        <p> TReibe ein halb <objectName ref="pfund">Pfund</objectName> <objectName ref="butter">Butter</objectName> nach und nach ab <lb/> mit sieben oder acht Eyerdotter <lb/> und so viel halb= warmen süssen Ram <lb/> oder <objectName ref="milch">Milch</objectName> <lb/> mit weisser Bier= Gerben <lb/> als zum Treiben oder Aufgehen vonnöthen ist <lb/> saltz <lb/> und rühre das schönste Meel darein <lb/> biß der Taig recht wird <lb/> schmier ein wol= verzinntes tieffes <objectName ref="geschirr">Geschirr</objectName> mit <objectName ref="butter">Butter</objectName> <lb/> schütte den Taig darein <lb/> laß ihn ein wenig zugedeckter bey der Wärme gehen <lb/> und bachs schön Liecht= gelb; zuletzt mache ein Eyß <lb/> von <objectName ref="zucker">Zucker</objectName> <lb/> Eyerkar <lb/> und Lemoni= Saft darauf. </p>
             </div>
         </body>
     </text>

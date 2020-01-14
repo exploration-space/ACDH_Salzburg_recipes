@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIedet das Euter weich ab <lb/> schneidet es zu Plätzlein <lb/> bestreuets wohl mit Saltz und Pfeffer <lb/> bestreichts mit Butter <lb/> leget es auf den Rost <lb/> bratet oder bräunet es schön ab <lb/> und essets entweder also trocken <lb/> oder aber macht nachfolgende Brüh darüber: Nehmet Wein <lb/> thut ein Trisanet darein <lb/> wann es nicht süß genug ist <lb/> zuckerts noch ein wenig <lb/> streuet noch mehr Zimmet daran <lb/> giessets darüber <lb/> und lassets noch einen Wall aufthun.</p>
+        <p> SIedet das <objectName ref="euter">Euter</objectName> weich ab <lb/> schneidet es zu Plätzlein <lb/> bestreuets wohl mit Saltz und <objectName ref="pfeffer">Pfeffer</objectName> <lb/> bestreichts mit <objectName ref="butter">Butter</objectName> <lb/> leget es auf den <objectName ref="rost">Rost</objectName> <lb/> bratet oder bräunet es schön ab <lb/> und essets entweder also trocken <lb/> oder aber macht nachfolgende Brüh darüber : Nehmet <objectName ref="wein">Wein</objectName> <lb/> thut ein Trisanet darein <lb/> wann es nicht süß genug ist <lb/> zuckerts noch ein wenig <lb/> streuet noch mehr Zimmet daran <lb/> giessets darüber <lb/> und lassets noch einen Wall aufthun. </p>
             </div>
         </body>
     </text>

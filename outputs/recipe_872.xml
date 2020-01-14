@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Die Kern darvon sauber ausgelößt <lb/> daß nichts von der Schaalen darbey bleibt <lb/> dann zertrucks in einem erdenen Geschirr <lb/> mit wenig Lemoni=Schaalen <lb/> Wasser und Zucker <lb/> laß nach Nothdurfft Wasser also ein Stund stehen <lb/> dann seihs durch <lb/> und gib acht <lb/> daß es schön von Farb <lb/> und nicht zu süß wird.</p>
+        <p> Die Kern darvon sauber ausgelößt <lb/> daß nichts von der Schaalen darbey bleibt <lb/> dann zertrucks in einem erdenen <objectName ref="geschirr">Geschirr</objectName> <lb/> mit wenig Lemoni=Schaalen <lb/> <objectName ref="wasser">Wasser</objectName> und <objectName ref="zucker">Zucker</objectName> <lb/> laß nach Nothdurfft <objectName ref="wasser">Wasser</objectName> also ein Stund stehen <lb/> dann seihs durch <lb/> und gib acht <lb/> daß es schön von Farb <lb/> und nicht zu süß wird. </p>
             </div>
         </body>
     </text>

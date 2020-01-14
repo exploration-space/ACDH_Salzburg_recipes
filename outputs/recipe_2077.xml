@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>So sez ein hochen Pasteten taig auf, die man mit fleisch, oder <lb/> gehäkh einfühlt, vnd schiesß in ein bachofen, laß nur so lang <lb/> drinen, biß es hört vnd nur lab Wird, nimb dan nur <lb/> etwan auf ein tisch 6. Aÿr, vnd Zerschlags, geuß souill rämb <lb/> drein, als der aÿr sein, nimb ein löffl voll guets mell, ein <lb/> guets stükhl buter, under Sembl gerührt, fein glat, das nit <lb/> khnollig Wird, vnd vill Zukher vnd Weinpörl, vnd geuß die in <lb/> in die Pasteten, schieß Wider in ofen, so geht es hoch auf, Wird <lb/> hipsch Rogl, darauf nit Zu lang bachen, gibs Warmb, ist ein <lb/> hipsches Essen, gibs auf ein blat, vnd Zukher drauf. <lb/></p>
+        <p> So sez ein hochen <objectName ref="pastete">Pasteten</objectName> taig auf, die man mit <objectName ref="fleisch">fleisch</objectName>, oder <lb/> gehäkh einfühlt, vnd schiesß in ein bachofen, laß nur so lang <lb/> drinen, biß es hört vnd nur <objectName ref="lab">lab</objectName> Wird, nimb dan nur <lb/> etwan auf ein <objectName ref="tisch">tisch</objectName> 6. Aÿr, vnd Zerschlags, geuß souill rämb <lb/> drein, als der aÿr sein, nimb ein löffl voll guets mell, ein <lb/> guets stükhl buter, under Sembl gerührt, fein glat, das nit <lb/> khnollig Wird, vnd vill Zukher vnd Weinpörl, vnd geuß die in <lb/> in die <objectName ref="pastete">Pasteten</objectName>, schieß Wider in <objectName ref="ofen">ofen</objectName>, so geht es hoch auf, Wird <lb/> hipsch Rogl, darauf nit Zu lang bachen, gibs Warmb, ist ein <lb/> hipsches Essen, gibs auf ein blat, vnd Zukher drauf. <lb/> </p>
             </div>
         </body>
     </text>

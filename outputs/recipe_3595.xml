@@ -171,9 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChlaget so viel Eyer aus als ihr wollet <lb/> giesset zwischen jedes ein wenig Wasser <lb/> damit sie nicht zusammen hängen ; machet indessen ein Wasser siedend <lb/> saltzets ein wenig <lb/> giesset die Eyer darein <lb/> last sie einen einigen Sud thun <lb/> hebt sie mit einem flachen Löffel nach einander heraus <lb/> und legts in die Runde herum auf eine Käß= oder gebrennte Suppe <lb/> und bestreuet sie mit Muscaten= Blüh. <gap/>
-
-<gap/> Wann man ein Ey nach dem andern ausschläget <lb/> ist es nicht nöthig daß man Wasser darauf giesse : Wann man aber nicht viel Zeit übrig hat <lb/> und viel Eyer auf einmal verlieren will <lb/> ist obbeschriebene weisse besser und bequemer.</p>
+        <p> SChlaget so viel Eyer aus als ihr wollet <lb/> giesset zwischen jedes ein wenig <objectName ref="wasser">Wasser</objectName> <lb/> damit sie nicht zusammen hängen; machet indessen ein <objectName ref="wasser">Wasser</objectName> siedend <lb/> saltzets ein wenig <lb/> giesset die Eyer darein <lb/> last sie einen einigen Sud thun <lb/> hebt sie mit einem flachen <objectName ref="loeffel">Löffel</objectName> nach einander heraus <lb/> und legts in die Runde herum auf eine Käß= oder gebrennte <objectName ref="suppe">Suppe</objectName> <lb/> und bestreuet sie mit Muscaten= Blüh. <gap/> <gap/> Wann man ein Ey nach dem andern ausschläget <lb/> ist es nicht nöthig daß man <objectName ref="wasser">Wasser</objectName> darauf giesse : Wann man aber nicht viel Zeit übrig hat <lb/> und viel Eyer auf einmal verlieren will <lb/> ist obbeschriebene weisse besser und bequemer. </p>
             </div>
         </body>
     </text>

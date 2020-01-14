@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Auß den Ochsenzungenblümlin machet man Edle Conseruas in den Küchen mit Zucker <lb/> das Hertz zustercken in allerley weiß vnd gestalt <lb/> wie von den Rosen vnnd Violen gesagt ist <lb/> die Blümlin zer= hackend <lb/> weil sie noch frisch seyn <lb/> vnnd mit Zucker vermengt. Diese Conserua mag in allen Gifftigen Pestilentzischen Fiebern <lb/> den Siechen Menschen gereicht werden <lb/> lest das gifft nicht zu dem hertzen steigen <lb/> wendet die ohnmacht vnnd schwachheit <lb/> die verzagten vnd trauwrigen Melancholischen Men= schen zur fröligkeit erweckende <lb/> das Geblüt reinigen= de. Es sol auch zu aller krafft Artzeney das Hertz vnd den Leib zu stercken vnd zukrefftigen <lb/> genommen werden.</p>
+        <p> Auß den Ochsenzungenblümlin machet man Edle Conseruas in den Küchen mit <objectName ref="zucker">Zucker</objectName> <lb/> das Hertz zustercken in allerley weiß vnd gestalt <lb/> wie von den <objectName ref="rosen">Rosen</objectName> vnnd Violen gesagt ist <lb/> die Blümlin zer= hackend <lb/> weil sie noch frisch seyn <lb/> vnnd mit <objectName ref="zucker">Zucker</objectName> vermengt. Diese Conserua mag in allen Gifftigen Pestilentzischen Fiebern <lb/> den Siechen Menschen gereicht werden <lb/> lest das gifft nicht zu dem hertzen steigen <lb/> wendet die ohnmacht vnnd schwachheit <lb/> die verzagten vnd trauwrigen Melancholischen Men= schen zur fröligkeit erweckende <lb/> das Geblüt reinigen= de. Es sol auch zu aller krafft Artzeney das Hertz vnd den Leib zu stercken vnd zukrefftigen <lb/> genommen werden. </p>
             </div>
         </body>
     </text>

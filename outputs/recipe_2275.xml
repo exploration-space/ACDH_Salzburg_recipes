@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Khlaub vnd Wasch die Piesen sauber ein Zimbliche hand voll, vnd hakhs <lb/> khlain, vnd ein stukh Spëkh darunder, der mueß nit Zu khlein sein, <lb/> auch ein hand voll Grieß .3. oder 4. mall souill geribne Sembl, <lb/> in ein Pekh undereinander, leg den Spëkh mit dem Piesen drauf, <lb/> rest ein khlain geschnitnen Zwifl, vnd ein Wenig mell darzue, <lb/> brens im schmalz, geuß ÿbern spëkh, rührs als Woll undereinander, <lb/> gewürz vnd Salzs, schneid khreitl iedes ein wenig .4. oder 5. Aÿr, ein <lb/> guete Milch, laß ein weill stehn, schlags ein in Prüe oder Wasser. <lb/><lb/> (57v)</p>
+        <p> Khlaub vnd Wasch die Piesen sauber ein Zimbliche hand voll, vnd hakhs <lb/> khlain, vnd ein stukh Spëkh darunder, der mueß nit Zu khlein sein, <lb/> auch ein hand voll <objectName ref="griess">Grieß</objectName>.3. oder 4. mall souill geribne Sembl, <lb/> in ein Pekh undereinander, leg den Spëkh mit dem Piesen drauf, <lb/> rest ein khlain geschnitnen Zwifl, vnd ein Wenig mell darzue, <lb/> brens im <objectName ref="schmalz">schmalz</objectName>, geuß ÿbern spëkh, rührs als Woll undereinander, <lb/> gewürz vnd Salzs, schneid khreitl iedes ein wenig.4. oder 5. Aÿr, ein <lb/> guete <objectName ref="milch">Milch</objectName>, laß ein weill stehn, schlags ein in Prüe oder <objectName ref="wasser">Wasser</objectName>. <lb/><lb/> ( 57v ) </p>
             </div>
         </body>
     </text>

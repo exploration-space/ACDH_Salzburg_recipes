@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ERbes mit Gersten sauber geklaubt und gewaschen <lb/> dann mit sauber gerauchtem Fleisch <lb/> oder dergleichen Würst <lb/> mit Wasser weich und recht eingesotten <lb/> gibt ein guten Richtet <lb/> oder Rischet.</p>
+        <p> ERbes mit <objectName ref="gerste">Gersten</objectName> sauber geklaubt und gewaschen <lb/> dann mit sauber gerauchtem <objectName ref="fleisch">Fleisch</objectName> <lb/> oder dergleichen Würst <lb/> mit <objectName ref="wasser">Wasser</objectName> weich und recht eingesotten <lb/> gibt ein guten Richtet <lb/> oder Rischet. </p>
             </div>
         </body>
     </text>

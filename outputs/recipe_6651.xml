@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wenn man ein Huechen wil braten <lb/> so leg jhn auff ein Roßt <lb/> scheub jn darmit in den heissen Ofen <lb/> so brät sich der Hueche vnten vnd oben <lb/> vnnd darffst jn nicht vmbwenden.</p>
+        <p> Wenn man ein Huechen wil braten <lb/> so leg jhn auff ein Roßt <lb/> scheub jn darmit in den heissen <objectName ref="ofen">Ofen</objectName> <lb/> so brät sich der Hueche vnten vnd oben <lb/> vnnd darffst jn nicht vmbwenden. </p>
             </div>
         </body>
     </text>

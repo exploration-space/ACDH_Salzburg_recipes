@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein Prätig khalbfleisch, Zeuch die haut ab, mils mit eim <lb/> Merserstösßl, schneid ein Spëkh langlet, nimb das Iner von <lb/> Pomeränzen scheln, schneids auch langlet, spiz mit dem <lb/> spëkh hinein, nimb Roßmarin auch darzue, salzs, stups mit <lb/> Pfeffer, Imber vnd Nägel. <lb/></p>
+        <p> Nimb ein Prätig khalbfleisch, Zeuch die haut ab, mils mit eim <lb/> Merserstösßl, schneid ein Spëkh langlet, nimb das Iner von <lb/> Pomeränzen scheln, schneids auch langlet, spiz mit dem <lb/> spëkh hinein, nimb Roßmarin auch darzue, salzs, stups mit <lb/> <objectName ref="pfeffer">Pfeffer</objectName>, Imber vnd <objectName ref="naegel">Nägel</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

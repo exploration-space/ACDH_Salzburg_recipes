@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm Hechtlein zu halben oder zu drey viertel Pfunden <lb/> schuppe sie und schneids an dem Bauch auf <lb/> thue das Eingeweid heraus <lb/> wasche die Hechtlein sauber <lb/> saltz und pfeffers <lb/> laß eine weile stehen <lb/> legs herach auf einen Rost <lb/> und brate sie wie einen Bratfisch <lb/> wends offt um <lb/> damit sie nicht nur in einem Ort braun werden <lb/> begieß stetig mit guten Baum= Oel; wann sie nun genug gebraten seyn <lb/> legs in eine Schüssel <lb/> gieß ein wenig Oel unten dazu hinein <lb/> und setz die Schüssel also auf eine Kohlen <lb/> trags auf <lb/> lege Citronen dazu <lb/> oder drucke <lb/> so du wilt <lb/> den Safft darein.</p>
+        <p> NImm Hechtlein zu halben oder zu drey viertel Pfunden <lb/> schuppe sie und schneids an dem Bauch auf <lb/> thue das Eingeweid heraus <lb/> wasche die Hechtlein sauber <lb/> saltz und pfeffers <lb/> laß eine weile stehen <lb/> legs herach auf einen <objectName ref="rost">Rost</objectName> <lb/> und brate sie wie einen <objectName ref="bratfisch">Bratfisch</objectName> <lb/> wends offt um <lb/> damit sie nicht nur in einem Ort braun werden <lb/> begieß stetig mit guten Baum= Oel; wann sie nun genug gebraten seyn <lb/> legs in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> gieß ein wenig Oel unten dazu hinein <lb/> und setz die <objectName ref="schuessel">Schüssel</objectName> also auf eine <objectName ref="kohlen">Kohlen</objectName> <lb/> trags auf <lb/> lege Citronen dazu <lb/> oder drucke <lb/> so du wilt <lb/> den Safft darein. </p>
             </div>
         </body>
     </text>

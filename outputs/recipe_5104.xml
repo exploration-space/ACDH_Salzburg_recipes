@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) das Licht <lb/> vnnd kehr es vmb <lb/> setz mit Wasser auff <lb/> vnd laß wol sieden daß weich wirt <lb/> thu es herauß <lb/> vnd seubers auß <lb/> schneidt es zu kleinen stücken <lb/> vnnd nim(m) ein gute Rindtfleisch Brüh <lb/> vnnd ein wenig Essig <lb/> brenn ein wenig Mehl ein <lb/> vnnd thu frische vnzulassene Butter darein <lb/> vnnd ein wenig Ingwer <lb/> laß darmit ein starcken Sudt auffthun <lb/> so bleibt es weiß vnd wol geschmack.</p>
+        <p> Nim ( m ) das Licht <lb/> vnnd kehr es vmb <lb/> setz mit <objectName ref="wasser">Wasser</objectName> auff <lb/> vnd laß wol sieden daß weich wirt <lb/> thu es herauß <lb/> vnd seubers auß <lb/> schneidt es zu kleinen stücken <lb/> vnnd nim ( m ) ein gute Rindtfleisch Brüh <lb/> vnnd ein wenig <objectName ref="essig">Essig</objectName> <lb/> brenn ein wenig <objectName ref="mehl">Mehl</objectName> ein <lb/> vnnd thu frische vnzulassene <objectName ref="butter">Butter</objectName> darein <lb/> vnnd ein wenig <objectName ref="ingwer">Ingwer</objectName> <lb/> laß darmit ein starcken Sudt auffthun <lb/> so bleibt es weiß vnd wol geschmack. </p>
             </div>
         </body>
     </text>

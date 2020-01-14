@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Antifi= Stengel gebrüht zum Salat.</p>
+        <p> Antifi= Stengel gebrüht zum <objectName ref="salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES müssen die Tauben Stückweiß in Butter geröst <lb/> mit Gehäck und andern Zusatz in die Pasteten <lb/> mit schwartzgelb = und weisser Brühe gegeben werden.</p>
+        <p> ES müssen die <objectName ref="taube">Tauben</objectName> Stückweiß in <objectName ref="butter">Butter</objectName> geröst <lb/> mit <objectName ref="gehaeck">Gehäck</objectName> und andern Zusatz in die <objectName ref="pastete">Pasteten</objectName> <lb/> mit schwartzgelb = und weisser <objectName ref="bruehe">Brühe</objectName> gegeben werden. </p>
             </div>
         </body>
     </text>

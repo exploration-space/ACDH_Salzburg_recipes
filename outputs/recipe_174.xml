@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Erstlich nimb ein reisch, wasche ihne <lb/> sauber Aus, lass ihne druckher<gap/> werden <lb/> stoss<gap/> ihne Klein in einem Merscher<gap/> <lb/><lb/> (ve 83) hernach nimbe 3. Mäßl<gap/> Milch<gap/> thue <lb/> in die Milch Ganz dückh<gap/>, lass ihn <lb/> Kalt<gap/> werden, nimb ein Viertung<gap/> <lb/> butter riehr<gap/> ihne ab in einen weid= <lb/> ling<gap/>, schidt<gap/> den reisch vnnd Mandl <lb/> darein, Zuckhers nach deinem be= <lb/> lieben, schlag ain Ayr<gap/> nach dem andern <lb/> drein, das die rechte Dickhe<gap/> Kriegt <lb/> mer Dotter als Ganze, rieh<gap/> es <lb/> ein stundt auf einer seyten <lb/> schmirb<gap/> ein schißl<gap/> vnnd ring<gap/> mit but= <lb/> ter bachs<gap/> schön so ist recht. <lb/></p>
+        <p> Erstlich nimb ein reisch, wasche ihne <lb/> sauber Aus, lass ihne druckher<gap/> werden <lb/> stoss<gap/> ihne Klein in einem Merscher<gap/> <lb/><lb/> ( ve 83 ) hernach nimbe 3. Mäßl<gap/> Milch<gap/> thue <lb/> in die <objectName ref="milch">Milch</objectName> Ganz dückh<gap/>, lass ihn <lb/> Kalt<gap/> werden, nimb ein Viertung<gap/> <lb/> <objectName ref="butter">butter</objectName> riehr<gap/> ihne ab in einen weid= <lb/> ling<gap/>, schidt<gap/> den reisch vnnd Mandl <lb/> darein, Zuckhers nach deinem be= <lb/> lieben, schlag ain Ayr<gap/> nach dem andern <lb/> drein, das die rechte Dickhe<gap/> Kriegt <lb/> mer Dotter als Ganze, rieh<gap/> es <lb/> ein stundt auf einer seyten <lb/> schmirb<gap/> ein schißl<gap/> vnnd ring<gap/> mit but= <lb/> ter bachs<gap/> schön so ist recht. <lb/> </p>
             </div>
         </body>
     </text>

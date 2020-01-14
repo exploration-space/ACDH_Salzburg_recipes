@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChählet und schneidet die Birnen <lb/> wie man sonst die gelbe Ruben zu schneiden pfleget <lb/> bachet oder röstets im Schmaltz <lb/> biß sie ein wenig weich werden <lb/> seihet dann selbiges davon herab ; giesset Wein daran <lb/> mischet ausgekörnete Rosinen <lb/> kleine Weinbeerlein oder Corinthen <lb/> und länglicht= geschnittene Mandeln <lb/> wie auch Zucker und Zimmet darunter <lb/> lassets mit einander aufsieden : Richtets in eine Schüssel <lb/> und streuet Zucker <lb/> Zimmet und Trisanet darauf.</p>
+        <p> SChählet und schneidet die <objectName ref="birnen">Birnen</objectName> <lb/> wie man sonst die gelbe Ruben zu schneiden pfleget <lb/> bachet oder röstets im Schmaltz <lb/> biß sie ein wenig weich werden <lb/> seihet dann selbiges davon herab; giesset <objectName ref="wein">Wein</objectName> daran <lb/> mischet ausgekörnete <objectName ref="rosinen">Rosinen</objectName> <lb/> kleine Weinbeerlein oder Corinthen <lb/> und länglicht= geschnittene <objectName ref="mandeln">Mandeln</objectName> <lb/> wie auch <objectName ref="zucker">Zucker</objectName> und Zimmet darunter <lb/> lassets mit einander aufsieden : Richtets in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und streuet <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet und Trisanet darauf. </p>
             </div>
         </body>
     </text>

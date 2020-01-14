@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIede den hecht im Saltzwasser und ein wenig Essig ab <lb/> dann lege denselben in eine Schüssel <lb/> und laß ihn kalt werden ; oder wan nman auf solche weiß einen bereits abgesotten= und übergebliebenen Hecht hat <lb/> kan man ihn ferner also zurichten : Laß Mandeln im frischen Wasser weichen <lb/> biß die Schelffen herab gehen <lb/> darnach stosse sie <lb/> mische geriebenen Krän oder Meerrettig darunter <lb/> und stosse selbigen gleichfalls mit an <lb/> gieß essig oder Wein dazu <lb/> richte diese Brühe über den kalt= übergebliebenen Hecht <lb/> und trage ihn zu Tisch.</p>
+        <p> SIede den <objectName ref="hecht">hecht</objectName> im Saltzwasser und ein wenig <objectName ref="essig">Essig</objectName> ab <lb/> dann lege denselben in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und laß ihn kalt werden; oder wan nman auf solche weiß einen bereits abgesotten= und übergebliebenen <objectName ref="hecht">Hecht</objectName> hat <lb/> kan man ihn ferner also zurichten : Laß <objectName ref="mandeln">Mandeln</objectName> im frischen <objectName ref="wasser">Wasser</objectName> weichen <lb/> biß die Schelffen herab gehen <lb/> darnach stosse sie <lb/> mische geriebenen Krän oder Meerrettig darunter <lb/> und stosse selbigen gleichfalls mit an <lb/> gieß <objectName ref="essig">essig</objectName> oder <objectName ref="wein">Wein</objectName> dazu <lb/> richte diese <objectName ref="bruehe">Brühe</objectName> über den kalt= übergebliebenen <objectName ref="hecht">Hecht</objectName> <lb/> und trage ihn zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

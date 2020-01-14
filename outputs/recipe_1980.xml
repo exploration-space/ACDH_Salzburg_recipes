@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein dikh Mandl gestossen Reiß hakh in die Mandlmilch, <lb/> die mueß am ersten Sieden, Wiltu aber Reiß so ungestossen <lb/> in Mandl khochen, so sied den Reiß ab in ainem Wasser, vnd <lb/> wasch ihn, vnd Wöll die mandlmilch geuß an Reiß, laß also <lb/> Sieden, wie man sonst ein reiß sied, vnd Zuggers Woll, gibs <lb/> Warmb, säe Zukher drauf vnd Weinbörl. <lb/></p>
+        <p> Nimb ein dikh Mandl gestossen Reiß hakh in die Mandlmilch, <lb/> die mueß am ersten Sieden, Wiltu aber Reiß so ungestossen <lb/> in Mandl khochen, so sied den Reiß ab in ainem <objectName ref="wasser">Wasser</objectName>, vnd <lb/> wasch ihn, vnd Wöll die mandlmilch geuß an Reiß, laß also <lb/> Sieden, wie man sonst ein reiß sied, vnd Zuggers Woll, gibs <lb/> Warmb, säe Zukher drauf vnd Weinbörl. <lb/> </p>
             </div>
         </body>
     </text>

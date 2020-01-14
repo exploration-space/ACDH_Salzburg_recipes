@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm gescheelte Kütten <lb/> schneids klein <lb/> wirffs in heiß Schmaltz <lb/> und röste solche <lb/> hernach mache sie an mit ein wenig Wein <lb/> Zucker <lb/> Zimmet und ein wenig Lemoni= Schaalen und Nägelein mit kleinen Wein= Beerlein vermischt <lb/> und fülls in eine Dorten.</p>
+        <p> NImm gescheelte Kütten <lb/> schneids klein <lb/> wirffs in heiß Schmaltz <lb/> und röste solche <lb/> hernach mache sie an mit ein wenig <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet und ein wenig Lemoni= Schaalen und Nägelein mit kleinen Wein= Beerlein vermischt <lb/> und fülls in eine Dorten. </p>
             </div>
         </body>
     </text>

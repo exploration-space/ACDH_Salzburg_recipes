@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAche die kleine Fricanto, mit einem Gehäck <lb/> und Knödlein in eine Schüssel <lb/> oder Pasteten.</p>
+        <p> MAche die kleine Fricanto, mit einem <objectName ref="gehaeck">Gehäck</objectName> <lb/> und Knödlein in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> oder <objectName ref="pastete">Pasteten</objectName>. </p>
             </div>
         </body>
     </text>

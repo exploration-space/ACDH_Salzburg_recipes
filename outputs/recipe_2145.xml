@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ¼ süsß Schmalz oder Puter, rühr den in ein tegl oder <lb/> Pekhl lang biß er ganz Weiß ist, salz ihn auch gar ein Wenig, Waikh <lb/> ein stükhlein Semblmollen ungefehr so groß als 2. henen Aÿr, <lb/> in ein gueten süssen Rämb, Wans ganz gewaikht, drukh den <lb/> rämb mit einem löfl ein Wenig dauon, vnd rühr die Sembl in <lb/> das abgetribne schmalz, das fein gleich seÿe, nimb das khlar von <lb/> 6. neugelegten Aÿrn, auch 3. doter, rührs auch starkh, das sie fein <lb/> dikh sein, rührs under ein Sembl vnd schmalz, auch ein Löffl voll <lb/> milchrämb under die aÿr gerührt, schmirb ein schißl mit Puter, thue <lb/> das taigl drein, unden vnd oben ein gluet, auf den schißlring, Wans <lb/> bochen, Zukhers, vnd gibs. <lb/></p>
+        <p> Nimb ¼ süsß <objectName ref="schmalz">Schmalz</objectName> oder Puter, rühr den in ein tegl oder <lb/> Pekhl lang biß er ganz Weiß ist, <objectName ref="salz">salz</objectName> ihn auch gar ein Wenig, Waikh <lb/> ein stükhlein Semblmollen ungefehr so groß als 2. henen Aÿr, <lb/> in ein gueten süssen Rämb, Wans ganz gewaikht, drukh den <lb/> rämb mit einem löfl ein Wenig dauon, vnd rühr die Sembl in <lb/> das abgetribne <objectName ref="schmalz">schmalz</objectName>, das fein gleich seÿe, nimb das khlar von <lb/> 6. neugelegten Aÿrn, auch 3. doter, rührs auch starkh, das sie fein <lb/> dikh sein, rührs under ein Sembl vnd <objectName ref="schmalz">schmalz</objectName>, auch ein Löffl voll <lb/> milchrämb under die aÿr gerührt, schmirb ein schißl mit Puter, thue <lb/> das taigl drein, unden vnd oben ein gluet, auf den schißlring, Wans <lb/> bochen, Zukhers, vnd gibs. <lb/> </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim zu vier pfundt zuckers das weiß von drey= en Eyern <lb/> vnd ein viercheilein wassers <lb/> thus in ein Schüssel <lb/> vnd schlags durcheinander <lb/> biß die Eyer gantz mürb werden <lb/> vnd schaum geben <lb/> darnach thu den zucker in die Eyer in die Pfannen <lb/> vnd gieß noch ein halb maß Wassers daran <lb/> laß ihn sieden <lb/> verfai= me ihn <lb/>seyhe ihn durch ein wüllen Tuch <lb/> was oben bleibt ist nit gut.</p>
+        <p> Nim zu vier pfundt zuckers das weiß von drey= en Eyern <lb/> vnd ein viercheilein wassers <lb/> thus in ein <objectName ref="schuessel">Schüssel</objectName> <lb/> vnd schlags durcheinander <lb/> biß die Eyer gantz mürb werden <lb/> vnd schaum geben <lb/> darnach thu den <objectName ref="zucker">zucker</objectName> in die Eyer in die Pfannen <lb/> vnd gieß noch ein halb <objectName ref="mass">maß</objectName> Wassers daran <lb/> laß ihn sieden <lb/> verfai= me ihn /seyhe ihn durch ein wüllen <objectName ref="tuch">Tuch</objectName> <lb/> was oben bleibt ist nit gut. </p>
             </div>
         </body>
     </text>

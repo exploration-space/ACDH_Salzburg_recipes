@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Du kanst auch Knödel in Pasteten eynmachen.</p>
+        <p> Du kanst auch <objectName ref="knoedel">Knödel</objectName> in <objectName ref="pastete">Pasteten</objectName> eynmachen. </p>
             </div>
         </body>
     </text>

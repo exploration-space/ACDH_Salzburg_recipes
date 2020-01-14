@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schel die Murcken <lb/> vnd schneidt sie breit vnn dünn <lb/> mach sie mit Oel <lb/> Pfeffer vnd Saltz. Seind sie aber eyngesaltzen <lb/> so seind sie auch nit böß <lb/> seind besser als roh <lb/> denn man kans eynsaltzen mit Fenchel vnd mit Kümel <lb/> daß man sie vber ein Jar kan behalten. Vnnd am Rheinstrom nennet mann es Cucummern.</p>
+        <p> Schel die Murcken <lb/> vnd schneidt sie breit vnn dünn <lb/> mach sie mit Oel <lb/> <objectName ref="pfeffer">Pfeffer</objectName> vnd Saltz. Seind sie aber eyngesaltzen <lb/> so seind sie auch nit böß <lb/> seind besser als roh <lb/> denn man kans eynsaltzen mit <objectName ref="fenchel">Fenchel</objectName> vnd mit Kümel <lb/> daß man sie vber ein Jar kan behalten. Vnnd am Rheinstrom nennet mann es Cucummern. </p>
             </div>
         </body>
     </text>

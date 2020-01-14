@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Endivien= Salat kan gantz auf diese Weise <lb/> wie der von Lactucken oder Lattich <lb/> zugerichtet werden <lb/> er muß aber länger im Wasser ligen als der vorige <lb/> damit es die Bittern heraus ziehe ; sonsten kan er auf vorbesagte Art geschnitten <lb/> und in die Schüssel gelegt werden : ingleichen können auch die einwendige Stäudlein gantz bleiben <lb/> der Schüssel= Rand mit schön ausgestochenen Citronen= Plätzlein belegt <lb/> und der Salat mit Granat= Apfel= Körnern bestreut und bezieret werden.</p>
+        <p> DEr Endivien= <objectName ref="salat">Salat</objectName> kan gantz auf diese Weise <lb/> wie der von Lactucken oder <objectName ref="lattich">Lattich</objectName> <lb/> zugerichtet werden <lb/> er muß aber länger im <objectName ref="wasser">Wasser</objectName> ligen als der vorige <lb/> damit es die Bittern heraus ziehe; sonsten kan er auf vorbesagte Art geschnitten <lb/> und in die <objectName ref="schuessel">Schüssel</objectName> gelegt werden : ingleichen können auch die einwendige Stäudlein gantz bleiben <lb/> der Schüssel= Rand mit schön ausgestochenen Citronen= Plätzlein belegt <lb/> und der <objectName ref="salat">Salat</objectName> mit Granat= Apfel= Körnern bestreut und bezieret werden. </p>
             </div>
         </body>
     </text>

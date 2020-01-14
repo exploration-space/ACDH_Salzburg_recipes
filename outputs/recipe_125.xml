@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Erstlich Nimb Weixl Gies<gap/> halb Wein <lb/> vnnd halb Wasser daran siedt<gap/> <lb/> schen lindt<gap/> Zuckhers schneid von <lb/> einer Khreizer Semel<gap/> Die rinden<gap/> <lb/> daruon vnnd schneid Kreizl<gap/> da= <lb/> rein richte die Semel in ein <lb/> schisßl<gap/> schide<gap/> die weixl<gap/> daryber <lb/> ab hernach Nimb von schen frischen <lb/> Ayr<gap/> die Khlar Klopfs<gap/> auf ein <lb/> Zinnen<gap/> Deller<gap/> ab das sich der faimb<gap/> <lb/> schneiden last hernach richte den faimb <lb/> schen auf die Weixl als wie ein <lb/> berg thue ein wenig Zuckher vnder den <lb/> faimb hernach bachs<gap/> in ein rehrl<gap/> <lb/> oder dortenpfan<gap/> sye ist schen. <lb/><lb/> (ve 54)</p>
+        <p> Erstlich Nimb Weixl Gies<gap/> halb <objectName ref="wein">Wein</objectName> <lb/> vnnd halb <objectName ref="wasser">Wasser</objectName> daran siedt<gap/> <lb/> schen lindt<gap/> Zuckhers schneid von <lb/> einer Khreizer Semel<gap/> Die rinden<gap/> <lb/> daruon vnnd schneid Kreizl<gap/> da= <lb/> <objectName ref="rein">rein</objectName> richte die Semel in ein <lb/> schisßl<gap/> schide<gap/> die weixl<gap/> daryber <lb/> ab hernach Nimb von schen frischen <lb/> Ayr<gap/> die Khlar Klopfs<gap/> auf ein <lb/> Zinnen<gap/> Deller<gap/> ab das sich der faimb<gap/> <lb/> schneiden last hernach richte den faimb <lb/> schen auf die Weixl als wie ein <lb/> berg thue ein wenig Zuckher vnder den <lb/> faimb hernach bachs<gap/> in ein rehrl<gap/> <lb/> oder dortenpfan<gap/> sye ist schen. <lb/><lb/> ( ve 54 ) </p>
             </div>
         </body>
     </text>

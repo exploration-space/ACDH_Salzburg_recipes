@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim den Rogen von dem Hecht <lb/> sonderlich wenn er steiff ist <lb/> vnd nit ligt <lb/> saltz jhn wol <lb/> vnnd wickel jhn in ein saubers Papier <lb/> thu jhn in ein heisse glüende Eschen <lb/> vnnd laß darinnen ein stundt drey oder vier braten <lb/> thu jhn herauß <lb/> vnd laß jn kalt werden <lb/> vnd säuber jn auß <lb/> vnd er hat ein Haut darüber <lb/> die mustu abziehen <lb/> schneidt ein stück darvon <lb/> vnnd versuchs <lb/> wie es ein köstlich gut Essen ist. Vnd wiltu den Rogen darüber haben <lb/> so laß fein kalt werden <lb/> so bleibt der gebratene Rogen lang. Wiltu jn aber also nicht essen <lb/> so wirdt sich wol lehrnen <lb/> wenn die not vorhanden <lb/> Denn ein Katz kan man wol lehrnen Zwibeln fressen.</p>
+        <p> Nim den Rogen von dem <objectName ref="hecht">Hecht</objectName> <lb/> sonderlich wenn er steiff ist <lb/> vnd nit ligt <lb/> saltz jhn wol <lb/> vnnd wickel jhn in ein saubers <objectName ref="papier">Papier</objectName> <lb/> thu jhn in ein heisse glüende Eschen <lb/> vnnd laß darinnen ein stundt drey oder vier braten <lb/> thu jhn herauß <lb/> vnd laß jn kalt werden <lb/> vnd säuber jn auß <lb/> vnd er hat ein Haut darüber <lb/> die mustu abziehen <lb/> schneidt ein stück darvon <lb/> vnnd versuchs <lb/> wie es ein köstlich gut Essen ist. Vnd wiltu den Rogen darüber haben <lb/> so laß fein kalt werden <lb/> so bleibt der gebratene Rogen lang. Wiltu jn aber also nicht essen <lb/> so wirdt sich wol lehrnen <lb/> wenn die not vorhanden <lb/> Denn ein Katz kan man wol lehrnen Zwibeln fressen. </p>
             </div>
         </body>
     </text>

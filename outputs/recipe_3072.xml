@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mandeln nimm zwey Handvoll <lb/> die stoß gar klein <lb/> und nimm vier Eyerdotter <lb/> zwey Strützlein abgerührten Butter <lb/> zuckere es ein wenig <lb/> dann nimm auch ein Handvoll gelben Bräun <lb/> der in guter Milch gekocht worden <lb/> aber nicht gar zu dick <lb/> und an die statt weich gesotten <lb/> darnach alles zusammen gemischet<lb/> und in einer Rein ein Schmaltz gehitzet <lb/> und darein geschütt <lb/> unten und oben Glut <lb/> und in der Rein auf die Tafel geben <lb/> er ist gut.</p>
+        <p> <objectName ref="mandeln">Mandeln</objectName> nimm zwey Handvoll <lb/> die stoß gar klein <lb/> und nimm vier Eyerdotter <lb/> zwey Strützlein abgerührten <objectName ref="butter">Butter</objectName> <lb/> zuckere es ein wenig <lb/> dann nimm auch ein Handvoll gelben Bräun <lb/> der in guter <objectName ref="milch">Milch</objectName> gekocht worden <lb/> aber nicht gar zu dick <lb/> und an die statt weich gesotten <lb/> darnach alles zusammen gemischet/ und in einer <objectName ref="rein">Rein</objectName> ein Schmaltz gehitzet <lb/> und darein geschütt <lb/> unten und oben <objectName ref="glut">Glut</objectName> <lb/> und in der <objectName ref="rein">Rein</objectName> auf die Tafel geben <lb/> er ist gut. </p>
             </div>
         </body>
     </text>

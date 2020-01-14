@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Ohren von Ochsen <lb/> müssen gleich den Hirsch= Ohren <lb/> sauber von denen Haaren gebutzt <lb/> gesotten <lb/> klein langlecht geschnitten <lb/> und gleich einer geschnittnen Lungen <lb/> oder Kuttel= Fleck <lb/> in gelber Lemoni= oder Zwibel= Brühe fein gelb und sauerlecht eingemacht; oder mit Eyerdotter <lb/> kleinen Petersil und Lemoni= Safft zugericht werden.</p>
+        <p> Ohren von Ochsen <lb/> müssen gleich den Hirsch= Ohren <lb/> sauber von denen Haaren gebutzt <lb/> gesotten <lb/> klein langlecht geschnitten <lb/> und gleich einer geschnittnen <objectName ref="lunge">Lungen</objectName> <lb/> oder Kuttel= Fleck <lb/> in gelber Lemoni= oder Zwibel= <objectName ref="bruehe">Brühe</objectName> fein gelb und sauerlecht eingemacht; oder mit Eyerdotter <lb/> kleinen Petersil und Lemoni= Safft zugericht werden. </p>
             </div>
         </body>
     </text>

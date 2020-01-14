@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>STosset und hacket abgezogene Mandeln <lb/> so viel man will <lb/> streuet Zucker und Zimmet darein <lb/> feuchtets mit gutem Wein an; streichet diese jetzt= gedachte Füll <lb/> auf Plätz= weiß= geschnittene Semmeln oder Eyerbrod <lb/> etwas hoch und in die Runden auf <lb/> bachets gantz gemach aus Schmaltz: legets in eine Schüssel <lb/> giesset Wein daran <lb/> streuet Zucker und Trisanet darauf <lb/> deckets mit einer andern Schüssel zu <lb/> und lassets auf einer Glut oder Kohlpfannen aufsieden.</p>
+        <p> STosset und hacket abgezogene <objectName ref="mandeln">Mandeln</objectName> <lb/> so viel man will <lb/> streuet <objectName ref="zucker">Zucker</objectName> und Zimmet darein <lb/> feuchtets mit gutem <objectName ref="wein">Wein</objectName> an; streichet diese jetzt= gedachte Füll <lb/> auf Plätz= weiß= geschnittene <objectName ref="semmeln">Semmeln</objectName> oder Eyerbrod <lb/> etwas hoch und in die Runden auf <lb/> bachets gantz gemach aus Schmaltz : legets in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> giesset <objectName ref="wein">Wein</objectName> daran <lb/> streuet <objectName ref="zucker">Zucker</objectName> und Trisanet darauf <lb/> deckets mit einer andern <objectName ref="schuessel">Schüssel</objectName> zu <lb/> und lassets auf einer <objectName ref="glut">Glut</objectName> oder Kohlpfannen aufsieden. </p>
             </div>
         </body>
     </text>

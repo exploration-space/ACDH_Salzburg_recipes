@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEn Stein= Bock betreffend ; wann er noch jung und fett <lb/> ist er auch gut und wohlgeschmack <lb/> und wird auch den Gämbsen gleich verkocht ; wann er aber alt <lb/> so hat er ein hart und zähes Fleisch <lb/> und ist bey dem allhiesigen Hof wohl bekannt.</p>
+        <p> DEn Stein= Bock betreffend; wann er noch jung und <objectName ref="fett">fett</objectName> <lb/> ist er auch gut und wohlgeschmack <lb/> und wird auch den Gämbsen gleich verkocht; wann er aber alt <lb/> so hat er ein hart und zähes <objectName ref="fleisch">Fleisch</objectName> <lb/> und ist bey dem allhiesigen Hof wohl bekannt. </p>
             </div>
         </body>
     </text>

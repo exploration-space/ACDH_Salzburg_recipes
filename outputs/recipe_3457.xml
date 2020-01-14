@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Vögel <lb/> (wann sie sauber gerupfft und besängt worden <lb/>) weyd es aus <lb/> und thue sie waschen <lb/> siede es nur einen Sud <lb/> und saltz es <lb/> darnach nimms wieder heraus <lb/> und mach gar ein wenig Schmaltz heiß <lb/> und röste die Vöglein <lb/> dann nimm sie wieder heraus <lb/> thue es in ein Reinlein <lb/> und gieß ein wenig Eßig daran <lb/> und ein Fleisch= Süpplein mit Näglein und Pfeffer <lb/> brenne ein Meel darein <lb/> thu es auch an die Vögel <lb/> darnach setze sie auf ein Glut <lb/> und decks schön zu <lb/> laß also abpreglen <lb/> und wann du sie anrichten wilst <lb/> so gewürtz mit Zimmet.</p>
+        <p> DIe <objectName ref="voegel">Vögel</objectName> <lb/> ( wann sie sauber gerupfft und besängt worden <lb/> ) weyd es aus <lb/> und thue sie waschen <lb/> siede es nur einen Sud <lb/> und saltz es <lb/> darnach nimms wieder heraus <lb/> und mach gar ein wenig Schmaltz heiß <lb/> und röste die Vöglein <lb/> dann nimm sie wieder heraus <lb/> thue es in ein Reinlein <lb/> und gieß ein wenig Eßig daran <lb/> und ein Fleisch= Süpplein mit Näglein und <objectName ref="pfeffer">Pfeffer</objectName> <lb/> brenne ein Meel darein <lb/> thu es auch an die <objectName ref="voegel">Vögel</objectName> <lb/> darnach setze sie auf ein <objectName ref="glut">Glut</objectName> <lb/> und decks schön zu <lb/> laß also abpreglen <lb/> und wann du sie anrichten wilst <lb/> so gewürtz mit Zimmet. </p>
             </div>
         </body>
     </text>

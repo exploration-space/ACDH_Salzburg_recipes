@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim QuittenLatwergen <lb/> die mit Honig abge= sotten sey <lb/> Zucker vnd Fenchel jedes 4. loht <lb/> Laven= del 5. Tag in Essig gebeizt zwey loht <lb/> Bethonienblu= men ein halb loht <lb/> durcheinander gesotten mit Ro= senhonig <lb/> daß es gnug sey <lb/> vnd eine Latwergen dar= auß gemacht.</p>
+        <p> Nim <objectName ref="quittenlatwerge">QuittenLatwergen</objectName> <lb/> die mit <objectName ref="honig">Honig</objectName> abge= sotten sey <lb/> <objectName ref="zucker">Zucker</objectName> vnd <objectName ref="fenchel">Fenchel</objectName> jedes 4. loht <lb/> Laven= del 5. Tag in <objectName ref="essig">Essig</objectName> gebeizt zwey loht <lb/> Bethonienblu= men ein halb loht <lb/> durcheinander gesotten mit Ro= senhonig <lb/> daß es gnug sey <lb/> vnd eine <objectName ref="latwerge">Latwergen</objectName> dar= auß gemacht. </p>
             </div>
         </body>
     </text>

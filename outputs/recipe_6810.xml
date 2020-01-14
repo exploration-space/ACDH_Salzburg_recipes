@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Du kanst auch solche kleine Vögel zum eyndämpffen nemmen vnd zurichten <lb/> doch daß du kein Spatzen oder Sperling darzu nimmest <lb/> denn dieselbigen seyn gar ungesundt.</p>
+        <p> Du kanst auch solche kleine <objectName ref="voegel">Vögel</objectName> zum eyndämpffen nemmen vnd zurichten <lb/> doch daß du kein Spatzen oder Sperling darzu nimmest <lb/> denn dieselbigen seyn gar ungesundt. </p>
             </div>
         </body>
     </text>

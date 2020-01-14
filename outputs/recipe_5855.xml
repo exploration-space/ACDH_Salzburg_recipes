@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wenn man sie abgliedt <lb/> so spickt man die stück <lb/> vnd legt sie auff einen Roßt <lb/> vnd bräts <lb/> versaltz vnnd verpfeffers nicht <lb/> Wenn du es anrichtest <lb/> so truck saur Limoniensafft darauff <lb/> so schmeckt es gut vnd lieblich. Wiltu es aber also nicht haben <lb/> so nim(m) gebehte Schnitten Brot von einem Weck <lb/> beh es ab <lb/> vnd begeuß mit frischer Butter <lb/> die vnzerlassen ist <lb/> leg ein theil Schnitten auff den Boden in eine Schüssel <lb/> vn(d) leg das Karwenada darauff <lb/> thu widerumb Schnitten darüber <lb/> nim(m) ein wenig feißte Rindtfleischbrüh <lb/> vnnd geuß oben darüber <lb/> vnd flugs also warm auff ein Tisch geschickt <lb/> so ist es ein gute Speise.</p>
+        <p> Wenn man sie abgliedt <lb/> so spickt man die stück <lb/> vnd legt sie auff einen Roßt <lb/> vnd bräts <lb/> versaltz vnnd verpfeffers nicht <lb/> Wenn du es anrichtest <lb/> so truck saur Limoniensafft darauff <lb/> so schmeckt es gut vnd lieblich. Wiltu es aber also nicht haben <lb/> so nim ( m ) gebehte Schnitten <objectName ref="brot">Brot</objectName> von einem Weck <lb/> beh es ab <lb/> vnd begeuß mit frischer <objectName ref="butter">Butter</objectName> <lb/> die vnzerlassen ist <lb/> leg ein theil Schnitten auff den Boden in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> vn ( d ) leg das Karwenada darauff <lb/> thu widerumb Schnitten darüber <lb/> nim ( m ) ein wenig feißte Rindtfleischbrüh <lb/> vnnd geuß oben darüber <lb/> vnd flugs also warm auff ein <objectName ref="tisch">Tisch</objectName> geschickt <lb/> so ist es ein gute Speise. </p>
             </div>
         </body>
     </text>

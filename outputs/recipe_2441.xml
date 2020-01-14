@@ -169,9 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZErklopffe vier Eyerdottern in einen Messingen Pfännlein <lb/> giesse ein viertel von einer Maas Wein daran <lb/> thue Zucker und Butter darein <lb/> und lasse es allgemach zu einem Mus aufsieden; indessen rühre es immer <lb/> daß es nicht zusammen lauffe <lb/> richts an <lb/> und streue Muscaten= Blüh darauf. <gap/>
-
-<gap/> Man kan auch die Dottern <lb/> wann man will <lb/> in einer Schüssel mit Wein anrühren <lb/> und auf der Kohlen aufsieden lassen <lb/> weil sie in der Pfannen leichtlich einen andern Geschmack an sich ziehen: wiewol auch dieses Mus blos ohne Butter gemacht werden kan.</p>
+        <p> ZErklopffe vier Eyerdottern in einen Messingen <objectName ref="pfaennlein">Pfännlein</objectName> <lb/> giesse ein viertel von einer <objectName ref="maas">Maas</objectName> <objectName ref="wein">Wein</objectName> daran <lb/> thue <objectName ref="zucker">Zucker</objectName> und <objectName ref="butter">Butter</objectName> darein <lb/> und lasse es allgemach zu einem Mus aufsieden; indessen rühre es immer <lb/> daß es nicht zusammen lauffe <lb/> richts an <lb/> und streue Muscaten= Blüh darauf. <gap/> <gap/> Man kan auch die Dottern <lb/> wann man will <lb/> in einer <objectName ref="schuessel">Schüssel</objectName> mit <objectName ref="wein">Wein</objectName> anrühren <lb/> und auf der <objectName ref="kohlen">Kohlen</objectName> aufsieden lassen <lb/> weil sie in der Pfannen leichtlich einen andern Geschmack an sich ziehen : wiewol auch dieses Mus blos ohne <objectName ref="butter">Butter</objectName> gemacht werden kan. </p>
             </div>
         </body>
     </text>

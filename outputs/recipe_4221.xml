@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn der Hering wol gewässert <lb/> so richte sie mit Butter oder Oel in ein verdecktes Geschirr <lb/> mit Gewürtz <lb/> Knoblauch <lb/> Rosmarin <lb/> und laß kurtz dämpffen.</p>
+        <p> WAnn der <objectName ref="hering">Hering</objectName> wol gewässert <lb/> so richte sie mit <objectName ref="butter">Butter</objectName> oder Oel in ein verdecktes <objectName ref="geschirr">Geschirr</objectName> <lb/> mit Gewürtz <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> und laß kurtz dämpffen. </p>
             </div>
         </body>
     </text>

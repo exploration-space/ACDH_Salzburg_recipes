@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) frische Maurachen <lb/> wasch sie auß zehen Wassern <lb/> steck sie an ein höltzern Spieß <lb/> vnd besträw sie mit Pfeffer vnd Saltz <lb/> leg sie auff ein Roßt <lb/> brat vnd begeuß sie mit Meybutter <lb/> die vngeschmältzt ist <lb/> besträw es mit Saltz vnd Pfeffer <lb/> so werden sie gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) frische Maurachen <lb/> wasch sie auß zehen <objectName ref="wasser">Wassern</objectName> <lb/> steck sie an ein höltzern <objectName ref="spiess">Spieß</objectName> <lb/> vnd besträw sie mit <objectName ref="pfeffer">Pfeffer</objectName> vnd Saltz <lb/> leg sie auff ein Roßt <lb/> brat vnd begeuß sie mit Meybutter <lb/> die vngeschmältzt ist <lb/> besträw es mit Saltz vnd <objectName ref="pfeffer">Pfeffer</objectName> <lb/> so werden sie gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

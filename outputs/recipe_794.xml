@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Diese werden auch <lb/> wie erstgemeldt <lb/> mit Wein wol Zucker <lb/> und gantzen Zimmet kurtz gekocht <lb/> mit etwas dick gesottner Brühe angericht <lb/> und mit Zucker bestreuter ohne Zimmet zur Tafel gegeben.</p>
+        <p> Diese werden auch <lb/> wie erstgemeldt <lb/> mit <objectName ref="wein">Wein</objectName> wol <objectName ref="zucker">Zucker</objectName> <lb/> und gantzen Zimmet kurtz gekocht <lb/> mit etwas dick gesottner <objectName ref="bruehe">Brühe</objectName> angericht <lb/> und mit <objectName ref="zucker">Zucker</objectName> bestreuter ohne Zimmet zur Tafel gegeben. </p>
             </div>
         </body>
     </text>

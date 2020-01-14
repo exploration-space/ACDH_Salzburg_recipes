@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZErschneide die Hünlein in Stücker <lb/> siede sie mit zugehörigem Gewürtz in guter Fleischbrühe; hacke Körbel= Kraut mit Petersil vermischt <lb/> klein <lb/> röste solches gar ein wenig in zerlassenem Butter <lb/> aber nicht zu heiß <lb/> damit es die Farb behält <lb/> mit gar wenig weiß Meel <lb/> gieß die Hünlein= Brühe daran, machs mit Eyerdottern (vor dem Anrichten) an <lb/> und gibs mit Lemoni= Safft.</p>
+        <p> ZErschneide die Hünlein in Stücker <lb/> siede sie mit zugehörigem Gewürtz in guter <objectName ref="fleischbruehe">Fleischbrühe</objectName>; hacke Körbel= <objectName ref="kraut">Kraut</objectName> mit Petersil vermischt <lb/> klein <lb/> röste solches gar ein wenig in zerlassenem <objectName ref="butter">Butter</objectName> <lb/> aber nicht zu heiß <lb/> damit es die Farb behält <lb/> mit gar wenig weiß Meel <lb/> gieß die Hünlein= <objectName ref="bruehe">Brühe</objectName> daran, machs mit Eyerdottern ( vor dem Anrichten ) an <lb/> und gibs mit Lemoni= Safft. </p>
             </div>
         </body>
     </text>

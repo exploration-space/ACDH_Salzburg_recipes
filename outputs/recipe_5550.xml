@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) gerunnen Milch <lb/> die mit Eyern angemacht <lb/> vnnd wol feißt ist <lb/> rürs mit Zucker ab <lb/> thu kleine schwartze Rosein <lb/> die sauber außgewaschen seyn <lb/> darvnter <lb/> schlags in einen Teig eyn <lb/> wie vorhin vermeldet ist <lb/> wie man einen Teig machen sol <lb/> besträw es mit Zucker <lb/> vnd gibs warm auff ein Tisch.</p>
+        <p> Nim ( m ) gerunnen <objectName ref="milch">Milch</objectName> <lb/> die mit Eyern angemacht <lb/> vnnd wol feißt ist <lb/> rürs mit <objectName ref="zucker">Zucker</objectName> ab <lb/> thu kleine schwartze Rosein <lb/> die sauber außgewaschen seyn <lb/> darvnter <lb/> schlags in einen <objectName ref="teig">Teig</objectName> eyn <lb/> wie vorhin vermeldet ist <lb/> wie man einen <objectName ref="teig">Teig</objectName> machen sol <lb/> besträw es mit <objectName ref="zucker">Zucker</objectName> <lb/> vnd gibs warm auff ein <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

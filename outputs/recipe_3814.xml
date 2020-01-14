@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>KArpffen= Milch <lb/> abgesottner <lb/> wie blinde Austern <lb/> mit Aalen= Fisch= Brät <lb/> und klein= gehackten Sardellen vermischter <lb/> klein zu hacken <lb/> und ablange Knödlein <lb/> in die frische Austern= Schaalen <lb/> mit Butter und Pfeffer eingericht <lb/> und auf dem Rost gebraten <lb/> übersich aber mit einer glüenden Schauffel gebräunt <lb/> seynd gut und wolgeschmack <lb/> und vor dem Anrichten mit Lemoni= Safft beträfft.</p>
+        <p> KArpffen= <objectName ref="milch">Milch</objectName> <lb/> abgesottner <lb/> wie blinde <objectName ref="austern">Austern</objectName> <lb/> mit Aalen= Fisch= Brät <lb/> und klein= gehackten <objectName ref="sardellen">Sardellen</objectName> vermischter <lb/> klein zu hacken <lb/> und ablange Knödlein <lb/> in die frische Austern= Schaalen <lb/> mit <objectName ref="butter">Butter</objectName> und <objectName ref="pfeffer">Pfeffer</objectName> eingericht <lb/> und auf dem <objectName ref="rost">Rost</objectName> gebraten <lb/> übersich aber mit einer glüenden Schauffel gebräunt <lb/> seynd gut und wolgeschmack <lb/> und vor dem Anrichten mit Lemoni= Safft beträfft. </p>
             </div>
         </body>
     </text>

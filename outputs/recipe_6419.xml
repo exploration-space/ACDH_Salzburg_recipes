@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Bratwürst kanstu zurichten mit Knobloch <lb/> oder mit Kümel <lb/> oder wol pfeffern.</p>
+        <p> Bratwürst kanstu zurichten mit Knobloch <lb/> oder mit Kümel <lb/> oder wol <objectName ref="pfeffer">pfeffern</objectName>. </p>
             </div>
         </body>
     </text>

@@ -171,9 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schneite Auß oblath<gap/> .4. taill oder blötl<gap/> <lb/> thue auf Das eine einen Rotten <lb/> safft oder ein eingemachten<gap/> wein <lb/> schärlln<gap/> in Mitten Drein vnd döckhs <lb/> mit den Andern Zue, sodan Nimb ein <lb/> schonnes mehl<gap/>, salz vnnd brene<gap/> <lb/> ein schmalz<gap/> in Das mehl, Nimb <lb/> warmbe Milch<gap/> vnnd Ayr Clar, <lb/> mache ein Dines taigl<gap/> an, Dan, <lb/> Druckhe die oblath vmb vnd vmb <lb/> einess finger braith ein, legs <lb/> in ein haiss schmalz<gap/>, Pachs<gap/> schen <lb/> Gelflet<gap/> heraus, also gibs Zuckhert auf <lb/> die taffl sie ßeint Guett. <lb/>
-
-[Anm.: Roter Saft kann aus Roten Rüben, Beeren, Rotkraut oder Wein hergestellt sein.]</p>
+        <p> Schneite Auß oblath<gap/>.4. taill oder blötl<gap/> <lb/> thue auf Das eine einen Rotten <lb/> safft oder ein eingemachten<gap/> <objectName ref="wein">wein</objectName> <lb/> schärlln<gap/> in Mitten Drein vnd döckhs <lb/> mit den Andern Zue, sodan Nimb ein <lb/> schonnes mehl<gap/>, <objectName ref="salz">salz</objectName> vnnd brene<gap/> <lb/> ein schmalz<gap/> in Das <objectName ref="mehl">mehl</objectName>, Nimb <lb/> warmbe Milch<gap/> vnnd Ayr Clar, <lb/> mache ein Dines taigl<gap/> an, Dan, <lb/> Druckhe die oblath vmb vnd vmb <lb/> einess finger braith ein, legs <lb/> in ein haiss schmalz<gap/>, Pachs<gap/> schen <lb/> Gelflet<gap/> heraus, also gibs Zuckhert auf <lb/> die taffl sie ßeint Guett. <lb/> [ Anm. : Roter Saft kann aus Roten <objectName ref="rueben">Rüben</objectName>, <objectName ref="beeren">Beeren</objectName>, <objectName ref="rotkraut">Rotkraut</objectName> oder <objectName ref="wein">Wein</objectName> hergestellt sein. ] </p>
             </div>
         </body>
     </text>

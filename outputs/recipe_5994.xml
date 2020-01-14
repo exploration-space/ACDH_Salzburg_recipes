@@ -174,8 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm ein schönes Meel <lb/> saltz es <lb/> nimm eine gute Milch <lb/> laß warm werden <lb/> laß einen Brocken Schmaltz darinn zergehen <lb/> schlag 4. Eyer darein <lb/> klopffs wohl unter einander <lb/> gieß ins Meel <lb/> mach fein ein glatten Taig <lb/> auch fein lenn ab <lb/> walg ihn auf einem Tisch= Tuch aus <lb/> und zieh ihn auf das dünnest aus <lb/> es muß ein langes Blatt <lb/> und länger als breit seyn <lb/> laß den Taig starr werden <lb/> stoß Mandeln groblecht <lb/> streue es auf den Taig <lb/> auch Wein= Beerlein <lb/> Zucker und Zimmet <lb/> schneide von Butter die Blättlein <lb/> legs auf den Taig fein dick <lb/> überwalgs rogel <lb/> legs hernach wie einen Schnecken <lb/> oder wie eine Schlangen <lb/> bachs langsam <lb/> es ist gar gut.
-</p>
+        <p> NImm ein schönes Meel <lb/> saltz es <lb/> nimm eine gute <objectName ref="milch">Milch</objectName> <lb/> laß warm werden <lb/> laß einen Brocken Schmaltz darinn zergehen <lb/> schlag 4. Eyer darein <lb/> klopffs wohl unter einander <lb/> gieß ins Meel <lb/> mach fein ein glatten Taig <lb/> auch fein lenn ab <lb/> walg ihn auf einem Tisch= <objectName ref="tuch">Tuch</objectName> aus <lb/> und zieh ihn auf das dünnest aus <lb/> es muß ein langes <objectName ref="blatt">Blatt</objectName> <lb/> und länger als breit seyn <lb/> laß den Taig starr werden <lb/> stoß <objectName ref="mandeln">Mandeln</objectName> groblecht <lb/> streue es auf den Taig <lb/> auch Wein= Beerlein <lb/> <objectName ref="zucker">Zucker</objectName> und Zimmet <lb/> schneide von <objectName ref="butter">Butter</objectName> die Blättlein <lb/> legs auf den Taig fein dick <lb/> überwalgs rogel <lb/> legs hernach wie einen <objectName ref="schnecken">Schnecken</objectName> <lb/> oder wie eine Schlangen <lb/> bachs langsam <lb/> es ist gar gut. </p>
             </div>
         </body>
     </text>

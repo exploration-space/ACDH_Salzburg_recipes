@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>VOn disen kostbaren und guten Fischen (welche man in hiesigem Land in denen Berg= Seen <lb/> und andern frischen Wassern <lb/> in einer grossen Menge fängt) ist zu mercken <lb/> daß dise beyde Gattungen <lb/> die Sälbling und Ferchen <lb/> oder Forellen; obwohlen sie an der Farb <lb/> Gestalt und Geschmack etwas ungleich <lb/> sie dannoch gantz auf einerley Weiß verkocht und zugericht werden.</p>
+        <p> VOn disen kostbaren und guten Fischen ( welche man in hiesigem Land in denen Berg= Seen <lb/> und andern frischen <objectName ref="wasser">Wassern</objectName> <lb/> in einer grossen Menge fängt ) ist zu mercken <lb/> daß dise beyde Gattungen <lb/> die Sälbling und Ferchen <lb/> oder <objectName ref="forelle">Forellen</objectName>; obwohlen sie an der Farb <lb/> Gestalt und Geschmack etwas ungleich <lb/> sie dannoch gantz auf einerley Weiß verkocht und zugericht werden. </p>
             </div>
         </body>
     </text>

@@ -170,9 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MIschet klein abgestossene Mandeln <lb/> und geriebene <lb/> oder in Milch geweichte Semmeln <lb/> unter einander <lb/> schlaget zwey Eyerdottern daran; thut zwey Löffel voll oberer süsser Milch oder Ram dazu <lb/> zuckerts <lb/> rührt alles durch einander: formiret Knötlein oder Klöslein daraus <lb/> bachet sie wohl kühl aus Schmaltz <lb/> und machet <lb/> nach belieben <lb/> ein süsses Brühlein darüber.
-
-</p>
+        <p> MIschet klein abgestossene <objectName ref="mandeln">Mandeln</objectName> <lb/> und geriebene <lb/> oder in <objectName ref="milch">Milch</objectName> geweichte <objectName ref="semmeln">Semmeln</objectName> <lb/> unter einander <lb/> schlaget zwey Eyerdottern daran; thut zwey <objectName ref="loeffel">Löffel</objectName> voll oberer süsser <objectName ref="milch">Milch</objectName> oder Ram dazu <lb/> zuckerts <lb/> rührt alles durch einander : formiret Knötlein oder Klöslein daraus <lb/> bachet sie wohl kühl aus Schmaltz <lb/> und machet <lb/> nach belieben <lb/> ein süsses Brühlein darüber. </p>
             </div>
         </body>
     </text>

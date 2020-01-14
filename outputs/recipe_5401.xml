@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet zwey Löffel schönes Mehl <lb/> und ein wenig frisches Wasser <lb/> treibet das Mehl gar trocken damit <lb/> eine halbe Stund lang <lb/> ab ; lasset dann einen Löffel voll Schmaltz heiß werden <lb/> brennets in den angezwierten Teig <lb/> und rühret selbigen ferner mit Eyer= weiß ab ; machet aber den Teig nicht zu dick <lb/> tuncket die Weixeln darein <lb/> und bachets aus Schmaltz.</p>
+        <p> NEhmet zwey <objectName ref="loeffel">Löffel</objectName> schönes <objectName ref="mehl">Mehl</objectName> <lb/> und ein wenig frisches <objectName ref="wasser">Wasser</objectName> <lb/> treibet das <objectName ref="mehl">Mehl</objectName> gar trocken damit <lb/> eine halbe Stund lang <lb/> ab; lasset dann einen <objectName ref="loeffel">Löffel</objectName> voll Schmaltz heiß werden <lb/> brennets in den angezwierten <objectName ref="teig">Teig</objectName> <lb/> und rühret selbigen ferner mit Eyer= weiß ab; machet aber den <objectName ref="teig">Teig</objectName> nicht zu dick <lb/> tuncket die Weixeln darein <lb/> und bachets aus Schmaltz. </p>
             </div>
         </body>
     </text>

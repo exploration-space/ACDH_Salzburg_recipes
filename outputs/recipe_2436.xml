@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm vier Eyerdottern <lb/> zerklopffe dieselbigen wohl <lb/> und gieß ein Achtel Maas Reinfal daran <lb/> laß es mit stetem rühren sieden <lb/> zuckere es <lb/> und richts so dann an.</p>
+        <p> NImm vier Eyerdottern <lb/> zerklopffe dieselbigen wohl <lb/> und gieß ein Achtel <objectName ref="maas">Maas</objectName> <objectName ref="reinfal-suesswein">Reinfal</objectName> daran <lb/> laß es mit stetem rühren sieden <lb/> zuckere es <lb/> und richts so dann an. </p>
             </div>
         </body>
     </text>

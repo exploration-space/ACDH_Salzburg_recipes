@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) weiß Bier vnd süssen Rahm durcheinander <lb/> vnnd gute frische Butter <lb/> laß darmit auffsieden <lb/> vnd saltzs <lb/> so ist es gut vnnd auch wolgeschmack.</p>
+        <p> Nim ( m ) weiß <objectName ref="bier">Bier</objectName> vnd süssen Rahm durcheinander <lb/> vnnd gute frische <objectName ref="butter">Butter</objectName> <lb/> laß darmit auffsieden <lb/> vnd saltzs <lb/> so ist es gut vnnd auch wolgeschmack. </p>
             </div>
         </body>
     </text>

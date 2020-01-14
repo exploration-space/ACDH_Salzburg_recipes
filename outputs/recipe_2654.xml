@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm die Geißmilch <lb/> so bald sie gemolcken ist <lb/> thue Zucker darein <lb/> laß heiß werden <lb/> aber nicht sieden <lb/> und richts über weisses würfftlicht= geschnittenes Brod.</p>
+        <p> NImm die Geißmilch <lb/> so bald sie gemolcken ist <lb/> thue <objectName ref="zucker">Zucker</objectName> darein <lb/> laß heiß werden <lb/> aber nicht sieden <lb/> und richts über weisses würfftlicht= geschnittenes Brod. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Steck sie an ein Spieß <lb/> vn(d) brat sie gar an die statt <lb/> schneidt klein Zwibel darzu <lb/> vnd laß sie mit Rindfleischbrüh auffsieden <lb/> so kompt der starcke geschmack von Zwibeln hinweg <lb/> schüt sie auff ein Durchschlag <lb/> vnd mach sie mit gestossenem Pfeffer vn(d) guter Rindtfleischbrüh <lb/> die feißt ist <lb/> ab <lb/> schneidt die Nieren vom Spieß rab <lb/> vnd thu die Zwibel darvnter <lb/> laß sie damit sieden <lb/> so wirt es braun vnd wolgeschmack. Also essens die Bauwren in Dörffern gern.</p>
+        <p> Steck sie an ein <objectName ref="spiess">Spieß</objectName> <lb/> vn ( d ) brat sie gar an die statt <lb/> schneidt klein Zwibel darzu <lb/> vnd laß sie mit Rindfleischbrüh auffsieden <lb/> so kompt der starcke geschmack von Zwibeln hinweg <lb/> schüt sie auff ein <objectName ref="durchschlag">Durchschlag</objectName> <lb/> vnd mach sie mit gestossenem <objectName ref="pfeffer">Pfeffer</objectName> vn ( d ) guter Rindtfleischbrüh <lb/> die feißt ist <lb/> ab <lb/> schneidt die <objectName ref="nieren">Nieren</objectName> vom <objectName ref="spiess">Spieß</objectName> rab <lb/> vnd thu die Zwibel darvnter <lb/> laß sie damit sieden <lb/> so wirt es braun vnd wolgeschmack. Also essens die Bauwren in Dörffern gern. </p>
             </div>
         </body>
     </text>

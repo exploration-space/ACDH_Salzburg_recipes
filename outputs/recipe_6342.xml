@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Item <lb/> back saur Vrhab in einem Backofen <lb/> vnnd leg es in warmen Wein <lb/> vnd vermach den Spundt <lb/> so hastu guten Essig zu allen dingen.</p>
+        <p> Item <lb/> back saur Vrhab in einem <objectName ref="backofen">Backofen</objectName> <lb/> vnnd leg es in warmen <objectName ref="wein">Wein</objectName> <lb/> vnd vermach den Spundt <lb/> so hastu guten <objectName ref="essig">Essig</objectName> zu allen dingen. </p>
             </div>
         </body>
     </text>

@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES wird der Haussen zu beliebigen Stucken geschnitten <lb/> gewaschen <lb/> und mit gesaltznem Wasser <lb/> Eßig <lb/>Wein <lb/> mit Nägelein bestecktem Zwibel <lb/> Lorbeer=Laub <lb/> Rosmarin <lb/> und Lemoni=Schaalen <lb/> gar gesotten <lb/> und wann er fertig <lb/> so gib ihn auf die Schüssel <lb/> mit zulassnem Butter und Senff.</p>
+        <p> ES wird der Haussen zu beliebigen Stucken geschnitten <lb/> gewaschen <lb/> und mit gesaltznem <objectName ref="wasser">Wasser</objectName> <lb/> Eßig /Wein <lb/> mit Nägelein bestecktem Zwibel <lb/> Lorbeer=Laub <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> und Lemoni=Schaalen <lb/> gar gesotten <lb/> und wann er fertig <lb/> so gib ihn auf die <objectName ref="schuessel">Schüssel</objectName> <lb/> mit zulassnem <objectName ref="butter">Butter</objectName> und Senff. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Spargel Salat <lb/> der auch gequellt ist <lb/> vnnd klein geschnitten <lb/> oder gantz angemacht <lb/> ist auff beyde manier gut. Du kanst jn machen mit Erbeßbrüh <lb/> mit ein wenig Butter <lb/> Pfeffer vnnd Essig <lb/> warm auff ein Tisch gegeben.</p>
+        <p> <objectName ref="spargel">Spargel</objectName> <objectName ref="salat">Salat</objectName> <lb/> der auch gequellt ist <lb/> vnnd klein geschnitten <lb/> oder gantz angemacht <lb/> ist auff beyde manier gut. Du kanst jn machen mit Erbeßbrüh <lb/> mit ein wenig <objectName ref="butter">Butter</objectName> <lb/> <objectName ref="pfeffer">Pfeffer</objectName> vnnd <objectName ref="essig">Essig</objectName> <lb/> warm auff ein <objectName ref="tisch">Tisch</objectName> gegeben. </p>
             </div>
         </body>
     </text>

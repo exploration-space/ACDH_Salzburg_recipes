@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb <lb/> die Millich von Kärpfen, Seuts in wein <lb/> vnd wasser, treibs durch ain Süb, Sez aufs <lb/><lb/> (64v) feüer, laß auf Sieden, leg die Stüerlen <lb/> darein, laß woll ein sieden, gewürz mit <lb/> Imber, Pfeffer, lints gewürz, zuggers <lb/> woll, mach ain wennig Supen daran, <lb/> du hasts gar. <lb/></p>
+        <p> Nimb <lb/> die Millich von Kärpfen, Seuts in <objectName ref="wein">wein</objectName> <lb/> vnd <objectName ref="wasser">wasser</objectName>, treibs durch ain Süb, Sez aufs <lb/><lb/> ( 64v ) feüer, laß auf Sieden, leg die Stüerlen <lb/> darein, laß woll ein sieden, gewürz mit <lb/> Imber, <objectName ref="pfeffer">Pfeffer</objectName>, lints gewürz, zuggers <lb/> woll, mach ain wennig Supen daran, <lb/> du hasts gar. <lb/> </p>
             </div>
         </body>
     </text>

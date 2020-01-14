@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Zwibeln <lb/> die geschelet seyn <lb/> schneidt sie fein breit vnnd dünn <lb/> setz sie mit Wasser zu <lb/> vnd laß sieden <lb/> nim(m) ein harten Käß <lb/> der nicht faul ist <lb/> vnd schneidt jn fein klein <lb/> thu jhn in die Brüh <lb/> darinn der Zwibel seudt <lb/> thu gute Butter darein <lb/> vnd laß auch mit sieden. Vnnd wenn du es wilt anrichten <lb/> so schneidt von einem Weck fein dünn vnd breit <lb/> richt die Brüh mit dem Käß darüber. Also essens die Vngerischen Herrn gern.</p>
+        <p> Nim ( m ) Zwibeln <lb/> die geschelet seyn <lb/> schneidt sie fein breit vnnd dünn <lb/> setz sie mit <objectName ref="wasser">Wasser</objectName> zu <lb/> vnd laß sieden <lb/> nim ( m ) ein harten Käß <lb/> der nicht faul ist <lb/> vnd schneidt jn fein klein <lb/> thu jhn in die Brüh <lb/> darinn der Zwibel seudt <lb/> thu gute <objectName ref="butter">Butter</objectName> darein <lb/> vnd laß auch mit sieden. Vnnd wenn du es wilt anrichten <lb/> so schneidt von einem Weck fein dünn vnd breit <lb/> richt die Brüh mit dem Käß darüber. Also essens die Vngerischen Herrn gern. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe lämmerne Schlegelein werden mit Knoblauch und Sardellen gedämpfft <lb/> oder gebraten und mit seiner eigene jus, oder gepaitzter gespickt und gebraten <lb/> gibs mit seiner Paitz <lb/> mit <lb/> oder ohne Sardellen in einem Rosmarin=Brühlein <lb/> und ein wenig sauer.</p>
+        <p> DIe lämmerne Schlegelein werden mit <objectName ref="knoblauch">Knoblauch</objectName> und <objectName ref="sardellen">Sardellen</objectName> gedämpfft <lb/> oder gebraten und mit seiner eigene <objectName ref="jus">jus</objectName>, oder gepaitzter gespickt und gebraten <lb/> gibs mit seiner Paitz <lb/> mit <lb/> oder ohne <objectName ref="sardellen">Sardellen</objectName> in einem Rosmarin=Brühlein <lb/> und ein wenig sauer. </p>
             </div>
         </body>
     </text>

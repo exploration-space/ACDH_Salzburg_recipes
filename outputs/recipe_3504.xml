@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChildkrotten <lb/> wann sie gesotten <lb/> gebutzt und ausgelößt <lb/> können sie auch am Fasttag <lb/> mit grünen ausgelößten Erbsen <lb/> oder mit überbrühten und geschnittenen Spargel vermischt <lb/> und mit einer grünen Butterbrühe <lb/> oder wie ein Fricasse zugericht <lb/> und in ihre Schaalen <lb/> oder auch in die Schüssel <lb/> wie oben erst gemeldt <lb/> angericht werden.</p>
+        <p> SChildkrotten <lb/> wann sie gesotten <lb/> gebutzt und ausgelößt <lb/> können sie auch am Fasttag <lb/> mit grünen ausgelößten <objectName ref="erbsen">Erbsen</objectName> <lb/> oder mit überbrühten und geschnittenen <objectName ref="spargel">Spargel</objectName> vermischt <lb/> und mit einer grünen <objectName ref="butterbruehe">Butterbrühe</objectName> <lb/> oder wie ein Fricasse zugericht <lb/> und in ihre Schaalen <lb/> oder auch in die <objectName ref="schuessel">Schüssel</objectName> <lb/> wie oben erst gemeldt <lb/> angericht werden. </p>
             </div>
         </body>
     </text>

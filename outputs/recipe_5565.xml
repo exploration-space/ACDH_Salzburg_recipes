@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mach ein Teig mit guter Milch <lb/> schlag drey oder vier Eyer darein <lb/> vnd rür jn wol glat an <lb/> mach Löcher durch ein Hafen <lb/> der nicht groß ist <lb/> geuß den Teig darein <lb/> vnd halt ein Teller vnten auff den Boden <lb/> d(aß) der Teig nicht herauß rinnet <lb/> daß du es kanst kreutzweiß in heisse Butter eynziehen <lb/> zeuchs nicht zu dick eyn <lb/> daß es kan außbacken <lb/> besträw es mit Zucker <lb/> vnnd gibs kalt oder warm auff ein Tisch <lb/> so ist es ein gut Strauben Gebackens.</p>
+        <p> Mach ein <objectName ref="teig">Teig</objectName> mit guter <objectName ref="milch">Milch</objectName> <lb/> schlag drey oder vier Eyer darein <lb/> vnd rür jn wol glat an <lb/> mach Löcher durch ein <objectName ref="hafen">Hafen</objectName> <lb/> der nicht groß ist <lb/> geuß den <objectName ref="teig">Teig</objectName> darein <lb/> vnd halt ein <objectName ref="teller">Teller</objectName> vnten auff den Boden <lb/> d ( aß ) der <objectName ref="teig">Teig</objectName> nicht herauß rinnet <lb/> daß du es kanst kreutzweiß in heisse <objectName ref="butter">Butter</objectName> eynziehen <lb/> zeuchs nicht zu dick eyn <lb/> daß es kan außbacken <lb/> besträw es mit <objectName ref="zucker">Zucker</objectName> <lb/> vnnd gibs kalt oder warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> so ist es ein gut <objectName ref="strauben">Strauben</objectName> Gebackens. </p>
             </div>
         </body>
     </text>

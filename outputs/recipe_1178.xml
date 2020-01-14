@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wösche die Piegl<gap/> auß, Salz, lögs<gap/> ain khlein wenig <lb/> auf den Rost<gap/>, stöckhs<gap/> hernach in den spiß, yberprattes<gap/> <lb/> alsdan schitte<gap/> ein praune Supen vom Rindtfleisch <lb/><lb/> (16v) fleisch daran, vnd .2. löffl voll sauren<gap/> Rämb, <lb/> Lemany<gap/> plätl<gap/>, gewierz<gap/>, vnd ösßig, auch ain <lb/> handtuoll<gap/> Khäppri<gap/>, laß also sieden<gap/>. <lb/></p>
+        <p> Wösche die Piegl<gap/> auß, <objectName ref="salz">Salz</objectName>, lögs<gap/> ain khlein wenig <lb/> auf den Rost<gap/>, stöckhs<gap/> hernach in den spiß, yberprattes<gap/> <lb/> alsdan schitte<gap/> ein praune Supen vom Rindtfleisch <lb/><lb/> ( 16v ) <objectName ref="fleisch">fleisch</objectName> daran, vnd.2. löffl voll sauren<gap/> Rämb, <lb/> Lemany<gap/> plätl<gap/>, gewierz<gap/>, vnd ösßig, auch ain <lb/> handtuoll<gap/> Khäppri<gap/>, laß also sieden<gap/>. <lb/> </p>
             </div>
         </body>
     </text>

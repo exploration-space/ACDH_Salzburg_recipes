@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Geräucherte Kramatsvögel mag man nemmen vnter ein weissen oder grünen Köl <lb/> vnter weiß Kraut oder dürre Ruben <lb/> auch mit Spenat gekocht <lb/> seind sie gut vnd wolgeschmack.</p>
+        <p> Geräucherte Kramatsvögel mag man nemmen vnter ein weissen oder grünen Köl <lb/> vnter weiß <objectName ref="kraut">Kraut</objectName> oder dürre Ruben <lb/> auch mit Spenat gekocht <lb/> seind sie gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

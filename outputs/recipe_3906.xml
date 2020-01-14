@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Auf dise erst = beschriebene Weiß ist er auch gut <lb/> in einer Weichsel = Pfeffer = oder in gelber süssen Zungen = Brühe <lb/> mit Lemoni <lb/> Mandeln und Wein = Beerlein ; Item in brauner Näglein = Brühe <lb/> oder gleich in einer sauren Wachholder = Brühe.</p>
+        <p> Auf dise erst = beschriebene Weiß ist er auch gut <lb/> in einer Weichsel = <objectName ref="pfeffer">Pfeffer</objectName> = oder in gelber süssen <objectName ref="zunge">Zungen</objectName> = <objectName ref="bruehe">Brühe</objectName> <lb/> mit Lemoni <lb/> <objectName ref="mandeln">Mandeln</objectName> und <objectName ref="wein">Wein</objectName> = Beerlein; Item in brauner Näglein = <objectName ref="bruehe">Brühe</objectName> <lb/> oder gleich in einer sauren Wachholder = <objectName ref="bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

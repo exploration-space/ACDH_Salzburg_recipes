@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Pren ein mell in einem Pfändl ungfehr ein halben löfl voll, vnd <lb/> ein Nuß groß schmalz, laß also khielen, nimb darnach souill Puter als <lb/> schmalz, oder mehrer, er mueß auch frisch sein, schneid ihn gewirfflet in <lb/> ein häferl, mach ein Wasser so Warmb, das der Puter selber Zergeht, <lb/> spridl schens mell drein, salz es, nimb die aÿr, schlags drein, nach <lb/> dem nimb das einbrent schmalz oder mell, gieß auch drein, sich auch, das <lb/> das taigl sein rechte dikhe hat, bachs durch ein khlain straubenlöffl, <lb/> auf ein grossen tisch mueß man mehrer einbrenen, auch in allem Zue= <lb/> geben. <lb/></p>
+        <p> Pren ein mell in einem Pfändl ungfehr ein halben löfl voll, vnd <lb/> ein Nuß groß <objectName ref="schmalz">schmalz</objectName>, laß also khielen, nimb darnach souill Puter als <lb/> <objectName ref="schmalz">schmalz</objectName>, oder mehrer, er mueß auch frisch sein, schneid ihn gewirfflet in <lb/> ein häferl, mach ein <objectName ref="wasser">Wasser</objectName> so Warmb, das der Puter selber Zergeht, <lb/> spridl schens mell drein, <objectName ref="salz">salz</objectName> es, nimb die aÿr, schlags drein, nach <lb/> dem nimb das einbrent <objectName ref="schmalz">schmalz</objectName> oder mell, gieß auch drein, sich auch, das <lb/> das taigl sein rechte dikhe hat, bachs durch ein khlain straubenlöffl, <lb/> auf ein grossen <objectName ref="tisch">tisch</objectName> mueß man mehrer einbrenen, auch in allem Zue= <lb/> geben. <lb/> </p>
             </div>
         </body>
     </text>

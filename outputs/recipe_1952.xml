@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb aÿr vnd mell, mach ein taig, Wie ein strauben taig, <lb/> aber Woll dikher, böhr ihn fast Woll mit einem löffl, <lb/> darnach thue den taig in ein Säckhl, vnd heng ihn in ein <lb/> Siedents Wasser, biß er Woll hört Wird, vnd dirr, thue ihn <lb/> wider herauß, leg ihn auf ein breth, schneid ihn langlet, <lb/> vnd legs in ein haiß Schmalz, wigl die pfan, gehn hibsch <lb/> auf, bachs langsamb, sie Werden guet, Säe Zugger <lb/> drauf. <lb/></p>
+        <p> Nimb aÿr vnd mell, mach ein taig, Wie ein <objectName ref="strauben">strauben</objectName> taig, <lb/> aber Woll dikher, böhr ihn fast Woll mit einem löffl, <lb/> darnach thue den taig in ein Säckhl, vnd heng ihn in ein <lb/> Siedents <objectName ref="wasser">Wasser</objectName>, biß er Woll hört Wird, vnd dirr, thue ihn <lb/> wider herauß, leg ihn auf ein breth, schneid ihn langlet, <lb/> vnd legs in ein haiß <objectName ref="schmalz">Schmalz</objectName>, wigl die pfan, gehn hibsch <lb/> auf, bachs langsamb, sie Werden guet, Säe Zugger <lb/> drauf. <lb/> </p>
             </div>
         </body>
     </text>

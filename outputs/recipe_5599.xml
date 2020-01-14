@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Bähe ein oder zwey Stücklein rocken Brod <lb/> siede es in einer Fleischbrüh <lb/> zwings durch ; zerschneide ein oder zwey Limonien <lb/> nach dem des Fleisches wenig oder viel ist <lb/> klein = und würfflicht <lb/> und würff sie dazu ; gieß etwas Essig daran <lb/> streue Pfeffer <lb/> Ingber <lb/> und Muscatennüsse darein <lb/> laß es also zusammen <lb/> zuletzt aber ein Stücklein Butter mit aufsieden <lb/> und richte sie über das bereits abgesottene Fleisch : Oder man kan auch die Brüh annoch über das Fleisch in einem stollichten Hafen giessen <lb/> ein wenig darinnen sieden lassen <lb/> und so dann mit einander anrichten.</p>
+        <p> Bähe ein oder zwey Stücklein rocken Brod <lb/> siede es in einer Fleischbrüh <lb/> zwings durch; zerschneide ein oder zwey Limonien <lb/> nach dem des Fleisches wenig oder viel ist <lb/> klein = und würfflicht <lb/> und würff sie dazu; gieß etwas <objectName ref="essig">Essig</objectName> daran <lb/> streue <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Ingber <lb/> und Muscatennüsse darein <lb/> laß es also zusammen <lb/> zuletzt aber ein Stücklein <objectName ref="butter">Butter</objectName> mit aufsieden <lb/> und richte sie über das bereits abgesottene <objectName ref="fleisch">Fleisch</objectName> : Oder man kan auch die Brüh annoch über das <objectName ref="fleisch">Fleisch</objectName> in einem stollichten <objectName ref="hafen">Hafen</objectName> giessen <lb/> ein wenig darinnen sieden lassen <lb/> und so dann mit einander anrichten. </p>
             </div>
         </body>
     </text>

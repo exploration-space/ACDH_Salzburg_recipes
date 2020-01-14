@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Grundl, seud die schen blab herab wie die andern fisch, seichs <lb/> trukhen ab, nimb gueten Wein in ein Pfan, seud ihn besonder, Zukhers <lb/> auch Woll, nimb dan guete latwergen, so Wird die suppen schwarz, <lb/> hakh khlain Zwifl, rest ihn, thues darzue, alßdan laß durcheinander <lb/> sieden, vnd thue Nägelstup dran, geuß die gemelte Suppen über <lb/> die Grundl, vnd gibs. <lb/></p>
+        <p> Nimb Grundl, seud die schen blab herab wie die andern <objectName ref="fisch">fisch</objectName>, seichs <lb/> trukhen ab, nimb gueten <objectName ref="wein">Wein</objectName> in ein Pfan, seud ihn besonder, Zukhers <lb/> auch Woll, nimb dan guete <objectName ref="latwerge">latwergen</objectName>, so Wird die <objectName ref="suppe">suppen</objectName> schwarz, <lb/> hakh khlain Zwifl, rest ihn, thues darzue, alßdan laß durcheinander <lb/> sieden, vnd thue Nägelstup dran, geuß die gemelte <objectName ref="suppe">Suppen</objectName> über <lb/> die Grundl, vnd gibs. <lb/> </p>
             </div>
         </body>
     </text>

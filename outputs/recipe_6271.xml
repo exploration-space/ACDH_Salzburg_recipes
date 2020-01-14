@@ -166,8 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIeser <lb/> wann er gesäubert <lb/> und wohl weich gesotten <lb/> ist gut auf mancherlei Art und Weiß; als nemlich auf dem Rost <lb/> oder gleich der Lungen <lb/> Gäumen <lb/> oder Euter einzumachen <lb/> auch in einem Gehäck vor Krancke und Gesunde; Man kan ihn <lb/> kurz und langlecht geschnitten <lb/> auch unter die Rago mischen.
-</p>
+        <p> DIeser <lb/> wann er gesäubert <lb/> und wohl weich gesotten <lb/> ist gut auf mancherlei Art und Weiß; als nemlich auf dem <objectName ref="rost">Rost</objectName> <lb/> oder gleich der <objectName ref="lunge">Lungen</objectName> <lb/> Gäumen <lb/> oder <objectName ref="euter">Euter</objectName> einzumachen <lb/> auch in einem <objectName ref="gehaeck">Gehäck</objectName> vor Krancke und Gesunde; Man kan ihn <lb/> kurz und langlecht geschnitten <lb/> auch unter die Rago mischen. </p>
             </div>
         </body>
     </text>

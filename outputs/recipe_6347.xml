@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Item <lb/> man sol nemmen ein Handt voll gutes gebränntes Saltz <lb/> vnnd das mengen mit Wasser <lb/> ein Maß oder zwo <lb/> vnd in das Faß giessen <lb/> vnd vber Nacht ruhen lassen <lb/> so wirt es darnach schaumen <lb/> daß es lustig wirdt zu trincken.</p>
+        <p> Item <lb/> man sol nemmen ein Handt voll gutes gebränntes Saltz <lb/> vnnd das mengen mit <objectName ref="wasser">Wasser</objectName> <lb/> ein <objectName ref="mass">Maß</objectName> oder zwo <lb/> vnd in das Faß giessen <lb/> vnd vber Nacht ruhen lassen <lb/> so wirt es darnach schaumen <lb/> daß es lustig wirdt zu trincken. </p>
             </div>
         </body>
     </text>

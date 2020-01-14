@@ -178,10 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn die Haßel= oder Reb= Hünlein gebraten seyn <lb/> schneide das Brät von der Brust langlecht; röste es mit dünnen Schuncken= Schnitzlein in guten Butter <lb/> mit wenig Meel <lb/> kleinen Zwibeln <lb/> Gewürtz <lb/> Capry und Sardellen <lb/> in einer Rein <lb/> oder Casserol; gieß gute Fleischbrühe <lb/> oder Schöps= Brühe <lb/> oder anderes jus daran; laß kochen <lb/> kosts im Saltz <lb/> und richts an: Regaliers nach der Zeit mit gebachenen Bock= Brüßlein <lb/> und gebratenen Kälber= Vögeln <lb/> sammt ihren selbst= eigenen Bügeln <lb/> oder Schenckeln.
-
-NB. Alles dises <lb/> was von denen Tauben beschrieben worden <lb/> kan auch <lb/> (so es beliebt) von Haßel= und Reb= Hünlein gemacht werden <lb/> als: auf die Suppen <lb/> in die Pasteten <lb/> zu dem Braten und Einmachen.
-</p>
+        <p> WAnn die Haßel= oder Reb= Hünlein gebraten seyn <lb/> schneide das Brät von der <objectName ref="brust">Brust</objectName> langlecht; röste es mit dünnen Schuncken= Schnitzlein in guten <objectName ref="butter">Butter</objectName> <lb/> mit wenig Meel <lb/> kleinen Zwibeln <lb/> Gewürtz <lb/> Capry und <objectName ref="sardellen">Sardellen</objectName> <lb/> in einer <objectName ref="rein">Rein</objectName> <lb/> oder Casserol; gieß gute <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> oder Schöps= <objectName ref="bruehe">Brühe</objectName> <lb/> oder anderes <objectName ref="jus">jus</objectName> daran; laß kochen <lb/> kosts im Saltz <lb/> und richts an : Regaliers nach der Zeit mit gebachenen Bock= Brüßlein <lb/> und gebratenen Kälber= <objectName ref="voegel">Vögeln</objectName> <lb/> sammt ihren selbst= eigenen Bügeln <lb/> oder Schenckeln. NB. Alles dises <lb/> was von denen <objectName ref="taube">Tauben</objectName> beschrieben worden <lb/> kan auch <lb/> ( so es beliebt ) von Haßel= und Reb= Hünlein gemacht werden <lb/> als : auf die <objectName ref="suppe">Suppen</objectName> <lb/> in die <objectName ref="pastete">Pasteten</objectName> <lb/> zu dem Braten und Einmachen. </p>
             </div>
         </body>
     </text>

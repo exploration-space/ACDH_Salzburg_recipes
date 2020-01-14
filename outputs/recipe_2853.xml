@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet einen abgetrockneten Mandel= Teig <lb/> walchert zwey lange schmale Blätter daraus <lb/> nach dem man die Schlangen groß oder klein haben will; füllet diesen Teig <lb/> an statt der Füll <lb/> darein <lb/> und formiret sie <lb/> wie im hernach folgenden gelehret werden soll: leget selbige auf ein Blech <lb/> bachets bey einer guten Hitz <lb/> bedupfftets mit einem weissen Spiegel <lb/> und zierets folgends aus <lb/> wie hernach folget: Es müssen aber diese Schlagen zuvor geeiset werden <lb/> ehe man sie bedupffet.</p>
+        <p> NEhmet einen abgetrockneten Mandel= <objectName ref="teig">Teig</objectName> <lb/> walchert zwey lange schmale Blätter daraus <lb/> nach dem man die Schlangen groß oder klein haben will; füllet diesen <objectName ref="teig">Teig</objectName> <lb/> an statt der Füll <lb/> darein <lb/> und formiret sie <lb/> wie im hernach folgenden gelehret werden soll : leget selbige auf ein <objectName ref="blech">Blech</objectName> <lb/> bachets bey einer guten Hitz <lb/> bedupfftets mit einem weissen Spiegel <lb/> und zierets folgends aus <lb/> wie hernach folget : Es müssen aber diese Schlagen zuvor geeiset werden <lb/> ehe man sie bedupffet. </p>
             </div>
         </body>
     </text>

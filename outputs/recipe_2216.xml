@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein süssen Rämb, vnd Aÿrdoter durcheinander, mach ihn Wie ein <lb/> äffentaig an, Welg ihn auß Wie Zum äffen mundt, Welg ihn ÿber ein ander, <lb/> schneid ihn Wie Zu Nudl, darnach mueß mans außeinander Pössen, <lb/> darnach khlaubt mans Zam biß ein strauben Wird, schlags umb ein <lb/> löffl, vnd bachs im schmalz, ist bereit. <lb/></p>
+        <p> Nimb ein süssen Rämb, vnd Aÿrdoter durcheinander, mach ihn Wie ein <lb/> äffentaig an, Welg ihn auß Wie Zum äffen mundt, Welg ihn ÿber ein ander, <lb/> schneid ihn Wie Zu Nudl, darnach mueß mans außeinander Pössen, <lb/> darnach khlaubt mans Zam biß ein <objectName ref="strauben">strauben</objectName> Wird, schlags umb ein <lb/> löffl, vnd bachs im <objectName ref="schmalz">schmalz</objectName>, ist bereit. <lb/> </p>
             </div>
         </body>
     </text>

@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm frischen Speck <lb/> wasche ihn sauber <lb/> hack ihn sammt ein wenig Ochsen=Marck darunter <lb/> wie auch klein=geschnittene Pisdazi,  Pinioli, oder Mandel <lb/> und eingemachte Citronen <lb/> und Piscoten=Brod <lb/> doch von einem jeden Theil so viel <lb/> als man vermeynt <lb/> in der Süsse und Fette genug zu seyn <lb/> rührs alles unter einander <lb/> und lege ein Blättlein Taig in ein Schüssel <lb/> die Füll darein <lb/> alsdann ein anders Blatt darüber <lb/> und ziere ihn nach eines jeden Gefallen<lb/> aber fein kühl gebachen <lb/> und ein Eyß darauf gemacht.</p>
+        <p> NImm frischen <objectName ref="speck">Speck</objectName> <lb/> wasche ihn sauber <lb/> hack ihn sammt ein wenig Ochsen=Marck darunter <lb/> wie auch klein=geschnittene Pisdazi, Pinioli, oder Mandel <lb/> und eingemachte Citronen <lb/> und Piscoten=Brod <lb/> doch von einem jeden Theil so viel <lb/> als man vermeynt <lb/> in der Süsse und Fette genug zu seyn <lb/> rührs alles unter einander <lb/> und lege ein Blättlein Taig in ein <objectName ref="schuessel">Schüssel</objectName> <lb/> die Füll darein <lb/> alsdann ein anders <objectName ref="blatt">Blatt</objectName> darüber <lb/> und ziere ihn nach eines jeden Gefallen/ aber fein kühl gebachen <lb/> und ein Eyß darauf gemacht. </p>
             </div>
         </body>
     </text>

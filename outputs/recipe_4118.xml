@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm den halbierten Hirsch= Rucken <lb/> schieb das Fleisch zuruck von denen Ripplein <lb/> schneids ordentlich nach denen Beinern <lb/> klopffs <lb/> besprengs mit Saltz und Gewürtz <lb/> ziehs durch zerlassenen Butter <lb/> oder Speck <lb/> besäes mit angemachten Semmel= Brosen <lb/> oder bräun sie unbesäeter <lb/> in einem Casserol mit Butter und Speck <lb/> oder mit wenig Meel <lb/> nimm Wein= Eßig <lb/> mit wenig Fleisch= Brühe <lb/> oder Wasser <lb/> laß zugedeckter mit Rosmarin <lb/> Lemoni= Schelffen <lb/> oder Capry gar dämpffen <lb/> biß sie gut seyn.</p>
+        <p> NImm den halbierten Hirsch= Rucken <lb/> schieb das <objectName ref="fleisch">Fleisch</objectName> zuruck von denen Ripplein <lb/> schneids ordentlich nach denen Beinern <lb/> klopffs <lb/> besprengs mit Saltz und Gewürtz <lb/> ziehs durch zerlassenen <objectName ref="butter">Butter</objectName> <lb/> oder <objectName ref="speck">Speck</objectName> <lb/> besäes mit angemachten Semmel= Brosen <lb/> oder bräun sie unbesäeter <lb/> in einem Casserol mit <objectName ref="butter">Butter</objectName> und <objectName ref="speck">Speck</objectName> <lb/> oder mit wenig Meel <lb/> nimm Wein= Eßig <lb/> mit wenig Fleisch= <objectName ref="bruehe">Brühe</objectName> <lb/> oder <objectName ref="wasser">Wasser</objectName> <lb/> laß zugedeckter mit <objectName ref="rosmarin">Rosmarin</objectName> <lb/> Lemoni= Schelffen <lb/> oder Capry gar dämpffen <lb/> biß sie gut seyn. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimbe ein Prädtigs<gap/> Kalbfleisch schneidt <lb/> brätige<gap/> schnizl, Zerkhlopfe sye das Ganz <lb/> mildt<gap/> werden, vnnd reste<gap/> sye in butter, <lb/> das schön Gelb werden, darnach thue sye <lb/> in ein rein<gap/>, löge einen butter daran <lb/><lb/> ( ve 2) vnnd Gieß Fleisch brüe<gap/> daran, vnnd <lb/> allerley Gewirz<gap/>, thue es in ein reintl<gap/>, <lb/> lass breglen<gap/>, Nimb .3. Ayr Doter, vnnd Gies ein solche brüe<gap/> daran, <lb/> riehre<gap/> es vmb, vnnd träpfe<gap/> es mit <lb/> Lemonisaft, lass bregln<gap/> so ists <lb/> förtig. <lb/></p>
+        <p> Nimbe ein Prädtigs<gap/> <objectName ref="kalbfleisch">Kalbfleisch</objectName> schneidt <lb/> brätige<gap/> schnizl, Zerkhlopfe sye das Ganz <lb/> mildt<gap/> werden, vnnd reste<gap/> sye in <objectName ref="butter">butter</objectName>, <lb/> das schön Gelb werden, darnach thue sye <lb/> in ein rein<gap/>, löge einen <objectName ref="butter">butter</objectName> daran <lb/><lb/> ( ve 2 ) vnnd Gieß <objectName ref="fleisch">Fleisch</objectName> brüe<gap/> daran, vnnd <lb/> allerley Gewirz<gap/>, thue es in ein reintl<gap/>, <lb/> lass breglen<gap/>, Nimb.3. Ayr Doter, vnnd Gies ein solche brüe<gap/> daran, <lb/> riehre<gap/> es vmb, vnnd träpfe<gap/> es mit <lb/> Lemonisaft, lass bregln<gap/> so ists <lb/> förtig. <lb/> </p>
             </div>
         </body>
     </text>

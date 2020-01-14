@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Zwöspen siedts<gap/> in wein thue <lb/> die Kern heraus hackhs Klein vnnd <lb/><lb/> (re 118) Rests<gap/> in schmalz<gap/> vnnd sembl bresel<gap/> <lb/> Darunter, Zuckhers wans beliebig <lb/> ist Kanst ain Dotter nemben vnd <lb/> Zimmet stup<gap/>, bachs<gap/> in schmalz<gap/> mach ein <lb/> sipel<gap/> mit wein vnnd Zuckher dar= <lb/> yber so ist es Recht. <lb/></p>
+        <p> Nimb Zwöspen siedts<gap/> in <objectName ref="wein">wein</objectName> thue <lb/> die Kern heraus hackhs Klein vnnd <lb/><lb/> ( re 118 ) Rests<gap/> in schmalz<gap/> vnnd sembl bresel<gap/> <lb/> Darunter, Zuckhers wans beliebig <lb/> ist Kanst ain Dotter nemben vnd <lb/> Zimmet stup<gap/>, bachs<gap/> in schmalz<gap/> mach ein <lb/> sipel<gap/> mit <objectName ref="wein">wein</objectName> vnnd Zuckher dar= <lb/> yber so ist es Recht. <lb/> </p>
             </div>
         </body>
     </text>

@@ -175,9 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) die Leber von einem Kappaunen <lb/> hack sie klein mit grünen wolschmeckenden Kräutern <lb/> einem Rindtfeißt <lb/> vnnd mit gestossenem Pfeffer <lb/> vnnd ein wenig Saffran <lb/> auch drey oder vier Eyer darvnter <lb/> versaltz es nicht. Nim(m) darnach ein Pfannen <lb/> vnd Butter darein <lb/> mach sie heiß <lb/> vn(d) thu die Leber darein <lb/> rürs vmb <lb/> wie ein eyngerürtes <lb/> daß du es nicht anbrennst. Wenn du es eyngerürt hast <lb/> so thu es auff ein saubers Bret <lb/> zertreibs fein voneinander <lb/> Nim(m) ein Kälbern Netz <lb/> wickels fein darein <lb/> vnnd mach kleine Würst <lb/> leg sie auff ein Roßt <lb/> vnd brat sie geschwindt hinweg <lb/> vnd gibs flugs auff ein Tisch <lb/> dieweil sie noch warm sind <lb/> so seind sie gut vnnd auch wolgeschmack.
-
-</p>
+        <p> Nim ( m ) die <objectName ref="leber">Leber</objectName> von einem Kappaunen <lb/> hack sie klein mit grünen wolschmeckenden <objectName ref="kraeuter">Kräutern</objectName> <lb/> einem Rindtfeißt <lb/> vnnd mit gestossenem <objectName ref="pfeffer">Pfeffer</objectName> <lb/> vnnd ein wenig Saffran <lb/> auch drey oder vier Eyer darvnter <lb/> versaltz es nicht. Nim ( m ) darnach ein Pfannen <lb/> vnd <objectName ref="butter">Butter</objectName> darein <lb/> mach sie heiß <lb/> vn ( d ) thu die <objectName ref="leber">Leber</objectName> darein <lb/> rürs vmb <lb/> wie ein eyngerürtes <lb/> daß du es nicht anbrennst. Wenn du es eyngerürt hast <lb/> so thu es auff ein saubers Bret <lb/> zertreibs fein voneinander <lb/> Nim ( m ) ein Kälbern <objectName ref="netz">Netz</objectName> <lb/> wickels fein darein <lb/> vnnd mach kleine Würst <lb/> leg sie auff ein Roßt <lb/> vnd brat sie geschwindt hinweg <lb/> vnd gibs flugs auff ein <objectName ref="tisch">Tisch</objectName> <lb/> dieweil sie noch warm sind <lb/> so seind sie gut vnnd auch wolgeschmack. </p>
             </div>
         </body>
     </text>

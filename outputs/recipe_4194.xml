@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>GEbachne Rutten seynd auch gut in süsser Wein= Brühe <lb/> mit eingemachten Citronen <lb/> oder guten Lemonien <lb/> Pomemerantzen <lb/> oder mit Pinioli ; Weinbeer <lb/> gerösten Semmel= Bröslein <lb/> Zucker und süssen Gewürtz angemacht <lb/> doch daß die Säure wohl vorschlägt <lb/> sie seynd kalt und warm gut.</p>
+        <p> GEbachne Rutten seynd auch gut in süsser Wein= <objectName ref="bruehe">Brühe</objectName> <lb/> mit eingemachten Citronen <lb/> oder guten Lemonien <lb/> Pomemerantzen <lb/> oder mit Pinioli; Weinbeer <lb/> gerösten Semmel= Bröslein <lb/> <objectName ref="zucker">Zucker</objectName> und süssen Gewürtz angemacht <lb/> doch daß die Säure wohl vorschlägt <lb/> sie seynd kalt und warm gut. </p>
             </div>
         </body>
     </text>

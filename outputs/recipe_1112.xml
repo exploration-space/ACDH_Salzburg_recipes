@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Take a Quarter of a Pint of Claret, and as much Water, some grated Bread, two or three Heads of Rocambol or Eschallot, a little whole Pepper, Mace, Nutmeg, and Salt. Let this stew very well over the Fire; then beat it up with Butter, and put it under the Wild Fowl, which being under-roasted, will afford Gravy to mix with this Sauce.</p>
+        <p> Take a Quarter of a Pint of Claret, and as much Water, some grated Bread, two or three Heads of Rocambol or Eschallot, a little whole Pepper, Mace, Nutmeg, and Salt. Let this stew very well over the Fire; then beat it up with <objectName ref="butter">Butter</objectName>, and put it under the <objectName ref="wild">Wild</objectName> Fowl, which being under-roasted, will afford Gravy to mix with this <objectName ref="sauce">Sauce</objectName>. </p>
             </div>
         </body>
     </text>

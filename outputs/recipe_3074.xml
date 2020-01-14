@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DArdoffeln <lb/> so noch frisch von der Erden herkommen <lb/> werden sauber gewaschen <lb/> und mit einer neuen scharpffen Birsten den daran hangenden Sand aus etlich Wassern <lb/> Stuck vor Stuck <lb/> sauber abgebutzt <lb/> wann sie aber mit Wachs bekleidt <lb/> so werden sie in heiß Wasser geworffen <lb/> damit das daran hangende Wachs <lb/> sammt der Erden <lb/> sauber davon gebutzt werde <lb/> dann werden sie gleich gantzer <lb/> mit gantzen Zwibel <lb/> Näglein <lb/> und Muscat= Blühe <lb/> gleich den Eyern in Wein gesotten <lb/> und trucken im Servier zu Tisch gegeben <lb/> mit Lemoni <lb/> oder Pfeffer <lb/> Eßig und Oel beygesetzter.</p>
+        <p> DArdoffeln <lb/> so noch frisch von der Erden herkommen <lb/> werden sauber gewaschen <lb/> und mit einer neuen scharpffen Birsten den daran hangenden <objectName ref="sand">Sand</objectName> aus etlich <objectName ref="wasser">Wassern</objectName> <lb/> Stuck vor Stuck <lb/> sauber abgebutzt <lb/> wann sie aber mit <objectName ref="wachs">Wachs</objectName> bekleidt <lb/> so werden sie in heiß <objectName ref="wasser">Wasser</objectName> geworffen <lb/> damit das daran hangende <objectName ref="wachs">Wachs</objectName> <lb/> sammt der Erden <lb/> sauber davon gebutzt werde <lb/> dann werden sie gleich gantzer <lb/> mit gantzen Zwibel <lb/> Näglein <lb/> und Muscat= Blühe <lb/> gleich den Eyern in <objectName ref="wein">Wein</objectName> gesotten <lb/> und trucken im Servier zu <objectName ref="tisch">Tisch</objectName> gegeben <lb/> mit Lemoni <lb/> oder <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Eßig und Oel beygesetzter. </p>
             </div>
         </body>
     </text>

@@ -168,13 +168,7 @@ Willst du einen edlen medizinischen Trank zubereiten, damit dir während des Jah
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WIldu machn̄ ein edels getranck daz
-dir im Jar dhain druͤs werd noch dhain
-aÿttʾ nicht schad So seut wermut in gais
-milch, wen er gesotn̄ ist so seich in durch
-ein duch vnd supff inn dan aus So pist
-tu sicher des Jares von den druͤsen vnd
-auch von den aÿttʾ</p>
+        <p> WIldu machn̄ ein edels getranck daz dir im Jar dhain druͤs werd noch dhain aÿttʾ nicht schad So seut <objectName ref="wermut">wermut</objectName> in gais <objectName ref="milch">milch</objectName>, wen er gesotn̄ ist so seich in durch ein duch vnd supff inn dan aus So pist tu sicher des Jares von den druͤsen vnd auch von den aÿttʾ </p>
             </div>
         </body>
     </text>

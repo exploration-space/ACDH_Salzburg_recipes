@@ -174,9 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>REibe einen Weck <lb/> oder nimm bereits geriebenes Semmel= Mehl <lb/> hacke ein so genanntes Mayen= Kraut <lb/> mische es unter das Semmel= Mehl; gieß heisses Schmaltz daran <lb/> thue einen Löffel voll Mehl dazu <lb/> schlag Eyer darein <lb/> saltze und würtze es mit ein wenig Muscaten= Blüh und Pfeffer <lb/> rühr alles durch einander <lb/> machs aber nicht zu fest; formire Knötlein daraus <lb/> lege sie in eine Fleischbrüh <lb/> laß aber nicht lang sieden <lb/> damit sie nicht zerfahren: Hacke inzwischen oder stosse Petersilien= Kraut klein <lb/> gieß Fleischbrüh daran <lb/> streue Pfeffer und Muscaten= Blüh darein <lb/> laß nur ein wenig aufwallen <lb/> damit die Brüh schön grün verbleibe <lb/> und richte sie dann über die Knötlein <lb/> welche <lb/> so wol als die Brüh <lb/> schön grün werden.
-
-</p>
+        <p> REibe einen Weck <lb/> oder nimm bereits geriebenes Semmel= <objectName ref="mehl">Mehl</objectName> <lb/> hacke ein so genanntes Mayen= <objectName ref="kraut">Kraut</objectName> <lb/> mische es unter das Semmel= <objectName ref="mehl">Mehl</objectName>; gieß heisses Schmaltz daran <lb/> thue einen <objectName ref="loeffel">Löffel</objectName> voll <objectName ref="mehl">Mehl</objectName> dazu <lb/> schlag Eyer darein <lb/> saltze und würtze es mit ein wenig Muscaten= Blüh und <objectName ref="pfeffer">Pfeffer</objectName> <lb/> rühr alles durch einander <lb/> machs aber nicht zu fest; formire Knötlein daraus <lb/> lege sie in eine Fleischbrüh <lb/> laß aber nicht lang sieden <lb/> damit sie nicht zerfahren : Hacke inzwischen oder stosse Petersilien= <objectName ref="kraut">Kraut</objectName> klein <lb/> gieß Fleischbrüh daran <lb/> streue <objectName ref="pfeffer">Pfeffer</objectName> und Muscaten= Blüh darein <lb/> laß nur ein wenig aufwallen <lb/> damit die Brüh schön grün verbleibe <lb/> und richte sie dann über die Knötlein <lb/> welche <lb/> so wol als die Brüh <lb/> schön grün werden. </p>
             </div>
         </body>
     </text>

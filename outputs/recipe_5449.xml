@@ -170,9 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Zisern <lb/> sonderlich braune <lb/> setz sie im Wasser zu <lb/> vnd laß sie wol sieden <lb/> stoß den halben theil <lb/> vnd streichs mit der Brüh <lb/> darinnen sie gesotten haben <lb/> durch <lb/> mach sie ab mit Pfeffer <lb/> Saltz <lb/> Butter <lb/> Pettersilgen Wurtzel <lb/> vnd mit den vbrigen gantzen Zisern <lb/> laß siede(n) <lb/> biß die Pettersilgen Wurtzel gar wirdt. Wiltu sie aber lauter haben <lb/> so darffstu die Zisern nit stossen.
-
-</p>
+        <p> Nim ( m ) Zisern <lb/> sonderlich braune <lb/> setz sie im <objectName ref="wasser">Wasser</objectName> zu <lb/> vnd laß sie wol sieden <lb/> stoß den halben theil <lb/> vnd streichs mit der Brüh <lb/> darinnen sie gesotten haben <lb/> durch <lb/> mach sie ab mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Saltz <lb/> <objectName ref="butter">Butter</objectName> <lb/> Pettersilgen Wurtzel <lb/> vnd mit den vbrigen gantzen Zisern <lb/> laß siede ( n ) <lb/> biß die Pettersilgen Wurtzel gar wirdt. Wiltu sie aber lauter haben <lb/> so darffstu die Zisern nit stossen. </p>
             </div>
         </body>
     </text>

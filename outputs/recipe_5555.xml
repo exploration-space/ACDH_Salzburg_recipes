@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schel Birn <lb/> vnd laß die Stengel daran <lb/> setz mit Wasser auff <lb/> vnd laß sie sieden <lb/> biß sie weich werden <lb/> thu sie auß auff ein Bret <lb/> vnnd laß sie kalt werden. Mach ein Teig darzu von lauter Wein vnd Mehl <lb/> backs fein sauber auß <lb/> so bleiben sie resch <lb/> besträw sie mit Zucker <lb/> vnd gib sie warm auff ein Tisch.</p>
+        <p> Schel Birn <lb/> vnd laß die Stengel daran <lb/> setz mit <objectName ref="wasser">Wasser</objectName> auff <lb/> vnd laß sie sieden <lb/> biß sie weich werden <lb/> thu sie auß auff ein Bret <lb/> vnnd laß sie kalt werden. Mach ein <objectName ref="teig">Teig</objectName> darzu von lauter <objectName ref="wein">Wein</objectName> vnd <objectName ref="mehl">Mehl</objectName> <lb/> backs fein sauber auß <lb/> so bleiben sie resch <lb/> besträw sie mit <objectName ref="zucker">Zucker</objectName> <lb/> vnd gib sie warm auff ein <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

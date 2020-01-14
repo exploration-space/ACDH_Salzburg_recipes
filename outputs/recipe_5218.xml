@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) neuwe Erbeß <lb/> oder Schoten <lb/> quell sie ein wenig in Wasser mit den Hülsen <lb/> kül sie wider auß <lb/> vnd schneidt ein Speck fein dünn <lb/> leg jhn in ein Pfannen <lb/> vnd rößt jn ein wenig <lb/> thu darnach die Erbeß darvnter <lb/> vn(d) rößt sie auch mit <lb/> geuß ein Rindtfleisch oder Hennenbrüh darzu <lb/> thu ein wenig Ingwer vnd Pfeffer darein <lb/> laß darmit eynsieden <lb/> daß ein kurtze Brüh gewinnet <lb/> so wirt es gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) neuwe Erbeß <lb/> oder Schoten <lb/> quell sie ein wenig in <objectName ref="wasser">Wasser</objectName> mit den Hülsen <lb/> kül sie wider auß <lb/> vnd schneidt ein <objectName ref="speck">Speck</objectName> fein dünn <lb/> leg jhn in ein Pfannen <lb/> vnd rößt jn ein wenig <lb/> thu darnach die Erbeß darvnter <lb/> vn ( d ) rößt sie auch mit <lb/> geuß ein Rindtfleisch oder Hennenbrüh darzu <lb/> thu ein wenig <objectName ref="ingwer">Ingwer</objectName> vnd <objectName ref="pfeffer">Pfeffer</objectName> darein <lb/> laß darmit eynsieden <lb/> daß ein kurtze Brüh gewinnet <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>LAsset sechs oder sieben Loth gefeiltes Hirschhorn in einer Maas Wasser so lang sieden <lb/> biß ein Seidlein <lb/> oder etwas mehr <lb/> eingesotten ist <lb/> alsdann seihet solches ab <lb/> und werffet die äusserste gelbe Schelffen von einer Citronen darein <lb/> giesset anderthalb Quintlein der besten Zimmet= und ein Loht Pomerantzenblüh= Wasser daran <lb/> lassets bey gelinder Wärme <lb/> ungefehr einer halben Stunden lang <lb/> stehen ; seihets dann durch <lb/> und giesset <lb/> nach belieben <lb/> Hohlbeer= oder Granaten= Safft daran.</p>
+        <p> LAsset sechs oder sieben <objectName ref="loth">Loth</objectName> gefeiltes <objectName ref="hirschhorn">Hirschhorn</objectName> in einer <objectName ref="maas">Maas</objectName> <objectName ref="wasser">Wasser</objectName> so lang sieden <lb/> biß ein Seidlein <lb/> oder etwas mehr <lb/> eingesotten ist <lb/> alsdann seihet solches ab <lb/> und werffet die äusserste gelbe Schelffen von einer Citronen darein <lb/> giesset anderthalb <objectName ref="quintlein">Quintlein</objectName> der besten Zimmet= und ein Loht Pomerantzenblüh= <objectName ref="wasser">Wasser</objectName> daran <lb/> lassets bey gelinder Wärme <lb/> ungefehr einer halben Stunden lang <lb/> stehen; seihets dann durch <lb/> und giesset <lb/> nach belieben <lb/> Hohlbeer= oder Granaten= Safft daran. </p>
             </div>
         </body>
     </text>

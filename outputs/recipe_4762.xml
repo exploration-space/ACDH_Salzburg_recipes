@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet ein gekocht und übrig= gebliebenes saures Kraut <lb/> thuts in ein Häfelein <lb/> giesset halb Wasser halb Fleischbrüh daran <lb/> lasts aufsieden <lb/> und werfft zu letzt ein wenig Bachschmaltz hinein <lb/> pfefferts <lb/> und richtets über rocken Brod an.</p>
+        <p> NEhmet ein gekocht und übrig= gebliebenes saures <objectName ref="kraut">Kraut</objectName> <lb/> thuts in ein <objectName ref="haefelein">Häfelein</objectName> <lb/> giesset halb <objectName ref="wasser">Wasser</objectName> halb Fleischbrüh daran <lb/> lasts aufsieden <lb/> und werfft zu letzt ein wenig Bachschmaltz hinein <lb/> pfefferts <lb/> und richtets über rocken Brod an. </p>
             </div>
         </body>
     </text>

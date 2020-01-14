@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>HAcket <lb/> oder welches noch besser ist <lb/> schabet erstlich mit einem Messer das Kalbfleisch <lb/> und hacket es erst hernach mit einem guten theil Marck <lb/> und einem kleinen Zwiebelein einer Haselnuß groß <lb/> wohl klein <lb/> thut es zusammen in einen Napff <lb/> und rühret alles wohl unter einander <lb/> würtzets mit Pfeffer <lb/> Muscatnuß <lb/> und ein wenig Saffran; mischt Semmel= Mehl <lb/> und zwey oder drey Löffel voll guten süssen Ram darunter <lb/> brennet ein wenig heisses Schmaltz darüber <lb/> schlaget zwey oder drey Eyer daran <lb/> legets in eine siedende Brüh <lb/> und last sie eine gute Stund sieden.</p>
+        <p> HAcket <lb/> oder welches noch besser ist <lb/> schabet erstlich mit einem <objectName ref="messer">Messer</objectName> das <objectName ref="kalbfleisch">Kalbfleisch</objectName> <lb/> und hacket es erst hernach mit einem guten theil Marck <lb/> und einem kleinen Zwiebelein einer Haselnuß groß <lb/> wohl klein <lb/> thut es zusammen in einen Napff <lb/> und rühret alles wohl unter einander <lb/> würtzets mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Muscatnuß <lb/> und ein wenig Saffran; mischt Semmel= <objectName ref="mehl">Mehl</objectName> <lb/> und zwey oder drey <objectName ref="loeffel">Löffel</objectName> voll guten süssen Ram darunter <lb/> brennet ein wenig heisses Schmaltz darüber <lb/> schlaget zwey oder drey Eyer daran <lb/> legets in eine siedende Brüh <lb/> und last sie eine gute Stund sieden. </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Seud ein saubers Zetl khraut an die stat, brens ein mit mell, vnd Zwifl, als <lb/> Wolt mans gleich auf den tisch geben, thues in ein blechens seich sib, das die brüe <lb/> daruon khombt, seut ein höchten als Wie sonst, schell ihn auß den gräden, <lb/> nimb ein schißl, bestreichs mit Puter, leg Semblschnitl die bäht sein, drauf, <lb/> darnach ein leg höchten, vnd mit dinen Puterblätl ÿberlegt, Pfeffer vnd <lb/> Imber, darnach ein leg khraut, vnd also fort, biß voll ist, geuß ein gueten <lb/> Rämb dran, sez auf ein gluet, laß Sieden, gibs Warmb. <lb/></p>
+        <p> Seud ein saubers Zetl khraut an die stat, brens ein mit mell, vnd Zwifl, als <lb/> Wolt mans gleich auf den <objectName ref="tisch">tisch</objectName> geben, thues in ein blechens seich sib, das die brüe <lb/> daruon khombt, seut ein höchten als Wie sonst, schell ihn auß den gräden, <lb/> nimb ein schißl, bestreichs mit Puter, leg Semblschnitl die bäht sein, drauf, <lb/> darnach ein leg höchten, vnd mit dinen Puterblätl ÿberlegt, <objectName ref="pfeffer">Pfeffer</objectName> vnd <lb/> Imber, darnach ein leg khraut, vnd also fort, biß voll ist, geuß ein gueten <lb/> Rämb dran, sez auf ein gluet, laß Sieden, gibs Warmb. <lb/> </p>
             </div>
         </body>
     </text>

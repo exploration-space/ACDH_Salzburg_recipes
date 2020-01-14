@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BOcks= Bart <lb/> gleich dem Spargel gebrüht <lb/> auch mit Pfeffer <lb/> Oel und Eßig angemacht <lb/> und wie die Spargeln schön angericht.</p>
+        <p> BOcks= Bart <lb/> gleich dem <objectName ref="spargel">Spargel</objectName> gebrüht <lb/> auch mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Oel und Eßig angemacht <lb/> und wie die <objectName ref="spargel">Spargeln</objectName> schön angericht. </p>
             </div>
         </body>
     </text>

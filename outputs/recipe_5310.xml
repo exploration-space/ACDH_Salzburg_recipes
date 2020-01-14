@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) verlorne Eyer <lb/> richt sie in ein Schüssel oder Silber <lb/> nim(m) die Eyerdotter <lb/> ein wenig Erbeßbrüh <lb/> Essig <lb/> vnd ein wenig frische Butter <lb/> rürs durcheinander vmb <lb/> biß daß auffseudt <lb/> saltz es ein wenig <lb/> vnd seig es vber die verlorne Eyer <lb/> setz mit der Schüssel auff Kolen <lb/> vnnd laß wol warm werden <lb/> besträw es mit Ingwer <lb/> oder gib vnter die Brüh grüne wolschmeckende Kräuter <lb/> die klein gehackt seyn <lb/> so wirt es zierlich vnd gut.</p>
+        <p> Nim ( m ) verlorne Eyer <lb/> richt sie in ein <objectName ref="schuessel">Schüssel</objectName> oder <objectName ref="silber">Silber</objectName> <lb/> nim ( m ) die Eyerdotter <lb/> ein wenig Erbeßbrüh <lb/> <objectName ref="essig">Essig</objectName> <lb/> vnd ein wenig frische <objectName ref="butter">Butter</objectName> <lb/> rürs durcheinander vmb <lb/> biß daß auffseudt <lb/> saltz es ein wenig <lb/> vnd seig es vber die verlorne Eyer <lb/> setz mit der <objectName ref="schuessel">Schüssel</objectName> auff Kolen <lb/> vnnd laß wol warm werden <lb/> besträw es mit <objectName ref="ingwer">Ingwer</objectName> <lb/> oder gib vnter die Brüh grüne wolschmeckende <objectName ref="kraeuter">Kräuter</objectName> <lb/> die klein gehackt seyn <lb/> so wirt es zierlich vnd gut. </p>
             </div>
         </body>
     </text>

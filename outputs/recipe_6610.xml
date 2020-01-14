@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Speck gemacht von einem wilden Schwein <lb/> wie man pflegt von einem Eynheimischen zu machen.</p>
+        <p> <objectName ref="speck">Speck</objectName> gemacht von einem wilden Schwein <lb/> wie man pflegt von einem Eynheimischen zu machen. </p>
             </div>
         </body>
     </text>

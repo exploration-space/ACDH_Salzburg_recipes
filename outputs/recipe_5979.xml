@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>LAß die Tauben im gesaltznen Wasser ein wenig anlauffen <lb/> schneids auf dem Rucken ein wenig auf <lb/> mach eine Füll mit gutem Speck <lb/> Zwibel und Basilicum = Kräutlein <lb/> alles unter einander klein gehackt <lb/> darein <lb/> fülle die Tauben darmit <lb/> laß dämpffen mit wenig Fleischbrühe <lb/> Eßig <lb/> Zwibel mit Näglein = besteckter <lb/> wann sie genug gedämpfft <lb/> legs aus <lb/> laß abkühlen <lb/> ziehe es durch abgeschlagene Eyer <lb/> besprengs mit angemachtem geriebenen Brod <lb/> und bachs aus heissem Schmaltz <lb/> garniers mit gebachnen Kräutlein und gebratnen Carbonädlein.</p>
+        <p> LAß die <objectName ref="taube">Tauben</objectName> im gesaltznen <objectName ref="wasser">Wasser</objectName> ein wenig anlauffen <lb/> schneids auf dem Rucken ein wenig auf <lb/> mach eine Füll mit gutem <objectName ref="speck">Speck</objectName> <lb/> Zwibel und Basilicum = Kräutlein <lb/> alles unter einander klein gehackt <lb/> darein <lb/> fülle die <objectName ref="taube">Tauben</objectName> darmit <lb/> laß dämpffen mit wenig <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> Eßig <lb/> Zwibel mit Näglein = besteckter <lb/> wann sie genug gedämpfft <lb/> legs aus <lb/> laß abkühlen <lb/> ziehe es durch abgeschlagene Eyer <lb/> besprengs mit angemachtem geriebenen Brod <lb/> und bachs aus heissem Schmaltz <lb/> garniers mit gebachnen Kräutlein und gebratnen Carbonädlein. </p>
             </div>
         </body>
     </text>

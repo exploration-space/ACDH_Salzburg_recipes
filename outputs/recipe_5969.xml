@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SEtze die Tauben mit Fleischbrühe zu <lb/> verfäums <lb/> gewürtz sie mit Pfeffer und Muscatnuß <lb/> laß sauber gebutzt = und klein = geschnittne Petersil = Wurtzeln darmit sieden <lb/> brenne sie mit weissem Meel <lb/> oder Semmel = Bröslein ein wenig gelb ein <lb/> auf die Letzt wirff auch grüne Petersil = Kräutlein <lb/> und wenig guten Butter darein <lb/> so ist es fertig.</p>
+        <p> SEtze die <objectName ref="taube">Tauben</objectName> mit <objectName ref="fleischbruehe">Fleischbrühe</objectName> zu <lb/> verfäums <lb/> gewürtz sie mit <objectName ref="pfeffer">Pfeffer</objectName> und Muscatnuß <lb/> laß sauber gebutzt = und klein = geschnittne Petersil = Wurtzeln darmit sieden <lb/> brenne sie mit weissem Meel <lb/> oder Semmel = Bröslein ein wenig gelb ein <lb/> auf die Letzt wirff auch grüne Petersil = Kräutlein <lb/> und wenig guten <objectName ref="butter">Butter</objectName> darein <lb/> so ist es fertig. </p>
             </div>
         </body>
     </text>

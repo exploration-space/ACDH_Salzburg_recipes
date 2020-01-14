@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIedet das Fleisch so weit ab <lb/> biß es bald weich werden will; alsdann machet die Majoran= Brüh <lb/> wie selbige über das Rindfleisch Num. 80. zu machen gelehret worden; leget das Fleisch darein <lb/> und last es ferner damit sieden <lb/> biß es recht ist: Wer will kan auch ein wenig geröstetes Brod darüber brennen.</p>
+        <p> SIedet das <objectName ref="fleisch">Fleisch</objectName> so weit ab <lb/> biß es bald weich werden will; alsdann machet die Majoran= Brüh <lb/> wie selbige über das <objectName ref="rindfleisch">Rindfleisch</objectName> Num. 80. zu machen gelehret worden; leget das <objectName ref="fleisch">Fleisch</objectName> darein <lb/> und last es ferner damit sieden <lb/> biß es recht ist : Wer will kan auch ein wenig geröstetes Brod darüber brennen. </p>
             </div>
         </body>
     </text>

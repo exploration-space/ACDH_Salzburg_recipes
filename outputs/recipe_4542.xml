@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneide den Citronat <lb/> welcher in Zucker eingemachet seyn muß <lb/> gar klein <lb/> deßgleichen hacke auch Pistacien= Nüßlein <lb/> feuchte ein Semmel= Mehl mit süssem Wein <lb/> oder sonst einem kräfftigen Wasser an <lb/> und thue alles zusammen in ein Töpfflein ; hernach zuckers und würtze es mit Zimmet <lb/> Cardamomen und Muscatblühe <lb/> und so es vonnöthen <lb/> gieß noch mehr deß Weins darzu <lb/> und laß es noch einmal aufsieden.</p>
+        <p> SChneide den Citronat <lb/> welcher in <objectName ref="zucker">Zucker</objectName> eingemachet seyn muß <lb/> gar klein <lb/> deßgleichen hacke auch Pistacien= Nüßlein <lb/> feuchte ein Semmel= <objectName ref="mehl">Mehl</objectName> mit süssem <objectName ref="wein">Wein</objectName> <lb/> oder sonst einem kräfftigen <objectName ref="wasser">Wasser</objectName> an <lb/> und thue alles zusammen in ein Töpfflein; hernach zuckers und würtze es mit Zimmet <lb/> Cardamomen und Muscatblühe <lb/> und so es vonnöthen <lb/> gieß noch mehr deß Weins darzu <lb/> und laß es noch einmal aufsieden. </p>
             </div>
         </body>
     </text>

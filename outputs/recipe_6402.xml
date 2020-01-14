@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Item <lb/> nim(m) als manche Handt voll Birckenäsch <lb/> als manchen Eymer Bier du hast <lb/> vnd daß sie klein geräden sey <lb/> vn(d) rür deß Biers vnter die Asch <lb/> als dick als ein Muß <lb/> vnnd thu es widerumb in das Faß <lb/> so wirdt ein dick Bier darauß <lb/> vnd frisch.</p>
+        <p> Item <lb/> nim ( m ) als manche Handt voll Birckenäsch <lb/> als manchen Eymer <objectName ref="bier">Bier</objectName> du hast <lb/> vnd daß sie klein geräden sey <lb/> vn ( d ) rür deß Biers vnter die Asch <lb/> als dick als ein Muß <lb/> vnnd thu es widerumb in das Faß <lb/> so wirdt ein dick <objectName ref="bier">Bier</objectName> darauß <lb/> vnd frisch. </p>
             </div>
         </body>
     </text>

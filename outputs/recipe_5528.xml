@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Von einem Eichhorn kanstu nemmen zum Gebraten <lb/> eynmachen <lb/> vnd in ein Pasteten eyngeschlagen <lb/> vnd kalt lassen werden <lb/> so ist es gut vnnd wolgeschmack.</p>
+        <p> Von einem Eichhorn kanstu nemmen zum Gebraten <lb/> eynmachen <lb/> vnd in ein <objectName ref="pastete">Pasteten</objectName> eyngeschlagen <lb/> vnd kalt lassen werden <lb/> so ist es gut vnnd wolgeschmack. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm eine Hand voll Weinbeer <lb/> oder kleine Rosin <lb/> klaube und wasche dieselbe <lb/> stosse sie in einem Mörsel oder Reibtopf klein <lb/> thue ein wenig abgeriebene Mandeln dazu <lb/> oder an deren statt einen gebähten Semmelschnitten in Wein geweicht: treib alles hernach mit Wein durch einen Durchschlag oder Seiher; würtze es mit Zucker und Zimmet <lb/> laß nur ein wenig sieden <lb/> und richts über weiß gebähtes Brod.</p>
+        <p> NImm eine Hand voll Weinbeer <lb/> oder kleine Rosin <lb/> klaube und wasche dieselbe <lb/> stosse sie in einem Mörsel oder Reibtopf klein <lb/> thue ein wenig abgeriebene <objectName ref="mandeln">Mandeln</objectName> dazu <lb/> oder an deren statt einen gebähten <objectName ref="semmelschnitten">Semmelschnitten</objectName> in <objectName ref="wein">Wein</objectName> geweicht : treib alles hernach mit <objectName ref="wein">Wein</objectName> durch einen <objectName ref="durchschlag">Durchschlag</objectName> oder <objectName ref="seiher">Seiher</objectName>; würtze es mit <objectName ref="zucker">Zucker</objectName> und Zimmet <lb/> laß nur ein wenig sieden <lb/> und richts über weiß gebähtes Brod. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Diese müssen <lb/> wie die Gold= Hand N°. 3. in diesem Capitel beschrieben seynd <lb/> angemacht werden <lb/> allein muß man ein Meel einbrennen <lb/> und kühl in Taig giessen <lb/> wann er angemacht ist <lb/> so muß er auch so dünn seyn <lb/> fast wie ein anderer Strauben= Taig <lb/> auch soll man nur dreymal mit dem Strauben= Löffel herum fahren in der Pfann oder Schmaltz <lb/> und nicht so offt <lb/> wie zu andern Strauben; jedoch nachdem die Pfann groß ist.</p>
+        <p> Diese müssen <lb/> wie die Gold= Hand N°. 3. in diesem Capitel beschrieben seynd <lb/> angemacht werden <lb/> allein muß man ein Meel einbrennen <lb/> und kühl in Taig giessen <lb/> wann er angemacht ist <lb/> so muß er auch so dünn seyn <lb/> fast wie ein anderer Strauben= Taig <lb/> auch soll man nur dreymal mit dem Strauben= <objectName ref="loeffel">Löffel</objectName> herum fahren in der Pfann oder Schmaltz <lb/> und nicht so offt <lb/> wie zu andern <objectName ref="strauben">Strauben</objectName>; jedoch nachdem die Pfann groß ist. </p>
             </div>
         </body>
     </text>

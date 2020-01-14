@@ -174,9 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChäle zwey oder drey Aepffel <lb/> hacke sie klein <lb/> rösts im Schmaltz mit ein wenig Semmel= Mehl <lb/> würtze sie mit Pfeffer <lb/> Muscatnuß <lb/> Cardamomen und ein wenig Saffran; rühre etwas von sauber geklaubt= und gewaschenen Weinbeerlein darunter <lb/> und fülls dann in die zubereite Brust.<gap/>
-
-<gap/> Mit dieser Füll kan man auch ein junges Hünlein füllen.</p>
+        <p> SChäle zwey oder drey Aepffel <lb/> hacke sie klein <lb/> rösts im Schmaltz mit ein wenig Semmel= <objectName ref="mehl">Mehl</objectName> <lb/> würtze sie mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Muscatnuß <lb/> Cardamomen und ein wenig Saffran; rühre etwas von sauber geklaubt= und gewaschenen Weinbeerlein darunter <lb/> und fülls dann in die zubereite <objectName ref="brust">Brust</objectName>. <gap/> <gap/> Mit dieser Füll kan man auch ein junges Hünlein füllen. </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Rutten <lb/> die mit grün Pettersilgen gesotten seyn <lb/> thu sie in ein Mörsel <lb/> vnd stoß sie mit gebehten Schnitten von eine(m) Weck <lb/> treibs mit guter Erbeßbrüh durch <lb/> machs ab mit Pfeffer vn(d) Saffran <lb/> schmältz vn(d) saltzs <lb/> vnd laß es damit sieden <lb/> so wirt es gut vnd wolgeschmack. Du magst auch die Ruttenleber darein thun <lb/> vnd mit sieden lassen.</p>
+        <p> Nim ( m ) Rutten <lb/> die mit grün Pettersilgen gesotten seyn <lb/> thu sie in ein Mörsel <lb/> vnd stoß sie mit gebehten Schnitten von eine ( m ) Weck <lb/> treibs mit guter Erbeßbrüh durch <lb/> machs ab mit <objectName ref="pfeffer">Pfeffer</objectName> vn ( d ) Saffran <lb/> schmältz vn ( d ) saltzs <lb/> vnd laß es damit sieden <lb/> so wirt es gut vnd wolgeschmack. Du magst auch die <objectName ref="ruttenleber">Ruttenleber</objectName> darein thun <lb/> vnd mit sieden lassen. </p>
             </div>
         </body>
     </text>

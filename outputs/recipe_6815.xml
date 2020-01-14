@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Auch zum backen seind sie nicht böß <lb/> es sey in einem Pfeffer <lb/> oder sonst zum eynmachen <lb/> wen(n) sie schier gebacken seindt <lb/> so kan man sie wol eynmachen mit Erbsbrüh vnd Butter <lb/> ist es gut vnd säurlicht.</p>
+        <p> Auch zum backen seind sie nicht böß <lb/> es sey in einem <objectName ref="pfeffer">Pfeffer</objectName> <lb/> oder sonst zum eynmachen <lb/> wen ( n ) sie schier gebacken seindt <lb/> so kan man sie wol eynmachen mit Erbsbrüh vnd <objectName ref="butter">Butter</objectName> <lb/> ist es gut vnd säurlicht. </p>
             </div>
         </body>
     </text>

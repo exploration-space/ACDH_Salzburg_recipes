@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Sein halb od(er) <lb/> ganz, geuß wein daran, nimb etlich zugger <lb/> daran, nimb farb tiecher, so werdens roth, <lb/> laß woll ein sieden, gibs khalt, Salz nit. <lb/></p>
+        <p> Sein halb od ( er ) <lb/> ganz, geuß <objectName ref="wein">wein</objectName> daran, nimb etlich zugger <lb/> daran, nimb farb tiecher, so werdens roth, <lb/> laß woll ein sieden, gibs khalt, <objectName ref="salz">Salz</objectName> nit. <lb/> </p>
             </div>
         </body>
     </text>

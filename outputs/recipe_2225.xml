@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schöll die Mandl, stosß mit Rosenwasser, machs mit Aÿrn an, thue <lb/> Zukher drunder, mach ein äffen taig an, Welg ihn din auß, fühl die <lb/> Mandl drein, Wie die Refellel, bachs khiel, das sie Weiß bleiben. <lb/></p>
+        <p> Schöll die Mandl, stosß mit <objectName ref="rosenwasser">Rosenwasser</objectName>, machs mit Aÿrn an, thue <lb/> Zukher drunder, mach ein äffen taig an, Welg ihn din auß, fühl die <lb/> Mandl drein, Wie die Refellel, bachs khiel, das sie Weiß bleiben. <lb/> </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein woll zeitigen apffl muß aber <lb/> nicht würmig sein schelle den Sauber <lb/> vnd schneide denselben auf der mütten von ein <lb/> ander henge die .2. theil zu sammen an <lb/> ein langen Spagat aber daß er nicht gar auf <lb/> den Poden hanget, miesßen aber die kern <lb/> aus dem apffl Sauber herauß geschnidten <lb/><lb/> werden, muß auch ein Pleyene kügl dar,, <lb/> zue hengen damit der apfl auf den Poden <lb/> Pleibet, hernach vermach den Spundt woll, da <lb/> verliehrt der wein allen schlimmen geschmachen <lb/> vnd nimbt an sich den natirlichen geruch diß <lb/> kanst in alle vasßer thuen, wirst die <lb/> würkhung sehen vnd den wein gut befindten <lb/></p>
+        <p> Nimb ein woll zeitigen apffl muß aber <lb/> nicht würmig sein schelle den Sauber <lb/> vnd schneide denselben auf der mütten von ein <lb/> ander henge die.2. theil zu sammen an <lb/> ein langen <objectName ref="spagat">Spagat</objectName> aber daß er nicht gar auf <lb/> den Poden hanget, miesßen aber die kern <lb/> aus dem apffl Sauber herauß geschnidten <lb/><lb/> werden, muß auch ein Pleyene kügl dar,, <lb/> zue hengen damit der apfl auf den Poden <lb/> Pleibet, hernach vermach den Spundt woll, da <lb/> verliehrt der <objectName ref="wein">wein</objectName> allen schlimmen geschmachen <lb/> vnd nimbt an sich den natirlichen geruch diß <lb/> kanst in alle vasßer thuen, wirst die <lb/> würkhung sehen vnd den <objectName ref="wein">wein</objectName> gut befindten <lb/> </p>
             </div>
         </body>
     </text>

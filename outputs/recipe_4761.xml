@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChälet den Knoblauch <lb/> lasst ihn zugedeckt in Essig ligen <lb/> stosset Mandeln klein <lb/> nehmet den Knoblauch aus dem Essig <lb/> stosset ihn darunter <lb/> giesset Fleischbrüh daran <lb/> gilbts <lb/> zuckerts <lb/> und würtzet es mit Pfeffer; sauert es mit ein wenig Wein <lb/> lassts sieden <lb/> und richtets über geröstete Schnitten von einem Weck oder Semmel an.</p>
+        <p> SChälet den <objectName ref="knoblauch">Knoblauch</objectName> <lb/> lasst ihn zugedeckt in <objectName ref="essig">Essig</objectName> ligen <lb/> stosset <objectName ref="mandeln">Mandeln</objectName> klein <lb/> nehmet den <objectName ref="knoblauch">Knoblauch</objectName> aus dem <objectName ref="essig">Essig</objectName> <lb/> stosset ihn darunter <lb/> giesset Fleischbrüh daran <lb/> gilbts <lb/> zuckerts <lb/> und würtzet es mit <objectName ref="pfeffer">Pfeffer</objectName>; sauert es mit ein wenig <objectName ref="wein">Wein</objectName> <lb/> lassts sieden <lb/> und richtets über geröstete Schnitten von einem Weck oder Semmel an. </p>
             </div>
         </body>
     </text>

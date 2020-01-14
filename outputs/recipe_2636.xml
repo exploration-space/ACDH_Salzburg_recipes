@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZErtreibe zwey Eyerdottern <lb/> gieß eine Maas Kern oder süsse dick= abgenommene Milch daran <lb/> laß mit stetigem rühren aufsieden : alsdann saltze es ein klein wenig <lb/> zuckers <lb/> und richte es über weisses würfftlicht= geschnittenes oder gebähtes Brod an.</p>
+        <p> ZErtreibe zwey Eyerdottern <lb/> gieß eine <objectName ref="maas">Maas</objectName> Kern oder süsse dick= abgenommene <objectName ref="milch">Milch</objectName> daran <lb/> laß mit stetigem rühren aufsieden : alsdann saltze es ein klein wenig <lb/> zuckers <lb/> und richte es über weisses würfftlicht= geschnittenes oder gebähtes Brod an. </p>
             </div>
         </body>
     </text>

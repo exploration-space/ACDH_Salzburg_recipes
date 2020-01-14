@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ELsenbeer <lb/> so wol zeitig <lb/> gibt man auch mit Zucker und Wein <lb/> wie die Erdbeer mit Zucker bestreut zu Tisch.</p>
+        <p> ELsenbeer <lb/> so wol zeitig <lb/> gibt man auch mit <objectName ref="zucker">Zucker</objectName> und <objectName ref="wein">Wein</objectName> <lb/> wie die Erdbeer mit <objectName ref="zucker">Zucker</objectName> bestreut zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

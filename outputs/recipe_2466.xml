@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet ein gut theil Rinds= oder Ochsen= Marck <lb/> rühret ein paar Löffel voll schönes Mehl darunter <lb/> streuet Ingber <lb/> Pfeffer <lb/> Muscatenblüh und Saffran darein <lb/> schlaget zwey oder drey Eyer daran; rühret die Füll wohl durch einander <lb/> und formiret Knötlein daraus <lb/> in der grösse wie Tauben Eyer <lb/> legets in eine Brüh <lb/> lassets allgemach <lb/> und etwan eine viertel Stund lang <lb/> sieden. </p>
+        <p> NEhmet ein gut theil Rinds= oder Ochsen= Marck <lb/> rühret ein paar <objectName ref="loeffel">Löffel</objectName> voll schönes <objectName ref="mehl">Mehl</objectName> darunter <lb/> streuet Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Muscatenblüh und Saffran darein <lb/> schlaget zwey oder drey Eyer daran; rühret die Füll wohl durch einander <lb/> und formiret Knötlein daraus <lb/> in der grösse wie <objectName ref="taube">Tauben</objectName> Eyer <lb/> legets in eine Brüh <lb/> lassets allgemach <lb/> und etwan eine viertel Stund lang <lb/> sieden. </p>
             </div>
         </body>
     </text>

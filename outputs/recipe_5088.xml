@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIeser wird gescheelter <lb/> oder auch mit seiner Haut <lb/> in einer sauren Wacholder= oder Kronabet= Brühe <lb/> oder in gelben Kreen <lb/> mit weniger Erbes= Brühe <lb/> Gewürtz und Butter gegeben.</p>
+        <p> DIeser wird gescheelter <lb/> oder auch mit seiner Haut <lb/> in einer sauren Wacholder= oder Kronabet= <objectName ref="bruehe">Brühe</objectName> <lb/> oder in gelben Kreen <lb/> mit weniger Erbes= <objectName ref="bruehe">Brühe</objectName> <lb/> Gewürtz und <objectName ref="butter">Butter</objectName> gegeben. </p>
             </div>
         </body>
     </text>

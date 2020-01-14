@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim der bittern Mandeln <lb/> vnd Pertram <lb/> vnd thu die in kalt Wasser <lb/> daß die Haut darab geschelet <lb/> vnd klein geschnitten werd <lb/> vnnd in Wein gelegt <lb/> das ist bewert durch den Autorem dieses Buchs.</p>
+        <p> Nim der bittern <objectName ref="mandeln">Mandeln</objectName> <lb/> vnd Pertram <lb/> vnd thu die in kalt <objectName ref="wasser">Wasser</objectName> <lb/> daß die Haut darab geschelet <lb/> vnd klein geschnitten werd <lb/> vnnd in <objectName ref="wein">Wein</objectName> gelegt <lb/> das ist bewert durch den Autorem dieses Buchs. </p>
             </div>
         </body>
     </text>

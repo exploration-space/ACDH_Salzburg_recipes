@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim den Salm <lb/> vnd seudt jn gar an die statt <lb/> thu jn auß der Brüh <lb/> vnd brich jn stückweiß in eine Schüssel <lb/> seig darüber ein wenig Erbsbrüh <lb/> thu darein frische Butter <lb/> die vngeschmältzt ist <lb/> vnd laß damit in der Schüssel auffsieden <lb/> thu ein wenig Senff <lb/> der mit Essig angemacht ist <lb/> darüber <lb/> vnnd laß von stundt an auff ein Tisch tragen <lb/> so ist es gut vnnd auch wolgeschmack.</p>
+        <p> Nim den Salm <lb/> vnd seudt jn gar an die statt <lb/> thu jn auß der Brüh <lb/> vnd brich jn stückweiß in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> seig darüber ein wenig Erbsbrüh <lb/> thu darein frische <objectName ref="butter">Butter</objectName> <lb/> die vngeschmältzt ist <lb/> vnd laß damit in der <objectName ref="schuessel">Schüssel</objectName> auffsieden <lb/> thu ein wenig Senff <lb/> der mit <objectName ref="essig">Essig</objectName> angemacht ist <lb/> darüber <lb/> vnnd laß von stundt an auff ein <objectName ref="tisch">Tisch</objectName> tragen <lb/> so ist es gut vnnd auch wolgeschmack. </p>
             </div>
         </body>
     </text>

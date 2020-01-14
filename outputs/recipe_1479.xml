@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm überbrühte Prüselein  <lb/> schneid es zu Stucken <lb/> gewürtz mit Saltz <lb/> Pfeffer <lb/> Muscatnuß oder Blühe <lb/> und klein=geschnittnen frischen Rosmarin <lb/> so es beliebt <lb/> auch Petersil <lb/> dann röste dises mit klein=gehackten Zwibel in Butter <lb/> und hacke oder schneide es hernach auf einem Hackbrett klein <lb/> mische darunter ausgelößte Krebs=Schweifflein <lb/> Pinioli oder Pisdatzi, was du willst <lb/> und füll es mit ein wenig frischen Butter gebührender massen in kleine Pastetlein <lb/> von Butter oder mürben Taig <lb/> sie seynd allweg gut <lb/> solle aber auch gleich von dem Ofen aufgetragen werden.</p>
+        <p> NImm überbrühte Prüselein <lb/> schneid es zu Stucken <lb/> gewürtz mit Saltz <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Muscatnuß oder Blühe <lb/> und klein=geschnittnen frischen <objectName ref="rosmarin">Rosmarin</objectName> <lb/> so es beliebt <lb/> auch Petersil <lb/> dann röste dises mit klein=gehackten Zwibel in <objectName ref="butter">Butter</objectName> <lb/> und hacke oder schneide es hernach auf einem <objectName ref="hackbrett">Hackbrett</objectName> klein <lb/> mische darunter ausgelößte Krebs=Schweifflein <lb/> Pinioli oder Pisdatzi, was du willst <lb/> und füll es mit ein wenig frischen <objectName ref="butter">Butter</objectName> gebührender massen in kleine Pastetlein <lb/> von <objectName ref="butter">Butter</objectName> oder mürben Taig <lb/> sie seynd allweg gut <lb/> solle aber auch gleich von dem <objectName ref="ofen">Ofen</objectName> aufgetragen werden. </p>
             </div>
         </body>
     </text>

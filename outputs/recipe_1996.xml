@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Weiß Rueber, schneids Zu blätl, geuß ein Wölligs Wasser <lb/> dran, seud sie, das Waich werden, hakhs khlain, nimb gestossen <lb/> Mandl Rosenwasser vnd 2. aÿr, ein löffl voll Zukher, eines <lb/><lb/> (20r) aÿr groß ein buter, ein khlein geschnitnen Zwifl, ein Wenig <lb/> Salz, Ingber vnd pfeffer alles durcheinander gerührt, sez auf <lb/> ein gluet, das es sich ein wenig anzeucht, schlags hernach ein. <lb/></p>
+        <p> Nimb Weiß Rueber, schneids Zu blätl, geuß ein Wölligs <objectName ref="wasser">Wasser</objectName> <lb/> dran, seud sie, das Waich werden, hakhs khlain, nimb gestossen <lb/> Mandl <objectName ref="rosenwasser">Rosenwasser</objectName> vnd 2. aÿr, ein löffl voll Zukher, eines <lb/><lb/> ( 20r ) aÿr groß ein buter, ein khlein geschnitnen Zwifl, ein Wenig <lb/> <objectName ref="salz">Salz</objectName>, Ingber vnd <objectName ref="pfeffer">pfeffer</objectName> alles durcheinander gerührt, sez auf <lb/> ein gluet, das es sich ein wenig anzeucht, schlags hernach ein. <lb/> </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Kästen <lb/> vn(d) schel sie <lb/> stoß sie in einem Mörsel <lb/> biß sie klein werden <lb/> streich sie mit warmen Wasser durch <lb/> setz sie auff mit weissem Zucker <lb/> d(aß) süß wirdt <lb/> vnd wenns auffgesotten hat <lb/> so thu ein wenig Rosenwasser darein <lb/> so wirt es gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) Kästen <lb/> vn ( d ) schel sie <lb/> stoß sie in einem Mörsel <lb/> biß sie klein werden <lb/> streich sie mit warmen <objectName ref="wasser">Wasser</objectName> durch <lb/> setz sie auff mit weissem <objectName ref="zucker">Zucker</objectName> <lb/> d ( aß ) süß wirdt <lb/> vnd wenns auffgesotten hat <lb/> so thu ein wenig <objectName ref="rosenwasser">Rosenwasser</objectName> darein <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

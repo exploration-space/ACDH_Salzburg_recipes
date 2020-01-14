@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe gebutzte Tauben <lb/> werden nach Belieben zerstuckt <lb/> zerhackt <lb/> oder geschnitten <lb/> laß guten Butter in dem Casserol zergehen <lb/> wirff ein wenig weiß Meel <lb/> sammt denen Tauben darein <lb/> gewürtz mit wenig Pfeffer <lb/> Imber und Muscatnuß <lb/> auch wenig Saltz und Saffran <lb/> gieß Fleischbrühe <lb/> mit wenig Wein daran <lb/> und laß zimlich einsieden <lb/> den Faum herab; wanns bald fertig und recht in dem Geschmack und Dicken <lb/> so gib den Geruch mit guter Lemoni = Schaalen <lb/> und mit dergleichen Safft; richts in die Schüssel <lb/> und gibs.</p>
+        <p> DIe gebutzte <objectName ref="taube">Tauben</objectName> <lb/> werden nach Belieben zerstuckt <lb/> zerhackt <lb/> oder geschnitten <lb/> laß guten <objectName ref="butter">Butter</objectName> in dem Casserol zergehen <lb/> wirff ein wenig weiß Meel <lb/> sammt denen <objectName ref="taube">Tauben</objectName> darein <lb/> gewürtz mit wenig <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber und Muscatnuß <lb/> auch wenig Saltz und Saffran <lb/> gieß <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> mit wenig <objectName ref="wein">Wein</objectName> daran <lb/> und laß zimlich einsieden <lb/> den Faum herab; wanns bald fertig und recht in dem Geschmack und Dicken <lb/> so gib den Geruch mit guter Lemoni = Schaalen <lb/> und mit dergleichen Safft; richts in die <objectName ref="schuessel">Schüssel</objectName> <lb/> und gibs. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAch einen guten Aepffel= Koch <lb/> und rühre darunter kleine gestossene Mandel <lb/> Zucker <lb/> Zimmet <lb/> und Lemoni= Schaalen <lb/> oder eingemachte Citronen <lb/> mit oder ohne Rosinen; mach einen schönen Ausschnitt <lb/> bestreichs mit Eyern <lb/> und bache es.</p>
+        <p> MAch einen guten Aepffel= Koch <lb/> und rühre darunter kleine gestossene Mandel <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet <lb/> und Lemoni= Schaalen <lb/> oder eingemachte Citronen <lb/> mit oder ohne <objectName ref="rosinen">Rosinen</objectName>; mach einen schönen Ausschnitt <lb/> bestreichs mit Eyern <lb/> und bache es. </p>
             </div>
         </body>
     </text>

@@ -175,9 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>thue die hiener oder Copaun<gap/>, in ein dopf<gap/>, <lb/> gieß<gap/> waßer daran, Salz nit vill, laß ein <lb/> weill<gap/> sieden<gap/>, gieß<gap/> daß wasser ab, vnd guetten <lb/><lb/> (12v) Wein daran, vnd ein wenig Fleischprie<gap/>, <lb/> gewierz<gap/> mit zimmet<gap/>, Nägl<gap/>, Mußgäb:<gap/> thue <lb/> khleine weinpierl<gap/> darein, wenig Zugger<gap/>, <lb/> gilbs<gap/> mit Saffran<gap/>, und laß also khochen, <lb/> sie werden Marb<gap/>. <lb/>
-
-[Anm.: ‚Mußgäb:“ steht als Abkürzung für Muskatblüte.]</p>
+        <p> thue die hiener oder Copaun<gap/>, in ein dopf<gap/>, <lb/> gieß<gap/> waßer daran, <objectName ref="salz">Salz</objectName> nit vill, laß ein <lb/> weill<gap/> sieden<gap/>, gieß<gap/> daß <objectName ref="wasser">wasser</objectName> ab, vnd guetten <lb/><lb/> ( 12v ) <objectName ref="wein">Wein</objectName> daran, vnd ein wenig Fleischprie<gap/>, <lb/> gewierz<gap/> mit zimmet<gap/>, Nägl<gap/>, Mußgäb : <gap/> thue <lb/> khleine weinpierl<gap/> darein, wenig Zugger<gap/>, <lb/> gilbs<gap/> mit Saffran<gap/>, und laß also khochen, <lb/> sie werden Marb<gap/>. <lb/> [ Anm. : ‚Mußgäb : “ steht als Abkürzung für <objectName ref="muskatbluete">Muskatblüte</objectName>. ] </p>
             </div>
         </body>
     </text>

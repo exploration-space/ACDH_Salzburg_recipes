@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Marillen gescheelt <lb/> ausgekernt <lb/> mit wenig Wein und viel Zucker <lb/> und gantzen Zimmet und Nägelein kurtz gekocht; doch bey dem Anrichten <lb/> das gantze Gewürtz darvon genommen <lb/> und mit Zucker bestreut.</p>
+        <p> Marillen gescheelt <lb/> ausgekernt <lb/> mit wenig <objectName ref="wein">Wein</objectName> und viel <objectName ref="zucker">Zucker</objectName> <lb/> und gantzen Zimmet und Nägelein kurtz gekocht; doch bey dem Anrichten <lb/> das gantze Gewürtz darvon genommen <lb/> und mit <objectName ref="zucker">Zucker</objectName> bestreut. </p>
             </div>
         </body>
     </text>

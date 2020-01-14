@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Zeuch dem höchten die haut ab, den khopf nimb daruon, schell <lb/> das fleisch von dem grad, vnd hakhs khlein, darnach stups <lb/> mit Pfeffer, Imber, Nägelstup, nimb das Iner von <lb/> Pomeränzen oder Lemoni, ein Wenig Zukher, ein hand <lb/> voll Zibären, thue die khernl darauß, vnd salzs, rührs <lb/> durcheinander, darnach formiers Zum visch, machs in <lb/> die haut, vnd brats, bestekhs mit Mandl. <lb/> Wen du grüene Zwëspen wilt bachen, so schell ihnen die <lb/> haut ab, darnach mach ein taigl an mit milch vnd Wein <lb/> vnd gueten Semblmell, salzs vnd Zuggers, thue die <lb/> Zwespen drein, vnd bachs. <lb/></p>
+        <p> Zeuch dem höchten die haut ab, den khopf nimb daruon, schell <lb/> das <objectName ref="fleisch">fleisch</objectName> von dem grad, vnd hakhs khlein, darnach stups <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName>, Imber, Nägelstup, nimb das Iner von <lb/> Pomeränzen oder Lemoni, ein Wenig Zukher, ein hand <lb/> voll Zibären, thue die khernl darauß, vnd salzs, rührs <lb/> durcheinander, darnach formiers Zum visch, machs in <lb/> die haut, vnd brats, bestekhs mit Mandl. <lb/> Wen du grüene Zwëspen wilt bachen, so schell ihnen die <lb/> haut ab, darnach mach ein taigl an mit <objectName ref="milch">milch</objectName> vnd <objectName ref="wein">Wein</objectName> <lb/> vnd gueten Semblmell, salzs vnd Zuggers, thue die <lb/> Zwespen drein, vnd bachs. <lb/> </p>
             </div>
         </body>
     </text>

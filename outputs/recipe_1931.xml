@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>So nimb Weinbörl, Zibeben vnd Mandl, eins souill als <lb/> des andern, Wasch die Weinbörl, schell die Mandl, Zibeben, <lb/> schneid, dan nimbs durcheinander, hakhe es, Wie lung= <lb/> mueß, vnd nimb ein herte Sembl, stösß, vnd röst die <lb/> Sembl im schmalz, nimb das gehakht auch darzue, geuß <lb/> ein raifl daran, stups mit gueten linden gewürz, vnd <lb/> Zukhers, laß also Sieden ein guete Weill, das dikh Wird, den <lb/> so richts an, ist gar guet. <lb/></p>
+        <p> So nimb Weinbörl, <objectName ref="zibeben">Zibeben</objectName> vnd Mandl, eins souill als <lb/> des andern, Wasch die Weinbörl, schell die Mandl, <objectName ref="zibeben">Zibeben</objectName>, <lb/> schneid, dan nimbs durcheinander, hakhe es, Wie lung= <lb/> mueß, vnd nimb ein herte Sembl, stösß, vnd röst die <lb/> Sembl im <objectName ref="schmalz">schmalz</objectName>, nimb das gehakht auch darzue, geuß <lb/> ein raifl daran, stups mit gueten linden gewürz, vnd <lb/> Zukhers, laß also Sieden ein guete Weill, das dikh Wird, den <lb/> so richts an, ist gar guet. <lb/> </p>
             </div>
         </body>
     </text>

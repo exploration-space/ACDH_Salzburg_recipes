@@ -170,11 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Item <lb/> nim drey oder vier Schnitten gebranntes Brots <lb/> vnd thu das in ein Säcklein <lb/> vnd henck es in den Wein <lb/> ehe daß er geret <lb/> acht tag <lb/> so gewinnet er einen brünseten geschmack <lb/> den jederman lobet.
-
-Item <lb/> nim Weitzenaschen <lb/> vnd thu den in ein Faß <lb/> gegen dem vierdten theil <lb/> vnd laß den neuwen Wein darauff als lang <lb/> biß er vergert <lb/> denn laß jn ab in ein ander Faß <lb/> so hastu einen guten natürlichen Wein.
-
-Item <lb/> nim einen Wacholderstecken <lb/> von der Spundten biß auff den Boden <lb/> behe den in einem Feuwer <lb/> vnd zeuch die öberst Rinden ab <lb/> vnd thu jn als warm in das Faß <lb/> laß jn darinnen <lb/> so wirt er brentzlen <lb/> vnd gar gut.</p>
+        <p> Item <lb/> nim drey oder vier Schnitten gebranntes Brots <lb/> vnd thu das in ein <objectName ref="saecklein">Säcklein</objectName> <lb/> vnd henck es in den <objectName ref="wein">Wein</objectName> <lb/> ehe daß er geret <lb/> acht tag <lb/> so gewinnet er einen brünseten geschmack <lb/> den jederman lobet. Item <lb/> nim Weitzenaschen <lb/> vnd thu den in ein Faß <lb/> gegen dem vierdten theil <lb/> vnd laß den neuwen <objectName ref="wein">Wein</objectName> darauff als lang <lb/> biß er vergert <lb/> denn laß jn ab in ein ander Faß <lb/> so hastu einen guten natürlichen <objectName ref="wein">Wein</objectName>. Item <lb/> nim einen <objectName ref="wacholderstecken">Wacholderstecken</objectName> <lb/> von der Spundten biß auff den Boden <lb/> behe den in einem Feuwer <lb/> vnd zeuch die öberst Rinden ab <lb/> vnd thu jn als warm in das Faß <lb/> laß jn darinnen <lb/> so wirt er brentzlen <lb/> vnd gar gut. </p>
             </div>
         </body>
     </text>

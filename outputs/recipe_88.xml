@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Erstlich siedt<gap/> die schneckhen, vnnd <lb/> salz ein, vnnd schneid Ein spöckh <lb/> khlein, vnnd spickh<gap/> Die schneckhen darmit <lb/><lb/> (ve 35) steckh es in ein khleines hilzens<gap/> <lb/> spissl, vnnd lege es auf den rost, <lb/> träpf<gap/> es mit butter, vnnd besähe<gap/> <lb/> es mit semmel Preßl<gap/>, olso seind <lb/> sye bereith. <lb/></p>
+        <p> Erstlich siedt<gap/> die schneckhen, vnnd <lb/> <objectName ref="salz">salz</objectName> ein, vnnd schneid Ein spöckh <lb/> khlein, vnnd spickh<gap/> Die schneckhen darmit <lb/><lb/> ( ve 35 ) steckh es in ein khleines hilzens<gap/> <lb/> spissl, vnnd lege es auf den <objectName ref="rost">rost</objectName>, <lb/> träpf<gap/> es mit <objectName ref="butter">butter</objectName>, vnnd besähe<gap/> <lb/> es mit semmel Preßl<gap/>, olso seind <lb/> sye bereith. <lb/> </p>
             </div>
         </body>
     </text>

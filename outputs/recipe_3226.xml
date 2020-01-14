@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn sie zerhackt wird <lb/> so kan man sie <lb/> dem vorgeschriebenen Halß <lb/> oder Vorschlag gleich verkochen ; wird sie aber gantz gelassen <lb/> so fülle sie mit einem guten Bratwürst= Gehäck <lb/> oder mit einem feisten Wildprät= Gehäck von dem Rehfleisch <lb/> planschiere sie auf dem Rost <lb/> oder in siedigem Wasser <lb/> und spicke sie sauber <lb/> brats im Safft <lb/> und gibs mit einer Sardellen= Agres= oder unzeitigen Weintrauben= Brühe sauer <lb/> oder mit Maulbeer= Weichsel= oder Weinschäidlein= Safft <lb/> u. süß.</p>
+        <p> WAnn sie zerhackt wird <lb/> so kan man sie <lb/> dem vorgeschriebenen Halß <lb/> oder Vorschlag gleich verkochen; wird sie aber gantz gelassen <lb/> so fülle sie mit einem guten Bratwürst= <objectName ref="gehaeck">Gehäck</objectName> <lb/> oder mit einem <objectName ref="feisten">feisten</objectName> Wildprät= <objectName ref="gehaeck">Gehäck</objectName> von dem <objectName ref="rehfleisch">Rehfleisch</objectName> <lb/> planschiere sie auf dem <objectName ref="rost">Rost</objectName> <lb/> oder in siedigem <objectName ref="wasser">Wasser</objectName> <lb/> und spicke sie sauber <lb/> brats im Safft <lb/> und gibs mit einer Sardellen= Agres= oder unzeitigen Weintrauben= <objectName ref="bruehe">Brühe</objectName> sauer <lb/> oder mit Maulbeer= Weichsel= oder Weinschäidlein= Safft <lb/> u. süß. </p>
             </div>
         </body>
     </text>

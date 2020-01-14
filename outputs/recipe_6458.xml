@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m)  Epffel <lb/>  schel vnd schneidt sie viertheilweiß <lb/>  schneidt den butzen auß <lb/>  mach ein Teig darzu von Wein oder Milch <lb/>  thu die Epffel <lb/>  die du geschnitten hast <lb/> darein <lb/> Nim(m) ein Pfanne mit Butter <lb/> mach sie wol heiß <lb/> zeuch die Epffel mit dem Teig hinein <lb/> thu sie fein voneinander <lb/> daß die Butter kann durchauß kommen <lb/> vnd durchauß backen <lb/> kehrs offt vmb <lb/> vnd verbrenn esnicht <lb/>  gibs warm auff ein Tisch <lb/>  vnd besträw es mit Zucker <lb/>  so nen(n)et man es ein Epffel Strauben.</p>
+        <p> Nim ( m ) Epffel <lb/> schel vnd schneidt sie viertheilweiß <lb/> schneidt den butzen auß <lb/> mach ein <objectName ref="teig">Teig</objectName> darzu von <objectName ref="wein">Wein</objectName> oder <objectName ref="milch">Milch</objectName> <lb/> thu die Epffel <lb/> die du geschnitten hast <lb/> darein <lb/> Nim ( m ) ein <objectName ref="pfanne">Pfanne</objectName> mit <objectName ref="butter">Butter</objectName> <lb/> mach sie wol heiß <lb/> zeuch die Epffel mit dem <objectName ref="teig">Teig</objectName> hinein <lb/> thu sie fein voneinander <lb/> daß die <objectName ref="butter">Butter</objectName> kann durchauß kommen <lb/> vnd durchauß backen <lb/> kehrs offt vmb <lb/> vnd verbrenn esnicht <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> vnd besträw es mit <objectName ref="zucker">Zucker</objectName> <lb/> so nen ( n ) et man es ein Epffel <objectName ref="strauben">Strauben</objectName>. </p>
             </div>
         </body>
     </text>

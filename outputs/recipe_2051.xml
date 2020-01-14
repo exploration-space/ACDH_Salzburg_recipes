@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb die Sembl, schneid die Rinden daruon, schneidt lang= <lb/> lechte strizl drauß, bachs khiell in einem schmalz, das <lb/> nit braun Werden, richts auf ein schißl, Wöhl ein süssen <lb/> Räm drüber, Zukhers, sez auf ein glietl, laß ein <lb/> Sud aufthuen, gibs Warm auf den tisch, so hastu ein <lb/> gueten weissen Münch. <lb/></p>
+        <p> Nimb die Sembl, schneid die Rinden daruon, schneidt lang= <lb/> lechte strizl drauß, bachs khiell in einem <objectName ref="schmalz">schmalz</objectName>, das <lb/> nit braun Werden, richts auf ein schißl, Wöhl ein süssen <lb/> Räm drüber, Zukhers, sez auf ein glietl, laß ein <lb/> Sud aufthuen, gibs Warm auf den <objectName ref="tisch">tisch</objectName>, so hastu ein <lb/> gueten weissen Münch. <lb/> </p>
             </div>
         </body>
     </text>

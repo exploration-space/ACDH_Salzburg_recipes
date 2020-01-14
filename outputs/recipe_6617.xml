@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wenn man den Schwantz brät <lb/> so begeußt man jn nicht mit Butter <lb/> so brät er fein resch <lb/> denn er ist vorhin feißt <lb/> vnd begeußt sich selbst <lb/> vnd wenn man jn mit Butter begeußt <lb/> so wirt er weich vnd fellt durch den Roßt <lb/> weil es vorhin ein weicher Fisch ist. Du magst den Schwantz warm geben oder kalt <lb/> oder magst darvunter machen ein Kapernbrüh <lb/> mit Erbsbrüh angemacht <lb/> Essig <lb/> vnd frischer vngeschmältzter Butter <lb/> thu auch ein wenig gestossen Ingwer darein <lb/> vnd laß darmit auffsieden. Aber die Kapern müssen vorhin außgesäubert vnnd gequellt seyn <lb/> daß die Brüh nicht versaltzen wirt.</p>
+        <p> Wenn man den Schwantz brät <lb/> so begeußt man jn nicht mit <objectName ref="butter">Butter</objectName> <lb/> so brät er fein resch <lb/> denn er ist vorhin feißt <lb/> vnd begeußt sich selbst <lb/> vnd wenn man jn mit <objectName ref="butter">Butter</objectName> begeußt <lb/> so wirt er weich vnd fellt durch den Roßt <lb/> weil es vorhin ein weicher <objectName ref="fisch">Fisch</objectName> ist. Du magst den Schwantz warm geben oder kalt <lb/> oder magst darvunter machen ein Kapernbrüh <lb/> mit Erbsbrüh angemacht <lb/> <objectName ref="essig">Essig</objectName> <lb/> vnd frischer vngeschmältzter <objectName ref="butter">Butter</objectName> <lb/> thu auch ein wenig gestossen <objectName ref="ingwer">Ingwer</objectName> darein <lb/> vnd laß darmit auffsieden. Aber die <objectName ref="kapern">Kapern</objectName> müssen vorhin außgesäubert vnnd gequellt seyn <lb/> daß die Brüh nicht versaltzen wirt. </p>
             </div>
         </body>
     </text>

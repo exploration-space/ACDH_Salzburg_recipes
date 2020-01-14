@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim ein guten zucker<lb/> läutere ihn wie sich ge= bürt<lb/> darnach nim gute frische Quitten<lb/> schele vnnd schneide sie klein zu stücken<lb/> vnd wirff sie auff einmal in den geläuterten Zucker vberm Fewer<lb/> wenn er noch siedend heiß ist<lb/> vnd laß wol sieden<lb/> reibs wol mit einem hülzern Löffel<lb/> heb es offt ab vom Fewer<lb/> zertreib vnd rührs wol vntereinander<lb/> so wird draß ein schöne Latwergen. Wenn sie gnug hat gesotten<lb/> so nim ein wenig Rosen vnd Lauendelwasser<lb/> schütts in die Latwergen<lb/> biß sie wider ihre rechte härt gewint<lb/> so lang laß hernach sieden.</p>
+        <p> Nim ein guten zucker/ läutere ihn wie sich ge= bürt/ darnach nim gute frische Quitten/ schele vnnd schneide sie klein zu stücken/ vnd wirff sie auff einmal in den geläuterten <objectName ref="zucker">Zucker</objectName> vberm Fewer/ wenn er noch siedend heiß ist/ vnd laß wol sieden/ reibs wol mit einem hülzern Löffel/ heb es offt ab vom Fewer/ zertreib vnd rührs wol vntereinander/ so wird draß ein schöne <objectName ref="latwerge">Latwergen</objectName>. Wenn sie gnug hat gesotten/ so nim ein wenig <objectName ref="rosen">Rosen</objectName> vnd Lauendelwasser/ schütts in die Latwergen/ biß sie wider ihre rechte härt gewint/ so lang laß hernach sieden. </p>
             </div>
         </body>
     </text>

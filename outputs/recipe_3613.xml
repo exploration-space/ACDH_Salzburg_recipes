@@ -179,7 +179,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneide den frischen Haussen Schnitzlein= weiß <lb/> spicks und bestreus mit Meel <lb/> gib ihm Farb mit Speck und Butter <lb/> in einer Rein <lb/> oder Casserol <lb/> mit guter Fleischbrühe <lb/> oder jus, und guten wohlriechenden Kräutlein und Lemoni= Schnitzlein <lb/> Dardoffeln oder Schwämmlein <lb/> Brüßlein <lb/> und eine gute Coullie eingericht <lb/> aber die Faisten darvon <lb/> wann er gesotten ist <lb/> thut man ein wenig Lemoni= Safft <lb/> oder Eßig darzu <lb/> mit Austern <lb/> oder Müschlein <lb/> oder Dardoffeln <lb/> und laßt es wieder kurtz aufkochen.</p>
+        <p> SChneide den frischen Haussen Schnitzlein= weiß <lb/> spicks und bestreus mit Meel <lb/> gib ihm Farb mit <objectName ref="speck">Speck</objectName> und <objectName ref="butter">Butter</objectName> <lb/> in einer <objectName ref="rein">Rein</objectName> <lb/> oder Casserol <lb/> mit guter <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> oder <objectName ref="jus">jus</objectName>, und guten wohlriechenden Kräutlein und Lemoni= Schnitzlein <lb/> Dardoffeln oder Schwämmlein <lb/> Brüßlein <lb/> und eine gute Coullie eingericht <lb/> aber die Faisten darvon <lb/> wann er gesotten ist <lb/> thut man ein wenig Lemoni= Safft <lb/> oder Eßig darzu <lb/> mit <objectName ref="austern">Austern</objectName> <lb/> oder Müschlein <lb/> oder Dardoffeln <lb/> und laßt es wieder kurtz aufkochen. </p>
             </div>
         </body>
     </text>

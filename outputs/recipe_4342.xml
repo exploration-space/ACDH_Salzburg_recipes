@@ -168,9 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm Haydlbeer <lb/> klaube sie sauber <lb/> vermische sie mit klein Weinbeerlein <lb/> mit viel Zucker und Zimmet <lb/> gibs also in die Dorten <lb/> und verfahre darmit <lb/> wie sonst.
-
-</p>
+        <p> Nimm Haydlbeer <lb/> klaube sie sauber <lb/> vermische sie mit klein Weinbeerlein <lb/> mit viel <objectName ref="zucker">Zucker</objectName> und Zimmet <lb/> gibs also in die Dorten <lb/> und verfahre darmit <lb/> wie sonst. </p>
             </div>
         </body>
     </text>

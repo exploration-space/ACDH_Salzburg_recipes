@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Speck vnd Zwibel <lb/> vnd hacks klein <lb/> Weich ein Weck in Wasser <lb/> druck jn wol auß <lb/> vnnd thu jn vnter den Speck vnd Zwibel <lb/> nim(m) ein gute Rindtfleischbrüh <lb/> vnd laß damit sieden <lb/> mach die Brüh mit Pfeffer <lb/> Saffran <lb/> vnnd allerley wolschmeckenden grünen Kräutern an <lb/> laß darmit sieden <lb/> vnd versaltz es nicht <lb/> so wirdt es gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) <objectName ref="speck">Speck</objectName> vnd Zwibel <lb/> vnd hacks klein <lb/> Weich ein Weck in <objectName ref="wasser">Wasser</objectName> <lb/> druck jn wol auß <lb/> vnnd thu jn vnter den <objectName ref="speck">Speck</objectName> vnd Zwibel <lb/> nim ( m ) ein gute Rindtfleischbrüh <lb/> vnd laß damit sieden <lb/> mach die Brüh mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Saffran <lb/> vnnd allerley wolschmeckenden grünen <objectName ref="kraeuter">Kräutern</objectName> an <lb/> laß darmit sieden <lb/> vnd versaltz es nicht <lb/> so wirdt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

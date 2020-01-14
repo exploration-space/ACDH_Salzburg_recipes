@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Bähe ein weisses Brod <lb/> weiche dasselbe im Wein <lb/> und treibe es hernach durch ein enges Sieb in ein Töpfflein <lb/> laß es eine gute weil sieden ; inzwischen stosse Petersilien= Kraut <lb/> zwing den Saft heraus <lb/> und thue denselben in das Mus <lb/> laß es aber mit dem grünen Safft nicht mehr sieden <lb/> und es schön grün bleibe : alsdann streue Zucker und Ingber darauf.</p>
+        <p> Bähe ein weisses Brod <lb/> weiche dasselbe im <objectName ref="wein">Wein</objectName> <lb/> und treibe es hernach durch ein enges <objectName ref="sieb">Sieb</objectName> in ein Töpfflein <lb/> laß es eine gute weil sieden; inzwischen stosse Petersilien= <objectName ref="kraut">Kraut</objectName> <lb/> zwing den Saft heraus <lb/> und thue denselben in das Mus <lb/> laß es aber mit dem grünen Safft nicht mehr sieden <lb/> und es schön grün bleibe : alsdann streue <objectName ref="zucker">Zucker</objectName> und Ingber darauf. </p>
             </div>
         </body>
     </text>

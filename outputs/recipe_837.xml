@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nussen <lb/> so sich noch häutlen lassen <lb/> klein gestossen <lb/> und mit in Milch geweichter Semmel <lb/> so wieder ausgedruckt <lb/> mit Butter und Eyern abgetrieben <lb/> mit Zucker und Zimmetwasser eingericht <lb/> und mit doppelter Glut <lb/> oder im Ofen gebachen <lb/> wie die Mandel=Muß.</p>
+        <p> Nussen <lb/> so sich noch häutlen lassen <lb/> klein gestossen <lb/> und mit in <objectName ref="milch">Milch</objectName> geweichter Semmel <lb/> so wieder ausgedruckt <lb/> mit <objectName ref="butter">Butter</objectName> und Eyern abgetrieben <lb/> mit <objectName ref="zucker">Zucker</objectName> und Zimmetwasser eingericht <lb/> und mit doppelter <objectName ref="glut">Glut</objectName> <lb/> oder im <objectName ref="ofen">Ofen</objectName> gebachen <lb/> wie die Mandel=Muß. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe abgezogene Mandeln werden gröblicht zerhackt oder zerstossen <lb/> nach belieben <lb/> Zucker und Zimmet darunter gerühret <lb/> und mit Wein angefeuchtet <lb/> hernach diese Füll auf Semmelschnitten <lb/> eines Fingers breit <lb/> gestrichen <lb/> und schön licht und gemach aus dem Schmaltz heraus gebachen . Dann leget mans in eine Schüssel <lb/> giesst einen Wein und Zucker daran <lb/> deckets zu <lb/> und lässets also nur einen Wall aufthun <lb/> doch also <lb/> daß sie nicht zu weich werden ; alsdann wird Zucker und Zimmet darauf gestreuet.</p>
+        <p> DIe abgezogene <objectName ref="mandeln">Mandeln</objectName> werden gröblicht zerhackt oder zerstossen <lb/> nach belieben <lb/> <objectName ref="zucker">Zucker</objectName> und Zimmet darunter gerühret <lb/> und mit <objectName ref="wein">Wein</objectName> angefeuchtet <lb/> hernach diese Füll auf <objectName ref="semmelschnitten">Semmelschnitten</objectName> <lb/> eines Fingers breit <lb/> gestrichen <lb/> und schön licht und gemach aus dem Schmaltz heraus gebachen. Dann leget mans in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> giesst einen <objectName ref="wein">Wein</objectName> und <objectName ref="zucker">Zucker</objectName> daran <lb/> deckets zu <lb/> und lässets also nur einen Wall aufthun <lb/> doch also <lb/> daß sie nicht zu weich werden; alsdann wird <objectName ref="zucker">Zucker</objectName> und Zimmet darauf gestreuet. </p>
             </div>
         </body>
     </text>

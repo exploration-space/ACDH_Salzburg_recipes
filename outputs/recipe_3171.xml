@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChabet den Calmus auf das schönste <lb/> lasset ihn <lb/> wann er zu langen Stücklein geschnitten worden <lb/> im Röhren= Wasser sieden <lb/> biß er weich wird <lb/> seihet das Wasser herab ; läutert einen Zucker <lb/> und giesset ihn darüber: wann er nun fünff oder sechs Tage lang gestanden <lb/> und die Brüh dinn wird <lb/> so seyhet sie wieder davon <lb/> und verstärckets so offt mit Zucker <lb/> biß man vermeinet daß der Calmus den Zucker angezogen habe <lb/> und gut zu essen seye; man muß ihn aber nicht zu weich im Wasser sieden <lb/> damit er etwas hartlicht bleibet.</p>
+        <p> SChabet den Calmus auf das schönste <lb/> lasset ihn <lb/> wann er zu langen Stücklein geschnitten worden <lb/> im Röhren= <objectName ref="wasser">Wasser</objectName> sieden <lb/> biß er weich wird <lb/> seihet das <objectName ref="wasser">Wasser</objectName> herab; läutert einen <objectName ref="zucker">Zucker</objectName> <lb/> und giesset ihn darüber : wann er nun fünff oder sechs Tage lang gestanden <lb/> und die Brüh dinn wird <lb/> so seyhet sie wieder davon <lb/> und verstärckets so offt mit <objectName ref="zucker">Zucker</objectName> <lb/> biß man vermeinet daß der Calmus den <objectName ref="zucker">Zucker</objectName> angezogen habe <lb/> und gut zu essen seye; man muß ihn aber nicht zu weich im <objectName ref="wasser">Wasser</objectName> sieden <lb/> damit er etwas hartlicht bleibet. </p>
             </div>
         </body>
     </text>

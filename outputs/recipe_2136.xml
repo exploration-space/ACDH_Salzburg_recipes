@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ungfehr 12. Aÿr auf ein tisch, ein gueten süssen Milchrämb, <lb/> oder guete milch drunder, vill mehr als der aÿr, Zerkhlopffs <lb/> Woll undereinander, laß also herab sieden in einer Pfan, rührs <lb/> mit einem löffl, das es sich nit anlegt, vnd Wan es Zu samen <lb/> dopfen Wird, so thues auf ein Sibl, oder auf ein tuech, das es <lb/> trukhen Wird, so es trukhen, thues auf ein Pretlein, schneid es <lb/> eines fingers lang, besträe es mit mell, vnd bachs in haissen <lb/> Schmalz, sonst faimbt es gehrn, gibs in einer brüe, oder <lb/> trukhen. <lb/></p>
+        <p> Nimb ungfehr 12. Aÿr auf ein <objectName ref="tisch">tisch</objectName>, ein gueten süssen Milchrämb, <lb/> oder guete <objectName ref="milch">milch</objectName> drunder, vill mehr als der aÿr, Zerkhlopffs <lb/> Woll undereinander, laß also herab sieden in einer Pfan, rührs <lb/> mit einem löffl, das es sich nit anlegt, vnd Wan es Zu samen <lb/> dopfen Wird, so thues auf ein Sibl, oder auf ein tuech, das es <lb/> trukhen Wird, so es trukhen, thues auf ein Pretlein, schneid es <lb/> eines fingers lang, besträe es mit mell, vnd bachs in haissen <lb/> <objectName ref="schmalz">Schmalz</objectName>, sonst faimbt es gehrn, gibs in einer brüe, oder <lb/> trukhen. <lb/> </p>
             </div>
         </body>
     </text>

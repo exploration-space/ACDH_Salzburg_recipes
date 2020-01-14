@@ -178,9 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Hecht wird geschuppt <lb/> zerstuckt <lb/> und im Saltzwasser abgesotten ; dann mit Gewürtz <lb/> und wenig Eßig in die Schüssel angericht <lb/> zugedeckt <lb/> und auf die Glut gesetzt <lb/> dann nimm Butter <lb/> Oel <lb/> oder auch Schmaltz in die Pfann <lb/> röste die Semmel= Brosen mit klein= gehackten Zwibeln <lb/> Knoblauch und Petersil= Kräutlein schön liechtgelb <lb/> gibs heisser über den Fisch <lb/> und trags auf ; andere nehmen auch Kümmel darunter.
-
-NB. Also macht mans an statt des Butters <lb/> oder Oel <lb/> auch mit Speck.</p>
+        <p> DEr <objectName ref="hecht">Hecht</objectName> wird geschuppt <lb/> zerstuckt <lb/> und im Saltzwasser abgesotten; dann mit Gewürtz <lb/> und wenig Eßig in die <objectName ref="schuessel">Schüssel</objectName> angericht <lb/> zugedeckt <lb/> und auf die <objectName ref="glut">Glut</objectName> gesetzt <lb/> dann nimm <objectName ref="butter">Butter</objectName> <lb/> Oel <lb/> oder auch Schmaltz in die Pfann <lb/> röste die Semmel= Brosen mit klein= gehackten Zwibeln <lb/> <objectName ref="knoblauch">Knoblauch</objectName> und Petersil= Kräutlein schön liechtgelb <lb/> gibs heisser über den <objectName ref="fisch">Fisch</objectName> <lb/> und trags auf; andere nehmen auch <objectName ref="kuemmel">Kümmel</objectName> darunter. NB. Also macht mans an statt des Butters <lb/> oder Oel <lb/> auch mit <objectName ref="speck">Speck</objectName>. </p>
             </div>
         </body>
     </text>

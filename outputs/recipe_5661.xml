@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Rüblein werden eben auf diese Art zubereitet <lb/> wie schon allbereit Num. 50. bey dem frischen Hecht gelehret worden ; doch darff man selbige nicht allezeit im Butter oder Schmaltz schweissen <lb/> sondern nur gleich alsobald in der Fleischbrüh zusetzen <lb/> und mit Butter ferner aufkochen lassen <lb/> der Hecht aber wird im Wasser gesotten <lb/> die Rüblein darüber angerichtet <lb/> die Schüssel auf eine Glut gesetzet <lb/> damit es nochmal aufsiede <lb/> und dann also zu Tisch getragen.</p>
+        <p> DIe Rüblein werden eben auf diese Art zubereitet <lb/> wie schon allbereit Num. 50. bey dem frischen <objectName ref="hecht">Hecht</objectName> gelehret worden; doch darff man selbige nicht allezeit im <objectName ref="butter">Butter</objectName> oder Schmaltz schweissen <lb/> sondern nur gleich alsobald in der Fleischbrüh zusetzen <lb/> und mit <objectName ref="butter">Butter</objectName> ferner aufkochen lassen <lb/> der <objectName ref="hecht">Hecht</objectName> aber wird im <objectName ref="wasser">Wasser</objectName> gesotten <lb/> die Rüblein darüber angerichtet <lb/> die <objectName ref="schuessel">Schüssel</objectName> auf eine <objectName ref="glut">Glut</objectName> gesetzet <lb/> damit es nochmal aufsiede <lb/> und dann also zu <objectName ref="tisch">Tisch</objectName> getragen. </p>
             </div>
         </body>
     </text>

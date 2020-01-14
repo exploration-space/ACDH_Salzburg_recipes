@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mach ein Teig an mit einem Ey oder zwey <lb/> vnd treib jn gar dünn auff <lb/>walg jn fein vbereinander <lb/> vnd mehls wol darzwischen <lb/> schneidt jn fein klein <lb/> nim(m) gute Erbeßbrüh <lb/> Muscatenblüt vnd Butter darein <lb/> setz auff Kolen <lb/> vnd laß sieden <lb/> zeuch die Nudel darein <lb/> oder back sie in Butter. Vnd wen(n) du sie wilt anrichten <lb/> so richt es auff ein gebeht Schnitten Brot <lb/> vnd sträw geriebenen Parmesankäß darüber <lb/> begeuß mit heisser Butter <lb/> vnnd gibs warm auff ein Tisch <lb/> so ist es ein gute Nudelsuppen.</p>
+        <p> Mach ein <objectName ref="teig">Teig</objectName> an mit einem Ey oder zwey <lb/> vnd treib jn gar dünn auff /walg jn fein vbereinander <lb/> vnd mehls wol darzwischen <lb/> schneidt jn fein klein <lb/> nim ( m ) gute Erbeßbrüh <lb/> Muscatenblüt vnd <objectName ref="butter">Butter</objectName> darein <lb/> setz auff Kolen <lb/> vnd laß sieden <lb/> zeuch die Nudel darein <lb/> oder back sie in <objectName ref="butter">Butter</objectName>. Vnd wen ( n ) du sie wilt anrichten <lb/> so richt es auff ein gebeht Schnitten <objectName ref="brot">Brot</objectName> <lb/> vnd sträw geriebenen Parmesankäß darüber <lb/> begeuß mit heisser <objectName ref="butter">Butter</objectName> <lb/> vnnd gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> so ist es ein gute Nudelsuppen. </p>
             </div>
         </body>
     </text>

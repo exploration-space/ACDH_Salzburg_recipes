@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Epffel <lb/> vnnd hack sie mit klein schwartzen Rosein <lb/> thu es in ein Pfannen <lb/> vnnd ein wenig Butter darein <lb/> rößts wol darinnen mit Zimmet vnd Zucker <lb/> laß kalt werden <lb/> vnnd schlags in ein Teig <lb/> der mit Wasser vnnd Butter angemacht ist <lb/> backs fein kül auß <lb/> besträw es mit weissem Zucker <lb/> vnd gibs warm auff ein Tisch.</p>
+        <p> Nim ( m ) Epffel <lb/> vnnd hack sie mit klein schwartzen Rosein <lb/> thu es in ein Pfannen <lb/> vnnd ein wenig <objectName ref="butter">Butter</objectName> darein <lb/> rößts wol darinnen mit Zimmet vnd <objectName ref="zucker">Zucker</objectName> <lb/> laß kalt werden <lb/> vnnd schlags in ein <objectName ref="teig">Teig</objectName> <lb/> der mit <objectName ref="wasser">Wasser</objectName> vnnd <objectName ref="butter">Butter</objectName> angemacht ist <lb/> backs fein kül auß <lb/> besträw es mit weissem <objectName ref="zucker">Zucker</objectName> <lb/> vnd gibs warm auff ein <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

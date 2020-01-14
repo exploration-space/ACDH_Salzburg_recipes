@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ALso macht man auch die Cucummern mit wol Gewürtz <lb/> Zwibel <lb/> und Petersil <lb/> in wol= gemachter Erbes= Brühe <lb/> Rosmarin und Capry.</p>
+        <p> ALso macht man auch die Cucummern mit wol Gewürtz <lb/> Zwibel <lb/> und Petersil <lb/> in wol= gemachter Erbes= <objectName ref="bruehe">Brühe</objectName> <lb/> <objectName ref="rosmarin">Rosmarin</objectName> und Capry. </p>
             </div>
         </body>
     </text>

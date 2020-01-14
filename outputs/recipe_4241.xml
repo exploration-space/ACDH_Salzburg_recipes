@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr eingesaltzne Lachs <lb/> oder Rhein= Salm <lb/> muß in gelber Zwibel= Brühe <lb/> auch wohl mit Butter <lb/> Pfeffer <lb/> Imber und Muscatnuß zugericht <lb/> und zur Tafel gegeben werden.</p>
+        <p> DEr eingesaltzne <objectName ref="lachs">Lachs</objectName> <lb/> oder Rhein= Salm <lb/> muß in gelber Zwibel= <objectName ref="bruehe">Brühe</objectName> <lb/> auch wohl mit <objectName ref="butter">Butter</objectName> <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber und Muscatnuß zugericht <lb/> und zur Tafel gegeben werden. </p>
             </div>
         </body>
     </text>

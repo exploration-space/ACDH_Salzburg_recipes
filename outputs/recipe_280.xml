@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein Frischen Putter in ein weidling<gap/> <lb/> vnd treib<gap/> in ab, schlag die Ayr<gap/> ains <lb/> nach den andern Darein Gies<gap/> ein <lb/> wenig siess obers<gap/> Darein, salz vnd <lb/><lb/> (re 135) vnnd thue Preßl<gap/> oder Mell Darunder <lb/> Riehrn<gap/>, Das aber Die Knödl nit <lb/> Zerfallen, alßdan siedts<gap/> in Wasser, <lb/> oder Fleisch Prie<gap/>, wans Gesodten<gap/> seindt <lb/> so mach ein Guettes Sipel<gap/> Daran <lb/> sye seindt Guett. <lb/></p>
+        <p> Nimb ein Frischen Putter in ein weidling<gap/> <lb/> vnd treib<gap/> in ab, schlag die Ayr<gap/> ains <lb/> nach den andern Darein Gies<gap/> ein <lb/> wenig siess obers<gap/> Darein, <objectName ref="salz">salz</objectName> vnd <lb/><lb/> ( re 135 ) vnnd thue Preßl<gap/> oder Mell Darunder <lb/> Riehrn<gap/>, Das aber Die Knödl nit <lb/> Zerfallen, alßdan siedts<gap/> in <objectName ref="wasser">Wasser</objectName>, <lb/> oder <objectName ref="fleisch">Fleisch</objectName> Prie<gap/>, wans Gesodten<gap/> seindt <lb/> so mach ein Guettes Sipel<gap/> Daran <lb/> sye seindt Guett. <lb/> </p>
             </div>
         </body>
     </text>

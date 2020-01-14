@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZErrühret einen wohl= versiehenen Eyer= Käß mit einem Löffel ; mischet mit Rosenwasser abgestossene Mandeln und etwas Semmel= Mehl darunter <lb/> schlaget zwey Eyerdottern und das Weisse von einem einigen Ey daran <lb/> rührt es alles wohl durcheinander ; zuckerts <lb/> streuet Zimmet und Corinthen oder Weinbeerlein darein <lb/> streichets auf einen Schnitten von einem Eyer= oder andern weissen Brod auf beeden Seiten <lb/> oder aber formiret Stritzel daraus <lb/> und bachet sie langsam aus Schmaltz.</p>
+        <p> ZErrühret einen wohl= versiehenen Eyer= Käß mit einem <objectName ref="loeffel">Löffel</objectName>; mischet mit <objectName ref="rosenwasser">Rosenwasser</objectName> abgestossene <objectName ref="mandeln">Mandeln</objectName> und etwas Semmel= <objectName ref="mehl">Mehl</objectName> darunter <lb/> schlaget zwey Eyerdottern und das Weisse von einem einigen Ey daran <lb/> rührt es alles wohl durcheinander; zuckerts <lb/> streuet Zimmet und Corinthen oder Weinbeerlein darein <lb/> streichets auf einen Schnitten von einem Eyer= oder andern weissen Brod auf beeden Seiten <lb/> oder aber formiret Stritzel daraus <lb/> und bachet sie langsam aus Schmaltz. </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet abgesottene Krebse <lb/> schählet sie aus <lb/> und hackets klein ; mischet in Milch eingeweichte Semmel= Brosam <lb/> und gehacktes Petersilien= Kraut darunter <lb/> schlaget zwey oder drey Eyerdottern daran <lb/> würtzets mit Pfeffer <lb/> Muscaten= Blüh und Cardamomen <lb/> rühret alles wohl unter einander <lb/> und machet also diese Füll gantz lehn an <lb/> streicht sie dann auf einen Teich <lb/> und macht es allerdings <lb/> wie die andere Krebs= Strudel <lb/> so Num. 3. und 4. so wol dem Teig als die Art belangend <lb/> bereits beschrieben worden.</p>
+        <p> NEhmet abgesottene <objectName ref="krebse">Krebse</objectName> <lb/> schählet sie aus <lb/> und hackets klein; mischet in <objectName ref="milch">Milch</objectName> eingeweichte Semmel= Brosam <lb/> und gehacktes Petersilien= <objectName ref="kraut">Kraut</objectName> darunter <lb/> schlaget zwey oder drey Eyerdottern daran <lb/> würtzets mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Muscaten= Blüh und Cardamomen <lb/> rühret alles wohl unter einander <lb/> und machet also diese Füll gantz lehn an <lb/> streicht sie dann auf einen Teich <lb/> und macht es allerdings <lb/> wie die andere Krebs= Strudel <lb/> so Num. 3. und 4. so wol dem <objectName ref="teig">Teig</objectName> als die Art belangend <lb/> bereits beschrieben worden. </p>
             </div>
         </body>
     </text>

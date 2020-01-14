@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimstu 6. pfundt Quitten<lb/> so nim ein maß Was= ser<lb/> laß das Honig vnd Wasser aneinander sieden<lb/> wirff den grösten Wust herab<lb/> vnd zwir die Quitten drein<lb/> laß sieden biß es sich von der Pfannen schelet<lb/> laß darüber noch ein viertel stund oder etwas länger braten<lb/> so ists gerecht.</p>
+        <p> Nimstu 6. pfundt Quitten/ so nim ein <objectName ref="mass">maß</objectName> Was= ser/ laß das <objectName ref="honig">Honig</objectName> vnd <objectName ref="wasser">Wasser</objectName> aneinander sieden/ wirff den grösten Wust herab/ vnd zwir die <objectName ref="quitten">Quitten</objectName> drein/ laß sieden biß es sich von der Pfannen schelet/ laß darüber noch ein viertel stund oder etwas länger braten/ so ists gerecht. </p>
             </div>
         </body>
     </text>

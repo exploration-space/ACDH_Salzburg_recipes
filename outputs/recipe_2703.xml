@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet eine halbe Maas weiß Bier <lb/> rühret nicht gar halb so viel sauren Milchram darein <lb/> zuckerts nach belieben ; und wanns gefällig <lb/> könnt ihrs ein klein wenig saltzen <lb/> wiewol es auch verbleiben kan ; lassts aufsieden <lb/> und richtets über würfflicht= geschnittenes Rocken= Brod.</p>
+        <p> NEhmet eine halbe <objectName ref="maas">Maas</objectName> weiß <objectName ref="bier">Bier</objectName> <lb/> rühret nicht gar halb so viel sauren Milchram darein <lb/> zuckerts nach belieben; und wanns gefällig <lb/> könnt ihrs ein klein wenig saltzen <lb/> wiewol es auch verbleiben kan; lassts aufsieden <lb/> und richtets über würfflicht= geschnittenes Rocken= Brod. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mach ein Teig an mit Eyern <lb/> treib jn fein dünn auß <lb/> schneidt jhn fein eines Fingers lang <lb/> vnd zween Finger breit <lb/> wirffs in heisse Butter <lb/> vn(n) backs auß <lb/> thu es also warm in heisse Milch <lb/> vnd laß sieden <lb/> daß dick wirdt <lb/> saltz ab <lb/> vn(n) machs fein braun. Also kocht man die Schmorren in der Milch <lb/> die gut vnd wolgeschmack seyn.</p>
+        <p> Mach ein <objectName ref="teig">Teig</objectName> an mit Eyern <lb/> treib jn fein dünn auß <lb/> schneidt jhn fein eines Fingers lang <lb/> vnd zween Finger breit <lb/> wirffs in heisse <objectName ref="butter">Butter</objectName> <lb/> vn ( n ) backs auß <lb/> thu es also warm in heisse <objectName ref="milch">Milch</objectName> <lb/> vnd laß sieden <lb/> daß dick wirdt <lb/> saltz ab <lb/> vn ( n ) machs fein braun. Also kocht man die Schmorren in der <objectName ref="milch">Milch</objectName> <lb/> die gut vnd wolgeschmack seyn. </p>
             </div>
         </body>
     </text>

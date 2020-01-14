@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb 2. oder 3. aÿr, einen gueten süssen Milch= <lb/> rämb, vnd ein wenig Zerlassnen buter, rührs durch= <lb/> einander ab, nimb dan ein schenes Semblmell, <lb/> mach ein lindes taigl drauß, treibs dan mit einem <lb/> nudlwelger auß, doch nicht Zu din, schneid alßdan <lb/> lange Nudl drauß, bachs in eim schmalz, doch nit Zu <lb/> Warm, thues in ein schißl, gieß henersupen vnd <lb/> Rosenwasser dran, strä Zugger vnd Zimetstup <lb/> dran, leg auch ein guets stukh buter darzue, salz <lb/> auch ein Wenig, sez in der schißl verdekht auf ein <lb/> glietl, laß fein sanfft khochen, biß sie schier gar <lb/> eingesoten haben, gibs dan Warm auf den tisch. <lb/></p>
+        <p> Nimb 2. oder 3. aÿr, einen gueten süssen Milch= <lb/> rämb, vnd ein wenig Zerlassnen buter, rührs durch= <lb/> einander ab, nimb dan ein schenes Semblmell, <lb/> mach ein lindes taigl drauß, treibs dan mit einem <lb/> nudlwelger auß, doch nicht Zu din, schneid alßdan <lb/> lange Nudl drauß, bachs in eim <objectName ref="schmalz">schmalz</objectName>, doch nit Zu <lb/> Warm, thues in ein schißl, gieß henersupen vnd <lb/> <objectName ref="rosenwasser">Rosenwasser</objectName> dran, strä Zugger vnd Zimetstup <lb/> dran, leg auch ein guets stukh buter darzue, <objectName ref="salz">salz</objectName> <lb/> auch ein Wenig, sez in der schißl verdekht auf ein <lb/> glietl, laß fein sanfft khochen, biß sie schier gar <lb/> eingesoten haben, gibs dan Warm auf den <objectName ref="tisch">tisch</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

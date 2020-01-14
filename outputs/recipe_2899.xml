@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneid von den Artischocken die Stengel sammt den kleinen Blättern <lb/> wie auch die Spitz voran herab <lb/> dann lasse sie in Wasser sieden <lb/> biß du ein Blat daraus leicht gewinnen kanst <lb/> saltze sie auch genug <lb/> dann seihe sie ab <lb/> und kühle sie so viel aus <lb/> daß du sie butzen <lb/> und das inwendige Rauhe <lb/> oder Haar heraus nehmen kanst <lb/> setz es wieder zusammen in ein Rein <lb/> oder gleich in die Schüssel auf die Glut <lb/> gewürtz mit gebührendem Saltz <lb/> wenig Imber <lb/> auch Pfeffer <lb/> und wol Muscatnuß <lb/> dann gibs mit einer guten <lb/> und wol warmen weissen Butterbrühe.</p>
+        <p> SChneid von den <objectName ref="artischocken">Artischocken</objectName> die Stengel sammt den kleinen Blättern <lb/> wie auch die Spitz voran herab <lb/> dann lasse sie in <objectName ref="wasser">Wasser</objectName> sieden <lb/> biß du ein Blat daraus leicht gewinnen kanst <lb/> saltze sie auch genug <lb/> dann seihe sie ab <lb/> und kühle sie so viel aus <lb/> daß du sie butzen <lb/> und das inwendige Rauhe <lb/> oder Haar heraus nehmen kanst <lb/> setz es wieder zusammen in ein <objectName ref="rein">Rein</objectName> <lb/> oder gleich in die <objectName ref="schuessel">Schüssel</objectName> auf die <objectName ref="glut">Glut</objectName> <lb/> gewürtz mit gebührendem Saltz <lb/> wenig Imber <lb/> auch <objectName ref="pfeffer">Pfeffer</objectName> <lb/> und wol Muscatnuß <lb/> dann gibs mit einer guten <lb/> und wol warmen weissen <objectName ref="butterbruehe">Butterbrühe</objectName>. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Röste die Presolen mit gehörigem Saltz und Gewürtz <lb/> gleich den Bratwürsten <lb/> gemach im Butter <lb/> daß sie in dem Safft bleiben; dann ziehe sie durch ein Salbey= Taiglein <lb/> und bachs aus heissem Schmaltz <lb/> und diß heißt man Gebachnes im Schlaff= Rock.</p>
+        <p> Röste die Presolen mit gehörigem Saltz und Gewürtz <lb/> gleich den Bratwürsten <lb/> gemach im <objectName ref="butter">Butter</objectName> <lb/> daß sie in dem Safft bleiben; dann ziehe sie durch ein Salbey= Taiglein <lb/> und bachs aus heissem Schmaltz <lb/> und diß heißt man Gebachnes im Schlaff= Rock. </p>
             </div>
         </body>
     </text>

@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEsplen <lb/> so in Zucker <lb/> Honig <lb/> oder süssen Wein eingemacht <lb/> seynd gut sammt ihrer Brühe <lb/> an statt eines süssen Salats.</p>
+        <p> NEsplen <lb/> so in <objectName ref="zucker">Zucker</objectName> <lb/> <objectName ref="honig">Honig</objectName> <lb/> oder süssen <objectName ref="wein">Wein</objectName> eingemacht <lb/> seynd gut sammt ihrer <objectName ref="bruehe">Brühe</objectName> <lb/> an statt eines süssen Salats. </p>
             </div>
         </body>
     </text>

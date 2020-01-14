@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Ist wohl Zucker <lb/> Lemoni=Safft <lb/> und dessen gantze Schelffen zum Abgiessen <lb/> vor Krancke <lb/> die grossen Durst leiden <lb/> mit Zucker abtgesüßt.</p>
+        <p> Ist wohl <objectName ref="zucker">Zucker</objectName> <lb/> Lemoni=Safft <lb/> und dessen gantze Schelffen zum Abgiessen <lb/> vor Krancke <lb/> die grossen Durst leiden <lb/> mit <objectName ref="zucker">Zucker</objectName> abtgesüßt. </p>
             </div>
         </body>
     </text>

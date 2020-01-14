@@ -170,7 +170,7 @@ Rezept auch für Kalbfleisch</note>
                 </listObject>
             </div>
         <div type="recipe">
-        <p>HIervon können allerhand Presolen <lb/> oder Carbonädlein <lb/> als wie von dem Kalb gemacht werden <lb/> aber müssen wohl mit Pfeffer und Saltz <lb/> und sauerer Brühe versehen <lb/> und gegeben werden.</p>
+        <p> HIervon können allerhand Presolen <lb/> oder Carbonädlein <lb/> als wie von dem <objectName ref="kalb">Kalb</objectName> gemacht werden <lb/> aber müssen wohl mit <objectName ref="pfeffer">Pfeffer</objectName> und Saltz <lb/> und sauerer <objectName ref="bruehe">Brühe</objectName> versehen <lb/> und gegeben werden. </p>
             </div>
         </body>
     </text>

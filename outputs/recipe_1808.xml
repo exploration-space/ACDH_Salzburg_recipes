@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Sein halb <lb/> oder ganz, geuß wein daran, nimb etlich <lb/> zugger daran, nimb farb türcher, so <lb/> werens roth, laß woll einsieden, gilbs <lb/> khalt, Salz nit. <lb/></p>
+        <p> Sein halb <lb/> oder ganz, geuß <objectName ref="wein">wein</objectName> daran, nimb etlich <lb/> zugger daran, nimb farb türcher, so <lb/> werens roth, laß woll einsieden, gilbs <lb/> khalt, <objectName ref="salz">Salz</objectName> nit. <lb/> </p>
             </div>
         </body>
     </text>

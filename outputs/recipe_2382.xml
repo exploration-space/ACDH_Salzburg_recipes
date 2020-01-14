@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChählet und schneidet etliche Quitten zu dinnen Plätzen oder Scheiben <lb/> in ein frisches Wasser <lb/> last sie zimlich weich sieden; druckts hernach durch ein Tuch <lb/> nehmet dieses Saffts etwan eine halbe Maas <lb/> auch mehr oder weniger <lb/> nach belieben <lb/> und ein Pfund Zucker <lb/> siedet sie zu einem Juleb: giesset dann den ausgepressten Safft von Saurach oder Wein= Lägelein darein <lb/> so wird es schön roth <lb/> und last es also noch einen einigen Sud thun.</p>
+        <p> SChählet und schneidet etliche <objectName ref="quitten">Quitten</objectName> zu dinnen Plätzen oder Scheiben <lb/> in ein frisches <objectName ref="wasser">Wasser</objectName> <lb/> last sie zimlich weich sieden; druckts hernach durch ein <objectName ref="tuch">Tuch</objectName> <lb/> nehmet dieses Saffts etwan eine halbe <objectName ref="maas">Maas</objectName> <lb/> auch mehr oder weniger <lb/> nach belieben <lb/> und ein <objectName ref="pfund">Pfund</objectName> <objectName ref="zucker">Zucker</objectName> <lb/> siedet sie zu einem Juleb : giesset dann den ausgepressten Safft von Saurach oder Wein= Lägelein darein <lb/> so wird es schön roth <lb/> und last es also noch einen einigen Sud thun. </p>
             </div>
         </body>
     </text>

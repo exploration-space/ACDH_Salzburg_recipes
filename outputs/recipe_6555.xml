@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Heiß abgesotten Hausen <lb/> vnd ein Essig darüber gegossen <lb/> wen man jn anricht <lb/> vnd mit grüner Pettersilgen besträwt.</p>
+        <p> Heiß abgesotten Hausen <lb/> vnd ein <objectName ref="essig">Essig</objectName> darüber gegossen <lb/> wen man jn anricht <lb/> vnd mit grüner Pettersilgen besträwt. </p>
             </div>
         </body>
     </text>

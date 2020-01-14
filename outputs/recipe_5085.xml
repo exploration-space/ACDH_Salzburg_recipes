@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChlein auf jetzt= gemeldte Weiß <lb/> mit Capry <lb/> oder Sardellen <lb/> in einem verschlossenen Geschirr wol eingericht <lb/> und wol zugemacht <lb/> verschlossen <lb/> oder verpicht <lb/> und wie ein Pasteten in dem Ofen gedämfft; wanns fertig <lb/> so gibs mit seiner eigenen Soß <lb/> oder Brühe.</p>
+        <p> SChlein auf jetzt= gemeldte Weiß <lb/> mit Capry <lb/> oder <objectName ref="sardellen">Sardellen</objectName> <lb/> in einem verschlossenen <objectName ref="geschirr">Geschirr</objectName> wol eingericht <lb/> und wol zugemacht <lb/> verschlossen <lb/> oder verpicht <lb/> und wie ein <objectName ref="pastete">Pasteten</objectName> in dem <objectName ref="ofen">Ofen</objectName> gedämfft; wanns fertig <lb/> so gibs mit seiner eigenen Soß <lb/> oder <objectName ref="bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

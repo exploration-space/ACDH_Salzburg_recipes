@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAchet einen Teig von schönem Mehl zusammen <lb/> rühret ihn von lauter Weissen von Eyern an <lb/> gieset ein wenig Rosenwasser dazu <lb/> zuckerts nach belieben : Ziehet die Rosen <lb/> wie im vorhergehenden gedacht <lb/> durch diesen Teig <lb/> und bachet sie schön hell heraus.</p>
+        <p> MAchet einen <objectName ref="teig">Teig</objectName> von schönem <objectName ref="mehl">Mehl</objectName> zusammen <lb/> rühret ihn von lauter Weissen von Eyern an <lb/> gieset ein wenig <objectName ref="rosenwasser">Rosenwasser</objectName> dazu <lb/> zuckerts nach belieben : Ziehet die <objectName ref="rosen">Rosen</objectName> <lb/> wie im vorhergehenden gedacht <lb/> durch diesen <objectName ref="teig">Teig</objectName> <lb/> und bachet sie schön hell heraus. </p>
             </div>
         </body>
     </text>

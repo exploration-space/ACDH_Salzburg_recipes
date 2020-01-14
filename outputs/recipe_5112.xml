@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) ein wenig Butter in ein Pfann <lb/> vnd rößt sie darinn <lb/> geuß ein wenig Rindtfleischbrüh daran <lb/> Essig <lb/> Pfeffer vnd grüne Kräuter <lb/> laß darmit auffsieden <lb/> vnnd versaltz es nicht <lb/> so wirt es wolgschmack.</p>
+        <p> Nim ( m ) ein wenig <objectName ref="butter">Butter</objectName> in ein Pfann <lb/> vnd rößt sie darinn <lb/> geuß ein wenig Rindtfleischbrüh daran <lb/> <objectName ref="essig">Essig</objectName> <lb/> <objectName ref="pfeffer">Pfeffer</objectName> vnd grüne <objectName ref="kraeuter">Kräuter</objectName> <lb/> laß darmit auffsieden <lb/> vnnd versaltz es nicht <lb/> so wirt es wolgschmack. </p>
             </div>
         </body>
     </text>

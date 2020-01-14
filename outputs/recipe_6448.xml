@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Ein Mandelmuß mit Zimmet durchgestrichen <lb/> vnd süß gemacht mit Zucker <lb/> darmit auffsieden lassen <lb/> vnd warm auff ein Tisch geben <lb/> ist gut vnd wolgeschmack.</p>
+        <p> Ein Mandelmuß mit Zimmet durchgestrichen <lb/> vnd süß gemacht mit <objectName ref="zucker">Zucker</objectName> <lb/> darmit auffsieden lassen <lb/> vnd warm auff ein <objectName ref="tisch">Tisch</objectName> geben <lb/> ist gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

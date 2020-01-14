@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SEtze die Erbsen in Wasser zu <lb/> lasse sie weich sieden <lb/> und schlags hernach durch <lb/> daß die Hülsen davon bleiben; thue hierauf Ingber <lb/> Pfeffer <lb/> geriebene Muscaten= Nuß <lb/> auch Saffran <lb/> Saltz und Bachschmaltz daran <lb/> laß es miteinander kochen <lb/> und richts über rocken dünn= geschnittenes <lb/> oder auch weisses <lb/> Brod an.</p>
+        <p> SEtze die <objectName ref="erbsen">Erbsen</objectName> in <objectName ref="wasser">Wasser</objectName> zu <lb/> lasse sie weich sieden <lb/> und schlags hernach durch <lb/> daß die Hülsen davon bleiben; thue hierauf Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> geriebene Muscaten= Nuß <lb/> auch Saffran <lb/> Saltz und Bachschmaltz daran <lb/> laß es miteinander kochen <lb/> und richts über rocken dünn= geschnittenes <lb/> oder auch weisses <lb/> Brod an. </p>
             </div>
         </body>
     </text>

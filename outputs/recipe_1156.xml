@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb den schlögl<gap/> Salz ihm ein, lög<gap/> ihm in <lb/> ösßig, laß ihm .2. thag drin ligen<gap/>, hernach druckh<gap/> <lb/> ihm auß, Salz ihm ein wenig, vnd besträhe<gap/> <lb/> ihm mit Mehl<gap/>, löge<gap/> ihm in ain haisßen<gap/> Putter<gap/>, <lb/> laß ihm betterseiths praun werden, schitte<gap/> <lb/> hernach össig, Fleisch<gap/> suppen, vnd Sauren<gap/> Milch= <lb/> =Rämb<gap/> daran, gewierz<gap/> ihm, lög<gap/> lemany<gap/> schöllen<gap/> <lb/> drein, vnd ganzen zwifl<gap/> mit Nägl<gap/> bestöckht<gap/>, <lb/> laß ihm also khochen, biß er genueg ist, er wirdt <lb/> guett, <lb/></p>
+        <p> Nimb den schlögl<gap/> <objectName ref="salz">Salz</objectName> ihm ein, lög<gap/> ihm in <lb/> ösßig, laß ihm.2. thag drin ligen<gap/>, hernach druckh<gap/> <lb/> ihm auß, <objectName ref="salz">Salz</objectName> ihm ein wenig, vnd besträhe<gap/> <lb/> ihm mit Mehl<gap/>, löge<gap/> ihm in ain haisßen<gap/> Putter<gap/>, <lb/> laß ihm betterseiths praun werden, schitte<gap/> <lb/> hernach össig, Fleisch<gap/> <objectName ref="suppe">suppen</objectName>, vnd Sauren<gap/> Milch= <lb/> =Rämb<gap/> daran, gewierz<gap/> ihm, lög<gap/> lemany<gap/> schöllen<gap/> <lb/> drein, vnd ganzen zwifl<gap/> mit Nägl<gap/> bestöckht<gap/>, <lb/> laß ihm also khochen, biß er genueg ist, er wirdt <lb/> guett, <lb/> </p>
             </div>
         </body>
     </text>

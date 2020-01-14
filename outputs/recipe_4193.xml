@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe gebachne Rutten seynd auch gut in einer süssen Brühe <lb/> mit wenig Zucker <lb/> Wein <lb/> Lemoni und Gewürtz <lb/> hernach in Butter <lb/> oder Schmaltz gerösten Aepffel und dergleichen Zwibel durchgetrieben <lb/> wohl angemacht <lb/> und über den Fisch siediger gegeben.</p>
+        <p> DIe gebachne Rutten seynd auch gut in einer süssen <objectName ref="bruehe">Brühe</objectName> <lb/> mit wenig <objectName ref="zucker">Zucker</objectName> <lb/> <objectName ref="wein">Wein</objectName> <lb/> Lemoni und Gewürtz <lb/> hernach in <objectName ref="butter">Butter</objectName> <lb/> oder Schmaltz gerösten Aepffel und dergleichen Zwibel durchgetrieben <lb/> wohl angemacht <lb/> und über den <objectName ref="fisch">Fisch</objectName> siediger gegeben. </p>
             </div>
         </body>
     </text>

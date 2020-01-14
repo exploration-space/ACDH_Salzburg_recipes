@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) krafftmehl <lb/> rürs vmb mit kalter Mandelmilch <lb/> oder rürs in ein gesotten Milch <lb/> rürs vmb biß auffseudt <lb/> vnnd laß wol darinnen sieden <lb/> mach es süß <lb/> vnd thu ein wenig vngeschmältzte Butter darein <lb/> laß nicht dick werden <lb/> geuß ein wenig Wasser darzu <lb/> vn(n) wenn du es anrichtest <lb/> so besträw es mit Zucker <lb/> so ist es gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) krafftmehl <lb/> rürs vmb mit kalter <objectName ref="mandelmilch">Mandelmilch</objectName> <lb/> oder rürs in ein gesotten <objectName ref="milch">Milch</objectName> <lb/> rürs vmb biß auffseudt <lb/> vnnd laß wol darinnen sieden <lb/> mach es süß <lb/> vnd thu ein wenig vngeschmältzte <objectName ref="butter">Butter</objectName> darein <lb/> laß nicht dick werden <lb/> geuß ein wenig <objectName ref="wasser">Wasser</objectName> darzu <lb/> vn ( n ) wenn du es anrichtest <lb/> so besträw es mit <objectName ref="zucker">Zucker</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Der Auerhahn ist auch gut kalt und warm <lb/> in die Pasteten <lb/> gespickter <lb/> gesaltzen und gepaitzter <lb/> oder auch ungepaitzter <lb/> mit Schuncken <lb/> oder geselchten Zungen <lb/> mit kälbernen Fäsch <lb/> oder Gehäck <lb/> oder mit Bratwürst = Gehäck <lb/> ec. wie auch alldort <lb/> bey dem Feder = Wildbret ( wie man dasselbig in die Pasteten zurichten solle ) in dem Bacherey = Buch angezeigt ist worden.</p>
+        <p> Der <objectName ref="auerhahn">Auerhahn</objectName> ist auch gut kalt und warm <lb/> in die <objectName ref="pastete">Pasteten</objectName> <lb/> gespickter <lb/> gesaltzen und gepaitzter <lb/> oder auch ungepaitzter <lb/> mit Schuncken <lb/> oder geselchten <objectName ref="zunge">Zungen</objectName> <lb/> mit kälbernen Fäsch <lb/> oder <objectName ref="gehaeck">Gehäck</objectName> <lb/> oder mit Bratwürst = <objectName ref="gehaeck">Gehäck</objectName> <lb/> ec. wie auch alldort <lb/> bey dem <objectName ref="feder">Feder</objectName> = <objectName ref="wildbret">Wildbret</objectName> ( wie man dasselbig in die <objectName ref="pastete">Pasteten</objectName> zurichten solle ) in dem Bacherey = Buch angezeigt ist worden. </p>
             </div>
         </body>
     </text>

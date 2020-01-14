@@ -170,9 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>KLeine Flecklein müssen vom Schlegel geschnitten <lb/> geklopfft <lb/> gesaltzt <lb/> gewürtzt <lb/> und gleich den Bratwürsten in Butter geröstet werden <lb/> mit etlich Tropffen Eßig und wenig Sardellen.
-
- </p>
+        <p> KLeine Flecklein müssen vom <objectName ref="schlegel">Schlegel</objectName> geschnitten <lb/> geklopfft <lb/> gesaltzt <lb/> gewürtzt <lb/> und gleich den Bratwürsten in <objectName ref="butter">Butter</objectName> geröstet werden <lb/> mit etlich Tropffen Eßig und wenig <objectName ref="sardellen">Sardellen</objectName>. </p>
             </div>
         </body>
     </text>

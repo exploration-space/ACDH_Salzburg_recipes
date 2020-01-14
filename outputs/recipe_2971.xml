@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>KOrn <lb/> so noch jung und grün im Feld steht <lb/> dienet zu unterschiedlichen grünen Sossen <lb/> mit wenig Knoblauch <lb/> und geweichter Semmel im Mörsel gestossen <lb/> dann mit Pfeffer <lb/> Zucker und Eßig angemacht <lb/> und durchgetrieben <lb/> zu dem Gebrattnen <lb/> und andern Speisen gesetzt.</p>
+        <p> KOrn <lb/> so noch jung und grün im Feld steht <lb/> dienet zu unterschiedlichen grünen Sossen <lb/> mit wenig <objectName ref="knoblauch">Knoblauch</objectName> <lb/> und geweichter Semmel im Mörsel gestossen <lb/> dann mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> und Eßig angemacht <lb/> und durchgetrieben <lb/> zu dem Gebrattnen <lb/> und andern Speisen gesetzt. </p>
             </div>
         </body>
     </text>

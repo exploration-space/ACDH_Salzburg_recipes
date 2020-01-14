@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIse werden sauber gewaschen <lb/> gesotten <lb/> gehackt oder gar durchgetrieben <lb/> mit Zucker und Zimmet angemacht <lb/> und wann sie gar naß <lb/> so röste Semmel= Brosen in Butter <lb/> und gibs in die Dorten <lb/> es kan auch ein wenig Wein darzu genommen werden.</p>
+        <p> DIse werden sauber gewaschen <lb/> gesotten <lb/> gehackt oder gar durchgetrieben <lb/> mit <objectName ref="zucker">Zucker</objectName> und Zimmet angemacht <lb/> und wann sie gar naß <lb/> so röste Semmel= Brosen in <objectName ref="butter">Butter</objectName> <lb/> und gibs in die Dorten <lb/> es kan auch ein wenig <objectName ref="wein">Wein</objectName> darzu genommen werden. </p>
             </div>
         </body>
     </text>

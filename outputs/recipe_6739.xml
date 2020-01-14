@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Eyngemacht mit Butter <lb/> Essig <lb/> Kümel <lb/> Zwibeln <lb/> vnnd mit Erbsbrüh <lb/> thu ein wenig gestossenen Ingwer vnd Muscatenblüt darein <lb/> laß damit sieden <lb/> vnnd wenns schier eyngesotten ist <lb/> so brenn ein wenig Schmaltz darein <lb/> so wirt es gut vnnd wolgeschmack. Du kanst auch die Schretzel absieden fein trucken <lb/> zeich die Brüh herab <lb/> vnd thu sie auff eine Schüssel also gantz <lb/> seig ein Erbsbrüh darüber <lb/> vnd Meybutter <lb/> thu Agrastbeer darauff <lb/> vnd laß darmit ein Sudt auffthun <lb/> du magsts saur machen oder mit Senff. Vnd solche Fisch seindt gut vnd gesundt <lb/> denn es mag sie ein Fraw <lb/> die in der Kindtbett ist <lb/> essen.</p>
+        <p> Eyngemacht mit <objectName ref="butter">Butter</objectName> <lb/> <objectName ref="essig">Essig</objectName> <lb/> Kümel <lb/> Zwibeln <lb/> vnnd mit Erbsbrüh <lb/> thu ein wenig gestossenen <objectName ref="ingwer">Ingwer</objectName> vnd Muscatenblüt darein <lb/> laß damit sieden <lb/> vnnd wenns schier eyngesotten ist <lb/> so brenn ein wenig Schmaltz darein <lb/> so wirt es gut vnnd wolgeschmack. Du kanst auch die Schretzel absieden fein trucken <lb/> zeich die Brüh herab <lb/> vnd thu sie auff eine <objectName ref="schuessel">Schüssel</objectName> also gantz <lb/> seig ein Erbsbrüh darüber <lb/> vnd Meybutter <lb/> thu Agrastbeer darauff <lb/> vnd laß darmit ein Sudt auffthun <lb/> du magsts saur machen oder mit Senff. Vnd solche <objectName ref="fisch">Fisch</objectName> seindt gut vnd gesundt <lb/> denn es mag sie ein Fraw <lb/> die in der Kindtbett ist <lb/> essen. </p>
             </div>
         </body>
     </text>

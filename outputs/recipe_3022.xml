@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>GElbe Ruben <lb/> oder Mehrn <lb/> gebrüht und gebachen <lb/> seynd gut in brauner Jus, und schier zu allen braunen Speisen von Fleisch und Fischen mit Maß darzu gemischt.</p>
+        <p> GElbe Ruben <lb/> oder Mehrn <lb/> gebrüht und gebachen <lb/> seynd gut in brauner <objectName ref="jus">Jus</objectName>, und schier zu allen braunen Speisen von <objectName ref="fleisch">Fleisch</objectName> und Fischen mit <objectName ref="mass">Maß</objectName> darzu gemischt. </p>
             </div>
         </body>
     </text>

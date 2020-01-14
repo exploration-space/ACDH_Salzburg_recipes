@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Man soll zimlich viel Schmaltz in eine Pfannen nehmen <lb/> und wanns heiß ist <lb/> schönen Grieß darein schütten <lb/> und wol rösten <lb/> doch daß er nicht braun wird <lb/> darnach soll man 6. Eyerdotter in einer guten süssen Milch abklopffen <lb/> und in den gerösten Grieß schütten <lb/> und rühren biß siedt <lb/> dann unten und oben Glut geben <lb/> daß fein braun wird <lb/> und nicht zu fest.</p>
+        <p> Man soll zimlich viel Schmaltz in eine Pfannen nehmen <lb/> und wanns heiß ist <lb/> schönen <objectName ref="griess">Grieß</objectName> darein schütten <lb/> und wol rösten <lb/> doch daß er nicht braun wird <lb/> darnach soll man 6. Eyerdotter in einer guten süssen <objectName ref="milch">Milch</objectName> abklopffen <lb/> und in den gerösten <objectName ref="griess">Grieß</objectName> schütten <lb/> und rühren biß siedt <lb/> dann unten und oben <objectName ref="glut">Glut</objectName> geben <lb/> daß fein braun wird <lb/> und nicht zu fest. </p>
             </div>
         </body>
     </text>

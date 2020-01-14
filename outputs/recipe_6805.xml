@@ -170,9 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Gefricusierte Vögel mit Zwibeln <lb/> vnd säurlich gemacht mit einer guten Rindtfleischbrüh <lb/> auch mit Essig <lb/> pfeffers <lb/> vnnd machs gelb <lb/> laß darmit sieden <lb/> so wirt es auch gut vnd wolgeschmack.
-
-</p>
+        <p> Gefricusierte <objectName ref="voegel">Vögel</objectName> mit Zwibeln <lb/> vnd säurlich gemacht mit einer guten Rindtfleischbrüh <lb/> auch mit <objectName ref="essig">Essig</objectName> <lb/> pfeffers <lb/> vnnd machs gelb <lb/> laß darmit sieden <lb/> so wirt es auch gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

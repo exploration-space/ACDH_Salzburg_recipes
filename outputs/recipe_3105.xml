@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ERd= Beer <lb/> so wol zeitig <lb/> und geklaubt <lb/> dann mit Wein und Zucker wol angemacht <lb/> gibt man auch an statt des süssen Salats.</p>
+        <p> ERd= Beer <lb/> so wol zeitig <lb/> und geklaubt <lb/> dann mit <objectName ref="wein">Wein</objectName> und <objectName ref="zucker">Zucker</objectName> wol angemacht <lb/> gibt man auch an statt des süssen Salats. </p>
             </div>
         </body>
     </text>

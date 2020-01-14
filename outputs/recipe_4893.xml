@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm schöne <lb/> breite und weiche Wegwarten <lb/> siede sie im Wasser <lb/> doch nicht zu weich; legs hernach in ein kaltes Wasser <lb/> daß es die Bittern heraus ziehe <lb/> und dann auf ein Tuch <lb/> laß trocken werden : Mach nachmals einen Teig mit Mehl <lb/> Wein <lb/> Zucker <lb/> und ein wenig frischen Wasser an <lb/> laß das Schmaltz fein heiß werden <lb/> und bachs was langsam <lb/> heraus.</p>
+        <p> NImm schöne <lb/> breite und weiche Wegwarten <lb/> siede sie im <objectName ref="wasser">Wasser</objectName> <lb/> doch nicht zu weich; legs hernach in ein kaltes <objectName ref="wasser">Wasser</objectName> <lb/> daß es die Bittern heraus ziehe <lb/> und dann auf ein <objectName ref="tuch">Tuch</objectName> <lb/> laß trocken werden : Mach nachmals einen <objectName ref="teig">Teig</objectName> mit <objectName ref="mehl">Mehl</objectName> <lb/> <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> und ein wenig frischen <objectName ref="wasser">Wasser</objectName> an <lb/> laß das Schmaltz fein heiß werden <lb/> und bachs was langsam <lb/> heraus. </p>
             </div>
         </body>
     </text>

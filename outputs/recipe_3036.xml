@@ -170,9 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SPargel gibt man nicht allein kalter <lb/> mit Saltz <lb/> Pfeffer <lb/> Eßig und Oel <lb/> sondern man nimmt auch zu Zeiten an statt des Oels zerlaßnen Butter <lb/> oder guten Speck <lb/> und macht damit diesen Salat; NB. Also auch zu andern Saläten.
-
-</p>
+        <p> <objectName ref="spargel">SPargel</objectName> gibt man nicht allein kalter <lb/> mit Saltz <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Eßig und Oel <lb/> sondern man nimmt auch zu Zeiten an statt des Oels zerlaßnen <objectName ref="butter">Butter</objectName> <lb/> oder guten <objectName ref="speck">Speck</objectName> <lb/> und macht damit diesen <objectName ref="salat">Salat</objectName>; NB. Also auch zu andern Saläten. </p>
             </div>
         </body>
     </text>

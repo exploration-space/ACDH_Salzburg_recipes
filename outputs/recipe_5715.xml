@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Hecht wird in Essig blau gesotten <lb/> der Essig ab <lb/> und eine durch= gezwungene Erbsen= Brüh daran gegossen; dann röstet man ein würfflicht= geschnittenes Brod im Schmaltz und brennet es über den Fisch <lb/> würtzet ihn mit Ingber <lb/> Pfeffer und Muscatblüh <lb/> und läst also alles zusammen noch einen Sud aufthun.</p>
+        <p> DEr <objectName ref="hecht">Hecht</objectName> wird in <objectName ref="essig">Essig</objectName> blau gesotten <lb/> der <objectName ref="essig">Essig</objectName> ab <lb/> und eine durch= gezwungene Erbsen= Brüh daran gegossen; dann röstet man ein würfflicht= geschnittenes Brod im Schmaltz und brennet es über den <objectName ref="fisch">Fisch</objectName> <lb/> würtzet ihn mit Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Muscatblüh <lb/> und läst also alles zusammen noch einen Sud aufthun. </p>
             </div>
         </body>
     </text>

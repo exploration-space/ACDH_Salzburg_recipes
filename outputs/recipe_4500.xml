@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>RIchte den gebachnen Hechten auf die Schüssel ; nimm Butter <lb/> Erbsen= Brühe <lb/> geriebenen Kreen <lb/> Pfeffer <lb/> Imber <lb/> Saffran <lb/> Eßig und wenig Saltz in eine irdene Rein <lb/> oder verzinntes Casserol <lb/> laß aufkochen <lb/> und gibs über den angerichten Bachfisch <lb/> und laß daran auch einen kleinen Sud noch thun <lb/> und gibs zur Tafel.</p>
+        <p> RIchte den gebachnen Hechten auf die <objectName ref="schuessel">Schüssel</objectName>; nimm <objectName ref="butter">Butter</objectName> <lb/> Erbsen= <objectName ref="bruehe">Brühe</objectName> <lb/> geriebenen Kreen <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> Saffran <lb/> Eßig und wenig Saltz in eine irdene <objectName ref="rein">Rein</objectName> <lb/> oder verzinntes Casserol <lb/> laß aufkochen <lb/> und gibs über den angerichten Bachfisch <lb/> und laß daran auch einen kleinen Sud noch thun <lb/> und gibs zur Tafel. </p>
             </div>
         </body>
     </text>

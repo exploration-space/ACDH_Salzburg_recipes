@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb die Lungl, brits, schneid blätl, rösts im Puter, geuß ein fleischbrüe <lb/> dran, vnd buter, geuß ein Wenig Wein dran, stups, laß auf eim glietl <lb/> sieden, richts an, sein bereith. <lb/></p>
+        <p> Nimb die Lungl, brits, schneid blätl, rösts im Puter, geuß ein fleischbrüe <lb/> dran, vnd buter, geuß ein Wenig <objectName ref="wein">Wein</objectName> dran, stups, laß auf eim glietl <lb/> sieden, richts an, sein bereith. <lb/> </p>
             </div>
         </body>
     </text>

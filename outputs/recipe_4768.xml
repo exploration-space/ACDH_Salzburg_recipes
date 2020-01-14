@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>RÖste das Haber= Mehl schön licht im Schmaltz <lb/> laß es dann in Wasser wohl aufsieden <lb/> zwings durch <lb/> lasse es ferner sieden <lb/> und wirff Muscaten= Blüh darein : indessen zerklopffe einen Eyerdorttern rühre selbigen mit der Brüh <lb/> wann zuvor ein Stuck Butter darinnen zergangen <lb/> an <lb/> und richt es dann über würfflicht oder auch klein= aufgeschnittenes Brod.</p>
+        <p> RÖste das Haber= <objectName ref="mehl">Mehl</objectName> schön licht im Schmaltz <lb/> laß es dann in <objectName ref="wasser">Wasser</objectName> wohl aufsieden <lb/> zwings durch <lb/> lasse es ferner sieden <lb/> und wirff Muscaten= Blüh darein : indessen zerklopffe einen Eyerdorttern rühre selbigen mit der Brüh <lb/> wann zuvor ein Stuck <objectName ref="butter">Butter</objectName> darinnen zergangen <lb/> an <lb/> und richt es dann über würfflicht oder auch klein= aufgeschnittenes Brod. </p>
             </div>
         </body>
     </text>

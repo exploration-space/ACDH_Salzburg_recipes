@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Kollis Fioris ist ein Spanischer Salat <lb/> kan man auff allerley manier zurichten.</p>
+        <p> Kollis Fioris ist ein Spanischer <objectName ref="salat">Salat</objectName> <lb/> kan man auff allerley manier zurichten. </p>
             </div>
         </body>
     </text>

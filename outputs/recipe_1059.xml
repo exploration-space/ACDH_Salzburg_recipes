@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Throw your Artichokes into Salt and Water Half a Day; then make a Pot of Water boil, and put in the Artichokes, boil them till you can separate the Leaves from the Bottom; then cut off the Bottoms very smooth and clean, and put them into a Pot, with Pepper, Salt, Cloves, Mace, two Bay-leaves, and as much Vinegar as will cover them; then pour melted Butter enough over them to cover them an Inch thick; tie it down close, and keep them for Use. Put them into boiling Water when you use them, with a Piece of Butter in the Water to plump them, then use them as you think proper.</p>
+        <p> Throw your Artichokes into Salt and Water Half a Day; then make a Pot of Water boil, and put in the Artichokes, boil them till you can separate the Leaves from the Bottom; then cut off the Bottoms very smooth and clean, and put them into a Pot, with Pepper, Salt, Cloves, Mace, two Bay-leaves, and as much Vinegar as will cover them; then pour melted <objectName ref="butter">Butter</objectName> enough over them to cover them an Inch thick; tie it down close, and keep them for Use. Put them into boiling Water when you use them, with a Piece of <objectName ref="butter">Butter</objectName> in the Water to plump them, then use them as you think proper. </p>
             </div>
         </body>
     </text>

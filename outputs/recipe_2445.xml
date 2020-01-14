@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm Eyerdötterlein <lb/> zerklopffe dieselbe <lb/> giesse Wein und Rosenwasser daran <lb/> klopffs untereinander <lb/> röste Semmel= Mehl im Schmaltz <lb/> schütte das angerührte daran; thue Zucker und Saffran dazu <lb/> und laß es mit stetigem aufrühren sieden.</p>
+        <p> NImm Eyerdötterlein <lb/> zerklopffe dieselbe <lb/> giesse <objectName ref="wein">Wein</objectName> und <objectName ref="rosenwasser">Rosenwasser</objectName> daran <lb/> klopffs untereinander <lb/> röste Semmel= <objectName ref="mehl">Mehl</objectName> im Schmaltz <lb/> schütte das angerührte daran; thue <objectName ref="zucker">Zucker</objectName> und Saffran dazu <lb/> und laß es mit stetigem aufrühren sieden. </p>
             </div>
         </body>
     </text>

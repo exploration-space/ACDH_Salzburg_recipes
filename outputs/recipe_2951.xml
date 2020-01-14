@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm gebutzten <lb/> abgebrühten <lb/> klein= gehackten <lb/> und in Butter gerösten Spinät <lb/> mache ihn mit Butter <lb/> wenig Meel <lb/> Milchram <lb/> Saltz und Muscatnuß gut <lb/> siede Eyer hart <lb/> scheele und halbiere sie <lb/> besprengs mit wenig Saltz und Gewürtz <lb/> richte den fertig gemachten Spinät <lb/> in einen zierlichen Schüssel= Reiff <lb/> lege die Eyer nach Gefallen darauf <lb/> das Weiß <lb/> oder Gelbe übersich <lb/> auch schön nach der Ordnung wie ein Rosen <lb/> oder anderst <lb/> gibs wol warm und fett genug zu Tisch.</p>
+        <p> NImm gebutzten <lb/> abgebrühten <lb/> klein= gehackten <lb/> und in <objectName ref="butter">Butter</objectName> gerösten Spinät <lb/> mache ihn mit <objectName ref="butter">Butter</objectName> <lb/> wenig Meel <lb/> Milchram <lb/> Saltz und Muscatnuß gut <lb/> siede Eyer hart <lb/> scheele und halbiere sie <lb/> besprengs mit wenig Saltz und Gewürtz <lb/> richte den fertig gemachten Spinät <lb/> in einen zierlichen Schüssel= Reiff <lb/> lege die Eyer nach Gefallen darauf <lb/> das Weiß <lb/> oder Gelbe übersich <lb/> auch schön nach der Ordnung wie ein <objectName ref="rosen">Rosen</objectName> <lb/> oder anderst <lb/> gibs wol warm und <objectName ref="fett">fett</objectName> genug zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

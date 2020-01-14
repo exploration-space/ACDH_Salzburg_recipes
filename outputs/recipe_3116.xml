@@ -167,8 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>HAidel= oder Aeuglein= Beer <lb/> mit Wein angefeucht <lb/> und wol mit Zucker bestreut <lb/> dienet auch an statt eines süssen Salats.
-</p>
+        <p> HAidel= oder Aeuglein= Beer <lb/> mit <objectName ref="wein">Wein</objectName> angefeucht <lb/> und wol mit <objectName ref="zucker">Zucker</objectName> bestreut <lb/> dienet auch an statt eines süssen Salats. </p>
             </div>
         </body>
     </text>

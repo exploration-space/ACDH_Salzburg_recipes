@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZU diesen nimm ein Mund= Meel <lb/> zwey Löffelvoll Wein <lb/> oder süß Obers <lb/> mit halb so viel Zucker als Meel ist <lb/> mach ein glattes Taiglein mit wenig Saltz <lb/> daß er sich auswalgen läßt <lb/> leg etwas Eingemachtes Häufflein= weiß darauf <lb/> bestreichs und bedecks mit dem übrigen Taig <lb/> rädle es ab <lb/> und bachs kühl aus heissem Schmaltz.</p>
+        <p> ZU diesen nimm ein Mund= Meel <lb/> zwey Löffelvoll <objectName ref="wein">Wein</objectName> <lb/> oder süß Obers <lb/> mit halb so viel <objectName ref="zucker">Zucker</objectName> als Meel ist <lb/> mach ein glattes Taiglein mit wenig Saltz <lb/> daß er sich auswalgen läßt <lb/> leg etwas Eingemachtes Häufflein= weiß darauf <lb/> bestreichs und bedecks mit dem übrigen Taig <lb/> rädle es ab <lb/> und bachs kühl aus heissem Schmaltz. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Eröffnet die verstopffung der innern wege <lb/> ist gut für das Grimmen <lb/> mehret den Frawen die Milch <lb/> mit Zucker gemenget <lb/> vertreibt Nierenweh.</p>
+        <p> Eröffnet die verstopffung der innern wege <lb/> ist gut für das Grimmen <lb/> mehret den Frawen die <objectName ref="milch">Milch</objectName> <lb/> mit <objectName ref="zucker">Zucker</objectName> gemenget <lb/> vertreibt Nierenweh. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Pare twelve Cucumbers, slice 'em pretty thick, and lay them to drain; then put them into a coarse Cloth till they are dry; flour them and fry them brown in Butter; then put to them some Gravy, a little Claret, some Pepper, Cloves and Mace, and let them stew a little; then roll a Bit of Butter in Flour, and toss them up. Put them under Mutton or Lamb roasted.</p>
+        <p> Pare twelve Cucumbers, slice 'em pretty thick, and lay them to drain; then put them into a coarse Cloth till they are dry; flour them and fry them brown in <objectName ref="butter">Butter</objectName>; then put to them some Gravy, a little Claret, some Pepper, Cloves and Mace, and let them stew a little; then roll a Bit of <objectName ref="butter">Butter</objectName> in Flour, and toss them up. Put them under Mutton or Lamb roasted. </p>
             </div>
         </body>
     </text>

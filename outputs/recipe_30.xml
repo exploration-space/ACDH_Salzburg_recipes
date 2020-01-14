@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Gebuzte hendl<gap/>, schneidts in Vir <lb/> thaillen, vnnd siede<gap/> sye in Wasser, <lb/> Wasche sye wider, alsdann rests<gap/> in <lb/> butter, thues in ein Reindl<gap/>, Giesse<gap/> <lb/> Fleisch brie<gap/> daran, Prenne<gap/> sye ein als <lb/> wie andere hendl, löge die Wein= <lb/><lb/> (ve 9) böhrl<gap/> oder Ribessl darein Gewürz<gap/> <lb/> mit Musgablie<gap/>, vnnd Zimmet<gap/>, lög <lb/> ein stuck<gap/> butter darzue, lass Preglen<gap/>, <lb/> Wan du es anrichten Wilst, so thue die <lb/> trauben vnnd Ribessl schön darauf <lb/> richten. <lb/></p>
+        <p> Nimb Gebuzte hendl<gap/>, schneidts in Vir <lb/> thaillen, vnnd siede<gap/> sye in <objectName ref="wasser">Wasser</objectName>, <lb/> Wasche sye wider, alsdann rests<gap/> in <lb/> <objectName ref="butter">butter</objectName>, thues in ein Reindl<gap/>, Giesse<gap/> <lb/> <objectName ref="fleisch">Fleisch</objectName> brie<gap/> daran, Prenne<gap/> sye ein als <lb/> wie andere hendl, löge die Wein= <lb/><lb/> ( ve 9 ) böhrl<gap/> oder Ribessl darein Gewürz<gap/> <lb/> mit Musgablie<gap/>, vnnd Zimmet<gap/>, lög <lb/> ein stuck<gap/> <objectName ref="butter">butter</objectName> darzue, lass Preglen<gap/>, <lb/> Wan du es anrichten Wilst, so thue die <lb/> trauben vnnd Ribessl schön darauf <lb/> richten. <lb/> </p>
             </div>
         </body>
     </text>

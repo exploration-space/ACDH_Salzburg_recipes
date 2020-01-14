@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wenn du sihest <lb/> daß sich ein Wein verstossen hat <lb/> so schlag den Wein mit einem löcherten Holtz darzu bereitet <lb/> kreutzweiß gegen einander auff zweyen seiten <lb/> vnnd das Holtz sol also groß seyn <lb/> daß du es zu dem Spundt hinein bringen mögst <lb/> vnd rür den Wein mit demselbigen Holtz wol <lb/> daß er gescht vnd schäumet ein gantze stundt <lb/> vnd thu jn denn in ein new gebrenntes Faß <lb/> so wirt er lauter <lb/> frisch vnd gut.</p>
+        <p> Wenn du sihest <lb/> daß sich ein <objectName ref="wein">Wein</objectName> verstossen hat <lb/> so schlag den <objectName ref="wein">Wein</objectName> mit einem löcherten Holtz darzu bereitet <lb/> kreutzweiß gegen einander auff zweyen seiten <lb/> vnnd das Holtz sol also groß seyn <lb/> daß du es zu dem Spundt hinein bringen mögst <lb/> vnd rür den <objectName ref="wein">Wein</objectName> mit demselbigen Holtz wol <lb/> daß er gescht vnd schäumet ein gantze stundt <lb/> vnd thu jn denn in ein new gebrenntes Faß <lb/> so wirt er lauter <lb/> frisch vnd gut. </p>
             </div>
         </body>
     </text>

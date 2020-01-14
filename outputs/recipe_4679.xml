@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>LEget eine Eyer= Milch oder Eyer= Käß auf ein Tuch <lb/> biß das Wasser davon abseihet <lb/> schneidets dann zu Stücken <lb/> die eines Fingers lang und dick sind ; ziehet sie durch Eyerdottern <lb/> so mit Zucker zerklopffet worden : bachets <lb/> und tragets mit Zucker bestreuet <lb/> oder auch in einer süssen Brüh zu Tisch.</p>
+        <p> LEget eine Eyer= <objectName ref="milch">Milch</objectName> oder Eyer= Käß auf ein <objectName ref="tuch">Tuch</objectName> <lb/> biß das <objectName ref="wasser">Wasser</objectName> davon abseihet <lb/> schneidets dann zu Stücken <lb/> die eines Fingers lang und dick sind; ziehet sie durch Eyerdottern <lb/> so mit <objectName ref="zucker">Zucker</objectName> zerklopffet worden : bachets <lb/> und tragets mit <objectName ref="zucker">Zucker</objectName> bestreuet <lb/> oder auch in einer süssen Brüh zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

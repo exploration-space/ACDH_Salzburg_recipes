@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim zu 2. pfundt zuckers ein loht Ingwer <lb/> ein [S. 19] loht zimmet <lb/> Negelein <lb/> Cardomömlein <lb/> langen Pfef= fer <lb/> jedes ein quint. Mußcatennüß oder Muscatenblüht 2. quint. Galgant ein quintlein <lb/> Veihelwurtz ein halb loht <lb/> praepariers wie du vnterrichtet bist.</p>
+        <p> Nim zu 2. pfundt zuckers ein loht <objectName ref="ingwer">Ingwer</objectName> <lb/> ein [ S. 19 ] loht zimmet <lb/> Negelein <lb/> Cardomömlein <lb/> langen Pfef= fer <lb/> jedes ein <objectName ref="quint">quint</objectName>. Mußcatennüß oder Muscatenblüht 2. <objectName ref="quint">quint</objectName>. <objectName ref="galgant">Galgant</objectName> ein <objectName ref="quintlein">quintlein</objectName> <lb/> Veihelwurtz ein halb loht <lb/> praepariers wie du vnterrichtet bist. </p>
             </div>
         </body>
     </text>

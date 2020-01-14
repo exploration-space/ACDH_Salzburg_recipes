@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Ain gueten Khochlöfl voll schmalz in ainner <lb/> schißl, thues solanng riern biß es weiß wiert, <lb/> vnnd nimb klain gestossene Mandl ¼. lb. <lb/> buter od(er) was mehr darunter, vnd .2. schöpf= <lb/> =löfl voll Meell, vnd .4. ayr tuter .½ lb. mit wasser angemacht, khönnen Turten dar= <lb/> =aus gemacht werden. <lb/><lb/> (46r)</p>
+        <p> Ain gueten Khochlöfl voll <objectName ref="schmalz">schmalz</objectName> in ainner <lb/> schißl, thues solanng riern biß es weiß wiert, <lb/> vnnd nimb klain gestossene Mandl ¼. lb. <lb/> buter od ( er ) was mehr darunter, vnd.2. schöpf= <lb/> =löfl voll Meell, vnd.4. ayr tuter.½ lb. mit <objectName ref="wasser">wasser</objectName> angemacht, khönnen Turten dar= <lb/> =aus gemacht werden. <lb/><lb/> ( 46r ) </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>PLateis werden im frischen Wasser aufgesetzt <lb/> und seynd mit dem ersten geringsten Sud fertig <lb/> sodann abgesiehen <lb/> in die Schüssel gelegt <lb/> mit klein= gehackten grünen Petersil= Kräutlein <lb/> wann mans haben kan <lb/> oder nur Semmel= Brosen <lb/> Pfeffer <lb/> Imber <lb/> und Saltz bestreut <lb/> und dann heiß Schmaltz <lb/> oder Oel <lb/> mit oder ohne gerösten Zwibel darüber gebrennt <lb/> und aufgetragen.</p>
+        <p> PLateis werden im frischen <objectName ref="wasser">Wasser</objectName> aufgesetzt <lb/> und seynd mit dem ersten geringsten Sud fertig <lb/> sodann abgesiehen <lb/> in die <objectName ref="schuessel">Schüssel</objectName> gelegt <lb/> mit klein= gehackten grünen Petersil= Kräutlein <lb/> wann mans haben kan <lb/> oder nur Semmel= Brosen <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> und Saltz bestreut <lb/> und dann heiß Schmaltz <lb/> oder Oel <lb/> mit oder ohne gerösten Zwibel darüber gebrennt <lb/> und aufgetragen. </p>
             </div>
         </body>
     </text>

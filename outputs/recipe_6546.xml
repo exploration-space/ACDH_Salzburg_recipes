@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES seynd geschmacke Bach=Fischlein <lb/> und werden geschuppt <lb/> aufgemacht <lb/> gesaltzen <lb/> dann sammt dem Rogen gebachen <lb/> oder auch gesotten <lb/> mit Pfeffer <lb/> Imber <lb/> Muscatnuß <lb/> Eßig und Wasser <lb/> oder sauren Wein allein <lb/> oder gleich mit Eßig und Erbes=Brühe kurtz gesotten <lb/> mit klein=gehackten und gerösten Zwibel <lb/> Lorbeer=Blättlein (und so es beliebt <lb/>) Knoblauch <lb/> mit Butter <lb/> oder Oel <lb/> eingebrennt und angericht.</p>
+        <p> ES seynd geschmacke Bach=Fischlein <lb/> und werden geschuppt <lb/> aufgemacht <lb/> gesaltzen <lb/> dann sammt dem Rogen gebachen <lb/> oder auch gesotten <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> Muscatnuß <lb/> Eßig und <objectName ref="wasser">Wasser</objectName> <lb/> oder sauren <objectName ref="wein">Wein</objectName> allein <lb/> oder gleich mit Eßig und Erbes=Brühe kurtz gesotten <lb/> mit klein=gehackten und gerösten Zwibel <lb/> Lorbeer=Blättlein ( und so es beliebt <lb/> ) <objectName ref="knoblauch">Knoblauch</objectName> <lb/> mit <objectName ref="butter">Butter</objectName> <lb/> oder Oel <lb/> eingebrennt und angericht. </p>
             </div>
         </body>
     </text>

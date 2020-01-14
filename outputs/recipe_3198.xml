@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn der Hecht= Rogen gebutzt <lb/> und in Mörsel gestossen worden <lb/> so ist er gut <lb/> wann er auch in einem mit klein= gehackten Zwibel wohlgeschmältzten sauren Kraut abgerührt <lb/> und mit dicken sauren Ram gar gesotten wird.</p>
+        <p> WAnn der Hecht= Rogen gebutzt <lb/> und in Mörsel gestossen worden <lb/> so ist er gut <lb/> wann er auch in einem mit klein= gehackten Zwibel wohlgeschmältzten sauren <objectName ref="kraut">Kraut</objectName> abgerührt <lb/> und mit dicken sauren Ram gar gesotten wird. </p>
             </div>
         </body>
     </text>

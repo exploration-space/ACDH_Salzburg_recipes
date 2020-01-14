@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MArgaranten= oder Granat= Aepffel= Kern sauber ausgeschlagen <lb/> und mit Zucker wol süß gemacht <lb/> ist ein guter Salat.</p>
+        <p> MArgaranten= oder Granat= Aepffel= Kern sauber ausgeschlagen <lb/> und mit <objectName ref="zucker">Zucker</objectName> wol süß gemacht <lb/> ist ein guter <objectName ref="salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

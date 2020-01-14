@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Sied die schneggen, Wan das lükhl gern Wekh geht, so sein sie genueg <lb/> thues auß den heißlen herauß, man darff ganz nichts daruon <lb/> thuen, thue salz darauf, laß in einer pfan schmalz haiß Werden, <lb/> rest ein khlein gehakten Zwifl, vnd mell drein, schneid ein Petersill <lb/> khlein, Würff ihn auch darzue, vnd ein Wenig khlain geschnitnen <lb/> khnobloch. thue die schneggen darzue, rests alles durcheinander ein <lb/> Wenig, thue daran Arbes brüe Woll pfeffer vnd anders gewürz ein <lb/> wenig öel, laß durcheinander sieden, den khnobloch vnd Petersill, <lb/> khan man, Wan man gern Will, erst hinein legen, Wan die <lb/> Arbesbrüe dran ist. <lb/></p>
+        <p> Sied die schneggen, Wan das lükhl gern Wekh geht, so sein sie genueg <lb/> thues auß den heißlen herauß, man darff ganz nichts daruon <lb/> thuen, thue <objectName ref="salz">salz</objectName> darauf, laß in einer pfan <objectName ref="schmalz">schmalz</objectName> haiß Werden, <lb/> rest ein khlein gehakten Zwifl, vnd mell drein, schneid ein Petersill <lb/> khlein, Würff ihn auch darzue, vnd ein Wenig khlain geschnitnen <lb/> khnobloch. thue die schneggen darzue, rests alles durcheinander ein <lb/> Wenig, thue daran Arbes brüe Woll <objectName ref="pfeffer">pfeffer</objectName> vnd anders gewürz ein <lb/> wenig öel, laß durcheinander sieden, den khnobloch vnd Petersill, <lb/> khan man, Wan man gern Will, erst hinein legen, Wan die <lb/> Arbesbrüe dran ist. <lb/> </p>
             </div>
         </body>
     </text>

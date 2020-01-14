@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Das solle man hakhen ungesotner, darunder auch Petersill, <lb/> vnd vill faisten, auch Wenipörl, in ÿbrigen nimb alles dar= <lb/> zue, Wie Zu den khreß dorten, man khans auch von Leber vnd <lb/> Mägl machen, vnd ein Aÿr mehr nemmen, vnd ringer machen, <lb/> auch laß in einer Pfan die Weit ist, ein Zimblich stükhlein <lb/> schmalz haiß Werden, geuß es drein, oben vnd unden ein <lb/> gluet, laß gemach bachen.</p>
+        <p> Das solle man hakhen ungesotner, darunder auch Petersill, <lb/> vnd vill faisten, auch Wenipörl, in ÿbrigen nimb alles dar= <lb/> zue, Wie Zu den khreß dorten, man khans auch von <objectName ref="leber">Leber</objectName> vnd <lb/> Mägl machen, vnd ein Aÿr mehr nemmen, vnd ringer machen, <lb/> auch laß in einer Pfan die Weit ist, ein Zimblich stükhlein <lb/> <objectName ref="schmalz">schmalz</objectName> haiß Werden, geuß es drein, oben vnd unden ein <lb/> gluet, laß gemach bachen. </p>
             </div>
         </body>
     </text>

@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Rucken ( wann die Haut herunter ist <lb/> ist er gut zu braten <lb/> gantzer <lb/> oder Stückweiß <lb/> auch gesottner zuzurichten <lb/> wie der Hirsch= Zemmer <lb/> oder auch mit einem Weichsel= Maulbeer= Johannes= Beerlein= oder andern dergleichen Safft <lb/> Zucker <lb/> Wein <lb/> gerösten Brod <lb/> und guten Gewürtz gemachten Brühe <lb/> zu geben <lb/> ) oder auch in guter Citronen= oder Pomerantzen= Brühe <lb/> gelb und auf dise Weiß seynd alle Stuck von dem wilden Schwein gut und wohlgeschmack.</p>
+        <p> DEr Rucken ( wann die Haut herunter ist <lb/> ist er gut zu braten <lb/> gantzer <lb/> oder Stückweiß <lb/> auch gesottner zuzurichten <lb/> wie der Hirsch= Zemmer <lb/> oder auch mit einem Weichsel= Maulbeer= Johannes= Beerlein= oder andern dergleichen Safft <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> <objectName ref="wein">Wein</objectName> <lb/> gerösten Brod <lb/> und guten Gewürtz gemachten <objectName ref="bruehe">Brühe</objectName> <lb/> zu geben <lb/> ) oder auch in guter Citronen= oder Pomerantzen= <objectName ref="bruehe">Brühe</objectName> <lb/> gelb und auf dise Weiß seynd alle Stuck von dem wilden Schwein gut und wohlgeschmack. </p>
             </div>
         </body>
     </text>

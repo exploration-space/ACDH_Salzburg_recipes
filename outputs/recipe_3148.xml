@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>RUben <lb/> die wilde Art <lb/> so in fetten Feldern in dem Getreyd als Unkraut wachst <lb/> so bald sie in dem Frühling Spannen= lang seynd <lb/> so werden sie abgebrockt <lb/> und wie der Sprößlein= Salat gebrüht <lb/> und mit Pfeffer <lb/> Oel und Eßig gemacht.</p>
+        <p> RUben <lb/> die wilde Art <lb/> so in fetten Feldern in dem Getreyd als Unkraut wachst <lb/> so bald sie in dem Frühling Spannen= lang seynd <lb/> so werden sie abgebrockt <lb/> und wie der Sprößlein= <objectName ref="salat">Salat</objectName> gebrüht <lb/> und mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Oel und Eßig gemacht. </p>
             </div>
         </body>
     </text>

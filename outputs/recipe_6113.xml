@@ -172,9 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm überbrühete Brüßlein <lb/> und Kälber= Euterlein <lb/> hacks unter einander klein; dann rösts <lb/> mit klein= gehacktem Zwibel und Eyerdotter in Butter <lb/> gewürtz sie mit Pfeffer und Muscatnuß <lb/> gibs in kleine <lb/> oder Genueser= Pastetlein <lb/> oder auf gebähte Semmel= Schnitten <lb/> gleich denen Schnepffen= Schnitten.
-
- </p>
+        <p> NImm überbrühete Brüßlein <lb/> und Kälber= Euterlein <lb/> hacks unter einander klein; dann rösts <lb/> mit klein= gehacktem Zwibel und Eyerdotter in <objectName ref="butter">Butter</objectName> <lb/> gewürtz sie mit <objectName ref="pfeffer">Pfeffer</objectName> und Muscatnuß <lb/> gibs in kleine <lb/> oder Genueser= Pastetlein <lb/> oder auf gebähte Semmel= Schnitten <lb/> gleich denen Schnepffen= Schnitten. </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mach ein strauben taig an, geuß ihn in ein Fazenet, bindt es Zusammen, <lb/> thues in ein siedigs Wasser in ein pfan, laß sieden, biß genueg ist, <lb/> schneid mit Zwiemb dine Plätl herunder, legs auf ein schißl, Creüz= <lb/> Weiß, strä ein geribne Sembl drauf, brens mit einem haissen <lb/> schmalz oder Zerlassnen Puter, geuß den drüber, stups mit einem <lb/> Pfefferstup, so ists bereith. <lb/></p>
+        <p> Mach ein <objectName ref="strauben">strauben</objectName> taig an, geuß ihn in ein Fazenet, bindt es Zusammen, <lb/> thues in ein siedigs <objectName ref="wasser">Wasser</objectName> in ein pfan, laß sieden, biß genueg ist, <lb/> schneid mit Zwiemb dine Plätl herunder, legs auf ein schißl, Creüz= <lb/> Weiß, strä ein geribne Sembl drauf, brens mit einem haissen <lb/> <objectName ref="schmalz">schmalz</objectName> oder Zerlassnen Puter, geuß den drüber, stups mit einem <lb/> Pfefferstup, so ists bereith. <lb/> </p>
             </div>
         </body>
     </text>

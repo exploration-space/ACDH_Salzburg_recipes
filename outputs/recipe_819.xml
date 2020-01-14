@@ -168,9 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Richte und siede die Kösten <lb/> wie erst beschrieben <lb/> und treibs durch <lb/> reibe ein oder mehr Pomerantzen an einem gantzen Zuckerhut <lb/> nach Proportion oder Grösse des Muß <lb/> und trucke dessen Safft durch ein Sieblein oder Tuch darein <lb/> damit die Kerner zurück bleiben <lb/> treibs schön glatt ab <lb/> ist es zu dünn <lb/> so mische klein=gefädte Semmel=Brosen <lb/> oder gantz klein=gestoßne Mandeln darunter <lb/> laß gemach kochen <lb/> und gibs wol süß mit Zucker bestreuter.
-
-NB. Wer will <lb/> kann Eyer darein nehmen <lb/> wol damit abrühren <lb/> wie auch zerlassenen Butter <lb/> und mit doppelter Glut in der Schüssel lassen anziehen.</p>
+        <p> Richte und siede die Kösten <lb/> wie erst beschrieben <lb/> und treibs durch <lb/> reibe ein oder mehr Pomerantzen an einem gantzen <objectName ref="zuckerhut">Zuckerhut</objectName> <lb/> nach Proportion oder Grösse des Muß <lb/> und trucke dessen Safft durch ein Sieblein oder <objectName ref="tuch">Tuch</objectName> darein <lb/> damit die Kerner zurück bleiben <lb/> treibs schön glatt ab <lb/> ist es zu dünn <lb/> so mische klein=gefädte Semmel=Brosen <lb/> oder gantz klein=gestoßne <objectName ref="mandeln">Mandeln</objectName> darunter <lb/> laß gemach kochen <lb/> und gibs wol süß mit <objectName ref="zucker">Zucker</objectName> bestreuter. NB. Wer will <lb/> kann Eyer darein nehmen <lb/> wol damit abrühren <lb/> wie auch zerlassenen <objectName ref="butter">Butter</objectName> <lb/> und mit doppelter <objectName ref="glut">Glut</objectName> in der <objectName ref="schuessel">Schüssel</objectName> lassen anziehen. </p>
             </div>
         </body>
     </text>

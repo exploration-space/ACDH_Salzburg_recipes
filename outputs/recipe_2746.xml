@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm ein halb Pfund Pisdazi, so grün und frisch du es bekommen kanst <lb/> ziehe es ab <lb/> und legs in kaltes Wasser <lb/> wie auch ein halb Pfund Mandeln <lb/> oder Zirbes= Nüßlein <lb/> stoß klein <lb/> nimm ein Viertels Pfund eingemachten Citroni <lb/> der gantz klein geschnitten ist <lb/> auch von einem Lemoni die Schelffen <lb/> thue es durcheinander <lb/> nimm von sechs Eyern die Klar <lb/> schlags ab zu einem Faum <lb/> machs mit Lemoni= Safft recent, streichs auf Oblaten <lb/> und bache es <lb/> wie erst beschrieben worden in diesem Capitel N°. 17.</p>
+        <p> NImm ein halb <objectName ref="pfund">Pfund</objectName> Pisdazi, so grün und frisch du es bekommen kanst <lb/> ziehe es ab <lb/> und legs in kaltes <objectName ref="wasser">Wasser</objectName> <lb/> wie auch ein halb <objectName ref="pfund">Pfund</objectName> <objectName ref="mandeln">Mandeln</objectName> <lb/> oder Zirbes= Nüßlein <lb/> stoß klein <lb/> nimm ein Viertels <objectName ref="pfund">Pfund</objectName> eingemachten Citroni <lb/> der gantz klein geschnitten ist <lb/> auch von einem Lemoni die Schelffen <lb/> thue es durcheinander <lb/> nimm von sechs Eyern die Klar <lb/> schlags ab zu einem Faum <lb/> machs mit Lemoni= Safft recent, streichs auf <objectName ref="oblaten">Oblaten</objectName> <lb/> und bache es <lb/> wie erst beschrieben worden in diesem Capitel N°. 17. </p>
             </div>
         </body>
     </text>

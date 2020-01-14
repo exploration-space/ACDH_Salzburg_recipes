@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) frischen Speck <lb/> vnd ein wenig Zwibel <lb/> hack es durch einander <lb/> vnd schlag Eyer auff <lb/> eins oder zehen <lb/> mach ein eingerürtes mit Butter vnd grünen Kräutern <lb/> mach es mit Gewürtz gelb oder nicht. Thu die Füll in den Magen <lb/> vnnd bindt jn mit einem Bindtgarn oder Speil zu. Nim(m) darnach ein gut Rindtfleischbrüh <lb/> die nicht feißt ist <lb/> Pettersilgen Wurtzel vnd grüne Kräuter <lb/> vnd mach es damit ab <lb/> so wirt gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) frischen <objectName ref="speck">Speck</objectName> <lb/> vnd ein wenig Zwibel <lb/> hack es durch einander <lb/> vnd schlag Eyer auff <lb/> eins oder zehen <lb/> mach ein eingerürtes mit <objectName ref="butter">Butter</objectName> vnd grünen <objectName ref="kraeuter">Kräutern</objectName> <lb/> mach es mit Gewürtz gelb oder nicht. Thu die Füll in den <objectName ref="magen">Magen</objectName> <lb/> vnnd bindt jn mit einem Bindtgarn oder Speil zu. Nim ( m ) darnach ein gut Rindtfleischbrüh <lb/> die nicht feißt ist <lb/> Pettersilgen Wurtzel vnd grüne <objectName ref="kraeuter">Kräuter</objectName> <lb/> vnd mach es damit ab <lb/> so wirt gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

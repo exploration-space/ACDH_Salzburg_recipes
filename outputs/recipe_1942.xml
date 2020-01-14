@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>So nimb ein halb gueten viertinge Wein, thue ihn in ein neues <lb/> hefen, leg Mußcatblüe drein, Ingber 2. roth haußen blatern, <lb/> Zugger es Woll, vnd gilbs, das es schen gelb ist, seud den fisch an <lb/> die stat, trükher es Woll ab, geuß die Sulz ÿber die fisch. <lb/></p>
+        <p> So nimb ein halb gueten viertinge <objectName ref="wein">Wein</objectName>, thue ihn in ein neues <lb/> hefen, leg Mußcatblüe drein, Ingber 2. roth haußen blatern, <lb/> Zugger es Woll, vnd gilbs, das es schen gelb ist, seud den <objectName ref="fisch">fisch</objectName> an <lb/> die stat, trükher es Woll ab, geuß die Sulz ÿber die <objectName ref="fisch">fisch</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

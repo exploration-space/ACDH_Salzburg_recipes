@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>THue die lebendigen Schlein in einen Hafen <lb/> oder tieffen Kessel <lb/> gieß siediges Wasser darüber <lb/> ziehe ihnen die Haut mit denen Schuppen hinweg <lb/> machs auf <lb/> thue die Gall hinweg <lb/> mach eine gute Wein= Lemoni= oder Zwibelbrühe <lb/> gelb mit Butter <lb/> Gewürtz und Erbes= Brühe ; laß die Perschling darinnen kochen <lb/> sie seynd gut und geschmack.</p>
+        <p> THue die lebendigen Schlein in einen <objectName ref="hafen">Hafen</objectName> <lb/> oder tieffen <objectName ref="kessel">Kessel</objectName> <lb/> gieß siediges <objectName ref="wasser">Wasser</objectName> darüber <lb/> ziehe ihnen die Haut mit denen Schuppen hinweg <lb/> machs auf <lb/> thue die Gall hinweg <lb/> mach eine gute Wein= Lemoni= oder Zwibelbrühe <lb/> gelb mit <objectName ref="butter">Butter</objectName> <lb/> Gewürtz und Erbes= <objectName ref="bruehe">Brühe</objectName>; laß die Perschling darinnen kochen <lb/> sie seynd gut und geschmack. </p>
             </div>
         </body>
     </text>

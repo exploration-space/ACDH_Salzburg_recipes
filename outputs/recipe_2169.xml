@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Laß den Sälbling ganz, thue in ein Weite pfan öel, leg darein Lorber= <lb/> bleter, leg den fisch drein, sez auf ein gluet, laß ihn also gemach <lb/> herab braten, das er schen außkhocht, nimb ein wenig schmalz in ein <lb/> Pfan, hiz es, rest darin ein Wenig khlein gehakhten Zwifl, nach souill <lb/> geribne Sembl, rests miteinander fein liechtbraun, geuß darein <lb/> Essig, Arbesbrüe, khlain geschnitnen Rosmarin, gewürz, Saffran, <lb/> ein Wenig öel, laß es alles in einem häferl oder pfan Woll sieden, <lb/> geuß ÿber die fisch ab. <lb/></p>
+        <p> Laß den Sälbling ganz, thue in ein Weite pfan öel, leg darein Lorber= <lb/> bleter, leg den <objectName ref="fisch">fisch</objectName> drein, sez auf ein gluet, laß ihn also gemach <lb/> herab braten, das er schen außkhocht, nimb ein wenig <objectName ref="schmalz">schmalz</objectName> in ein <lb/> Pfan, hiz es, rest darin ein Wenig khlein gehakhten Zwifl, nach souill <lb/> geribne Sembl, rests miteinander fein liechtbraun, geuß darein <lb/> <objectName ref="essig">Essig</objectName>, Arbesbrüe, khlain geschnitnen <objectName ref="rosmarin">Rosmarin</objectName>, gewürz, Saffran, <lb/> ein Wenig öel, laß es alles in einem häferl oder pfan Woll sieden, <lb/> geuß ÿber die <objectName ref="fisch">fisch</objectName> ab. <lb/> </p>
             </div>
         </body>
     </text>

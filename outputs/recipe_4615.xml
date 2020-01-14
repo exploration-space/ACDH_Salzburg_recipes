@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Rühret unter ein Viertel= Pfund geriebener Mandeln <lb/> einen halben Vierding oder Achtel= Pfund gestossenen Zucker <lb/> würtzets mit Zimmet <lb/> Cardamomen <lb/> und Muscaten= Nuß <lb/> legets auf Oblaten; machet mit einem Messer= Rucken länglichte Schnitten daraus <lb/> bachets in einer gähen Hitz <lb/> schön gelblicht <lb/> und verguldet die Schnitten.</p>
+        <p> Rühret unter ein Viertel= <objectName ref="pfund">Pfund</objectName> geriebener <objectName ref="mandeln">Mandeln</objectName> <lb/> einen halben <objectName ref="vierding">Vierding</objectName> oder Achtel= <objectName ref="pfund">Pfund</objectName> gestossenen <objectName ref="zucker">Zucker</objectName> <lb/> würtzets mit Zimmet <lb/> Cardamomen <lb/> und Muscaten= Nuß <lb/> legets auf <objectName ref="oblaten">Oblaten</objectName>; machet mit einem Messer= Rucken länglichte Schnitten daraus <lb/> bachets in einer gähen Hitz <lb/> schön gelblicht <lb/> und verguldet die Schnitten. </p>
             </div>
         </body>
     </text>

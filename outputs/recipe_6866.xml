@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Ehe du den Hecht eynschlegst in Ruckenteig <lb/> so laß jn im Saltz vnd Gewürtz ein stundt beissen <lb/> vnter deß machstu den Ruckenteig an mit warmen Wasser <lb/> vn(d) ein wenig Saltz <lb/> d(ass) er fein steiff wirt <lb/> schlag den Hecht mit Limonien <lb/> die breit geschnitten <lb/> vnd mit Butter <lb/> eyn <lb/> scheubs in Ofen <lb/> laß backen <lb/> vnd kalt werden <lb/> so ist es gut vnd wolgeschmack.</p>
+        <p> Ehe du den <objectName ref="hecht">Hecht</objectName> eynschlegst in Ruckenteig <lb/> so laß jn im Saltz vnd Gewürtz ein stundt beissen <lb/> vnter deß machstu den Ruckenteig an mit warmen <objectName ref="wasser">Wasser</objectName> <lb/> vn ( d ) ein wenig Saltz <lb/> d ( ass ) er fein steiff wirt <lb/> schlag den <objectName ref="hecht">Hecht</objectName> mit Limonien <lb/> die breit geschnitten <lb/> vnd mit <objectName ref="butter">Butter</objectName> <lb/> eyn <lb/> scheubs in <objectName ref="ofen">Ofen</objectName> <lb/> laß backen <lb/> vnd kalt werden <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

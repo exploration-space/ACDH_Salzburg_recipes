@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Darzu nimm Weixel <lb/> oder Amerellen <lb/> oder Kirschen <lb/> brocks ab vom Stengel <lb/> zerstoß wol in einem Mersel mit dem Kern <lb/> treibs mit einem rothen Wein durch ein Sieblein <lb/> rühr ein schönes Meel darein <lb/> und zuckere es <lb/> laß sieden biß dick wird <lb/> richts an <lb/> laß kalt werden <lb/> thue Zucker und Zimmet darauf; also macht mans auch mit gerösten Semmel=Brosen.</p>
+        <p> Darzu nimm Weixel <lb/> oder Amerellen <lb/> oder <objectName ref="kirschen">Kirschen</objectName> <lb/> brocks ab vom Stengel <lb/> zerstoß wol in einem Mersel mit dem Kern <lb/> treibs mit einem rothen <objectName ref="wein">Wein</objectName> durch ein Sieblein <lb/> rühr ein schönes Meel darein <lb/> und zuckere es <lb/> laß sieden biß dick wird <lb/> richts an <lb/> laß kalt werden <lb/> thue <objectName ref="zucker">Zucker</objectName> und Zimmet darauf; also macht mans auch mit gerösten Semmel=Brosen. </p>
             </div>
         </body>
     </text>

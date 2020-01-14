@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneid <lb/> klopffe gewürtz und saltz die Carbonädlein ein wenig <lb/> schwings im Meel <lb/> und bachs aus heissem Schmaltz oder bräune sie mit Speck <lb/> legs in ein Rein <lb/> oder Casserol <lb/> gleich allein <lb/> oder mit einem Zusatz von gebachenen Knödlein <lb/> Schwammen <lb/> oder Maurachen <lb/> mit wenig Wein und Wasser <lb/> oder guter Fleischbrühe <lb/> laß genug sieden <lb/> und gibs mit gutem Geschmack <lb/> oder mit braunem Zwibel allein <lb/> oder in Rago.</p>
+        <p> SChneid <lb/> klopffe gewürtz und saltz die Carbonädlein ein wenig <lb/> schwings im Meel <lb/> und bachs aus heissem Schmaltz oder bräune sie mit <objectName ref="speck">Speck</objectName> <lb/> legs in ein <objectName ref="rein">Rein</objectName> <lb/> oder Casserol <lb/> gleich allein <lb/> oder mit einem Zusatz von gebachenen Knödlein <lb/> Schwammen <lb/> oder Maurachen <lb/> mit wenig <objectName ref="wein">Wein</objectName> und <objectName ref="wasser">Wasser</objectName> <lb/> oder guter <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> laß genug sieden <lb/> und gibs mit gutem Geschmack <lb/> oder mit braunem Zwibel allein <lb/> oder in Rago. </p>
             </div>
         </body>
     </text>

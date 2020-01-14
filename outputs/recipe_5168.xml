@@ -180,7 +180,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>STreiffe dem Aalfisch die Haut <lb/> oder den Balg ab <lb/> nimm ihn aus <lb/> zerstucke ihn <lb/> und siede solchen mit Eßig <lb/> Wein <lb/> Wasser und wol Saltz ab <lb/> röste in einem Casserol kleingehackten Zwibel <lb/> mit wenig Meel <lb/> oder Semmel= Brosen <lb/> Liecht= gelb <lb/> in Butter mit Capry <lb/> gieß Wein <lb/> Erbes= Brühe und Eßig darein <lb/> Gewürtz mit Pfeffer <lb/> Imber <lb/> Muscatnuß <lb/> auch wol Lemoni= Schelffen <lb/> mit wenig Saltz <lb/> laß die abgesottne Aalenfisch <lb/> einen gar kurtzen Sud darinn thun <lb/> richt die Aalfisch an <lb/> gilbe die Suppen <lb/> und gibs darüber.</p>
+        <p> STreiffe dem Aalfisch die Haut <lb/> oder den Balg ab <lb/> nimm ihn aus <lb/> zerstucke ihn <lb/> und siede solchen mit Eßig <lb/> <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="wasser">Wasser</objectName> und wol Saltz ab <lb/> röste in einem Casserol kleingehackten Zwibel <lb/> mit wenig Meel <lb/> oder Semmel= Brosen <lb/> Liecht= gelb <lb/> in <objectName ref="butter">Butter</objectName> mit Capry <lb/> gieß <objectName ref="wein">Wein</objectName> <lb/> Erbes= <objectName ref="bruehe">Brühe</objectName> und Eßig darein <lb/> Gewürtz mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> Muscatnuß <lb/> auch wol Lemoni= Schelffen <lb/> mit wenig Saltz <lb/> laß die abgesottne Aalenfisch <lb/> einen gar kurtzen Sud darinn thun <lb/> richt die Aalfisch an <lb/> gilbe die <objectName ref="suppe">Suppen</objectName> <lb/> und gibs darüber. </p>
             </div>
         </body>
     </text>

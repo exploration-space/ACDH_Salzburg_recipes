@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Erstlich nimm ein halb Maaß guten süssen Ram <lb/> und 6. Eyerklar <lb/> zuckere es <lb/> biß süß genug ist <lb/> und wol durcheinander abgesprittlet <lb/> darnach muß mans in ein halb Kandel seihen <lb/> und in einen Hafen <lb/> mit siedendem Wasser setzen <lb/> daß aber das Wasser nicht in die Kandel fliessen kann <lb/> und sieden lassen <lb/> biß es dick wird <lb/> darnach thus mit einem silbernen Löffel heraus <lb/> auf ein silberne <lb/> oder andere schöne Schüssel <lb/> und wanns ausgekühlt <lb/> gieß andern süssen Ram daran <lb/> daß der Schüssel gleich ist <lb/> und gibs kalt.</p>
+        <p> Erstlich nimm ein halb Maaß guten süssen Ram <lb/> und 6. Eyerklar <lb/> zuckere es <lb/> biß süß genug ist <lb/> und wol durcheinander abgesprittlet <lb/> darnach muß mans in ein halb Kandel seihen <lb/> und in einen <objectName ref="hafen">Hafen</objectName> <lb/> mit siedendem <objectName ref="wasser">Wasser</objectName> setzen <lb/> daß aber das <objectName ref="wasser">Wasser</objectName> nicht in die Kandel fliessen kann <lb/> und sieden lassen <lb/> biß es dick wird <lb/> darnach thus mit einem silbernen <objectName ref="loeffel">Löffel</objectName> heraus <lb/> auf ein silberne <lb/> oder andere schöne <objectName ref="schuessel">Schüssel</objectName> <lb/> und wanns ausgekühlt <lb/> gieß andern süssen Ram daran <lb/> daß der <objectName ref="schuessel">Schüssel</objectName> gleich ist <lb/> und gibs kalt. </p>
             </div>
         </body>
     </text>

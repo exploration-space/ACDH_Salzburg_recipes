@@ -167,9 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Scheele die Birn <lb/> wann sie schon nicht gar zu zeitig <lb/> oder noch herb seynd <lb/> setzte sie in Wasser zu <lb/> und laß verdeckter lang sieden <lb/> und wann sie halb eingesotten <lb/> mache sie mit Zucker wol süß <lb/> in Ermanglung des Zuckers <lb/> oder Hönig <lb/> kann man Birn=Safft nehmen <lb/> und kurtz einsieden lassen <lb/> so werden sie von dem langen Sud schön roth <lb/> gibs mit Zucker bestreut zu Tisch.
-
-NB. Wer will <lb/> kans auch also in Wein <lb/> mit viel Zucker <lb/> und gantzen Zimmet <lb/> mit wenig Näglein <lb/> lang und verdeckter kochen lassen.</p>
+        <p> Scheele die Birn <lb/> wann sie schon nicht gar zu zeitig <lb/> oder noch herb seynd <lb/> setzte sie in <objectName ref="wasser">Wasser</objectName> zu <lb/> und laß verdeckter lang sieden <lb/> und wann sie halb eingesotten <lb/> mache sie mit <objectName ref="zucker">Zucker</objectName> wol süß <lb/> in Ermanglung des Zuckers <lb/> oder Hönig <lb/> kann man Birn=Safft nehmen <lb/> und kurtz einsieden lassen <lb/> so werden sie von dem langen Sud schön roth <lb/> gibs mit <objectName ref="zucker">Zucker</objectName> bestreut zu <objectName ref="tisch">Tisch</objectName>. NB. Wer will <lb/> kans auch also in <objectName ref="wein">Wein</objectName> <lb/> mit viel <objectName ref="zucker">Zucker</objectName> <lb/> und gantzen Zimmet <lb/> mit wenig Näglein <lb/> lang und verdeckter kochen lassen. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>VOn dem Indian <lb/> das Fleisch von der Brust genommen <lb/> mit Ochsen= Marck <lb/> oder rinderner Feisten <lb/> geweichter Semmel <lb/> Eyern <lb/> Gewürtz und Saltz <lb/> auch wohlriechenden Kräutlein <lb/> klein= gehackt <lb/> gibt gute Knödlein <lb/> Strützlein <lb/> Netzleins=Würst <lb/> Gehäck= Pastetlein <lb/> und gute Kräpfflein ; Item <lb/> von disem Brät die Indian= Brust wieder angeschlagen <lb/> und gedämpfft <lb/> zu einer Speiß <lb/> mit einem guten Ragu <lb/> oder auf Reiß <lb/> Mackronen <lb/> geschnittne Nudeln <lb/> oder auch auf eine gemischte Suppen.</p>
+        <p> VOn dem Indian <lb/> das <objectName ref="fleisch">Fleisch</objectName> von der <objectName ref="brust">Brust</objectName> genommen <lb/> mit Ochsen= Marck <lb/> oder rinderner <objectName ref="feisten">Feisten</objectName> <lb/> geweichter Semmel <lb/> Eyern <lb/> Gewürtz und Saltz <lb/> auch wohlriechenden Kräutlein <lb/> klein= gehackt <lb/> gibt gute Knödlein <lb/> Strützlein <lb/> Netzleins=Würst <lb/> Gehäck= Pastetlein <lb/> und gute Kräpfflein; Item <lb/> von disem Brät die Indian= <objectName ref="brust">Brust</objectName> wieder angeschlagen <lb/> und gedämpfft <lb/> zu einer Speiß <lb/> mit einem guten Ragu <lb/> oder auf Reiß <lb/> Mackronen <lb/> geschnittne <objectName ref="nudeln">Nudeln</objectName> <lb/> oder auch auf eine gemischte <objectName ref="suppe">Suppen</objectName>. </p>
             </div>
         </body>
     </text>

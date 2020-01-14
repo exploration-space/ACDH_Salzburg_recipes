@@ -171,9 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Kälberne Schlegel <lb/> so gebraten <lb/> wann er kalt <lb/> zu dünnen Blättlein geschnitten <lb/> und mit Pfeffer <lb/> Eßig und Oel angemacht <lb/> hier nehmen etliche Zwibel und Knoblauch darzu <lb/> und klein= gehackten Petersil <lb/> andere aber lassen dieses aus <lb/> und nehmen an dessen statt Zucker <lb/> Zimmet und Weinbeerlein darzu.
-
-NB. Und also macht mans auch von andern allerhand Gebrattnem.</p>
+        <p> Kälberne <objectName ref="schlegel">Schlegel</objectName> <lb/> so gebraten <lb/> wann er kalt <lb/> zu dünnen Blättlein geschnitten <lb/> und mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Eßig und Oel angemacht <lb/> hier nehmen etliche Zwibel und <objectName ref="knoblauch">Knoblauch</objectName> darzu <lb/> und klein= gehackten Petersil <lb/> andere aber lassen dieses aus <lb/> und nehmen an dessen statt <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet und Weinbeerlein darzu. NB. Und also macht mans auch von andern allerhand Gebrattnem. </p>
             </div>
         </body>
     </text>

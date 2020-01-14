@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Grün Kopffel Salat halb roh vnnd halb vberquellt <lb/> ist auff beyde manier gut <lb/> es sey süß oder saur.</p>
+        <p> Grün Kopffel <objectName ref="salat">Salat</objectName> halb roh vnnd halb vberquellt <lb/> ist auff beyde manier gut <lb/> es sey süß oder saur. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm das Brät vom Schlegel <lb/> frisch <lb/> hacke solches mit gutem überbrühtem Speck und Kälber=Euterlein <lb/> auch auch recht in Gewürtz und Saltz <lb/> und mach rechte Bratwürst darauß.</p>
+        <p> NImm das Brät vom <objectName ref="schlegel">Schlegel</objectName> <lb/> frisch <lb/> hacke solches mit gutem überbrühtem <objectName ref="speck">Speck</objectName> und Kälber=Euterlein <lb/> auch auch recht in Gewürtz und Saltz <lb/> und mach rechte Bratwürst darauß. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>So bren vill mell in einer Weiten pfan, fein schön braun, <lb/> geuß darnach ein wenig Wein, vnd ein Wenig Wasser, rühre <lb/> es schen glat, das es nit khnollig seÿ, geuß auch nit Zuuill, laß <lb/> darkhielen, schlag darnach 6. oder 7. Aÿr daran, auch Woll <lb/> Zukher vnd Zimet beÿ einem halben loth, geuß in ein marbes <lb/> taigl Wie oben geschriben, bach es in einem dorten bëkhl, <lb/> man darf khein rämblein lukh drüber machen, Wan sie <lb/> bachen, säet man Zukher drauf, Wie auf die Spëkh: vnd <lb/> faisten dorten. <lb/></p>
+        <p> So bren vill mell in einer Weiten pfan, fein schön braun, <lb/> geuß darnach ein wenig <objectName ref="wein">Wein</objectName>, vnd ein Wenig <objectName ref="wasser">Wasser</objectName>, rühre <lb/> es schen glat, das es nit khnollig seÿ, geuß auch nit Zuuill, laß <lb/> darkhielen, schlag darnach 6. oder 7. Aÿr daran, auch Woll <lb/> Zukher vnd Zimet beÿ einem halben <objectName ref="loth">loth</objectName>, geuß in ein marbes <lb/> taigl Wie oben geschriben, bach es in einem dorten bëkhl, <lb/> man darf khein rämblein lukh drüber machen, Wan sie <lb/> bachen, säet man Zukher drauf, Wie auf die Spëkh : vnd <lb/> faisten dorten. <lb/> </p>
             </div>
         </body>
     </text>

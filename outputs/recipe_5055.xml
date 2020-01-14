@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm klein= geriebne Mandeln <lb/> machs an mit Zucker <lb/> Zimmet und Rosen= Wasser <lb/> wenig Eyerdotter und Ram in rechter Dicke <lb/> und fülls in die Dorten ; ist gut <lb/> in allerhand Taig.</p>
+        <p> Nimm klein= geriebne <objectName ref="mandeln">Mandeln</objectName> <lb/> machs an mit <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet und Rosen= <objectName ref="wasser">Wasser</objectName> <lb/> wenig Eyerdotter und Ram in rechter Dicke <lb/> und fülls in die Dorten; ist gut <lb/> in allerhand Taig. </p>
             </div>
         </body>
     </text>

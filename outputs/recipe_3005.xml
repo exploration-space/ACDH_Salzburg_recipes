@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIto gebrüht <lb/> abgesiehen <lb/> mit Butter schön gelb eingebrennt <lb/> in saur und süssen Ram.</p>
+        <p> DIto gebrüht <lb/> abgesiehen <lb/> mit <objectName ref="butter">Butter</objectName> schön gelb eingebrennt <lb/> in saur und süssen Ram. </p>
             </div>
         </body>
     </text>

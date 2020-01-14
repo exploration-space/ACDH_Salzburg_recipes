@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wasch gar schen, buz mit einem Messer das khot dauon, aber die schell nit, <lb/> seuds in eim Wein, so lang als ein harts baor Aÿr, richts an auf ein Tisch= <lb/> fazenet, dekhs Zue, auch ein schißl drüber, oder schneids Wans gsoten Zu <lb/> dinen blätlein Wie ein Rädich auf ein schißl, ein Wenig Salz, öel vnd groben <lb/> Pfeffer, laß auf einer gluet ein Sud thuen. <lb/></p>
+        <p> Wasch gar schen, buz mit einem <objectName ref="messer">Messer</objectName> das khot dauon, aber die schell nit, <lb/> seuds in eim <objectName ref="wein">Wein</objectName>, so lang als ein harts baor Aÿr, richts an auf ein Tisch= <lb/> fazenet, dekhs Zue, auch ein schißl drüber, oder schneids Wans gsoten Zu <lb/> dinen blätlein Wie ein Rädich auf ein schißl, ein Wenig <objectName ref="salz">Salz</objectName>, öel vnd groben <lb/> <objectName ref="pfeffer">Pfeffer</objectName>, laß auf einer gluet ein Sud thuen. <lb/> </p>
             </div>
         </body>
     </text>

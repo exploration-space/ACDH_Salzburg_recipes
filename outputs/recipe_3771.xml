@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn der Lachs <lb/> oder Rhein= Salm noch frisch <lb/> so gibt er auch gute Knödlein <lb/> wie vom Hechten.</p>
+        <p> WAnn der <objectName ref="lachs">Lachs</objectName> <lb/> oder Rhein= Salm noch frisch <lb/> so gibt er auch gute Knödlein <lb/> wie vom Hechten. </p>
             </div>
         </body>
     </text>

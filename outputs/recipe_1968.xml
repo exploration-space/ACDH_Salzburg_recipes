@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb khlein geschnitne Nudl von gueten taig, bachs in haissen schmalz, <lb/> richts in ein schißl, Wöll ein süssen rämb drüber, vnd Zuggers, <lb/> leg ein Wenig Puter dran, sez auf ein glietl, laß ein sieden, <lb/> gibs Warmer auf den tisch. <lb/></p>
+        <p> Nimb khlein geschnitne Nudl von gueten taig, bachs in haissen <objectName ref="schmalz">schmalz</objectName>, <lb/> richts in ein schißl, Wöll ein süssen rämb drüber, vnd Zuggers, <lb/> leg ein Wenig Puter dran, sez auf ein glietl, laß ein sieden, <lb/> gibs Warmer auf den <objectName ref="tisch">tisch</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

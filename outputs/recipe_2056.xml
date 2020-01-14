@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein khalbstükhl, von einem tiech, das Paisse ein, mit <lb/> Salz, Essig, Coriander, Aneiß, Pfeffer, leg darzue Saluel, <lb/> vnd Roßmarin, laß ein Nacht baissen, Nimbs alßdann, <lb/> vnd spikh es schen, stekh es an ein Spiß, laß schön liechtbraun <lb/> Werden, aber nit gar braten, mach ein taig an von <lb/> Roggen mell mit Wasser gor starkh, sez ihn auf, oder schlag <lb/> ihn ÿber, Wie du ein form Wilst, leg das fleisch drein, oben <lb/> vnd unden spekh vnd bleter, auch allerleÿ gewürz, aber Imber <lb/> vnd Pfeffer Zum maisten, mach es Zue, bestreichs mit einem <lb/> aÿr, laß bachen, gibs kahlt. <lb/></p>
+        <p> Nimb ein khalbstükhl, von einem tiech, das Paisse ein, mit <lb/> <objectName ref="salz">Salz</objectName>, <objectName ref="essig">Essig</objectName>, Coriander, Aneiß, <objectName ref="pfeffer">Pfeffer</objectName>, leg darzue Saluel, <lb/> vnd Roßmarin, laß ein Nacht baissen, Nimbs alßdann, <lb/> vnd spikh es schen, stekh es an ein Spiß, laß schön liechtbraun <lb/> Werden, aber nit gar braten, mach ein taig an von <lb/> Roggen mell mit <objectName ref="wasser">Wasser</objectName> gor starkh, sez ihn auf, oder schlag <lb/> ihn ÿber, Wie du ein <objectName ref="form">form</objectName> Wilst, leg das <objectName ref="fleisch">fleisch</objectName> drein, oben <lb/> vnd unden spekh vnd bleter, auch allerleÿ gewürz, aber Imber <lb/> vnd <objectName ref="pfeffer">Pfeffer</objectName> Zum maisten, mach es Zue, bestreichs mit einem <lb/> aÿr, laß bachen, gibs kahlt. <lb/> </p>
             </div>
         </body>
     </text>

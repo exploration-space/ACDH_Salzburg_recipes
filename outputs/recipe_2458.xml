@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>LAsse einen Löffel voll Butter in einem Pasteten= Tiegel zergehen <lb/> zerklopffe indessen zwey Eyer <lb/> wirff einen Löffel voll weisses Mehl darein <lb/> und thu eine halbe Maas süssen Ram oder Kern dazu <lb/> klopffe und rühre alles nochmal wohl untereinander; giesse es hernach in den Tiegel <lb/> setz es in eine Brod= röhre oder Bach= Oefelein <lb/> und laß den Tiegel offen <lb/> daß es oben auch braun werde: wann es dann ausgebachen <lb/> so nimms heraus und legs auf eine Schüssel.</p>
+        <p> LAsse einen <objectName ref="loeffel">Löffel</objectName> voll <objectName ref="butter">Butter</objectName> in einem Pasteten= <objectName ref="tiegel">Tiegel</objectName> zergehen <lb/> zerklopffe indessen zwey Eyer <lb/> wirff einen <objectName ref="loeffel">Löffel</objectName> voll weisses <objectName ref="mehl">Mehl</objectName> darein <lb/> und thu eine halbe <objectName ref="maas">Maas</objectName> süssen Ram oder Kern dazu <lb/> klopffe und rühre alles nochmal wohl untereinander; giesse es hernach in den <objectName ref="tiegel">Tiegel</objectName> <lb/> setz es in eine Brod= röhre oder Bach= Oefelein <lb/> und laß den <objectName ref="tiegel">Tiegel</objectName> offen <lb/> daß es oben auch braun werde : wann es dann ausgebachen <lb/> so nimms heraus und legs auf eine <objectName ref="schuessel">Schüssel</objectName>. </p>
             </div>
         </body>
     </text>

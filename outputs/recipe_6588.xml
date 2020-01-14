@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) ein Kappaunen <lb/> vnd glid jn ab <lb/> vnd setz jhn zu mit einem saubern Wasser <lb/> vnd laß gar an die statt sieden <lb/> vnd wenns gesotten ist <lb/> so säubers auß <lb/> vnnd seig die Brüh widerumb darüber <lb/> thu Pettersilgen Wurtzel <lb/> gantze Muscatenblüt <lb/> vnnd gantzen Pfeffer <lb/> auch eyngebrennt Mehl darein <lb/> laß es miteinander widerumb sieden <lb/> wirff ein frische Butter <lb/> die vngeschmältzt ist <lb/> darein <lb/> vnnd laß darmit auffsieden <lb/> so wirdt es gut vnnd wolgeschmack. Du kanst auch grüne wolschmeckende Kräuter darvnter hacken <lb/> vnd saur machen.</p>
+        <p> Nim ( m ) ein Kappaunen <lb/> vnd glid jn ab <lb/> vnd setz jhn zu mit einem saubern <objectName ref="wasser">Wasser</objectName> <lb/> vnd laß gar an die statt sieden <lb/> vnd wenns gesotten ist <lb/> so säubers auß <lb/> vnnd seig die Brüh widerumb darüber <lb/> thu Pettersilgen Wurtzel <lb/> gantze Muscatenblüt <lb/> vnnd gantzen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> auch eyngebrennt <objectName ref="mehl">Mehl</objectName> darein <lb/> laß es miteinander widerumb sieden <lb/> wirff ein frische <objectName ref="butter">Butter</objectName> <lb/> die vngeschmältzt ist <lb/> darein <lb/> vnnd laß darmit auffsieden <lb/> so wirdt es gut vnnd wolgeschmack. Du kanst auch grüne wolschmeckende <objectName ref="kraeuter">Kräuter</objectName> darvnter hacken <lb/> vnd saur machen. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet die kleinsten Artischocken <lb/> schneidet oben von den Blättern das Spitzige biß die Helfft herab <lb/> und die Schocken als dann mitten von einander <lb/> nehmet das Rauhe fleissig heraus <lb/> legets eine weil in ein frisches Wasser ; dann setzets in einem fließenden Wasser zum Feuer <lb/> lassets ein wenig absieden <lb/> legets hernach in eine Schüssel oder Napff <lb/> saltzet und pfefferts wohl ein <lb/> bestreuet den Kern oder den Boden der Artischocken ein wenig mit mehl <lb/> und bachets aus einem Schmaltz oder Oel nach belieben.</p>
+        <p> NEhmet die kleinsten <objectName ref="artischocken">Artischocken</objectName> <lb/> schneidet oben von den Blättern das Spitzige biß die Helfft herab <lb/> und die Schocken als dann mitten von einander <lb/> nehmet das Rauhe fleissig heraus <lb/> legets eine weil in ein frisches <objectName ref="wasser">Wasser</objectName>; dann setzets in einem fließenden <objectName ref="wasser">Wasser</objectName> zum <objectName ref="feuer">Feuer</objectName> <lb/> lassets ein wenig absieden <lb/> legets hernach in eine <objectName ref="schuessel">Schüssel</objectName> oder Napff <lb/> saltzet und pfefferts wohl ein <lb/> bestreuet den Kern oder den Boden der <objectName ref="artischocken">Artischocken</objectName> ein wenig mit <objectName ref="mehl">mehl</objectName> <lb/> und bachets aus einem Schmaltz oder Oel nach belieben. </p>
             </div>
         </body>
     </text>

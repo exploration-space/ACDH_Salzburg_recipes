@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>LInguadale in Oel <lb/> oder Butter <lb/> warm gemacht <lb/> gibt man auch gleich also <lb/> mit Pfeffer und Lemoni.</p>
+        <p> LInguadale in Oel <lb/> oder <objectName ref="butter">Butter</objectName> <lb/> warm gemacht <lb/> gibt man auch gleich also <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName> und Lemoni. </p>
             </div>
         </body>
     </text>

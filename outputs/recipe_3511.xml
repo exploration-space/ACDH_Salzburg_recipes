@@ -170,9 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>KRebs gesottner und ausgelößter <lb/> daß Scheeren und Schweifflein beysammen bleiben <lb/> gewürtzt <lb/> bemeelbiget <lb/> und schnell ausgebachen <lb/> und in gelber Erbesbrühe <lb/> mit Wein <lb/> oder Lemoni= Safft gegeben.
-
-</p>
+        <p> KRebs gesottner und ausgelößter <lb/> daß Scheeren und Schweifflein beysammen bleiben <lb/> gewürtzt <lb/> bemeelbiget <lb/> und schnell ausgebachen <lb/> und in gelber Erbesbrühe <lb/> mit <objectName ref="wein">Wein</objectName> <lb/> oder Lemoni= Safft gegeben. </p>
             </div>
         </body>
     </text>

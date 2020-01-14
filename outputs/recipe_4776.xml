@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm Bretzen <lb/> schneide oder brocke sie zu Stücken <lb/> laß ein Schmaltz heiß werden <lb/> und röste sie darinnen; thue es dann in eine Schüssel <lb/> mach eine Fleischbrüh oder halb Wasser und halb Brühe siedend <lb/> versuchs ob es im Saltz recht ist; gieß dann über die geröstete Bretzen <lb/> decks mit einer Schüssel zu <lb/> und laß auf der Kohlen noch einen Sud aufthun <lb/> streu ein wenig Pfeffer und Ingber darauf <lb/> und trags zu Tisch : oder man kan auch den Pfeffer und Ingber in der Brüh mit sieden lassen.</p>
+        <p> NImm Bretzen <lb/> schneide oder brocke sie zu Stücken <lb/> laß ein Schmaltz heiß werden <lb/> und röste sie darinnen; thue es dann in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> mach eine Fleischbrüh oder halb <objectName ref="wasser">Wasser</objectName> und halb <objectName ref="bruehe">Brühe</objectName> siedend <lb/> versuchs ob es im Saltz recht ist; gieß dann über die geröstete Bretzen <lb/> decks mit einer <objectName ref="schuessel">Schüssel</objectName> zu <lb/> und laß auf der <objectName ref="kohlen">Kohlen</objectName> noch einen Sud aufthun <lb/> streu ein wenig <objectName ref="pfeffer">Pfeffer</objectName> und Ingber darauf <lb/> und trags zu <objectName ref="tisch">Tisch</objectName> : oder man kan auch den <objectName ref="pfeffer">Pfeffer</objectName> und Ingber in der Brüh mit sieden lassen. </p>
             </div>
         </body>
     </text>

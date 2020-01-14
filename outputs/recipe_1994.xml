@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schneid die sch sembl gewürfflet, vnd rests im schmalz, laß ein <lb/> wenig braun Werden, sez ein süssen rämb ÿber, thue ein <lb/> buter drein, laß ein Wenig sieden, thue die Sembl bröckhl <lb/> drein, laß auf ein glietl stehn. <lb/></p>
+        <p> Schneid die sch sembl gewürfflet, vnd rests im <objectName ref="schmalz">schmalz</objectName>, laß ein <lb/> wenig braun Werden, sez ein süssen rämb ÿber, thue ein <lb/> buter drein, laß ein Wenig sieden, thue die Sembl bröckhl <lb/> drein, laß auf ein glietl stehn. <lb/> </p>
             </div>
         </body>
     </text>

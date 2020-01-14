@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>UNtergreiffe die Haut auf dem Rucken <lb/> mit einem langen Messer mit Vortheil <lb/> damit die Füll hinein mag; dann hack guten Speck mit Zwibel <lb/> Petersil <lb/> Salbey <lb/> oder andern guten Kräutlein <lb/> mit wenig Pfeffer <lb/> Saltz <lb/> Knoblauch <lb/> Sardellen <lb/> oder Dardoffeln; wann die Füll gemacht <lb/> so thu es in die Hüner= Sprütz <lb/> und füll den Rucken <lb/> mach das Loch zu <lb/> und brate solchen mit Butter begossenen Safft <lb/> mit seiner abgeträufften Brühe <lb/> nicht zu feist.</p>
+        <p> UNtergreiffe die Haut auf dem Rucken <lb/> mit einem langen <objectName ref="messer">Messer</objectName> mit Vortheil <lb/> damit die Füll hinein mag; dann hack guten <objectName ref="speck">Speck</objectName> mit Zwibel <lb/> Petersil <lb/> Salbey <lb/> oder andern guten Kräutlein <lb/> mit wenig <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Saltz <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> <objectName ref="sardellen">Sardellen</objectName> <lb/> oder Dardoffeln; wann die Füll gemacht <lb/> so thu es in die Hüner= Sprütz <lb/> und füll den Rucken <lb/> mach das Loch zu <lb/> und brate solchen mit <objectName ref="butter">Butter</objectName> begossenen Safft <lb/> mit seiner abgeträufften <objectName ref="bruehe">Brühe</objectName> <lb/> nicht zu feist. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Rühre <lb/> ungefehr ein Pfund <lb/> schönes weisses Mehl <lb/> und ein Pfund Zucker <lb/> untereinander <lb/> thue Coriander und Anis <lb/> beedes gestossen <lb/> darein <lb/> mische es wohl ; nimm das Weisse von Eyern <lb/> und mache das Mehl damit an <lb/> daß es zu einem dicken Teig wird <lb/> streichs auf ein Oblat <lb/> bachs im Ofen <lb/> oder aber einer Dorten= Pfannen : wann sie dann gebachen sind <lb/> zerschneids zu Stücklein <lb/> und behalts in der Stuben <lb/> so bleiben sie rösch.</p>
+        <p> Rühre <lb/> ungefehr ein <objectName ref="pfund">Pfund</objectName> <lb/> schönes weisses <objectName ref="mehl">Mehl</objectName> <lb/> und ein <objectName ref="pfund">Pfund</objectName> <objectName ref="zucker">Zucker</objectName> <lb/> untereinander <lb/> thue Coriander und <objectName ref="anis">Anis</objectName> <lb/> beedes gestossen <lb/> darein <lb/> mische es wohl; nimm das Weisse von Eyern <lb/> und mache das <objectName ref="mehl">Mehl</objectName> damit an <lb/> daß es zu einem dicken <objectName ref="teig">Teig</objectName> wird <lb/> streichs auf ein Oblat <lb/> bachs im <objectName ref="ofen">Ofen</objectName> <lb/> oder aber einer Dorten= Pfannen : wann sie dann gebachen sind <lb/> zerschneids zu Stücklein <lb/> und behalts in der Stuben <lb/> so bleiben sie rösch. </p>
             </div>
         </body>
     </text>

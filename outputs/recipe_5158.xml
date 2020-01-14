@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm ein <lb/> oder zwey Eyer groß Schmaltz <lb/> aus etlich Wassern wol gewaschen <lb/> darnach schlage zwey oder drey Eyerdotter in das Schmalz mit stetem Rühren <lb/> nimm auch auf die Letzt zwey oder drey Löffelvoll süssen Ram <lb/> nach Proportion des Meels <lb/> treibs wol ab <lb/> und mache mit dem gesaltznen Meel einen Taig auf das Brett <lb/> der sich arbeiten laßt <lb/> aber nicht zu fest <lb/> mache Finger= lange und dicke Strützlein <lb/> und gestalte Andreas= Creutzlein daraus <lb/> bemeelbe sie nicht zu viel <lb/> und bachs aus Schmaltz schön und kühl <lb/> sie werden gar mürb und gut.</p>
+        <p> NImm ein <lb/> oder zwey Eyer groß Schmaltz <lb/> aus etlich <objectName ref="wasser">Wassern</objectName> wol gewaschen <lb/> darnach schlage zwey oder drey Eyerdotter in das <objectName ref="schmalz">Schmalz</objectName> mit stetem Rühren <lb/> nimm auch auf die Letzt zwey oder drey Löffelvoll süssen Ram <lb/> nach Proportion des Meels <lb/> treibs wol ab <lb/> und mache mit dem gesaltznen Meel einen Taig auf das <objectName ref="brett">Brett</objectName> <lb/> der sich arbeiten laßt <lb/> aber nicht zu fest <lb/> mache Finger= lange und dicke Strützlein <lb/> und gestalte Andreas= Creutzlein daraus <lb/> bemeelbe sie nicht zu viel <lb/> und bachs aus Schmaltz schön und kühl <lb/> sie werden gar mürb und gut. </p>
             </div>
         </body>
     </text>

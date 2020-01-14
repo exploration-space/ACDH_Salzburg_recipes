@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Presolen müssen geklopfft und gepaitzt <lb/> dann mit Knoblauch <lb/> Lemonen <lb/> und Capren in ein Geschirr <lb/> mit Gewürtz und frischem Butter gericht <lb/> und vermacht <lb/> im Ofen gebachen <lb/> oder gedämpfft werden <lb/> gleich einer Pasteten <lb/> mit selbst eigener gelber Brühe.</p>
+        <p> DIe Presolen müssen geklopfft und gepaitzt <lb/> dann mit <objectName ref="knoblauch">Knoblauch</objectName> <lb/> Lemonen <lb/> und Capren in ein <objectName ref="geschirr">Geschirr</objectName> <lb/> mit Gewürtz und frischem <objectName ref="butter">Butter</objectName> gericht <lb/> und vermacht <lb/> im <objectName ref="ofen">Ofen</objectName> gebachen <lb/> oder gedämpfft werden <lb/> gleich einer <objectName ref="pastete">Pasteten</objectName> <lb/> mit selbst eigener gelber <objectName ref="bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

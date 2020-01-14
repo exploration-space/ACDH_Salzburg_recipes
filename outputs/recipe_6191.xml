@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Kalte Ganß Pasteten <lb/> oder gebraten <lb/> vnd kalt lassen werden <lb/> es sey gefüllt oder gespickt <lb/> ist es auff beyde manier gut.</p>
+        <p> Kalte Ganß <objectName ref="pastete">Pasteten</objectName> <lb/> oder gebraten <lb/> vnd kalt lassen werden <lb/> es sey gefüllt oder gespickt <lb/> ist es auff beyde manier gut. </p>
             </div>
         </body>
     </text>

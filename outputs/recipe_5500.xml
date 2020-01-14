@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Reiß <lb/> vnd quell jn <lb/> wasch jhn auß <lb/> vnd klaub jn <lb/> setzs mit Erbeßbrüh zu <lb/> vnd laß nicht versieden <lb/> daß die Kern fein gantz bleiben <lb/> thu frische Butter <lb/> die vngeschmältzt ist <lb/> darein <lb/> vnd gantze Muscatenblüt <lb/> so ist es ein gute Reißsuppen.</p>
+        <p> Nim ( m ) Reiß <lb/> vnd quell jn <lb/> wasch jhn auß <lb/> vnd klaub jn <lb/> setzs mit Erbeßbrüh zu <lb/> vnd laß nicht versieden <lb/> daß die Kern fein gantz bleiben <lb/> thu frische <objectName ref="butter">Butter</objectName> <lb/> die vngeschmältzt ist <lb/> darein <lb/> vnd gantze Muscatenblüt <lb/> so ist es ein gute Reißsuppen. </p>
             </div>
         </body>
     </text>

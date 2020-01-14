@@ -175,9 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIedet das Hun oder den Capaun in halb Wein halb Fleischbrühe <lb/> saltzet es auch vorhero etwas einwendig ein <lb/> und macht indessen nachfolgende Brüh zusammen: Erstlich nehmet einen Schnitten weiß= gebähtes Brod <lb/> stosset abgezogene Mandeln klein <lb/> und siedet das gebähte Brod mit den gestossenen Mandeln in halb Wein halb Fleischbrühe <lb/> treibts durch einen Seiher <lb/> würtzet es mit Zucker <lb/> Trisanet <lb/> und wann man will <lb/> ein klein wenig Saffran <lb/> giesset auch etwas von süssen Wein daran <lb/> last es aufsieden: Leget die abgesottene Hüner in eine Schüssel <lb/> und richtet diese Brüh also siedend darüber an.
-
-</p>
+        <p> SIedet das Hun oder den Capaun in halb <objectName ref="wein">Wein</objectName> halb <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> saltzet es auch vorhero etwas einwendig ein <lb/> und macht indessen nachfolgende Brüh zusammen : Erstlich nehmet einen Schnitten weiß= gebähtes Brod <lb/> stosset abgezogene <objectName ref="mandeln">Mandeln</objectName> klein <lb/> und siedet das gebähte Brod mit den gestossenen <objectName ref="mandeln">Mandeln</objectName> in halb <objectName ref="wein">Wein</objectName> halb <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> treibts durch einen <objectName ref="seiher">Seiher</objectName> <lb/> würtzet es mit <objectName ref="zucker">Zucker</objectName> <lb/> Trisanet <lb/> und wann man will <lb/> ein klein wenig Saffran <lb/> giesset auch etwas von süssen <objectName ref="wein">Wein</objectName> daran <lb/> last es aufsieden : Leget die abgesottene Hüner in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und richtet diese Brüh also siedend darüber an. </p>
             </div>
         </body>
     </text>

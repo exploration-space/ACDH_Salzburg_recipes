@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneide Semmeln nach der Länge entzwey <lb/> und thue nochmal Schnitten über zwerch darein <lb/> doch also <lb/> daß die halbe Semmeln bey einander bleiben und nicht zerfallen <lb/> rösts hernach im Schmaltz <lb/> und legs in eine Schüssel; wilt du sie aber nicht rösten <lb/> so brenne nur ein heisses Schmaltz über die trockene Semmeln in der Schüssel <lb/> gieß die siedende Fleischbrüh darüber <lb/> streue Ingber und Weinbeerlein oder Corinthen darauf <lb/> decks zu <lb/> setze es alsdann auf eine Glut oder Kohlfeuer <lb/> laß aufsieden <lb/> und trags zu Tisch.</p>
+        <p> SChneide <objectName ref="semmeln">Semmeln</objectName> nach der Länge entzwey <lb/> und thue nochmal Schnitten über zwerch darein <lb/> doch also <lb/> daß die halbe <objectName ref="semmeln">Semmeln</objectName> bey einander bleiben und nicht zerfallen <lb/> rösts hernach im Schmaltz <lb/> und legs in eine <objectName ref="schuessel">Schüssel</objectName>; wilt du sie aber nicht rösten <lb/> so brenne nur ein heisses Schmaltz über die trockene <objectName ref="semmeln">Semmeln</objectName> in der <objectName ref="schuessel">Schüssel</objectName> <lb/> gieß die siedende Fleischbrüh darüber <lb/> streue Ingber und Weinbeerlein oder Corinthen darauf <lb/> decks zu <lb/> setze es alsdann auf eine <objectName ref="glut">Glut</objectName> oder Kohlfeuer <lb/> laß aufsieden <lb/> und trags zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

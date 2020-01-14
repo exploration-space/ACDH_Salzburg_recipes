@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Thu die Koppen auff <lb/> wasch auß <lb/> vnd mach sie in eine Pasteten <lb/> die von weissem Teig ist auffgetrieben <lb/> sträw Pfeffer <lb/> Saltz <lb/> Ingwer vnnd Kümel <lb/> darüber <lb/> auch frische Butter <lb/> die vnzerlassen ist <lb/> mach die Pasteten zu <lb/> vnd scheub sie in Ofen <lb/> vn(d) laß backen <lb/> nim(m) sie herauß <lb/> vnd schneidt sie auff <lb/> geuß ein saure Brüh <lb/> die von Eyerdottern gemacht ist <lb/> darüber <lb/> vnd gib es warm auff ein Tisch <lb/> so ist es gut vnd wolgeschmack.</p>
+        <p> Thu die <objectName ref="koppe">Koppen</objectName> auff <lb/> wasch auß <lb/> vnd mach sie in eine <objectName ref="pastete">Pasteten</objectName> <lb/> die von weissem <objectName ref="teig">Teig</objectName> ist auffgetrieben <lb/> sträw <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Saltz <lb/> <objectName ref="ingwer">Ingwer</objectName> vnnd Kümel <lb/> darüber <lb/> auch frische <objectName ref="butter">Butter</objectName> <lb/> die vnzerlassen ist <lb/> mach die <objectName ref="pastete">Pasteten</objectName> zu <lb/> vnd scheub sie in <objectName ref="ofen">Ofen</objectName> <lb/> vn ( d ) laß backen <lb/> nim ( m ) sie herauß <lb/> vnd schneidt sie auff <lb/> geuß ein saure Brüh <lb/> die von Eyerdottern gemacht ist <lb/> darüber <lb/> vnd gib es warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

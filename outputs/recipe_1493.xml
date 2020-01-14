@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Vmbherthumb, Stosß in einem Merßer, nimb neugemolchne milch <lb/> giesß auf das Vmbhertumb Mehl, daß es gleich Feicht wirdt, riers woll ab <lb/> von .3 neugelegten Ayren, die dotter auch woll darunter geriehrt, das es <lb/> wirdt wie ein Straubentaig, vnd wan du den putter außgelasßen hast, <lb/> vnd daß lautter heriber gesigen hast, daß kein Feür dabey ist, So lasß <lb/> daß lautter heriber siedten, vnd wan es siedt, so Koch das Vmbherthumb <lb/> taigl darein, vnd wan du es anrichtest, So Sträe zuckher vnd zimet darauf <lb/> So ists recht.<lb/>.</p>
+        <p> Nimb Vmbherthumb, Stosß in einem Merßer, nimb neugemolchne <objectName ref="milch">milch</objectName> <lb/> giesß auf das Vmbhertumb <objectName ref="mehl">Mehl</objectName>, daß es gleich Feicht wirdt, riers woll ab <lb/> von.3 neugelegten Ayren, die dotter auch woll darunter geriehrt, das es <lb/> wirdt wie ein Straubentaig, vnd wan du den putter außgelasßen hast, <lb/> vnd daß lautter heriber gesigen hast, daß kein Feür dabey ist, So lasß <lb/> daß lautter heriber siedten, vnd wan es siedt, so Koch das Vmbherthumb <lb/> taigl darein, vnd wan du es anrichtest, So Sträe zuckher vnd zimet darauf <lb/> So ists recht./. </p>
             </div>
         </body>
     </text>

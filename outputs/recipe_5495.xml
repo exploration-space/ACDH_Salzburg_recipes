@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) die Hechtleber <lb/> rößt sie auß Butter <lb/> vnd thu sie in ein Mörsel <lb/> stoß mit gebehtem Brot <lb/> vnd streichs mit Erbeßbrüh durch <lb/> pfeffers vn(d) gelbs <lb/> thu Butter darein vnd Saltz <lb/> laß darmit auffsieden <lb/> nim(m) die vbrigen Leber <lb/> die gerößt seyn <lb/> schneidt sie zu stücken <lb/> vnd thu sie in die Suppen <lb/> laß darmit sieden <lb/> so wirt es gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) die <objectName ref="hechtleber">Hechtleber</objectName> <lb/> rößt sie auß <objectName ref="butter">Butter</objectName> <lb/> vnd thu sie in ein Mörsel <lb/> stoß mit gebehtem <objectName ref="brot">Brot</objectName> <lb/> vnd streichs mit Erbeßbrüh durch <lb/> pfeffers vn ( d ) gelbs <lb/> thu <objectName ref="butter">Butter</objectName> darein vnd Saltz <lb/> laß darmit auffsieden <lb/> nim ( m ) die vbrigen <objectName ref="leber">Leber</objectName> <lb/> die gerößt seyn <lb/> schneidt sie zu stücken <lb/> vnd thu sie in die <objectName ref="suppe">Suppen</objectName> <lb/> laß darmit sieden <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

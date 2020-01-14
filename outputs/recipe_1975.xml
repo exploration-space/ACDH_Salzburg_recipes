@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein Prätigs khalbfleisch, hakh es khlein, vnd ein <lb/> faisten drunder, schlag aÿr drunder, vnd rühr <lb/><lb/> (16r) Weinbör drunder, Salzs vnd stups Woll, mit Pfeffer Ing= <lb/> ber, nägelstup, geribne Mußcatblüe vnd Aneiß, Rührs woll <lb/> durcheinander ob, nimb das khelbere nezl, Wasch sauber <lb/> auß, fühl den taig drein, Zu einem Würstl, schlag das <lb/> Nezl fein ÿbereinander, umbwinds mit einem faden legs <lb/> fein gefurmbt Zusammen, Wie die Pratwürst, leg ein <lb/> schmalz in ein pfan, laß Zergehn, leg die Würst drein, <lb/> Rests fein gemachsamb, das schen braun Werden, mach ein <lb/> süsß Süppl drüber, oder ein langs öpffl gschärb, gibs also <lb/> her. <lb/></p>
+        <p> Nimb ein Prätigs khalbfleisch, hakh es khlein, vnd ein <lb/> faisten drunder, schlag aÿr drunder, vnd rühr <lb/><lb/> ( 16r ) Weinbör drunder, Salzs vnd stups Woll, mit <objectName ref="pfeffer">Pfeffer</objectName> Ing= <lb/> ber, nägelstup, geribne Mußcatblüe vnd Aneiß, Rührs woll <lb/> durcheinander ob, nimb das khelbere nezl, Wasch sauber <lb/> auß, fühl den taig drein, Zu einem Würstl, schlag das <lb/> Nezl fein ÿbereinander, umbwinds mit einem <objectName ref="faden">faden</objectName> legs <lb/> fein gefurmbt Zusammen, Wie die Pratwürst, leg ein <lb/> <objectName ref="schmalz">schmalz</objectName> in ein pfan, laß Zergehn, leg die Würst drein, <lb/> Rests fein gemachsamb, das schen braun Werden, mach ein <lb/> süsß Süppl drüber, oder ein langs öpffl gschärb, gibs also <lb/> her. <lb/> </p>
             </div>
         </body>
     </text>

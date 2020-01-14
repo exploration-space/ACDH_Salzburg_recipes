@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm schön klar= gestossenen und durchgesiebten Zucker <lb/> gieß Wein= Lägelein oder Saurach= Safft daran <lb/> rühre beedes wohl unter einander so ist er fertig <lb/> und zwar weit geschwinder als der vorige ; welcher aber etwas schöner wird.</p>
+        <p> Nimm schön klar= gestossenen und durchgesiebten <objectName ref="zucker">Zucker</objectName> <lb/> gieß Wein= Lägelein oder Saurach= Safft daran <lb/> rühre beedes wohl unter einander so ist er fertig <lb/> und zwar weit geschwinder als der vorige; welcher aber etwas schöner wird. </p>
             </div>
         </body>
     </text>

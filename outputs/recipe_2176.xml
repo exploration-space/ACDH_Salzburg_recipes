@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein äsch, schiepp denselben, mach ihn Zu stukhen, Wasch den sauber, <lb/> vnd salz ihn ein, laß ihn ein Weill im Salz ligen, dauon Wëkh <lb/> khombt, vnd thues in ein Pfan, geuß gueten Wein vnd Arbesbrüe <lb/> dran, Wieuill du bedürfftig, sez es ÿbers feuer, vnd laß sieden, <lb/> vnd so es schier verfaimbt ist, so thue Puter dran, vnd nit Zu Wenig, <lb/> darnach gewürz mit Allerleÿ gewürz, dan Nägel nit, Zimblich <lb/> Zukhert, vnd gilbs, laß miteinander sieden, vnd gibs Warmb. <lb/></p>
+        <p> Nimb ein äsch, schiepp denselben, mach ihn Zu stukhen, Wasch den sauber, <lb/> vnd <objectName ref="salz">salz</objectName> ihn ein, laß ihn ein Weill im <objectName ref="salz">Salz</objectName> ligen, dauon Wëkh <lb/> khombt, vnd thues in ein Pfan, geuß gueten <objectName ref="wein">Wein</objectName> vnd Arbesbrüe <lb/> dran, Wieuill du bedürfftig, sez es ÿbers <objectName ref="feuer">feuer</objectName>, vnd laß sieden, <lb/> vnd so es schier verfaimbt ist, so thue Puter dran, vnd nit Zu Wenig, <lb/> darnach gewürz mit Allerleÿ gewürz, dan <objectName ref="naegel">Nägel</objectName> nit, Zimblich <lb/> Zukhert, vnd gilbs, laß miteinander sieden, vnd gibs Warmb. <lb/> </p>
             </div>
         </body>
     </text>

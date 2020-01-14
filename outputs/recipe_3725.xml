@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIede die Krebse <lb/> und löse die Scheeren und Schalen herab <lb/> doch daß der Schwantz an dem Krebs bleibt <lb/> schneide die Füsse hinweg <lb/> bache den Krebs im Schmaltz; nimm die Scheeren und Füsse <lb/> zerstosse sie in einem Mörsel wohl klein <lb/> treibs mit Wein durch einen Seiher; thue Zucker <lb/> Ingber <lb/> Pfeffer und ein wenig Muscaten= Blüh daran <lb/> laß sieden <lb/> und giesse es über die zuvor gebachne Krebse.</p>
+        <p> SIede die <objectName ref="krebse">Krebse</objectName> <lb/> und löse die Scheeren und Schalen herab <lb/> doch daß der Schwantz an dem Krebs bleibt <lb/> schneide die Füsse hinweg <lb/> bache den Krebs im Schmaltz; nimm die Scheeren und Füsse <lb/> zerstosse sie in einem Mörsel wohl klein <lb/> treibs mit <objectName ref="wein">Wein</objectName> durch einen <objectName ref="seiher">Seiher</objectName>; thue <objectName ref="zucker">Zucker</objectName> <lb/> Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und ein wenig Muscaten= Blüh daran <lb/> laß sieden <lb/> und giesse es über die zuvor gebachne <objectName ref="krebse">Krebse</objectName>. </p>
             </div>
         </body>
     </text>

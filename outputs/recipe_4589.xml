@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>KLaubet allerley gesunde frisch= und grüne Kräuter <lb/> oder <lb/> ein so genanntes Mäyen= Kraut <lb/> hackets klein <lb/> druckets aus <lb/> legets in ein Röhren= Wasser <lb/> druckets alsdann wieder aus ; schlaget so viel Eyer daran <lb/> biß dinn wird <lb/> mischet geriebenes Semmel= Mehl <lb/> gehackte Mandeln <lb/> Zibeben <lb/> Weinbeere oder Corinthen <lb/> Zimmet <lb/> Muscatenblühe <lb/> und Pfeffer <lb/> daran <lb/> zuckert die Füll <lb/> biß sie wohl süß wird : darnach machet einen Teig von Eyer= Dottern <lb/> und Weitzen= Mehl an <lb/> walchert und richtet ihn in einen Schart <lb/> und lasset ihn bachen.</p>
+        <p> KLaubet allerley gesunde frisch= und grüne <objectName ref="kraeuter">Kräuter</objectName> <lb/> oder <lb/> ein so genanntes Mäyen= <objectName ref="kraut">Kraut</objectName> <lb/> hackets klein <lb/> druckets aus <lb/> legets in ein Röhren= <objectName ref="wasser">Wasser</objectName> <lb/> druckets alsdann wieder aus; schlaget so viel Eyer daran <lb/> biß dinn wird <lb/> mischet geriebenes Semmel= <objectName ref="mehl">Mehl</objectName> <lb/> gehackte <objectName ref="mandeln">Mandeln</objectName> <lb/> <objectName ref="zibeben">Zibeben</objectName> <lb/> Weinbeere oder Corinthen <lb/> Zimmet <lb/> Muscatenblühe <lb/> und <objectName ref="pfeffer">Pfeffer</objectName> <lb/> daran <lb/> zuckert die Füll <lb/> biß sie wohl süß wird : darnach machet einen <objectName ref="teig">Teig</objectName> von Eyer= Dottern <lb/> und Weitzen= <objectName ref="mehl">Mehl</objectName> an <lb/> walchert und richtet ihn in einen Schart <lb/> und lasset ihn bachen. </p>
             </div>
         </body>
     </text>

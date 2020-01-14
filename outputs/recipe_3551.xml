@@ -176,11 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm eine oder mehr Kütten <lb/> reibs auf einem Ribeisen herab <lb/> biß auf den Butzen <lb/> röste diß in gutem Butter oder Schmaltz <lb/> gleich einem gehackten Zwibel mit Semmel= Brosen; hernach gieß wenig Wein daran <lb/> machs gut mit Zucker <lb/> Zimmet <lb/> Lemoni= Schaalen und Wein= Beerlein <lb/> fülls in die Dorten <lb/> es ist gut.
-
-So viel von Kütten <lb/> in die Ordinari-Dorten zu füllen; Von dem schönen und kostbaren <lb/> eingemachten Kütten= Werck <lb/> ist bey den anderen eingemachten Früchten schon ein mehrers zu finden.
-
-NB. Diese ordinari Frücht= Dorten von mürbem Taig aufgesetzter sollen allzeit bey dem Einschuß mit Papier gebunden werden <lb/> sonst fallen sie um <lb/> und werden nicht schön; Es muß auch jedesmal <lb/> ehe man die Füll darein legt <lb/> der Boden mit vielen Stichen gestupffet werden <lb/> damit sich die Dorten in dem Ofen nicht aufblähen; Im Fall aber solches dannoch geschehen solte <lb/> wird geschwind mit einem Spiß darein gestochen <lb/> so sitzt die Dorten wiederum nieder; welches einem jeden zur Nachricht dienet.</p>
+        <p> NImm eine oder mehr Kütten <lb/> reibs auf einem Ribeisen herab <lb/> biß auf den Butzen <lb/> röste diß in gutem <objectName ref="butter">Butter</objectName> oder Schmaltz <lb/> gleich einem gehackten Zwibel mit Semmel= Brosen; hernach gieß wenig <objectName ref="wein">Wein</objectName> daran <lb/> machs gut mit <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet <lb/> Lemoni= Schaalen und Wein= Beerlein <lb/> fülls in die Dorten <lb/> es ist gut. So viel von Kütten <lb/> in die Ordinari-Dorten zu füllen; Von dem schönen und kostbaren <lb/> eingemachten Kütten= Werck <lb/> ist bey den anderen eingemachten <objectName ref="fruechte">Früchten</objectName> schon ein mehrers zu finden. NB. Diese ordinari Frücht= Dorten von mürbem Taig aufgesetzter sollen allzeit bey dem Einschuß mit <objectName ref="papier">Papier</objectName> gebunden werden <lb/> sonst fallen sie um <lb/> und werden nicht schön; Es muß auch jedesmal <lb/> ehe man die Füll darein legt <lb/> der Boden mit vielen Stichen gestupffet werden <lb/> damit sich die Dorten in dem <objectName ref="ofen">Ofen</objectName> nicht aufblähen; Im Fall aber solches dannoch geschehen solte <lb/> wird geschwind mit einem Spiß darein gestochen <lb/> so sitzt die Dorten wiederum nieder; welches einem jeden zur Nachricht dienet. </p>
             </div>
         </body>
     </text>

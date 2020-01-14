@@ -169,9 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>EIn Kalbs= Rücken muß wohl gewässert und gewaschen <lb/> dann gesaltzen <lb/> gepfeffert <lb/> und entweder an dem Spieß <lb/> oder aber in einem Oefelein gebraten werden ; dann kan man ihn entweder also trocken <lb/> oder aber in einer Brüh zu Tisch tragen.<gap/>
-
-<gap/> Etliche pflegen ihn auch in Essig zu beitzen <lb/> und dann erst abzubraten.</p>
+        <p> EIn Kalbs= Rücken muß wohl gewässert und gewaschen <lb/> dann gesaltzen <lb/> gepfeffert <lb/> und entweder an dem <objectName ref="spiess">Spieß</objectName> <lb/> oder aber in einem Oefelein gebraten werden; dann kan man ihn entweder also trocken <lb/> oder aber in einer Brüh zu <objectName ref="tisch">Tisch</objectName> tragen. <gap/> <gap/> Etliche pflegen ihn auch in <objectName ref="essig">Essig</objectName> zu beitzen <lb/> und dann erst abzubraten. </p>
             </div>
         </body>
     </text>

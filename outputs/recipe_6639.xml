@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Abgesotten Rencken in einem Wasser <lb/> wenn sie dürr seyn <lb/> oder geräuchert <lb/> wenn sie gesotten seind <lb/> so zeucht man sie auß <lb/> vnd leßts kalt werden <lb/> wenn man es wil auff ein Tisch geben <lb/> so geußt man Essig darüber <lb/> vnd grün Pettersilgen <lb/> so ist es auch gut.</p>
+        <p> Abgesotten Rencken in einem <objectName ref="wasser">Wasser</objectName> <lb/> wenn sie dürr seyn <lb/> oder geräuchert <lb/> wenn sie gesotten seind <lb/> so zeucht man sie auß <lb/> vnd leßts kalt werden <lb/> wenn man es wil auff ein <objectName ref="tisch">Tisch</objectName> geben <lb/> so geußt man <objectName ref="essig">Essig</objectName> darüber <lb/> vnd grün Pettersilgen <lb/> so ist es auch gut. </p>
             </div>
         </body>
     </text>

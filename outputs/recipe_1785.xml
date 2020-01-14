@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>schneit 4. Bomeräntzen darein, laß die Supen <lb/> auf sieden, Seich den Schirckh darein, wan <lb/><lb/> (72v) er halb gesoten ist, nimb Safran, Imber, <lb/> Pfeffer, vnd zuggers woll, laß in ein= <lb/> =sieden, Salz nit hart, wan er gesoten ist, <lb/> leg guete schmekhente Khreiter darein, Roß= <lb/> =marin, lassen Kalt werden. <lb/></p>
+        <p> schneit 4. Bomeräntzen darein, laß die Supen <lb/> auf sieden, Seich den Schirckh darein, wan <lb/><lb/> ( 72v ) er halb gesoten ist, nimb <objectName ref="safran">Safran</objectName>, Imber, <lb/> <objectName ref="pfeffer">Pfeffer</objectName>, vnd zuggers woll, laß in ein= <lb/> =sieden, <objectName ref="salz">Salz</objectName> nit hart, wan er gesoten ist, <lb/> leg guete schmekhente Khreiter darein, Roß= <lb/> =marin, lassen Kalt werden. <lb/> </p>
             </div>
         </body>
     </text>

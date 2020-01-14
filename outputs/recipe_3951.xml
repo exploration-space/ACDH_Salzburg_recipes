@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm etwan zwey Händlein voll schönes Weitzen= Mehl <lb/> schlag Eyer daran <lb/> rührs darunter <lb/> biß es glatt ist; gieß ein wenig Wein und Milch daran <lb/> biß der Teig recht in der Dicken wird <lb/> wie ein Strauben= Teig <lb/> und gerne durch das Triechterlein laufft <lb/> saltze und klopffe ihn gar nicht <lb/> sondern rühre nur immerzu: laß hernach durch ein Triechterlein in ein enges Pfännlein voll heisses Schmaltz lauffen <lb/> und bachs fein dinn <lb/> so werden die Strauben schön und gut.</p>
+        <p> NImm etwan zwey Händlein voll schönes Weitzen= <objectName ref="mehl">Mehl</objectName> <lb/> schlag Eyer daran <lb/> rührs darunter <lb/> biß es glatt ist; gieß ein wenig <objectName ref="wein">Wein</objectName> und <objectName ref="milch">Milch</objectName> daran <lb/> biß der <objectName ref="teig">Teig</objectName> recht in der Dicken wird <lb/> wie ein Strauben= <objectName ref="teig">Teig</objectName> <lb/> und gerne durch das Triechterlein laufft <lb/> saltze und klopffe ihn gar nicht <lb/> sondern rühre nur immerzu : laß hernach durch ein Triechterlein in ein enges <objectName ref="pfaennlein">Pfännlein</objectName> voll heisses Schmaltz lauffen <lb/> und bachs fein dinn <lb/> so werden die <objectName ref="strauben">Strauben</objectName> schön und gut. </p>
             </div>
         </body>
     </text>

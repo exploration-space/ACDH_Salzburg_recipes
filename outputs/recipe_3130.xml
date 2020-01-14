@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BRenn= Nestel <lb/> die grössere Gattung <lb/> die Gipffel darvon gebutzt <lb/> und gleich dem Spargel sauber gebrüht <lb/> und abgesiehen <lb/> auch kalt mit Eßig und Oel angemacht <lb/> ist ein guter Salat.</p>
+        <p> BRenn= Nestel <lb/> die grössere Gattung <lb/> die Gipffel darvon gebutzt <lb/> und gleich dem <objectName ref="spargel">Spargel</objectName> sauber gebrüht <lb/> und abgesiehen <lb/> auch kalt mit Eßig und Oel angemacht <lb/> ist ein guter <objectName ref="salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

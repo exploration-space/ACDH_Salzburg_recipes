@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ain Sembl, schneid ein blat herab, so groß als dein <lb/> hand inwendtig ist, vnd thue die mohlen alle herauß, <lb/> Zerprokhe sie khlain, giesse ein süssen Wein dran, <lb/> vnd trukhe sie Widerumben auß, nimb ein hand <lb/> voll mandl, ein süssen apffl, hakh es khlain, nimb <lb/> ain Wenig buter, vnd röste die mandl vnd den apfl <lb/> ein Wenig, thue hernach ein Wenig in die lähre sembl, lege von den außgetrukhten brot ein Wenig, auch <lb/> weinbörl vnd Zimetstup darauf, Item von der fühl <lb/> etwas Wenigs hinein, vnd aber von dem außgetrukhten <lb/> brot ain Wenig, auch Weinbörl vnd Zimetstup darauf, <lb/> biß das die Sembl voll Wird, thue hernach ain: <lb/><lb/> (15r)</p>
+        <p> Nimb ain Sembl, schneid ein blat herab, so groß als dein <lb/> hand inwendtig ist, vnd thue die mohlen alle herauß, <lb/> Zerprokhe sie khlain, giesse ein süssen <objectName ref="wein">Wein</objectName> dran, <lb/> vnd trukhe sie Widerumben auß, nimb ein hand <lb/> voll mandl, ein süssen apffl, hakh es khlain, nimb <lb/> ain Wenig buter, vnd röste die mandl vnd den apfl <lb/> ein Wenig, thue hernach ein Wenig in die lähre sembl, lege von den außgetrukhten <objectName ref="brot">brot</objectName> ein Wenig, auch <lb/> weinbörl vnd Zimetstup darauf, Item von der fühl <lb/> etwas Wenigs hinein, vnd aber von dem außgetrukhten <lb/> <objectName ref="brot">brot</objectName> ain Wenig, auch Weinbörl vnd Zimetstup darauf, <lb/> biß das die Sembl voll Wird, thue hernach ain : <lb/><lb/> ( 15r ) </p>
             </div>
         </body>
     </text>

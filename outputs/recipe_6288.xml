@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Körner oder Beerlein von Berbisholtz <lb/> zu Latein Berberis <lb/> in Teutsch Bersig <lb/> saurach oder erbselen genannt <lb/> wenn sie zeitig seind <lb/> wol dürr <lb/> vnnd wenn du wilt <lb/> so henck sie in eine leinen Tuch ins Geschirr <lb/> darinn der Wein ist <lb/> so sihet man vber ein klein weil <lb/> daß der Wein rot ist. Oder henck gedörrt Kornblumen Bletter also darein <lb/> oder Klapperrosen.</p>
+        <p> Körner oder Beerlein von Berbisholtz <lb/> zu Latein Berberis <lb/> in Teutsch Bersig <lb/> saurach oder erbselen genannt <lb/> wenn sie zeitig seind <lb/> wol dürr <lb/> vnnd wenn du wilt <lb/> so henck sie in eine leinen <objectName ref="tuch">Tuch</objectName> ins <objectName ref="geschirr">Geschirr</objectName> <lb/> darinn der <objectName ref="wein">Wein</objectName> ist <lb/> so sihet man vber ein klein weil <lb/> daß der <objectName ref="wein">Wein</objectName> rot ist. Oder henck gedörrt <objectName ref="kornblumen">Kornblumen</objectName> Bletter also darein <lb/> oder Klapperrosen. </p>
             </div>
         </body>
     </text>

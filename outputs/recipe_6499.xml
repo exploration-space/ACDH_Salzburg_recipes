@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wenn der Hausen frisch ist <lb/> so setz jn zu in einem Wasser <lb/> vnnd thu Saltz ein wenig darein <lb/> vnnd versaum es fein sauber <lb/> schneidt Pettersilgen Wurtzel vnnd gantze Muscatenblüt darein <lb/> laß auch mit sieden <lb/> so wirt es wolgeschmack vnd gut <lb/> vnd wenn du es wilt anrichten <lb/> so wirff darein gestossen Krähn oder Merrettich <lb/> zerlaß mit der Brüh <lb/> vnd geuß vber den Hausen. Oder nim gebeht Brot <lb/> vnd richt den Hausen darauff an mit der lautern Brüh <lb/> so sihet es wie ein Kalbfleisch <lb/> vnd wirt wolgeschmack.</p>
+        <p> Wenn der Hausen frisch ist <lb/> so setz jn zu in einem <objectName ref="wasser">Wasser</objectName> <lb/> vnnd thu Saltz ein wenig darein <lb/> vnnd versaum es fein sauber <lb/> schneidt Pettersilgen Wurtzel vnnd gantze Muscatenblüt darein <lb/> laß auch mit sieden <lb/> so wirt es wolgeschmack vnd gut <lb/> vnd wenn du es wilt anrichten <lb/> so wirff darein gestossen Krähn oder Merrettich <lb/> zerlaß mit der Brüh <lb/> vnd geuß vber den Hausen. Oder nim gebeht <objectName ref="brot">Brot</objectName> <lb/> vnd richt den Hausen darauff an mit der lautern Brüh <lb/> so sihet es wie ein <objectName ref="kalbfleisch">Kalbfleisch</objectName> <lb/> vnd wirt wolgeschmack. </p>
             </div>
         </body>
     </text>

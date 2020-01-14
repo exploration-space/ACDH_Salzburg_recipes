@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Rindfleisch, schneid es fein din 2. finger brait vnd <lb/> eins fingers lang, Zerkhlopffs mit einem messerrukhen, <lb/> baisß es mit Weinessig ein, laß ein stund darinen <lb/> ligen, so Wird es fein mirb vnd guet, mach ein <lb/> buter haiß, vnd thue das fleisch auß dem Essig drein, <lb/> Rest es, vnd geuß den buter Wider herab, geuß <lb/> Essig dran, vnd ein Wenig Rindfleisch brüe, auch <lb/> pfeffer vnd Ingber, laß darmit khurz ein sieden, <lb/> man nennet es Presentl vom Rindfleisch. <lb/></p>
+        <p> Nimb <objectName ref="rindfleisch">Rindfleisch</objectName>, schneid es fein din 2. finger brait vnd <lb/> eins fingers lang, Zerkhlopffs mit einem messerrukhen, <lb/> baisß es mit <objectName ref="weinessig">Weinessig</objectName> ein, laß ein stund darinen <lb/> ligen, so Wird es fein mirb vnd guet, mach ein <lb/> buter haiß, vnd thue das <objectName ref="fleisch">fleisch</objectName> auß dem <objectName ref="essig">Essig</objectName> drein, <lb/> Rest es, vnd geuß den buter Wider herab, geuß <lb/> <objectName ref="essig">Essig</objectName> dran, vnd ein Wenig <objectName ref="rindfleisch">Rindfleisch</objectName> brüe, auch <lb/> <objectName ref="pfeffer">pfeffer</objectName> vnd Ingber, laß darmit khurz ein sieden, <lb/> man nennet es Presentl vom <objectName ref="rindfleisch">Rindfleisch</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

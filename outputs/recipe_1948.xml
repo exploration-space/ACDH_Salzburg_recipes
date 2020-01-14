@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb den reiß, Wasch ihn sauber, thue ihn in ein guete <lb/> milch, laß ihn Woll Sieden, das er gar lind Wird, dar= <lb/> nach thue ihn in ein Sib, treib ihn durch, Zugger ihn Woll, <lb/> mach ihn Wie es ob steht.</p>
+        <p> Nimb den reiß, Wasch ihn sauber, thue ihn in ein guete <lb/> <objectName ref="milch">milch</objectName>, laß ihn Woll Sieden, das er gar lind Wird, dar= <lb/> nach thue ihn in ein Sib, treib ihn durch, Zugger ihn Woll, <lb/> mach ihn Wie es ob steht. </p>
             </div>
         </body>
     </text>

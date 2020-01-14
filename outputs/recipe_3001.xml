@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BRennestlen gebrüht <lb/> mit wenig Knoblauch <lb/> seynd gut mit Eßig und Oel zum Salat.</p>
+        <p> BRennestlen gebrüht <lb/> mit wenig <objectName ref="knoblauch">Knoblauch</objectName> <lb/> seynd gut mit Eßig und Oel zum <objectName ref="salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein Kölbers Prätl<gap/>, so Gebratten <lb/> ist, thue es khlein hackhen, vnnd Zer= <lb/> lasse<gap/> ein butter, Gies<gap/> ihne an das <lb/> bräd<gap/>, vnnd ein wenig Semel <lb/> Presl<gap/>, vnnd siede<gap/> den Wörschy, Nimb <lb/> das herzl heraus, vnnd hackhs da= <lb/> runter, vnnd .1. Ayr vnd Gwirz<gap/>, <lb/> thue das andere Auf ein brädl<gap/> von <lb/> ein Ander vnnd thue die Vill darein, <lb/> bindt es in ein tuech<gap/> ein, vnd lass <lb/><lb/> ( re 3) sieden<gap/>, schneidt schnizl daraus, Gies <lb/> Fleisch brüe<gap/> Daran, vnnd butter, wie <lb/> auch Pfefferstup<gap/>, lass es breglen<gap/>. <lb/></p>
+        <p> Nimb ein Kölbers Prätl<gap/>, so Gebratten <lb/> ist, thue es khlein hackhen, vnnd Zer= <lb/> lasse<gap/> ein <objectName ref="butter">butter</objectName>, Gies<gap/> ihne an das <lb/> bräd<gap/>, vnnd ein wenig Semel <lb/> Presl<gap/>, vnnd siede<gap/> den Wörschy, Nimb <lb/> das herzl heraus, vnnd hackhs da= <lb/> runter, vnnd.1. Ayr vnd Gwirz<gap/>, <lb/> thue das andere Auf ein brädl<gap/> von <lb/> ein Ander vnnd thue die Vill darein, <lb/> bindt es in ein tuech<gap/> ein, vnd lass <lb/><lb/> ( re 3 ) sieden<gap/>, schneidt schnizl daraus, Gies <lb/> <objectName ref="fleisch">Fleisch</objectName> brüe<gap/> Daran, vnnd <objectName ref="butter">butter</objectName>, wie <lb/> auch Pfefferstup<gap/>, lass es breglen<gap/>. <lb/> </p>
             </div>
         </body>
     </text>

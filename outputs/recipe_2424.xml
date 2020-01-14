@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SUchet ein eichenes Fäßlein zur Hand <lb/> läutert aber den Zucker nicht <lb/> sondern machet nur allezeit eine Lag Weixel in das Fäßlein <lb/> und überstreuet sie zimlich starck mit Zucker <lb/> auch gröblicht= zerbrochenen Negelein und Zimmet; machet wieder eine Lag Weixel und so fort an <lb/>biß das Fäßlein voll ist: schlaget alsdann das Fäßlein zu <lb/> setzets in Keller <lb/> wendets alle Tage fleissig um <lb/> doch dannoch aber kann man die Weixeln in Zucker eingemacht <lb/> noch länger <lb/> als diese <lb/> erhalten.</p>
+        <p> SUchet ein eichenes Fäßlein zur Hand <lb/> läutert aber den <objectName ref="zucker">Zucker</objectName> nicht <lb/> sondern machet nur allezeit eine Lag Weixel in das Fäßlein <lb/> und überstreuet sie zimlich starck mit <objectName ref="zucker">Zucker</objectName> <lb/> auch gröblicht= zerbrochenen Negelein und Zimmet; machet wieder eine Lag Weixel und so fort an /biß das Fäßlein voll ist : schlaget alsdann das Fäßlein zu <lb/> setzets in <objectName ref="keller">Keller</objectName> <lb/> wendets alle Tage fleissig um <lb/> doch dannoch aber kann man die Weixeln in <objectName ref="zucker">Zucker</objectName> eingemacht <lb/> noch länger <lb/> als diese <lb/> erhalten. </p>
             </div>
         </body>
     </text>

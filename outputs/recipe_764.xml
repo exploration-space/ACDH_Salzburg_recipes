@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb .2. tt zckher vnd thue selben in .20. l: <lb/> wasßer sez aufs feuer wan es ein <lb/> gutten sudt gethan hat heb es von feuer <lb/> ab laß den zkher kalt werden vnd thue darein <lb/> 2. tt roßen blöter sauber abgebuzt vnd <lb/> daß grünne daruon darnach gehakht <lb/> oder gestosßen vnd daran gethan, wan die <lb/> Plöter a in zckher gesezt sein, thue ihn <lb/> wider aufs feuer vnd laß ein wenig kochen <lb/> hernach thues in ein kleines gschier <lb/><lb/> wie oben bemelt ist, thue es woll zue <lb/> wan du ein mahlezeit hat kanst v´ diser <lb/> auf die tafl geben nach dem Essen ist <lb/> sehr annemblich zunb Esßen oder zum wasßer <lb/> abgiesßen. <lb/></p>
+        <p> Nimb.2. tt zckher vnd thue selben in.20. l : <lb/> wasßer sez aufs <objectName ref="feuer">feuer</objectName> wan es ein <lb/> gutten sudt gethan hat heb es von <objectName ref="feuer">feuer</objectName> <lb/> ab laß den zkher kalt werden vnd thue darein <lb/> 2. tt roßen blöter sauber abgebuzt vnd <lb/> daß grünne daruon darnach gehakht <lb/> oder gestosßen vnd daran gethan, wan die <lb/> Plöter a in zckher gesezt sein, thue ihn <lb/> wider aufs <objectName ref="feuer">feuer</objectName> vnd laß ein wenig kochen <lb/> hernach thues in ein kleines gschier <lb/><lb/> wie oben bemelt ist, thue es woll zue <lb/> wan du ein mahlezeit hat kanst v´ diser <lb/> auf die tafl geben nach dem Essen ist <lb/> sehr annemblich zunb Esßen oder zum wasßer <lb/> abgiesßen. <lb/> </p>
             </div>
         </body>
     </text>

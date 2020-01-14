@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAngolt= Kraut Blatt=weiß auf den Winter <lb/> dem geschnittnen Kapis= Kraut gleich eingemacht <lb/> und vor dem Gefrieren <lb/> und sonsten sauber gehalten <lb/> ist gut zu verkochen <lb/> nachdem es ausgewaschen <lb/> gebrüht <lb/> und zugericht <lb/> wie obgedacht.</p>
+        <p> MAngolt= <objectName ref="kraut">Kraut</objectName> Blatt=weiß auf den Winter <lb/> dem geschnittnen Kapis= <objectName ref="kraut">Kraut</objectName> gleich eingemacht <lb/> und vor dem Gefrieren <lb/> und sonsten sauber gehalten <lb/> ist gut zu verkochen <lb/> nachdem es ausgewaschen <lb/> gebrüht <lb/> und zugericht <lb/> wie obgedacht. </p>
             </div>
         </body>
     </text>

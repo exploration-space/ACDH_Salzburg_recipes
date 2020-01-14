@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIse werden den vorigen gantz gleich eingericht <lb/> allein anstatt des Brods <lb/> oder Semmel= Brosen <lb/> wird weisses Meel <lb/> auch frischer Butter mit wenig Saffran genommen.</p>
+        <p> DIse werden den vorigen gantz gleich eingericht <lb/> allein anstatt des Brods <lb/> oder Semmel= Brosen <lb/> wird weisses Meel <lb/> auch frischer <objectName ref="butter">Butter</objectName> mit wenig Saffran genommen. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb die arschen<gap/>, schieppes<gap/>, machs<gap/> auf, schneyde<gap/> Putter<gap/> <lb/> in ein Rein<gap/> oder khösterl<gap/>, laß den Putter<gap/> woll<gap/> <lb/> haiß<gap/> werden, besträe<gap/> den Fisch mit Mehl<gap/>, vnd lög<gap/> <lb/> ihm darain, Rest<gap/> ihm schen praun, auf allen seithen<gap/> <lb/> gieß<gap/> arbes<gap/> prie, vnd ein gläßl wein, daran, thue <lb/> Putter<gap/> darauf, vnd gewierz<gap/>, vnd laß ihm also <lb/> sieden<gap/>, vnd gib ihm also warmer auf den thisch. <lb/></p>
+        <p> Nimb die arschen<gap/>, schieppes<gap/>, machs<gap/> auf, schneyde<gap/> Putter<gap/> <lb/> in ein Rein<gap/> oder khösterl<gap/>, laß den Putter<gap/> woll<gap/> <lb/> haiß<gap/> werden, besträe<gap/> den <objectName ref="fisch">Fisch</objectName> mit Mehl<gap/>, vnd lög<gap/> <lb/> ihm darain, Rest<gap/> ihm schen praun, auf allen seithen<gap/> <lb/> gieß<gap/> arbes<gap/> prie, vnd ein gläßl <objectName ref="wein">wein</objectName>, daran, thue <lb/> Putter<gap/> darauf, vnd gewierz<gap/>, vnd laß ihm also <lb/> sieden<gap/>, vnd gib ihm also warmer auf den thisch. <lb/> </p>
             </div>
         </body>
     </text>

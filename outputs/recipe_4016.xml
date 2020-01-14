@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChwülle <lb/> oder siede gedörrte Zwetschgen in wenig Wein <lb/> oder Wasser <lb/> und wohl Zucker <lb/> laß wieder abkühlen <lb/> nimm die Kern heraus <lb/> stecke Mandeln hinein <lb/> bachs aus obigem Taig <lb/> oder mach ein Taiglein mit einem Ey <lb/> und sauren oder süssen Milchram <lb/> Mund= Meel <lb/> und Saltz <lb/> ziehe die Zwetschgen an Spißlein gesteckter darinnen um <lb/> und bachs <lb/> etc. vor dem Bachen soll man sie an kleine Spißlein stecken <lb/> und also zugleich bachen.</p>
+        <p> SChwülle <lb/> oder siede gedörrte Zwetschgen in wenig <objectName ref="wein">Wein</objectName> <lb/> oder <objectName ref="wasser">Wasser</objectName> <lb/> und wohl <objectName ref="zucker">Zucker</objectName> <lb/> laß wieder abkühlen <lb/> nimm die Kern heraus <lb/> stecke <objectName ref="mandeln">Mandeln</objectName> hinein <lb/> bachs aus obigem Taig <lb/> oder mach ein Taiglein mit einem Ey <lb/> und sauren oder süssen Milchram <lb/> Mund= Meel <lb/> und Saltz <lb/> ziehe die Zwetschgen an Spißlein gesteckter darinnen um <lb/> und bachs <lb/> etc. vor dem Bachen soll man sie an kleine Spißlein stecken <lb/> und also zugleich bachen. </p>
             </div>
         </body>
     </text>

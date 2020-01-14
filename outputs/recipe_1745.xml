@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Salz <lb/> sie ain, laß 8. tag ligen, vnd schwärs woll, <lb/> nider, henkhs auf, mach ain rauch darunter, <lb/> mit griennen Cranabethen nit zu haiß. <lb/></p>
+        <p> <objectName ref="salz">Salz</objectName> <lb/> sie ain, laß 8. tag ligen, vnd schwärs woll, <lb/> nider, henkhs auf, mach ain <objectName ref="rauch">rauch</objectName> darunter, <lb/> mit griennen Cranabethen nit zu haiß. <lb/> </p>
             </div>
         </body>
     </text>

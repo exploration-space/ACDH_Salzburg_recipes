@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Man soll ein rechtes ungesaltznes gutes Kinds=Koch machen <lb/> wie mans einem Kind von einem Jahr macht <lb/> und auf ein Schüssel thun <lb/> weilen es noch warm ist <lb/> und vier Strützlein Kreutzer=Butter darunter scheiden <lb/> auch Zucker <lb/> biß es süß genug ist <lb/> mit wenig Rosen oder Zimmet=Wasser <lb/> und bey einer Stund lang wol stet auf eine Seiten abrühren <lb/> darnach auf eine Schüssel <lb/> wie einen Berg hoch aufrichten <lb/> in ein kühles Ort <lb/> oder auf Eyß setzen <lb/> vor dem Anrichten mit Blumen bestecken <lb/> und zieren <lb/> und zur Tafel geben.</p>
+        <p> Man soll ein rechtes ungesaltznes gutes Kinds=Koch machen <lb/> wie mans einem Kind von einem Jahr macht <lb/> und auf ein <objectName ref="schuessel">Schüssel</objectName> thun <lb/> weilen es noch warm ist <lb/> und vier Strützlein Kreutzer=Butter darunter scheiden <lb/> auch <objectName ref="zucker">Zucker</objectName> <lb/> biß es süß genug ist <lb/> mit wenig <objectName ref="rosen">Rosen</objectName> oder Zimmet=Wasser <lb/> und bey einer Stund lang wol stet auf eine Seiten abrühren <lb/> darnach auf eine <objectName ref="schuessel">Schüssel</objectName> <lb/> wie einen Berg hoch aufrichten <lb/> in ein kühles Ort <lb/> oder auf Eyß setzen <lb/> vor dem Anrichten mit <objectName ref="blumen">Blumen</objectName> bestecken <lb/> und zieren <lb/> und zur Tafel geben. </p>
             </div>
         </body>
     </text>

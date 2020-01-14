@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Scheele süß oder saure Aepffel <lb/> halbiere sie <lb/> und nimm die Butzen heraus <lb/> seynd sie süß <lb/> überbrenns in siedigem Wasser <lb/> biß sie weich werden <lb/> seynd sie aber saur <lb/> so richts gleich also mit einem Löffelvoll Wein und Wasser <lb/> gantzen Zimmet und Nägelein <lb/> auch gantzer Lemoni=Schaalen <lb/> und zimlichen Stuck Zucker in ein Casserol <lb/> oder Rein <lb/> laß kochen <lb/> biß sie weich genug <lb/> richts mit wenigem Safft oder Syrup an <lb/> und gib rothes Citroni= oder Pomerantzen=Kräutlein <lb/> so du es hast <lb/> darüber.</p>
+        <p> Scheele süß oder saure Aepffel <lb/> halbiere sie <lb/> und nimm die Butzen heraus <lb/> seynd sie süß <lb/> überbrenns in siedigem <objectName ref="wasser">Wasser</objectName> <lb/> biß sie weich werden <lb/> seynd sie aber saur <lb/> so richts gleich also mit einem Löffelvoll <objectName ref="wein">Wein</objectName> und <objectName ref="wasser">Wasser</objectName> <lb/> gantzen Zimmet und Nägelein <lb/> auch gantzer Lemoni=Schaalen <lb/> und zimlichen Stuck <objectName ref="zucker">Zucker</objectName> in ein Casserol <lb/> oder <objectName ref="rein">Rein</objectName> <lb/> laß kochen <lb/> biß sie weich genug <lb/> richts mit wenigem Safft oder Syrup an <lb/> und gib rothes Citroni= oder Pomerantzen=Kräutlein <lb/> so du es hast <lb/> darüber. </p>
             </div>
         </body>
     </text>

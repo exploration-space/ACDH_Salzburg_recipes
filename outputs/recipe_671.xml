@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet gute mürbe Aepffel <lb/> schählet und schneidets zu Plätzlein <lb/> wie vor gedacht; thut in einen stollichten Hafen ein wenig Bach= oder frisches Schmaltz <lb/> leget die Aepffel darauf giesst ein wenig Wasser daran <lb/> und last sie also sieden <lb/> biß sie weich werden; alsdann rührets ab wie zu einem Mus: Indessen reibet ein weisses Brod <lb/> und röstet solches schön gelb im Schmaltz: wann sie nun angerichtet sind <lb/> brennet das geröstete Brod darauf.</p>
+        <p> NEhmet gute mürbe Aepffel <lb/> schählet und schneidets zu Plätzlein <lb/> wie vor gedacht; thut in einen stollichten <objectName ref="hafen">Hafen</objectName> ein wenig Bach= oder frisches Schmaltz <lb/> leget die Aepffel darauf giesst ein wenig <objectName ref="wasser">Wasser</objectName> daran <lb/> und last sie also sieden <lb/> biß sie weich werden; alsdann rührets ab wie zu einem Mus : Indessen reibet ein weisses Brod <lb/> und röstet solches schön gelb im Schmaltz : wann sie nun angerichtet sind <lb/> brennet das geröstete Brod darauf. </p>
             </div>
         </body>
     </text>

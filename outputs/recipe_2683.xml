@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn nimmt entweder frische oder eingemachte Erd= oder Holbeere <lb/> lässet sie im Wein sieden <lb/> zwingets durch <lb/> und machet diese Brüh allerdings zusammen <lb/> wie vorbeschriebene Hiefen= Brüh. Oder man kan auch eine dergleichen Brüh von Hol= oder Erdbeer= Essig machen <lb/> dazu bald nachgehends ebenfalls Anleitung gegeben werden wird.</p>
+        <p> MAn nimmt entweder frische oder eingemachte Erd= oder Holbeere <lb/> lässet sie im <objectName ref="wein">Wein</objectName> sieden <lb/> zwingets durch <lb/> und machet diese Brüh allerdings zusammen <lb/> wie vorbeschriebene Hiefen= Brüh. Oder man kan auch eine dergleichen Brüh von Hol= oder Erdbeer= <objectName ref="essig">Essig</objectName> machen <lb/> dazu bald nachgehends ebenfalls Anleitung gegeben werden wird. </p>
             </div>
         </body>
     </text>

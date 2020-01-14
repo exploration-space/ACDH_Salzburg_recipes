@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb <lb/> tuter von Ayrn, ain wennig Meell darunter, <lb/> nimb wein, treibs durch ain tuech, zeuchs <lb/> auf ainner Kholl ab, wierts zu dickh, geuß <lb/> auch weinn daran, wierts aber zu dün, <lb/> brenn ain wennig Meell darein, so wierts <lb/> dickh, zuggers woll, gilbs, Salz. <lb/><lb/></p>
+        <p> Nimb <lb/> tuter von Ayrn, ain wennig Meell darunter, <lb/> nimb <objectName ref="wein">wein</objectName>, treibs durch ain tuech, zeuchs <lb/> auf ainner Kholl ab, wierts zu dickh, geuß <lb/> auch <objectName ref="wein">weinn</objectName> daran, wierts aber zu dün, <lb/> brenn ain wennig Meell darein, so wierts <lb/> dickh, zuggers woll, gilbs, <objectName ref="salz">Salz</objectName>. <lb/><lb/> </p>
             </div>
         </body>
     </text>

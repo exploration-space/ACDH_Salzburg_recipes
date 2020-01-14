@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn macht auch das Hirschen= oder rothe Wildprät <lb/> in Zwibel= Brühe sauer auch mit Scharlott <lb/> Porri, Knoblauch <lb/> mit Coriander <lb/> Speck <lb/> unzeitigen Wein= Trauben <lb/> und Agres <lb/> etc.  Item <lb/> in Weichseln <lb/> oder Maulbeern <lb/> Johannes= Beerlein <lb/> Weinschädlein <lb/> Imbeer <lb/> und andern guten Säfften <lb/> Höschäpöschen= Saltzen <lb/> Nöschpellen <lb/> etc.</p>
+        <p> MAn macht auch das Hirschen= oder rothe Wildprät <lb/> in Zwibel= <objectName ref="bruehe">Brühe</objectName> sauer auch mit Scharlott <lb/> Porri, <objectName ref="knoblauch">Knoblauch</objectName> <lb/> mit Coriander <lb/> <objectName ref="speck">Speck</objectName> <lb/> unzeitigen Wein= Trauben <lb/> und Agres <lb/> etc. Item <lb/> in Weichseln <lb/> oder Maulbeern <lb/> Johannes= Beerlein <lb/> Weinschädlein <lb/> Imbeer <lb/> und andern guten Säfften <lb/> Höschäpöschen= Saltzen <lb/> Nöschpellen <lb/> etc. </p>
             </div>
         </body>
     </text>

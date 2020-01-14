@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr geselchte <lb/> oder geräucherte Lachs <lb/> oder Rhein= Salm wird Stuck= oder Stücklein= weiß abgesottner zugericht <lb/> mit Butter und Gewürtz <lb/> ist gut in dick= durchgetriebnen Erbsen <lb/> und auch in grünen Erbsen zu geben.</p>
+        <p> DEr geselchte <lb/> oder geräucherte <objectName ref="lachs">Lachs</objectName> <lb/> oder Rhein= Salm wird Stuck= oder Stücklein= weiß abgesottner zugericht <lb/> mit <objectName ref="butter">Butter</objectName> und Gewürtz <lb/> ist gut in dick= durchgetriebnen <objectName ref="erbsen">Erbsen</objectName> <lb/> und auch in grünen <objectName ref="erbsen">Erbsen</objectName> zu geben. </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Darzu nimm zeitige Weintrauben <lb/> zerstoß die Beer darvon <lb/> und treibs durch ein Sieblein <lb/> oder Tuch <lb/> vermische ihn mit gutem Wein <lb/> auch Zucker <lb/> Zimmet <lb/> Muscatnuß und ein wenig Saffran <lb/> röste klare Semmel=Brosen in Butter <lb/> gieß den Safft darein <lb/> und mache daraus ein Koch wie oben; wann es aber zu dünn <lb/> so hilff mit Eyerdotter.</p>
+        <p> Darzu nimm zeitige <objectName ref="weintrauben">Weintrauben</objectName> <lb/> zerstoß die Beer darvon <lb/> und treibs durch ein Sieblein <lb/> oder <objectName ref="tuch">Tuch</objectName> <lb/> vermische ihn mit gutem <objectName ref="wein">Wein</objectName> <lb/> auch <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet <lb/> Muscatnuß und ein wenig Saffran <lb/> röste klare Semmel=Brosen in <objectName ref="butter">Butter</objectName> <lb/> gieß den Safft darein <lb/> und mache daraus ein Koch wie oben; wann es aber zu dünn <lb/> so hilff mit Eyerdotter. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm grossen Spargel <lb/> stutze ihn bey den harten weissen Stengeln gleich ab <lb/> überbrenne ihn <lb/> aber nicht zu viel <lb/> damit die Kolben nicht davon fallen <lb/> kühl ihn aus <lb/> und besprenge ihn mit Saltz und Gewürtz <lb/> schlage etlich Eyer wol ab <lb/> oder mache ein dünnes Brand= Taiglein <lb/> duncke diese Spargeln ein biß über die Helffte <lb/> und bachs <lb/> gibs auch wol warm.</p>
+        <p> NImm grossen <objectName ref="spargel">Spargel</objectName> <lb/> stutze ihn bey den harten weissen Stengeln gleich ab <lb/> überbrenne ihn <lb/> aber nicht zu viel <lb/> damit die Kolben nicht davon fallen <lb/> kühl ihn aus <lb/> und besprenge ihn mit Saltz und Gewürtz <lb/> schlage etlich Eyer wol ab <lb/> oder mache ein dünnes Brand= Taiglein <lb/> duncke diese <objectName ref="spargel">Spargeln</objectName> ein biß über die Helffte <lb/> und bachs <lb/> gibs auch wol warm. </p>
             </div>
         </body>
     </text>

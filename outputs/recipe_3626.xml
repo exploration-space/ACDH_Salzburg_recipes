@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm Dardoffeln <lb/> Schwammen <lb/> und gesottnen Schuncken in ein Casserol <lb/> mit 3. Sardellen <lb/> nach dem die Mirotten groß ist <lb/> thue die Hachy, in ein Casserol <lb/> mit Petersil <lb/> Zwibel <lb/> zerlassenen Speck <lb/> alles wohl bassiert <lb/> genetzt mit jus, ein wenig Coulie <lb/> und also sieden lassen; damit es aber nicht zu dick ist <lb/> schneid magers <lb/> und mürbes Rindfleisch <lb/> klein Schnitzlein= weiß <lb/> und thue es in den Rago <lb/> richts wenig <lb/> und laß nicht viel sieden <lb/> vorm Anrichten <lb/> thue ein wenig Lemoni= Safft daran <lb/> und gibs.</p>
+        <p> NImm Dardoffeln <lb/> Schwammen <lb/> und gesottnen Schuncken in ein Casserol <lb/> mit 3. <objectName ref="sardellen">Sardellen</objectName> <lb/> nach dem die Mirotten groß ist <lb/> thue die Hachy, in ein Casserol <lb/> mit Petersil <lb/> Zwibel <lb/> zerlassenen <objectName ref="speck">Speck</objectName> <lb/> alles wohl bassiert <lb/> genetzt mit <objectName ref="jus">jus</objectName>, ein wenig Coulie <lb/> und also sieden lassen; damit es aber nicht zu dick ist <lb/> schneid magers <lb/> und mürbes <objectName ref="rindfleisch">Rindfleisch</objectName> <lb/> klein Schnitzlein= weiß <lb/> und thue es in den Rago <lb/> richts wenig <lb/> und laß nicht viel sieden <lb/> vorm Anrichten <lb/> thue ein wenig Lemoni= Safft daran <lb/> und gibs. </p>
             </div>
         </body>
     </text>

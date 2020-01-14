@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIse obige Füll wird in mürben Taig gefüllt <lb/> und in Schmaltz gebachen <lb/> legs in eine Schüssel mit Krebs= Butter <lb/> und süssen Ram <lb/> laß aufsieden <lb/> bestreu die Schüssel mit rothen Bröslein <lb/> sie seynd gut und zierlich.</p>
+        <p> DIse obige Füll wird in mürben Taig gefüllt <lb/> und in Schmaltz gebachen <lb/> legs in eine <objectName ref="schuessel">Schüssel</objectName> mit Krebs= <objectName ref="butter">Butter</objectName> <lb/> und süssen Ram <lb/> laß aufsieden <lb/> bestreu die <objectName ref="schuessel">Schüssel</objectName> mit rothen Bröslein <lb/> sie seynd gut und zierlich. </p>
             </div>
         </body>
     </text>

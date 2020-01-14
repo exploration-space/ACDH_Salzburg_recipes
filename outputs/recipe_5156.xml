@@ -176,10 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm laulechtes Wasser <lb/> mit wenig Rosen= Wasser vermischt <lb/> mach einen Taig vom schönsten Meel an <lb/> mit wenig Saltz <lb/> zimlich fest <lb/> aber glat <lb/> mache ihn mit Wein zu einem dicken Strauben= Taig <lb/> hernach nimm zwey gantze Eyer <lb/> und drey Dotter <lb/> auf ein mittere Schüssel <lb/> und wann der Taig dünn genug <lb/> so mische einen halben Löffelvoll gefädten Zucker darunter <lb/> bachs schön liecht aus Schmaltz <lb/> und lege die Sträublein <lb/> über einen Walger <lb/> daß sie krumm werden <lb/> hernach richts zierlich auf <lb/> bestreus mit Zucker <lb/> und gibs warmer.
-
-NB. Man kan an statt der Dotter auch nur die Klar von Eyern nehmen <lb/> der gern rösch ißt.
-</p>
+        <p> NImm laulechtes <objectName ref="wasser">Wasser</objectName> <lb/> mit wenig Rosen= <objectName ref="wasser">Wasser</objectName> vermischt <lb/> mach einen Taig vom schönsten Meel an <lb/> mit wenig Saltz <lb/> zimlich fest <lb/> aber glat <lb/> mache ihn mit <objectName ref="wein">Wein</objectName> zu einem dicken Strauben= Taig <lb/> hernach nimm zwey gantze Eyer <lb/> und drey Dotter <lb/> auf ein mittere <objectName ref="schuessel">Schüssel</objectName> <lb/> und wann der Taig dünn genug <lb/> so mische einen halben Löffelvoll gefädten <objectName ref="zucker">Zucker</objectName> darunter <lb/> bachs schön liecht aus Schmaltz <lb/> und lege die Sträublein <lb/> über einen Walger <lb/> daß sie krumm werden <lb/> hernach richts zierlich auf <lb/> bestreus mit <objectName ref="zucker">Zucker</objectName> <lb/> und gibs warmer. NB. Man kan an statt der Dotter auch nur die Klar von Eyern nehmen <lb/> der gern rösch ißt. </p>
             </div>
         </body>
     </text>

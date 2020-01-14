@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIto mit geriebnem Parmesan- Käß <lb/> und allweg dem Spinat gleich verkocht.</p>
+        <p> DIto mit geriebnem Parmesan- Käß <lb/> und allweg dem <objectName ref="spinat">Spinat</objectName> gleich verkocht. </p>
             </div>
         </body>
     </text>

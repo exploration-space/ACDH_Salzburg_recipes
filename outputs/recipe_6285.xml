@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Item <lb/> ehe er anfähet zu geren <lb/> so nim ein Handt voll Senffmehls <lb/> vn thu es in dz Faß <lb/> vntereinander geschlagen mit stecken <lb/> auff ein halb stundt <lb/> der Wein bleibet allwegen süß.</p>
+        <p> Item <lb/> ehe er anfähet zu geren <lb/> so nim ein Handt voll Senffmehls <lb/> vn thu es in dz Faß <lb/> vntereinander geschlagen mit stecken <lb/> auff ein halb stundt <lb/> der <objectName ref="wein">Wein</objectName> bleibet allwegen süß. </p>
             </div>
         </body>
     </text>

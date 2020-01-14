@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MIschet ein Pfund Zucker <lb/> zwey Loth Zimmet <lb/> Muscaten= Blüh und Cardamomen jedes ein Quint <lb/> und ein halb Loth Negelein <lb/> alles klein zerstossen durch einander <lb/> und gebrauchet es vor ein gemeines Haus= Trisanet.</p>
+        <p> MIschet ein <objectName ref="pfund">Pfund</objectName> <objectName ref="zucker">Zucker</objectName> <lb/> zwey <objectName ref="loth">Loth</objectName> Zimmet <lb/> Muscaten= Blüh und Cardamomen jedes ein <objectName ref="quint">Quint</objectName> <lb/> und ein halb <objectName ref="loth">Loth</objectName> Negelein <lb/> alles klein zerstossen durch einander <lb/> und gebrauchet es vor ein gemeines Haus= Trisanet. </p>
             </div>
         </body>
     </text>

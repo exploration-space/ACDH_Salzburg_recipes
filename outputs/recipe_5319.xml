@@ -179,7 +179,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Hünlein werden gantzer zugericht <lb/> als wann mans sonst sieden wolt; dann werden sie in Wein und Eßig mit Wasser und Saltz gesotten <lb/> lege darzu grob= gestossenen Pfeffer <lb/> ganze Muscatblühe <lb/> Lorbeer <lb/> Rosmarin <lb/> Lemoni= Schelffen <lb/> Zwibel mit ganzen Nägelein besteckt <lb/> wann sie schön weiß und genug gesotten; gibt man sie kalt <lb/> oder warm <lb/> auf eine Schüssel <lb/> auf ein weisses Seviette, regaliers mit Lemoni und grünen Kräutlein.</p>
+        <p> DIe Hünlein werden gantzer zugericht <lb/> als wann mans sonst sieden wolt; dann werden sie in <objectName ref="wein">Wein</objectName> und Eßig mit <objectName ref="wasser">Wasser</objectName> und Saltz gesotten <lb/> lege darzu grob= gestossenen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> ganze Muscatblühe <lb/> <objectName ref="lorbeer-2">Lorbeer</objectName> <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> Lemoni= Schelffen <lb/> Zwibel mit ganzen Nägelein besteckt <lb/> wann sie schön weiß und genug gesotten; gibt man sie kalt <lb/> oder warm <lb/> auf eine <objectName ref="schuessel">Schüssel</objectName> <lb/> auf ein weisses Seviette, regaliers mit Lemoni und grünen Kräutlein. </p>
             </div>
         </body>
     </text>

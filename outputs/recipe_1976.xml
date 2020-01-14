@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Seud die Pratwürst, Zeuch ihnen die haut ab, legs auf einen <lb/> Rost vnd breins ab, nimb gar Waich gesotne Arbeß, schlags <lb/> durch ein Sib, thues in ein häferl, schneid ein Spekh gewürfflet, <lb/> Rost ihn in einem pfändl, bren ihn an das Arbes mueß, <lb/> stups mit Pfefferstup, rührs durcheinander, laß ein Wenig <lb/> Sieden, richt die Pratwürst auf ein schißl, richt das <lb/> Arbeißmueß drüber an. <lb/></p>
+        <p> Seud die Pratwürst, Zeuch ihnen die haut ab, legs auf einen <lb/> <objectName ref="rost">Rost</objectName> vnd breins ab, nimb gar Waich gesotne Arbeß, schlags <lb/> durch ein Sib, thues in ein häferl, schneid ein Spekh gewürfflet, <lb/> <objectName ref="rost">Rost</objectName> ihn in einem pfändl, bren ihn an das Arbes mueß, <lb/> stups mit Pfefferstup, rührs durcheinander, laß ein Wenig <lb/> Sieden, richt die Pratwürst auf ein schißl, richt das <lb/> Arbeißmueß drüber an. <lb/> </p>
             </div>
         </body>
     </text>

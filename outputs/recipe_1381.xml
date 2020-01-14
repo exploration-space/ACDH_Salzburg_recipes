@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Stosß<gap/> erst: lewendige Krepsen gar klein, <lb/> treibs<gap/> mit weinn durch, wann sye durchgetriben<gap/> <lb/> seint, so thue wohl ein zuckher<gap/> drein, schlag ayr<gap/> <lb/> dran, auf ein schüsßel<gap/>, 6 oder 9, schmirbe<gap/> ein <lb/> schüsßel<gap/> mit butter<gap/>, gieß<gap/> es darein, aber zuuor <lb/> mueß man es wohl abrihren<gap/>, söze es auf ein <lb/> siedenten<gap/> häfen<gap/>, daß voll mit siedenten<gap/> wasßer ist, <lb/> döckhs<gap/> zue, daß wasßer mueß alzeit sieden<gap/>, wann <lb/> es zusammen gangen ist, Strehe<gap/> zimmet<gap/>, und Zuckher<gap/> <lb/> darauf, gibs warmer auf den tisch, ist guet. <lb/><lb/> (75v)</p>
+        <p> Stosß<gap/> erst : lewendige Krepsen gar klein, <lb/> treibs<gap/> mit <objectName ref="wein">weinn</objectName> durch, wann sye durchgetriben<gap/> <lb/> seint, so thue wohl ein zuckher<gap/> drein, schlag ayr<gap/> <lb/> dran, auf ein schüsßel<gap/>, 6 oder 9, schmirbe<gap/> ein <lb/> schüsßel<gap/> mit butter<gap/>, gieß<gap/> es darein, aber zuuor <lb/> mueß man es wohl abrihren<gap/>, söze es auf ein <lb/> siedenten<gap/> häfen<gap/>, daß voll mit siedenten<gap/> wasßer ist, <lb/> döckhs<gap/> zue, daß wasßer mueß alzeit sieden<gap/>, wann <lb/> es zusammen gangen ist, Strehe<gap/> zimmet<gap/>, und Zuckher<gap/> <lb/> darauf, gibs warmer auf den <objectName ref="tisch">tisch</objectName>, ist guet. <lb/><lb/> ( 75v ) </p>
             </div>
         </body>
     </text>

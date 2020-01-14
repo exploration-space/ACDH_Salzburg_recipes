@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIe werden geschuppt <lb/> aufgemacht <lb/> und eingesaltzen <lb/> und seynd gut roher <lb/> oder gebachner einzumachen <lb/> in weiß= oder gelber Capry= oder Erbes=Brühe <lb/> mit Eßig <lb/> Wein <lb/> Gewürtz und Butter; Item <lb/> in unzeitigen Weintrauben <lb/> oder Stachelbeer=Safft <lb/> und durchgetriebner Erbes=Brühe.</p>
+        <p> SIe werden geschuppt <lb/> aufgemacht <lb/> und eingesaltzen <lb/> und seynd gut roher <lb/> oder gebachner einzumachen <lb/> in weiß= oder gelber Capry= oder Erbes=Brühe <lb/> mit Eßig <lb/> <objectName ref="wein">Wein</objectName> <lb/> Gewürtz und <objectName ref="butter">Butter</objectName>; Item <lb/> in unzeitigen <objectName ref="weintrauben">Weintrauben</objectName> <lb/> oder Stachelbeer=Safft <lb/> und durchgetriebner Erbes=Brühe. </p>
             </div>
         </body>
     </text>

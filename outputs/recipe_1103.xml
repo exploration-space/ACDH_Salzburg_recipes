@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Take your Chickens and half boil them; then take them up and cut them to Pieces; put them into a Frying-pan and fry them with Butter; then take them out of the Pan and clean it, and put in some strong Broth, White-wine, Nutmeg, a little Pepper and Salt, a Bunch of Sweet Herbs, and an Eschallot or two. Let these, with two or three Anchovies, stew on a slow Fire, and boil up; then beat it up with butter and Eggs till it is thick. Put your Chickens in, and shake them well together.</p>
+        <p> Take your Chickens and half boil them; then take them up and cut them to Pieces; put them into a Frying-pan and fry them with <objectName ref="butter">Butter</objectName>; then take them out of the Pan and clean it, and put in some strong Broth, White-wine, Nutmeg, a little Pepper and Salt, a Bunch of Sweet Herbs, and an Eschallot or two. Let these, with two or three Anchovies, stew on a slow Fire, and boil up; then beat it up with <objectName ref="butter">butter</objectName> and Eggs till it is thick. Put your Chickens in, and shake them well together. </p>
             </div>
         </body>
     </text>

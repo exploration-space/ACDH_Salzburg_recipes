@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>GIesset an zwey gantz Eyer <lb/> vier Dötterlein <lb/> ein gar schönes Mehl <lb/> und ein wenig Rosenwasser <lb/> zuckerts nach belieben; machet also einen Teig an <lb/> wie den vorbeschriebenen <lb/> jedoch etwas wenigs lehner oder dinner <lb/> im übrigen wälchert <lb/> rädelt und bachet ihn <lb/> wie bereits bey dem vorhergehenden weitläufftige Anweisung geschehen.</p>
+        <p> GIesset an zwey gantz Eyer <lb/> vier Dötterlein <lb/> ein gar schönes <objectName ref="mehl">Mehl</objectName> <lb/> und ein wenig <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> zuckerts nach belieben; machet also einen <objectName ref="teig">Teig</objectName> an <lb/> wie den vorbeschriebenen <lb/> jedoch etwas wenigs lehner oder dinner <lb/> im übrigen wälchert <lb/> rädelt und bachet ihn <lb/> wie bereits bey dem vorhergehenden weitläufftige Anweisung geschehen. </p>
             </div>
         </body>
     </text>

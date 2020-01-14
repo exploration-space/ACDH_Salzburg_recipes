@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb auf ain tisch 4 oder 5 ayr<gap/>, zerschlags <lb/><lb/> (76r) nur so vill, oder nur ein guette milch<gap/>, salz, schneits<gap/> <lb/> gar dünne<gap/> schnidl<gap/>, klein, und in die ayr<gap/> und <lb/> milch<gap/>, gieß<gap/> in ein pfannen<gap/>, undten<gap/>, und oben<gap/> gluet<gap/>, söz <lb/> auf ein schüssel<gap/>, so ists guet. <lb/></p>
+        <p> Nimb auf ain <objectName ref="tisch">tisch</objectName> 4 oder 5 ayr<gap/>, zerschlags <lb/><lb/> ( 76r ) nur so vill, oder nur ein guette milch<gap/>, <objectName ref="salz">salz</objectName>, schneits<gap/> <lb/> gar dünne<gap/> schnidl<gap/>, klein, und in die ayr<gap/> und <lb/> milch<gap/>, gieß<gap/> in ein pfannen<gap/>, undten<gap/>, und oben<gap/> gluet<gap/>, söz <lb/> auf ein schüssel<gap/>, so ists guet. <lb/> </p>
             </div>
         </body>
     </text>

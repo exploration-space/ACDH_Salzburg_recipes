@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Kanst auch auß der Brust <lb/> die gebraten ist <lb/> vielerley gehackt machen <lb/> auch gestossens <lb/> Knödel <lb/> vnd Hattele zum braten. Wen(n) die Brust roh ist <lb/> kanstu es darauß schneiden <lb/> auch Priseindel machen <lb/> Auß der Leber ein Muß <lb/> Magen vnd Därme schön gemacht <lb/> vnd gekocht <lb/> es sey schwartz oder gelb <lb/> ist es auff beyde manier gut.</p>
+        <p> Kanst auch auß der <objectName ref="brust">Brust</objectName> <lb/> die gebraten ist <lb/> vielerley gehackt machen <lb/> auch gestossens <lb/> <objectName ref="knoedel">Knödel</objectName> <lb/> vnd Hattele zum braten. Wen ( n ) die <objectName ref="brust">Brust</objectName> roh ist <lb/> kanstu es darauß schneiden <lb/> auch Priseindel machen <lb/> Auß der <objectName ref="leber">Leber</objectName> ein Muß <lb/> <objectName ref="magen">Magen</objectName> vnd <objectName ref="daerme">Därme</objectName> schön gemacht <lb/> vnd gekocht <lb/> es sey schwartz oder gelb <lb/> ist es auff beyde manier gut. </p>
             </div>
         </body>
     </text>

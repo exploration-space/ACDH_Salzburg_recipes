@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChlaget an ein halb Pfund klar= durch= gesiebten Zucker zwey gantze Eyer <lb/> rühret beedes <lb/> Eyer und Zucker <lb/> eine halbe Stund lang allein <lb/> und hernach ein halb Pfund Mehl nach und nach darein <lb/> doch darff von dem Mehl noch wohl was übrig bleiben <lb/> dann man muß im wircken sehen <lb/> daß das Teiglein lind bleibe; schneidet alsdann selbiges zu Stücklein <lb/> walcherts ein wenig aus: stippet die Mödel mit Mehl <lb/> drucket den Teig darein <lb/> schneidets aus <lb/> lassets vier Stunden stehen <lb/> und so dann bachen.</p>
+        <p> SChlaget an ein halb <objectName ref="pfund">Pfund</objectName> klar= durch= gesiebten <objectName ref="zucker">Zucker</objectName> zwey gantze Eyer <lb/> rühret beedes <lb/> Eyer und <objectName ref="zucker">Zucker</objectName> <lb/> eine halbe Stund lang allein <lb/> und hernach ein halb <objectName ref="pfund">Pfund</objectName> <objectName ref="mehl">Mehl</objectName> nach und nach darein <lb/> doch darff von dem <objectName ref="mehl">Mehl</objectName> noch wohl was übrig bleiben <lb/> dann man muß im wircken sehen <lb/> daß das Teiglein lind bleibe; schneidet alsdann selbiges zu Stücklein <lb/> walcherts ein wenig aus : stippet die Mödel mit <objectName ref="mehl">Mehl</objectName> <lb/> drucket den <objectName ref="teig">Teig</objectName> darein <lb/> schneidets aus <lb/> lassets vier Stunden stehen <lb/> und so dann bachen. </p>
             </div>
         </body>
     </text>

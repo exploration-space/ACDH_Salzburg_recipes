@@ -172,9 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BRate die Schnepffen halb <lb/> oder gantz <lb/> mache Stück daraus <lb/> lege darzu ihr gehacktes Eingeweyd <lb/> mit gehackten Dardoffeln <lb/> Capryen und Sardellen <lb/> rösts mit wenig Meel in Butter <lb/> mit klein= gehackten wenigen Zwibeln; gieß gute Fleischbrühe <lb/> oder braunes jus daran <lb/> oder machs im Anrichten fertig mit frischen Butter <lb/> Lemoni= Schelffen und Eyerdotter <lb/> sie seynd gleich fertig.
-Item die Schnepffen seynd auf alle braune Speisen gut; absonderlich auf die Suppen <lb/> wie in demselben Buch alles ausführlich und klar genug vor Augen gelegt worden.
-</p>
+        <p> BRate die Schnepffen halb <lb/> oder gantz <lb/> mache Stück daraus <lb/> lege darzu ihr gehacktes Eingeweyd <lb/> mit gehackten Dardoffeln <lb/> Capryen und <objectName ref="sardellen">Sardellen</objectName> <lb/> rösts mit wenig Meel in <objectName ref="butter">Butter</objectName> <lb/> mit klein= gehackten wenigen Zwibeln; gieß gute <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> oder braunes <objectName ref="jus">jus</objectName> daran <lb/> oder machs im Anrichten fertig mit frischen <objectName ref="butter">Butter</objectName> <lb/> Lemoni= Schelffen und Eyerdotter <lb/> sie seynd gleich fertig. Item die Schnepffen seynd auf alle braune Speisen gut; absonderlich auf die <objectName ref="suppe">Suppen</objectName> <lb/> wie in demselben Buch alles ausführlich und klar genug vor <objectName ref="augen">Augen</objectName> gelegt worden. </p>
             </div>
         </body>
     </text>

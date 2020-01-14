@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIse Vögel werden eingesaltzen <lb/> mit Butter begossen <lb/> und wann sie in Safft gebraten <lb/> so begieß sie nochmals mit Butter <lb/> und bestreus mit Semmel= Brosen über und über <lb/> und wann sie schön fäumen <lb/> und die Semmel schön gelb <lb/> so gibs <lb/> und richts auf eine Schüssel <lb/> oder Teller an; am Boden aber richte ein gute Brühe von gestossnen Kronabeten <lb/> oder Wachholder= Beeren <lb/> mit Fleischbrühe und Lemoni= Safft <lb/> oder in Ermanglung dessen <lb/> mit etlich Tropffen Eßig durchgetrieben <lb/> gewürtzt <lb/> mit ein wenig Butter und braunem Meel versehen; oder gibs trucken.</p>
+        <p> DIse <objectName ref="voegel">Vögel</objectName> werden eingesaltzen <lb/> mit <objectName ref="butter">Butter</objectName> begossen <lb/> und wann sie in Safft gebraten <lb/> so begieß sie nochmals mit <objectName ref="butter">Butter</objectName> <lb/> und bestreus mit Semmel= Brosen über und über <lb/> und wann sie schön fäumen <lb/> und die Semmel schön gelb <lb/> so gibs <lb/> und richts auf eine <objectName ref="schuessel">Schüssel</objectName> <lb/> oder <objectName ref="teller">Teller</objectName> an; am Boden aber richte ein gute <objectName ref="bruehe">Brühe</objectName> von gestossnen Kronabeten <lb/> oder Wachholder= <objectName ref="beeren">Beeren</objectName> <lb/> mit <objectName ref="fleischbruehe">Fleischbrühe</objectName> und Lemoni= Safft <lb/> oder in Ermanglung dessen <lb/> mit etlich Tropffen Eßig durchgetrieben <lb/> gewürtzt <lb/> mit ein wenig <objectName ref="butter">Butter</objectName> und braunem Meel versehen; oder gibs trucken. </p>
             </div>
         </body>
     </text>

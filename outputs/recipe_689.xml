@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb .1. glasßirten krug bey ain Bou,, <lb/> chal groß setz es zu den fayer laß Sieden <lb/> wan es ambesten Sied wirff darein .2. l <lb/> Siesßes holz lasß es ein guaten Sudt <lb/> thun, so vill alß einer ein hartes ayr <lb/> Sieden thette, heb es herab wan es kalt <lb/><lb/> wird seich es durch daß Sib, misch da,, <lb/> rundter .4. l. zukher, wans aber für <lb/> ainem krankhen gehört muß du ohne <lb/> zuckher zu drünckhen geben, hernach laß <lb/> kalt werden oder laß gefriren aber <lb/> mehrer matery muß ich darzue <lb/> thuen. <lb/></p>
+        <p> Nimb.1. glasßirten <objectName ref="krug">krug</objectName> bey ain Bou,, <lb/> chal groß setz es zu den fayer laß Sieden <lb/> wan es ambesten Sied wirff darein.2. l <lb/> Siesßes <objectName ref="holz">holz</objectName> lasß es ein guaten Sudt <lb/> thun, so vill alß einer ein hartes ayr <lb/> Sieden thette, heb es herab wan es kalt <lb/><lb/> wird seich es durch daß Sib, misch da,, <lb/> rundter.4. l. zukher, wans aber für <lb/> ainem krankhen gehört muß du ohne <lb/> zuckher zu drünckhen geben, hernach laß <lb/> kalt werden oder laß gefriren aber <lb/> mehrer matery muß ich darzue <lb/> thuen. <lb/> </p>
             </div>
         </body>
     </text>

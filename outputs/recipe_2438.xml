@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>REibe Eyer= Brod <lb/> röste dasselbe in Butter <lb/> giesse Wein darein <lb/> und würtze es mit Cardamomen <lb/> Muscatblühe und Saffran; darnach zuckers <lb/> laß sieden <lb/> und richte es an. Will man es aber noch kräfftiger haben <lb/> so können abgezogene Mandeln und ausgekörnte Zibeben <lb/> beyde klein geschnitten <lb/> darein gethan <lb/> eine Weil damit gesotten <lb/> und so man es anrichtet <lb/> Zimmet darauf gestreuet werden.</p>
+        <p> REibe Eyer= Brod <lb/> röste dasselbe in <objectName ref="butter">Butter</objectName> <lb/> giesse <objectName ref="wein">Wein</objectName> darein <lb/> und würtze es mit Cardamomen <lb/> Muscatblühe und Saffran; darnach zuckers <lb/> laß sieden <lb/> und richte es an. Will man es aber noch kräfftiger haben <lb/> so können abgezogene <objectName ref="mandeln">Mandeln</objectName> und ausgekörnte <objectName ref="zibeben">Zibeben</objectName> <lb/> beyde klein geschnitten <lb/> darein gethan <lb/> eine Weil damit gesotten <lb/> und so man es anrichtet <lb/> Zimmet darauf gestreuet werden. </p>
             </div>
         </body>
     </text>

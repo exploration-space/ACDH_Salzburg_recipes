@@ -173,11 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DAs gesottne und ausgelößte Hecht= Brät wird mit Mandeln gestossen <lb/> mit Zucker <lb/> Zimmet <lb/> oder Rosen= Wasser <lb/> mit in Ram <lb/> oder gantz guter Milch dick= gekochtem Reiß durchgetrieben <lb/> gibt eine gute Dorten= Füll <lb/> oder einen Schüssel= Koch <lb/> mit doppelter Glut <lb/> doch unten weniger als oben.
-
-NB. Wann es aber zu dünn solte werden <lb/> so macht mans mit Eyerdotter dicker.
-
-Ich hoffe vom Hecht genug geschrieben zu haben ; der aber guten Fleiß und Einfall hat <lb/> der macht bald mehr daraus.</p>
+        <p> DAs gesottne und ausgelößte Hecht= Brät wird mit <objectName ref="mandeln">Mandeln</objectName> gestossen <lb/> mit <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet <lb/> oder Rosen= <objectName ref="wasser">Wasser</objectName> <lb/> mit in Ram <lb/> oder gantz guter <objectName ref="milch">Milch</objectName> dick= gekochtem Reiß durchgetrieben <lb/> gibt eine gute Dorten= Füll <lb/> oder einen Schüssel= Koch <lb/> mit doppelter <objectName ref="glut">Glut</objectName> <lb/> doch unten weniger als oben. NB. Wann es aber zu dünn solte werden <lb/> so macht mans mit Eyerdotter dicker. Ich hoffe vom <objectName ref="hecht">Hecht</objectName> genug geschrieben zu haben; der aber guten Fleiß und Einfall hat <lb/> der macht bald mehr daraus. </p>
             </div>
         </body>
     </text>

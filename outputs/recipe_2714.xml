@@ -172,9 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>TReib ein halb Pfund Butter gar wol ab <lb/> nimm zwölff Eyer <lb/> sechs gantze und sechs Dotter <lb/> legs in warmes Wasser <lb/> und rührs nach und nach darein <lb/> auch ein Vierling gestoßne Mandeln <lb/> und sechs Löffelvoll gute weisse Bier= Germb <lb/> auch sechs Löffelvoll sauren Ram <lb/> rührs auch wohl durcheinander ab <lb/> saltz ein wenig <lb/> nimm Mund= Meel <lb/> und machs in der rechten Dicken an <lb/> schmiere ein wol= verzinntes Geschirr <lb/> und gieß den Taig darein <lb/> schmier ihn oben auf mit Butter <lb/> laß ihn an einem warmen Ort zugedeckter gehen <lb/> und bache ihn schön <lb/> als wie bewußt
-
-N.B. Man kan auch schwartze Weinbeerlein <lb/> Zucker und Gewürtz darein mischen <lb/> und ein Eyß von Eyerklar <lb/> Zucker und Lemoni= Safft darauf machen.</p>
+        <p> TReib ein halb <objectName ref="pfund">Pfund</objectName> <objectName ref="butter">Butter</objectName> gar wol ab <lb/> nimm zwölff Eyer <lb/> sechs gantze und sechs Dotter <lb/> legs in warmes <objectName ref="wasser">Wasser</objectName> <lb/> und rührs nach und nach darein <lb/> auch ein <objectName ref="vierling">Vierling</objectName> gestoßne <objectName ref="mandeln">Mandeln</objectName> <lb/> und sechs Löffelvoll gute weisse Bier= Germb <lb/> auch sechs Löffelvoll sauren Ram <lb/> rührs auch wohl durcheinander ab <lb/> saltz ein wenig <lb/> nimm Mund= Meel <lb/> und machs in der rechten Dicken an <lb/> schmiere ein wol= verzinntes <objectName ref="geschirr">Geschirr</objectName> <lb/> und gieß den Taig darein <lb/> schmier ihn oben auf mit <objectName ref="butter">Butter</objectName> <lb/> laß ihn an einem warmen Ort zugedeckter gehen <lb/> und bache ihn schön <lb/> als wie bewußt N.B. Man kan auch schwartze Weinbeerlein <lb/> <objectName ref="zucker">Zucker</objectName> und Gewürtz darein mischen <lb/> und ein Eyß von Eyerklar <lb/> <objectName ref="zucker">Zucker</objectName> und Lemoni= Safft darauf machen. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm vier oder fünff Kimmerlinge <lb/> so man anderwerts Cucummern oder Gurcken nennet <lb/> schabe sie wie man die Mehren oder gelbe Ruben schabet; setz dann in halb Wasser und halb Fleischbrüh zu <lb/> treibs durch <lb/> thue Butter darein und laß sieden <lb/> zerklopffe zwey Eyer <lb/> und rühre ein wenig Parmasan= Käs darunter <lb/> kochs ein <lb/> wie eine Eyer= Gersten; thus unter die Gurcken oder Kimmerlinge <lb/> schneid weiß Brod auf <lb/> und richte die Suppe darüber.</p>
+        <p> NImm vier oder fünff Kimmerlinge <lb/> so man anderwerts Cucummern oder Gurcken nennet <lb/> schabe sie wie man die Mehren oder gelbe Ruben schabet; setz dann in halb <objectName ref="wasser">Wasser</objectName> und halb Fleischbrüh zu <lb/> treibs durch <lb/> thue <objectName ref="butter">Butter</objectName> darein und laß sieden <lb/> zerklopffe zwey Eyer <lb/> und rühre ein wenig Parmasan= Käs darunter <lb/> kochs ein <lb/> wie eine Eyer= <objectName ref="gerste">Gersten</objectName>; thus unter die Gurcken oder Kimmerlinge <lb/> schneid weiß Brod auf <lb/> und richte die <objectName ref="suppe">Suppe</objectName> darüber. </p>
             </div>
         </body>
     </text>

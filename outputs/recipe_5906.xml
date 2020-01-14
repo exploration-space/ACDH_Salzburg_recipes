@@ -176,8 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ENstlich nimm ein halb Pf. kleingestossene oder geriebene Mandel <lb/> ein halb Pf. Faisten von einem Rind <lb/> oder ein Marck <lb/> auch klein gehackt <lb/> unter die Mandel gerührt <lb/> ein viertel Pf. Zucker <lb/> ein Loth Zimmet unter die Mandel und Faisten <lb/> 6. oder 7. Eyer daran geschlagen <lb/> ein wenig Milch= Ram <lb/> alles unter einander gerührt <lb/> ein mürben Taig gemacht <lb/> ein Blättlein ausgewalgt <lb/> und in das Dorten= Becklein gethan <lb/> um und um Spitz geschnitten <lb/> und die angemachte Füll darein gegossen <lb/> und gebachen ic.
- </p>
+        <p> ENstlich nimm ein halb Pf. kleingestossene oder geriebene Mandel <lb/> ein halb Pf. Faisten von einem Rind <lb/> oder ein Marck <lb/> auch klein gehackt <lb/> unter die Mandel gerührt <lb/> ein viertel Pf. <objectName ref="zucker">Zucker</objectName> <lb/> ein <objectName ref="loth">Loth</objectName> Zimmet unter die Mandel und Faisten <lb/> 6. oder 7. Eyer daran geschlagen <lb/> ein wenig Milch= Ram <lb/> alles unter einander gerührt <lb/> ein mürben Taig gemacht <lb/> ein Blättlein ausgewalgt <lb/> und in das Dorten= Becklein gethan <lb/> um und um Spitz geschnitten <lb/> und die angemachte Füll darein gegossen <lb/> und gebachen ic. </p>
             </div>
         </body>
     </text>

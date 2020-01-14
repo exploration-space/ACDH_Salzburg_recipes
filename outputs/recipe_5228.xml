@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Durchtriebene Erbeß wol geschmältzt <lb/> vnnd warm auff ein Tisch geben <lb/> darneben saur Kraut mit Essig begossen <lb/> vnd mit Saltz besträwt <lb/> also essen sie sie am Rheinstrom gern.</p>
+        <p> Durchtriebene Erbeß wol geschmältzt <lb/> vnnd warm auff ein <objectName ref="tisch">Tisch</objectName> geben <lb/> darneben saur <objectName ref="kraut">Kraut</objectName> mit <objectName ref="essig">Essig</objectName> begossen <lb/> vnd mit Saltz besträwt <lb/> also essen sie sie am Rheinstrom gern. </p>
             </div>
         </body>
     </text>

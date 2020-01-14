@@ -168,9 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Man sol in der ger in ein Faß mit Wein ein stück Speck hencken <lb/> in einem saubern Säcklein <lb/> vnd vermach das Spundtloch <lb/> daß du jhm nu ein kleines Lufftlöchlein lassest <lb/> so bleibt der Wein in einer ger <lb/> vnnd wirdt süß <lb/> schön vnd lauter.
-
-Wiltu guten süssen Wein machen <lb/> so nim den Most von stundt an vo der Keltern <lb/> vnnd thu jhn in ein Kessel <lb/> vnnd laß jhn eynsieden <lb/> biß der dritte theil eynseudt <lb/> darnach thu jhn in ein Faß zu behalten <lb/> so bleibt er durch das gantze Jar süß.</p>
+        <p> Man sol in der ger in ein Faß mit <objectName ref="wein">Wein</objectName> ein stück <objectName ref="speck">Speck</objectName> hencken <lb/> in einem saubern <objectName ref="saecklein">Säcklein</objectName> <lb/> vnd vermach das Spundtloch <lb/> daß du jhm nu ein kleines Lufftlöchlein lassest <lb/> so bleibt der <objectName ref="wein">Wein</objectName> in einer ger <lb/> vnnd wirdt süß <lb/> schön vnd lauter. Wiltu guten süssen <objectName ref="wein">Wein</objectName> machen <lb/> so nim den <objectName ref="most">Most</objectName> von stundt an vo der Keltern <lb/> vnnd thu jhn in ein <objectName ref="kessel">Kessel</objectName> <lb/> vnnd laß jhn eynsieden <lb/> biß der dritte theil eynseudt <lb/> darnach thu jhn in ein Faß zu behalten <lb/> so bleibt er durch das gantze Jar süß. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet acht Eyerdottern <lb/> zwei Löffel voll Zucker <lb/> und einen voll Milch <lb/> wie auch einer halben Nuß groß Butter <lb/> und etwas klar= geriebenes Semmel= Mehl <lb/> machet einen Teig daraus <lb/> walchert denselben zu runden Plätzlein <lb/> und bachet ihn aus Schmaltz.</p>
+        <p> NEhmet acht Eyerdottern <lb/> zwei <objectName ref="loeffel">Löffel</objectName> voll <objectName ref="zucker">Zucker</objectName> <lb/> und einen voll <objectName ref="milch">Milch</objectName> <lb/> wie auch einer halben Nuß groß <objectName ref="butter">Butter</objectName> <lb/> und etwas klar= geriebenes Semmel= <objectName ref="mehl">Mehl</objectName> <lb/> machet einen <objectName ref="teig">Teig</objectName> daraus <lb/> walchert denselben zu runden Plätzlein <lb/> und bachet ihn aus Schmaltz. </p>
             </div>
         </body>
     </text>

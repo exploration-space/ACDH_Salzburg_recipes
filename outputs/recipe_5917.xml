@@ -176,8 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm ein sauber gewaschnes Miltz <lb/> dises muß aufgeschnitten oder umgekehrt <lb/> mit Pfeffer <lb/> Imber und Saltz besprengt <lb/> und am Spiß <lb/> oder auf dem Rost gebraten werden; gibs trucken mit Senff <lb/> oder mach mit Zwibel <lb/> Butter <lb/> Petersil und Eßig <lb/> eine saure Brühe darüber.
- </p>
+        <p> NImm ein sauber gewaschnes Miltz <lb/> dises muß aufgeschnitten oder umgekehrt <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber und Saltz besprengt <lb/> und am Spiß <lb/> oder auf dem <objectName ref="rost">Rost</objectName> gebraten werden; gibs trucken mit Senff <lb/> oder mach mit Zwibel <lb/> <objectName ref="butter">Butter</objectName> <lb/> Petersil und Eßig <lb/> eine saure <objectName ref="bruehe">Brühe</objectName> darüber. </p>
             </div>
         </body>
     </text>

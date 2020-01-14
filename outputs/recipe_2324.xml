@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Wasser in ein pfan, nimb auf ein tisch Puter groß als ein Aÿr, <lb/> laß undereinander Sieden, das der Puter zergangen In dem Wasser, vnd <lb/> Weill es seud, so khoch ein mell drein, vnd laß es stät sieden, biß dich Zimbt, <lb/> das mell seÿ alles naß, thues ab dem Feuer, Nimb ein löfl, böhr ihn ab, <lb/> biß er gar hart Wird, so schlag ein Aÿr nach dem andern drem, Wie ein <lb/> Prandtaig, vnd laß ihn in der dikhe, thue ihn auf ein täller, ein finger dikh <lb/> oder lang, so Werden sie fein rogl, sein guet den khindbetherinen, <lb/> dörffs sie sonders nit khiel bachen, sie Werden Nit schmalzig. <lb/></p>
+        <p> Nimb <objectName ref="wasser">Wasser</objectName> in ein pfan, nimb auf ein <objectName ref="tisch">tisch</objectName> Puter groß als ein Aÿr, <lb/> laß undereinander Sieden, das der Puter zergangen In dem <objectName ref="wasser">Wasser</objectName>, vnd <lb/> Weill es seud, so khoch ein mell drein, vnd laß es stät sieden, biß dich Zimbt, <lb/> das mell seÿ alles naß, thues ab dem <objectName ref="feuer">Feuer</objectName>, Nimb ein löfl, böhr ihn ab, <lb/> biß er gar hart Wird, so schlag ein Aÿr nach dem andern drem, Wie ein <lb/> Prandtaig, vnd laß ihn in der dikhe, thue ihn auf ein täller, ein finger dikh <lb/> oder lang, so Werden sie fein rogl, sein guet den khindbetherinen, <lb/> dörffs sie sonders nit khiel bachen, sie Werden Nit schmalzig. <lb/> </p>
             </div>
         </body>
     </text>

@@ -179,7 +179,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Schüncken werden gleich dem Kopff gesotten <lb/> und hernach kalt <lb/> oder warm gegeben <lb/> ( und warmer zwar mit einer Sardellen= Capry= unzeitigen Agres= oder Weintrauben= Brühe <lb/> mit Wein <lb/> Eßig <lb/> oder auch Lemoni= Safft <lb/> sauer <lb/> ) süß aber mit Weichsel= Maulbeer = Weinschaidlein <lb/> c. oder in einer andern süssen Wein= Brühe mit Pinioliund Rosinen <lb/> werden sie aber kalt gegeben <lb/> so besteckt man sie mit Lorbeer <lb/> Rosmarin <lb/> oder auch mit Blumen.</p>
+        <p> DIe Schüncken werden gleich dem Kopff gesotten <lb/> und hernach kalt <lb/> oder warm gegeben <lb/> ( und warmer zwar mit einer Sardellen= Capry= unzeitigen Agres= oder Weintrauben= <objectName ref="bruehe">Brühe</objectName> <lb/> mit <objectName ref="wein">Wein</objectName> <lb/> Eßig <lb/> oder auch Lemoni= Safft <lb/> sauer <lb/> ) süß aber mit Weichsel= Maulbeer = Weinschaidlein <lb/> c. oder in einer andern süssen Wein= <objectName ref="bruehe">Brühe</objectName> mit Pinioliund <objectName ref="rosinen">Rosinen</objectName> <lb/> werden sie aber kalt gegeben <lb/> so besteckt man sie mit <objectName ref="lorbeer-2">Lorbeer</objectName> <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> oder auch mit <objectName ref="blumen">Blumen</objectName>. </p>
             </div>
         </body>
     </text>

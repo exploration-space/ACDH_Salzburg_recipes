@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Linsen <lb/> wasch sie fein sauber auß <lb/> vnd klaub sie. Nim(m) auch ein gute Rindtfleischbrüh <lb/> laß sieden <lb/> schneidt Zwibeln vnd ein wenig Knobloch darvnter <lb/> daß fein dick wirt <lb/> vnd wenns gekocht ist <lb/> so thu grüne wolschmeckende Kräuter <lb/> die klein gehackt seyn <lb/> darvnter <lb/> vn(n) gesotten Speck <lb/> laß damit sieden <lb/> so wirt es gut vnnd wolgeschmack. Du kanst auch Linsen kochen one Zwibeln <lb/> wie es einer gern jsset <lb/> so kan man es zurichten.</p>
+        <p> Nim ( m ) <objectName ref="linsen">Linsen</objectName> <lb/> wasch sie fein sauber auß <lb/> vnd klaub sie. Nim ( m ) auch ein gute Rindtfleischbrüh <lb/> laß sieden <lb/> schneidt Zwibeln vnd ein wenig Knobloch darvnter <lb/> daß fein dick wirt <lb/> vnd wenns gekocht ist <lb/> so thu grüne wolschmeckende <objectName ref="kraeuter">Kräuter</objectName> <lb/> die klein gehackt seyn <lb/> darvnter <lb/> vn ( n ) gesotten <objectName ref="speck">Speck</objectName> <lb/> laß damit sieden <lb/> so wirt es gut vnnd wolgeschmack. Du kanst auch <objectName ref="linsen">Linsen</objectName> kochen one Zwibeln <lb/> wie es einer gern jsset <lb/> so kan man es zurichten. </p>
             </div>
         </body>
     </text>

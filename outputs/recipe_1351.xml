@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim ein mandl<gap/> Stosße<gap/> sye Clein, nimb ein schenen <lb/> weisßen zuckher<gap/>, Stosße<gap/> ihn auch, nimb ain ganzes <lb/> ayr<gap/> drunter, rihrs<gap/> auf einer seithen<gap/> ab, schneide<gap/> <lb/> Langlete<gap/> schnizl<gap/>, Streiche<gap/> die mandl<gap/> darauf, <lb/> wickhle es auf ein holz, drickhers<gap/> in offen<gap/> oder auf  in <lb/> den rohr, fein khiel<gap/>, ist guet. <lb/></p>
+        <p> Nim ein mandl<gap/> Stosße<gap/> sye Clein, nimb ein schenen <lb/> weisßen zuckher<gap/>, Stosße<gap/> ihn auch, nimb ain ganzes <lb/> ayr<gap/> drunter, rihrs<gap/> auf einer seithen<gap/> ab, schneide<gap/> <lb/> Langlete<gap/> schnizl<gap/>, Streiche<gap/> die mandl<gap/> darauf, <lb/> wickhle es auf ein <objectName ref="holz">holz</objectName>, drickhers<gap/> in offen<gap/> oder auf in <lb/> den <objectName ref="rohr">rohr</objectName>, fein khiel<gap/>, ist guet. <lb/> </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm Petersilien= oder Peterlein=  Kraut <lb/> stoß selbiges in einem Mörsel <lb/> gieß Wein und Fleischbrüh daran <lb/> treibs durch einen Seiher <lb/> thue Ingber <lb/> Pfeffer und Fleischbrüh darein <lb/> laß sieden <lb/> doch nicht lang <lb/> damit die Farb nicht bleich werde <lb/> und richte dann diese Brüh über den Hecht.</p>
+        <p> NImm Petersilien= oder Peterlein= <objectName ref="kraut">Kraut</objectName> <lb/> stoß selbiges in einem Mörsel <lb/> gieß <objectName ref="wein">Wein</objectName> und Fleischbrüh daran <lb/> treibs durch einen <objectName ref="seiher">Seiher</objectName> <lb/> thue Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Fleischbrüh darein <lb/> laß sieden <lb/> doch nicht lang <lb/> damit die Farb nicht bleich werde <lb/> und richte dann diese Brüh über den <objectName ref="hecht">Hecht</objectName>. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm ein Schüssel <lb/> oder erdene Rein <lb/> laß zimlich viel guten Butter darinn zergehen <lb/> und schlage gute Eyer <lb/> eins nach dem andern mit Vortheil darein <lb/> daß sie nicht zerfahren <lb/> sprenge sie mit Saltz und Gewürtz <lb/> gib unten und oben Glut <lb/> so bald das Klar auf den Dottern übersich weiß <lb/> und ein wenig angezogen haben <lb/> so gib sie sammt dem Geschirr zu Tisch <lb/> weil sie noch warm <lb/> und die Dotter noch weich sind.</p>
+        <p> NImm ein <objectName ref="schuessel">Schüssel</objectName> <lb/> oder erdene <objectName ref="rein">Rein</objectName> <lb/> laß zimlich viel guten <objectName ref="butter">Butter</objectName> darinn zergehen <lb/> und schlage gute Eyer <lb/> eins nach dem andern mit Vortheil darein <lb/> daß sie nicht zerfahren <lb/> sprenge sie mit Saltz und Gewürtz <lb/> gib unten und oben <objectName ref="glut">Glut</objectName> <lb/> so bald das Klar auf den Dottern übersich weiß <lb/> und ein wenig angezogen haben <lb/> so gib sie sammt dem <objectName ref="geschirr">Geschirr</objectName> zu <objectName ref="tisch">Tisch</objectName> <lb/> weil sie noch warm <lb/> und die Dotter noch weich sind. </p>
             </div>
         </body>
     </text>

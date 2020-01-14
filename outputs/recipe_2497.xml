@@ -171,9 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>LAsset die Eyer ein klein wenig sieden <lb/> schlaget sie auf <lb/> als wolte man sie weich gesotten essen; schüttet das einwendige zusammen in ein Schüssel= oder Häfelein <lb/> würtzets mit ein wenig Saltz <lb/> Ingber und Muscatblüh <lb/> schlagt auch ein ungesottenes Ey daran <lb/> und klopfft es wohl unter einander: last dann ein frisches Schmaltz wohl heiß werden <lb/> giesset von den zerklopfften Eyern die leere Schalen wieder voll <lb/> darinnen sie zuvor gewesen seyn. Dann nehmet in einen eisernen tieffen Löffel ein wenig heisses Schmaltz <lb/> giesset aus der Eyer= Schalen die Eyer in den Löffel <lb/> und stürtzt die Schalen geschwind darüber; legt es also fein gemach aus dem Löffel in das Pfännlein mit dem heissen Schmaltz <lb/> und bacht es schön licht= gelb heraus.
-
-</p>
+        <p> LAsset die Eyer ein klein wenig sieden <lb/> schlaget sie auf <lb/> als wolte man sie weich gesotten essen; schüttet das einwendige zusammen in ein Schüssel= oder <objectName ref="haefelein">Häfelein</objectName> <lb/> würtzets mit ein wenig Saltz <lb/> Ingber und Muscatblüh <lb/> schlagt auch ein ungesottenes Ey daran <lb/> und klopfft es wohl unter einander : last dann ein frisches Schmaltz wohl heiß werden <lb/> giesset von den zerklopfften Eyern die leere Schalen wieder voll <lb/> darinnen sie zuvor gewesen seyn. Dann nehmet in einen eisernen tieffen <objectName ref="loeffel">Löffel</objectName> ein wenig heisses Schmaltz <lb/> giesset aus der Eyer= Schalen die Eyer in den <objectName ref="loeffel">Löffel</objectName> <lb/> und stürtzt die Schalen geschwind darüber; legt es also fein gemach aus dem <objectName ref="loeffel">Löffel</objectName> in das <objectName ref="pfaennlein">Pfännlein</objectName> mit dem heissen Schmaltz <lb/> und bacht es schön licht= gelb heraus. </p>
             </div>
         </body>
     </text>

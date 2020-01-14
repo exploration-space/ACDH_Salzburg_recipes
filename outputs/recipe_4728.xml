@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet ein Pfund schönen Canarien= Zucker <lb/> weisses Ingbers ein halb Loth <lb/> Zimmet drey Loth; Muscaten= Blüh <lb/> Muscatnüsse <lb/> Cardamomen <lb/> jedes zwey Quint; Paradiß= Körner <lb/> Galgant und Cubeben <lb/> jedes ein Quint; stosset alles klein <lb/> und mischet es unter den Zucker.</p>
+        <p> NEhmet ein <objectName ref="pfund">Pfund</objectName> schönen Canarien= <objectName ref="zucker">Zucker</objectName> <lb/> weisses Ingbers ein halb <objectName ref="loth">Loth</objectName> <lb/> Zimmet drey <objectName ref="loth">Loth</objectName>; Muscaten= Blüh <lb/> Muscatnüsse <lb/> Cardamomen <lb/> jedes zwey <objectName ref="quint">Quint</objectName>; Paradiß= Körner <lb/> <objectName ref="galgant">Galgant</objectName> und Cubeben <lb/> jedes ein <objectName ref="quint">Quint</objectName>; stosset alles klein <lb/> und mischet es unter den <objectName ref="zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

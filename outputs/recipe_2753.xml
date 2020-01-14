@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn nimme auf ein Pfund Mandeln zwey Pfund gefädten Zucker <lb/> ziehe die Mandeln ab <lb/> schneid oder stosse sie grob <lb/> hernach nimm geschnittenen Zimmet <lb/> Näglein <lb/> und Muscatnuß <lb/> misch es untereinander <lb/> kanst auch Lemoni= Schelffen darunter thun <lb/> und einer Nuß= groß schönen geweichten Tragant <lb/> und zwey frische Eyerklar <lb/> so in Faum geschlagen worden <lb/> mach es nicht gar zu fest an <lb/> streichs zwey Finger= dick auf Oblat <lb/> und bachs mit oder ohne Eyß.</p>
+        <p> MAn nimme auf ein <objectName ref="pfund">Pfund</objectName> <objectName ref="mandeln">Mandeln</objectName> zwey <objectName ref="pfund">Pfund</objectName> gefädten <objectName ref="zucker">Zucker</objectName> <lb/> ziehe die <objectName ref="mandeln">Mandeln</objectName> ab <lb/> schneid oder stosse sie grob <lb/> hernach nimm geschnittenen Zimmet <lb/> Näglein <lb/> und Muscatnuß <lb/> misch es untereinander <lb/> kanst auch Lemoni= Schelffen darunter thun <lb/> und einer Nuß= groß schönen geweichten <objectName ref="tragant">Tragant</objectName> <lb/> und zwey frische Eyerklar <lb/> so in Faum geschlagen worden <lb/> mach es nicht gar zu fest an <lb/> streichs zwey Finger= dick auf Oblat <lb/> und bachs mit oder ohne Eyß. </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>PLateis mit Meel ausgebachen <lb/> seynd gut in allerhand guten gelb= und braunen Brühen <lb/> von Maurachen und Schwammen <lb/> mit wenig Wein <lb/> oder Lemoni= Safft; wie auch mit gerösten Knoblauch <lb/> Zwibel <lb/> Capry <lb/> oder auch in guter Sardellen= Brühe <lb/> aber bey dieser letzten Brühe solle das Saltz nicht vorschlagen.</p>
+        <p> PLateis mit Meel ausgebachen <lb/> seynd gut in allerhand guten gelb= und braunen <objectName ref="bruehe">Brühen</objectName> <lb/> von Maurachen und Schwammen <lb/> mit wenig <objectName ref="wein">Wein</objectName> <lb/> oder Lemoni= Safft; wie auch mit gerösten <objectName ref="knoblauch">Knoblauch</objectName> <lb/> Zwibel <lb/> Capry <lb/> oder auch in guter Sardellen= <objectName ref="bruehe">Brühe</objectName> <lb/> aber bey dieser letzten <objectName ref="bruehe">Brühe</objectName> solle das Saltz nicht vorschlagen. </p>
             </div>
         </body>
     </text>

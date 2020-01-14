@@ -174,9 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein guetten Weinn, ein wenig wasßer <lb/> darunter, 3 ayr<gap/> doter<gap/>, ein wenig ein butter<gap/>, <lb/> zimmet<gap/> Stup<gap/>, pfeffer, Lemoni<gap/> schöllen<gap/>, Muhcat<gap/>: <lb/> =bliehe<gap/>, ein wenig ein zuckher<gap/>, salz, laß sieden<gap/>. <lb/> gibs. <lb/>
-
-[Anm.: „Muhcat“: bedeutet ‚Muskat‘.]</p>
+        <p> Nimb ein guetten <objectName ref="wein">Weinn</objectName>, ein wenig wasßer <lb/> darunter, 3 ayr<gap/> doter<gap/>, ein wenig ein butter<gap/>, <lb/> zimmet<gap/> Stup<gap/>, <objectName ref="pfeffer">pfeffer</objectName>, Lemoni<gap/> schöllen<gap/>, Muhcat<gap/> : <lb/> =bliehe<gap/>, ein wenig ein zuckher<gap/>, <objectName ref="salz">salz</objectName>, laß sieden<gap/>. <lb/> gibs. <lb/> [ Anm. : „ Muhcat “ : bedeutet ‚Muskat ‘. ] </p>
             </div>
         </body>
     </text>

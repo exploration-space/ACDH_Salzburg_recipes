@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schöll das grob hilzene dauon, schneid ihn blätlet in ein khaltes Wasser, <lb/> laß ein Wasser sieden, Salz, ÿber sied ihn ein wenig, nach dem leg ihn in <lb/> ein Rein, gewürz ihn am maisten mit Pfeffer ein guete fleischbrüe, <lb/> laß ihn gar sieden, leg ein guets stükhl Buter drein, vnd gib ihn, Man <lb/> kahn ihn auch auf ein schißl allzeit geribnen khäß, gewürzt vnd Puter, <lb/> vnd Wider ein leg khellräbÿ, biß die schißl voll, sez auf ein gluet, <lb/> geuß ein Wenig fleischbrüe dran, laß ein Sud thuen, gibs Warmb. <lb/></p>
+        <p> Schöll das grob hilzene dauon, schneid ihn blätlet in ein khaltes <objectName ref="wasser">Wasser</objectName>, <lb/> laß ein <objectName ref="wasser">Wasser</objectName> sieden, <objectName ref="salz">Salz</objectName>, ÿber sied ihn ein wenig, nach dem leg ihn in <lb/> ein <objectName ref="rein">Rein</objectName>, gewürz ihn am maisten mit <objectName ref="pfeffer">Pfeffer</objectName> ein guete fleischbrüe, <lb/> laß ihn gar sieden, leg ein guets stükhl Buter drein, vnd gib ihn, Man <lb/> kahn ihn auch auf ein schißl allzeit geribnen khäß, gewürzt vnd Puter, <lb/> vnd Wider ein leg khellräbÿ, biß die schißl voll, sez auf ein gluet, <lb/> geuß ein Wenig fleischbrüe dran, laß ein Sud thuen, gibs Warmb. <lb/> </p>
             </div>
         </body>
     </text>

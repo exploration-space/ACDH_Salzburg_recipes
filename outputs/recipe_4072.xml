@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm schönes Meel auf ein Brett <lb/> saltz <lb/> und machs an mit Eyerdotter <lb/> Wasser und Butter <lb/> sammt wenig Zimmet und Zucker <lb/> walge runde Blätter daraus <lb/> schneids in der Grösse des Hohl= Eisens <lb/> bestreiche eine Seiten des Taigs mit abgeschlagenen Eyern <lb/> schlags nach der Läng an das Eisen <lb/> obenher piche den Taig <lb/> wo er bestrichen ist <lb/> übereinander <lb/> und hebs in das heisse Schmaltz <lb/> und bachs schön Liecht= gelb <lb/> so gehts von dem Eisen herab <lb/> wie ein Schlieffer <lb/> dahero werden sie Schlieffer <lb/> oder Hohl= Küchlein genennt.</p>
+        <p> NImm schönes Meel auf ein <objectName ref="brett">Brett</objectName> <lb/> saltz <lb/> und machs an mit Eyerdotter <lb/> <objectName ref="wasser">Wasser</objectName> und <objectName ref="butter">Butter</objectName> <lb/> sammt wenig Zimmet und <objectName ref="zucker">Zucker</objectName> <lb/> walge runde Blätter daraus <lb/> schneids in der Grösse des Hohl= Eisens <lb/> bestreiche eine Seiten des Taigs mit abgeschlagenen Eyern <lb/> schlags nach der Läng an das Eisen <lb/> obenher piche den Taig <lb/> wo er bestrichen ist <lb/> übereinander <lb/> und hebs in das heisse Schmaltz <lb/> und bachs schön Liecht= gelb <lb/> so gehts von dem Eisen herab <lb/> wie ein Schlieffer <lb/> dahero werden sie Schlieffer <lb/> oder Hohl= Küchlein genennt. </p>
             </div>
         </body>
     </text>

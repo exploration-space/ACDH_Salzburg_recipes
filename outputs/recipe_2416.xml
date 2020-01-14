@@ -174,9 +174,7 @@ Es fällt auf, dass die "verlorenen" Eier im Rezept erst ganz zuletzt über die 
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm ein gut theil Sauerampfer <lb/> stosse oder hacke ihn klein <lb/> zwing den Safft heraus durch ein Tuch <lb/> gieß ein klein wenig Fleischbrühe daran <lb/> und rühre zimlich viel Milchram hinein; würtze es mit Muscatenblüh <lb/> Ingber und Cardamomen <lb/> laß sieden: richte die Suppe über weisses aufgeschnittenes <lb/> oder auch gebähtes Brod <lb/> und verliehre Eyer darauf.
-
- </p>
+        <p> NImm ein gut theil <objectName ref="sauerampfer">Sauerampfer</objectName> <lb/> stosse oder hacke ihn klein <lb/> zwing den Safft heraus durch ein <objectName ref="tuch">Tuch</objectName> <lb/> gieß ein klein wenig <objectName ref="fleischbruehe">Fleischbrühe</objectName> daran <lb/> und rühre zimlich viel Milchram hinein; würtze es mit Muscatenblüh <lb/> Ingber und Cardamomen <lb/> laß sieden : richte die <objectName ref="suppe">Suppe</objectName> über weisses aufgeschnittenes <lb/> oder auch gebähtes Brod <lb/> und verliehre Eyer darauf. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>UNtergreiffs mit einem scharffen Messer <lb/> und mach ein gute Füll darein <lb/> als wie in die Lämmer=Brüstlein <lb/> laß an die statt sieden <lb/> begieß mit braunem Butter <lb/> oder bestreue sie mit angemachtem Brod <lb/> und gibs auf einen Köhl oder Köhlrabi <lb/> und regaliers mit gebachenen Füssen <lb/> Paffössen <lb/> oder <lb/> was du hast; deme es beliebt <lb/> der kans gleich einer Wurst zu Stucken schneiden.</p>
+        <p> UNtergreiffs mit einem scharffen <objectName ref="messer">Messer</objectName> <lb/> und mach ein gute Füll darein <lb/> als wie in die Lämmer=Brüstlein <lb/> laß an die statt sieden <lb/> begieß mit braunem <objectName ref="butter">Butter</objectName> <lb/> oder bestreue sie mit angemachtem Brod <lb/> und gibs auf einen Köhl oder Köhlrabi <lb/> und regaliers mit gebachenen Füssen <lb/> Paffössen <lb/> oder <lb/> was du hast; deme es beliebt <lb/> der kans gleich einer <objectName ref="wurst">Wurst</objectName> zu Stucken schneiden. </p>
             </div>
         </body>
     </text>

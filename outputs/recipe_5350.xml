@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn die Lungen und Leber von dem wilden Schwein unverletzt <lb/> sauber und frisch ist <lb/> so kan alles daraus gemachet werden ; wie von dem einheimischen im 5. Capitel <lb/> oder bey dem Spanfärcklein im 6. Capitel <lb/> oder bey dem Kalb im andern Capitel zu sehen.</p>
+        <p> WAnn die <objectName ref="lunge">Lungen</objectName> und <objectName ref="leber">Leber</objectName> von dem wilden Schwein unverletzt <lb/> sauber und frisch ist <lb/> so kan alles daraus gemachet werden; wie von dem einheimischen im 5. Capitel <lb/> oder bey dem Spanfärcklein im 6. Capitel <lb/> oder bey dem <objectName ref="kalb">Kalb</objectName> im andern Capitel zu sehen. </p>
             </div>
         </body>
     </text>

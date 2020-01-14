@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Köhl= Kraut <lb/> von der weissen oder gelben Art <lb/> gebutzt <lb/> nach Belieben geschnitten <lb/> in gesaltzen Wasser überbrüht <lb/> mit Meel weiß=gelb eingebrennt <lb/> und mit Erbes= Brühe <lb/> Butter und Gewürtz gar fertig gemacht <lb/> und angericht.</p>
+        <p> Köhl= <objectName ref="kraut">Kraut</objectName> <lb/> von der weissen oder gelben Art <lb/> gebutzt <lb/> nach Belieben geschnitten <lb/> in gesaltzen <objectName ref="wasser">Wasser</objectName> überbrüht <lb/> mit Meel weiß=gelb eingebrennt <lb/> und mit Erbes= <objectName ref="bruehe">Brühe</objectName> <lb/> <objectName ref="butter">Butter</objectName> und Gewürtz gar fertig gemacht <lb/> und angericht. </p>
             </div>
         </body>
     </text>

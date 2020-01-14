@@ -173,11 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm gehackte Brüßlein mit Eyern <lb/> kleine Zwibel <lb/> gehackten Petersil und Sardellen <lb/> unter einander <lb/> und mach mit Schmaltz <lb/> oder Speck ein Pfäutzlein daraus.
-
-Item Brüßlein= Würst.
-
-MAche von jetzt vorbeschriebenen Gehäck <lb/> weisse Bratwürst <lb/> mit untergemischten Kapaunen= Brät <lb/> in Därm gefüllt <lb/> mit Kälber= Euterlein <lb/> sie seynd gut und geschmack.</p>
+        <p> NImm gehackte Brüßlein mit Eyern <lb/> kleine Zwibel <lb/> gehackten Petersil und <objectName ref="sardellen">Sardellen</objectName> <lb/> unter einander <lb/> und mach mit Schmaltz <lb/> oder <objectName ref="speck">Speck</objectName> ein Pfäutzlein daraus. Item Brüßlein= Würst. MAche von jetzt vorbeschriebenen <objectName ref="gehaeck">Gehäck</objectName> <lb/> weisse Bratwürst <lb/> mit untergemischten Kapaunen= Brät <lb/> in Därm gefüllt <lb/> mit Kälber= Euterlein <lb/> sie seynd gut und geschmack. </p>
             </div>
         </body>
     </text>

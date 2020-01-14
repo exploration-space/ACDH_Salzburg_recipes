@@ -170,11 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm frische oder gedörrte Feigen <lb/> die frischen halbiere <lb/> die gedörrten lasse gantzer <lb/> übersieds mit wenig Wein <lb/> wol Zucker <lb/> und gantzen Zimmet <lb/> zugedeckter <lb/> aber nicht zu weich <lb/> kühle und truckne sie <lb/> mache einen Taig von weissem Meel <lb/> und puren Wein <lb/> nicht zu dick <lb/> oder zu dünn <lb/> bachs aus wol heissem Schmaltz an Spißlein gesteckter <lb/> und gibs rescher und warmer mit Zucker bestreuter zur Tafel <lb/> nimm aber kein Schmaltz <lb/> so schon ist gebraucht worden.
-
-NB. Feigen in die Dorten=Füll <lb/> ist beschriebner zu finden im II. Theil <lb/> 2. Buch <lb/> am 8. Blat <lb/> N°. 26.
-
-NB. Feigen frischer einzumachen <lb/> ist auch zu finden im II. Theil <lb/> 2. Buch <lb/> am 64. Blat <lb/> N°. 65.</p>
+        <p> Nimm frische oder gedörrte <objectName ref="feigen">Feigen</objectName> <lb/> die frischen halbiere <lb/> die gedörrten lasse gantzer <lb/> übersieds mit wenig <objectName ref="wein">Wein</objectName> <lb/> wol <objectName ref="zucker">Zucker</objectName> <lb/> und gantzen Zimmet <lb/> zugedeckter <lb/> aber nicht zu weich <lb/> kühle und truckne sie <lb/> mache einen Taig von weissem Meel <lb/> und puren <objectName ref="wein">Wein</objectName> <lb/> nicht zu dick <lb/> oder zu dünn <lb/> bachs aus wol heissem Schmaltz an Spißlein gesteckter <lb/> und gibs rescher und warmer mit <objectName ref="zucker">Zucker</objectName> bestreuter zur Tafel <lb/> nimm aber kein Schmaltz <lb/> so schon ist gebraucht worden. NB. <objectName ref="feigen">Feigen</objectName> in die Dorten=Füll <lb/> ist beschriebner zu finden im II. Theil <lb/> 2. Buch <lb/> am 8. Blat <lb/> N°. 26. NB. <objectName ref="feigen">Feigen</objectName> frischer einzumachen <lb/> ist auch zu finden im II. Theil <lb/> 2. Buch <lb/> am 64. Blat <lb/> N°. 65. </p>
             </div>
         </body>
     </text>

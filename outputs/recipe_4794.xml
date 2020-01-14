@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>RÜhret zwey gantze Eyer <lb/> und von zwey anderen das Weisse <lb/> eine gute Stund; nehmet hernach ein halb Pfund genau gewogen= und klar= durch= geräidelten Zucker acht Loth Stärck= und vier Loth schönes= Mehl <lb/> rühret solches allgemach unter die Eyer <lb/> zuvor aber schneidet und bräunet ein halb Pfund Mandeln ein wenig ab <lb/> und mischet sie ebenfalls mit allerley Gewürtz<lb/> als Zimmet <lb/> Muscatnuß und Cardamomen <lb/> jedes ein Quintlein <lb/> darunter; verfertigets im übrigen <lb/> wie im vorigen bereits gedacht.</p>
+        <p> RÜhret zwey gantze Eyer <lb/> und von zwey anderen das Weisse <lb/> eine gute Stund; nehmet hernach ein halb <objectName ref="pfund">Pfund</objectName> genau gewogen= und klar= durch= geräidelten <objectName ref="zucker">Zucker</objectName> acht <objectName ref="loth">Loth</objectName> Stärck= und vier <objectName ref="loth">Loth</objectName> schönes= <objectName ref="mehl">Mehl</objectName> <lb/> rühret solches allgemach unter die Eyer <lb/> zuvor aber schneidet und bräunet ein halb <objectName ref="pfund">Pfund</objectName> <objectName ref="mandeln">Mandeln</objectName> ein wenig ab <lb/> und mischet sie ebenfalls mit allerley Gewürtz/ als Zimmet <lb/> Muscatnuß und Cardamomen <lb/> jedes ein <objectName ref="quintlein">Quintlein</objectName> <lb/> darunter; verfertigets im übrigen <lb/> wie im vorigen bereits gedacht. </p>
             </div>
         </body>
     </text>

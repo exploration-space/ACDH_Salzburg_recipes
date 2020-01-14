@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Leber wird gleich frisch gehackt <lb/> oder in Butter geröst <lb/> und mit wenig geweichter Semmel klein gestossen; mische darzu ein wenig Zucker <lb/> und klein= gestossene Mandeln <lb/> und wenig Saltz <lb/> rührs mit Ram und guten Eyern ab <lb/> treibs durch ein Haar= Sieblein <lb/> und mach ein Schüssel= Mus daraus <lb/> mit oben und unten Glut.</p>
+        <p> DIe <objectName ref="leber">Leber</objectName> wird gleich frisch gehackt <lb/> oder in <objectName ref="butter">Butter</objectName> geröst <lb/> und mit wenig geweichter Semmel klein gestossen; mische darzu ein wenig <objectName ref="zucker">Zucker</objectName> <lb/> und klein= gestossene <objectName ref="mandeln">Mandeln</objectName> <lb/> und wenig Saltz <lb/> rührs mit Ram und guten Eyern ab <lb/> treibs durch ein Haar= Sieblein <lb/> und mach ein Schüssel= Mus daraus <lb/> mit oben und unten <objectName ref="glut">Glut</objectName>. </p>
             </div>
         </body>
     </text>

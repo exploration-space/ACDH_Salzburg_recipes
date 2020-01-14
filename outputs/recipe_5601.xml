@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn man ein Fleisch in Peterlein oder Petersilien kochen will <lb/> wird dasselbe auf gemeine Art im Wasser abgesotten ; alsdann das petersilien = Kraut <lb/> so wol als die Wurtzeln <lb/> reinlich geaschen <lb/> diese letzere aber abgeschabet <lb/> und so dann zu dem Fleisch in die Brüh gethan <lb/> ferner eine gute Stund damit gesotten <lb/> hernach angerichtet und aufgetragen.</p>
+        <p> WAnn man ein <objectName ref="fleisch">Fleisch</objectName> in Peterlein oder <objectName ref="petersilie">Petersilien</objectName> kochen will <lb/> wird dasselbe auf gemeine Art im <objectName ref="wasser">Wasser</objectName> abgesotten; alsdann das <objectName ref="petersilie">petersilien</objectName> = <objectName ref="kraut">Kraut</objectName> <lb/> so wol als die Wurtzeln <lb/> reinlich geaschen <lb/> diese letzere aber abgeschabet <lb/> und so dann zu dem <objectName ref="fleisch">Fleisch</objectName> in die Brüh gethan <lb/> ferner eine gute Stund damit gesotten <lb/> hernach angerichtet und aufgetragen. </p>
             </div>
         </body>
     </text>

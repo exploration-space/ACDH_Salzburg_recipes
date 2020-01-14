@@ -171,17 +171,7 @@ Willst du ein gutes Mus aus Weichseln machen, dann gib sie in einen Topf und ste
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WIldu machn̄ ein gut gemus von weich=
-seln̄ So tu si in ein hafen vnd secz auf ein glut
-wenn si nu siedn̄ wirt, So laz kalt wͬden
-vnd nichtz nitht (!) dar an vnd streich durch
-ein tuch vnd tuͤs wider in den hafen vnd
-laz siedn̄ vnd geus ein hon̄ig dar an vnd geuͤs
-ez dan in ein vaͤssel vnd da weil es seudet
-so ruͤr ez pis es dick wirt Aus dem vasselein
-magstu es dan gebn̄ warmes odʾ kaltes
-wie du wild vnd wē du es aufrichtest
-ynngwer dar auf vnd vʾsalcz sein nicht</p>
+        <p> WIldu machn̄ ein gut gemus von weichseln̄ So tu si in ein <objectName ref="hafen">hafen</objectName> vnd secz auf ein <objectName ref="glut">glut</objectName> wenn si nu siedn̄ wirt, So laz kalt wͬden vnd nichtz nitht ( ! ) dar an vnd streich durch ein <objectName ref="tuch">tuch</objectName> vnd tuͤs wider in den <objectName ref="hafen">hafen</objectName> vnd laz siedn̄ vnd geus ein hon̄ig dar an vnd geuͤs ez dan in ein vaͤssel vnd da weil es seudet so ruͤr ez pis es dick wirt Aus dem vasselein magstu es dan gebn̄ warmes odʾ kaltes wie du <objectName ref="wild">wild</objectName> vnd wē du es aufrichtest ynngwer dar auf vnd vʾsalcz sein nicht </p>
             </div>
         </body>
     </text>

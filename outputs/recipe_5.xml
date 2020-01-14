@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Karwenada vom Stör mit sauren Limonien auffgeschnitten <lb/> vnnd den Safft darauff gedruckt.</p>
+        <p> Karwenada vom <objectName ref="stoer">Stör</objectName> mit sauren Limonien auffgeschnitten <lb/> vnnd den Safft darauff gedruckt. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Oder nimm ein Rettich <lb/> schneidt in klein und dünn <lb/> oder fein Wirfflicht <lb/> mach jn mit Essig <lb/> Oel vnd Saltz ab <lb/> so ist es auch gut.</p>
+        <p> Oder nimm ein <objectName ref="rettich">Rettich</objectName> <lb/> schneidt in klein und dünn <lb/> oder fein Wirfflicht <lb/> mach jn mit <objectName ref="essig">Essig</objectName> <lb/> Oel vnd Saltz ab <lb/> so ist es auch gut. </p>
             </div>
         </body>
     </text>

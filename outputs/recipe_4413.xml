@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nehmet eine Kalbs = Lunge <lb/> siedet und hacket sie klein <lb/> schüttets in eine Schüssel <lb/> mischt eine Hand voll Weinbeer <lb/> und länglicht = geschnittene Mandeln <lb/> und so viel geriebenes Brod <lb/> darunter <lb/> schlaget fünff Eyer daran <lb/> würtzet es mit allerhand guter Gewürtz <lb/> zuckerts ; schlaget die Lunge in ein Netz <lb/> macht ein Schmaltz in einer Bratpfannen heiß <lb/> thut die Lung darein <lb/> und setzets über ein Kohlfeuer <lb/> lasts langsam braten <lb/> damit es nicht anbrenne : Wann sie nun rösch ist <lb/> richtets an <lb/> und tragt sie entweder also <lb/> oder in einer Brüh zu Tisch .</p>
+        <p> Nehmet eine Kalbs = <objectName ref="lunge">Lunge</objectName> <lb/> siedet und hacket sie klein <lb/> schüttets in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> mischt eine Hand voll Weinbeer <lb/> und länglicht = geschnittene <objectName ref="mandeln">Mandeln</objectName> <lb/> und so viel geriebenes Brod <lb/> darunter <lb/> schlaget fünff Eyer daran <lb/> würtzet es mit allerhand guter Gewürtz <lb/> zuckerts; schlaget die <objectName ref="lunge">Lunge</objectName> in ein <objectName ref="netz">Netz</objectName> <lb/> macht ein Schmaltz in einer Bratpfannen heiß <lb/> thut die Lung darein <lb/> und setzets über ein Kohlfeuer <lb/> lasts langsam braten <lb/> damit es nicht anbrenne : Wann sie nun rösch ist <lb/> richtets an <lb/> und tragt sie entweder also <lb/> oder in einer Brüh zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

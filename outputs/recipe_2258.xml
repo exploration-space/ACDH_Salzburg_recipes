@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schlag Aÿr auf, Spridls ab, hiz ein schmalz in einer weiten Pfan, thue <lb/> es Wider herauß, schit das khlopffte aÿr drein, laß ÿberlauffen, thues <lb/> herauß, Wikhl es ÿbereinander, mach ein khnöpffl drauß, vnd also <lb/> fort bist genug hast, gibs trukhen, oder ein Prüelein drüber. <lb/></p>
+        <p> Schlag Aÿr auf, Spridls ab, hiz ein <objectName ref="schmalz">schmalz</objectName> in einer weiten Pfan, thue <lb/> es Wider herauß, schit das khlopffte aÿr drein, laß ÿberlauffen, thues <lb/> herauß, Wikhl es ÿbereinander, mach ein khnöpffl drauß, vnd also <lb/> fort bist genug hast, gibs trukhen, oder ein Prüelein drüber. <lb/> </p>
             </div>
         </body>
     </text>

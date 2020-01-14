@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet schönen Canarien= Zucker <lb/> so viel beliebt <lb/> drucket auf einem erdenen Dellerlein Citronen daran <lb/> doch daß der Zucker wohl dick bleibe; schneidet ein wenig von Citronen= Schelffen und Pistacien= Nüßlein würfflicht <lb/> und rühret sie darunter; lassets stehen <lb/> biß es ein wenig dick wird <lb/> und schneidet oder formet dann Stritzelein <lb/> Grieben oder Morselln daraus.</p>
+        <p> NEhmet schönen Canarien= <objectName ref="zucker">Zucker</objectName> <lb/> so viel beliebt <lb/> drucket auf einem erdenen Dellerlein Citronen daran <lb/> doch daß der <objectName ref="zucker">Zucker</objectName> wohl dick bleibe; schneidet ein wenig von Citronen= Schelffen und Pistacien= Nüßlein würfflicht <lb/> und rühret sie darunter; lassets stehen <lb/> biß es ein wenig dick wird <lb/> und schneidet oder formet dann Stritzelein <lb/> <objectName ref="grieben">Grieben</objectName> oder Morselln daraus. </p>
             </div>
         </body>
     </text>

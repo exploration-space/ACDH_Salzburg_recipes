@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChähle und schneide die Aepffel zu Plätzlein <lb/> stich die Butzen und Kern= Häuslein heraus : Mach einen Teig von Mehl <lb/> und einem guten Löffel voll Milchram <lb/> zwiere selbigen mit Wein <lb/> doch nicht zu dinn <lb/> an <lb/> tuncke die Aepffel darein <lb/> bache schön heiß aus dem Schmaltz <lb/> und streue alsdann Zucker darauf.</p>
+        <p> SChähle und schneide die Aepffel zu Plätzlein <lb/> stich die Butzen und Kern= Häuslein heraus : Mach einen <objectName ref="teig">Teig</objectName> von <objectName ref="mehl">Mehl</objectName> <lb/> und einem guten <objectName ref="loeffel">Löffel</objectName> voll Milchram <lb/> zwiere selbigen mit <objectName ref="wein">Wein</objectName> <lb/> doch nicht zu dinn <lb/> an <lb/> tuncke die Aepffel darein <lb/> bache schön heiß aus dem Schmaltz <lb/> und streue alsdann <objectName ref="zucker">Zucker</objectName> darauf. </p>
             </div>
         </body>
     </text>

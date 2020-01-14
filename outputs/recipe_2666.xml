@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZErklopffe zwey Eyerdottern <lb/> thue wol Zucker dazu <lb/> gieß halb Reinfal und halb Mandel= Milch daran ; lasse es sieden <lb/> und rühre immerfort <lb/> damit die Eyer nicht zusammen lauffen ; richte sie hernach über weisses würfftlicht= geschnittenes Brod an. Die Mandel= Milch aber kan man folgender Gestalt dazu machen : weichet die Mandeln in frisches oder laulichts Wasser <lb/> biß sich die Schelfen herunter ziehen lassen ; darnach stosset dieselbe in einem Mörsel oder Reib= Scherben <lb/> mit frischem Wasser <lb/> wohl klein ab <lb/> daß sie Milch geben <lb/> und zwingts hernach durch <lb/> so ist sie bereitet.</p>
+        <p> ZErklopffe zwey Eyerdottern <lb/> thue wol <objectName ref="zucker">Zucker</objectName> dazu <lb/> gieß halb <objectName ref="reinfal-suesswein">Reinfal</objectName> und halb Mandel= <objectName ref="milch">Milch</objectName> daran; lasse es sieden <lb/> und rühre immerfort <lb/> damit die Eyer nicht zusammen lauffen; richte sie hernach über weisses würfftlicht= geschnittenes Brod an. Die Mandel= <objectName ref="milch">Milch</objectName> aber kan man folgender Gestalt dazu machen : weichet die <objectName ref="mandeln">Mandeln</objectName> in frisches oder laulichts <objectName ref="wasser">Wasser</objectName> <lb/> biß sich die Schelfen herunter ziehen lassen; darnach stosset dieselbe in einem Mörsel oder Reib= Scherben <lb/> mit frischem <objectName ref="wasser">Wasser</objectName> <lb/> wohl klein ab <lb/> daß sie <objectName ref="milch">Milch</objectName> geben <lb/> und zwingts hernach durch <lb/> so ist sie bereitet. </p>
             </div>
         </body>
     </text>

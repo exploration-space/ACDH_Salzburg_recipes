@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet Malvasier <lb/> klein= geschnittene Mandeln und Citronat <lb/> wie auch eingemachte Citronen= und Pomerantzen= Schelffen <lb/> alles <lb/> wie gedacht <lb/> klein zerschnitten; thut viel von gestossener Zimmet und Trisanet darein <lb/> lassets also aufsieden <lb/> und werfft zu letzt noch ein wenig klein= geschnittene Citronen= Schelffen dazu: richtet alsdann diese Brüh in eine Schüssel über das Gebratene <lb/> und bezieret es mit einigen zuvor über Nacht in Zucker gelegenen <lb/> oder aber in Trisanet eingeweichten Citronen= Plätzen.</p>
+        <p> NEhmet Malvasier <lb/> klein= geschnittene <objectName ref="mandeln">Mandeln</objectName> und Citronat <lb/> wie auch eingemachte Citronen= und Pomerantzen= Schelffen <lb/> alles <lb/> wie gedacht <lb/> klein zerschnitten; thut viel von gestossener Zimmet und Trisanet darein <lb/> lassets also aufsieden <lb/> und werfft zu letzt noch ein wenig klein= geschnittene Citronen= Schelffen dazu : richtet alsdann diese Brüh in eine <objectName ref="schuessel">Schüssel</objectName> über das Gebratene <lb/> und bezieret es mit einigen zuvor über Nacht in <objectName ref="zucker">Zucker</objectName> gelegenen <lb/> oder aber in Trisanet eingeweichten Citronen= Plätzen. </p>
             </div>
         </body>
     </text>

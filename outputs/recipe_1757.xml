@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Hackh spöckh klain, nimb guete Khreiter, <lb/> Imber, Pfeffer, Maran. <lb/></p>
+        <p> Hackh spöckh klain, nimb guete Khreiter, <lb/> Imber, <objectName ref="pfeffer">Pfeffer</objectName>, Maran. <lb/> </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) grüne Erbeß <lb/> die außgehülst seyn <lb/> seudt sie mit Maluasier <lb/> nim(m) ein wenig Butter darzu <lb/> so ist es auch gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) grüne Erbeß <lb/> die außgehülst seyn <lb/> seudt sie mit Maluasier <lb/> nim ( m ) ein wenig <objectName ref="butter">Butter</objectName> darzu <lb/> so ist es auch gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

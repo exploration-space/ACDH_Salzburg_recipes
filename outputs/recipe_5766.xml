@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Spick jhn nicht <lb/> vnd wenn er gebraten ist <lb/> so laß jn kalt werden <lb/> vnd wenn er kalt wirdt <lb/> so spick jn mit einer Pomerantzen <lb/> vnd schneidt die Pomerantzen breit <lb/> vnd fein dünn <lb/> vnnd spick es darmit <lb/> vnd wenn es schier zeit ist anzurichten <lb/> sorichts fein trucken an <lb/> hastu aber saure Limonien <lb/> die frisch seyn <lb/> so walger es auff einem saubern Tisch <lb/> biß daß es lindt vnd weich wirdt <lb/> schneidt die Limonien voneinander <lb/> vnd druck es vber den Kälbern Schlegel <lb/> der mit dem Pomerantzen gespickt ist <lb/> so wirt es wolgeschmack vnd gut.</p>
+        <p> Spick jhn nicht <lb/> vnd wenn er gebraten ist <lb/> so laß jn kalt werden <lb/> vnd wenn er kalt wirdt <lb/> so spick jn mit einer Pomerantzen <lb/> vnd schneidt die Pomerantzen breit <lb/> vnd fein dünn <lb/> vnnd spick es darmit <lb/> vnd wenn es schier zeit ist anzurichten <lb/> sorichts fein trucken an <lb/> hastu aber saure Limonien <lb/> die frisch seyn <lb/> so walger es auff einem saubern <objectName ref="tisch">Tisch</objectName> <lb/> biß daß es lindt vnd weich wirdt <lb/> schneidt die Limonien voneinander <lb/> vnd druck es vber den Kälbern <objectName ref="schlegel">Schlegel</objectName> <lb/> der mit dem Pomerantzen gespickt ist <lb/> so wirt es wolgeschmack vnd gut. </p>
             </div>
         </body>
     </text>

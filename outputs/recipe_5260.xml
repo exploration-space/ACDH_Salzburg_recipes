@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Epffel <lb/> vnd höl sie auß <lb/> oder druck den butzen auß mit einem holen Eysen <lb/> mach mit Wein ein Teig ab <lb/> vnnd walg die Epffel darinnen <lb/> wirff sie in heisse Butter <lb/> vnd backs auß <lb/> so wirdt der Teig resch <lb/> gibs warm auff ein Tisch <lb/> vnd besträw es mit Zucker <lb/> so ist es gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) Epffel <lb/> vnd höl sie auß <lb/> oder druck den butzen auß mit einem holen Eysen <lb/> mach mit <objectName ref="wein">Wein</objectName> ein <objectName ref="teig">Teig</objectName> ab <lb/> vnnd walg die Epffel darinnen <lb/> wirff sie in heisse <objectName ref="butter">Butter</objectName> <lb/> vnd backs auß <lb/> so wirdt der <objectName ref="teig">Teig</objectName> resch <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> vnd besträw es mit <objectName ref="zucker">Zucker</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

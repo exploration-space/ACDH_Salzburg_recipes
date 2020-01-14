@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Wasser vnnd eingeleiterte<gap/> <lb/> hausen Pladtern<gap/> vnd Zuckher Auch <lb/> thurnosoll<gap/> Flöckhl<gap/> Darein, <lb/> lass sieten<gap/>, lass es bestehen<gap/>, ist <lb/> Recht vnnd Guett. <lb/></p>
+        <p> Nimb <objectName ref="wasser">Wasser</objectName> vnnd eingeleiterte<gap/> <lb/> hausen Pladtern<gap/> vnd Zuckher Auch <lb/> thurnosoll<gap/> Flöckhl<gap/> Darein, <lb/> lass sieten<gap/>, lass es bestehen<gap/>, ist <lb/> Recht vnnd Guett. <lb/> </p>
             </div>
         </body>
     </text>

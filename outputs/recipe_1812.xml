@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Seuts in wein, treibs durch ain tuech, nimb <lb/> zugger, Näglstup, lints gewürz, stosß Con= <lb/> =fect darunter, nimb Roßenwasser, treibs <lb/> darin ab, thues in ain taig, laß ¼. stundt bachen, Salz nit. <lb/><lb/> (78v)</p>
+        <p> Seuts in <objectName ref="wein">wein</objectName>, treibs durch ain tuech, nimb <lb/> zugger, Näglstup, lints gewürz, stosß Con= <lb/> =fect darunter, nimb Roßenwasser, treibs <lb/> darin ab, thues in ain taig, laß ¼. stundt bachen, <objectName ref="salz">Salz</objectName> nit. <lb/><lb/> ( 78v ) </p>
             </div>
         </body>
     </text>

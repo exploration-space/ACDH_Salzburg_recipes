@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Weichselsalsen <lb/> vnnd streichs auff ein Oblat <lb/> leg ein ander Oblat darüber <lb/> vnd schneidts klein oder groß. Mach ein Teig an mit Wein vn(d) Mehl <lb/> gelb jn ein wenig <lb/> vnnd stoß die örter in den Teig <lb/> daß die Oblat beyeinander bleiben <lb/> wirffs in heisse Butter <lb/> vnd verbrenn es nicht <lb/> gibs warm auff ein Tisch <lb/> vnd besträw es mit weissem Zucker.</p>
+        <p> Nim ( m ) Weichselsalsen <lb/> vnnd streichs auff ein Oblat <lb/> leg ein ander Oblat darüber <lb/> vnd schneidts klein oder groß. Mach ein <objectName ref="teig">Teig</objectName> an mit <objectName ref="wein">Wein</objectName> vn ( d ) <objectName ref="mehl">Mehl</objectName> <lb/> gelb jn ein wenig <lb/> vnnd stoß die örter in den <objectName ref="teig">Teig</objectName> <lb/> daß die Oblat beyeinander bleiben <lb/> wirffs in heisse <objectName ref="butter">Butter</objectName> <lb/> vnd verbrenn es nicht <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> vnd besträw es mit weissem <objectName ref="zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

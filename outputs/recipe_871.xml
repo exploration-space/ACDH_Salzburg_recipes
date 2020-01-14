@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Von Citroni und Pomerantzen werden eben dergleichen Wasser gemacht <lb/> dann mit Zucker und Lemoni=Safft abgegossen.</p>
+        <p> Von Citroni und Pomerantzen werden eben dergleichen <objectName ref="wasser">Wasser</objectName> gemacht <lb/> dann mit <objectName ref="zucker">Zucker</objectName> und Lemoni=Safft abgegossen. </p>
             </div>
         </body>
     </text>

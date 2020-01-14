@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Erstlich nimb ein höchten<gap/> sied<gap/> den höchten <lb/> in salz wasser, wan er Gesodten<gap/> <lb/> ist thue die haut<gap/> daruon, vnd die <lb/> Gräten<gap/>, hackh das bradt<gap/>, nimb <lb/> Rosenmarin darunder, was Klein Ge= <lb/> nueg gehagt seye Gies<gap/> Milch Rämb<gap/> <lb/> daran vnd Semel breßl<gap/> thue pfeffer <lb/> Imber<gap/>, vnnd Musgatblie<gap/> darzue, <lb/> Ayr<gap/> missen Auch darein Geschlagen <lb/> werden riehr<gap/> es vmb vnnd lass ein <lb/> schmalz<gap/> hais werden Gies es also <lb/> darein sez auf ein Gluet<gap/>, vnd oben<gap/> <lb/> auch ein Gluet, Darauf lass breglen<gap/> <lb/> bis braun wirdt, lers hernach <lb/> vmb so ist es recht. <lb/></p>
+        <p> Erstlich nimb ein höchten<gap/> sied<gap/> den höchten <lb/> in <objectName ref="salz">salz</objectName> <objectName ref="wasser">wasser</objectName>, wan er Gesodten<gap/> <lb/> ist thue die haut<gap/> daruon, vnd die <lb/> Gräten<gap/>, hackh das bradt<gap/>, nimb <lb/> Rosenmarin darunder, was Klein Ge= <lb/> nueg gehagt seye Gies<gap/> <objectName ref="milch">Milch</objectName> Rämb<gap/> <lb/> daran vnd Semel breßl<gap/> thue <objectName ref="pfeffer">pfeffer</objectName> <lb/> Imber<gap/>, vnnd Musgatblie<gap/> darzue, <lb/> Ayr<gap/> missen Auch darein Geschlagen <lb/> werden riehr<gap/> es vmb vnnd lass ein <lb/> schmalz<gap/> hais werden Gies es also <lb/> darein sez auf ein Gluet<gap/>, vnd oben<gap/> <lb/> auch ein Gluet, Darauf lass breglen<gap/> <lb/> bis braun wirdt, lers hernach <lb/> vmb so ist es recht. <lb/> </p>
             </div>
         </body>
     </text>

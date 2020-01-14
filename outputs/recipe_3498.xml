@@ -181,9 +181,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAsche und klaube die zerbrochene Müschelen <lb/> sammt dem Mieß <lb/> und andern unsauber daran hangenden Sachen <lb/> sauber aus frischem Wasser <lb/> damit sie nicht sandig seyn <lb/> nimm ein zimliches Stück Butter in das Casserol <lb/> oder Rein <lb/> röste klein= gehacken Zwibel <lb/> Knoblauch <lb/> und wenig Meel <lb/> Liecht= gelb <lb/> gieß klare Erbesbrühe <lb/> mit wenig Wein daran <lb/> gib wenig Pfeffer <lb/> Imber <lb/> mehrer Muscatblühe oder Nuß <lb/> mische die Mischelen darein <lb/> mit klein= gehacktem Petersil <lb/> Lemoni <lb/> und wenig Oel <lb/> oder laßt das Oel aus <lb/> und laß ein kurtzen Sud thun <lb/> mit mehr Butter; kosts in Geschmack und Saltz <lb/> gilbs ein wenig <lb/> und gibs mit sammt den Müschelen.
-
-NB. Man kans auch ausgelößter geben.</p>
+        <p> WAsche und klaube die zerbrochene Müschelen <lb/> sammt dem Mieß <lb/> und andern unsauber daran hangenden Sachen <lb/> sauber aus frischem <objectName ref="wasser">Wasser</objectName> <lb/> damit sie nicht sandig seyn <lb/> nimm ein zimliches Stück <objectName ref="butter">Butter</objectName> in das Casserol <lb/> oder <objectName ref="rein">Rein</objectName> <lb/> röste klein= gehacken Zwibel <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> und wenig Meel <lb/> Liecht= gelb <lb/> gieß klare Erbesbrühe <lb/> mit wenig <objectName ref="wein">Wein</objectName> daran <lb/> gib wenig <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> mehrer Muscatblühe oder Nuß <lb/> mische die Mischelen darein <lb/> mit klein= gehacktem Petersil <lb/> Lemoni <lb/> und wenig Oel <lb/> oder laßt das Oel aus <lb/> und laß ein kurtzen Sud thun <lb/> mit mehr <objectName ref="butter">Butter</objectName>; kosts in Geschmack und Saltz <lb/> gilbs ein wenig <lb/> und gibs mit sammt den Müschelen. NB. Man kans auch ausgelößter geben. </p>
             </div>
         </body>
     </text>

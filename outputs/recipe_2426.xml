@@ -167,9 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneidet von einem Pfund schöner frischer zeitiger aber doch nicht überzeitiger Weixeln die Stiele nur halb ab <lb/> nehmet dann einen Vierding oder Viertel= Pfund Zucker <lb/> läutert solchen <lb/> lasset ihn zimlich dick sieden <lb/> und so dann ein wenig abkuhlen; leget dann die Weixeln darein <lb/> und siedets gemach ab <lb/> biß sie bestehen <lb/> oder runtzlicht zu werden anfangen wollen; faumet dann die Weixeln heraus <lb/> stellet sie fein ordentlich in ein Gläslein oder Schachtel <lb/> und giesset den Safft langsam darüber <lb/> daß sie nicht umfallen. <gap/>
-
-<gap/> Auf diese Weise kann man auch die Kirschen und Amarelln einmachen. Man kann auch ein halb Pfund Zucker zu einem Pfund Weixeln nehmen.</p>
+        <p> SChneidet von einem <objectName ref="pfund">Pfund</objectName> schöner frischer zeitiger aber doch nicht überzeitiger Weixeln die Stiele nur halb ab <lb/> nehmet dann einen <objectName ref="vierding">Vierding</objectName> oder Viertel= <objectName ref="pfund">Pfund</objectName> <objectName ref="zucker">Zucker</objectName> <lb/> läutert solchen <lb/> lasset ihn zimlich dick sieden <lb/> und so dann ein wenig abkuhlen; leget dann die Weixeln darein <lb/> und siedets gemach ab <lb/> biß sie bestehen <lb/> oder runtzlicht zu werden anfangen wollen; faumet dann die Weixeln heraus <lb/> stellet sie fein ordentlich in ein Gläslein oder <objectName ref="schachtel">Schachtel</objectName> <lb/> und giesset den Safft langsam darüber <lb/> daß sie nicht umfallen. <gap/> <gap/> Auf diese Weise kann man auch die <objectName ref="kirschen">Kirschen</objectName> und Amarelln einmachen. Man kann auch ein halb <objectName ref="pfund">Pfund</objectName> <objectName ref="zucker">Zucker</objectName> zu einem <objectName ref="pfund">Pfund</objectName> Weixeln nehmen. </p>
             </div>
         </body>
     </text>

@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr außgelößte Ruck= Braten wird überzwerch geschnitten <lb/> gewürtzt <lb/> geklopfft <lb/> gespickt <lb/> offner gebräunt <lb/> oder zugedeckter gedämpfft <lb/> und mit wenig Meel eingebrennt <lb/> und muß mans mit Wein= Eßig <lb/> und Fleischbrühe <lb/> kurtz einsieden lassen <lb/> leg Capry <lb/> Lemoni <lb/> Zwibel <lb/> oder Sardellen darzu ; versaltz es aber nicht <lb/> und gib acht <lb/> daß dir nicht zu spehr wird.</p>
+        <p> DEr außgelößte Ruck= Braten wird überzwerch geschnitten <lb/> gewürtzt <lb/> geklopfft <lb/> gespickt <lb/> offner gebräunt <lb/> oder zugedeckter gedämpfft <lb/> und mit wenig Meel eingebrennt <lb/> und muß mans mit Wein= Eßig <lb/> und <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> kurtz einsieden lassen <lb/> leg Capry <lb/> Lemoni <lb/> Zwibel <lb/> oder <objectName ref="sardellen">Sardellen</objectName> darzu; versaltz es aber nicht <lb/> und gib acht <lb/> daß dir nicht zu spehr wird. </p>
             </div>
         </body>
     </text>

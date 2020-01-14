@@ -170,15 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm grünes Peterlein= oder Petersilien= Kraut <lb/> stoß es in einem Mörsel <lb/> und druck den Safft davon; lege darnach eine Semmel= Brosam in Essig <lb/> biß sie weich wird <lb/> laß ein Stuck Zucker darinn zergehen <lb/> gieß den grünen Safft von Petersilien daran <lb/> laß alles eine viertel Stund sieden <lb/> treib es dann durch ein Sieb <lb/> gieß es in eine Schüssel und laß kalt werden.
-
-Oder:
-
-MAn kan auch Semmel= Brosamen in Wein und etwas Essig weichen <lb/> alsdann das Petersilien= Kraut auf das kleineste hacken <lb/> und zusamt der eingeweichten Semmel durchzwingen <lb/> mit Zucker vermischen <lb/> auch harte Eyer klein hacken <lb/> und darunter rühren. <gap/>
-
-<gap/> Auf diese Art kan man von Brunnkreß <lb/> Salbey <lb/> Melissen <lb/> und allerley grünen Kräutern <lb/> eine annemliche Salsen machen.
-
- </p>
+        <p> NImm grünes Peterlein= oder Petersilien= <objectName ref="kraut">Kraut</objectName> <lb/> stoß es in einem Mörsel <lb/> und druck den Safft davon; lege darnach eine Semmel= Brosam in <objectName ref="essig">Essig</objectName> <lb/> biß sie weich wird <lb/> laß ein Stuck <objectName ref="zucker">Zucker</objectName> darinn zergehen <lb/> gieß den grünen Safft von <objectName ref="petersilie">Petersilien</objectName> daran <lb/> laß alles eine viertel Stund sieden <lb/> treib es dann durch ein <objectName ref="sieb">Sieb</objectName> <lb/> gieß es in eine <objectName ref="schuessel">Schüssel</objectName> und laß kalt werden. Oder : MAn kan auch Semmel= Brosamen in <objectName ref="wein">Wein</objectName> und etwas <objectName ref="essig">Essig</objectName> weichen <lb/> alsdann das Petersilien= <objectName ref="kraut">Kraut</objectName> auf das kleineste hacken <lb/> und zusamt der eingeweichten Semmel durchzwingen <lb/> mit <objectName ref="zucker">Zucker</objectName> vermischen <lb/> auch harte Eyer klein hacken <lb/> und darunter rühren. <gap/> <gap/> Auf diese Art kan man von Brunnkreß <lb/> Salbey <lb/> Melissen <lb/> und allerley grünen <objectName ref="kraeuter">Kräutern</objectName> <lb/> eine annemliche Salsen machen. </p>
             </div>
         </body>
     </text>

@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIese können auch zur Kräuter= Suppen <lb/> und zu dem Salat gebraucht werden.</p>
+        <p> DIese können auch zur Kräuter= <objectName ref="suppe">Suppen</objectName> <lb/> und zu dem <objectName ref="salat">Salat</objectName> gebraucht werden. </p>
             </div>
         </body>
     </text>

@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Tauben werden in einer gelben Zwibel = Brühe <lb/> mit Fleischbrühe <lb/> oder Ram eingemacht <lb/> ein Bröckel Speck mit ganzen Nägelein <lb/> und ein Büschlein zusammen gebundenen Petersil <lb/> und andern wohlriechenden Kräutlein darzu gelegt <lb/> mit wenig weiß Meel liecht eingebrennt <lb/> oder uneingebrennt <lb/> zuletzt sammt dem Selleri mit Butter und Eyerdotter verfertigt <lb/> die Selleri werden gebutzt <lb/> gescheelt <lb/> zu Blättlein geschniten <lb/> in gesaltznen Wasser überbrühet <lb/> und mit den Tauben gar gesotten und angericht.</p>
+        <p> DIe <objectName ref="taube">Tauben</objectName> werden in einer gelben Zwibel = <objectName ref="bruehe">Brühe</objectName> <lb/> mit <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> oder Ram eingemacht <lb/> ein Bröckel <objectName ref="speck">Speck</objectName> mit ganzen Nägelein <lb/> und ein Büschlein zusammen gebundenen Petersil <lb/> und andern wohlriechenden Kräutlein darzu gelegt <lb/> mit wenig weiß Meel liecht eingebrennt <lb/> oder uneingebrennt <lb/> zuletzt sammt dem Selleri mit <objectName ref="butter">Butter</objectName> und Eyerdotter verfertigt <lb/> die Selleri werden gebutzt <lb/> gescheelt <lb/> zu Blättlein geschniten <lb/> in gesaltznen <objectName ref="wasser">Wasser</objectName> überbrühet <lb/> und mit den <objectName ref="taube">Tauben</objectName> gar gesotten und angericht. </p>
             </div>
         </body>
     </text>

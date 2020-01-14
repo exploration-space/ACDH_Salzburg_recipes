@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet die Miltzlein und ergreiffet sie; darnach machet folgende Füll zusammen: Hacket Petersilien= Kraut samt kleinen Zwiebeln <lb/> röstets im Schmaltz <lb/> thut Semmel= Mehl <lb/> und das jenige <lb/> was von dem Miltz durch das ergreiffen heraus kommen <lb/> darein <lb/> schlaget Eyer daran; ists zu dick <lb/> so giesset Fleischbrüh daran <lb/> füllets durch ein Trichterlein in das Miltz <lb/> thuts in einen stollichten Hafen <lb/> giesset ein wenig Fleischbrüh und Schmaltz darein <lb/> und lassets auf einer Glut oder Kohlen genugsam braten.</p>
+        <p> NEhmet die Miltzlein und ergreiffet sie; darnach machet folgende Füll zusammen : Hacket Petersilien= <objectName ref="kraut">Kraut</objectName> samt kleinen <objectName ref="zwiebel">Zwiebeln</objectName> <lb/> röstets im Schmaltz <lb/> thut Semmel= <objectName ref="mehl">Mehl</objectName> <lb/> und das jenige <lb/> was von dem Miltz durch das ergreiffen heraus kommen <lb/> darein <lb/> schlaget Eyer daran; ists zu dick <lb/> so giesset Fleischbrüh daran <lb/> füllets durch ein Trichterlein in das Miltz <lb/> thuts in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> giesset ein wenig Fleischbrüh und Schmaltz darein <lb/> und lassets auf einer <objectName ref="glut">Glut</objectName> oder <objectName ref="kohlen">Kohlen</objectName> genugsam braten. </p>
             </div>
         </body>
     </text>

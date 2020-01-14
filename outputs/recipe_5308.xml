@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Eyer <lb/> reib sie mit Saltz <lb/> vnnd thu sie auff. Nim(m) Ingwer vnd Saltz durcheinander <lb/> saltz das Ey <lb/> stürtz in heisse Butter mit der Schalen <lb/> vnd laß backen <lb/> gib sie trucken auff ein Tisch <lb/> vnd besträw sie mit Ingwer <lb/> so ist es gut vnd wolgeschmack. Also nennet man es gestürtzte Eyer.</p>
+        <p> Nim ( m ) Eyer <lb/> reib sie mit Saltz <lb/> vnnd thu sie auff. Nim ( m ) <objectName ref="ingwer">Ingwer</objectName> vnd Saltz durcheinander <lb/> saltz das Ey <lb/> stürtz in heisse <objectName ref="butter">Butter</objectName> mit der Schalen <lb/> vnd laß backen <lb/> gib sie trucken auff ein <objectName ref="tisch">Tisch</objectName> <lb/> vnd besträw sie mit <objectName ref="ingwer">Ingwer</objectName> <lb/> so ist es gut vnd wolgeschmack. Also nennet man es gestürtzte Eyer. </p>
             </div>
         </body>
     </text>

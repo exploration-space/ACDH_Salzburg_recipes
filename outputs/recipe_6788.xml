@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DAß mans brät fein im Safft <lb/> oder daß mans zum eynmachen nimpt <lb/> es sey gelb <lb/> weiß <lb/> schwartz <lb/> oder mit einer Hen(n)enbrüh <lb/> fein lauter mit Pettersilgen Wurtzel <lb/> oder ein Gestossens darauß gemacht <lb/> denn die Lerchen haben ein besondere eygenschafft <lb/> daß sie Krancken nicht schäuwlich seind <lb/> vnnd koch sie wie du wilt <lb/> so ist es ein gesundes Essen.</p>
+        <p> DAß mans brät fein im Safft <lb/> oder daß mans zum eynmachen nimpt <lb/> es sey gelb <lb/> weiß <lb/> schwartz <lb/> oder mit einer Hen ( n ) enbrüh <lb/> fein lauter mit Pettersilgen Wurtzel <lb/> oder ein Gestossens darauß gemacht <lb/> denn die <objectName ref="lerchen">Lerchen</objectName> haben ein besondere eygenschafft <lb/> daß sie Krancken nicht schäuwlich seind <lb/> vnnd koch sie wie du wilt <lb/> so ist es ein gesundes Essen. </p>
             </div>
         </body>
     </text>

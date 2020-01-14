@@ -168,13 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES werden so wol die wild als einheimische Tauben <lb/> wie anders Geflüg zubereitet <lb/> gespickt <lb/> und in Essig <lb/> so lang man selbsten will <lb/> gebeitzet <lb/> zuvor aber ein wenig eingewürtzt <lb/> ehe man sie noch in Essig legt ; und welches wohl zu mercken <lb/> an einen warmen Ort <lb/> um zu ertrocknen <lb/> gelegt : alsdann aber auf die schon bißhero beschriebene Art in einen Pasteten= Teig eingeschlagen.
-
-Man kan auch ein Gehäck darüber machen <lb/> wie über die Hüner <lb/> davon Num. 8 und 9. Bericht ertheilet worden ; nur ist der Unterscheid zu beobachten <lb/> daß man die Tauben gantz lässet <lb/> und nicht zerschneidet <lb/> auch nicht die Beine und Gelencke löset <lb/> wie an denen Hünern. <gap/>
-
-Man kan auch vom Rindfleisch ein Gehäck in diese Pasteten machen ; wie sonst vom Kalbfleisch ist gemeldet worden.
-
- </p>
+        <p> ES werden so wol die <objectName ref="wild">wild</objectName> als einheimische <objectName ref="taube">Tauben</objectName> <lb/> wie anders Geflüg zubereitet <lb/> gespickt <lb/> und in <objectName ref="essig">Essig</objectName> <lb/> so lang man selbsten will <lb/> gebeitzet <lb/> zuvor aber ein wenig eingewürtzt <lb/> ehe man sie noch in <objectName ref="essig">Essig</objectName> legt; und welches wohl zu mercken <lb/> an einen warmen Ort <lb/> um zu ertrocknen <lb/> gelegt : alsdann aber auf die schon bißhero beschriebene Art in einen Pasteten= <objectName ref="teig">Teig</objectName> eingeschlagen. Man kan auch ein <objectName ref="gehaeck">Gehäck</objectName> darüber machen <lb/> wie über die Hüner <lb/> davon Num. 8 und 9. Bericht ertheilet worden; nur ist der Unterscheid zu beobachten <lb/> daß man die <objectName ref="taube">Tauben</objectName> gantz lässet <lb/> und nicht zerschneidet <lb/> auch nicht die Beine und Gelencke löset <lb/> wie an denen Hünern. <gap/> Man kan auch vom <objectName ref="rindfleisch">Rindfleisch</objectName> ein <objectName ref="gehaeck">Gehäck</objectName> in diese <objectName ref="pastete">Pasteten</objectName> machen; wie sonst vom <objectName ref="kalbfleisch">Kalbfleisch</objectName> ist gemeldet worden. </p>
             </div>
         </body>
     </text>

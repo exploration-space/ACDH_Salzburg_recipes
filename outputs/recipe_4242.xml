@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr geräuchert <lb/> oder gesaltzne Lachs <lb/> oder Rhein= Salm <lb/> kan <lb/> ( wann er zu viel gesaltzen <lb/> ) gewässert <lb/> nach Belieben zu Stücker geschnitten und übersotten werden <lb/> und wann er einen Sud gethan <lb/> wird er mit Gewürtz und gutem Butter <lb/> Erbsen= Brühe <lb/> Petersil= Kräutlein klein= gehackter ; oder auch in weisser Butter= Brühe <lb/> sauren Ram <lb/> oder gelber Zwibel= Brühe <lb/> auch in weisser Capry= Brühe gegeben <lb/> mit <lb/> oder ohne Haut <lb/> nach eines jeden Belieben.</p>
+        <p> DEr geräuchert <lb/> oder gesaltzne <objectName ref="lachs">Lachs</objectName> <lb/> oder Rhein= Salm <lb/> kan <lb/> ( wann er zu viel gesaltzen <lb/> ) gewässert <lb/> nach Belieben zu Stücker geschnitten und übersotten werden <lb/> und wann er einen Sud gethan <lb/> wird er mit Gewürtz und gutem <objectName ref="butter">Butter</objectName> <lb/> Erbsen= <objectName ref="bruehe">Brühe</objectName> <lb/> Petersil= Kräutlein klein= gehackter; oder auch in weisser Butter= <objectName ref="bruehe">Brühe</objectName> <lb/> sauren Ram <lb/> oder gelber Zwibel= <objectName ref="bruehe">Brühe</objectName> <lb/> auch in weisser Capry= <objectName ref="bruehe">Brühe</objectName> gegeben <lb/> mit <lb/> oder ohne Haut <lb/> nach eines jeden Belieben. </p>
             </div>
         </body>
     </text>

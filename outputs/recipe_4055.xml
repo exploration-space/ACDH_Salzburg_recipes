@@ -173,8 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES werden die eingesaltznen Lachs <lb/> oder Rhein= Salm zu beliebigen Stücken geschnitten <lb/> aus etlich Wassern sauber gewaschen <lb/> dann eine Zeit= lang <lb/> und nach Geduncken abgewässert <lb/> und im Wasser <lb/> Zwibeln <lb/> und guten Kräutern kurz abgesotten <lb/> hernach abgesiehen <lb/> dann mit Pfeffer <lb/> Imber und Muscatnuß in weisser Butter= Brühe <lb/> oder Soß gegeben.
-</p>
+        <p> ES werden die eingesaltznen <objectName ref="lachs">Lachs</objectName> <lb/> oder Rhein= Salm zu beliebigen Stücken geschnitten <lb/> aus etlich <objectName ref="wasser">Wassern</objectName> sauber gewaschen <lb/> dann eine Zeit= lang <lb/> und nach Geduncken abgewässert <lb/> und im <objectName ref="wasser">Wasser</objectName> <lb/> Zwibeln <lb/> und guten <objectName ref="kraeuter">Kräutern</objectName> kurz abgesotten <lb/> hernach abgesiehen <lb/> dann mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber und Muscatnuß in weisser Butter= <objectName ref="bruehe">Brühe</objectName> <lb/> oder Soß gegeben. </p>
             </div>
         </body>
     </text>

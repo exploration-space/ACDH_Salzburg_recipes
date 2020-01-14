@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Halß von einem Schaaf wird wohl gewässert <lb/> gewaschen <lb/> zerhackt <lb/> gesotten und verfäumt <lb/> und wieder ausgekühlt <lb/> hernach in ein Rein oder Casserol gericht <lb/> mit wenig Gewürtz <lb/> und gelber Zwibel= Brühe <lb/> oder das Fleisch abgebräunt <lb/> auf den Rost <lb/> mit Lemoni und Capry <lb/> (oder ausgebräunten Ruben <lb/>) oder mit Kohlrabi <lb/> Petersil <lb/> oder Pastinacker= Wurtzeln; dises muß man wohl kurtz und weich einkochen lassen <lb/> mit Speck <lb/> oder Butter: Item mit ausgebachenen Knödlein <lb/> Schwammen <lb/> oder Maurachen zu einem Rago.</p>
+        <p> DEr Halß von einem Schaaf wird wohl gewässert <lb/> gewaschen <lb/> zerhackt <lb/> gesotten und verfäumt <lb/> und wieder ausgekühlt <lb/> hernach in ein <objectName ref="rein">Rein</objectName> oder Casserol gericht <lb/> mit wenig Gewürtz <lb/> und gelber Zwibel= <objectName ref="bruehe">Brühe</objectName> <lb/> oder das <objectName ref="fleisch">Fleisch</objectName> abgebräunt <lb/> auf den <objectName ref="rost">Rost</objectName> <lb/> mit Lemoni und Capry <lb/> ( oder ausgebräunten Ruben <lb/> ) oder mit <objectName ref="kohlrabi">Kohlrabi</objectName> <lb/> Petersil <lb/> oder Pastinacker= Wurtzeln; dises muß man wohl kurtz und weich einkochen lassen <lb/> mit <objectName ref="speck">Speck</objectName> <lb/> oder <objectName ref="butter">Butter</objectName> : Item mit ausgebachenen Knödlein <lb/> Schwammen <lb/> oder Maurachen zu einem Rago. </p>
             </div>
         </body>
     </text>

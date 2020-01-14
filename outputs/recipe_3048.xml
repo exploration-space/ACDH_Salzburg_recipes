@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm 2. grosse Handvoll Mandel <lb/> stoß aufs kleinest <lb/> gieß ein wenig Rosenwasser zu <lb/> weich von einer Semmel die Schmollen in einem süssen Ram <lb/> stoß auch darunter <lb/> schlag 3. oder 4. Eyerdotter darzu <lb/> zuckers <lb/> gieß alsdann in eine Schüssel <lb/> oder ein Reinlein <lb/> thue unten und oben Glut <lb/> streue hernach Zucker darauf.</p>
+        <p> Nimm 2. grosse Handvoll Mandel <lb/> stoß aufs kleinest <lb/> gieß ein wenig <objectName ref="rosenwasser">Rosenwasser</objectName> zu <lb/> weich von einer Semmel die Schmollen in einem süssen Ram <lb/> stoß auch darunter <lb/> schlag 3. oder 4. Eyerdotter darzu <lb/> zuckers <lb/> gieß alsdann in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> oder ein Reinlein <lb/> thue unten und oben <objectName ref="glut">Glut</objectName> <lb/> streue hernach <objectName ref="zucker">Zucker</objectName> darauf. </p>
             </div>
         </body>
     </text>

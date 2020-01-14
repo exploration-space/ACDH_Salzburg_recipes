@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schneid die hener vnd alle Glider ab, vnd salz ein Wenig, Zeuchs in eim Mell <lb/> umb, vnd bachs in eim schmalz braun, thues in ein häferl, gieß ein Wenig <lb/> wein dran, fleischbrüe, Mußcatblüe vnd allerleÿ stup, ein Wenig Zukher, <lb/> laß fein sieden, so wirds ein guets Essen, ist bereith. <lb/><lb/> (60r)</p>
+        <p> Schneid die hener vnd alle Glider ab, vnd <objectName ref="salz">salz</objectName> ein Wenig, Zeuchs in eim Mell <lb/> umb, vnd bachs in eim <objectName ref="schmalz">schmalz</objectName> braun, thues in ein häferl, gieß ein Wenig <lb/> <objectName ref="wein">wein</objectName> dran, fleischbrüe, Mußcatblüe vnd allerleÿ stup, ein Wenig Zukher, <lb/> laß fein sieden, so wirds ein guets Essen, ist bereith. <lb/><lb/> ( 60r ) </p>
             </div>
         </body>
     </text>

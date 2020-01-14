@@ -170,9 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Bähe ein paar Schnitten weisses Brod <lb/> weichs in Reinfal <lb/> und treibs durch einen Seiher oder Durchschlag <lb/> daß es seine rechte Dicke behalte; thue es in ein Häfelein <lb/> zuckers und laß kochen; siede indessen zwey Eyer weich <lb/> und nimm die Dottern heraus; wann du nun das Mus anrichten wilt <lb/> so thue Trisanet darein <lb/> und rühre die Eyerdottern dazu <lb/> laß es aber nicht mehr sieden <lb/> dann es laufft sonst zusammen <lb/> sondern richt es nur gleich an.
-
-</p>
+        <p> Bähe ein paar Schnitten weisses Brod <lb/> weichs in <objectName ref="reinfal-suesswein">Reinfal</objectName> <lb/> und treibs durch einen <objectName ref="seiher">Seiher</objectName> oder <objectName ref="durchschlag">Durchschlag</objectName> <lb/> daß es seine rechte Dicke behalte; thue es in ein <objectName ref="haefelein">Häfelein</objectName> <lb/> zuckers und laß kochen; siede indessen zwey Eyer weich <lb/> und nimm die Dottern heraus; wann du nun das Mus anrichten wilt <lb/> so thue Trisanet darein <lb/> und rühre die Eyerdottern dazu <lb/> laß es aber nicht mehr sieden <lb/> dann es laufft sonst zusammen <lb/> sondern richt es nur gleich an. </p>
             </div>
         </body>
     </text>

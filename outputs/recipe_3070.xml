@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Hierzu nimm Kütten <lb/> höhle sie aus <lb/> legs in ein siedendes Wasser <lb/> laß sieden <lb/> biß daß sie sich greiffen lassen <lb/> hernach scheele das Weiche herab <lb/> nimm so viel gestoßne Mandel als Kütten <lb/> auf ein halb Pfund Kütten nimm ein Zweyer Semmel <lb/> zu klein=geschnittnen Bröcklein <lb/> rösts im Schmaltz <lb/> treibs darunter <lb/> schlag vier gantze Eyer <lb/> und vier Dotter darzu <lb/> und den süssen Milchram <lb/> und ein wenig Zucker <lb/> daß es süß genug wird <lb/> von zwey Lemoni die Schelffen und Safft <lb/> gerührt als wie ein anders Koch <lb/> und langsam bachen lassen <lb/> so ist es recht.</p>
+        <p> Hierzu nimm Kütten <lb/> höhle sie aus <lb/> legs in ein siedendes <objectName ref="wasser">Wasser</objectName> <lb/> laß sieden <lb/> biß daß sie sich greiffen lassen <lb/> hernach scheele das Weiche herab <lb/> nimm so viel gestoßne Mandel als Kütten <lb/> auf ein halb <objectName ref="pfund">Pfund</objectName> Kütten nimm ein Zweyer Semmel <lb/> zu klein=geschnittnen Bröcklein <lb/> rösts im Schmaltz <lb/> treibs darunter <lb/> schlag vier gantze Eyer <lb/> und vier Dotter darzu <lb/> und den süssen Milchram <lb/> und ein wenig <objectName ref="zucker">Zucker</objectName> <lb/> daß es süß genug wird <lb/> von zwey Lemoni die Schelffen und Safft <lb/> gerührt als wie ein anders Koch <lb/> und langsam bachen lassen <lb/> so ist es recht. </p>
             </div>
         </body>
     </text>

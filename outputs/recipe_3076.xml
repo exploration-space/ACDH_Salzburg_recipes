@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DArdoffeln gibt man auch in guter brauner Jus. Dito <lb/> mit Butter und Eyerdotter <lb/> Gewürtz und Lemom= Safft wol fricassirt.</p>
+        <p> DArdoffeln gibt man auch in guter brauner <objectName ref="jus">Jus</objectName>. Dito <lb/> mit <objectName ref="butter">Butter</objectName> und Eyerdotter <lb/> Gewürtz und Lemom= Safft wol fricassirt. </p>
             </div>
         </body>
     </text>

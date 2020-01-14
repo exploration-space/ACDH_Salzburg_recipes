@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm eine gantze oder halbe Maas Fleischbrüh <lb/> nachdem man viel verlangt <lb/> und rühre nicht gar als halb so viel sauren Milchram darein <lb/> laß sieden ; ist aber die Fleischbrüh nicht gar fett <lb/> so gehört noch ein Stuck Butter dazu : wann es dann aufgesotten ist <lb/> kanst du selbige über weiß= oder rocken= aufgeschnittenes Brod anrichten.</p>
+        <p> NImm eine gantze oder halbe <objectName ref="maas">Maas</objectName> Fleischbrüh <lb/> nachdem man viel verlangt <lb/> und rühre nicht gar als halb so viel sauren Milchram darein <lb/> laß sieden; ist aber die Fleischbrüh nicht gar <objectName ref="fett">fett</objectName> <lb/> so gehört noch ein Stuck <objectName ref="butter">Butter</objectName> dazu : wann es dann aufgesotten ist <lb/> kanst du selbige über weiß= oder rocken= aufgeschnittenes Brod anrichten. </p>
             </div>
         </body>
     </text>

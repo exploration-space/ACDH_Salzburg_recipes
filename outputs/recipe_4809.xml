@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZErklopffet vier Eyer <lb/> giesset ein wenig Rosenwasser daran <lb/> rühret drey Vierding Zucker hinein <lb/> ingleichen auch ein halb Pfund Mehl <lb/> und zwar alles bey einer halben Stund lang; lasset hernach den Teig eine gute weil stehn <lb/> streichet selbigen mit einem breiten Messer auf die Oblaten <lb/> und lasset ihn bachen.</p>
+        <p> ZErklopffet vier Eyer <lb/> giesset ein wenig <objectName ref="rosenwasser">Rosenwasser</objectName> daran <lb/> rühret drey <objectName ref="vierding">Vierding</objectName> <objectName ref="zucker">Zucker</objectName> hinein <lb/> ingleichen auch ein halb <objectName ref="pfund">Pfund</objectName> <objectName ref="mehl">Mehl</objectName> <lb/> und zwar alles bey einer halben Stund lang; lasset hernach den <objectName ref="teig">Teig</objectName> eine gute weil stehn <lb/> streichet selbigen mit einem breiten <objectName ref="messer">Messer</objectName> auf die <objectName ref="oblaten">Oblaten</objectName> <lb/> und lasset ihn bachen. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Ochsenzungenwurtz von dem innern Marck gereinigt <lb/> die Hülsen oder Bälg von Senet <lb/> rot Rosen <lb/> Borapoblumen <lb/> Ochsenzungenblumen <lb/> jedes ein Pfundt <lb/> mischs durcheinander <lb/> hencks in eim Sack in ein halb Füderig Faß. Nim darzu frischen Most <lb/> thu das halb theil dar zu <lb/> das ander theil von stundt an gesotten <lb/> vnd verschaumt <lb/> darnach ins vorgenannt Faß gethan <lb/> daß mit solchem Wein gefüllt werde. Vnd so er vergeret <lb/> vnd geläutert <lb/> brachet man jn durch das Jar vber.</p>
+        <p> Ochsenzungenwurtz von dem innern Marck gereinigt <lb/> die Hülsen oder Bälg von Senet <lb/> rot <objectName ref="rosen">Rosen</objectName> <lb/> Borapoblumen <lb/> Ochsenzungenblumen <lb/> jedes ein Pfundt <lb/> mischs durcheinander <lb/> hencks in eim <objectName ref="sack">Sack</objectName> in ein halb Füderig Faß. Nim darzu frischen <objectName ref="most">Most</objectName> <lb/> thu das halb theil dar zu <lb/> das ander theil von stundt an gesotten <lb/> vnd verschaumt <lb/> darnach ins vorgenannt Faß gethan <lb/> daß mit solchem <objectName ref="wein">Wein</objectName> gefüllt werde. Vnd so er vergeret <lb/> vnd geläutert <lb/> brachet man jn durch das Jar vber. </p>
             </div>
         </body>
     </text>

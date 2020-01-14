@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Prandtkhüechl muest ein Wenig diner anmachen, als die sprizstrauben <lb/> so seins beraith, auch soll man das mell Zu disem bachen, nit in die <lb/> ganz Wallet milch rühren, sonder Wan die milch gsoten ab dem feuer <lb/> haben, alßdan erst drein rührn, beÿ der Wermb. <lb/></p>
+        <p> Prandtkhüechl muest ein Wenig diner anmachen, als die sprizstrauben <lb/> so seins beraith, auch soll man das mell Zu disem bachen, nit in die <lb/> ganz Wallet <objectName ref="milch">milch</objectName> rühren, sonder Wan die <objectName ref="milch">milch</objectName> gsoten ab dem <objectName ref="feuer">feuer</objectName> <lb/> haben, alßdan erst drein rührn, beÿ der Wermb. <lb/> </p>
             </div>
         </body>
     </text>

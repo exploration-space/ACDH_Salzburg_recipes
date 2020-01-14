@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn nehme schönes Mehl <lb/> und das Weisse von zweyen Eyern <lb/> und ein wenig klein= gestossene Mandeln <lb/> zwiere es mit Rosenwasser an <lb/> rühre Muscaten= Blüh <lb/> Pfeffer <lb/> Cardamomen und Zucker darunter <lb/> und lasse solches <lb/> besagter massen <lb/> bachen.</p>
+        <p> MAn nehme schönes <objectName ref="mehl">Mehl</objectName> <lb/> und das Weisse von zweyen Eyern <lb/> und ein wenig klein= gestossene <objectName ref="mandeln">Mandeln</objectName> <lb/> zwiere es mit <objectName ref="rosenwasser">Rosenwasser</objectName> an <lb/> rühre Muscaten= Blüh <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Cardamomen und <objectName ref="zucker">Zucker</objectName> darunter <lb/> und lasse solches <lb/> besagter massen <lb/> bachen. </p>
             </div>
         </body>
     </text>

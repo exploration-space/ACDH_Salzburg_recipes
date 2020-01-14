@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) grüne Nüß <lb/> die sauber geschelt seyn <lb/> auch frische geschelte Mandeln <lb/> stoß es miteinander <lb/> Nim(m) darnach ein Weck <lb/> der in einer Kappaunenbrüh <lb/> die nicht feißt ist <lb/> geweicht hat <lb/> wenns zu dick wil werden <lb/> so nim(m) ein wenig kalte Brüh von einem Kappaunen <lb/> mach sie mildt <lb/> thu auch ein wenig Knobloch darvnter <lb/> gibs vnter oder vber ein Kappaunen. Die Speiß nennt man auff Welsch Maniade.</p>
+        <p> Nim ( m ) grüne Nüß <lb/> die sauber geschelt seyn <lb/> auch frische geschelte <objectName ref="mandeln">Mandeln</objectName> <lb/> stoß es miteinander <lb/> Nim ( m ) darnach ein Weck <lb/> der in einer Kappaunenbrüh <lb/> die nicht feißt ist <lb/> geweicht hat <lb/> wenns zu dick wil werden <lb/> so nim ( m ) ein wenig kalte Brüh von einem Kappaunen <lb/> mach sie mildt <lb/> thu auch ein wenig Knobloch darvnter <lb/> gibs vnter oder vber ein Kappaunen. Die Speiß nennt man auff Welsch Maniade. </p>
             </div>
         </body>
     </text>

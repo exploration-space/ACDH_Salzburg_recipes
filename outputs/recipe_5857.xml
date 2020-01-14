@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Wein <lb/> deßgleichen auch ein wenig Essig <lb/> Saffran <lb/> Zimmet vnnd Pomerantzen darein geschnitten <lb/> saure Limonien oder Zitron wol süß gemacht <lb/> vnnd darmit auffsieden lassen <lb/> daß vom Zucker dick wirdt <lb/> so wirdt es gut <lb/> vnnd auch wolgeschmack.</p>
+        <p> Nim ( m ) <objectName ref="wein">Wein</objectName> <lb/> deßgleichen auch ein wenig <objectName ref="essig">Essig</objectName> <lb/> Saffran <lb/> Zimmet vnnd Pomerantzen darein geschnitten <lb/> saure Limonien oder Zitron wol süß gemacht <lb/> vnnd darmit auffsieden lassen <lb/> daß vom <objectName ref="zucker">Zucker</objectName> dick wirdt <lb/> so wirdt es gut <lb/> vnnd auch wolgeschmack. </p>
             </div>
         </body>
     </text>

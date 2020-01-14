@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm ein Rind oder Ochsen= Marck <lb/> und das Sauere von einer Citronen <lb/> rühre es mit dem Marck wohl ab <lb/> daß es wie ein dicker Brey wird <lb/> zuckers <lb/> und saltze es nur ein klein wenig <lb/> würtze es mit Cardamomen und Muscaten= Blüh ; mach einen Teig von einem Eyerdottern <lb/> Butter und Wasser <lb/> wie zu Rafioln an <lb/> schlags in denselben <lb/> und laß geschwind im Schmaltz abbachen.</p>
+        <p> NImm ein Rind oder Ochsen= Marck <lb/> und das Sauere von einer Citronen <lb/> rühre es mit dem Marck wohl ab <lb/> daß es wie ein dicker Brey wird <lb/> zuckers <lb/> und saltze es nur ein klein wenig <lb/> würtze es mit Cardamomen und Muscaten= Blüh; mach einen <objectName ref="teig">Teig</objectName> von einem Eyerdottern <lb/> <objectName ref="butter">Butter</objectName> und <objectName ref="wasser">Wasser</objectName> <lb/> wie zu Rafioln an <lb/> schlags in denselben <lb/> und laß geschwind im Schmaltz abbachen. </p>
             </div>
         </body>
     </text>

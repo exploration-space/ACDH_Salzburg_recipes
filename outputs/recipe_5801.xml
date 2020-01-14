@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) den Schwantz <lb/> vnd quell jn wol in einem Wasser <lb/> vnd wenn er wol gequellt ist <lb/> so seuber jn auß <lb/> vnd thu jhn in einen vberzinten Fischkessel <lb/> nim(m) die Brüh <lb/> darinn du den Schwantz hast gequellt <lb/> vnnd seig die durch ein Härin Tuch <lb/> Nim(m) ein geschelte Zwibel oder zwo <lb/> die nicht rot seind <lb/> schneidt sie klein <lb/> vnd thu sie darein <lb/> vnd laß darmit sieden <lb/> vnd wenn du vermeinest <lb/> daß sie schier gesotten seind <lb/> so mach sie ein wenig seurlich <lb/> laß sie widerumb damit sieden <lb/> vnnd thu ein wenig Jngwer darein <lb/> so wirt es auch gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) den Schwantz <lb/> vnd quell jn wol in einem <objectName ref="wasser">Wasser</objectName> <lb/> vnd wenn er wol gequellt ist <lb/> so seuber jn auß <lb/> vnd thu jhn in einen vberzinten <objectName ref="fischkessel">Fischkessel</objectName> <lb/> nim ( m ) die Brüh <lb/> darinn du den Schwantz hast gequellt <lb/> vnnd seig die durch ein Härin <objectName ref="tuch">Tuch</objectName> <lb/> Nim ( m ) ein geschelte Zwibel oder zwo <lb/> die nicht rot seind <lb/> schneidt sie klein <lb/> vnd thu sie darein <lb/> vnd laß darmit sieden <lb/> vnd wenn du vermeinest <lb/> daß sie schier gesotten seind <lb/> so mach sie ein wenig seurlich <lb/> laß sie widerumb damit sieden <lb/> vnnd thu ein wenig Jngwer darein <lb/> so wirt es auch gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

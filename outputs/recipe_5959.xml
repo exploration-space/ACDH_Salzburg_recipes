@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Würget die Tauben <lb/> und reisset ihnen die Köpff ab <lb/> tröpffet <lb/> brühet  oder rupffet sie <lb/> lassts hernach eine weile im Wasser ligen ; nach diesem saltzet <lb/> würtzet und steckt sie an <lb/> treiffts mit heissem Schmaltz <lb/> und streuet <lb/> wann sie schier gebraten <lb/> und mit zerlaffener Butter noch einmal übertreifft worden <lb/> Semmel= Mehl darauf.</p>
+        <p> Würget die <objectName ref="taube">Tauben</objectName> <lb/> und reisset ihnen die Köpff ab <lb/> tröpffet <lb/> brühet oder rupffet sie <lb/> lassts hernach eine weile im <objectName ref="wasser">Wasser</objectName> ligen; nach diesem saltzet <lb/> würtzet und steckt sie an <lb/> treiffts mit heissem Schmaltz <lb/> und streuet <lb/> wann sie schier gebraten <lb/> und mit zerlaffener <objectName ref="butter">Butter</objectName> noch einmal übertreifft worden <lb/> Semmel= <objectName ref="mehl">Mehl</objectName> darauf. </p>
             </div>
         </body>
     </text>

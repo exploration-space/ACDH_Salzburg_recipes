@@ -177,10 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Röstet ein wenig Mehl und gehackte Cappern im Schmaltz <lb/> giesst Wein <lb/> Fleischbrüh und Essig daran <lb/> streuet Pfeffer <lb/> Cardamomen und Muscatnüsse darein <lb/> last es mit einander aufsieden <lb/> und werfft zu letzt noch ein gut theil Cappern darein; will man es süß haben <lb/> kan mans auch nach belieben zuckern; ein wenig Butter <lb/> und trübes von dem Gebratenen aus der Bratpfannen darein thun: die Prisilln oder den Schlegel <lb/> wann sie safftig abgebraten <lb/> in eine Schüssel legen <lb/> und dann diese Brüh darüber richten. <gap/>
-
-<gap/> Die Cappern= Brüh ist auch auf diese Art über aus gut <lb/> wann man ein gebähtes rocken Brod im Wein und Fleischbrüh siedet <lb/> durchzwinget <lb/> und im übrigen mit Gewürtz und allen verfertiget <lb/> wie bereits gedacht.
-</p>
+        <p> Röstet ein wenig <objectName ref="mehl">Mehl</objectName> und gehackte Cappern im Schmaltz <lb/> giesst <objectName ref="wein">Wein</objectName> <lb/> Fleischbrüh und <objectName ref="essig">Essig</objectName> daran <lb/> streuet <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Cardamomen und Muscatnüsse darein <lb/> last es mit einander aufsieden <lb/> und werfft zu letzt noch ein gut theil Cappern darein; will man es süß haben <lb/> kan mans auch nach belieben <objectName ref="zucker">zuckern</objectName>; ein wenig <objectName ref="butter">Butter</objectName> <lb/> und trübes von dem Gebratenen aus der Bratpfannen darein thun : die Prisilln oder den <objectName ref="schlegel">Schlegel</objectName> <lb/> wann sie safftig abgebraten <lb/> in eine <objectName ref="schuessel">Schüssel</objectName> legen <lb/> und dann diese Brüh darüber richten. <gap/> <gap/> Die Cappern= Brüh ist auch auf diese Art über aus gut <lb/> wann man ein gebähtes rocken Brod im <objectName ref="wein">Wein</objectName> und Fleischbrüh siedet <lb/> durchzwinget <lb/> und im übrigen mit Gewürtz und allen verfertiget <lb/> wie bereits gedacht. </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Röste Semmel=Brosen in Butter Liecht=gelb <lb/> gieß wenig Wein <lb/> Zucker <lb/> Muscatblühe <lb/> Zimmet <lb/> und Erbes= oder Fleisch=Brühe daran <lb/> laß kochen <lb/> mische auch gantz klein=gestoßne Mandel <lb/> mit wenig Lemoni=Schelffen darzu <lb/> beym Anrichten aber bestreus mit Zucker.</p>
+        <p> Röste Semmel=Brosen in <objectName ref="butter">Butter</objectName> Liecht=gelb <lb/> gieß wenig <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> Muscatblühe <lb/> Zimmet <lb/> und Erbes= oder Fleisch=Brühe daran <lb/> laß kochen <lb/> mische auch gantz klein=gestoßne Mandel <lb/> mit wenig Lemoni=Schelffen darzu <lb/> beym Anrichten aber bestreus mit <objectName ref="zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

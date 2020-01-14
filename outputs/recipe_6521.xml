@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DAs Fleisch wird von denen Schlegelein abgelößt <lb/> mit Gewürtz und Speck <lb/> Semmel und Eyern ein gutes Gehäck gemacht <lb/> und wieder an das Bein geschlagen <lb/> mit Pinioli gespickt <lb/> und im Ofen gebraten mit guter subtiler Capry-Brühe.</p>
+        <p> DAs <objectName ref="fleisch">Fleisch</objectName> wird von denen Schlegelein abgelößt <lb/> mit Gewürtz und <objectName ref="speck">Speck</objectName> <lb/> Semmel und Eyern ein gutes <objectName ref="gehaeck">Gehäck</objectName> gemacht <lb/> und wieder an das Bein geschlagen <lb/> mit Pinioli gespickt <lb/> und im <objectName ref="ofen">Ofen</objectName> gebraten mit guter subtiler Capry-Brühe. </p>
             </div>
         </body>
     </text>

@@ -184,7 +184,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DAs Brät von Spanfärcklein wird überbrühet <lb/> oder mit einem gespickten Zwibel in Butter geröst mit Gewürtz und wenig Majoran= Stup <lb/> hernach mit rinderner Feisten <lb/> und wenig übersottenen Speck klein gehackt <lb/> mit Wein und Petersil= Kräutlein vermischt <lb/> und mit denen in Düttlein angezogenen Beysätzen <lb/> ingleichem mit Lemoni= Schelffen und Safft auch nöthigen Saltz versehen <lb/> ist gut <lb/> auf eine Schüssel in die Gehäck= Pastetlein <lb/> oder in die Kräpfflein <lb/> so im Schmaltz gebachen werden.</p>
+        <p> DAs Brät von Spanfärcklein wird überbrühet <lb/> oder mit einem gespickten Zwibel in <objectName ref="butter">Butter</objectName> geröst mit Gewürtz und wenig Majoran= Stup <lb/> hernach mit rinderner <objectName ref="feisten">Feisten</objectName> <lb/> und wenig übersottenen <objectName ref="speck">Speck</objectName> klein gehackt <lb/> mit <objectName ref="wein">Wein</objectName> und Petersil= Kräutlein vermischt <lb/> und mit denen in Düttlein angezogenen Beysätzen <lb/> ingleichem mit Lemoni= Schelffen und Safft auch nöthigen Saltz versehen <lb/> ist gut <lb/> auf eine <objectName ref="schuessel">Schüssel</objectName> in die Gehäck= Pastetlein <lb/> oder in die Kräpfflein <lb/> so im Schmaltz gebachen werden. </p>
             </div>
         </body>
     </text>

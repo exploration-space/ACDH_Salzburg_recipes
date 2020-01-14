@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Erstlich Nimb Ein Kölbners brädt<gap/>, <lb/> hackhs schen khlein, hernach Nimb ein <lb/><lb/> (re 35) Milch<gap/>, oder ein Fleisch brie<gap/>, rierhs<gap/> underein <lb/> ander, schlag .3. oder .4. Ayr<gap/> <lb/> daran, hernach Gewirzte<gap/> Es, richte <lb/> es in Ein Kolbers<gap/> Nözl<gap/>, als wie <lb/> ein Wurst, hernach stöckhe in die <lb/> mite 3. oder .4. hiertt<gap/> Gesodtne<gap/> <lb/> Ayr, nacheinander, wickhl das Nezl<gap/> <lb/> Zu samben, als wie ein Wurst <lb/> Pindts vnnden vnnd oben Zueh, bachs<gap/> <lb/> in einen rehrl<gap/>, hernach schneide <lb/> rundte schnizl<gap/> daraus, khanst <lb/> auch die schissl<gap/> damit Ziehrn. <lb/></p>
+        <p> Erstlich Nimb Ein Kölbners brädt<gap/>, <lb/> hackhs schen khlein, hernach Nimb ein <lb/><lb/> ( re 35 ) Milch<gap/>, oder ein <objectName ref="fleisch">Fleisch</objectName> brie<gap/>, rierhs<gap/> underein <lb/> ander, schlag.3. oder.4. Ayr<gap/> <lb/> daran, hernach Gewirzte<gap/> Es, richte <lb/> es in Ein Kolbers<gap/> Nözl<gap/>, als wie <lb/> ein <objectName ref="wurst">Wurst</objectName>, hernach stöckhe in die <lb/> mite 3. oder.4. hiertt<gap/> Gesodtne<gap/> <lb/> Ayr, nacheinander, wickhl das Nezl<gap/> <lb/> Zu samben, als wie ein <objectName ref="wurst">Wurst</objectName> <lb/> Pindts vnnden vnnd oben Zueh, bachs<gap/> <lb/> in einen rehrl<gap/>, hernach schneide <lb/> rundte schnizl<gap/> daraus, khanst <lb/> auch die schissl<gap/> damit Ziehrn. <lb/> </p>
             </div>
         </body>
     </text>

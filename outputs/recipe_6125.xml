@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>EIn Gehäck mit Lungen <lb/> Petersil= Kräutlein <lb/> und Semmel= Brosen <lb/> auch Saltz und Gewürtz in Butter geröst <lb/> in ausgetriebenen Taig gefüllt <lb/> in der Fleischbrühe abgesotten <lb/> abgesiehen <lb/> in eine Schüssel mit Butter und Semmel= Brosen aufgeschmältzt <lb/> auch <lb/> wann es beliebt <lb/> mit Parmesan= Käß bestreut <lb/> seynd gut.</p>
+        <p> EIn <objectName ref="gehaeck">Gehäck</objectName> mit <objectName ref="lunge">Lungen</objectName> <lb/> Petersil= Kräutlein <lb/> und Semmel= Brosen <lb/> auch Saltz und Gewürtz in <objectName ref="butter">Butter</objectName> geröst <lb/> in ausgetriebenen Taig gefüllt <lb/> in der <objectName ref="fleischbruehe">Fleischbrühe</objectName> abgesotten <lb/> abgesiehen <lb/> in eine <objectName ref="schuessel">Schüssel</objectName> mit <objectName ref="butter">Butter</objectName> und Semmel= Brosen aufgeschmältzt <lb/> auch <lb/> wann es beliebt <lb/> mit Parmesan= Käß bestreut <lb/> seynd gut. </p>
             </div>
         </body>
     </text>

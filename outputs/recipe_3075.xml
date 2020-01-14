@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DArdoffeln gebutzt <lb/> gescheelt <lb/> oder ungescheelt zu dünnen Blättlein geschnitten <lb/> gleich mit wenig Wasser <lb/> Pfeffer und Oel in die Schüssel gericht <lb/> auf der Glut warm gemacht <lb/> und also warm mit frischen Lemoni <lb/> oder Pomerantzen zu Tisch gegeben; Andere nehmen auch an statt des Wassers Fleisch= oder Erbes= Brühe <lb/> und an statt des Oels wird guter Butter genommen.</p>
+        <p> DArdoffeln gebutzt <lb/> gescheelt <lb/> oder ungescheelt zu dünnen Blättlein geschnitten <lb/> gleich mit wenig <objectName ref="wasser">Wasser</objectName> <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Oel in die <objectName ref="schuessel">Schüssel</objectName> gericht <lb/> auf der <objectName ref="glut">Glut</objectName> warm gemacht <lb/> und also warm mit frischen Lemoni <lb/> oder Pomerantzen zu <objectName ref="tisch">Tisch</objectName> gegeben; Andere nehmen auch an statt des Wassers Fleisch= oder Erbes= <objectName ref="bruehe">Brühe</objectName> <lb/> und an statt des Oels wird guter <objectName ref="butter">Butter</objectName> genommen. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DAs Ochsen=Maul muß wohl gesotten <lb/> gebutzt <lb/> klein geschnitten <lb/> mit Pfeffer <lb/> Imber <lb/> und Muscatnuß gewürtzt <lb/> mit wenig Wein vermischt werden <lb/> ist gut in einer gelben eingebrandten Zwibel=oder Lemoni=Brühe.</p>
+        <p> DAs Ochsen=Maul muß wohl gesotten <lb/> gebutzt <lb/> klein geschnitten <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> und Muscatnuß gewürtzt <lb/> mit wenig <objectName ref="wein">Wein</objectName> vermischt werden <lb/> ist gut in einer gelben eingebrandten Zwibel=oder Lemoni=Brühe. </p>
             </div>
         </body>
     </text>

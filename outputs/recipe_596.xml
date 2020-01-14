@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim Zimmet 1. loht <lb/> Ingwer ein halb loht <lb/> Nä= gelein 1. quint. Muscatennüß vnd Muscatenblüht jedes ein halb quint. zucker ein halb pfundt <lb/> sied den zucker wie oben <lb/> vnnd misch zu letzt das Gewürtz darein <lb/> vnd mache Stürtzlein oder zeltlein drauß <lb/> wie oben.</p>
+        <p> Nim Zimmet 1. loht <lb/> <objectName ref="ingwer">Ingwer</objectName> ein halb loht <lb/> Nä= gelein 1. <objectName ref="quint">quint</objectName>. Muscatennüß vnd Muscatenblüht jedes ein halb <objectName ref="quint">quint</objectName>. <objectName ref="zucker">zucker</objectName> ein halb pfundt <lb/> sied den <objectName ref="zucker">zucker</objectName> wie oben <lb/> vnnd misch zu letzt das Gewürtz darein <lb/> vnd mache Stürtzlein oder zeltlein drauß <lb/> wie oben. </p>
             </div>
         </body>
     </text>

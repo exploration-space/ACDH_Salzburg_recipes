@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Reh= Rucken wird gantzer gehäutlet <lb/> die Ruck= Brätlein ausgelößt <lb/> gespickt <lb/> gepaitzt <lb/> oder ungepaitzter im Safft gebraten <lb/> hernach mit einer sauren Ram= oder Cucummern= Brühe versehen.</p>
+        <p> DEr Reh= Rucken wird gantzer gehäutlet <lb/> die Ruck= Brätlein ausgelößt <lb/> gespickt <lb/> gepaitzt <lb/> oder ungepaitzter im Safft gebraten <lb/> hernach mit einer sauren Ram= oder Cucummern= <objectName ref="bruehe">Brühe</objectName> versehen. </p>
             </div>
         </body>
     </text>

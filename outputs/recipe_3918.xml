@@ -181,7 +181,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Richte den Auerhahn auf erst beschriebene Weiß zum dämpffen mit dem Weichsel = Safft <lb/> Wein <lb/> Zucker <lb/> Zimmet <lb/> ec. Und schwartz geriebenem Brod <lb/> so ist es gut.</p>
+        <p> Richte den <objectName ref="auerhahn">Auerhahn</objectName> auf erst beschriebene Weiß zum dämpffen mit dem Weichsel = Safft <lb/> <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet <lb/> ec. Und schwartz geriebenem Brod <lb/> so ist es gut. </p>
             </div>
         </body>
     </text>

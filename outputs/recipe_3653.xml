@@ -172,9 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn mache eingerührte Eyer im Schmaltz <lb/> so wohl lind sind ; schütte sie in eine Schüssel <lb/> rühre einen Löffel voll schönes Mehl daran <lb/> streue Ingber <lb/> Pfeffer <lb/> ein wenig Saffran und Muscatblüh darein <lb/> lasse eine Fleischbrüh siedend werden <lb/> und mache aus dem Teig Knötlein oder Knöpfflein <lb/> so groß als kleine Butter= Knötlein : Wann nun die Brüh siedet <lb/> lege man selbige hinein <lb/> lasse sie so lang sieden <lb/> als harte Eyer <lb/> und trags dann zu Tisch. <gap/>
-
-<gap/>          Wanns beliebt <lb/> kan man diese Knötlein zuvor bachen <lb/> oder auch <lb/> von dem vorbeschriebenen Eyer= Würstleins= Teig <lb/> Knötlein machen <lb/> selbige bachen <lb/> und eine süsse Brüh darüber machen <lb/> wie solche bey erst= besagten Würstlein <lb/> gleich vor diesem <lb/> beschrieben worden.</p>
+        <p> MAn mache eingerührte Eyer im Schmaltz <lb/> so wohl lind sind; schütte sie in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> rühre einen <objectName ref="loeffel">Löffel</objectName> voll schönes <objectName ref="mehl">Mehl</objectName> daran <lb/> streue Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> ein wenig Saffran und Muscatblüh darein <lb/> lasse eine Fleischbrüh siedend werden <lb/> und mache aus dem <objectName ref="teig">Teig</objectName> Knötlein oder Knöpfflein <lb/> so groß als kleine Butter= Knötlein : Wann nun die Brüh siedet <lb/> lege man selbige hinein <lb/> lasse sie so lang sieden <lb/> als harte Eyer <lb/> und trags dann zu <objectName ref="tisch">Tisch</objectName>. <gap/> <gap/> Wanns beliebt <lb/> kan man diese Knötlein zuvor bachen <lb/> oder auch <lb/> von dem vorbeschriebenen Eyer= Würstleins= <objectName ref="teig">Teig</objectName> <lb/> Knötlein machen <lb/> selbige bachen <lb/> und eine süsse Brüh darüber machen <lb/> wie solche bey erst= besagten Würstlein <lb/> gleich vor diesem <lb/> beschrieben worden. </p>
             </div>
         </body>
     </text>

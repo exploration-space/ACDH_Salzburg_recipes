@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Lung und Leber in ein Geschneitel gelb eyngemacht. Setz in Wasser zu <lb/> vnd quells wol <lb/> vnd wenn du es hast abgequellt <lb/> so schneidt es nicht zu klein <lb/> thu es in ein saubers Häflein <lb/> oder vberzintes Keßlein <lb/> Nim(m) ein gute Rindtfleischbrüh <lb/> vnd schneidt ein Zwibeln oder zwo klein <lb/> laß es damit sieden <lb/> vnd versuchs <lb/> obs wolgeschmack ist. Geuß Essig darein <lb/> vnd brenn ein Mehl darein <lb/> würtz es ab mit Pfeffer vnd Saffran <lb/> vnd laß es damit siede(n) <lb/> oder laß es weiß <lb/> vnd streich einen Pfeffer darauff <lb/> so ist es gut vnnd wolgeschmack. Du kansts auch gar klein schneiden wie die Sültzen.</p>
+        <p> Lung und <objectName ref="leber">Leber</objectName> in ein Geschneitel gelb eyngemacht. Setz in <objectName ref="wasser">Wasser</objectName> zu <lb/> vnd quells wol <lb/> vnd wenn du es hast abgequellt <lb/> so schneidt es nicht zu klein <lb/> thu es in ein saubers Häflein <lb/> oder vberzintes Keßlein <lb/> Nim ( m ) ein gute Rindtfleischbrüh <lb/> vnd schneidt ein Zwibeln oder zwo klein <lb/> laß es damit sieden <lb/> vnd versuchs <lb/> obs wolgeschmack ist. Geuß <objectName ref="essig">Essig</objectName> darein <lb/> vnd brenn ein <objectName ref="mehl">Mehl</objectName> darein <lb/> würtz es ab mit <objectName ref="pfeffer">Pfeffer</objectName> vnd Saffran <lb/> vnd laß es damit siede ( n ) <lb/> oder laß es weiß <lb/> vnd streich einen <objectName ref="pfeffer">Pfeffer</objectName> darauff <lb/> so ist es gut vnnd wolgeschmack. Du kansts auch gar klein schneiden wie die Sültzen. </p>
             </div>
         </body>
     </text>

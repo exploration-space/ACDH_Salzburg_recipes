@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet so viel Eyer als beliebt ; machet mit ein wenig Mehl einen etwas lehnern Teig an <lb/> als einen gewollenen Küchlein= Teig <lb/> giesset ihn dann in ein reines Säcklein <lb/> und hänget selbiges in ein siedendes Wasser <lb/> gantz frey <lb/> daß es nirgend anstosse <lb/> lassets darinnen sieden <lb/> biß der Teig hart wird <lb/> und sich schneiden lässet ; schneidet dann Stücklein eines Fingers lang daraus <lb/> und bachets schön gelb aus Schmaltz : Tragets dann also trocken mit Zucker überstreuet <lb/> oder aber in einer süssen Brüh <lb/> zu Tisch.</p>
+        <p> NEhmet so viel Eyer als beliebt; machet mit ein wenig <objectName ref="mehl">Mehl</objectName> einen etwas lehnern <objectName ref="teig">Teig</objectName> an <lb/> als einen gewollenen Küchlein= <objectName ref="teig">Teig</objectName> <lb/> giesset ihn dann in ein reines <objectName ref="saecklein">Säcklein</objectName> <lb/> und hänget selbiges in ein siedendes <objectName ref="wasser">Wasser</objectName> <lb/> gantz frey <lb/> daß es nirgend anstosse <lb/> lassets darinnen sieden <lb/> biß der <objectName ref="teig">Teig</objectName> hart wird <lb/> und sich schneiden lässet; schneidet dann Stücklein eines Fingers lang daraus <lb/> und bachets schön gelb aus Schmaltz : Tragets dann also trocken mit <objectName ref="zucker">Zucker</objectName> überstreuet <lb/> oder aber in einer süssen Brüh <lb/> zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

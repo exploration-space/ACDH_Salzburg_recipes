@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb khleine ferchl oder äsch schrepffs zu baiden seithen, <lb/> salz ein, streichs ab, legs in haiß öel, laß darinen <lb/> bachen, das schen braun Werden, geuß ein Wenig <lb/> Essig vnd Arbesbrüe drüber, gewürzs Woll, laß khurz <lb/> ein sieden, gibs Warm auf den tisch. <lb/></p>
+        <p> Nimb khleine ferchl oder äsch schrepffs zu baiden seithen, <lb/> <objectName ref="salz">salz</objectName> ein, streichs ab, legs in haiß öel, laß darinen <lb/> bachen, das schen braun Werden, geuß ein Wenig <lb/> <objectName ref="essig">Essig</objectName> vnd Arbesbrüe drüber, gewürzs Woll, laß khurz <lb/> ein sieden, gibs Warm auf den <objectName ref="tisch">tisch</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

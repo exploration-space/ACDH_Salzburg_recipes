@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Waiden die <lb/> Khrebsen, stosß sie lebendig in ain Mörser, Nimb <lb/> etlich ayr darunter, Nimb ain guete Millich, <lb/><lb/> (75r) streichs woll durcheinander durch ain Tuech, <lb/> thues in ain Saubere Pfann, sez es ob ainer <lb/> gluet, so laufts zusamben zum gmüesß, <lb/> Seichs ab, laß nit Sieden, schneits wie ain <lb/> bachene Millich, bachs in ainem schmalz, vnd <lb/> mach ein guets gesüp darüber von Mandl, <lb/> nimb Weinpör darunter. <lb/></p>
+        <p> Waiden die <lb/> Khrebsen, stosß sie lebendig in ain <objectName ref="moerser">Mörser</objectName>, Nimb <lb/> etlich ayr darunter, Nimb ain guete Millich, <lb/><lb/> ( 75r ) streichs woll durcheinander durch ain Tuech, <lb/> thues in ain Saubere Pfann, sez es ob ainer <lb/> gluet, so laufts zusamben zum gmüesß, <lb/> Seichs ab, laß nit Sieden, schneits wie ain <lb/> bachene Millich, bachs in ainem <objectName ref="schmalz">schmalz</objectName>, vnd <lb/> mach ein guets gesüp darüber von Mandl, <lb/> nimb Weinpör darunter. <lb/> </p>
             </div>
         </body>
     </text>

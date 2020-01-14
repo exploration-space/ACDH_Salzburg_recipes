@@ -172,9 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Scheele Zwibel <lb/> Aepffel <lb/> und hohle sie (so viel es seynd kann <lb/>) sauber aus <lb/> das ausgehohlte setze mit wenig Wein <lb/> gantzen Zimmet und Nägelein <lb/> und wol Zucker zu <lb/> wann sie weich genug sind <lb/> so treibs durch <lb/> fülls mit sauber geklaubten <lb/> schwartzen und etwas geschwellten Weinbeerlein <lb/> und Piniolen wieder in die Aepffel <lb/> bedecks <lb/> und richts in ein Rein <lb/> Casserol <lb/> oder tieffe Schüssel <lb/> laß mit wenig Wein <lb/> und wol Zucker <lb/> mit einer gantzen <lb/> mit Zimmet und Näglein besteckten Lemoni=Schaalen aufkochen <lb/> oder weich sieden <lb/> und beym Anrichten bestreus mit Zucker.
-
-NB. Man kann auch diese ausgehohlte Aepffel in Schmaltz ausbräunen <lb/> und also füllen <lb/> auch bey dem Anrichten mit roth oder weissen Citroni= oder Pomerantzen=Kräutlein zieren.</p>
+        <p> Scheele Zwibel <lb/> Aepffel <lb/> und hohle sie ( so viel es seynd kann <lb/> ) sauber aus <lb/> das ausgehohlte setze mit wenig <objectName ref="wein">Wein</objectName> <lb/> gantzen Zimmet und Nägelein <lb/> und wol <objectName ref="zucker">Zucker</objectName> zu <lb/> wann sie weich genug sind <lb/> so treibs durch <lb/> fülls mit sauber geklaubten <lb/> schwartzen und etwas geschwellten Weinbeerlein <lb/> und Piniolen wieder in die Aepffel <lb/> bedecks <lb/> und richts in ein <objectName ref="rein">Rein</objectName> <lb/> Casserol <lb/> oder tieffe <objectName ref="schuessel">Schüssel</objectName> <lb/> laß mit wenig <objectName ref="wein">Wein</objectName> <lb/> und wol <objectName ref="zucker">Zucker</objectName> <lb/> mit einer gantzen <lb/> mit Zimmet und Näglein besteckten Lemoni=Schaalen aufkochen <lb/> oder weich sieden <lb/> und beym Anrichten bestreus mit <objectName ref="zucker">Zucker</objectName>. NB. Man kann auch diese ausgehohlte Aepffel in Schmaltz ausbräunen <lb/> und also füllen <lb/> auch bey dem Anrichten mit roth oder weissen Citroni= oder Pomerantzen=Kräutlein zieren. </p>
             </div>
         </body>
     </text>

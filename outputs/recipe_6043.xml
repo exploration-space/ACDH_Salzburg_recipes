@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Von einem weissen Haupt Salat <lb/> das klein geschnitten <lb/> eines theils in gesottenem Wasser gequellt <lb/> vnnd eins theils roh. Vnnd vnter den gequellten thu Capern.</p>
+        <p> Von einem weissen Haupt <objectName ref="salat">Salat</objectName> <lb/> das klein geschnitten <lb/> eines theils in gesottenem <objectName ref="wasser">Wasser</objectName> gequellt <lb/> vnnd eins theils roh. Vnnd vnter den gequellten thu Capern. </p>
             </div>
         </body>
     </text>

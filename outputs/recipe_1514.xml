@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein halb pfundt Mandl, Stosß sye Klein, mach von .4. ganzen <lb/><lb/> ayren, mit einer gar guetten milch ein guetten dopfen, Stosß in auch <lb/> Vnter die Mandl, auch ein Viertung putter, Stosß wohl durcheinander, <lb/> auch souill Zuckher das recht sieß ist, riehrs auf einer schisßl, auf einer <lb/> seithen, schlag .2. ganze ayr daran, schmirb ein schisßl mit butter, <lb/> vnd pachs fein Küell. <lb/>.</p>
+        <p> Nimb ein halb pfundt Mandl, Stosß sye Klein, mach von.4. ganzen <lb/><lb/> ayren, mit einer gar guetten <objectName ref="milch">milch</objectName> ein guetten dopfen, Stosß in auch <lb/> Vnter die Mandl, auch ein <objectName ref="viertung">Viertung</objectName> putter, Stosß wohl durcheinander, <lb/> auch souill Zuckher das recht sieß ist, riehrs auf einer schisßl, auf einer <lb/> seithen, schlag.2. ganze ayr daran, schmirb ein schisßl mit <objectName ref="butter">butter</objectName>, <lb/> vnd pachs fein Küell. <lb/>. </p>
             </div>
         </body>
     </text>

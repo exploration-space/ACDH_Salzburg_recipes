@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein guete abgeraumbte milch, thue aber souill schmalz, <lb/> oder Buter, als ein aÿr drein, sez ihn ein Pfan ÿbers feuer, <lb/> vnd Wan es anhebt Zu sieden, so nimb 14. aÿrdoter, vnd ein <lb/> löfl voll Semblmell, in die aÿr gerührt, ein ganz geribne <lb/> Sembl, vnd Wan die milch anhebt Zu sieden, so sez auf ein <lb/> glietl, rühr die aÿr allgemach drein, laß ein Wenig sieden, <lb/> biß es dikh genueg Wird, nimb ein hand voll Zukher, vnd <lb/> Weinpörl, machs geuß in aufgesezten dorten, laß bachen, <lb/> ein halbe stund, ist bereith. <lb/></p>
+        <p> Nimb ein guete abgeraumbte <objectName ref="milch">milch</objectName>, thue aber souill <objectName ref="schmalz">schmalz</objectName>, <lb/> oder Buter, als ein aÿr drein, sez ihn ein Pfan ÿbers <objectName ref="feuer">feuer</objectName>, <lb/> vnd Wan es anhebt Zu sieden, so nimb 14. aÿrdoter, vnd ein <lb/> löfl voll Semblmell, in die aÿr gerührt, ein ganz geribne <lb/> Sembl, vnd Wan die <objectName ref="milch">milch</objectName> anhebt Zu sieden, so sez auf ein <lb/> glietl, rühr die aÿr allgemach drein, laß ein Wenig sieden, <lb/> biß es dikh genueg Wird, nimb ein hand voll Zukher, vnd <lb/> Weinpörl, machs geuß in aufgesezten dorten, laß bachen, <lb/> ein halbe stund, ist bereith. <lb/> </p>
             </div>
         </body>
     </text>

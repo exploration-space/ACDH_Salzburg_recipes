@@ -172,10 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Kölbernes<gap/> Fleisch, schneid <lb/> bräidte vnnd Lange schniz<gap/> Daraus, <lb/> Nimb Gehackten Spöckh, auch Semel <lb/> Preslen<gap/>, vnnd Pettersill, vnnd <lb/> Gewürz<gap/>, strähe<gap/> es yber das Fleisch, lege <lb/> ein Saluer blätl<gap/> darauf, wickhl <lb/><lb/> (re 8) es Zusamen, stekhe es an spissl <lb/> legs Auf den Rost, vnnd lasse also <lb/> bratten<gap/>, wan du es Gibst so <lb/> tröpfe<gap/> butter vnnd Semel Preßl<gap/> <lb/> darauf. <lb/>
-Die Kölberne löber<gap/> Vögl Kann <lb/> man auch also machen. <lb/>
-
-[Anm.: Dieses Rezept ähnelt sehr dem heute bekannten Gericht „Saltimbocca“.]</p>
+        <p> Nimb Kölbernes<gap/> <objectName ref="fleisch">Fleisch</objectName>, schneid <lb/> bräidte vnnd Lange schniz<gap/> Daraus, <lb/> Nimb Gehackten Spöckh, auch Semel <lb/> Preslen<gap/>, vnnd Pettersill, vnnd <lb/> Gewürz<gap/>, strähe<gap/> es yber das <objectName ref="fleisch">Fleisch</objectName>, lege <lb/> ein Saluer blätl<gap/> darauf, wickhl <lb/><lb/> ( re 8 ) es Zusamen, stekhe es an spissl <lb/> legs Auf den <objectName ref="rost">Rost</objectName>, vnnd lasse also <lb/> bratten<gap/>, wan du es Gibst so <lb/> tröpfe<gap/> <objectName ref="butter">butter</objectName> vnnd Semel Preßl<gap/> <lb/> darauf. <lb/> Die Kölberne löber<gap/> Vögl Kann <lb/> man auch also machen. <lb/> [ Anm. : Dieses Rezept ähnelt sehr dem heute bekannten Gericht „ Saltimbocca “. ] </p>
             </div>
         </body>
     </text>

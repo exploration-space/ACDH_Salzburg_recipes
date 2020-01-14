@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIse wird dem Kopff gleich gesotten <lb/> warmer mit einer Wachholderbeer= Brühe <lb/> vom gerösten Brod und zerdreckten Wachholder= Beeren <lb/> auch Pfeffer <lb/> Wein <lb/> oder Eßig und Fleischbrühe gemacht <lb/> warm zu geben <lb/> oder auch kalter aufgetragen.</p>
+        <p> DIse wird dem Kopff gleich gesotten <lb/> warmer mit einer Wachholderbeer= <objectName ref="bruehe">Brühe</objectName> <lb/> vom gerösten Brod und zerdreckten Wachholder= <objectName ref="beeren">Beeren</objectName> <lb/> auch <objectName ref="pfeffer">Pfeffer</objectName> <lb/> <objectName ref="wein">Wein</objectName> <lb/> oder Eßig und <objectName ref="fleischbruehe">Fleischbrühe</objectName> gemacht <lb/> warm zu geben <lb/> oder auch kalter aufgetragen. </p>
             </div>
         </body>
     </text>

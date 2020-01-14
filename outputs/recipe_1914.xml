@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>So nimb den visch, es seÿen höchten, Äsch oder khärpffen, <lb/> die Schieppen haben, schiepp es, vnd seud es in Salz, Wie <lb/> andere fisch, doch nit gar an die Statt, so seichs ab leg <lb/> es in ein andere pfan, geuß die hernach geschribne Sulz <lb/> daran, laß an die stat Sieden, ober dem visch mueß man <lb/> desto mehr salz geben. <lb/></p>
+        <p> So nimb den visch, es seÿen höchten, Äsch oder khärpffen, <lb/> die Schieppen haben, schiepp es, vnd seud es in <objectName ref="salz">Salz</objectName>, Wie <lb/> andere <objectName ref="fisch">fisch</objectName>, doch nit gar an die Statt, so seichs ab leg <lb/> es in ein andere pfan, geuß die hernach geschribne Sulz <lb/> daran, laß an die stat Sieden, ober dem visch mueß man <lb/> desto mehr <objectName ref="salz">salz</objectName> geben. <lb/> </p>
             </div>
         </body>
     </text>

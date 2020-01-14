@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Grün Salat <lb/> der klein vnnd jung ist <lb/> rote Ruben klein geschnitten <lb/> vnd darüber geworffen <lb/> wenn der Salat angemacht ist <lb/> vnnd die rote Ruben gesotten vnd kalt seyn.</p>
+        <p> Grün <objectName ref="salat">Salat</objectName> <lb/> der klein vnnd jung ist <lb/> rote Ruben klein geschnitten <lb/> vnd darüber geworffen <lb/> wenn der <objectName ref="salat">Salat</objectName> angemacht ist <lb/> vnnd die rote Ruben gesotten vnd kalt seyn. </p>
             </div>
         </body>
     </text>

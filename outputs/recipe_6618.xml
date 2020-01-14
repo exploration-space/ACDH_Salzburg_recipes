@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Du kannst auch Schaiden in Pfeffer eynmache <lb/> mit Karpffenschweiß <lb/> wenn du jn hast <lb/> koch den Schaiden <lb/> es sey gelb oder weiß <lb/> nim Pertrumkraut <lb/> das klein geschnitten ist <lb/> darein <lb/> das ist zu allen Speisen gut.</p>
+        <p> Du kannst auch Schaiden in <objectName ref="pfeffer">Pfeffer</objectName> eynmache <lb/> mit Karpffenschweiß <lb/> wenn du jn hast <lb/> koch den Schaiden <lb/> es sey gelb oder weiß <lb/> nim Pertrumkraut <lb/> das klein geschnitten ist <lb/> darein <lb/> das ist zu allen Speisen gut. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Stosß in ainen Mörser, treibs durch ain <lb/> tuech, wan du hast durchtriben, nimb <lb/> gueten wein, machs darmit ob, d(a)s nit zu <lb/> dickh seye, laß ain wenig Sieden, nit hart, <lb/> zuggers woll, gilbs Kalt, Säe ein Con= <lb/> =fect darauf, Salz nit. <lb/></p>
+        <p> Stosß in ainen <objectName ref="moerser">Mörser</objectName>, treibs durch ain <lb/> tuech, wan du hast durchtriben, nimb <lb/> gueten <objectName ref="wein">wein</objectName>, machs darmit ob, d ( a ) s nit zu <lb/> dickh seye, laß ain wenig Sieden, nit hart, <lb/> zuggers woll, gilbs Kalt, Säe ein Con= <lb/> =fect darauf, <objectName ref="salz">Salz</objectName> nit. <lb/> </p>
             </div>
         </body>
     </text>

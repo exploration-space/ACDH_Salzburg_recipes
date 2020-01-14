@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>RÖste ein paar Löffel voll Haber= Mehl in Schmaltz <lb/> biß es fein braun wird <lb/> und giesse Fleischbrühe daran <lb/> wie auch ein wenig Essig; würtze es mit Ingber <lb/> Pfeffer und geriebener Muscaten= Nuß <lb/> laß es sieden <lb/> und richte es so dann über gewürffelt rocken Brod an. Wilt du aber das Mehl nicht mit essen <lb/> so seihe es durch.</p>
+        <p> RÖste ein paar <objectName ref="loeffel">Löffel</objectName> voll Haber= <objectName ref="mehl">Mehl</objectName> in Schmaltz <lb/> biß es fein braun wird <lb/> und giesse <objectName ref="fleischbruehe">Fleischbrühe</objectName> daran <lb/> wie auch ein wenig <objectName ref="essig">Essig</objectName>; würtze es mit Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und geriebener Muscaten= Nuß <lb/> laß es sieden <lb/> und richte es so dann über gewürffelt rocken Brod an. Wilt du aber das <objectName ref="mehl">Mehl</objectName> nicht mit essen <lb/> so seihe es durch. </p>
             </div>
         </body>
     </text>

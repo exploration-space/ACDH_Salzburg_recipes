@@ -179,7 +179,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Waller wird Stückweiß überzwerch geschnitten <lb/> und mit Pfeffer <lb/> Imber <lb/> Näglein <lb/> Muscatnuß <lb/> Saltz Lorbeer= Blättlein <lb/> Rosmarin oder Lemoni im Butter <lb/> oder Oel gedämpfft <lb/> mit einerr Capry <lb/> oder andern guten gelben <lb/> und etwas sauren Brühe versehen <lb/> und warmer gegeben.</p>
+        <p> DEr Waller wird Stückweiß überzwerch geschnitten <lb/> und mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> Näglein <lb/> Muscatnuß <lb/> Saltz Lorbeer= Blättlein <lb/> <objectName ref="rosmarin">Rosmarin</objectName> oder Lemoni im <objectName ref="butter">Butter</objectName> <lb/> oder Oel gedämpfft <lb/> mit einerr Capry <lb/> oder andern guten gelben <lb/> und etwas sauren <objectName ref="bruehe">Brühe</objectName> versehen <lb/> und warmer gegeben. </p>
             </div>
         </body>
     </text>

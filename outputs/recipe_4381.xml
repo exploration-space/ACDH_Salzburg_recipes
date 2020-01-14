@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>HIerzu nimm 1. Pf. klein= gestossene Mandeln <lb/> und von 10. Eyern so hart gesotten den Dotter <lb/> gantz klein gehackter <lb/> misch es unter die Mandeln <lb/> auch 1. Pf. gefähten Zucker <lb/> mit ein wenig wolriechendes Wasser <lb/> oder Lemoni= Schaalen <lb/> und alles wohl unter einander gemischt <lb/> rührs zu einem Dorten auf ein Blättlein <lb/> bachs fein schön <lb/> mach ein Eyß darauf <lb/> laß ihn in dem Ofen wieder anziehen <lb/> biß das Eyß wohl wieder trucken ist <lb/> belegs mit eingemachten Sachen <lb/> und gibs <lb/> es ist gut.</p>
+        <p> HIerzu nimm 1. Pf. klein= gestossene <objectName ref="mandeln">Mandeln</objectName> <lb/> und von 10. Eyern so hart gesotten den Dotter <lb/> gantz klein gehackter <lb/> misch es unter die <objectName ref="mandeln">Mandeln</objectName> <lb/> auch 1. Pf. gefähten <objectName ref="zucker">Zucker</objectName> <lb/> mit ein wenig wolriechendes <objectName ref="wasser">Wasser</objectName> <lb/> oder Lemoni= Schaalen <lb/> und alles wohl unter einander gemischt <lb/> rührs zu einem Dorten auf ein Blättlein <lb/> bachs fein schön <lb/> mach ein Eyß darauf <lb/> laß ihn in dem <objectName ref="ofen">Ofen</objectName> wieder anziehen <lb/> biß das Eyß wohl wieder trucken ist <lb/> belegs mit eingemachten Sachen <lb/> und gibs <lb/> es ist gut. </p>
             </div>
         </body>
     </text>

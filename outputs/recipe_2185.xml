@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Seud ihn ab, das er schen blab seÿ, seich ihn ab, richt ihn sauber auf ein <lb/> schißl, oder blat, mach den in ein saubers häfferl, geuß gueten <lb/> Wein dran, auch nit Zuuill, vnd laß undereinander sieden, stosß <lb/> ein khren, vnd thue ihn in ein saubers häferl, vnd laß ein Wenig <lb/> sieden, geuß ÿber den höchten, vnd gewürz mit Imberstup, vnd <lb/> gibs Warm. <lb/></p>
+        <p> Seud ihn ab, das er schen blab seÿ, seich ihn ab, richt ihn sauber auf ein <lb/> schißl, oder blat, mach den in ein saubers häfferl, geuß gueten <lb/> <objectName ref="wein">Wein</objectName> dran, auch nit Zuuill, vnd laß undereinander sieden, stosß <lb/> ein khren, vnd thue ihn in ein saubers häferl, vnd laß ein Wenig <lb/> sieden, geuß ÿber den höchten, vnd gewürz mit Imberstup, vnd <lb/> gibs Warm. <lb/> </p>
             </div>
         </body>
     </text>

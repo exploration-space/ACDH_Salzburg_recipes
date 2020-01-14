@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneidet das Fleisch klein = und würfflicht <lb/> röstet es im Schmaltz <lb/> giesset Essig und Fleischbrüh daran <lb/> drucket Citronen darein <lb/> würtzet es mit Ingber <lb/> Pfeffer und Muscatenblüh <lb/> last es sieden <lb/> und richtets dann an.</p>
+        <p> SChneidet das <objectName ref="fleisch">Fleisch</objectName> klein = und würfflicht <lb/> röstet es im Schmaltz <lb/> giesset <objectName ref="essig">Essig</objectName> und Fleischbrüh daran <lb/> drucket Citronen darein <lb/> würtzet es mit Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Muscatenblüh <lb/> last es sieden <lb/> und richtets dann an. </p>
             </div>
         </body>
     </text>

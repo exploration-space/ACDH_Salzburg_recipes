@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mach widerumb ein solchen Teig <lb/> thu Aniß <lb/> Coriander vn(n) Saltz <lb/> darvnter <lb/>  treibs fein voneinander <lb/>  vnnd schneidts vierecket oder rundt <lb/>  bestreiches mit Rosenwasser <lb/> vnd besträw es mit weissem Zucker <lb/> der klein gestossen ist <lb/> scheubs damit in heissen Ofen <lb/> so wirt es fein vbersich lauffen <lb/> vn(n) wirt fein mürb. Vnd man nennet es Gänßfüß.</p>
+        <p> Mach widerumb ein solchen <objectName ref="teig">Teig</objectName> <lb/> thu Aniß <lb/> Coriander vn ( n ) Saltz <lb/> darvnter <lb/> treibs fein voneinander <lb/> vnnd schneidts vierecket oder rundt <lb/> bestreiches mit <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> vnd besträw es mit weissem <objectName ref="zucker">Zucker</objectName> <lb/> der klein gestossen ist <lb/> scheubs damit in heissen <objectName ref="ofen">Ofen</objectName> <lb/> so wirt es fein vbersich lauffen <lb/> vn ( n ) wirt fein mürb. Vnd man nennet es Gänßfüß. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm den gantzen Kälber=Bug <lb/> wann er sauber <lb/> schlag zuvor das Knie <lb/> oder die Knochen ein wenig herab <lb/> kehre ihn um <lb/> und hacke das Bein innwendig mit Vortheil etlichmal ab <lb/> aber nicht durch <lb/> damit das Fleisch daran gantz bleibe; dann saltze und brate sie am Spiß <lb/> oder in dem Ofen <lb/> wie die Brüst und andere Braten</p>
+        <p> NImm den gantzen Kälber=Bug <lb/> wann er sauber <lb/> schlag zuvor das Knie <lb/> oder die <objectName ref="knochen">Knochen</objectName> ein wenig herab <lb/> kehre ihn um <lb/> und hacke das Bein innwendig mit Vortheil etlichmal ab <lb/> aber nicht durch <lb/> damit das <objectName ref="fleisch">Fleisch</objectName> daran gantz bleibe; dann saltze und brate sie am Spiß <lb/> oder in dem <objectName ref="ofen">Ofen</objectName> <lb/> wie die Brüst und andere Braten </p>
             </div>
         </body>
     </text>

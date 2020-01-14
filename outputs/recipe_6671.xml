@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim ein wenig Essig <lb/> vnnd fahe den Schweiß auff von einem Karpffen <lb/> thu die Foren auff <lb/> saltz sie eyn <lb/> laß ein weil im Saltz ligen <lb/> nim ein Fischkessel <lb/> vnnd streich die Foren ab auß dem Saltz <lb/> leg sie in den Kessel <lb/> vnd seig den Karpffenschweiß darüber mit Wein vnnd Essig <lb/> würtz es an mit Zimmet <lb/> Pfeffer vnd Neglein <lb/> vnd ein wenig Saffran <lb/> reib ein wenig Pfefferkuchen darein <lb/> vnd laß miteinander sieden <lb/> machs fein süß <lb/> vnd versaltz es nicht. Du magst es kalt geben <lb/> oder warm <lb/> ist es auff beyde manier gut vnd wolgeschmack.</p>
+        <p> Nim ein wenig <objectName ref="essig">Essig</objectName> <lb/> vnnd fahe den Schweiß auff von einem Karpffen <lb/> thu die Foren auff <lb/> saltz sie eyn <lb/> laß ein weil im Saltz ligen <lb/> nim ein <objectName ref="fischkessel">Fischkessel</objectName> <lb/> vnnd streich die Foren ab auß dem Saltz <lb/> leg sie in den <objectName ref="kessel">Kessel</objectName> <lb/> vnd seig den Karpffenschweiß darüber mit <objectName ref="wein">Wein</objectName> vnnd <objectName ref="essig">Essig</objectName> <lb/> würtz es an mit Zimmet <lb/> <objectName ref="pfeffer">Pfeffer</objectName> vnd Neglein <lb/> vnd ein wenig Saffran <lb/> reib ein wenig <objectName ref="pfefferkuchen">Pfefferkuchen</objectName> darein <lb/> vnd laß miteinander sieden <lb/> machs fein süß <lb/> vnd versaltz es nicht. Du magst es kalt geben <lb/> oder warm <lb/> ist es auff beyde manier gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

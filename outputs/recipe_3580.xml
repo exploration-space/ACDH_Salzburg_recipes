@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneide frischen Haussen zu kleinen Schnitzlein <lb/> saltz <lb/> und gewürtz sie <lb/> röste solche mit braunem Meel <lb/> und klein= gehackten Zwibeln in Butter <lb/> hast du gute Maurachen <lb/> oder andere braune Schwammen <lb/> kan solches mit geschehen <lb/> so gieß Erbsen= Brühe und braune Karpffen= jus daran <lb/> so wird es gut.</p>
+        <p> SChneide frischen Haussen zu kleinen Schnitzlein <lb/> saltz <lb/> und gewürtz sie <lb/> röste solche mit braunem Meel <lb/> und klein= gehackten Zwibeln in <objectName ref="butter">Butter</objectName> <lb/> hast du gute Maurachen <lb/> oder andere braune Schwammen <lb/> kan solches mit geschehen <lb/> so gieß Erbsen= <objectName ref="bruehe">Brühe</objectName> und braune Karpffen= <objectName ref="jus">jus</objectName> daran <lb/> so wird es gut. </p>
             </div>
         </body>
     </text>

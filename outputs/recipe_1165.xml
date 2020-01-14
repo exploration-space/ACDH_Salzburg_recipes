@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Ybersiede<gap/> daß Fleisch, thues einprenen<gap/>, mit Putter<gap/> <lb/> khlein geschnitnen<gap/> zwifl<gap/>, vnd ein handtuoll<gap/> Sembl= <lb/> =prosen<gap/>, schitte<gap/> ein wenig wein daran auch gewierz<gap/> <lb/> Rosmarin<gap/>, vnd lemany<gap/> schöllen<gap/>, wanst es anrichten<gap/> <lb/> wilst so gilbs<gap/> mit ayr<gap/> dotter<gap/>. <lb/></p>
+        <p> Ybersiede<gap/> daß <objectName ref="fleisch">Fleisch</objectName>, thues einprenen<gap/>, mit Putter<gap/> <lb/> khlein geschnitnen<gap/> zwifl<gap/>, vnd ein handtuoll<gap/> Sembl= <lb/> =prosen<gap/>, schitte<gap/> ein wenig <objectName ref="wein">wein</objectName> daran auch gewierz<gap/> <lb/> Rosmarin<gap/>, vnd lemany<gap/> schöllen<gap/>, wanst es anrichten<gap/> <lb/> wilst so gilbs<gap/> mit ayr<gap/> dotter<gap/>. <lb/> </p>
             </div>
         </body>
     </text>

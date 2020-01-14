@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Bone your Veal; take some Thyme, Marjoram, Pepper and Salt, grated Nutmeg, beaten Mace, shred Suet, and Crumbs of Bread, with a few Oysters; beat all these in a Mortar, to mix them together; strew it thick over the Veal, then roll it up into a Collar, sew it tight in a Cloth, and boil it three Hours. Make your Sauce as for a white Fricassy, boiling the Bones first for a good Gravy. Fry the Sweet-bread in Bits neatly cut. Save some of the Stuffing for forc'd Meat; to which add Juice of Spinage for Colour, and Yolks of Eggs to make it roll tight; so fry or boil it for Garnish in the Sauce with the Sweet-breads.</p>
+        <p> Bone your Veal; take some Thyme, Marjoram, Pepper and Salt, grated Nutmeg, beaten Mace, shred Suet, and Crumbs of Bread, with a few Oysters; beat all these in a Mortar, to mix them together; strew it thick over the Veal, then roll it up into a Collar, sew it tight in a Cloth, and boil it three Hours. Make your <objectName ref="sauce">Sauce</objectName> as for a white Fricassy, boiling the Bones first for a good Gravy. Fry the Sweet-bread in Bits neatly cut. Save some of the Stuffing for forc 'd Meat; to which add Juice of Spinage for Colour, and Yolks of Eggs to make it roll tight; so fry or boil it for Garnish in the <objectName ref="sauce">Sauce</objectName> with the Sweet-breads. </p>
             </div>
         </body>
     </text>

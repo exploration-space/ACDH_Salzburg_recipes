@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DErgleichen Fisolen so noch jung und grün seynd <lb/> werden auch gleich den Gummeri zu dem Behalten eingemacht.</p>
+        <p> DErgleichen <objectName ref="fisolen">Fisolen</objectName> so noch jung und grün seynd <lb/> werden auch gleich den Gummeri zu dem Behalten eingemacht. </p>
             </div>
         </body>
     </text>

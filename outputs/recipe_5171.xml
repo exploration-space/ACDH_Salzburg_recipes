@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Aalfisch wird abgeschlagen <lb/> abgestreifft <lb/> aufgemacht <lb/> zerstuckt <lb/> eingesaltzen <lb/> eingepaitzt <lb/> und an statt der Salbey= Blätter <lb/> mit Lemoni= oder Pomerantzen= Schnitzlein an Spiß gesteckt und gebraten <lb/> mit Butter begossen <lb/> und mit klaren Semmel= Brosen <lb/> welche mit wenig Pfeffer <lb/> Näglein <lb/> Zucker und Zimmet untereinander angemacht <lb/> bestreuet <lb/> mit schöner Farb angericht <lb/> und mit Lemoni <lb/> oder Pomerantzen schön aufgetragen.</p>
+        <p> DEr Aalfisch wird abgeschlagen <lb/> abgestreifft <lb/> aufgemacht <lb/> zerstuckt <lb/> eingesaltzen <lb/> eingepaitzt <lb/> und an statt der Salbey= Blätter <lb/> mit Lemoni= oder Pomerantzen= Schnitzlein an Spiß gesteckt und gebraten <lb/> mit <objectName ref="butter">Butter</objectName> begossen <lb/> und mit klaren Semmel= Brosen <lb/> welche mit wenig <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Näglein <lb/> <objectName ref="zucker">Zucker</objectName> und Zimmet untereinander angemacht <lb/> bestreuet <lb/> mit schöner Farb angericht <lb/> und mit Lemoni <lb/> oder Pomerantzen schön aufgetragen. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Seudt Birn in süssem Most <lb/> thu sie auß auff ein saubers Bret <lb/> vnd laß kalt werden <lb/> laß den Most weiter sieden <lb/> biß er dick wirt <lb/> laß jn darnach kalt werden <lb/> streichs mit braunem Senff durch <lb/> thu alsdenn die gesottenen Birn darein <lb/> so wirt es gut vnnd wolgeschmack. Wiltu aber ein guten Senff <lb/> so stoß Aniß vnnd Coriander durcheinander <lb/> streichs durch mit braunem Senffmehl <lb/> vnd süssen gesottenem Wein <lb/> so wirt es gut vnnd wolgeschmack.</p>
+        <p> Seudt Birn in süssem <objectName ref="most">Most</objectName> <lb/> thu sie auß auff ein saubers Bret <lb/> vnd laß kalt werden <lb/> laß den <objectName ref="most">Most</objectName> weiter sieden <lb/> biß er dick wirt <lb/> laß jn darnach kalt werden <lb/> streichs mit braunem Senff durch <lb/> thu alsdenn die gesottenen Birn darein <lb/> so wirt es gut vnnd wolgeschmack. Wiltu aber ein guten Senff <lb/> so stoß Aniß vnnd Coriander durcheinander <lb/> streichs durch mit braunem Senffmehl <lb/> vnd süssen gesottenem <objectName ref="wein">Wein</objectName> <lb/> so wirt es gut vnnd wolgeschmack. </p>
             </div>
         </body>
     </text>

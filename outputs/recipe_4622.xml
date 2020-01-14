@@ -167,9 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>FOrmiret von einem abgetrockneten Marzepan= Teig <lb/> Grengeln oder Bretzeln <lb/> und bachet sie gelblicht ; eisets dann <lb/> streuet einen gröblichten Zucker darauf <lb/> und lassets im Oefelein abtrocknen. <gap/>
-
-<gap/> Auf diese Weise kan man auch Eyer= ringlein und Speck= küchlein machen <lb/> und zwar die Speck= küchlein mit vier= eckicht= geschnittenen Mandeln <lb/> oder Mandel= Teig <lb/> schön ordentlich belegen <lb/> und ein wenig bachen lassen <lb/> doch nicht zu braun ; hernach mit einem Ey bestreichen <lb/> gröblichten Zucker <lb/> mit Anis vermischt <lb/> darauf streuen <lb/> und folgends bachen lassen.</p>
+        <p> FOrmiret von einem abgetrockneten Marzepan= <objectName ref="teig">Teig</objectName> <lb/> Grengeln oder Bretzeln <lb/> und bachet sie gelblicht; eisets dann <lb/> streuet einen gröblichten <objectName ref="zucker">Zucker</objectName> darauf <lb/> und lassets im Oefelein abtrocknen. <gap/> <gap/> Auf diese Weise kan man auch Eyer= ringlein und Speck= küchlein machen <lb/> und zwar die Speck= küchlein mit vier= eckicht= geschnittenen <objectName ref="mandeln">Mandeln</objectName> <lb/> oder Mandel= <objectName ref="teig">Teig</objectName> <lb/> schön ordentlich belegen <lb/> und ein wenig bachen lassen <lb/> doch nicht zu braun; hernach mit einem Ey bestreichen <lb/> gröblichten <objectName ref="zucker">Zucker</objectName> <lb/> mit <objectName ref="anis">Anis</objectName> vermischt <lb/> darauf streuen <lb/> und folgends bachen lassen. </p>
             </div>
         </body>
     </text>

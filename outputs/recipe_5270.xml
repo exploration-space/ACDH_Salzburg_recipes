@@ -171,10 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAche einen abgetriebenen Krebs= Butter in einer Schüssel <lb/> oder mache gleich mit klein= gehackten Zwibel <lb/> gerösten Semmel= Brosen zimlich fett mit Krebs= Butter; dann nimm  klein= gestossne Mandlen <lb/> Eyer= Käß <lb/> Eyer und Ram untereinander <lb/> daß ein rechter Knödlein= Taig wird <lb/> jedoch schön roth von Farb <lb/> auch nicht gar zu dünn <lb/> so ist er auch fertig und gut in die Hünlein und allerhand Füll.
-
-Aus disen z. obbeschriebenen Krebs= Taigen macht man vielerley Ding: als gefüllte Krebs <lb/> dergleichen Knödlein <lb/> und allerhand Strützlein <lb/> Schöttlein <lb/> Würstlein und Füll= Werck; absonderlich aber die nachfolgende Pastetlein <lb/> wie folget:
-</p>
+        <p> MAche einen abgetriebenen Krebs= <objectName ref="butter">Butter</objectName> in einer <objectName ref="schuessel">Schüssel</objectName> <lb/> oder mache gleich mit klein= gehackten Zwibel <lb/> gerösten Semmel= Brosen zimlich <objectName ref="fett">fett</objectName> mit Krebs= <objectName ref="butter">Butter</objectName>; dann nimm klein= gestossne Mandlen <lb/> Eyer= Käß <lb/> Eyer und Ram untereinander <lb/> daß ein rechter Knödlein= Taig wird <lb/> jedoch schön roth von Farb <lb/> auch nicht gar zu dünn <lb/> so ist er auch fertig und gut in die Hünlein und allerhand Füll. Aus disen z. obbeschriebenen Krebs= Taigen macht man vielerley Ding : als gefüllte Krebs <lb/> dergleichen Knödlein <lb/> und allerhand Strützlein <lb/> Schöttlein <lb/> Würstlein und Füll= Werck; absonderlich aber die nachfolgende Pastetlein <lb/> wie folget : </p>
             </div>
         </body>
     </text>

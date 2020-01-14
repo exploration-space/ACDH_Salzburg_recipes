@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim ein pfundt rohter Rosen <lb/> vnd 1. pfundt Zu= cker <lb/> stoß vntereinander <lb/> setze es an die Sonnen <lb/> laß eine geraume zeit stehen <lb/> erkühlet sehr <lb/> vnd ist gut dem Herzen vnd Haupt.</p>
+        <p> Nim ein pfundt rohter <objectName ref="rosen">Rosen</objectName> <lb/> vnd 1. pfundt Zu= cker <lb/> stoß vntereinander <lb/> setze es an die Sonnen <lb/> laß eine geraume zeit stehen <lb/> erkühlet sehr <lb/> vnd ist gut dem Herzen vnd Haupt. </p>
             </div>
         </body>
     </text>

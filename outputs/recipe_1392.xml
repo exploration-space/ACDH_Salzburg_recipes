@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>wasche den fisch sauber ab, gieß<gap/> über die <lb/> Lebendigen fisch 2 mahl den heisßen<gap/> esßig ab, <lb/> also daß die briehe<gap/> über den fisch aufgeth, laß <lb/> den fisch noch ein waller<gap/> thun, ist ferchtig. <lb/><lb/> (78r)</p>
+        <p> wasche den <objectName ref="fisch">fisch</objectName> sauber ab, gieß<gap/> über die <lb/> Lebendigen <objectName ref="fisch">fisch</objectName> 2 mahl den heisßen<gap/> esßig ab, <lb/> also daß die briehe<gap/> über den <objectName ref="fisch">fisch</objectName> aufgeth, laß <lb/> den <objectName ref="fisch">fisch</objectName> noch ein waller<gap/> thun, ist ferchtig. <lb/><lb/> ( 78r ) </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Imber, Pfeffer, Nägl, Roßmarin, <lb/> Salue, vnnd Petersill. <lb/></p>
+        <p> Nimb Imber, <objectName ref="pfeffer">Pfeffer</objectName>, Nägl, Roßmarin, <lb/> Salue, vnnd Petersill. <lb/> </p>
             </div>
         </body>
     </text>

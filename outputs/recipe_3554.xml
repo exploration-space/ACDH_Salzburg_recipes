@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm gescheelte und klein= geschnittene Aepffel <lb/> röste sie in Butter <lb/> mit Zucker und Zimmet süß gemacht <lb/> fülls in die Dorten <lb/> und vermachs mit dem Ausschnitt <lb/> bache es <lb/> und gibs.</p>
+        <p> NImm gescheelte und klein= geschnittene Aepffel <lb/> röste sie in <objectName ref="butter">Butter</objectName> <lb/> mit <objectName ref="zucker">Zucker</objectName> und Zimmet süß gemacht <lb/> fülls in die Dorten <lb/> und vermachs mit dem Ausschnitt <lb/> bache es <lb/> und gibs. </p>
             </div>
         </body>
     </text>

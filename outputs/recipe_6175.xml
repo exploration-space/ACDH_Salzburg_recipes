@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Du kanst auß der Leber auch ein Muß machen.</p>
+        <p> Du kanst auß der <objectName ref="leber">Leber</objectName> auch ein Muß machen. </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb die khlar vnd Rämb, hakhs khlein, vnd etlich gestossne Mandl, <lb/> spridls undereinander ab, Nimb Puter vnd Zitronÿ schellen, schneids khlain <lb/> gewürfflet, rests ein Wenig in Wein, vnd nimb ein süsse fleischbrie, <lb/> Zimet vnd Mußcatblie drein, laß undereinander sieden, geuß herab <lb/> ÿber das brät, Eß seÿ Wildtbrät, oder Was für ains Wöll. <lb/></p>
+        <p> Nimb die khlar vnd Rämb, hakhs khlein, vnd etlich gestossne Mandl, <lb/> spridls undereinander ab, Nimb Puter vnd Zitronÿ schellen, schneids khlain <lb/> gewürfflet, rests ein Wenig in <objectName ref="wein">Wein</objectName>, vnd nimb ein süsse fleischbrie, <lb/> Zimet vnd Mußcatblie drein, laß undereinander sieden, geuß herab <lb/> ÿber das brät, Eß seÿ Wildtbrät, oder Was für ains Wöll. <lb/> </p>
             </div>
         </body>
     </text>

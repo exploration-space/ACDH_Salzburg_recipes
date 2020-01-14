@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb <lb/> Weinn, Esßig, nimb .3. lemonny, stoß zu <lb/> ainem gemüeß in ainen Mörßer, streichs <lb/> durch vndter die Supen, sez aufs feüer, <lb/> laß die Supen auf sieden, darnach zeuch den <lb/> Ahll an, vnd laß sieden, wan er halb gesotn <lb/> ist, gewürz ab mit Imber, Pfeffer, zugger, <lb/> gilbs woll, Salz nit hart, laß die Supen <lb/> Woll ein sieden. <lb/></p>
+        <p> Nimb <lb/> <objectName ref="wein">Weinn</objectName>, Esßig, nimb.3. lemonny, stoß zu <lb/> ainem gemüeß in ainen Mörßer, streichs <lb/> durch vndter die Supen, sez aufs feüer, <lb/> laß die Supen auf sieden, darnach zeuch den <lb/> Ahll an, vnd laß sieden, wan er halb gesotn <lb/> ist, gewürz ab mit Imber, <objectName ref="pfeffer">Pfeffer</objectName>, zugger, <lb/> gilbs woll, <objectName ref="salz">Salz</objectName> nit hart, laß die Supen <lb/> Woll ein sieden. <lb/> </p>
             </div>
         </body>
     </text>

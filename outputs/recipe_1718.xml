@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>(60v) Mach ain Taig in ainner Haissen Millich <lb/> zu ainner Pfannen ob ainner gluet, so hart <lb/> du magst, thue darnach ayr darein, <lb/> vnd mach in also dün wie ain dikhe brüe, <lb/> mach ein loch in ein Häfelein aines gueten <lb/> fingers groß, thue den taig in am Khielln <lb/> schmalz, laß es langsamb bachen. <lb/></p>
+        <p> ( 60v ) Mach ain Taig in ainner Haissen Millich <lb/> zu ainner Pfannen ob ainner gluet, so hart <lb/> du magst, thue darnach ayr darein, <lb/> vnd mach in also dün wie ain dikhe brüe, <lb/> mach ein loch in ein <objectName ref="haefelein">Häfelein</objectName> aines gueten <lb/> fingers groß, thue den taig in am Khielln <lb/> <objectName ref="schmalz">schmalz</objectName>, laß es langsamb bachen. <lb/> </p>
             </div>
         </body>
     </text>

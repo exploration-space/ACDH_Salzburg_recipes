@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Die Weixl siet<gap/> sye in <lb/> Wasser, vnnd thue die Weixl aus <lb/> fislen<gap/>, hernach Pren<gap/> es mit den <lb/> seml Preßl<gap/> ein, vnnd thue es <lb/> in halb wein vnd halb Wasser, <lb/> oder Weixl Prie<gap/>, Daruon giessen<gap/>, <lb/> lass also siedten<gap/>, Nimb Zimet <lb/> stup<gap/>, Zuckher, vnnd Nägl stup<gap/>, <lb/> also ist es Recht, von Den Zwöspen<gap/> <lb/> khanst es auch olso machen <lb/></p>
+        <p> Nimb Die Weixl siet<gap/> sye in <lb/> <objectName ref="wasser">Wasser</objectName>, vnnd thue die Weixl aus <lb/> fislen<gap/>, hernach Pren<gap/> es mit den <lb/> seml Preßl<gap/> ein, vnnd thue es <lb/> in halb <objectName ref="wein">wein</objectName> vnd halb <objectName ref="wasser">Wasser</objectName>, <lb/> oder Weixl Prie<gap/>, Daruon giessen<gap/>, <lb/> lass also siedten<gap/>, Nimb Zimet <lb/> stup<gap/>, Zuckher, vnnd Nägl stup<gap/>, <lb/> also ist es Recht, von Den Zwöspen<gap/> <lb/> khanst es auch olso machen <lb/> </p>
             </div>
         </body>
     </text>

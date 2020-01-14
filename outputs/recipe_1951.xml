@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>So thue ein Wasser in ein pfan, salz es Woll, vnd leg ein <lb/> Wenig schmalz drein, vnd laß Wallen, vnd khoch ein schens <lb/> Mell drein, das dikh wird wie ein dikher sterz, darnach <lb/> nimb aÿr vnd schlags drein, als vill das er Wird wie ein <lb/><lb/> (13r) Prandtaig, böhr ihn fast Woll, das er nit khnollet Wird, <lb/> darnach nimb ein schmalz in ein pfan, vnd laß haiß Werden, <lb/> schlag die khüchl drein, sez auf ein gluet, bachs khiel, so <lb/> Werdens gar guet rogl vnd ring, so dus anrichst, so Säe Zugger <lb/> drauf, vergiß Salz nit. <lb/>s</p>
+        <p> So thue ein <objectName ref="wasser">Wasser</objectName> in ein pfan, <objectName ref="salz">salz</objectName> es Woll, vnd leg ein <lb/> Wenig <objectName ref="schmalz">schmalz</objectName> drein, vnd laß Wallen, vnd khoch ein schens <lb/> Mell drein, das dikh wird wie ein dikher sterz, darnach <lb/> nimb aÿr vnd schlags drein, als vill das er Wird wie ein <lb/><lb/> ( 13r ) Prandtaig, böhr ihn fast Woll, das er nit khnollet Wird, <lb/> darnach nimb ein <objectName ref="schmalz">schmalz</objectName> in ein pfan, vnd laß haiß Werden, <lb/> schlag die khüchl drein, sez auf ein gluet, bachs khiel, so <lb/> Werdens gar guet rogl vnd ring, so dus anrichst, so Säe Zugger <lb/> drauf, vergiß <objectName ref="salz">Salz</objectName> nit. /s </p>
             </div>
         </body>
     </text>

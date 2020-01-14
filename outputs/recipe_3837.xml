@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>PErschling seynd auch gut auf diese Weiß <lb/> in Eßig und Wasser <lb/> mit Gewürtz <lb/> Zwibel <lb/> Knoblauch <lb/> Lorbeer= Blätter <lb/> Lemoni und Rosmarin <lb/> mit Oel gesotten <lb/> und damit angericht.</p>
+        <p> PErschling seynd auch gut auf diese Weiß <lb/> in Eßig und <objectName ref="wasser">Wasser</objectName> <lb/> mit Gewürtz <lb/> Zwibel <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> Lorbeer= Blätter <lb/> Lemoni und <objectName ref="rosmarin">Rosmarin</objectName> <lb/> mit Oel gesotten <lb/> und damit angericht. </p>
             </div>
         </body>
     </text>

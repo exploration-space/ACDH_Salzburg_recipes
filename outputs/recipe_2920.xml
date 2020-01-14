@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Der wilde oder Feld= Cichori ebenmäßig zum Salat.</p>
+        <p> Der wilde oder Feld= Cichori ebenmäßig zum <objectName ref="salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

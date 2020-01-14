@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Take a Rabbet, cut it in Pieces, and grate a little Nutmeg upon it, or Lemon-peel; fry it quick and brown with Butter; then have some strong Broth, in which put Morels and Mushrooms, a few Cocks Combs boil'd tender, Artichoke Bottoms, a little Walnut Liquor, and a Bay-leaf; then roll a Bit of Butter on Flour; shake it well, and serve it up.</p>
+        <p> Take a Rabbet, cut it in Pieces, and grate a little Nutmeg upon it, or Lemon-peel; fry it quick and brown with <objectName ref="butter">Butter</objectName>; then have some strong Broth, in which put Morels and Mushrooms, a few Cocks Combs boil 'd tender, Artichoke Bottoms, a little Walnut Liquor, and a Bay-leaf; then roll a Bit of <objectName ref="butter">Butter</objectName> on Flour; shake it well, and serve it up. </p>
             </div>
         </body>
     </text>

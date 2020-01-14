@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChählet gute Birn so viel ihr wolt <lb/> holet sie aus; hacket das heraus= geschnittene zimlich klein <lb/> streuet hernach Zimmet und Zucker daran <lb/> füllets wieder hinein <lb/> kehrets im Mehl um <lb/> und bachets schön rösch ab: so ihr aber das Birn= Gehäck nicht gern einfüllen wollet <lb/> so bedienet euch hierzu geriebener mit Zucker angemachter Mandeln <lb/> und machet eine Weinbrüh darüber.</p>
+        <p> SChählet gute Birn so viel ihr wolt <lb/> holet sie aus; hacket das heraus= geschnittene zimlich klein <lb/> streuet hernach Zimmet und <objectName ref="zucker">Zucker</objectName> daran <lb/> füllets wieder hinein <lb/> kehrets im <objectName ref="mehl">Mehl</objectName> um <lb/> und bachets schön rösch ab : so ihr aber das Birn= <objectName ref="gehaeck">Gehäck</objectName> nicht gern einfüllen wollet <lb/> so bedienet euch hierzu geriebener mit <objectName ref="zucker">Zucker</objectName> angemachter <objectName ref="mandeln">Mandeln</objectName> <lb/> und machet eine Weinbrüh darüber. </p>
             </div>
         </body>
     </text>

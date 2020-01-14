@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb die gebuzte<gap/> Hiener, zerdeill sie, vnd lögs<gap/> <lb/> in ain frisch Wasser, thues widter herauß, Salz ein, <lb/> söz Putter<gap/> yber vnd laß ihm haiß<gap/> werden, löge<gap/> die <lb/> hienner darein, pinde ein Pischl<gap/> Pettersill<gap/> Khreitl, <lb/> zamb, thues darein laß die hienner resten<gap/>, biß <lb/> ein wenig liecht<gap/> braun seindt, schitte<gap/> wein dar= <lb/> =an vnd Fleischprie<gap/>, gewierz<gap/> laß sieden<gap/>, wanst <lb/> es anrichten<gap/> thuest, so nimb .2. ayr<gap/> dotter<gap/> darein, <lb/> vnd druckh<gap/> ein halben lemany<gap/> drein. <lb/></p>
+        <p> Nimb die gebuzte<gap/> Hiener, zerdeill sie, vnd lögs<gap/> <lb/> in ain frisch <objectName ref="wasser">Wasser</objectName>, thues widter herauß, <objectName ref="salz">Salz</objectName> ein, <lb/> söz Putter<gap/> yber vnd laß ihm haiß<gap/> werden, löge<gap/> die <lb/> hienner darein, pinde ein Pischl<gap/> Pettersill<gap/> Khreitl, <lb/> zamb, thues darein laß die hienner resten<gap/>, biß <lb/> ein wenig liecht<gap/> braun seindt, schitte<gap/> <objectName ref="wein">wein</objectName> dar= <lb/> =an vnd Fleischprie<gap/>, gewierz<gap/> laß sieden<gap/>, wanst <lb/> es anrichten<gap/> thuest, so nimb.2. ayr<gap/> dotter<gap/> darein, <lb/> vnd druckh<gap/> ein halben lemany<gap/> drein. <lb/> </p>
             </div>
         </body>
     </text>

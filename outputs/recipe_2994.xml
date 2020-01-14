@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIto <lb/> also gesotten in gelber Erbes= oder Butter= Brühe <lb/> in Pfeffer und Muscatnuß.</p>
+        <p> DIto <lb/> also gesotten in gelber Erbes= oder Butter= <objectName ref="bruehe">Brühe</objectName> <lb/> in <objectName ref="pfeffer">Pfeffer</objectName> und Muscatnuß. </p>
             </div>
         </body>
     </text>

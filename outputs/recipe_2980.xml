@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MElonen gibt man meist gleich gantzer <lb/> ungescheelter <lb/> nebst geriebnen Zucker zu Tisch <lb/> allda man sie nach Belieben Schnitz= weiß heraus schneidt <lb/> scheelet <lb/> und mit Zucker bestreut isset.</p>
+        <p> <objectName ref="melonen">MElonen</objectName> gibt man meist gleich gantzer <lb/> ungescheelter <lb/> nebst geriebnen <objectName ref="zucker">Zucker</objectName> zu <objectName ref="tisch">Tisch</objectName> <lb/> allda man sie nach Belieben Schnitz= weiß heraus schneidt <lb/> scheelet <lb/> und mit <objectName ref="zucker">Zucker</objectName> bestreut isset. </p>
             </div>
         </body>
     </text>

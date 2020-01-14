@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Vögel grün eyngemacht <lb/> mit grün Pettersilgen <lb/> die gesotten <lb/> vnnd mit einem gebehten Weck durchgestrichen <lb/> pfeffers <lb/> vnnd machs gelb <lb/> vnnd laß sieden <lb/> so wirt es gut vnd wolgeschmack.</p>
+        <p> <objectName ref="voegel">Vögel</objectName> grün eyngemacht <lb/> mit grün Pettersilgen <lb/> die gesotten <lb/> vnnd mit einem gebehten Weck durchgestrichen <lb/> pfeffers <lb/> vnnd machs gelb <lb/> vnnd laß sieden <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

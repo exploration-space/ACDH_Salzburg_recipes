@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>POmerantzen zu dünnen und breiten Rädlein oder Blatten geschnitten <lb/> auf die Schaalen gericht <lb/> mit Zucker wol süß gemacht <lb/> dann mit dergleichen ausgelößten Spalten <lb/> Sultzen <lb/> und andern eingemachten Früchten geziert.</p>
+        <p> POmerantzen zu dünnen und breiten <objectName ref="raedlein">Rädlein</objectName> oder Blatten geschnitten <lb/> auf die Schaalen gericht <lb/> mit <objectName ref="zucker">Zucker</objectName> wol süß gemacht <lb/> dann mit dergleichen ausgelößten Spalten <lb/> Sultzen <lb/> und andern eingemachten <objectName ref="fruechte">Früchten</objectName> geziert. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn die Krebs in Wasser mit Saltz und Pfeffer abgesotten worden <lb/> so nimm das Bittere aus der Nase heraus <lb/> und stosse das andere miteinander klein; treibs mit einer Hüner= Brüh durch ein härines Sieblein; röste hernach geriebenes Eyer= Brod oder Semmelmehl in Butter <lb/> rühre es mit dem durchgetriebenen ab <lb/> würtze es mit gut und scharffen Gewürtz <lb/> laß ein Stuck Butter darinnen aufsieden <lb/> richte es an <lb/> und trags zu Tisch.</p>
+        <p> WAnn die Krebs in <objectName ref="wasser">Wasser</objectName> mit Saltz und <objectName ref="pfeffer">Pfeffer</objectName> abgesotten worden <lb/> so nimm das Bittere aus der Nase heraus <lb/> und stosse das andere miteinander klein; treibs mit einer Hüner= Brüh durch ein härines Sieblein; röste hernach geriebenes Eyer= Brod oder <objectName ref="semmelmehl">Semmelmehl</objectName> in <objectName ref="butter">Butter</objectName> <lb/> rühre es mit dem durchgetriebenen ab <lb/> würtze es mit gut und scharffen Gewürtz <lb/> laß ein Stuck <objectName ref="butter">Butter</objectName> darinnen aufsieden <lb/> richte es an <lb/> und trags zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Zu diesem nimm ein halb gar gute süsse Milch <lb/> schlag darein vier frische Eyer <lb/> nimm drey oder vier Löffelvoll schönes Meel <lb/> sprittles darinn <lb/> zuckers wol <lb/> gieß in ein Rein <lb/> setz auf ein Glut <lb/> rührs stets <lb/> biß daß es dick wird <lb/> wanns dick und schön glat ist <lb/> leg ein Blätlein oder Hafen=Deck mit Glut darauf <lb/> leg aber vorher ein Stücklein Butter darauf <lb/> wanns schön braun ist <lb/> gibs geschwind warm.</p>
+        <p> Zu diesem nimm ein halb gar gute süsse <objectName ref="milch">Milch</objectName> <lb/> schlag darein vier frische Eyer <lb/> nimm drey oder vier Löffelvoll schönes Meel <lb/> sprittles darinn <lb/> zuckers wol <lb/> gieß in ein <objectName ref="rein">Rein</objectName> <lb/> setz auf ein <objectName ref="glut">Glut</objectName> <lb/> rührs stets <lb/> biß daß es dick wird <lb/> wanns dick und schön glat ist <lb/> leg ein Blätlein oder Hafen=Deck mit <objectName ref="glut">Glut</objectName> darauf <lb/> leg aber vorher ein Stücklein <objectName ref="butter">Butter</objectName> darauf <lb/> wanns schön braun ist <lb/> gibs geschwind warm. </p>
             </div>
         </body>
     </text>

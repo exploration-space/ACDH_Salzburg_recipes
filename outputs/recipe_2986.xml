@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BOhnen seynd auch gut <lb/> dick gesotten <lb/> und mit fetter brauner Jus gemacht <lb/> wie man die Linsen kocht.</p>
+        <p> <objectName ref="bohnen">BOhnen</objectName> seynd auch gut <lb/> dick gesotten <lb/> und mit fetter brauner <objectName ref="jus">Jus</objectName> gemacht <lb/> wie man die <objectName ref="linsen">Linsen</objectName> kocht. </p>
             </div>
         </body>
     </text>

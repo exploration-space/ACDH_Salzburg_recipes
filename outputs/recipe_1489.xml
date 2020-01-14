@@ -177,11 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIese wird gemacht <lb/> als wie von einem gezupfften Hechten; bißweilen wird er ungebrüheter ausgedruckt und eingeschlagen <lb/> mit dem zugehörigen Saltz <lb/> Butter und Gewürtz <lb/> und gehört in aufgesetzte <lb/> mürbe <lb/> und Schüssel=Pasteten; hier sollen wegen der Feuchtigkeit <lb/> Semmel=Brosen in den Boden gelegt werden; Oder <lb/> nachdem der Stockfisch sauber gewässert und gebrühet ist <lb/> auch abgesigen <lb/> so wird er sauber geklaubt und geblättert <lb/> mit Zwibel <lb/> Lemoni <lb/> seinen Gewürtz und Butter eingericht.
-
-Item <lb/> er wird auch mit Capri <lb/> Sartellen <lb/> Austern <lb/> Dardoffeln <lb/> wenig dicken Ram <lb/> Butter und Gewürtz angemachet <lb/> und in eine Schüssel <lb/> oder andere seine Pasteten gefüllt <lb/> und der obigen gleich gebachen; Also wird auch der gezupffte und geblätterte Hecht gemacht.
-
-NB. Die Krebs=Pasteten findt man hinten bey dergleichen beschriebenen Dorten.</p>
+        <p> DIese wird gemacht <lb/> als wie von einem gezupfften Hechten; bißweilen wird er ungebrüheter ausgedruckt und eingeschlagen <lb/> mit dem zugehörigen Saltz <lb/> <objectName ref="butter">Butter</objectName> und Gewürtz <lb/> und gehört in aufgesetzte <lb/> mürbe <lb/> und Schüssel=Pasteten; hier sollen wegen der Feuchtigkeit <lb/> Semmel=Brosen in den Boden gelegt werden; Oder <lb/> nachdem der <objectName ref="stockfisch">Stockfisch</objectName> sauber gewässert und gebrühet ist <lb/> auch abgesigen <lb/> so wird er sauber geklaubt und geblättert <lb/> mit Zwibel <lb/> Lemoni <lb/> seinen Gewürtz und <objectName ref="butter">Butter</objectName> eingericht. Item <lb/> er wird auch mit Capri <lb/> Sartellen <lb/> <objectName ref="austern">Austern</objectName> <lb/> Dardoffeln <lb/> wenig dicken Ram <lb/> <objectName ref="butter">Butter</objectName> und Gewürtz angemachet <lb/> und in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> oder andere seine <objectName ref="pastete">Pasteten</objectName> gefüllt <lb/> und der obigen gleich gebachen; Also wird auch der gezupffte und geblätterte <objectName ref="hecht">Hecht</objectName> gemacht. NB. Die Krebs=Pasteten findt man hinten bey dergleichen beschriebenen Dorten. </p>
             </div>
         </body>
     </text>

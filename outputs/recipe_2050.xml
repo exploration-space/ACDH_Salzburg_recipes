@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb den Mußcatell, vnd Wermb ihn ein Wenig, nimb <lb/> darnach etlich Aÿr doter, spridls undereinander, vnd <lb/> Salz gar ein wenig, vnd Zukhers, laß gemach sieden, <lb/> spridls offt, das nit hart Wird, vnd richts auf ein schißl, <lb/> gibs Warm oder khalt auf den Tisch. <lb/></p>
+        <p> Nimb den Mußcatell, vnd Wermb ihn ein Wenig, nimb <lb/> darnach etlich Aÿr doter, spridls undereinander, vnd <lb/> <objectName ref="salz">Salz</objectName> gar ein wenig, vnd Zukhers, laß gemach sieden, <lb/> spridls offt, das nit hart Wird, vnd richts auf ein schißl, <lb/> gibs Warm oder khalt auf den <objectName ref="tisch">Tisch</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

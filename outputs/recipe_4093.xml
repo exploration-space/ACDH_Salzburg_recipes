@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm klar= gerieben weiß Brod <lb/> schlag Eyer nach Nothdurfft daran <lb/> gewürtz mit geriebener Muscatnuß <lb/> so es beliebt <lb/> klein= gehackten Petersil= Kraut <lb/> sammt ein wenig frischen Butter und Saffran <lb/> rühre eine gute siedige Hüner= oder Fleischbrühe daran <lb/> und laß gemach aufsieden <lb/> gib acht daß nicht anbrennt <lb/> mach es recht in Saltz auch nicht gar zu dick <lb/> so ist es fertig.</p>
+        <p> NImm klar= gerieben weiß Brod <lb/> schlag Eyer nach Nothdurfft daran <lb/> gewürtz mit geriebener Muscatnuß <lb/> so es beliebt <lb/> klein= gehackten Petersil= <objectName ref="kraut">Kraut</objectName> <lb/> sammt ein wenig frischen <objectName ref="butter">Butter</objectName> und Saffran <lb/> rühre eine gute siedige Hüner= oder <objectName ref="fleischbruehe">Fleischbrühe</objectName> daran <lb/> und laß gemach aufsieden <lb/> gib acht daß nicht anbrennt <lb/> mach es recht in Saltz auch nicht gar zu dick <lb/> so ist es fertig. </p>
             </div>
         </body>
     </text>

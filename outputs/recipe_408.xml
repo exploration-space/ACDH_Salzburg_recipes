@@ -170,9 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimbe den hausen<gap/> Rogen Wasch ihn <lb/> sauber aus, Nimbe halb Wein vnnd <lb/> halb essig in einen Pfannen<gap/> salz <lb/> ihn Wann es siedt<gap/> so löge den Rogen <lb/> Darein, lass ihn so lang siedten<gap/> <lb/> als ein Khölbers<gap/> fleisch faimb<gap/> ihn sauber <lb/> ab, thue ihn auf ein schisßl<gap/> so thue ihn <lb/> mit einen Mösser ein wönig von <lb/> einander Druckhe von einen halben <lb/> lemony<gap/> den safft Darauf, schneidt <lb/> auch ein Gluet<gap/> so Döckhe ihn Zue lass <lb/> ihn ein bar sitl<gap/> thuen löge Grinnes<gap/> <lb/> pettersill Khraut Darauf gib ihn <lb/> Geschwindt olso ist er Recht vnd Guett. <lb/>
-
-[Anm.: Es ist nicht verständlich, was mit „schneidt auch ein Gluet“ gemeint ist.]</p>
+        <p> Nimbe den hausen<gap/> Rogen Wasch ihn <lb/> sauber aus, Nimbe halb <objectName ref="wein">Wein</objectName> vnnd <lb/> halb <objectName ref="essig">essig</objectName> in einen Pfannen<gap/> <objectName ref="salz">salz</objectName> <lb/> ihn Wann es siedt<gap/> so löge den Rogen <lb/> Darein, lass ihn so lang siedten<gap/> <lb/> als ein Khölbers<gap/> <objectName ref="fleisch">fleisch</objectName> faimb<gap/> ihn sauber <lb/> ab, thue ihn auf ein schisßl<gap/> so thue ihn <lb/> mit einen Mösser ein wönig von <lb/> einander Druckhe von einen halben <lb/> lemony<gap/> den safft Darauf, schneidt <lb/> auch ein Gluet<gap/> so Döckhe ihn Zue lass <lb/> ihn ein bar sitl<gap/> thuen löge Grinnes<gap/> <lb/> pettersill Khraut Darauf gib ihn <lb/> Geschwindt olso ist er Recht vnd Guett. <lb/> [ Anm. : Es ist nicht verständlich, was mit „ schneidt auch ein Gluet “ gemeint ist. ] </p>
             </div>
         </body>
     </text>

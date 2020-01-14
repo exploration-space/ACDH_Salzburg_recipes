@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Geräucherten Salm kan mach auch zurichten mit Erbsbrüh <lb/> Pettersilgen Wurtzel <lb/> vnd frischer Butter <lb/> die vnzerlassen ist <lb/> oder mit Spenat.</p>
+        <p> Geräucherten Salm kan mach auch zurichten mit Erbsbrüh <lb/> Pettersilgen Wurtzel <lb/> vnd frischer <objectName ref="butter">Butter</objectName> <lb/> die vnzerlassen ist <lb/> oder mit Spenat. </p>
             </div>
         </body>
     </text>

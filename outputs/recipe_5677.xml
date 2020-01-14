@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIeses Mus wird fast eben auf diese Art gemacht <lb/> wie das jenige so von denen Pflaumen bereits Num. 67. beschrieben worden : Man siedet nemlich die Weixeln im Wein <lb/> zwingt selbige durch <lb/> röstet ein geriebenes Rocken= Brod im Wein <lb/> schüttet die durch= gezwungene Weixel= Brüh darüber <lb/> zuckerts ein wenig <lb/> und lästs noch einmal aufsieden <lb/> richtets dann in eine Schüssel <lb/> und streuet Zucker <lb/> oder auch <lb/> so man will <lb/> Zimmet darauf.</p>
+        <p> DIeses Mus wird fast eben auf diese Art gemacht <lb/> wie das jenige so von denen <objectName ref="pflaumen">Pflaumen</objectName> bereits Num. 67. beschrieben worden : Man siedet nemlich die Weixeln im <objectName ref="wein">Wein</objectName> <lb/> zwingt selbige durch <lb/> röstet ein geriebenes Rocken= Brod im <objectName ref="wein">Wein</objectName> <lb/> schüttet die durch= gezwungene Weixel= Brüh darüber <lb/> zuckerts ein wenig <lb/> und lästs noch einmal aufsieden <lb/> richtets dann in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und streuet <objectName ref="zucker">Zucker</objectName> <lb/> oder auch <lb/> so man will <lb/> Zimmet darauf. </p>
             </div>
         </body>
     </text>

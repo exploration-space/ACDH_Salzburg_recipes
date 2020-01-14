@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DArzu soll man klein= bereitete Mandel nehmen <lb/> auch geribne Semmel <lb/> zwey Eyerdotter <lb/> und einen Löffelvoll obere süsse Milch <lb/> und ein frischen Butter <lb/> alles durcheinander wol abgerührt <lb/> gezuckert <lb/> und fein kühl im Schmaltz bachen <lb/> und ein gutes süsses Süppel darüber gemacht.</p>
+        <p> DArzu soll man klein= bereitete Mandel nehmen <lb/> auch geribne Semmel <lb/> zwey Eyerdotter <lb/> und einen Löffelvoll obere süsse <objectName ref="milch">Milch</objectName> <lb/> und ein frischen <objectName ref="butter">Butter</objectName> <lb/> alles durcheinander wol abgerührt <lb/> gezuckert <lb/> und fein kühl im Schmaltz bachen <lb/> und ein gutes süsses Süppel darüber gemacht. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ERstlich thue ein wenig Bach= Schmalz in einen stollichten Hafen <lb/> dann schäle die Aepffel <lb/> und schneide sie fein dünn <lb/> wie man die Quitten zu einer Latwergen zu zerschneiden pfleget <lb/> und zwar auf das Bachschmaltz in besagtem Hafen <lb/> gieß ein wenig Wasser daran <lb/> setz es in eine Glut und laß wacker sieden ; wann sie nun gesotten haben <lb/> rührt man sie ab und zuckerts viel oder wenig <lb/> nachdeme mans süß oder zengericht haben will <lb/> und richtets also an : oben auf wird es noch einmal gezuckert <lb/> oder aber ein Trisanet darauf gestreuet.</p>
+        <p> ERstlich thue ein wenig Bach= <objectName ref="schmalz">Schmalz</objectName> in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> dann schäle die Aepffel <lb/> und schneide sie fein dünn <lb/> wie man die <objectName ref="quitten">Quitten</objectName> zu einer <objectName ref="latwerge">Latwergen</objectName> zu zerschneiden pfleget <lb/> und zwar auf das Bachschmaltz in besagtem <objectName ref="hafen">Hafen</objectName> <lb/> gieß ein wenig <objectName ref="wasser">Wasser</objectName> daran <lb/> setz es in eine <objectName ref="glut">Glut</objectName> und laß wacker sieden; wann sie nun gesotten haben <lb/> rührt man sie ab und zuckerts viel oder wenig <lb/> nachdeme mans süß oder zengericht haben will <lb/> und richtets also an : oben auf wird es noch einmal gezuckert <lb/> oder aber ein Trisanet darauf gestreuet. </p>
             </div>
         </body>
     </text>

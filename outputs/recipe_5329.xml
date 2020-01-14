@@ -179,7 +179,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneide dem Spanfärcklein erstlich den Kopff ab <lb/> den Leib aber in vier Theil ; bräune <lb/> diese Stück in Speck <lb/> oder Butter <lb/> gieß daran weissen Wein mit Fleischbrühe einen Zwibel mit Näglein besteckt <lb/> gewürtz mit Pfeffer und Muscatnuß <lb/> und wanns bald gesotten <lb/> so brenns braun ein mit Meel <lb/> leg darzu ausgelöste Austern <lb/> Capry <lb/> und ausgelößte Oliven <lb/> mit Lemoni= Safft und Schelffen <lb/> in rechter Maß <lb/> so ist es gut.</p>
+        <p> SChneide dem Spanfärcklein erstlich den Kopff ab <lb/> den Leib aber in vier Theil; bräune <lb/> diese Stück in <objectName ref="speck">Speck</objectName> <lb/> oder <objectName ref="butter">Butter</objectName> <lb/> gieß daran weissen <objectName ref="wein">Wein</objectName> mit <objectName ref="fleischbruehe">Fleischbrühe</objectName> einen Zwibel mit Näglein besteckt <lb/> gewürtz mit <objectName ref="pfeffer">Pfeffer</objectName> und Muscatnuß <lb/> und wanns bald gesotten <lb/> so brenns braun ein mit Meel <lb/> leg darzu ausgelöste <objectName ref="austern">Austern</objectName> <lb/> Capry <lb/> und ausgelößte <objectName ref="oliven">Oliven</objectName> <lb/> mit Lemoni= Safft und Schelffen <lb/> in rechter <objectName ref="mass">Maß</objectName> <lb/> so ist es gut. </p>
             </div>
         </body>
     </text>

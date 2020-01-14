@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Kleine Waffeln gemacht von Teig <lb/> der mit Rosenwasser <lb/> Zucker <lb/>  vn(n) Eyerdottern <lb/> ist angemacht <lb/> wie vorhin vermeldt ist <lb/> wie man solche Teig machen sol.</p>
+        <p> Kleine Waffeln gemacht von <objectName ref="teig">Teig</objectName> <lb/> der mit <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> vn ( n ) Eyerdottern <lb/> ist angemacht <lb/> wie vorhin vermeldt ist <lb/> wie man solche <objectName ref="teig">Teig</objectName> machen sol. </p>
             </div>
         </body>
     </text>

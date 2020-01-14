@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein schenen Reisch, sez ihn ÿber das Feuer, in einem <lb/> Wasser, laß ihn ein Sud auf thuen, seich ihn ab, Wöhl ein <lb/> guets Rämbl drüber, laß ihn also Woll sieden, vnd <lb/> Zugger ihn, das er gor dikh Wird, bach hernach khiel <lb/> darauß, gibs trukhen, besträs mit Zugger, oder schneid <lb/> langlete Strizl, vnd bachs. <lb/></p>
+        <p> Nimb ein schenen Reisch, sez ihn ÿber das <objectName ref="feuer">Feuer</objectName>, in einem <lb/> <objectName ref="wasser">Wasser</objectName>, laß ihn ein Sud auf thuen, seich ihn ab, Wöhl ein <lb/> guets Rämbl drüber, laß ihn also Woll sieden, vnd <lb/> Zugger ihn, das er gor dikh Wird, bach hernach khiel <lb/> darauß, gibs trukhen, besträs mit Zugger, oder schneid <lb/> langlete Strizl, vnd bachs. <lb/> </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES sind die Hechten <lb/> und alle gebachene Fisch auch gut mit ausgelößten Austern= und Müschelein= Brühe <lb/> mit guter Butter <lb/> Wein <lb/> und Erbsen= Brühe <lb/> oder mit wenig Eßig <lb/> oder Lemoni= Safft <lb/> und so es beliebt <lb/> mit wenig Dardoffeln gemischt ; Item <lb/> dem es beliebt <lb/> der nimmt an statt des Butters gutes Oel.</p>
+        <p> ES sind die Hechten <lb/> und alle gebachene <objectName ref="fisch">Fisch</objectName> auch gut mit ausgelößten Austern= und Müschelein= <objectName ref="bruehe">Brühe</objectName> <lb/> mit guter <objectName ref="butter">Butter</objectName> <lb/> <objectName ref="wein">Wein</objectName> <lb/> und Erbsen= <objectName ref="bruehe">Brühe</objectName> <lb/> oder mit wenig Eßig <lb/> oder Lemoni= Safft <lb/> und so es beliebt <lb/> mit wenig Dardoffeln gemischt; Item <lb/> dem es beliebt <lb/> der nimmt an statt des Butters gutes Oel. </p>
             </div>
         </body>
     </text>

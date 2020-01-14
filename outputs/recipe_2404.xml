@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Ribes oder Johannesbeerlein= Suppe kan auch gantz auf diese Weiß <lb/> wie die jetzt= beschriebene Erdbeer= Suppe <lb/> gemacht werden. Es müssen aber die Beerlein alle von den grünen Stielen zuvor herab geklaubt werden.</p>
+        <p> DIe Ribes oder Johannesbeerlein= <objectName ref="suppe">Suppe</objectName> kan auch gantz auf diese Weiß <lb/> wie die jetzt= beschriebene Erdbeer= <objectName ref="suppe">Suppe</objectName> <lb/> gemacht werden. Es müssen aber die Beerlein alle von den grünen Stielen zuvor herab geklaubt werden. </p>
             </div>
         </body>
     </text>

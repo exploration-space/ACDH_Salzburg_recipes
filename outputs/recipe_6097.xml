@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES wird ein weiß Gehäck <lb/> mit süssen Ram und Rind=Feisten in kleine Pastetlein <lb/> von Butter<lb/> und andern Taig gemacht.</p>
+        <p> ES wird ein weiß <objectName ref="gehaeck">Gehäck</objectName> <lb/> mit süssen Ram und Rind=Feisten in kleine Pastetlein <lb/> von Butter/ und andern Taig gemacht. </p>
             </div>
         </body>
     </text>

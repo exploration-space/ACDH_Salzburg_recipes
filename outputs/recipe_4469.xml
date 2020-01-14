@@ -173,9 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr  Hecht wird geschuppt und aufgemacht <lb/> auf beeden Seiten geritzt und eingesaltzen <lb/> über eine Zeit mit der Hand abgestreifft <lb/> und wohl gewürtzt ; dann vom Brät geschnitten <lb/> mit Zwibeln <lb/> Capry <lb/> Sardellen <lb/> gute Lemoni <lb/> mit <lb/> oder ohne Fäsch ein Bett gemacht <lb/> die Fisch mit frischem Butter darauf gelegt <lb/> und zugemacht ; gebachen <lb/> mit einer gelben <lb/> sauren Brühe gegeben <lb/> und aufgetragen.
-
-Dergleichen Fisch= Speisen können viel in die wohl= vermachte Rein <lb/> oder Casserol eingericht und gedämpft <lb/> dann mit dergleichen durchgetriebnen sauren Brühe gegeben werden.</p>
+        <p> DEr <objectName ref="hecht">Hecht</objectName> wird geschuppt und aufgemacht <lb/> auf beeden Seiten geritzt und eingesaltzen <lb/> über eine Zeit mit der Hand abgestreifft <lb/> und wohl gewürtzt; dann vom Brät geschnitten <lb/> mit Zwibeln <lb/> Capry <lb/> <objectName ref="sardellen">Sardellen</objectName> <lb/> gute Lemoni <lb/> mit <lb/> oder ohne Fäsch ein Bett gemacht <lb/> die <objectName ref="fisch">Fisch</objectName> mit frischem <objectName ref="butter">Butter</objectName> darauf gelegt <lb/> und zugemacht; gebachen <lb/> mit einer gelben <lb/> sauren <objectName ref="bruehe">Brühe</objectName> gegeben <lb/> und aufgetragen. Dergleichen Fisch= Speisen können viel in die wohl= vermachte <objectName ref="rein">Rein</objectName> <lb/> oder Casserol eingericht und gedämpft <lb/> dann mit dergleichen durchgetriebnen sauren <objectName ref="bruehe">Brühe</objectName> gegeben werden. </p>
             </div>
         </body>
     </text>

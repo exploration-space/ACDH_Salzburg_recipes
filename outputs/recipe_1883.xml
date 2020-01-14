@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb brätigs khelberes fleisch, schneid khlaine dine schnitl, <lb/> zerklopffs mit einem messer gar Woll, nimb ein <lb/> khölberne Niern, mit der faisten, hakhs gar khlain, <lb/> schlag ein Aÿr doter dran, gewürz, vnd Salzs, <lb/> fühls in ein solches khölberes Nezl ein, Wickhl es fein <lb/> Wie Vögel ÿbereinander, bindt es mit einem faden, <lb/> stekhs an, vnd brats p. <lb/></p>
+        <p> Nimb brätigs khelberes <objectName ref="fleisch">fleisch</objectName>, schneid khlaine dine schnitl, <lb/> zerklopffs mit einem <objectName ref="messer">messer</objectName> gar Woll, nimb ein <lb/> khölberne Niern, mit der faisten, hakhs gar khlain, <lb/> schlag ein Aÿr doter dran, gewürz, vnd Salzs, <lb/> fühls in ein solches khölberes Nezl ein, Wickhl es fein <lb/> Wie <objectName ref="voegel">Vögel</objectName> ÿbereinander, bindt es mit einem <objectName ref="faden">faden</objectName>, <lb/> stekhs an, vnd brats p. <lb/> </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Gebacken Milch <lb/> die von Eyern gemacht ist <lb/> gibs trucken auff ein Tisch <lb/> vn(d) besträw es mit weissem Zucker <lb/> wen(n)s warm auff ein Tisch kompt <lb/> so ist es gut vnd wolgeschmack.</p>
+        <p> Gebacken <objectName ref="milch">Milch</objectName> <lb/> die von Eyern gemacht ist <lb/> gibs trucken auff ein <objectName ref="tisch">Tisch</objectName> <lb/> vn ( d ) besträw es mit weissem <objectName ref="zucker">Zucker</objectName> <lb/> wen ( n ) s warm auff ein <objectName ref="tisch">Tisch</objectName> kompt <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

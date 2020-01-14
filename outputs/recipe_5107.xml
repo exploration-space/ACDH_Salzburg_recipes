@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn siede die Aalenfisch gantzer <lb/> oder Stück= weiß <lb/> wie N°. 19. beschrieben; nimm ein Stück Butter <lb/> röste ein wenig weiß Meel <lb/> Liecht= gelb <lb/> mit etlich Agres <lb/> oder Weinbeer <lb/> gieß etwas Erbes= Brühe zu <lb/> mit Gewürtz und Lemoni= Schelffen <lb/> saltz ein wenig <lb/> laß kochen <lb/> und treibs durch; hernach laß mit den übrigen gantzen Agres <lb/> oder Weintrauben <lb/> und dergleichen Safft= Brühen einen kurtzen Sud aufthun <lb/> gibs über die angerichte Aalenfisch <lb/> laß zugedeckter kurtz kochen; regaliers und gibs.</p>
+        <p> MAn siede die Aalenfisch gantzer <lb/> oder Stück= weiß <lb/> wie N°. 19. beschrieben; nimm ein Stück <objectName ref="butter">Butter</objectName> <lb/> röste ein wenig weiß Meel <lb/> Liecht= gelb <lb/> mit etlich Agres <lb/> oder Weinbeer <lb/> gieß etwas Erbes= <objectName ref="bruehe">Brühe</objectName> zu <lb/> mit Gewürtz und Lemoni= Schelffen <lb/> saltz ein wenig <lb/> laß kochen <lb/> und treibs durch; hernach laß mit den übrigen gantzen Agres <lb/> oder <objectName ref="weintrauben">Weintrauben</objectName> <lb/> und dergleichen Safft= <objectName ref="bruehe">Brühen</objectName> einen kurtzen Sud aufthun <lb/> gibs über die angerichte Aalenfisch <lb/> laß zugedeckter kurtz kochen; regaliers und gibs. </p>
             </div>
         </body>
     </text>

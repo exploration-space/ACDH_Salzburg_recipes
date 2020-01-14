@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZErstechet schöne Zwetschgen <lb/> die frisch vom Baum gebrochen sind <lb/> hier und dar mit einem Hefftlein oder Steck= Nadeln <lb/> schlichtets in einen Tiegel <lb/> zinnerne Büchsen oder Glas <lb/> leget ein wenig gröblicht= zerbrochene Zimmet und Muscaten= Blüh darein <lb/> und giesset einen geläuterten und zuvor wieder erkalteten Zucker darüber.</p>
+        <p> ZErstechet schöne Zwetschgen <lb/> die frisch vom Baum gebrochen sind <lb/> hier und dar mit einem Hefftlein oder Steck= Nadeln <lb/> schlichtets in einen <objectName ref="tiegel">Tiegel</objectName> <lb/> zinnerne Büchsen oder <objectName ref="glas">Glas</objectName> <lb/> leget ein wenig gröblicht= zerbrochene Zimmet und Muscaten= Blüh darein <lb/> und giesset einen geläuterten und zuvor wieder erkalteten <objectName ref="zucker">Zucker</objectName> darüber. </p>
             </div>
         </body>
     </text>

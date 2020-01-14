@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn der Zemmer auf erst= bemeldte Weiß im Sud <lb/> nach dem Verfäumen ist eingericht worden <lb/> so kan der Zemmer <lb/> wann er genug gesotten <lb/> mit Butter <lb/> oder feiner Fette begossen <lb/> mit geriebenen Brod besäet <lb/> auf dem Rost <lb/> oder im Ofen gebräunt werden; hernach gib eine deren in dem Titul benannten Brühen darüber <lb/> und regaliers mit Gehäck= Pastetlein <lb/> oder Kräpflein <lb/> oder Schmaltz= Gebachnen.</p>
+        <p> WAnn der Zemmer auf erst= bemeldte Weiß im Sud <lb/> nach dem Verfäumen ist eingericht worden <lb/> so kan der Zemmer <lb/> wann er genug gesotten <lb/> mit <objectName ref="butter">Butter</objectName> <lb/> oder feiner Fette begossen <lb/> mit geriebenen Brod besäet <lb/> auf dem <objectName ref="rost">Rost</objectName> <lb/> oder im <objectName ref="ofen">Ofen</objectName> gebräunt werden; hernach gib eine deren in dem Titul benannten <objectName ref="bruehe">Brühen</objectName> darüber <lb/> und regaliers mit Gehäck= Pastetlein <lb/> oder Kräpflein <lb/> oder Schmaltz= Gebachnen. </p>
             </div>
         </body>
     </text>

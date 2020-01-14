@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WIschet die Quitten auf das reinlichste ab <lb/> und dünstets mit samt der Schelffen im Röhren= Wasser <lb/> sie müssen aber nicht gar weich werden , dann schählet und schneidet selbige würfflicht : nehmet hernach zu zwey Pfund Quitten <lb/> ein Pfund Zucker <lb/> läutert den Zucker zu erst <lb/> und lasset ihn dick sieden <lb/> wie fast zu den Quitten= Zelten ; dann schüttet hernach die würfflicht= geschnittene Quitten <lb/> wie auch von zweyen Citronen das Marck und die Schelffen <lb/> ebenfalls klein geschnitten <lb/> darein <lb/> lassets also mit einander noch ein und andern Wall thun <lb/> und füllts hernach in die Schachteln.</p>
+        <p> WIschet die <objectName ref="quitten">Quitten</objectName> auf das reinlichste ab <lb/> und dünstets mit samt der Schelffen im Röhren= <objectName ref="wasser">Wasser</objectName> <lb/> sie müssen aber nicht gar weich werden, dann schählet und schneidet selbige würfflicht : nehmet hernach zu zwey <objectName ref="pfund">Pfund</objectName> <objectName ref="quitten">Quitten</objectName> <lb/> ein <objectName ref="pfund">Pfund</objectName> <objectName ref="zucker">Zucker</objectName> <lb/> läutert den <objectName ref="zucker">Zucker</objectName> zu erst <lb/> und lasset ihn dick sieden <lb/> wie fast zu den Quitten= Zelten; dann schüttet hernach die würfflicht= geschnittene <objectName ref="quitten">Quitten</objectName> <lb/> wie auch von zweyen Citronen das Marck und die Schelffen <lb/> ebenfalls klein geschnitten <lb/> darein <lb/> lassets also mit einander noch ein und andern Wall thun <lb/> und füllts hernach in die Schachteln. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIese seynd bey denen Fasten= Suppen schon zu finden <lb/> im anderen Buch <lb/> des ersten Theils; sie mögen hernach in Ram und Erbes= Brühe gegeben werden.</p>
+        <p> DIese seynd bey denen Fasten= <objectName ref="suppe">Suppen</objectName> schon zu finden <lb/> im anderen Buch <lb/> des ersten Theils; sie mögen hernach in Ram und Erbes= <objectName ref="bruehe">Brühe</objectName> gegeben werden. </p>
             </div>
         </body>
     </text>

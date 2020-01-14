@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BEreitet und brühet die Bohnen <lb/> wie erst gedacht <lb/> seihet das Wasser davon ab <lb/> röstets ein wenig in Butter; giesst einen süssen Ram daran <lb/> würtzets mit Pfeffer und Muscatblüh <lb/> und last es mit einander <lb/> und zuletzt ein wenig Butter darinnen aufsieden.</p>
+        <p> BEreitet und brühet die <objectName ref="bohnen">Bohnen</objectName> <lb/> wie erst gedacht <lb/> seihet das <objectName ref="wasser">Wasser</objectName> davon ab <lb/> röstets ein wenig in <objectName ref="butter">Butter</objectName>; giesst einen süssen Ram daran <lb/> würtzets mit <objectName ref="pfeffer">Pfeffer</objectName> und Muscatblüh <lb/> und last es mit einander <lb/> und zuletzt ein wenig <objectName ref="butter">Butter</objectName> darinnen aufsieden. </p>
             </div>
         </body>
     </text>

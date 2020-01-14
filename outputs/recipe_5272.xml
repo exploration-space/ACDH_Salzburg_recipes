@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm einen blechernen Raiff <lb/> so 3. biß 4. Finger hoch <lb/> lege ein Blatt mürben Taig in die Schüssel <lb/> und setz den Raiff darauf <lb/> bestreiche den blechernen Raiff inwendig mit Krebs= Butter <lb/> und fülle inwendig an dem Ring herum <lb/> Daumen= dick mit Krebs= Taig aus <lb/> dann lege eine gute zugerichte und gemischte Pasteten= Füll in die Mitten <lb/> mach es übersich völlig mit Krebs= Taig zu <lb/> und bache es <lb/> wanns also fertig gebachen <lb/> so ziehe den Raiff in die Höhe <lb/> bestreich die Pasteten mit Krebs= Butter <lb/> und gibs warm zu Tisch.</p>
+        <p> NImm einen blechernen Raiff <lb/> so 3. biß 4. Finger hoch <lb/> lege ein <objectName ref="blatt">Blatt</objectName> mürben Taig in die <objectName ref="schuessel">Schüssel</objectName> <lb/> und setz den Raiff darauf <lb/> bestreiche den blechernen Raiff inwendig mit Krebs= <objectName ref="butter">Butter</objectName> <lb/> und fülle inwendig an dem Ring herum <lb/> Daumen= dick mit Krebs= Taig aus <lb/> dann lege eine gute zugerichte und gemischte Pasteten= Füll in die Mitten <lb/> mach es übersich völlig mit Krebs= Taig zu <lb/> und bache es <lb/> wanns also fertig gebachen <lb/> so ziehe den Raiff in die Höhe <lb/> bestreich die <objectName ref="pastete">Pasteten</objectName> mit Krebs= <objectName ref="butter">Butter</objectName> <lb/> und gibs warm zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

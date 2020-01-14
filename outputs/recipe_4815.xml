@@ -174,9 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn die Tauben gerupfft <lb/> und allerdings zubereitet sind <lb/> zerviertheilet dieselbige <lb/> saltzt und röstet sie hierauf im Schmaltz <lb/> daß sie braun werden; legts hernach in einen Tiegel oder Hafen <lb/> giesset Wein und ein wenig Fleischbrüh daran <lb/> schneidet auch abgezogene Mandeln <lb/> Rosin und Weinbeerlein klein <lb/> thut sie zu den Tauben in den Tiegel oder Hafen <lb/> und streuet Trisanet darauf <lb/> last es dann alles eine halbe Stund wohl zugedeckt <lb/> mit einander dämpffen: Alsdann richtets in eine Schüssel <lb/> und streuet würfflicht= geschnittene Citronen= Schelffen darauf.
-
- </p>
+        <p> WAnn die <objectName ref="taube">Tauben</objectName> gerupfft <lb/> und allerdings zubereitet sind <lb/> zerviertheilet dieselbige <lb/> saltzt und röstet sie hierauf im Schmaltz <lb/> daß sie braun werden; legts hernach in einen <objectName ref="tiegel">Tiegel</objectName> oder <objectName ref="hafen">Hafen</objectName> <lb/> giesset <objectName ref="wein">Wein</objectName> und ein wenig Fleischbrüh daran <lb/> schneidet auch abgezogene <objectName ref="mandeln">Mandeln</objectName> <lb/> Rosin und Weinbeerlein klein <lb/> thut sie zu den <objectName ref="taube">Tauben</objectName> in den <objectName ref="tiegel">Tiegel</objectName> oder <objectName ref="hafen">Hafen</objectName> <lb/> und streuet Trisanet darauf <lb/> last es dann alles eine halbe Stund wohl zugedeckt <lb/> mit einander dämpffen : Alsdann richtets in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und streuet würfflicht= geschnittene Citronen= Schelffen darauf. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schneid den stingl halb daruon, laß sonst ganz, <lb/> thues in ain Pfannen, geuß gueten wein dar= <lb/> =an, nimb zugger, laß zimblich einsieden, <lb/> richts auf ain schißl, sez die stingl in die <lb/> höch, gibs khalt. <lb/></p>
+        <p> Schneid den stingl halb daruon, laß sonst ganz, <lb/> thues in ain Pfannen, geuß gueten <objectName ref="wein">wein</objectName> dar= <lb/> =an, nimb zugger, laß zimblich einsieden, <lb/> richts auf ain schißl, sez die stingl in die <lb/> höch, gibs khalt. <lb/> </p>
             </div>
         </body>
     </text>

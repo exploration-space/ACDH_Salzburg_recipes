@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Macht lauter Augen <lb/> erweckt vnkeuschheit <lb/> entledigt die Wassersucht <lb/> vnd Aussatz <lb/> Husten vnd Lungensucht <lb/> mehret die Milch <lb/> hilfft der Nieren Sichtagen <lb/> heylet die Blatern <lb/> reinigt der Frauwen Kranckheit <lb/> öffnet die verstopffung deß Miltzes vnd Lebern.</p>
+        <p> Macht lauter <objectName ref="augen">Augen</objectName> <lb/> erweckt vnkeuschheit <lb/> entledigt die Wassersucht <lb/> vnd Aussatz <lb/> Husten vnd Lungensucht <lb/> mehret die <objectName ref="milch">Milch</objectName> <lb/> hilfft der <objectName ref="nieren">Nieren</objectName> Sichtagen <lb/> heylet die Blatern <lb/> reinigt der Frauwen Kranckheit <lb/> öffnet die verstopffung deß Miltzes vnd <objectName ref="leber">Lebern</objectName>. </p>
             </div>
         </body>
     </text>

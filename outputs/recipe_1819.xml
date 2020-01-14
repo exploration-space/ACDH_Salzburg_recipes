@@ -172,19 +172,7 @@ Willst du gute Latwerge aus Weichseln machen, dann gib Weichseln in einen Topf u
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WIldu machn̄ gut latwarÿ von we
-ichseln̄ So tuͤ dÿ weichsel in ein
-hafen vnd secz auf ein gute gelut vnd geͮss
-nicht dar an wan es dan nu siedn̄
-[319r] wirt so las es kalt werdn̄ vnd streich es
-durch ein tüch vnd tu es in ein kessel
-vnd secz auf ein drifuz vnd ein gute glut
-dar vnder vnd las es siedn̄ pis es dick
-wirt vnd tuͤ ein hon̄ig dar ein vnd ein
-geribn̄s prot vnd stupp es wol ab vnd
-ruͤr ez albeg pis es dick wirt allessambt
-also pis tu sein nÿmʾ geruͤrn̄ magst so hat
-es sein dan genug</p>
+        <p> WIldu machn̄ gut latwarÿ von we ichseln̄ So tuͤ dÿ weichsel in ein <objectName ref="hafen">hafen</objectName> vnd secz auf ein gute gelut vnd geͮss nicht dar an wan es dan nu siedn̄ [ 319r ] wirt so las es kalt werdn̄ vnd streich es durch ein tüch vnd tu es in ein <objectName ref="kessel">kessel</objectName> vnd secz auf ein drifuz vnd ein gute <objectName ref="glut">glut</objectName> dar vnder vnd las es siedn̄ pis es dick wirt vnd tuͤ ein hon̄ig dar ein vnd ein geribn̄s prot vnd stupp es wol ab vnd ruͤr ez albeg pis es dick wirt allessambt also pis tu sein nÿmʾ geruͤrn̄ magst so hat es sein dan genug </p>
             </div>
         </body>
     </text>

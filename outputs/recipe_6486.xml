@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m)  ein Oblat vnd geriebene Mandeln <lb/> die mit Rosenwasser angemacht  seyn <lb/> streich auff den Oblat <lb/> schneidt es nach deß Oblaten läng eines Fingers breit <lb/> krümb es fein wie Hobelspen <lb/> vnnd scheubs in Ofen <lb/> der nicht heiß ist <lb/> vnd laß trucken werden. Also macht man die Hobelschnitten von Mandeln.</p>
+        <p> Nim ( m ) ein Oblat vnd geriebene <objectName ref="mandeln">Mandeln</objectName> <lb/> die mit <objectName ref="rosenwasser">Rosenwasser</objectName> angemacht seyn <lb/> streich auff den Oblat <lb/> schneidt es nach deß <objectName ref="oblaten">Oblaten</objectName> läng eines Fingers breit <lb/> krümb es fein wie Hobelspen <lb/> vnnd scheubs in <objectName ref="ofen">Ofen</objectName> <lb/> der nicht heiß ist <lb/> vnd laß trucken werden. Also macht man die Hobelschnitten von <objectName ref="mandeln">Mandeln</objectName>. </p>
             </div>
         </body>
     </text>

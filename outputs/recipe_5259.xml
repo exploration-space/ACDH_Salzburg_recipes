@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Epffel rundt vnd dünn geschnitten <lb/> mach ein Teig dazu mit Wein <lb/> back die Epffel darauß <lb/> wenn du sie in heisse Butter wirffst <lb/> so werden sie fein aufflauffen <lb/> gibs warm auff ein Tisch <lb/> vnd besträw es mit weissem Zucker <lb/> so ist es auch gut.</p>
+        <p> Epffel rundt vnd dünn geschnitten <lb/> mach ein <objectName ref="teig">Teig</objectName> dazu mit <objectName ref="wein">Wein</objectName> <lb/> back die Epffel darauß <lb/> wenn du sie in heisse <objectName ref="butter">Butter</objectName> wirffst <lb/> so werden sie fein aufflauffen <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> vnd besträw es mit weissem <objectName ref="zucker">Zucker</objectName> <lb/> so ist es auch gut. </p>
             </div>
         </body>
     </text>

@@ -171,9 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>REibe einen frischen Parmasan= oder <lb/> aus Mangel desselben <lb/> einen andern guten Käß <lb/> schlage Eyer daran <lb/> mische ein wenig Semmel= Mehl und Zucker darunter <lb/> gilb diesen Teig mit Saffran <lb/> und mache ihn also in einer mittelmässigen Dicken zusammen: schneide dann etliche Oblaten <lb/> doch jedesmal zwey in einer grösse <lb/> nach gefallen; bestreiche sie einwendig mit erstbesagtem Teig <lb/> legs dann auf einander <lb/> bachs geschwind aus Schmaltz <lb/> wends bald darinnen um <lb/> und überstreue sie im auftragen mit Zucker.
-
-</p>
+        <p> REibe einen frischen Parmasan= oder <lb/> aus Mangel desselben <lb/> einen andern guten Käß <lb/> schlage Eyer daran <lb/> mische ein wenig Semmel= <objectName ref="mehl">Mehl</objectName> und <objectName ref="zucker">Zucker</objectName> darunter <lb/> gilb diesen <objectName ref="teig">Teig</objectName> mit Saffran <lb/> und mache ihn also in einer mittelmässigen Dicken zusammen : schneide dann etliche <objectName ref="oblaten">Oblaten</objectName> <lb/> doch jedesmal zwey in einer grösse <lb/> nach gefallen; bestreiche sie einwendig mit erstbesagtem <objectName ref="teig">Teig</objectName> <lb/> legs dann auf einander <lb/> bachs geschwind aus Schmaltz <lb/> wends bald darinnen um <lb/> und überstreue sie im auftragen mit <objectName ref="zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

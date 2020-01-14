@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Brüßlein <lb/> nachdem sie gebrühet <lb/> gebutzt <lb/> und gewürfflet= geschnitten <lb/> oder gehackt <lb/> gewürtzt <lb/> in Butter geröst werden <lb/> geben ein gute Teller= Speiß <lb/> und taugen in allerhand kleine Pastetlein <lb/> oder Semmel zu füllen.</p>
+        <p> DIe Brüßlein <lb/> nachdem sie gebrühet <lb/> gebutzt <lb/> und gewürfflet= geschnitten <lb/> oder gehackt <lb/> gewürtzt <lb/> in <objectName ref="butter">Butter</objectName> geröst werden <lb/> geben ein gute Teller= Speiß <lb/> und taugen in allerhand kleine Pastetlein <lb/> oder Semmel zu füllen. </p>
             </div>
         </body>
     </text>

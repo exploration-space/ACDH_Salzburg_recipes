@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm einen Köhl der nicht grün ist <lb/> theile ihn voneinander <lb/> wasche und brühe ihn ab <lb/> in einem gesaltznen Wasser <lb/> nicht gar an die statt <lb/> truck ihn aus <lb/> und hack ihn klein <lb/> röst ihn wol im Schmaltz <lb/> nimm schier so viel Semmel als Köhl <lb/> benetz es mit Butter <lb/> röste auch klein= gehackten Zwibel <lb/> brenn auch ein wenig Meel und die Semmel im Schmaltz <lb/> thue es unter den Köhl <lb/> gewürtz es <lb/> schlag Eyer daran <lb/> und ein guten Milchram <lb/> schlag es in ein Fleisch= oder Erbesbrühe <lb/> man soll es zeitlich anmachen <lb/> daß es ein Weil stehen kan ehe mans einschlägt <lb/> auch nicht zu lind anmachen <lb/> sonsten thun sie zerfahren.</p>
+        <p> NImm einen Köhl der nicht grün ist <lb/> theile ihn voneinander <lb/> wasche und <objectName ref="bruehe">brühe</objectName> ihn ab <lb/> in einem gesaltznen <objectName ref="wasser">Wasser</objectName> <lb/> nicht gar an die statt <lb/> truck ihn aus <lb/> und hack ihn klein <lb/> röst ihn wol im Schmaltz <lb/> nimm schier so viel Semmel als Köhl <lb/> benetz es mit <objectName ref="butter">Butter</objectName> <lb/> röste auch klein= gehackten Zwibel <lb/> brenn auch ein wenig Meel und die Semmel im Schmaltz <lb/> thue es unter den Köhl <lb/> gewürtz es <lb/> schlag Eyer daran <lb/> und ein guten Milchram <lb/> schlag es in ein Fleisch= oder Erbesbrühe <lb/> man soll es zeitlich anmachen <lb/> daß es ein Weil stehen kan ehe mans einschlägt <lb/> auch nicht zu lind anmachen <lb/> sonsten thun sie zerfahren. </p>
             </div>
         </body>
     </text>

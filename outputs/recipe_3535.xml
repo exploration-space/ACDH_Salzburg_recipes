@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm die Frösch <lb/> laß mit einem Tuch <lb/> oder sonst wol abtrücknen <lb/> saltz <lb/> gewürtze <lb/> und meelbe sie ein <lb/> und bachs schnell <lb/> schön rösch <lb/> aus heissem Schmaltz <lb/> gibs trucken <lb/> und warm <lb/> mit gebachnen Petersil= Kräutlein <lb/> wie die gebachne Hünlein <lb/> zu Tisch.</p>
+        <p> NImm die Frösch <lb/> laß mit einem <objectName ref="tuch">Tuch</objectName> <lb/> oder sonst wol abtrücknen <lb/> saltz <lb/> gewürtze <lb/> und meelbe sie ein <lb/> und bachs schnell <lb/> schön rösch <lb/> aus heissem Schmaltz <lb/> gibs trucken <lb/> und warm <lb/> mit gebachnen Petersil= Kräutlein <lb/> wie die gebachne Hünlein <lb/> zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

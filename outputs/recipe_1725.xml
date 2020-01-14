@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb zwifel vnd Öpfl, schneits gewürflet, <lb/> nimb wein, wasser, Essig, d(a)s der Essig <lb/> fürschlegt, wan er halb gesoten ist, so <lb/> nimb ain Mußcatblie, Imber, Pfeffer, <lb/> vnd gilbs woll, laß woll im sieden, d(a)s <lb/> wennig Supen daran bleibt. <lb/></p>
+        <p> Nimb zwifel vnd Öpfl, schneits gewürflet, <lb/> nimb <objectName ref="wein">wein</objectName>, <objectName ref="wasser">wasser</objectName>, <objectName ref="essig">Essig</objectName>, d ( a ) s der <objectName ref="essig">Essig</objectName> <lb/> fürschlegt, wan er halb gesoten ist, so <lb/> nimb ain Mußcatblie, Imber, <objectName ref="pfeffer">Pfeffer</objectName>, <lb/> vnd gilbs woll, laß woll im sieden, d ( a ) s <lb/> wennig Supen daran bleibt. <lb/> </p>
             </div>
         </body>
     </text>

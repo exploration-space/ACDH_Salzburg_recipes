@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Es wird der Adler <lb/> gleich wie in eine Pasteten <lb/> zugericht <lb/> mit gewürtztem Speck durchzogen <lb/> in ein Geschirr mit Speck <lb/> oder frischem Butter <lb/> sammt aller Zugehör wohl mit Taig vermacht <lb/> im Ofen gedämpfft <lb/> und mit gleicher Brühe gegeben ; oder kalter mit Lemoni und grünen Kräutlein regaliert.</p>
+        <p> Es wird der <objectName ref="adler">Adler</objectName> <lb/> gleich wie in eine <objectName ref="pastete">Pasteten</objectName> <lb/> zugericht <lb/> mit gewürtztem <objectName ref="speck">Speck</objectName> durchzogen <lb/> in ein <objectName ref="geschirr">Geschirr</objectName> mit <objectName ref="speck">Speck</objectName> <lb/> oder frischem <objectName ref="butter">Butter</objectName> <lb/> sammt aller Zugehör wohl mit Taig vermacht <lb/> im <objectName ref="ofen">Ofen</objectName> gedämpfft <lb/> und mit gleicher <objectName ref="bruehe">Brühe</objectName> gegeben; oder kalter mit Lemoni und grünen Kräutlein regaliert. </p>
             </div>
         </body>
     </text>

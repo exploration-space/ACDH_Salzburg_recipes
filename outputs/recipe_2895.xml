@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ER wird gescheelt <lb/> und mit weisser <lb/> etwas sauren Butter= Brühe gegeben.</p>
+        <p> ER wird gescheelt <lb/> und mit weisser <lb/> etwas sauren Butter= <objectName ref="bruehe">Brühe</objectName> gegeben. </p>
             </div>
         </body>
     </text>

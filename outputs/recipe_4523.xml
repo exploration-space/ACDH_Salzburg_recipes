@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmt ein Seidl= oder halbes Maas= Häfelein voll Fleischbrüh <lb/> lasst selbige sieden <lb/> schlagt drey Eyer aus <lb/> zerklopffet sie wohl ; thut in eine Schüssel einen Kochlöffel voll Mehl <lb/> und zwyret es mit denen zuvor zerklopfften Eyern an <lb/> werfft Pfeffer <lb/> Ingber und ein wenig Saffran darein <lb/> und wann die Fleischbrüh siedet <lb/> so giesset dieselbige über die angezwyrte Eyer <lb/> daß sie schön kraus werden <lb/> rührets mit einem Kochlöffel um <lb/> lassts noch ein wenig sieden <lb/> werfft ein Stücklein Butter darein <lb/> richtets dann an <lb/> und streut Muscaten= Blüh darauf.</p>
+        <p> NEhmt ein Seidl= oder halbes Maas= <objectName ref="haefelein">Häfelein</objectName> voll Fleischbrüh <lb/> lasst selbige sieden <lb/> schlagt drey Eyer aus <lb/> zerklopffet sie wohl; thut in eine <objectName ref="schuessel">Schüssel</objectName> einen <objectName ref="kochloeffel">Kochlöffel</objectName> voll <objectName ref="mehl">Mehl</objectName> <lb/> und zwyret es mit denen zuvor zerklopfften Eyern an <lb/> werfft <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Ingber und ein wenig Saffran darein <lb/> und wann die Fleischbrüh siedet <lb/> so giesset dieselbige über die angezwyrte Eyer <lb/> daß sie schön kraus werden <lb/> rührets mit einem <objectName ref="kochloeffel">Kochlöffel</objectName> um <lb/> lassts noch ein wenig sieden <lb/> werfft ein Stücklein <objectName ref="butter">Butter</objectName> darein <lb/> richtets dann an <lb/> und streut Muscaten= Blüh darauf. </p>
             </div>
         </body>
     </text>

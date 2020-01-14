@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAche auf die in dem Eilfften Theil <lb/> Num. 1. beschriebene Art <lb/> eingerührte Eyer im Schmaltz <lb/> rühre ein klein wenig Mehl und Weinbeerlein oder Corinthen darein : streue dann etwas Weitzen= Mehl auf einen höltzernen Deller <lb/> lege den besagter massen zusamm= gemachten Teig darauf <lb/> walchere ihn rund oder länglicht <lb/> wie es beliebt ; bachs hernach aus Schmaltz <lb/> und mache <lb/> so es gefällig <lb/> eine süsse Brüh darüber.</p>
+        <p> MAche auf die in dem Eilfften Theil <lb/> Num. 1. beschriebene Art <lb/> eingerührte Eyer im Schmaltz <lb/> rühre ein klein wenig <objectName ref="mehl">Mehl</objectName> und Weinbeerlein oder Corinthen darein : streue dann etwas Weitzen= <objectName ref="mehl">Mehl</objectName> auf einen höltzernen Deller <lb/> lege den besagter massen zusamm= gemachten <objectName ref="teig">Teig</objectName> darauf <lb/> walchere ihn rund oder länglicht <lb/> wie es beliebt; bachs hernach aus Schmaltz <lb/> und mache <lb/> so es gefällig <lb/> eine süsse Brüh darüber. </p>
             </div>
         </body>
     </text>

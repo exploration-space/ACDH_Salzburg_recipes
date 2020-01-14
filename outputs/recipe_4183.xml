@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Rutten mit ihrer Leber <lb/> kan man auch also <lb/> gleich wie erst von der Pasteten gehört <lb/> in ein Rein <lb/> oder Casserol einrichten <lb/> auch mit ausgelösten Austern <lb/> Müschlein <lb/> oder andern Zusatz mischen <lb/> und wann sie genug gedämpfft <lb/> mit einer dergleichen weissen Brühe versehen.</p>
+        <p> DIe Rutten mit ihrer <objectName ref="leber">Leber</objectName> <lb/> kan man auch also <lb/> gleich wie erst von der <objectName ref="pastete">Pasteten</objectName> gehört <lb/> in ein <objectName ref="rein">Rein</objectName> <lb/> oder Casserol einrichten <lb/> auch mit ausgelösten <objectName ref="austern">Austern</objectName> <lb/> Müschlein <lb/> oder andern Zusatz mischen <lb/> und wann sie genug gedämpfft <lb/> mit einer dergleichen weissen <objectName ref="bruehe">Brühe</objectName> versehen. </p>
             </div>
         </body>
     </text>

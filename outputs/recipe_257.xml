@@ -165,9 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Gepuzte hendl<gap/> sieths<gap/> in Wasser, <lb/> seint vorn N :begriffen <lb/>
-
-[Anm.: Das erste Rezept unter der Nummer 250 ist unvollständig. Das folgende Rezept trät ebenfalls die Nummer 250, ist allerdings ein vollkommen anderes Gericht.]</p>
+        <p> Nimb Gepuzte hendl<gap/> sieths<gap/> in <objectName ref="wasser">Wasser</objectName>, <lb/> seint vorn N : begriffen <lb/> [ Anm. : Das erste Rezept unter der Nummer 250 ist unvollständig. Das folgende Rezept trät ebenfalls die Nummer 250, ist allerdings ein vollkommen anderes Gericht. ] </p>
             </div>
         </body>
     </text>

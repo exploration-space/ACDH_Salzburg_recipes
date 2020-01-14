@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) die Füß <lb/> vnd säuber sie auß <lb/> schneidt Zwibeln fein breit <lb/> vnnd thu sie auff die Füß <lb/> setz zu im Wasser <lb/> vnnd wenns wol gesotten <lb/> so mach es gelb <lb/> vnd Pfeffers. Magst es süß oder saur machen <lb/> so ist es auff beyde manier gut.</p>
+        <p> Nim ( m ) die Füß <lb/> vnd säuber sie auß <lb/> schneidt Zwibeln fein breit <lb/> vnnd thu sie auff die Füß <lb/> setz zu im <objectName ref="wasser">Wasser</objectName> <lb/> vnnd wenns wol gesotten <lb/> so mach es gelb <lb/> vnd Pfeffers. Magst es süß oder saur machen <lb/> so ist es auff beyde manier gut. </p>
             </div>
         </body>
     </text>

@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Hirsch= Zungen wird so unterschiedlich <lb/> als die im Ersten Kapitel beschriebene Ochsen= oder im andern Capitel beschribene kälberne Zungen : nur mit disem Vorbehalt <lb/> wann der Hirsch schon gar alt ist <lb/> so hat sie auch länger zu sieden.</p>
+        <p> DIe Hirsch= <objectName ref="zunge">Zungen</objectName> wird so unterschiedlich <lb/> als die im Ersten Kapitel beschriebene Ochsen= oder im andern Capitel beschribene kälberne <objectName ref="zunge">Zungen</objectName> : nur mit disem Vorbehalt <lb/> wann der Hirsch schon gar alt ist <lb/> so hat sie auch länger zu sieden. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb schön Salue, der khein löchl hat, mach ein guets <lb/> taigl an, nimb ein guets mell, vnd ein süsse milch, <lb/> Wermb sie, mach ein taigl an etwa auf ain tisch nimb <lb/> 2. Aÿr, Werm die aÿr auch, mach das taigl din an, <lb/> darnach ein mell in schmalz, vnd schit es drein, das es <lb/> dikh Wird, wie ein strauben taig, Ziech die Salue schnitl <lb/> durch den taig, laß das schmalz Ehrlich haiß Werden, <lb/> leg die schnitl an den rukhen ein, so gehns schen auf, ver= <lb/> salzs nit. <lb/></p>
+        <p> Nimb schön Salue, der khein löchl hat, mach ein guets <lb/> taigl an, nimb ein guets mell, vnd ein süsse <objectName ref="milch">milch</objectName>, <lb/> Wermb sie, mach ein taigl an etwa auf ain <objectName ref="tisch">tisch</objectName> nimb <lb/> 2. Aÿr, Werm die aÿr auch, mach das taigl din an, <lb/> darnach ein mell in <objectName ref="schmalz">schmalz</objectName>, vnd schit es drein, das es <lb/> dikh Wird, wie ein <objectName ref="strauben">strauben</objectName> taig, Ziech die Salue schnitl <lb/> durch den taig, laß das <objectName ref="schmalz">schmalz</objectName> Ehrlich haiß Werden, <lb/> leg die schnitl an den rukhen ein, so gehns schen auf, ver= <lb/> salzs nit. <lb/> </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn sie gesotten <lb/> gebutzt <lb/> gesaltzen <lb/> gemeelbt <lb/> und schnell aus heissem Schmaltz gebachen <lb/> seynd köstlich <lb/> in brauner Karpffen= jus, kurtz aufkochen lassen mit Butter <lb/> Lemoni= Safft und Gewürtz.</p>
+        <p> WAnn sie gesotten <lb/> gebutzt <lb/> gesaltzen <lb/> gemeelbt <lb/> und schnell aus heissem Schmaltz gebachen <lb/> seynd köstlich <lb/> in brauner Karpffen= <objectName ref="jus">jus</objectName>, kurtz aufkochen lassen mit <objectName ref="butter">Butter</objectName> <lb/> Lemoni= Safft und Gewürtz. </p>
             </div>
         </body>
     </text>

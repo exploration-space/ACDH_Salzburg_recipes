@@ -167,9 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mach ein Teig von lauter Eyern <lb/>  doch nicht gar zu dick <lb/> spreng Saltz darein <lb/>  vnd treibs fein rundt auß <lb/> bestreichs mit einem Eydotter <lb/> vnd
-scheubs in ein heissen Ofen <lb/>  so wirdt es fein vbersich gehen. Das heißt man
-ein Eyerkuchen.</p>
+        <p> Mach ein <objectName ref="teig">Teig</objectName> von lauter Eyern <lb/> doch nicht gar zu dick <lb/> spreng Saltz darein <lb/> vnd treibs fein rundt auß <lb/> bestreichs mit einem Eydotter <lb/> vnd scheubs in ein heissen <objectName ref="ofen">Ofen</objectName> <lb/> so wirdt es fein vbersich gehen. Das heißt man ein Eyerkuchen. </p>
             </div>
         </body>
     </text>

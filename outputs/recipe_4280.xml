@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Presolen werden gesaltzen <lb/> eingemelbt <lb/> und gleich den Fischen schnell aus heissem Schmaltz gebachen <lb/> gibs truckner in Safft <lb/> oder mit gebachnen Petersil <lb/> mit <lb/> oder ohne Schwammen <lb/> in guter brauner jus.</p>
+        <p> DIe Presolen werden gesaltzen <lb/> eingemelbt <lb/> und gleich den Fischen schnell aus heissem Schmaltz gebachen <lb/> gibs truckner in Safft <lb/> oder mit gebachnen Petersil <lb/> mit <lb/> oder ohne Schwammen <lb/> in guter brauner <objectName ref="jus">jus</objectName>. </p>
             </div>
         </body>
     </text>

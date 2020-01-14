@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MElonen gescheelt <lb/> zu Blättlein geschnitten <lb/> eingemeelbt <lb/> und aus Schmaltz gebachen <lb/> gibs trucken mit Zucker und Lemoni= Safft bestreut.</p>
+        <p> <objectName ref="melonen">MElonen</objectName> gescheelt <lb/> zu Blättlein geschnitten <lb/> eingemeelbt <lb/> und aus Schmaltz gebachen <lb/> gibs trucken mit <objectName ref="zucker">Zucker</objectName> und Lemoni= Safft bestreut. </p>
             </div>
         </body>
     </text>

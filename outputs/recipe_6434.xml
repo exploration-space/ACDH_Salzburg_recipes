@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) gestossen oder geriebene Mandeln <lb/> streichs mit Wasser <lb/> daß fein dick wirt <lb/> durch <lb/> zuckers <lb/> vn(n) rürs vmb <lb/> biß auffseudt <lb/> thu ein wenig Rosenwasser darvnter <lb/> so wirt es gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) gestossen oder geriebene <objectName ref="mandeln">Mandeln</objectName> <lb/> streichs mit <objectName ref="wasser">Wasser</objectName> <lb/> daß fein dick wirt <lb/> durch <lb/> zuckers <lb/> vn ( n ) rürs vmb <lb/> biß auffseudt <lb/> thu ein wenig <objectName ref="rosenwasser">Rosenwasser</objectName> darvnter <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

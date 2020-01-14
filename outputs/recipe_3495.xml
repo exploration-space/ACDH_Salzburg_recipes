@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>AUstern <lb/> so schön und gantz frisch <lb/> werden auch sauber aufgemacht und abgelöst <lb/> und also gepfeffert <lb/> kalter auf die Schüssel gelegt <lb/> und mit gantzen Lemonien aufgetragen.</p>
+        <p> <objectName ref="austern">AUstern</objectName> <lb/> so schön und gantz frisch <lb/> werden auch sauber aufgemacht und abgelöst <lb/> und also gepfeffert <lb/> kalter auf die <objectName ref="schuessel">Schüssel</objectName> gelegt <lb/> und mit gantzen Lemonien aufgetragen. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAche einen grossen Eyer= Fleck <lb/> oder Fridada , in einer breiten Pfannen <lb/> mit Schmaltz <lb/> oder Butter <lb/> aber nicht zu dick ; wann er fertig <lb/> so streiche <lb/> oder theile das zugerichte Hecht= oder Fisch= Gehäck etwas trucken darauf <lb/> übergieß wieder mit den abgeschlagenen Eyern <lb/> und gib unten weniger <lb/> oben aber mehrer Glut <lb/> und wann es zu trucken <lb/> so gib ein wenig Butter <lb/> oder Sardellen= Brühe darüber <lb/> oder machs in der Dorten= Pfann fertig.</p>
+        <p> MAche einen grossen Eyer= Fleck <lb/> oder Fridada, in einer breiten Pfannen <lb/> mit Schmaltz <lb/> oder <objectName ref="butter">Butter</objectName> <lb/> aber nicht zu dick; wann er fertig <lb/> so streiche <lb/> oder theile das zugerichte Hecht= oder Fisch= <objectName ref="gehaeck">Gehäck</objectName> etwas trucken darauf <lb/> übergieß wieder mit den abgeschlagenen Eyern <lb/> und gib unten weniger <lb/> oben aber mehrer <objectName ref="glut">Glut</objectName> <lb/> und wann es zu trucken <lb/> so gib ein wenig <objectName ref="butter">Butter</objectName> <lb/> oder Sardellen= <objectName ref="bruehe">Brühe</objectName> darüber <lb/> oder machs in der Dorten= Pfann fertig. </p>
             </div>
         </body>
     </text>

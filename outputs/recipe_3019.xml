@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIto <lb/> dergleichen Rüblein gebutzt <lb/> eingemeelbt und gebachen <lb/> seynd köstlich <lb/> gekocht mit guter brauner Jus, aber gib acht <lb/> daß sie nicht versaltzen werden.</p>
+        <p> DIto <lb/> dergleichen Rüblein gebutzt <lb/> eingemeelbt und gebachen <lb/> seynd köstlich <lb/> gekocht mit guter brauner <objectName ref="jus">Jus</objectName>, aber gib acht <lb/> daß sie nicht versaltzen werden. </p>
             </div>
         </body>
     </text>

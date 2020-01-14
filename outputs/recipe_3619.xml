@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DErgleichen verlohrne Eyer gibt man auch in die Schüssel <lb/> und zerlassenen Butter mit Senff darüber <lb/> oder darunter.</p>
+        <p> DErgleichen verlohrne Eyer gibt man auch in die <objectName ref="schuessel">Schüssel</objectName> <lb/> und zerlassenen <objectName ref="butter">Butter</objectName> mit Senff darüber <lb/> oder darunter. </p>
             </div>
         </body>
     </text>

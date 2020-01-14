@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Kern werden zusamt dem Rauhen einwendig zuvörderst heraus genommen <lb/> und die Hieffen in Wein gesotten ; dann treibt man sie durch ein Sieblein in eine Schüssel <lb/> setzt sie auf eine Glut oder Kohlfeuer <lb/> zuckert das Mus <lb/> und läst es aufsieden : zu letzt aber bestreuet man selbiges mit Zimmet.</p>
+        <p> DIe Kern werden zusamt dem Rauhen einwendig zuvörderst heraus genommen <lb/> und die Hieffen in <objectName ref="wein">Wein</objectName> gesotten; dann treibt man sie durch ein Sieblein in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> setzt sie auf eine <objectName ref="glut">Glut</objectName> oder Kohlfeuer <lb/> zuckert das Mus <lb/> und läst es aufsieden : zu letzt aber bestreuet man selbiges mit Zimmet. </p>
             </div>
         </body>
     </text>

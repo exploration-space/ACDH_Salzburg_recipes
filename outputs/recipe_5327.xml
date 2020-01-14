@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Leber von dem Spanfärcklein <lb/> wird in allweg <lb/> wie die kälberne Leber verkocht <lb/> wie auch das Mäglein und Krößlein <lb/> wer es gebrauchen will.</p>
+        <p> DIe <objectName ref="leber">Leber</objectName> von dem Spanfärcklein <lb/> wird in allweg <lb/> wie die kälberne <objectName ref="leber">Leber</objectName> verkocht <lb/> wie auch das Mäglein und Krößlein <lb/> wer es gebrauchen will. </p>
             </div>
         </body>
     </text>

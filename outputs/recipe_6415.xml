@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Keiserling <lb/> welche Schwäm(m) man gemeiniglich für die aller besten helt <lb/> wasch sie auß <lb/> pfeffers vnd saltzs <lb/> leg sie auff ein Roßt <lb/> brat vnd begeuß sie mit Butter <lb/> vnd gib es warm auff ein Tisch <lb/> besträw es mit Pfeffer vnd mit Saltz <lb/> so seind sie gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) Keiserling <lb/> welche Schwäm ( m ) man gemeiniglich für die aller besten helt <lb/> wasch sie auß <lb/> pfeffers vnd saltzs <lb/> leg sie auff ein Roßt <lb/> brat vnd begeuß sie mit <objectName ref="butter">Butter</objectName> <lb/> vnd gib es warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> besträw es mit <objectName ref="pfeffer">Pfeffer</objectName> vnd mit Saltz <lb/> so seind sie gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

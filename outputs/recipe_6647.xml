@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim ein Salm <lb/> vnnd schneidt jn dünn <lb/> etwan eines Fingers dick <lb/> brat jn auff einem Roßt <lb/> vnd saltz jn nicht viel <lb/> thu jn in einen Mörsel <lb/> mit einer gebehte Schnitten von Weck <lb/> wenns wolgestossen ist <lb/> so zerlaß es mit einer Erbsbrüh <lb/> streichs durch ein Härin Tuch <lb/> mach jn ab mit Pfeffer vnd Saffran <lb/> setz zu <lb/> vnd laß sieden <lb/> thu darein frische Butter <lb/> die vngeschmältzt ist <lb/> auch Pettersilgen Wurtzel <lb/> die klein geschnitten ist <lb/> da der Kern außgeschnitten ist <lb/> schaw daß du es nicht versaltzest. Also macht man die Brüh von einem Salm <lb/> ist gut vnd wolgeschmack.</p>
+        <p> Nim ein Salm <lb/> vnnd schneidt jn dünn <lb/> etwan eines Fingers dick <lb/> brat jn auff einem Roßt <lb/> vnd saltz jn nicht viel <lb/> thu jn in einen Mörsel <lb/> mit einer gebehte Schnitten von Weck <lb/> wenns wolgestossen ist <lb/> so zerlaß es mit einer Erbsbrüh <lb/> streichs durch ein Härin <objectName ref="tuch">Tuch</objectName> <lb/> mach jn ab mit <objectName ref="pfeffer">Pfeffer</objectName> vnd Saffran <lb/> setz zu <lb/> vnd laß sieden <lb/> thu darein frische <objectName ref="butter">Butter</objectName> <lb/> die vngeschmältzt ist <lb/> auch Pettersilgen Wurtzel <lb/> die klein geschnitten ist <lb/> da der Kern außgeschnitten ist <lb/> schaw daß du es nicht versaltzest. Also macht man die Brüh von einem Salm <lb/> ist gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

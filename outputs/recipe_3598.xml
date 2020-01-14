@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn macht sie mit gehacktem Kalbfleisch <lb/> wohlriechenden Kräutern <lb/> Eyerdottern <lb/> Saltz <lb/> Pfeffer <lb/> Muscatblühe und gestossenen Zimmet <lb/> man wickelts in Speck <lb/> und bratets am Bratspiß <lb/> begießt sie mit ihrem eigenen Safft <lb/> hernach bestreicht mans mit Eyerdottern <lb/> und bestreuts mit geriebener Semmel <lb/> oder Meel <lb/> daß sie eine Haut bekommen <lb/> und dises öffter wiederholt <lb/> mit den Eyerdottern und Semmeln; im Anrichten giesset man Lemoni= Safft mit ihrer jus darüber <lb/> und garnierts mit Petersil.</p>
+        <p> MAn macht sie mit gehacktem <objectName ref="kalbfleisch">Kalbfleisch</objectName> <lb/> wohlriechenden <objectName ref="kraeuter">Kräutern</objectName> <lb/> Eyerdottern <lb/> Saltz <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Muscatblühe und gestossenen Zimmet <lb/> man wickelts in <objectName ref="speck">Speck</objectName> <lb/> und bratets am Bratspiß <lb/> begießt sie mit ihrem eigenen Safft <lb/> hernach bestreicht mans mit Eyerdottern <lb/> und bestreuts mit geriebener Semmel <lb/> oder Meel <lb/> daß sie eine Haut bekommen <lb/> und dises öffter wiederholt <lb/> mit den Eyerdottern und <objectName ref="semmeln">Semmeln</objectName>; im Anrichten giesset man Lemoni= Safft mit ihrer <objectName ref="jus">jus</objectName> darüber <lb/> und garnierts mit Petersil. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schelß sauber, schneits zu zway thaillen, legs <lb/> in taig, nimb lints gewürz, zugger od(er) hönnig, <lb/> Imber, ain wennig, Pfeffer, Salz nit, laß ain <lb/> stunt bachen. <lb/></p>
+        <p> Schelß sauber, schneits zu zway thaillen, legs <lb/> in taig, nimb lints gewürz, zugger od ( er ) hönnig, <lb/> Imber, ain wennig, <objectName ref="pfeffer">Pfeffer</objectName>, <objectName ref="salz">Salz</objectName> nit, laß ain <lb/> stunt bachen. <lb/> </p>
             </div>
         </body>
     </text>

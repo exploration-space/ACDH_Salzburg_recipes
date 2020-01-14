@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe gelbe Rüben oder Möhren können allerdings wie die weisse <lb/> Num. 190. beschrieben <lb/> gekochet werden <lb/> nur daß kein Ranfft Brod dazu hinein geleget wird <lb/> weil sie nicht bitter sind; zudeme darff man sie auch nicht schwaissen <lb/> so es nicht sonderlich beliebt <lb/> sondern sie werden <lb/> wann sie geschnitten und abgeschabet worden <lb/> in halb Wasser halb Fleischbrüh zum Feuer gesetzt <lb/> weich gesotten <lb/> wohl abgerühret <lb/> ein Stäublein Mehl darein gebrennt <lb/> auch etwas von dürren Majoran und Pfeffer dazu gethan <lb/> und also über Lamms= oder Kalb= Fleisch <lb/> oder auch Lamms= oder Schaaf= Füsse angerichtet.</p>
+        <p> DIe gelbe <objectName ref="rueben">Rüben</objectName> oder Möhren können allerdings wie die weisse <lb/> Num. 190. beschrieben <lb/> gekochet werden <lb/> nur daß kein Ranfft Brod dazu hinein geleget wird <lb/> weil sie nicht bitter sind; zudeme darff man sie auch nicht schwaissen <lb/> so es nicht sonderlich beliebt <lb/> sondern sie werden <lb/> wann sie geschnitten und abgeschabet worden <lb/> in halb <objectName ref="wasser">Wasser</objectName> halb Fleischbrüh zum <objectName ref="feuer">Feuer</objectName> gesetzt <lb/> weich gesotten <lb/> wohl abgerühret <lb/> ein Stäublein <objectName ref="mehl">Mehl</objectName> darein gebrennt <lb/> auch etwas von dürren <objectName ref="majoran">Majoran</objectName> und <objectName ref="pfeffer">Pfeffer</objectName> dazu gethan <lb/> und also über Lamms= oder Kalb= <objectName ref="fleisch">Fleisch</objectName> <lb/> oder auch Lamms= oder Schaaf= Füsse angerichtet. </p>
             </div>
         </body>
     </text>

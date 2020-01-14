@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wenn das Euterlein am ersten wol gesotten ist <lb/> so seuber es auß <lb/> vn(n) steck ein klein höltzern Spießlein dardurch <lb/> leg es auff ein Roßt <lb/> so fellet es nicht durch <lb/> breun es fein auff beyden seiten <lb/> nim(m) Agrastwasser <lb/> vnd ein wenig Rindtfleischbrüh <lb/> auch ein wenig frische Butter <lb/> die vnzerlassen ist <lb/> auch etliche Trauben auß dem Algrastwasser <lb/> laß es darmit auffsieden <lb/> vnd wenn du es wilt anrichten in eine Schüssel <lb/> so gieß es vber die Euterlein <lb/> vnd thu vnter die Brüh ein wenig Ingwer <lb/> so ist es gut vnd wolgeschmack.</p>
+        <p> Wenn das Euterlein am ersten wol gesotten ist <lb/> so seuber es auß <lb/> vn ( n ) steck ein klein höltzern Spießlein dardurch <lb/> leg es auff ein Roßt <lb/> so fellet es nicht durch <lb/> breun es fein auff beyden seiten <lb/> nim ( m ) Agrastwasser <lb/> vnd ein wenig Rindtfleischbrüh <lb/> auch ein wenig frische <objectName ref="butter">Butter</objectName> <lb/> die vnzerlassen ist <lb/> auch etliche Trauben auß dem Algrastwasser <lb/> laß es darmit auffsieden <lb/> vnd wenn du es wilt anrichten in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> so gieß es vber die Euterlein <lb/> vnd thu vnter die Brüh ein wenig <objectName ref="ingwer">Ingwer</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

@@ -172,10 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm ein Stück guten Butter <lb/> in ein tieffes Geschirr oder Schüssel <lb/> rühre denselben glatt ab <lb/> bis er schön weiß und glatt ist <lb/> dann rühre auch nach Nothdurfft Eyer <lb/> oder nur die Dotter <lb/> mit gestoßner Muscatblüh= oder Nussen darunter <lb/> mit geriebner Semmel <lb/> oder gar weissen Meel und Saltz <lb/> machs in der Dücken <lb/> daß dir nicht zerfahren <lb/> und schlags in siedige Milch <lb/> Fleisch= oder Erbes= Brühe; und wanns fertig <lb/> so gibs in ihrer eignen Brühe <lb/> oder seigs ab <lb/> und gibs mit= oder ohne Parmesan= Käß aufgestreuet.
-
-NB. Man kans auch mit klein= gehackten Petersil= und Kerbel= Kraut grün machen.
-</p>
+        <p> NImm ein Stück guten <objectName ref="butter">Butter</objectName> <lb/> in ein tieffes <objectName ref="geschirr">Geschirr</objectName> oder <objectName ref="schuessel">Schüssel</objectName> <lb/> rühre denselben glatt ab <lb/> bis er schön weiß und glatt ist <lb/> dann rühre auch nach Nothdurfft Eyer <lb/> oder nur die Dotter <lb/> mit gestoßner Muscatblüh= oder Nussen darunter <lb/> mit geriebner Semmel <lb/> oder gar weissen Meel und Saltz <lb/> machs in der Dücken <lb/> daß dir nicht zerfahren <lb/> und schlags in siedige <objectName ref="milch">Milch</objectName> <lb/> Fleisch= oder Erbes= <objectName ref="bruehe">Brühe</objectName>; und wanns fertig <lb/> so gibs in ihrer eignen <objectName ref="bruehe">Brühe</objectName> <lb/> oder seigs ab <lb/> und gibs mit= oder ohne Parmesan= Käß aufgestreuet. NB. Man kans auch mit klein= gehackten Petersil= und Kerbel= <objectName ref="kraut">Kraut</objectName> grün machen. </p>
             </div>
         </body>
     </text>

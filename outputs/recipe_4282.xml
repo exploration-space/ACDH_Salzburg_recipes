@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm geklopffte Presolen <lb/> mache sie braun in Butter <lb/> oder Speck <lb/> gleich einer braunen jus; dann gib ein kleines Rago <lb/> von wenig Schwammen <lb/> Dardoffeln und Sardellen darüber</p>
+        <p> NImm geklopffte Presolen <lb/> mache sie braun in <objectName ref="butter">Butter</objectName> <lb/> oder <objectName ref="speck">Speck</objectName> <lb/> gleich einer braunen <objectName ref="jus">jus</objectName>; dann gib ein kleines Rago <lb/> von wenig Schwammen <lb/> Dardoffeln und <objectName ref="sardellen">Sardellen</objectName> darüber </p>
             </div>
         </body>
     </text>

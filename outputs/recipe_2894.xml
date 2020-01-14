@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn muß diesen mit einer sauren Zwibel= Brühe kurtz aufkochen lassen <lb/> mit Gewürtz <lb/> Eßig <lb/> Butter und Erbes= Brühe.</p>
+        <p> MAn muß diesen mit einer sauren Zwibel= <objectName ref="bruehe">Brühe</objectName> kurtz aufkochen lassen <lb/> mit Gewürtz <lb/> Eßig <lb/> <objectName ref="butter">Butter</objectName> und Erbes= <objectName ref="bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

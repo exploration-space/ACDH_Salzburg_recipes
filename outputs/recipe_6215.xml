@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wenn die Gänß gesotten seyn gar an die statt <lb/> sonderlich die Flügel <lb/> Füß vn(d) der Halß <lb/> so wirfft man sie in heisse Butter <lb/> vn(d) rößt sie <lb/> Seig die Butter herab <lb/> nim(m) ein gute Rindtfleischbrüh <lb/> vnd ein wenig Agrastbrüh <lb/> würtz es mit gestossenem Pfeffer vnd Ingwer <lb/> laß eynsieden sampt den grünen wolschmeckenden Kräutern <lb/> wenns hat eyngesotten <lb/> so wirff die Agrastbeer darein <lb/> so werden sie gut vnd wolgeschmack. Also heißt man es gefricusierte Gänß.</p>
+        <p> Wenn die Gänß gesotten seyn gar an die statt <lb/> sonderlich die Flügel <lb/> Füß vn ( d ) der Halß <lb/> so wirfft man sie in heisse <objectName ref="butter">Butter</objectName> <lb/> vn ( d ) rößt sie <lb/> Seig die <objectName ref="butter">Butter</objectName> herab <lb/> nim ( m ) ein gute Rindtfleischbrüh <lb/> vnd ein wenig Agrastbrüh <lb/> würtz es mit gestossenem <objectName ref="pfeffer">Pfeffer</objectName> vnd <objectName ref="ingwer">Ingwer</objectName> <lb/> laß eynsieden sampt den grünen wolschmeckenden <objectName ref="kraeuter">Kräutern</objectName> <lb/> wenns hat eyngesotten <lb/> so wirff die Agrastbeer darein <lb/> so werden sie gut vnd wolgeschmack. Also heißt man es gefricusierte Gänß. </p>
             </div>
         </body>
     </text>

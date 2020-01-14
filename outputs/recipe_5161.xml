@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm eine blaue oder abgeräumte Milch <lb/> nicht zu heiß <lb/> schlag vier oder sechs Eyer darein <lb/> und sprittle es wol untereinander <lb/> mache einen Taig an <lb/> wie einen Strauben= Taig <lb/> und saltz ihn <lb/> setz ein Wasser in einer Pfannen über <lb/> nimm ein blechene Bixen <lb/> laß ein heisses Schmaltz darinn umlauffen <lb/> schütt das Schmaltz heraus <lb/> schöpfe eine Taig <lb/> ( schier halb= voll ) in die Bixen <lb/> setz die Bixen in das siedende Wasser <lb/> aber das Wasser muß nicht in die Bixen kommen <lb/> laß also sieden <lb/> biß der Taig fest genug ist <lb/> nimm ihn hernach aus der Bixen <lb/> mach etlich Schnittlein darein <lb/> bach es gar kühl und langsam.</p>
+        <p> NImm eine blaue oder abgeräumte <objectName ref="milch">Milch</objectName> <lb/> nicht zu heiß <lb/> schlag vier oder sechs Eyer darein <lb/> und sprittle es wol untereinander <lb/> mache einen Taig an <lb/> wie einen Strauben= Taig <lb/> und saltz ihn <lb/> setz ein <objectName ref="wasser">Wasser</objectName> in einer Pfannen über <lb/> nimm ein blechene Bixen <lb/> laß ein heisses Schmaltz darinn umlauffen <lb/> schütt das Schmaltz heraus <lb/> schöpfe eine Taig <lb/> ( schier halb= voll ) in die Bixen <lb/> setz die Bixen in das siedende <objectName ref="wasser">Wasser</objectName> <lb/> aber das <objectName ref="wasser">Wasser</objectName> muß nicht in die Bixen kommen <lb/> laß also sieden <lb/> biß der Taig fest genug ist <lb/> nimm ihn hernach aus der Bixen <lb/> mach etlich Schnittlein darein <lb/> bach es gar kühl und langsam. </p>
             </div>
         </body>
     </text>

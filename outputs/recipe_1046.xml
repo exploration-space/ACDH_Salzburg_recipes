@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Boil your Crabs or Lobsters; and when they are cold, take all the Meat out of the Shels and Body; mince that of the Claws small before you put it together, and add two or three Spoonsful of Claret, a very little Vinegar, and a Nutmeg grated; then let it boil up till it is thorough hot; then put in some melted Butter, with some Anchovies and Gravy, and thicken it with the Yolk of an Egg or two; when it is very hot, put it into the Shels again, and stick it with Toasts.</p>
+        <p> Boil your Crabs or Lobsters; and when they are cold, take all the Meat out of the Shels and Body; mince that of the Claws small before you put it together, and add two or three Spoonsful of Claret, a very little Vinegar, and a Nutmeg grated; then let it boil up till it is thorough hot; then put in some melted <objectName ref="butter">Butter</objectName>, with some Anchovies and Gravy, and thicken it with the Yolk of an Egg or two; when it is very hot, put it into the Shels again, and stick it with Toasts. </p>
             </div>
         </body>
     </text>

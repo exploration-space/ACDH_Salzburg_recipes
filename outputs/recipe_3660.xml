@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIeser Eyer= Käß muß allerdings auf diese weise gemacht werden <lb/> wie der vorbeschriebene <lb/> ausser daß man nur das lautere Eyerklar <lb/> oder das Weisse von denen Eyern gebraucht ; und zwar nehme man zu einer Maas Ram oder Kern von zehen oder zwölff Eyern das Weisse <lb/> und zerklopffe es sehr wohl : Dann mache man ihn allerdings <lb/> wie den vorbeschriebenen. Etliche nehmen auch wohl zu einer Maas Ram oder Kern <lb/> von achtzehen oder zwantzig Eyern das Weisse.</p>
+        <p> DIeser Eyer= Käß muß allerdings auf diese weise gemacht werden <lb/> wie der vorbeschriebene <lb/> ausser daß man nur das lautere Eyerklar <lb/> oder das Weisse von denen Eyern gebraucht; und zwar nehme man zu einer <objectName ref="maas">Maas</objectName> Ram oder Kern von zehen oder zwölff Eyern das Weisse <lb/> und zerklopffe es sehr wohl : Dann mache man ihn allerdings <lb/> wie den vorbeschriebenen. Etliche nehmen auch wohl zu einer <objectName ref="maas">Maas</objectName> Ram oder Kern <lb/> von achtzehen oder zwantzig Eyern das Weisse. </p>
             </div>
         </body>
     </text>

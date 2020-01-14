@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>LAß zuvörderst den Lendbraten häuten <lb/> beitze ihn dann mit gestossenen Wachholderbeeren und ein wenig Kümmel <lb/> im Wein= Essig <lb/> vier oder fünff Tage ein <lb/> laß ihn <lb/> wann er gespickt <lb/> so lang als ein paar Eyer in der Brüh <lb/> darinnen er gebeitzet worden <lb/> sieden ; stecke solchen dann an den Spieß <lb/> und begieß ihn mit Milchram und vorbesagter Brüh <lb/> darinnen er gebeitzt und gesotten hat <lb/> gieb im anfang weniges <lb/> zu letzt aber wohl starckes <lb/> Feuer <lb/> damit er recht ausbrate und schön braun werde ; lege ihn dann in die Schüssel <lb/> und richte von der Brüh aus der Bratpfannen <lb/> mit welcher ist getreifft worden <lb/> darüber.</p>
+        <p> LAß zuvörderst den Lendbraten häuten <lb/> beitze ihn dann mit gestossenen Wachholderbeeren und ein wenig <objectName ref="kuemmel">Kümmel</objectName> <lb/> im Wein= <objectName ref="essig">Essig</objectName> <lb/> vier oder fünff Tage ein <lb/> laß ihn <lb/> wann er gespickt <lb/> so lang als ein paar Eyer in der Brüh <lb/> darinnen er gebeitzet worden <lb/> sieden; stecke solchen dann an den <objectName ref="spiess">Spieß</objectName> <lb/> und begieß ihn mit Milchram und vorbesagter Brüh <lb/> darinnen er gebeitzt und gesotten hat <lb/> gieb im anfang weniges <lb/> zu letzt aber wohl starckes <lb/> <objectName ref="feuer">Feuer</objectName> <lb/> damit er recht ausbrate und schön braun werde; lege ihn dann in die <objectName ref="schuessel">Schüssel</objectName> <lb/> und richte von der Brüh aus der Bratpfannen <lb/> mit welcher ist getreifft worden <lb/> darüber. </p>
             </div>
         </body>
     </text>

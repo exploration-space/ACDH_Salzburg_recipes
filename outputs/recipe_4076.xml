@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIede den zuvor geschuppten Hecht im Saltzwasser ab <lb/> und blättere ihn alsdann : nimm ferner von lebendigen Krebsen die Scheeren und Schwäntze heraus <lb/> und laß sie zusamt dem geblätterten Hecht <lb/> in einer durchgezwungenen Erbis= Brüh sieden <lb/> so werden beedes der Fisch und die Brüh schön roth ; würtze es mit Cardamomen und Muscaten= Blüh <lb/> und laß zuletzt noch ein Stuck Butter damit aufsieden.</p>
+        <p> SIede den zuvor geschuppten <objectName ref="hecht">Hecht</objectName> im Saltzwasser ab <lb/> und blättere ihn alsdann : nimm ferner von lebendigen <objectName ref="krebse">Krebsen</objectName> die Scheeren und Schwäntze heraus <lb/> und laß sie zusamt dem geblätterten <objectName ref="hecht">Hecht</objectName> <lb/> in einer durchgezwungenen Erbis= Brüh sieden <lb/> so werden beedes der <objectName ref="fisch">Fisch</objectName> und die Brüh schön roth; würtze es mit Cardamomen und Muscaten= Blüh <lb/> und laß zuletzt noch ein Stuck <objectName ref="butter">Butter</objectName> damit aufsieden. </p>
             </div>
         </body>
     </text>

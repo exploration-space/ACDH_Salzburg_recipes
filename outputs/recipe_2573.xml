@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEn Hopffen kan man allerdings wie den kleinen Spargel= Salat zurichten <lb/> nur daß er nicht abgebrochen <lb/> sondern oben <lb/> wie bey dem grossen Spargel <lb/> ein wenig abgeschnitten <lb/> und die unsaubern Blätlein davon abgeschabet werden. Zu diesem Salat kan man auch ein Schaf= Mäuler= oder Feld= Salat anmachen <lb/> und eine schöne grosse Käs= oder Blumen= Kohl= Stauden in die Mitte der Schüssel setzen <lb/> alsdann den Schafmäuler= oder Feld= Salat um selbige <lb/> gantz zu äußerst aber den Hopffen= Salat <lb/> wie einen Krantz <lb/> in die Runde herum legen <lb/> und zu letzt mit klein= geschnittenen Citronen= Schelffen überstreuen und bezieren.</p>
+        <p> DEn Hopffen kan man allerdings wie den kleinen Spargel= <objectName ref="salat">Salat</objectName> zurichten <lb/> nur daß er nicht abgebrochen <lb/> sondern oben <lb/> wie bey dem grossen <objectName ref="spargel">Spargel</objectName> <lb/> ein wenig abgeschnitten <lb/> und die unsaubern Blätlein davon abgeschabet werden. Zu diesem <objectName ref="salat">Salat</objectName> kan man auch ein Schaf= Mäuler= oder Feld= <objectName ref="salat">Salat</objectName> anmachen <lb/> und eine schöne grosse Käs= oder Blumen= Kohl= Stauden in die Mitte der <objectName ref="schuessel">Schüssel</objectName> setzen <lb/> alsdann den Schafmäuler= oder Feld= <objectName ref="salat">Salat</objectName> um selbige <lb/> gantz zu äußerst aber den Hopffen= <objectName ref="salat">Salat</objectName> <lb/> wie einen Krantz <lb/> in die Runde herum legen <lb/> und zu letzt mit klein= geschnittenen Citronen= Schelffen überstreuen und bezieren. </p>
             </div>
         </body>
     </text>

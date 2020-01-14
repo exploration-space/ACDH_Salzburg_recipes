@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) ein gesotten Brust von einem Kappaunen <lb/> schneidt sie mit einem Messer fein klein <lb/> vnnd thu es vnter den Kappaunen <lb/> laß darmit einen Sudt auffthun <lb/> es sey im Silber oder in der Schüssel <lb/> gibs dem Krancken zu essen <lb/> so ist es auch ein linde Speiß.</p>
+        <p> Nim ( m ) ein gesotten <objectName ref="brust">Brust</objectName> von einem Kappaunen <lb/> schneidt sie mit einem <objectName ref="messer">Messer</objectName> fein klein <lb/> vnnd thu es vnter den Kappaunen <lb/> laß darmit einen Sudt auffthun <lb/> es sey im <objectName ref="silber">Silber</objectName> oder in der <objectName ref="schuessel">Schüssel</objectName> <lb/> gibs dem Krancken zu essen <lb/> so ist es auch ein linde Speiß. </p>
             </div>
         </body>
     </text>

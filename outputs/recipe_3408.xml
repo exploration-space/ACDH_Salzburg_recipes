@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WIe die Haßel= und Reb= Hünlein in die Pasteten sollen eingericht werden <lb/> ist schon in dem Bacherey= Buch unter denen Pasteten zu finden <lb/> werden also die ausgelößte Austern frischer <lb/> oder in Butter geröster mit wenig Semmel= Brosen darein gemischet; In dem Casserol aber werden die Haßel= Hünlein mit Speck <lb/> Butter und wenig Meel eingericht <lb/> sammt einem mit Nägelein= besteckten Zwibel geröst <lb/> mit Gewürtz <lb/> Eßig und weniger Fleischbrühe versehen <lb/> wie auch mit Austern <lb/> oder andern Zusatz verschlossner gar kochen lassen.</p>
+        <p> WIe die Haßel= und Reb= Hünlein in die <objectName ref="pastete">Pasteten</objectName> sollen eingericht werden <lb/> ist schon in dem Bacherey= Buch unter denen <objectName ref="pastete">Pasteten</objectName> zu finden <lb/> werden also die ausgelößte <objectName ref="austern">Austern</objectName> frischer <lb/> oder in <objectName ref="butter">Butter</objectName> geröster mit wenig Semmel= Brosen darein gemischet; In dem Casserol aber werden die Haßel= Hünlein mit <objectName ref="speck">Speck</objectName> <lb/> <objectName ref="butter">Butter</objectName> und wenig Meel eingericht <lb/> sammt einem mit Nägelein= besteckten Zwibel geröst <lb/> mit Gewürtz <lb/> Eßig und weniger <objectName ref="fleischbruehe">Fleischbrühe</objectName> versehen <lb/> wie auch mit <objectName ref="austern">Austern</objectName> <lb/> oder andern Zusatz verschlossner gar kochen lassen. </p>
             </div>
         </body>
     </text>

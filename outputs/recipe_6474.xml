@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mach ein Teig an mit lauter Eyer mit Dotter vnnd weiß  sonderlich wenn die Eyer gar frisch seyn <lb/> vnnd schön Mehl <lb/> so werden es schöne Piscoten.</p>
+        <p> Mach ein <objectName ref="teig">Teig</objectName> an mit lauter Eyer mit Dotter vnnd weiß sonderlich wenn die Eyer gar frisch seyn <lb/> vnnd schön <objectName ref="mehl">Mehl</objectName> <lb/> so werden es schöne Piscoten. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn sie auf dem heiß=gemachten Rost gebraten werden <lb/> so seynd sie schier zum besten <lb/> mit Oel und Eßig <lb/> Pfeffer und Saltz.</p>
+        <p> WAnn sie auf dem heiß=gemachten <objectName ref="rost">Rost</objectName> gebraten werden <lb/> so seynd sie schier zum besten <lb/> mit Oel und Eßig <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Saltz. </p>
             </div>
         </body>
     </text>

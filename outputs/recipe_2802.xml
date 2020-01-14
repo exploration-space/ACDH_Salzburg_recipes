@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZU diesen soll man säurlete Aepffel klein hacken <lb/> und im Schmaltz rösten <lb/> halb so viel geriebne Semmel darzu thun <lb/> und Weinbeerlein <lb/> auch Zucker <lb/> Zimmet und Imberstup <lb/> und so viel als vonnöthen Eyer daran schlagen <lb/> Knödel daraus gemacht <lb/> in einem Meel umkehrt <lb/> und fein kühl im Schmaltz bachen <lb/> darnach ein gutes Süppel (auch von Weixeln) darüber gemacht <lb/> (also macht mans auch von Weixeln und Zwetschgen <lb/> man muß die Weixeln durchschlagen.)</p>
+        <p> ZU diesen soll man säurlete Aepffel klein hacken <lb/> und im Schmaltz rösten <lb/> halb so viel geriebne Semmel darzu thun <lb/> und Weinbeerlein <lb/> auch <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet und Imberstup <lb/> und so viel als vonnöthen Eyer daran schlagen <lb/> <objectName ref="knoedel">Knödel</objectName> daraus gemacht <lb/> in einem Meel umkehrt <lb/> und fein kühl im Schmaltz bachen <lb/> darnach ein gutes Süppel ( auch von Weixeln ) darüber gemacht <lb/> ( also macht mans auch von Weixeln und Zwetschgen <lb/> man muß die Weixeln durchschlagen. ) </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Füß kanstu eynmachen in einem schwartzen Pfeffer <lb/> vnter grünen Köl <lb/> oder vnter saurem Kraut.</p>
+        <p> Füß kanstu eynmachen in einem schwartzen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> vnter grünen Köl <lb/> oder vnter saurem <objectName ref="kraut">Kraut</objectName>. </p>
             </div>
         </body>
     </text>

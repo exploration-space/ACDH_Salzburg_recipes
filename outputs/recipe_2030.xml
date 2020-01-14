@@ -185,13 +185,7 @@ Variante mit eingelegtem Huhn</title>
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wen man die Bratfisch Will warmer auf den tisch geben, <lb/> so schiepe sie, vnd laß ein stund im Salz ligen, streichs ab, <lb/> lains ein Wenig Zum feuer, das er Erstarrt, bestreich ihn <lb/> mit Puter, besäe ihn mit mell, vnd lain ihn Wider Zum <lb/> Feuer, brat ihn schön ab, bestreich ihn ihmerzue mit Puter, <lb/> so Wird er schön resch, gib ihn ganzer auf den tisch, stup <lb/> ihn mit Pfeffer. <lb/>
-
-Wen man die Visch fühlen Will, so nimb den Magen vnd <lb/> die Leber, seuds in gsalznen Wasser, hakhs khlein, Nimb <lb/> gestossne Mandl vnd khleine Weinpör, die schen gewaschen <lb/> sein, vnd ein Sembl in Rosenwasser gewaickht, Rührs alles <lb/> undereinander, stups mit Nägel, Imber vnd Zimet, fühl <lb/> den fisch ein. <lb/>
-
-Wen man die visch schen blab Will absieden, so Wirff ein <lb/> Prokhen Allaun darzue, Wen sie schier gesoten sein. <lb/>
-
-Visch in gäbern oder Agraß äll, oder Puter eingemacht, <lb/> Eingemacht hüener in Lemonÿ oder Agraß, in auß= <lb/> geholte Sembl, die im schmalz gebachen ist, darinen <lb/> hergeben, sein guet. <lb/></p>
+        <p> Wen man die <objectName ref="bratfisch">Bratfisch</objectName> Will warmer auf den <objectName ref="tisch">tisch</objectName> geben, <lb/> so schiepe sie, vnd laß ein stund im <objectName ref="salz">Salz</objectName> ligen, streichs ab, <lb/> lains ein Wenig Zum <objectName ref="feuer">feuer</objectName>, das er Erstarrt, bestreich ihn <lb/> mit Puter, besäe ihn mit mell, vnd lain ihn Wider Zum <lb/> <objectName ref="feuer">Feuer</objectName>, brat ihn schön ab, bestreich ihn ihmerzue mit Puter, <lb/> so Wird er schön resch, gib ihn ganzer auf den <objectName ref="tisch">tisch</objectName>, stup <lb/> ihn mit <objectName ref="pfeffer">Pfeffer</objectName>. <lb/> Wen man die Visch fühlen Will, so nimb den <objectName ref="magen">Magen</objectName> vnd <lb/> die <objectName ref="leber">Leber</objectName>, seuds in gsalznen <objectName ref="wasser">Wasser</objectName>, hakhs khlein, Nimb <lb/> gestossne Mandl vnd khleine Weinpör, die schen gewaschen <lb/> sein, vnd ein Sembl in <objectName ref="rosenwasser">Rosenwasser</objectName> gewaickht, Rührs alles <lb/> undereinander, stups mit <objectName ref="naegel">Nägel</objectName>, Imber vnd Zimet, fühl <lb/> den <objectName ref="fisch">fisch</objectName> ein. <lb/> Wen man die visch schen blab Will absieden, so Wirff ein <lb/> Prokhen Allaun darzue, Wen sie schier gesoten sein. <lb/> Visch in gäbern oder Agraß äll, oder Puter eingemacht, <lb/> Eingemacht hüener in Lemonÿ oder Agraß, in auß= <lb/> geholte Sembl, die im <objectName ref="schmalz">schmalz</objectName> gebachen ist, darinen <lb/> hergeben, sein guet. <lb/> </p>
             </div>
         </body>
     </text>

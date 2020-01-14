@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Enten Pasteten kalt in einer auffgetriebenen Pasteten von Rucken Teig <lb/> ist gut vnd wolgeschmack.</p>
+        <p> <objectName ref="ente">Enten</objectName> <objectName ref="pastete">Pasteten</objectName> kalt in einer auffgetriebenen <objectName ref="pastete">Pasteten</objectName> von Rucken <objectName ref="teig">Teig</objectName> <lb/> ist gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

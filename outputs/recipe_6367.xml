@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Feigen <lb/> vnd butz sie fein auß <lb/> nim(m) Mehl <lb/> vnnd thu Saffran darvnter <lb/> rür es mit Wein ab <lb/> mach den Teig nicht zu dick <lb/> vnd auch nicht zu dünn <lb/> walg die Feigen darinn vmb <lb/> vnnd wirff sie in heisse Butter <lb/> back sie auß <lb/> so werden sie fein resch <lb/> besträw sie mit weissem Zucker <lb/> vnd gibs warm auff ein Tisch <lb/> so ist es gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) <objectName ref="feigen">Feigen</objectName> <lb/> vnd butz sie fein auß <lb/> nim ( m ) <objectName ref="mehl">Mehl</objectName> <lb/> vnnd thu Saffran darvnter <lb/> rür es mit <objectName ref="wein">Wein</objectName> ab <lb/> mach den <objectName ref="teig">Teig</objectName> nicht zu dick <lb/> vnd auch nicht zu dünn <lb/> walg die <objectName ref="feigen">Feigen</objectName> darinn vmb <lb/> vnnd wirff sie in heisse <objectName ref="butter">Butter</objectName> <lb/> back sie auß <lb/> so werden sie fein resch <lb/> besträw sie mit weissem <objectName ref="zucker">Zucker</objectName> <lb/> vnd gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

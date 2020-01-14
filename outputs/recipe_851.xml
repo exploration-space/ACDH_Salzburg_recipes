@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Siedt man auch mit Zucker zu Latwergen <lb/> und gibs zum Confect <lb/> und vor die Krancke; Item <lb/> ist auch gut zu allerhand süssen Brühen.</p>
+        <p> Siedt man auch mit <objectName ref="zucker">Zucker</objectName> zu <objectName ref="latwerge">Latwergen</objectName> <lb/> und gibs zum Confect <lb/> und vor die Krancke; Item <lb/> ist auch gut zu allerhand süssen <objectName ref="bruehe">Brühen</objectName>. </p>
             </div>
         </body>
     </text>

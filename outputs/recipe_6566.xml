@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schwartz auff Vngerisch eyngemacht in einem Pfeffer <lb/> nim darzu Schweiß von einem Karpffen.</p>
+        <p> Schwartz auff Vngerisch eyngemacht in einem <objectName ref="pfeffer">Pfeffer</objectName> <lb/> nim darzu Schweiß von einem Karpffen. </p>
             </div>
         </body>
     </text>

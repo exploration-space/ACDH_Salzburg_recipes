@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Clain rothe Krepßl, thue die gall daruon, Stoß in einen Merßer, <lb/><lb/> nimb ein Obere milch, vnd .5 oder .6 ayr, Zerschlags woll, gieß an die <lb/> Zerstosßne Krepßen, thue es auf ein Sibl, vnd truckh den Safft woll <lb/> heraus, thue ein putter in ein Schißl, vnd gieß dasselbige darein, <lb/> leg ein gluetl darauf, so wirts ein schennes rothes Koch. man machts <lb/> auch von den schellern, wan man die Rotten Krepßen aufmacht, wie <lb/> mans in die austern Schellern macht. <lb/></p>
+        <p> Nimb Clain rothe Krepßl, thue die gall daruon, Stoß in einen Merßer, <lb/><lb/> nimb ein Obere <objectName ref="milch">milch</objectName>, vnd.5 oder.6 ayr, Zerschlags woll, gieß an die <lb/> Zerstosßne Krepßen, thue es auf ein Sibl, vnd truckh den Safft woll <lb/> heraus, thue ein putter in ein Schißl, vnd gieß dasselbige darein, <lb/> leg ein gluetl darauf, so wirts ein schennes rothes Koch. man machts <lb/> auch von den schellern, wan man die Rotten Krepßen aufmacht, wie <lb/> mans in die <objectName ref="austern">austern</objectName> Schellern macht. <lb/> </p>
             </div>
         </body>
     </text>

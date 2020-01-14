@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChählet die Aepffel <lb/> lasset die Stiele daran <lb/> schwinget sie erstlich im Wein <lb/> und so dann im schönen Mehl ; setzet jedesmal ein Paar neben einander in ein warmes Schmaltz <lb/> so nicht gar zu heiß ist <lb/> und lassets langsam bachen.</p>
+        <p> SChählet die Aepffel <lb/> lasset die Stiele daran <lb/> schwinget sie erstlich im <objectName ref="wein">Wein</objectName> <lb/> und so dann im schönen <objectName ref="mehl">Mehl</objectName>; setzet jedesmal ein Paar neben einander in ein warmes Schmaltz <lb/> so nicht gar zu heiß ist <lb/> und lassets langsam bachen. </p>
             </div>
         </body>
     </text>

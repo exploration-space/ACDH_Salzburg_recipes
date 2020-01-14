@@ -171,9 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Zuschneidt die Sültzen zween Finger breit <lb/> vnd fein lenglicht <lb/> nim(m) Rindernfeißt <lb/> das wol mit dem Fleisch gesotten <lb/> auch grüne Kräuter <lb/> ein eingeweichten Weck <lb/> vnd ein wenig Zwibel <lb/> hack das durch einander <lb/> Thu es in ein gute Rindtfleischbrüh <lb/> vnnd laß darmit sieden. Butz den Ochsendarm fein sauber auß <lb/> vnd laß das Feißt daran <lb/> nim(m) ein schönen Reiß <lb/> der sauber außgewaschen ist <lb/> kehr den Ochsendarm vmb <lb/> daß das Feißt herauß kompt <lb/> vnd besträw jn mit dem Reiß <lb/> kehr jn wider vmb <lb/> daß es innwendig kompt <lb/> thu jn in heiß gesotten Wasser <lb/> vnd laß gar an die statt sieden <lb/> so wirt der Reiß in dem Darm gekocht. Du kanst auch von Hirßbrey ein solchen Darm zurichten.
-
-</p>
+        <p> Zuschneidt die Sültzen zween Finger breit <lb/> vnd fein lenglicht <lb/> nim ( m ) Rindernfeißt <lb/> das wol mit dem <objectName ref="fleisch">Fleisch</objectName> gesotten <lb/> auch grüne <objectName ref="kraeuter">Kräuter</objectName> <lb/> ein eingeweichten Weck <lb/> vnd ein wenig Zwibel <lb/> hack das durch einander <lb/> Thu es in ein gute Rindtfleischbrüh <lb/> vnnd laß darmit sieden. Butz den <objectName ref="ochsendarm">Ochsendarm</objectName> fein sauber auß <lb/> vnd laß das Feißt daran <lb/> nim ( m ) ein schönen Reiß <lb/> der sauber außgewaschen ist <lb/> kehr den <objectName ref="ochsendarm">Ochsendarm</objectName> vmb <lb/> daß das Feißt herauß kompt <lb/> vnd besträw jn mit dem Reiß <lb/> kehr jn wider vmb <lb/> daß es innwendig kompt <lb/> thu jn in heiß gesotten <objectName ref="wasser">Wasser</objectName> <lb/> vnd laß gar an die statt sieden <lb/> so wirt der Reiß in dem <objectName ref="darm">Darm</objectName> gekocht. Du kanst auch von Hirßbrey ein solchen <objectName ref="darm">Darm</objectName> zurichten. </p>
             </div>
         </body>
     </text>

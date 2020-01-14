@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb aber solche geschnitne Nudl, bachs im schmalz, nimb in ein pfändl <lb/> guete milch, vnd Puter, Zukhers, thue die bachne Nudl drein, also fein <lb/> safftig, aber schene Rämbl dran, richts an auf ein schißl. <lb/></p>
+        <p> Nimb aber solche geschnitne Nudl, bachs im <objectName ref="schmalz">schmalz</objectName>, nimb in ein pfändl <lb/> guete <objectName ref="milch">milch</objectName>, vnd Puter, Zukhers, thue die bachne Nudl drein, also fein <lb/> safftig, aber schene Rämbl dran, richts an auf ein schißl. <lb/> </p>
             </div>
         </body>
     </text>

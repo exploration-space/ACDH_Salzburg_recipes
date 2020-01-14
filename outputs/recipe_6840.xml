@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Hattele vom Dendel in Pasteten <lb/> die auffgesetzt ist <lb/> warm gegeben.</p>
+        <p> Hattele vom Dendel in <objectName ref="pastete">Pasteten</objectName> <lb/> die auffgesetzt ist <lb/> warm gegeben. </p>
             </div>
         </body>
     </text>

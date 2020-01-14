@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Take Half a Pound of Sagoe, and wash it well in three or four Waters; then put to it a Quart of new Milk, and let it boil till it is as thick as Hasty-Pudding; stir it carefully, lest it should burn; put in a Stick of Cinamon when you set it on the fire, and take it out when it is boiled. Before you pour it out stir in near Half a Pound of Butter; beat nine Eggs with four Spoonsful of Sack; leave out four Whites; stir all together, sweeten it to your Taste, and put in a Quarter of a Pound of plump'd Currants; lay a Sheet of Puff-paste under, and so garnish the Dish.</p>
+        <p> Take Half a Pound of Sagoe, and wash it well in three or four Waters; then put to it a <objectName ref="quart">Quart</objectName> of new Milk, and let it boil till it is as thick as Hasty-Pudding; stir it carefully, lest it should burn; put in a Stick of Cinamon when you set it on the fire, and take it out when it is boiled. Before you pour it out stir in near Half a Pound of <objectName ref="butter">Butter</objectName>; beat nine Eggs with four Spoonsful of <objectName ref="sack">Sack</objectName>; leave out four Whites; stir all together, sweeten it to your Taste, and put in a Quarter of a Pound of plump 'd Currants; lay a Sheet of Puff-paste under, and so garnish the Dish. </p>
             </div>
         </body>
     </text>

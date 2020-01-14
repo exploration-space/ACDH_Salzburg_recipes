@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn nimmt 3. Pf. Schwein= und 3. Pf. Rindfleisch <lb/> alles durch einander gar klein gehacket <lb/> darzu 2. Pf. Speck <lb/> und 2. Loth Pfeffer <lb/> 15. Loth <lb/> alles wohl unter einander gemenget <lb/> und hart zusammen gestossen <lb/> vor dem Ofen getrocknet <lb/> und nicht in den Rauch gehangen ; oder man nimmt zu 6. Pf. gehacktes Schwein= Fleisch <lb/> 4. Pf. ander gehacktes Rindfleisch darzu <lb/> 4 Pf. Speck <lb/> 15. Loth Saltz <lb/> 4. Loth Pfeffer <lb/> 2. Loth Coriander <lb/> und 2. Maaß Wasser.</p>
+        <p> MAn nimmt 3. Pf. Schwein= und 3. Pf. <objectName ref="rindfleisch">Rindfleisch</objectName> <lb/> alles durch einander gar klein gehacket <lb/> darzu 2. Pf. <objectName ref="speck">Speck</objectName> <lb/> und 2. <objectName ref="loth">Loth</objectName> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> 15. <objectName ref="loth">Loth</objectName> <lb/> alles wohl unter einander gemenget <lb/> und hart zusammen gestossen <lb/> vor dem <objectName ref="ofen">Ofen</objectName> getrocknet <lb/> und nicht in den <objectName ref="rauch">Rauch</objectName> gehangen; oder man nimmt zu 6. Pf. gehacktes Schwein= <objectName ref="fleisch">Fleisch</objectName> <lb/> 4. Pf. ander gehacktes <objectName ref="rindfleisch">Rindfleisch</objectName> darzu <lb/> 4 Pf. <objectName ref="speck">Speck</objectName> <lb/> 15. <objectName ref="loth">Loth</objectName> Saltz <lb/> 4. <objectName ref="loth">Loth</objectName> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> 2. <objectName ref="loth">Loth</objectName> Coriander <lb/> und 2. Maaß <objectName ref="wasser">Wasser</objectName>. </p>
             </div>
         </body>
     </text>

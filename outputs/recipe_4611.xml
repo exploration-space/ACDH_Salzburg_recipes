@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>VErklopffet sechs Eyer <lb/> rühret <lb/> eines Eyes groß <lb/> Butter darunter <lb/> wie auch einen Löffel voll Rosen= oder Zimmet= Wasser ; macht mit einem zarten schönen Mehl ein lindes Teiglein an <lb/> und knetet selbiges mit Zucker wohl ab <lb/> treibet ihn eines kleinen Fingers dick aus : Leget ein von Karten= Papier ausgeschnittenes Hertz oder Rauten auf den Teig <lb/> schneidets durch <lb/> bachets <lb/> auf einem mit Butter= geschmirten und Mehl bestreueten Blech <lb/> im Ofen <lb/> überstreicht es mit einem glatten Eiß <lb/> und verguldets nach gefallen.</p>
+        <p> VErklopffet sechs Eyer <lb/> rühret <lb/> eines Eyes groß <lb/> <objectName ref="butter">Butter</objectName> darunter <lb/> wie auch einen <objectName ref="loeffel">Löffel</objectName> voll Rosen= oder Zimmet= <objectName ref="wasser">Wasser</objectName>; macht mit einem zarten schönen <objectName ref="mehl">Mehl</objectName> ein lindes Teiglein an <lb/> und knetet selbiges mit <objectName ref="zucker">Zucker</objectName> wohl ab <lb/> treibet ihn eines kleinen Fingers dick aus : Leget ein von Karten= <objectName ref="papier">Papier</objectName> ausgeschnittenes Hertz oder Rauten auf den <objectName ref="teig">Teig</objectName> <lb/> schneidets durch <lb/> bachets <lb/> auf einem mit Butter= geschmirten und <objectName ref="mehl">Mehl</objectName> bestreueten <objectName ref="blech">Blech</objectName> <lb/> im <objectName ref="ofen">Ofen</objectName> <lb/> überstreicht es mit einem glatten Eiß <lb/> und verguldets nach gefallen. </p>
             </div>
         </body>
     </text>

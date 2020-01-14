@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIede ein neu gelegtes Ey in Wein hart <lb/> darnach nimm den Dottern davon heraus <lb/> zertreib denselben <lb/> und zwiere ihn mit etwas wenigs Wein an <lb/> thue Saltz dazu <lb/> und so viel Saffran als zum gülben nöthig ist <lb/> zuckers wohl <lb/> laß sieden ; rühre es aber immerzu um <lb/> und richts hernach über weisses und würfflicht= geschnittenes Brod.</p>
+        <p> SIede ein neu gelegtes Ey in <objectName ref="wein">Wein</objectName> hart <lb/> darnach nimm den Dottern davon heraus <lb/> zertreib denselben <lb/> und zwiere ihn mit etwas wenigs <objectName ref="wein">Wein</objectName> an <lb/> thue Saltz dazu <lb/> und so viel Saffran als zum gülben nöthig ist <lb/> zuckers wohl <lb/> laß sieden; rühre es aber immerzu um <lb/> und richts hernach über weisses und würfflicht= geschnittenes Brod. </p>
             </div>
         </body>
     </text>

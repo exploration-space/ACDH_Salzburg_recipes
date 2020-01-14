@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim acht loth guten Venedischen Theriac <lb/> 2. loht Pomerantzenschelen <lb/> Tormentillwurtzel vnnd Zitwan <lb/> jedes anderthalb loht <lb/> 1. quint Osterlucey= wurtzel <lb/> machs alles zu reinem Pulver <lb/> thus in einen Mörser <lb/> vnd zerstoß es wol mit dem Theriac <lb/> daß es alles wird <lb/> wie ein Theriac zu seyn pflegt <lb/> thus in ein bleyerne Büchsen <lb/> so bleibt er frisch <lb/> wird er a= ber hart <lb/> so stoß ihn mit Malvasier.</p>
+        <p> Nim acht <objectName ref="loth">loth</objectName> guten Venedischen Theriac <lb/> 2. loht Pomerantzenschelen <lb/> Tormentillwurtzel vnnd Zitwan <lb/> jedes anderthalb loht <lb/> 1. <objectName ref="quint">quint</objectName> Osterlucey= wurtzel <lb/> machs alles zu reinem Pulver <lb/> thus in einen <objectName ref="moerser">Mörser</objectName> <lb/> vnd zerstoß es wol mit dem Theriac <lb/> daß es alles wird <lb/> wie ein Theriac zu seyn pflegt <lb/> thus in ein bleyerne Büchsen <lb/> so bleibt er frisch <lb/> wird er a= ber hart <lb/> so stoß ihn mit Malvasier. </p>
             </div>
         </body>
     </text>

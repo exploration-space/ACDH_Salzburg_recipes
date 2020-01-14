@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm schönes Meel <lb/> und setz es auf den Ofen <lb/> daß warm wird <lb/> darnach nimm ein Häfelein <lb/> und schlag vier Eyerdotter darein <lb/> und ein halbes Seitlein gute Milch <lb/> dann drey Löffelvoll gute Bier= Germb <lb/> nimm ein zergangenes Strützlein Butter <lb/> und rührs alles untereinander ab <lb/>und mache den Taig an <lb/> oder zähe ihn so viel ab <lb/> daß er an Händen nicht pichen bleibt <lb/> saltz ihn <lb/> hernach mache die Krapffen aufs Brett<lb/> wie groß du wilst <lb/> und halts warm <lb/> daß sie gar schön aufgehen <lb/> alsdann bachs in Schmaltz <lb/> nicht gar zu starck <lb/> so werden sie gut.</p>
+        <p> NImm schönes Meel <lb/> und setz es auf den <objectName ref="ofen">Ofen</objectName> <lb/> daß warm wird <lb/> darnach nimm ein <objectName ref="haefelein">Häfelein</objectName> <lb/> und schlag vier Eyerdotter darein <lb/> und ein halbes <objectName ref="seitlein">Seitlein</objectName> gute <objectName ref="milch">Milch</objectName> <lb/> dann drey Löffelvoll gute Bier= Germb <lb/> nimm ein zergangenes Strützlein <objectName ref="butter">Butter</objectName> <lb/> und rührs alles untereinander ab /und mache den Taig an <lb/> oder zähe ihn so viel ab <lb/> daß er an Händen nicht pichen bleibt <lb/> saltz ihn <lb/> hernach mache die Krapffen aufs Brett/ wie groß du wilst <lb/> und halts warm <lb/> daß sie gar schön aufgehen <lb/> alsdann bachs in Schmaltz <lb/> nicht gar zu starck <lb/> so werden sie gut. </p>
             </div>
         </body>
     </text>

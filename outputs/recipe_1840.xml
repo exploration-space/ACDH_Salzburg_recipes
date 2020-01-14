@@ -175,19 +175,7 @@ Willst du eine gute Wurst aus Rebhühnern machen, dann nimm Rebhuhn- und Schwein
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WIldu machn̄ gut wurst von rephunʾr
-so nym Re etc. vnd sweines praͤt
-vnd loz daz praͤt schon ab den Rep etc. vnd
-habstu des sweines praͤt nicht So nÿm
-kelberens an die stat vnd hack klain durch
-ein andʾ vnd sneÿd grü spechk auch dar
-vndʾ wurfflot vnd tu auch Kumy ͬ (?) dar
-vndʾ vnd wil du sÿ rotleichn̄ habn̄ so
-sneÿd muskat dar vndʾ vnd nÿm dan
-ein sweinens smalcz dar an vnd fuls
-dar ein vn̄ prat si schon vnd mach dar-
-czw ein Salsen vnd mād̄l vnd mit
-wein vnd von ymber vnd gib es daz hin</p>
+        <p> WIldu machn̄ gut <objectName ref="wurst">wurst</objectName> von rephunʾr so nym Re etc. vnd sweines praͤt vnd loz daz praͤt schon ab den Rep etc. vnd habstu des sweines praͤt nicht So nÿm kelberens an die stat vnd hack klain durch ein andʾ vnd sneÿd grü spechk auch dar vndʾ wurfflot vnd tu auch Kumy ͬ ( ? ) dar vndʾ vnd wil du sÿ rotleichn̄ habn̄ so sneÿd <objectName ref="muskat">muskat</objectName> dar vndʾ vnd nÿm dan ein sweinens smalcz dar an vnd fuls dar ein vn̄ prat si schon vnd mach dar- czw ein Salsen vnd mād̄l vnd mit <objectName ref="wein">wein</objectName> vnd von ymber vnd gib es daz hin </p>
             </div>
         </body>
     </text>

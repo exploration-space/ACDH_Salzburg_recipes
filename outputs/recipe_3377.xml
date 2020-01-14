@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>LAchs oder Rhein= Salm= Presolen sind frischer zuzurichten <lb/> mit Saltz <lb/> Gewürtz und Butter zur Tafel gegeben.</p>
+        <p> <objectName ref="lachs">LAchs</objectName> oder Rhein= Salm= Presolen sind frischer zuzurichten <lb/> mit Saltz <lb/> Gewürtz und <objectName ref="butter">Butter</objectName> zur Tafel gegeben. </p>
             </div>
         </body>
     </text>

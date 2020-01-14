@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Artischocken werden geschnitten <lb/> gesotten <lb/> das Haar ausgehebt <lb/> in ein mit Butter bestrichne Schüssel gesetzt <lb/> mit Pfeffer und wol Muscatnuß gewürtzt <lb/> dann mit siedigem <lb/> sauren oder süssen Ram <lb/> eine gute Dotterbrühe gemacht <lb/> und durch das Haarsieb an die Artischocken getrieben <lb/> und warm zu Tisch gegeben: dergleichen Dotterbrühe gibt man auch von guter Erbes= und anderer guten Jus von Fischen gemacht <lb/> über die Artischocken durch das Haarsieb.</p>
+        <p> DIe <objectName ref="artischocken">Artischocken</objectName> werden geschnitten <lb/> gesotten <lb/> das Haar ausgehebt <lb/> in ein mit <objectName ref="butter">Butter</objectName> bestrichne <objectName ref="schuessel">Schüssel</objectName> gesetzt <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName> und wol Muscatnuß gewürtzt <lb/> dann mit siedigem <lb/> sauren oder süssen Ram <lb/> eine gute <objectName ref="dotterbruehe">Dotterbrühe</objectName> gemacht <lb/> und durch das <objectName ref="haarsieb">Haarsieb</objectName> an die <objectName ref="artischocken">Artischocken</objectName> getrieben <lb/> und warm zu <objectName ref="tisch">Tisch</objectName> gegeben : dergleichen <objectName ref="dotterbruehe">Dotterbrühe</objectName> gibt man auch von guter Erbes= und anderer guten <objectName ref="jus">Jus</objectName> von Fischen gemacht <lb/> über die <objectName ref="artischocken">Artischocken</objectName> durch das <objectName ref="haarsieb">Haarsieb</objectName>. </p>
             </div>
         </body>
     </text>

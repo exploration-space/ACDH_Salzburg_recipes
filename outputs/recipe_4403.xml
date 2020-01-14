@@ -178,12 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nehmet eine Kalbs = Lunge zusamt dem Hertz <lb/> waschet solche sauber <lb/> schneidet am Hertz die Ohren herab <lb/> saltzet und setzet sie im Wasser zu ; wann nun die Lunge allerdings weich gesotten <lb/> giesset die Brüh davon <lb/> und schneidet selbige zu kleinen Stücklein <lb/> leget sie in einen stollichten Hafen <lb/> röstet eine grosse Zwiebel <lb/> länglicht zerschnitten <lb/> im Schmaltz <lb/> mischet sie unter die Lunge <lb/> ingleichen auch ein wenig geröstetes Mehl ; streuet Pfeffer <lb/> Ingber <lb/> Muscatnuß und Saffran darein <lb/> giesset von der Lungen = Brüh <lb/> oder aber eine andere gute Fleischbrüh <lb/> und ein wenig Essig daran <lb/> lassets wohl sieden <lb/> und richtets dann an . <gap/>
-
-
-Diese Brüh kan man auch in einem Pfännlein besonders sieden lassen <lb/> und so dann in den Hafen über die Lungen giessen .
-
-</p>
+        <p> Nehmet eine Kalbs = <objectName ref="lunge">Lunge</objectName> zusamt dem Hertz <lb/> waschet solche sauber <lb/> schneidet am Hertz die Ohren herab <lb/> saltzet und setzet sie im <objectName ref="wasser">Wasser</objectName> zu; wann nun die <objectName ref="lunge">Lunge</objectName> allerdings weich gesotten <lb/> giesset die Brüh davon <lb/> und schneidet selbige zu kleinen Stücklein <lb/> leget sie in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> röstet eine grosse <objectName ref="zwiebel">Zwiebel</objectName> <lb/> länglicht zerschnitten <lb/> im Schmaltz <lb/> mischet sie unter die <objectName ref="lunge">Lunge</objectName> <lb/> ingleichen auch ein wenig geröstetes <objectName ref="mehl">Mehl</objectName>; streuet <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Ingber <lb/> Muscatnuß und Saffran darein <lb/> giesset von der <objectName ref="lunge">Lungen</objectName> = Brüh <lb/> oder aber eine andere gute Fleischbrüh <lb/> und ein wenig <objectName ref="essig">Essig</objectName> daran <lb/> lassets wohl sieden <lb/> und richtets dann an. <gap/> Diese Brüh kan man auch in einem <objectName ref="pfaennlein">Pfännlein</objectName> besonders sieden lassen <lb/> und so dann in den <objectName ref="hafen">Hafen</objectName> über die <objectName ref="lunge">Lungen</objectName> giessen. </p>
             </div>
         </body>
     </text>

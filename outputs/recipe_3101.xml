@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>CArfiol gebutzt und gebrüht <lb/> gibt man auch mit Eßig und Oel <lb/> gleich saur <lb/> oder auch mit Zucker und Weinbeerlein angemacht zum Salat.</p>
+        <p> CArfiol gebutzt und gebrüht <lb/> gibt man auch mit Eßig und Oel <lb/> gleich saur <lb/> oder auch mit <objectName ref="zucker">Zucker</objectName> und Weinbeerlein angemacht zum <objectName ref="salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

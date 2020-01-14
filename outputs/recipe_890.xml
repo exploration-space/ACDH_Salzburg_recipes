@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Man soll von drey oder vier Häfen das Obere herab nehmen <lb/> und darunter so viel Küh=warme Milch in einer Stuben stehen lassen <lb/> biß es dick wird <lb/> dasselbe solle man darnach auf ein Tuch schütten <lb/> und wol trucken ausseihen lassen <lb/> in ein Schüssel gethan <lb/> und gleich so viel frischen Butter darunter geknöttet <lb/> daß man den Butter nicht mehr darunter kennt <lb/> darnach in ein Schüssel hoch aufgericht <lb/> oder ein feines viereckichtes Stuck daraus gemacht <lb/> und mit Blumen gezierter <lb/> oder besteckter aufgetragen.</p>
+        <p> Man soll von drey oder vier Häfen das Obere herab nehmen <lb/> und darunter so viel Küh=warme <objectName ref="milch">Milch</objectName> in einer Stuben stehen lassen <lb/> biß es dick wird <lb/> dasselbe solle man darnach auf ein <objectName ref="tuch">Tuch</objectName> schütten <lb/> und wol trucken ausseihen lassen <lb/> in ein <objectName ref="schuessel">Schüssel</objectName> gethan <lb/> und gleich so viel frischen <objectName ref="butter">Butter</objectName> darunter geknöttet <lb/> daß man den <objectName ref="butter">Butter</objectName> nicht mehr darunter kennt <lb/> darnach in ein <objectName ref="schuessel">Schüssel</objectName> hoch aufgericht <lb/> oder ein feines viereckichtes Stuck daraus gemacht <lb/> und mit <objectName ref="blumen">Blumen</objectName> gezierter <lb/> oder besteckter aufgetragen. </p>
             </div>
         </body>
     </text>

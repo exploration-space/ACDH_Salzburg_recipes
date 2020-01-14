@@ -182,7 +182,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Stuf your Pigeons with Sweet Herbs chop'd small, a little Bacon, grated Bread, Spice, Butter, and the Yolk of an Egg; sow them up Top and Bottom, and stew them in strong Broth, with Half a Pint of White-wine to six Pigeons, and as much Broth as will cover them; put in a little Nutmeg, Mace, Pepper, Salt, and a Fagot of Sweet Herbs, a Bit of Lemon-peel and an Onion; when they are almost done, put in some Artichoke Bottoms ready boil'd, and fry'd in brown Butter, or Asparagus Tops ready boil'd; thicken up the Liquor with the Stuffing out of the Pigeons, and a Bit of Butter roll'd in Flour. Take out the Lemon-peel, Bunch of Herbs and Onion. Garnish with slic'd Lemon, and very thin Bits of Bacon toasted before the Fire.</p>
+        <p> Stuf your Pigeons with Sweet Herbs chop 'd small, a little Bacon, grated Bread, Spice, <objectName ref="butter">Butter</objectName>, and the Yolk of an Egg; sow them up Top and Bottom, and stew them in strong Broth, with Half a Pint of White-wine to six Pigeons, and as much Broth as will cover them; put in a little Nutmeg, Mace, Pepper, Salt, and a Fagot of Sweet Herbs, a Bit of Lemon-peel and an Onion; when they are almost done, put in some Artichoke Bottoms ready boil 'd, and fry 'd in brown <objectName ref="butter">Butter</objectName>, or Asparagus Tops ready boil 'd; thicken up the Liquor with the Stuffing out of the Pigeons, and a Bit of <objectName ref="butter">Butter</objectName> roll 'd in Flour. Take out the Lemon-peel, Bunch of Herbs and Onion. Garnish with slic 'd Lemon, and very thin Bits of Bacon toasted before the Fire. </p>
             </div>
         </body>
     </text>

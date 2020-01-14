@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Du magst auch solche Vögel zurichten mit weisser sauren Brüh <lb/> mit Eyerdotter vnd vngeschmältzter Butter <lb/> laß es damit auffsieden <lb/> auch mit grünen Kräutern <lb/> so klein gehackt seyn <lb/> so ist es gut vnd wolgeschmack.</p>
+        <p> Du magst auch solche <objectName ref="voegel">Vögel</objectName> zurichten mit weisser sauren Brüh <lb/> mit Eyerdotter vnd vngeschmältzter <objectName ref="butter">Butter</objectName> <lb/> laß es damit auffsieden <lb/> auch mit grünen <objectName ref="kraeuter">Kräutern</objectName> <lb/> so klein gehackt seyn <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

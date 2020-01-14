@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim vom Huechen <lb/> der gesotten ist <lb/> klaub die Grädten vnd Schupen darvon <lb/> nim süsse Milch <lb/> die auffgesotten ist <lb/> geuß es vber den Fisch <lb/> vn thu ein wenig eyngebrent Mehl darein <lb/> vn gute vngeschmältzte Butter <lb/> laß darmit resch eynsieden <lb/> wenn du es wilt anrichten <lb/> so saltz es ab <lb/> so wirdt es gut vnd wolgeschmack.</p>
+        <p> Nim vom Huechen <lb/> der gesotten ist <lb/> klaub die Grädten vnd Schupen darvon <lb/> nim süsse <objectName ref="milch">Milch</objectName> <lb/> die auffgesotten ist <lb/> geuß es vber den <objectName ref="fisch">Fisch</objectName> <lb/> vn thu ein wenig eyngebrent <objectName ref="mehl">Mehl</objectName> darein <lb/> vn gute vngeschmältzte <objectName ref="butter">Butter</objectName> <lb/> laß darmit resch eynsieden <lb/> wenn du es wilt anrichten <lb/> so saltz es ab <lb/> so wirdt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

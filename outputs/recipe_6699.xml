@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>AUch kanstu von einem Aurochsen kochen <lb/> wie man von einem zamen Ochsen <lb/> allein daß von einem Aurochsen gröber ist <lb/> vnd wenn man es zum Braten nimpt <lb/> muß man es wol saltzen <lb/> denn das Fleisch ist gut in der Brüh gekocht <lb/>wie ein ander Rindtfleisch <lb/> es sey schwartz oder eyngedämpfft <lb/> wie man es haben wil.</p>
+        <p> AUch kanstu von einem Aurochsen kochen <lb/> wie man von einem zamen Ochsen <lb/> allein daß von einem Aurochsen gröber ist <lb/> vnd wenn man es zum Braten nimpt <lb/> muß man es wol saltzen <lb/> denn das <objectName ref="fleisch">Fleisch</objectName> ist gut in der Brüh gekocht /wie ein ander Rindtfleisch <lb/> es sey schwartz oder eyngedämpfft <lb/> wie man es haben wil. </p>
             </div>
         </body>
     </text>

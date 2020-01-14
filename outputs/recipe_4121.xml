@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm die Griff <lb/> siede sie in Saltz= Wasser und Eßig <lb/> wohl weich <lb/> und verfäume sie sauber <lb/> und laß es wieder abkühlen <lb/> und sauber abbutzen ; hernach schneid Finger= dicke Schnitz daraus <lb/> in der Gleichheit denen Bratwürsten <lb/> besprengs mit Saltz <lb/> melbige sie wohl <lb/> und bache sie aus Schmaltz <lb/> wie die Fisch <lb/> und geschwind heisser von der Pfannen <lb/> mit einem sauren Pfeffer= Brühlein zu Tisch gegeben ; gelb mit Zwibel <lb/> oder Lemoni.</p>
+        <p> NImm die Griff <lb/> siede sie in Saltz= <objectName ref="wasser">Wasser</objectName> und Eßig <lb/> wohl weich <lb/> und verfäume sie sauber <lb/> und laß es wieder abkühlen <lb/> und sauber abbutzen; hernach schneid Finger= dicke Schnitz daraus <lb/> in der Gleichheit denen Bratwürsten <lb/> besprengs mit Saltz <lb/> melbige sie wohl <lb/> und bache sie aus Schmaltz <lb/> wie die <objectName ref="fisch">Fisch</objectName> <lb/> und geschwind heisser von der Pfannen <lb/> mit einem sauren Pfeffer= Brühlein zu <objectName ref="tisch">Tisch</objectName> gegeben; gelb mit Zwibel <lb/> oder Lemoni. </p>
             </div>
         </body>
     </text>

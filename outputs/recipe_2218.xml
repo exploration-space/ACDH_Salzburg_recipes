@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Stëkh den buter an ein hilzenen spiß, vnd brat ihn gegen dem feuer, <lb/> vnd so er anhebt Waich Zuwerden, so laß ihn mit einem Grieß besäen, <lb/> man soll auch Salz, souill man maint, das genueg ist Säen, doch <lb/> nit Zuuill, ehe der Puter braun Wird für vnd für, dieweill du <lb/> bratst, biß er braun Wird, gibs für ein Speiß. <lb/></p>
+        <p> Stëkh den buter an ein hilzenen spiß, vnd brat ihn gegen dem <objectName ref="feuer">feuer</objectName>, <lb/> vnd so er anhebt Waich Zuwerden, so laß ihn mit einem <objectName ref="griess">Grieß</objectName> besäen, <lb/> man soll auch <objectName ref="salz">Salz</objectName>, souill man maint, das genueg ist Säen, doch <lb/> nit Zuuill, ehe der Puter braun Wird für vnd für, dieweill du <lb/> bratst, biß er braun Wird, gibs für ein Speiß. <lb/> </p>
             </div>
         </body>
     </text>

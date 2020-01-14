@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SElleri= Wurtzen gebutzt <lb/> zu Blatten geschnitten <lb/> ein wenig gebrüht <lb/> und gesaltzen <lb/> im Meel geschwungen <lb/> schön gelb aus Schmaltz gebachen <lb/> seynd gut in allerhand gelber und brauner Jus.</p>
+        <p> SElleri= Wurtzen gebutzt <lb/> zu Blatten geschnitten <lb/> ein wenig gebrüht <lb/> und gesaltzen <lb/> im Meel geschwungen <lb/> schön gelb aus Schmaltz gebachen <lb/> seynd gut in allerhand gelber und brauner <objectName ref="jus">Jus</objectName>. </p>
             </div>
         </body>
     </text>

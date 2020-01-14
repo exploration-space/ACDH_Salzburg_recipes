@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim weissen Salat <lb/> den man auff Welsch Lactuca nennet <lb/> quell jhn in heissem Wasser <lb/> kül jn fein sauber auß <lb/> vnnd koch jhn mit Rindfleischbrüh vnnd frischer Butter <lb/> die vnzerlassen ist <lb/> magst es süß machen oder nicht.</p>
+        <p> Nim weissen <objectName ref="salat">Salat</objectName> <lb/> den man auff Welsch Lactuca nennet <lb/> quell jhn in heissem <objectName ref="wasser">Wasser</objectName> <lb/> kül jn fein sauber auß <lb/> vnnd koch jhn mit Rindfleischbrüh vnnd frischer <objectName ref="butter">Butter</objectName> <lb/> die vnzerlassen ist <lb/> magst es süß machen oder nicht. </p>
             </div>
         </body>
     </text>

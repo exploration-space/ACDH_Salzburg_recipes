@@ -170,9 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>THue die Kern aus denen Datteln zusamt dem einwendigen weissen Häutlein heraus <lb/> hacke sie klein <lb/> und wann sie vier Stunden in Wein geweichet <lb/> setze sie hernach zum Feuer <lb/> und laß sieden ; röste indessen ein weiß gerieben Brod im Schmaltz <lb/> gieß den Wein zusamt denen Datteln darein <lb/> würtze es mit Zimmet und Zucker <lb/> laß sieden <lb/> und trags alsdann auf. <gap/>
-
-<gap/> Wolte jemand der Wein nicht belieben <lb/> absonderlich so es für Krancke dienen sollte <lb/> kan man an dessen Statt gar wol eine ungesaltzene Hüner= Brüh nehmen.</p>
+        <p> THue die Kern aus denen <objectName ref="datteln">Datteln</objectName> zusamt dem einwendigen weissen Häutlein heraus <lb/> hacke sie klein <lb/> und wann sie vier Stunden in <objectName ref="wein">Wein</objectName> geweichet <lb/> setze sie hernach zum <objectName ref="feuer">Feuer</objectName> <lb/> und laß sieden; röste indessen ein weiß gerieben Brod im Schmaltz <lb/> gieß den <objectName ref="wein">Wein</objectName> zusamt denen <objectName ref="datteln">Datteln</objectName> darein <lb/> würtze es mit Zimmet und <objectName ref="zucker">Zucker</objectName> <lb/> laß sieden <lb/> und trags alsdann auf. <gap/> <gap/> Wolte jemand der <objectName ref="wein">Wein</objectName> nicht belieben <lb/> absonderlich so es für Krancke dienen sollte <lb/> kan man an dessen Statt gar wol eine ungesaltzene Hüner= Brüh nehmen. </p>
             </div>
         </body>
     </text>

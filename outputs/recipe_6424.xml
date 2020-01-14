@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Gebraten Käß zwischen zwey Höltzern gebunden <lb/> gegen dem Feuwer gelegt <lb/> vnd gebraten <lb/> thu es von dem Spieß <lb/> vnd gibs warm auff einen Tisch <lb/> ist es auch gut.</p>
+        <p> Gebraten Käß zwischen zwey Höltzern gebunden <lb/> gegen dem Feuwer gelegt <lb/> vnd gebraten <lb/> thu es von dem <objectName ref="spiess">Spieß</objectName> <lb/> vnd gibs warm auff einen <objectName ref="tisch">Tisch</objectName> <lb/> ist es auch gut. </p>
             </div>
         </body>
     </text>

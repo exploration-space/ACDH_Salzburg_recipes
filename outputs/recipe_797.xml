@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Scheele die Fortäschen <lb/> und nimm die Kern heraus <lb/> und stecke abgezogne Mandeln an statt dieser hinein <lb/> setze wenig Wein <lb/> noch einmal so viel Zucker <lb/> ein wenig gantzen Zimmet <lb/> mit etlich Näglein <lb/> auch einer Lemoni=Schelffen <lb/> übers Kohlfeuer <lb/> laß die Fortäschen darinnen kochen <lb/> richts ohne Gewürtz und Schelffen mit kurtzer Brühe auf die Schüssel <lb/> und beym Anrichten bestreus mit Zucker.</p>
+        <p> Scheele die Fortäschen <lb/> und nimm die Kern heraus <lb/> und stecke abgezogne <objectName ref="mandeln">Mandeln</objectName> an statt dieser hinein <lb/> setze wenig <objectName ref="wein">Wein</objectName> <lb/> noch einmal so viel <objectName ref="zucker">Zucker</objectName> <lb/> ein wenig gantzen Zimmet <lb/> mit etlich Näglein <lb/> auch einer Lemoni=Schelffen <lb/> übers Kohlfeuer <lb/> laß die Fortäschen darinnen kochen <lb/> richts ohne Gewürtz und Schelffen mit kurtzer <objectName ref="bruehe">Brühe</objectName> auf die <objectName ref="schuessel">Schüssel</objectName> <lb/> und beym Anrichten bestreus mit <objectName ref="zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Hirsch= Schlegel kan gleich andern Schlegeln geschlagen <lb/> gesaltzen <lb/> gepaitzt <lb/> gespickt <lb/> und im Safft gebraten <lb/> und mit einer Sardellen= Capry <lb/> Lemoni= oder mit Cucumern in einer sauren Ram= Brühe versehen <lb/> mit Lemoni= Schelffen gegeben <lb/> auch mit Kräutlein und Pomerantzen regaliert werden.</p>
+        <p> DEr Hirsch= <objectName ref="schlegel">Schlegel</objectName> kan gleich andern Schlegeln geschlagen <lb/> gesaltzen <lb/> gepaitzt <lb/> gespickt <lb/> und im Safft gebraten <lb/> und mit einer Sardellen= Capry <lb/> Lemoni= oder mit Cucumern in einer sauren Ram= <objectName ref="bruehe">Brühe</objectName> versehen <lb/> mit Lemoni= Schelffen gegeben <lb/> auch mit Kräutlein und Pomerantzen regaliert werden. </p>
             </div>
         </body>
     </text>

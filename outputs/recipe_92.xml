@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Erstlich schneidt den Höchten Zu stickhl<gap/> <lb/><lb/> (re 37) siedt<gap/> ihn, in halb wasser vnd halb <lb/> Essig, vnnd salz ihme, seidt<gap/> ihm <lb/> ab, thue ihn in ein Reindl<gap/>, Gies<gap/> <lb/> Arbes brie<gap/>, vnnd Knofel<gap/> Pfeffer, <lb/> reste<gap/> Die stickhl<gap/>, vorhero in öll <lb/> Gies die brie<gap/> an den fisch, schidt<gap/> ein <lb/> Fisch als Pradten so ist er fertig. <lb/> wenig Essig daran, lass breglen<gap/> <lb/> so ist er bereith <lb/></p>
+        <p> Erstlich schneidt den Höchten Zu stickhl<gap/> <lb/><lb/> ( re 37 ) siedt<gap/> ihn, in halb <objectName ref="wasser">wasser</objectName> vnd halb <lb/> <objectName ref="essig">Essig</objectName>, vnnd <objectName ref="salz">salz</objectName> ihme, seidt<gap/> ihm <lb/> ab, thue ihn in ein Reindl<gap/>, Gies<gap/> <lb/> Arbes brie<gap/>, vnnd Knofel<gap/> <objectName ref="pfeffer">Pfeffer</objectName>, <lb/> reste<gap/> Die stickhl<gap/>, vorhero in öll <lb/> Gies die brie<gap/> an den <objectName ref="fisch">fisch</objectName>, schidt<gap/> ein <lb/> <objectName ref="fisch">Fisch</objectName> als Pradten so ist er fertig. <lb/> wenig <objectName ref="essig">Essig</objectName> daran, lass breglen<gap/> <lb/> so ist er bereith <lb/> </p>
             </div>
         </body>
     </text>

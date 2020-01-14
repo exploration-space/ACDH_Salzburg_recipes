@@ -180,7 +180,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZErstoß die Pistacien= Nüßlein mit einem Tröpfflein frisches Wassers gar klein <lb/> mache in einem Pfännlein eine ungesaltzene Capaunen= Brühe <lb/> samt einem Löffelein voll dergleichen Sultzen siedend: wann sie siedet <lb/> rühre die gestossene Nüßlein darein <lb/> laß sie nur ein klein wenig aufwallen <lb/> dann treibs durch ein härines Sieblein oder Durchschlag in eine Schüssel <lb/> rühre klein= gestossene pröparirte Perlein darein <lb/> wie auch ein wenig Muscatenblühe <lb/> wirff etwas von weiß dinn= geschnittenen Brod dazu <lb/> und gibs zu essen. So aber der Krancke die Ruhr hätte <lb/> könnten auch rothe klein= gestossene Corallen <lb/> darunter gemischt <lb/> gar wol dienen.</p>
+        <p> ZErstoß die Pistacien= Nüßlein mit einem Tröpfflein frisches Wassers gar klein <lb/> mache in einem <objectName ref="pfaennlein">Pfännlein</objectName> eine ungesaltzene Capaunen= <objectName ref="bruehe">Brühe</objectName> <lb/> samt einem Löffelein voll dergleichen Sultzen siedend : wann sie siedet <lb/> rühre die gestossene Nüßlein darein <lb/> laß sie nur ein klein wenig aufwallen <lb/> dann treibs durch ein härines Sieblein oder <objectName ref="durchschlag">Durchschlag</objectName> in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> rühre klein= gestossene pröparirte Perlein darein <lb/> wie auch ein wenig Muscatenblühe <lb/> wirff etwas von weiß dinn= geschnittenen Brod dazu <lb/> und gibs zu essen. So aber der Krancke die Ruhr hätte <lb/> könnten auch rothe klein= gestossene Corallen <lb/> darunter gemischt <lb/> gar wol dienen. </p>
             </div>
         </body>
     </text>

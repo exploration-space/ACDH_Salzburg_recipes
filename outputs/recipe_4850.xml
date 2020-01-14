@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZIehet denen Bohnen die Haut ab <lb/> lassets entweder gantz <lb/> oder schneidets einmal oder zwey von einander; dann waschets <lb/> und setztet es in einem siedenden Wasser zum Feuer <lb/> lassets ein wenig sieden daß sie weich werden; seihets ab <lb/> thut sie in einen stollichten Hafen <lb/> giesset eine Fleischbrüh daran <lb/> röstet auch ein klein wenig Mehl darein <lb/> würtzets mit Pfeffer und Muscatnuß <lb/> lassets über einer Kohlen nochmal aufsieden <lb/> und werfft <lb/> wann ihr es bald anrichten wollet <lb/> ein gut theil Butter darein.</p>
+        <p> ZIehet denen <objectName ref="bohnen">Bohnen</objectName> die Haut ab <lb/> lassets entweder gantz <lb/> oder schneidets einmal oder zwey von einander; dann waschets <lb/> und setztet es in einem siedenden <objectName ref="wasser">Wasser</objectName> zum <objectName ref="feuer">Feuer</objectName> <lb/> lassets ein wenig sieden daß sie weich werden; seihets ab <lb/> thut sie in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> giesset eine Fleischbrüh daran <lb/> röstet auch ein klein wenig <objectName ref="mehl">Mehl</objectName> darein <lb/> würtzets mit <objectName ref="pfeffer">Pfeffer</objectName> und Muscatnuß <lb/> lassets über einer <objectName ref="kohlen">Kohlen</objectName> nochmal aufsieden <lb/> und werfft <lb/> wann ihr es bald anrichten wollet <lb/> ein gut theil <objectName ref="butter">Butter</objectName> darein. </p>
             </div>
         </body>
     </text>

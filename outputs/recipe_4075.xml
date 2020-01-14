@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm einen übrig= gebliebenen <lb/> oder aber im Saltzwasser frisch= gesottenen Hecht <lb/> blättere ihn <lb/> und lege ein Theil davon in eine Schüssel <lb/> streue Muscatblüh <lb/> Pfeffer und Ingber darauf <lb/> thue Butter daran ; mach abermal eine Lage von diesem geblätterten Hecht <lb/> streue <lb/> wie zuvor <lb/> vom besagten Gewürtz darauf <lb/> samt einem Stuck Butter <lb/> und also immer fort <lb/> drucke Citronen= Safft darein <lb/> setze es auf eine Kohl= Pfanne <lb/> und laß zusammen aufsieden.</p>
+        <p> NImm einen übrig= gebliebenen <lb/> oder aber im Saltzwasser frisch= gesottenen <objectName ref="hecht">Hecht</objectName> <lb/> blättere ihn <lb/> und lege ein Theil davon in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> streue Muscatblüh <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Ingber darauf <lb/> thue <objectName ref="butter">Butter</objectName> daran; mach abermal eine Lage von diesem geblätterten <objectName ref="hecht">Hecht</objectName> <lb/> streue <lb/> wie zuvor <lb/> vom besagten Gewürtz darauf <lb/> samt einem Stuck <objectName ref="butter">Butter</objectName> <lb/> und also immer fort <lb/> drucke Citronen= Safft darein <lb/> setze es auf eine Kohl= <objectName ref="pfanne">Pfanne</objectName> <lb/> und laß zusammen aufsieden. </p>
             </div>
         </body>
     </text>

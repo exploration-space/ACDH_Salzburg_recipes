@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb <lb/> Reiß, wasch in schen, laß in wid(er) dürr werdn, <lb/> stosß in klain in ainen Mörser, Seich in durch <lb/> ain tuech, darnach nimb ain gueten Siessen <lb/> Millich rämb, thue d(a)s Reißmeell darein, <lb/> laß woll Sieden, riers stäts, Nimb ain <lb/> schön schmalz darunter, Nimb d(a)s weiß brädt <lb/> von ainner heenen, od(er) Copaun, zupfs so klain <lb/> du magst, d(a)s nimb vndter d(a)s Plamaschier, <lb/> zuggers woll, Salz gar lint, riers dieweill <lb/> es beim feüer stehet, machs nit zu hart. <lb/><lb/> (75v)</p>
+        <p> Nimb <lb/> Reiß, wasch in schen, laß in wid ( er ) dürr werdn, <lb/> stosß in klain in ainen <objectName ref="moerser">Mörser</objectName>, Seich in durch <lb/> ain tuech, darnach nimb ain gueten Siessen <lb/> Millich rämb, thue d ( a ) s Reißmeell darein, <lb/> laß woll Sieden, riers stäts, Nimb ain <lb/> schön <objectName ref="schmalz">schmalz</objectName> darunter, Nimb d ( a ) s weiß brädt <lb/> von ainner heenen, od ( er ) Copaun, zupfs so klain <lb/> du magst, d ( a ) s nimb vndter d ( a ) s Plamaschier, <lb/> zuggers woll, <objectName ref="salz">Salz</objectName> gar lint, riers dieweill <lb/> es beim feüer stehet, machs nit zu hart. <lb/><lb/> ( 75v ) </p>
             </div>
         </body>
     </text>

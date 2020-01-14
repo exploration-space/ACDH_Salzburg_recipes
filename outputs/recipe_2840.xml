@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZU einem gantzen Ey nehmet einen Vierding Zucker <lb/> und eben so viel Mehl <lb/> ein halb Loth Zimmet <lb/> wie auch Cardamomen und Muscatblüh <lb/> jedes ein Quint; dann würfflicht= geschnittenen Citronat= und Citronen= Schelffen <lb/> nach gefallen <lb/> und verfertigets im übrigen <lb/> wie die bereits oben= beschriebene: Man kan sie aber zuvor ein wenig stehen und ertrocknen lassen <lb/> und so dann erst <lb/> wie bekandt <lb/> abbachen.</p>
+        <p> ZU einem gantzen Ey nehmet einen <objectName ref="vierding">Vierding</objectName> <objectName ref="zucker">Zucker</objectName> <lb/> und eben so viel <objectName ref="mehl">Mehl</objectName> <lb/> ein halb <objectName ref="loth">Loth</objectName> Zimmet <lb/> wie auch Cardamomen und Muscatblüh <lb/> jedes ein <objectName ref="quint">Quint</objectName>; dann würfflicht= geschnittenen Citronat= und Citronen= Schelffen <lb/> nach gefallen <lb/> und verfertigets im übrigen <lb/> wie die bereits oben= beschriebene : Man kan sie aber zuvor ein wenig stehen und ertrocknen lassen <lb/> und so dann erst <lb/> wie bekandt <lb/> abbachen. </p>
             </div>
         </body>
     </text>

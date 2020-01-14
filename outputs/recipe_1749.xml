@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Thue die <lb/> Khern darauß, legs in ain taig, zuggers woll, <lb/> nimb lints gewürz, Salz nit. laß ½ stunt bachen. <lb/></p>
+        <p> Thue die <lb/> Khern darauß, legs in ain taig, zuggers woll, <lb/> nimb lints gewürz, <objectName ref="salz">Salz</objectName> nit. laß ½ stunt bachen. <lb/> </p>
             </div>
         </body>
     </text>

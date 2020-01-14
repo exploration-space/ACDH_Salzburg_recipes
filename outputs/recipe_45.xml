@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein Khölbers<gap/> Prattiges<gap/> Fleisch, <lb/><lb/> (re16) Wasch sauber, vnnd schneitte schnizl<gap/> <lb/> daraus, alsdan Klopfe die schnizl, <lb/> mit einen Walger<gap/>, vnnd thues In <lb/> ein Reindl<gap/>, Gewirzs<gap/> mit Musgablie<gap/>, <lb/> vnnd druckhe Lemony Safft<gap/> darein, <lb/> löge ein Guetten Prockhen<gap/> butter <lb/> daran, lass es olso Preglen<gap/>, vnnd <lb/> Khochen richts also an, so ist es recht. <lb/></p>
+        <p> Nimb ein Khölbers<gap/> Prattiges<gap/> <objectName ref="fleisch">Fleisch</objectName>, <lb/><lb/> ( re16 ) Wasch sauber, vnnd schneitte schnizl<gap/> <lb/> daraus, alsdan Klopfe die schnizl, <lb/> mit einen Walger<gap/>, vnnd thues In <lb/> ein Reindl<gap/>, Gewirzs<gap/> mit Musgablie<gap/>, <lb/> vnnd druckhe Lemony Safft<gap/> darein, <lb/> löge ein Guetten Prockhen<gap/> <objectName ref="butter">butter</objectName> <lb/> daran, lass es olso Preglen<gap/>, vnnd <lb/> Khochen richts also an, so ist es recht. <lb/> </p>
             </div>
         </body>
     </text>

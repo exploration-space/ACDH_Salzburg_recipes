@@ -170,9 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAchet den Teig vom schönen Mehl <lb/> Wein und Zucker an <lb/> giesset einen Löffel voll Brandwein dazu ; ziehet die Weixeln dadurch <lb/> bachets aus Schmaltz <lb/> und giesset im bachen fleissig auf. <gap/>
-
-<gap/>Aus eben diesem Teig kan man auch Küchlein von Aepffeln bachen.</p>
+        <p> MAchet den <objectName ref="teig">Teig</objectName> vom schönen <objectName ref="mehl">Mehl</objectName> <lb/> <objectName ref="wein">Wein</objectName> und <objectName ref="zucker">Zucker</objectName> an <lb/> giesset einen <objectName ref="loeffel">Löffel</objectName> voll Brandwein dazu; ziehet die Weixeln dadurch <lb/> bachets aus Schmaltz <lb/> und giesset im bachen fleissig auf. <gap/> <gap/>Aus eben diesem <objectName ref="teig">Teig</objectName> kan man auch Küchlein von Aepffeln bachen. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb hanf, der selber gewaxen ist, vnd stosß ihn in eim <lb/> Merser, vnd geuß frisches Prunen Wasser dran, vnd seiche <lb/> es durch ein tuech, vnd gibs dem Menschen Zu nachts ein gueten <lb/> trunkh daruon, Wan er sich gleich niderlegt. <lb/></p>
+        <p> Nimb <objectName ref="hanf">hanf</objectName>, der selber gewaxen ist, vnd stosß ihn in eim <lb/> Merser, vnd geuß frisches Prunen <objectName ref="wasser">Wasser</objectName> dran, vnd seiche <lb/> es durch ein tuech, vnd gibs dem Menschen Zu nachts ein gueten <lb/> trunkh daruon, Wan er sich gleich niderlegt. <lb/> </p>
             </div>
         </body>
     </text>

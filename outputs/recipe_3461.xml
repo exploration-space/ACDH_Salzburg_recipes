@@ -177,9 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm wol gesottne <lb/> und sauer gebutzte Schnecken in ein Schüssel <lb/> dann stoß hart= gesottne Eyerdotter in dem Mersel <lb/> mit grünen Petersil= Kräutlein <lb/> oder jungen Korn <lb/> wann es noch kurtz und noch grün ist <lb/> mit wenig geweichter Semmel <lb/> Knoblauch <lb/> Saltz und Pfeffer <lb/> stoß klein <lb/> und und treibs mit Wein= Eßig durch das Haar= Sieblein <lb/> oder Tuch <lb/> gieß mit diesem Safft auch Oel an Schnecken <lb/> rührs wol untereinander <lb/> und gibs damit kalt oder warm.
-
-N.B. Oder laß die grüne Kräuter aus <lb/> und laß gelb <lb/> und mische Senff darunter.</p>
+        <p> NImm wol gesottne <lb/> und sauer gebutzte <objectName ref="schnecken">Schnecken</objectName> in ein <objectName ref="schuessel">Schüssel</objectName> <lb/> dann stoß hart= gesottne Eyerdotter in dem Mersel <lb/> mit grünen Petersil= Kräutlein <lb/> oder jungen Korn <lb/> wann es noch kurtz und noch grün ist <lb/> mit wenig geweichter Semmel <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> Saltz und <objectName ref="pfeffer">Pfeffer</objectName> <lb/> stoß klein <lb/> und und treibs mit Wein= Eßig durch das Haar= Sieblein <lb/> oder <objectName ref="tuch">Tuch</objectName> <lb/> gieß mit diesem Safft auch Oel an <objectName ref="schnecken">Schnecken</objectName> <lb/> rührs wol untereinander <lb/> und gibs damit kalt oder warm. N.B. Oder laß die grüne <objectName ref="kraeuter">Kräuter</objectName> aus <lb/> und laß gelb <lb/> und mische Senff darunter. </p>
             </div>
         </body>
     </text>

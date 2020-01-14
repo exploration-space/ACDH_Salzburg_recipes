@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) frische Eyer <lb/> schlag gelb und weiß durcheinander <lb/> saltzs <lb/> vnd zeuchs in ein heisse gesottene Milch <lb/> rürs vmb <lb/> biß daß auffseudt <lb/> schüt es auff ein Durchschlag <lb/> vnd druck es durch ein Durchschlag in eine Schüssel <lb/> so wirt es sehen wie Maden <lb/> wen(n) du es wilt auff ein Tisch gebn <lb/> so besträw es mit kleinem Confect <lb/> vnnd schönem weissen Zucker <lb/> so nennet man es ein Madenmuß.</p>
+        <p> Nim ( m ) frische Eyer <lb/> schlag gelb und weiß durcheinander <lb/> saltzs <lb/> vnd zeuchs in ein heisse gesottene <objectName ref="milch">Milch</objectName> <lb/> rürs vmb <lb/> biß daß auffseudt <lb/> schüt es auff ein <objectName ref="durchschlag">Durchschlag</objectName> <lb/> vnd druck es durch ein <objectName ref="durchschlag">Durchschlag</objectName> in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> so wirt es sehen wie Maden <lb/> wen ( n ) du es wilt auff ein <objectName ref="tisch">Tisch</objectName> gebn <lb/> so besträw es mit kleinem Confect <lb/> vnnd schönem weissen <objectName ref="zucker">Zucker</objectName> <lb/> so nennet man es ein Madenmuß. </p>
             </div>
         </body>
     </text>

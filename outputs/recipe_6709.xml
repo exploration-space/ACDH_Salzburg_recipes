@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim Merrettich <lb/> vnd geschelte Mandeln <lb/> reib oder stoß sie <lb/> zerlaß sie mit Weinessig vn Erbsbrüh <lb/> thu ein wenig Milch vnnd Meybutter darein <lb/> laß darmit nur warm werden <lb/> thu auch ein wenig Saltz darein <lb/> so kanstu es darnach vnter die gebackene Fisch geben <lb/> oder darüber. Wiltu es aber einem Vngerischen Herrn kochen <lb/> so mustu Knobloch darvnter nemmen <lb/> oder new Nüß <lb/> die fein geschelet vnd weiß seyn <lb/> mit dem Knobloch gestossen <lb/> vnd mit einer Erbsrüh zerlassen <lb/> vnter oder vber die Backfisch geschüt <lb/> ist es auff beyde manier gut.</p>
+        <p> Nim Merrettich <lb/> vnd geschelte <objectName ref="mandeln">Mandeln</objectName> <lb/> reib oder stoß sie <lb/> zerlaß sie mit <objectName ref="weinessig">Weinessig</objectName> vn Erbsbrüh <lb/> thu ein wenig <objectName ref="milch">Milch</objectName> vnnd Meybutter darein <lb/> laß darmit nur warm werden <lb/> thu auch ein wenig Saltz darein <lb/> so kanstu es darnach vnter die gebackene <objectName ref="fisch">Fisch</objectName> geben <lb/> oder darüber. Wiltu es aber einem Vngerischen Herrn kochen <lb/> so mustu Knobloch darvnter nemmen <lb/> oder new Nüß <lb/> die fein geschelet vnd weiß seyn <lb/> mit dem Knobloch gestossen <lb/> vnd mit einer Erbsrüh zerlassen <lb/> vnter oder vber die Backfisch geschüt <lb/> ist es auff beyde manier gut. </p>
             </div>
         </body>
     </text>

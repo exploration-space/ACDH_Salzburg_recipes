@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>LAß das Hirn in gesaltzenem Wasser anlauffen und verfäumen <lb/> dann legs Stücklein= weiß in ein Reinlein <lb/> mit Lemoni= Schelffen <lb/> Wein <lb/> Fleischbrühe <lb/> Gewürtz und Butter <lb/> brenns mit Meel <lb/> oder Semmel= Bröslein <lb/> liecht= gelb ein <lb/> mit einer kurtzen Brühe.</p>
+        <p> LAß das <objectName ref="hirn">Hirn</objectName> in gesaltzenem <objectName ref="wasser">Wasser</objectName> anlauffen und verfäumen <lb/> dann legs Stücklein= weiß in ein Reinlein <lb/> mit Lemoni= Schelffen <lb/> <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> Gewürtz und <objectName ref="butter">Butter</objectName> <lb/> brenns mit Meel <lb/> oder Semmel= Bröslein <lb/> liecht= gelb ein <lb/> mit einer kurtzen <objectName ref="bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

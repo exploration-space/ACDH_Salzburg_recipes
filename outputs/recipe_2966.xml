@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>KOlrabi gebutzt <lb/> gebrüht <lb/> in beliebige Stuck geschnitten <lb/> eingemeelbt <lb/> und wie die Ruben aus heissem Schmaltz gebachen <lb/> gieß gute braune Jus daran <lb/> laß damit aufsieden <lb/> und gibs <lb/> aber nicht zu fett.</p>
+        <p> KOlrabi gebutzt <lb/> gebrüht <lb/> in beliebige Stuck geschnitten <lb/> eingemeelbt <lb/> und wie die Ruben aus heissem Schmaltz gebachen <lb/> gieß gute braune <objectName ref="jus">Jus</objectName> daran <lb/> laß damit aufsieden <lb/> und gibs <lb/> aber nicht zu <objectName ref="fett">fett</objectName>. </p>
             </div>
         </body>
     </text>

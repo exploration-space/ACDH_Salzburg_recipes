@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Rest die öpffl, schneids gewürfflet, thue das Weinpörl vnd Zimetstup <lb/> darunder, vnd ein Wenig Zukher dran, nimb lablets Wasser, Puter <lb/> oder schmalz, mach ein taig an, Wie Zu einer marben Pasteten, <lb/> Welge ihn Zu einer schlangen fein auß, fühl die öpffl drein, <lb/> vnd machs Zu sammen Wie ein Schlang, Rädls vnd khränzls ab, <lb/> sträe Zukher drauf, mach Zuuor ein Eÿß drüber, bachs in einer <lb/> dortenpfan, so ist er beraith, gleich dikher den taig außwelgen, vnd bestreichen wie Pasteten. <lb/></p>
+        <p> Rest die öpffl, schneids gewürfflet, thue das Weinpörl vnd Zimetstup <lb/> darunder, vnd ein Wenig Zukher dran, nimb lablets <objectName ref="wasser">Wasser</objectName>, Puter <lb/> oder <objectName ref="schmalz">schmalz</objectName>, mach ein taig an, Wie Zu einer marben <objectName ref="pastete">Pasteten</objectName>, <lb/> Welge ihn Zu einer schlangen fein auß, fühl die öpffl drein, <lb/> vnd machs Zu sammen Wie ein Schlang, Rädls vnd khränzls ab, <lb/> sträe Zukher drauf, mach Zuuor ein Eÿß drüber, bachs in einer <lb/> dortenpfan, so ist er beraith, gleich dikher den taig außwelgen, vnd bestreichen wie <objectName ref="pastete">Pasteten</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

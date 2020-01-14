@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DAs Lamm= oder Kütz=Fleisch wird zu kleinen Stücklein gehackt <lb/> frischer <lb/> oder überbrühter <lb/> mit wenig Meel im Butter geröst <lb/> und in allerhand Gehäck gemischt <lb/> auch zu Pasteten und Raguen gebraucht und zugelegt <lb/> darum dir auch jedes Orts davon gemeldt wird; insonderheit bey den Pasteten <lb/> Krebsen und andern Suppen.</p>
+        <p> DAs Lamm= oder Kütz=Fleisch wird zu kleinen Stücklein gehackt <lb/> frischer <lb/> oder überbrühter <lb/> mit wenig Meel im <objectName ref="butter">Butter</objectName> geröst <lb/> und in allerhand <objectName ref="gehaeck">Gehäck</objectName> gemischt <lb/> auch zu <objectName ref="pastete">Pasteten</objectName> und Raguen gebraucht und zugelegt <lb/> darum dir auch jedes Orts davon gemeldt wird; insonderheit bey den <objectName ref="pastete">Pasteten</objectName> <lb/> <objectName ref="krebse">Krebsen</objectName> und andern <objectName ref="suppe">Suppen</objectName>. </p>
             </div>
         </body>
     </text>

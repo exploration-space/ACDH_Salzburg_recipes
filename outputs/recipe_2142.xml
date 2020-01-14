@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Erstlich soll man auf ein mithere Schißl nemben ¼ .lt. Woll <lb/> gestossen Mandl sauber gebuzt, von der schellen am stossen, <lb/> soll man Rosen: oder anders Wasser Zuegiessen, das sie nit <lb/> öelig Werden, alßdan soll man 6. Aÿr nemben, aber nur <lb/> von dreÿen das khlar drunder gerührt, auch ein viertung Zukher, <lb/> dises alles Woll undereinander gerührt, ein guete stundt, vnd <lb/> alleweil auf einer seiten gerührt, hin vnd Wider, alßdan die <lb/> schißl geschmirbt mit Buter, vnd also bachen, Wie das aufgeloffne <lb/> von Latwergen. <lb/></p>
+        <p> Erstlich soll man auf ein mithere Schißl nemben ¼.lt. Woll <lb/> gestossen Mandl sauber gebuzt, von der schellen am stossen, <lb/> soll man <objectName ref="rosen">Rosen</objectName> : oder anders <objectName ref="wasser">Wasser</objectName> Zuegiessen, das sie nit <lb/> öelig Werden, alßdan soll man 6. Aÿr nemben, aber nur <lb/> von dreÿen das khlar drunder gerührt, auch ein <objectName ref="viertung">viertung</objectName> Zukher, <lb/> dises alles Woll undereinander gerührt, ein guete stundt, vnd <lb/> alleweil auf einer seiten gerührt, hin vnd Wider, alßdan die <lb/> schißl geschmirbt mit Buter, vnd also bachen, Wie das aufgeloffne <lb/> von <objectName ref="latwerge">Latwergen</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

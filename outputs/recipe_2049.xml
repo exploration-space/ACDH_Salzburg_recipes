@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb öpffl, rests im schmalz, das Lind Werden, nimbs auf ein <lb/> Schißl, Zukhers, vnd nimb Weinböhr drunder, vnd stups mit <lb/> einem Lindstup, rührs durcheinander, schlag ein Aÿr dran, <lb/> Fihls in die Sembl, vnd vermachs, bachs resch im schmalz, gibs <lb/> trukhen, oder in einem süssen Süppl. <lb/><lb/> (30v)</p>
+        <p> Nimb öpffl, rests im <objectName ref="schmalz">schmalz</objectName>, das Lind Werden, nimbs auf ein <lb/> Schißl, Zukhers, vnd nimb Weinböhr drunder, vnd stups mit <lb/> einem Lindstup, rührs durcheinander, schlag ein Aÿr dran, <lb/> Fihls in die Sembl, vnd vermachs, bachs resch im <objectName ref="schmalz">schmalz</objectName>, gibs <lb/> trukhen, oder in einem süssen Süppl. <lb/><lb/> ( 30v ) </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmt ein und ein viertel Pfund Mandeln <lb/> stosst sie mit halb Zimmet halb Rosenwasser ab <lb/> rühret fünff Achtel Pfund Zucker darunter <lb/> formiret es wie einen Igel <lb/> bestecket ihn mit länglicht= geschnittenen Mandeln <lb/> so man nach belieben zierlich vergulden kan.</p>
+        <p> NEhmt ein und ein viertel <objectName ref="pfund">Pfund</objectName> <objectName ref="mandeln">Mandeln</objectName> <lb/> stosst sie mit halb Zimmet halb <objectName ref="rosenwasser">Rosenwasser</objectName> ab <lb/> rühret fünff Achtel <objectName ref="pfund">Pfund</objectName> <objectName ref="zucker">Zucker</objectName> darunter <lb/> formiret es wie einen <objectName ref="igel">Igel</objectName> <lb/> bestecket ihn mit länglicht= geschnittenen <objectName ref="mandeln">Mandeln</objectName> <lb/> so man nach belieben zierlich vergulden kan. </p>
             </div>
         </body>
     </text>

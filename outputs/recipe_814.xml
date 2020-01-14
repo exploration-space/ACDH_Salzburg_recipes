@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Treibe die gesottne Kütten durch <lb/> mache sie mit klein gestoßnen mandeln <lb/> Zucker und Zimmet=Stupp gut <lb/> und schlags ein <lb/> wie erst gemeldt.</p>
+        <p> Treibe die gesottne Kütten durch <lb/> mache sie mit klein gestoßnen <objectName ref="mandeln">mandeln</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> und Zimmet=Stupp gut <lb/> und schlags ein <lb/> wie erst gemeldt. </p>
             </div>
         </body>
     </text>

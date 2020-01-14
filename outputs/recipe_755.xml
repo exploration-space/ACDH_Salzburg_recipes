@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>zu einem virtl wasßer .8. mitere Stängl <lb/> bey 1½ loth zimet, ain wenig zugger <lb/> wand aß wosßer sied, wirff den zimmet <lb/> hinein vnd zckher laß sieden ½ viertl <lb/> Stundt alß dan nimb es vom feuer <lb/> laß kalt werden. <lb/></p>
+        <p> zu einem virtl wasßer.8. mitere Stängl <lb/> bey 1½ <objectName ref="loth">loth</objectName> zimet, ain wenig zugger <lb/> wand aß wosßer sied, wirff den zimmet <lb/> hinein vnd zckher laß sieden ½ viertl <lb/> Stundt alß dan nimb es vom <objectName ref="feuer">feuer</objectName> <lb/> laß kalt werden. <lb/> </p>
             </div>
         </body>
     </text>

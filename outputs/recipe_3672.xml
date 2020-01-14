@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn siedet den Reiß in einer Maß oder mehr Milch <lb/> schön dick <lb/> und rührt ihn <lb/> daß er nicht anbrennt <lb/> treib einen frischen Butter oder Schmaltz ab <lb/> rühr den vorhero abgekühlten Reiß darein <lb/> so dann die Eyer halb Dotter <lb/> halb gantz <lb/> oder neun Dotter <lb/> die übrige gantzer biß funffzehen oder sechzehen <lb/> rührs stets <lb/> und schlag die Eyer langsam <lb/> eins nach dem andern darein <lb/> daß es schön aufgehet <lb/> zuckers <lb/> thue auch geschnittne Lemoni= Schelffen darzu <lb/> bachs wie sonst <lb/> so ists recht <lb/> und geht schön auf.</p>
+        <p> MAn siedet den Reiß in einer <objectName ref="mass">Maß</objectName> oder mehr <objectName ref="milch">Milch</objectName> <lb/> schön dick <lb/> und rührt ihn <lb/> daß er nicht anbrennt <lb/> treib einen frischen <objectName ref="butter">Butter</objectName> oder Schmaltz ab <lb/> rühr den vorhero abgekühlten Reiß darein <lb/> so dann die Eyer halb Dotter <lb/> halb gantz <lb/> oder neun Dotter <lb/> die übrige gantzer biß funffzehen oder sechzehen <lb/> rührs stets <lb/> und schlag die Eyer langsam <lb/> eins nach dem andern darein <lb/> daß es schön aufgehet <lb/> zuckers <lb/> thue auch geschnittne Lemoni= Schelffen darzu <lb/> bachs wie sonst <lb/> so ists recht <lb/> und geht schön auf. </p>
             </div>
         </body>
     </text>

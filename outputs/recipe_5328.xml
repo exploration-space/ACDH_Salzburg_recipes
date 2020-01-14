@@ -178,9 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAche von der gebrüheten Lungen und Leber ein gutes Gehäck <lb/> mit genugsamen guten Speck <lb/> Petersil <lb/> Fleisch= Brühe <lb/> Zwibel <lb/> Gewürtz <lb/> mit wenig in Butter gerösten Semmel und Eyern <lb/> machs recht im Saltz <lb/> und füll den Magen damit ; hernach gesotten <lb/> und in Butter gebräunt <lb/> gibs mit brauner jus, oder gelber Zwibel= Brühe.
-
-NB. Du kanst den Magen von dem Spanfärcklein auch füllen <lb/> mit puren in Butter und Speck gerösten Semmel= Brosen und Zwibel <lb/> guten Kräutern <lb/> Gewürtz <lb/> Milchram und Eyern ; und wann er gesotten <lb/> so gibe disen mit wenig gelber Fleisch= Brühe.</p>
+        <p> MAche von der gebrüheten <objectName ref="lunge">Lungen</objectName> und <objectName ref="leber">Leber</objectName> ein gutes <objectName ref="gehaeck">Gehäck</objectName> <lb/> mit genugsamen guten <objectName ref="speck">Speck</objectName> <lb/> Petersil <lb/> Fleisch= <objectName ref="bruehe">Brühe</objectName> <lb/> Zwibel <lb/> Gewürtz <lb/> mit wenig in <objectName ref="butter">Butter</objectName> gerösten Semmel und Eyern <lb/> machs recht im Saltz <lb/> und füll den <objectName ref="magen">Magen</objectName> damit; hernach gesotten <lb/> und in <objectName ref="butter">Butter</objectName> gebräunt <lb/> gibs mit brauner <objectName ref="jus">jus</objectName>, oder gelber Zwibel= <objectName ref="bruehe">Brühe</objectName>. NB. Du kanst den <objectName ref="magen">Magen</objectName> von dem Spanfärcklein auch füllen <lb/> mit puren in <objectName ref="butter">Butter</objectName> und <objectName ref="speck">Speck</objectName> gerösten Semmel= Brosen und Zwibel <lb/> guten <objectName ref="kraeuter">Kräutern</objectName> <lb/> Gewürtz <lb/> Milchram und Eyern; und wann er gesotten <lb/> so gibe disen mit wenig gelber Fleisch= <objectName ref="bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

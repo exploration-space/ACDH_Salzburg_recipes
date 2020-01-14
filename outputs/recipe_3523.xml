@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Krebs= Pastetn <lb/> groß und klein <lb/> findest in dem Bacherey= Buch <lb/> bey den Fisch= Pasteten.</p>
+        <p> DIe Krebs= Pastetn <lb/> groß und klein <lb/> findest in dem Bacherey= Buch <lb/> bey den Fisch= <objectName ref="pastete">Pasteten</objectName>. </p>
             </div>
         </body>
     </text>

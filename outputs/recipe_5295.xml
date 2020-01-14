@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wenn du wilt ein frisch Ey zurichten <lb/> so nim(m) ein Gluua <lb/> vnd mach kleine Löchlein auff beyden Spitzen <lb/> legs in ein kalts Wasser <lb/> vnd ist es im Sommer <lb/> so leg ein Eis darzu <lb/> vnd laß ein stundt im Wasser liegen <lb/> so zeucht es die Hitz herauß <lb/> seudt das Ey fein lindt <lb/> vn(d) gibs zu trincken oder zu essen <lb/> wie es einem wolschmeckt.</p>
+        <p> Wenn du wilt ein frisch Ey zurichten <lb/> so nim ( m ) ein Gluua <lb/> vnd mach kleine Löchlein auff beyden Spitzen <lb/> legs in ein kalts <objectName ref="wasser">Wasser</objectName> <lb/> vnd ist es im Sommer <lb/> so leg ein <objectName ref="eis">Eis</objectName> darzu <lb/> vnd laß ein stundt im <objectName ref="wasser">Wasser</objectName> liegen <lb/> so zeucht es die Hitz herauß <lb/> seudt das Ey fein lindt <lb/> vn ( d ) gibs zu trincken oder zu essen <lb/> wie es einem wolschmeckt. </p>
             </div>
         </body>
     </text>

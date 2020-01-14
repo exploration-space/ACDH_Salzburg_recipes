@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>LEget die Cappern <lb/> wann zuvor die Stiele abgeschnitten worden <lb/> in ein frisches Wasser <lb/> last sie einen Tag <lb/> oder auch nur etliche Stunden darinnen ligen <lb/> giesst dieses ein und andermal hinweg <lb/> und gebt ihnen ein frisches ; seihet es dann durch einen Seiher <lb/> dass das Wasser davon lauffe <lb/> und legt diese also gewässerte Cappern in ein Schällein oder Schüsselein <lb/> macht sie mit Oel und Essig an <lb/> wie einen andern Salat : Solte aber der Essig zu scharff seyn <lb/> kan man etwas Wein darunter giessen <lb/> und Weinbeerlein oder Corinthen oben darauf streuen.</p>
+        <p> LEget die Cappern <lb/> wann zuvor die Stiele abgeschnitten worden <lb/> in ein frisches <objectName ref="wasser">Wasser</objectName> <lb/> last sie einen Tag <lb/> oder auch nur etliche Stunden darinnen ligen <lb/> giesst dieses ein und andermal hinweg <lb/> und gebt ihnen ein frisches; seihet es dann durch einen <objectName ref="seiher">Seiher</objectName> <lb/> dass das <objectName ref="wasser">Wasser</objectName> davon lauffe <lb/> und legt diese also gewässerte Cappern in ein Schällein oder Schüsselein <lb/> macht sie mit Oel und <objectName ref="essig">Essig</objectName> an <lb/> wie einen andern <objectName ref="salat">Salat</objectName> : Solte aber der <objectName ref="essig">Essig</objectName> zu scharff seyn <lb/> kan man etwas <objectName ref="wein">Wein</objectName> darunter giessen <lb/> und Weinbeerlein oder Corinthen oben darauf streuen. </p>
             </div>
         </body>
     </text>

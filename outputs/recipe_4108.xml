@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DAs Wildprät wird mit Eßig und Wasser abekocht <lb/> mit Lorbeer= Blättlein und gespickten Zwibel <lb/> oder zuvor auf dem Rost wohl abgebräunt <lb/> hernach mit Meel <lb/> oder Brod gelb= eingebrennt <lb/> mit Capry <lb/> Lemoni= Schelffen und Gewürtz <lb/> und mit einer kurtzen Brühe versehen <lb/> und nach Belieben sauer <lb/> oder süß <lb/> mit klein= oder grossen gerösten Zwibeln zubereitet.</p>
+        <p> DAs Wildprät wird mit Eßig und <objectName ref="wasser">Wasser</objectName> abekocht <lb/> mit Lorbeer= Blättlein und gespickten Zwibel <lb/> oder zuvor auf dem <objectName ref="rost">Rost</objectName> wohl abgebräunt <lb/> hernach mit Meel <lb/> oder Brod gelb= eingebrennt <lb/> mit Capry <lb/> Lemoni= Schelffen und Gewürtz <lb/> und mit einer kurtzen <objectName ref="bruehe">Brühe</objectName> versehen <lb/> und nach Belieben sauer <lb/> oder süß <lb/> mit klein= oder grossen gerösten Zwibeln zubereitet. </p>
             </div>
         </body>
     </text>

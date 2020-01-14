@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ain Reibstain, vnd nimb halb Khren, <lb/> vnd halb Mandl, reibs durchainand(er) mit <lb/> ainen Saubern Millich rämb, od(er) ain guetn <lb/> Essig, ist er so scharpf, Nimb ain wenig <lb/> wein in ein Saubers Khösslein, od(er) Pfannen, <lb/> laß nit lanng Sieden, od(er) vergrint. <lb/></p>
+        <p> Nimb ain Reibstain, vnd nimb halb Khren, <lb/> vnd halb Mandl, reibs durchainand ( er ) mit <lb/> ainen Saubern Millich rämb, od ( er ) ain guetn <lb/> <objectName ref="essig">Essig</objectName>, ist er so scharpf, Nimb ain wenig <lb/> <objectName ref="wein">wein</objectName> in ein Saubers Khösslein, od ( er ) Pfannen, <lb/> laß nit lanng Sieden, od ( er ) vergrint. <lb/> </p>
             </div>
         </body>
     </text>

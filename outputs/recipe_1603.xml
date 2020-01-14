@@ -187,7 +187,7 @@ a) Mahlzeit, Mahl schlechthin [...]</li>
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mach den Fisch Sauber auf, vnd schiep in ab, wasch <lb/> in auß, vnd Salz in ein, vnd nimb ain zitron, <lb/> balg in den Saft auß in ein Saubers geschierl, <lb/> vnd thue Kern herauß, v̈bersiet den zitron, <lb/> d(a)s er nit häntig verbleibt, wan er gesoten ist, <lb/> so nimb in herauß, balge in auß, thue in <lb/> hakhen Klain, fassen es in ein Rhein, vnd gieß <lb/> darauf ain Mäßl arbes Supen, vnd thue in <lb/> ain wellig<gap/> vnd bache in hibsch gelblet herauß, <lb/> wan er gebachen ist, so leg in ein in die Supen, <lb/> vnd laß in Sieden, gewürz in ab. <lb/></p>
+        <p> Mach den <objectName ref="fisch">Fisch</objectName> Sauber auf, vnd schiep in ab, wasch <lb/> in auß, vnd <objectName ref="salz">Salz</objectName> in ein, vnd nimb ain zitron, <lb/> balg in den Saft auß in ein Saubers geschierl, <lb/> vnd thue Kern herauß, v̈bersiet den zitron, <lb/> d ( a ) s er nit häntig verbleibt, wan er gesoten ist, <lb/> so nimb in herauß, balge in auß, thue in <lb/> hakhen Klain, fassen es in ein Rhein, vnd gieß <lb/> darauf ain Mäßl arbes Supen, vnd thue in <lb/> ain wellig<gap/> vnd bache in hibsch gelblet herauß, <lb/> wan er gebachen ist, so leg in ein in die Supen, <lb/> vnd laß in Sieden, gewürz in ab. <lb/> </p>
             </div>
         </body>
     </text>

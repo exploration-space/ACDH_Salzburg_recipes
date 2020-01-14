@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb auf ein Pfundt<gap/> Putter .6. Gauffen<gap/> <lb/> schönes Mehl<gap/> thues vnder den butter ab <lb/> walgen<gap/>, hernach thue 4. ayr dotter <lb/> vnd .2. Ganze vnd ein sauren Rämb<gap/> <lb/> abschrigln<gap/>, Mach den taig<gap/> darmit an, thue <lb/> ihm .3. mall als wie den butter taig<gap/> <lb/> Auswalgen<gap/>, vnd hernach auch ein Pasteten <lb/> oder schisl dorten<gap/> daraus Machen, <lb/> also ist es Recht. <lb/></p>
+        <p> Nimb auf ein Pfundt<gap/> Putter.6. Gauffen<gap/> <lb/> schönes Mehl<gap/> thues vnder den <objectName ref="butter">butter</objectName> ab <lb/> walgen<gap/>, hernach thue 4. ayr dotter <lb/> vnd.2. Ganze vnd ein sauren Rämb<gap/> <lb/> abschrigln<gap/>, Mach den taig<gap/> darmit an, thue <lb/> ihm.3. mall als wie den <objectName ref="butter">butter</objectName> taig<gap/> <lb/> Auswalgen<gap/>, vnd hernach auch ein <objectName ref="pastete">Pasteten</objectName> <lb/> oder schisl dorten<gap/> daraus Machen, <lb/> also ist es Recht. <lb/> </p>
             </div>
         </body>
     </text>

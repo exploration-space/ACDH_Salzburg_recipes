@@ -165,9 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIese gehören zu der Kräuter= Suppen.
-
-Dito zum Salat.</p>
+        <p> DIese gehören zu der Kräuter= <objectName ref="suppe">Suppen</objectName>. Dito zum <objectName ref="salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

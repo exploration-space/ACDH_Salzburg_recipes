@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wann der Kopf wol gesotten ist <lb/> so thu das Fett vnd Fleisch von Augen herauß <lb/> hacks mit grünen Kräutern <lb/> geriebenem Weck <lb/> Eyerdottern <lb/> ein wenig Ingwer vnd Saltz <lb/> mach Schnitten von eine(n) Weck <lb/> vnd streichs darauff <lb/> druck die andern Schnitten darauff <lb/> vnd schlag ein Ey oder zwey durcheinander <lb/> vnd tauch die Schnitten mit den örtern darein <lb/> wirff sie in heisse Butter <lb/> vn(d) backs auß <lb/> so helt es die Schnitte(n) fein beyeinander. Solches warm auff ein Tisch geben <lb/> vnd mit Ingwer bestreuwet <lb/> ist ein köstlich und Herrlich essen.</p>
+        <p> Wann der <objectName ref="kopf">Kopf</objectName> wol gesotten ist <lb/> so thu das <objectName ref="fett">Fett</objectName> vnd <objectName ref="fleisch">Fleisch</objectName> von <objectName ref="augen">Augen</objectName> herauß <lb/> hacks mit grünen <objectName ref="kraeuter">Kräutern</objectName> <lb/> geriebenem Weck <lb/> Eyerdottern <lb/> ein wenig <objectName ref="ingwer">Ingwer</objectName> vnd Saltz <lb/> mach Schnitten von eine ( n ) Weck <lb/> vnd streichs darauff <lb/> druck die andern Schnitten darauff <lb/> vnd schlag ein Ey oder zwey durcheinander <lb/> vnd tauch die Schnitten mit den örtern darein <lb/> wirff sie in heisse <objectName ref="butter">Butter</objectName> <lb/> vn ( d ) backs auß <lb/> so helt es die Schnitte ( n ) fein beyeinander. Solches warm auff ein <objectName ref="tisch">Tisch</objectName> geben <lb/> vnd mit <objectName ref="ingwer">Ingwer</objectName> bestreuwet <lb/> ist ein köstlich und Herrlich essen. </p>
             </div>
         </body>
     </text>

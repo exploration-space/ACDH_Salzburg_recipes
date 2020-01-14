@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>CArfiol gebutzt <lb/> gebrüht <lb/> gibt man auch mit wol= gemachter Erbesbrühe <lb/> Butter <lb/> Pfeffer und Muscatnuß <lb/> mit oder ohne Eyerdotter.</p>
+        <p> CArfiol gebutzt <lb/> gebrüht <lb/> gibt man auch mit wol= gemachter Erbesbrühe <lb/> <objectName ref="butter">Butter</objectName> <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Muscatnuß <lb/> mit oder ohne Eyerdotter. </p>
             </div>
         </body>
     </text>

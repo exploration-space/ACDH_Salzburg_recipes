@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Carfiol wird gebutzt <lb/> zu beliebigen Stücklein geschnitten <lb/> ein wenig überbrüht <lb/> wenig gesaltzen <lb/> abgesiehen <lb/> wann er trucken <lb/> eingemeelbt <lb/> und aus heissem Schmaltz gebachen <lb/> ist gut <lb/> im Anrichten unter die Schwammen <lb/> und allerhand Ragu wol ausgetheilt <lb/> auch damit sammt anderm Gebachnen <lb/> den Rand der Schüssel Wechsel= weiß regalirt.</p>
+        <p> DEr Carfiol wird gebutzt <lb/> zu beliebigen Stücklein geschnitten <lb/> ein wenig überbrüht <lb/> wenig gesaltzen <lb/> abgesiehen <lb/> wann er trucken <lb/> eingemeelbt <lb/> und aus heissem Schmaltz gebachen <lb/> ist gut <lb/> im Anrichten unter die Schwammen <lb/> und allerhand Ragu wol ausgetheilt <lb/> auch damit sammt anderm Gebachnen <lb/> den Rand der <objectName ref="schuessel">Schüssel</objectName> Wechsel= weiß regalirt. </p>
             </div>
         </body>
     </text>

@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Du kanst auch wol ein Fasan in einer Gallrat zurichten <lb/> so stehet es auch zierlich vnd schön.</p>
+        <p> Du kanst auch wol ein <objectName ref="fasan">Fasan</objectName> in einer Gallrat zurichten <lb/> so stehet es auch zierlich vnd schön. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm die gebutzte Schnecken <lb/> trückne sie mit dem Tuch <lb/> wirffs ins Meel <lb/> und schwings etlichmal herüber <lb/> und bachs schnell <lb/> Liecht= gelb <lb/> aus heissem Schmaltz <lb/> und gibs in einer Sardellen= Brühe <lb/> mit Butter <lb/> oder Oel gemacht.</p>
+        <p> NImm die gebutzte <objectName ref="schnecken">Schnecken</objectName> <lb/> trückne sie mit dem <objectName ref="tuch">Tuch</objectName> <lb/> wirffs ins Meel <lb/> und schwings etlichmal herüber <lb/> und bachs schnell <lb/> Liecht= gelb <lb/> aus heissem Schmaltz <lb/> und gibs in einer Sardellen= <objectName ref="bruehe">Brühe</objectName> <lb/> mit <objectName ref="butter">Butter</objectName> <lb/> oder Oel gemacht. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm Mandel <lb/> stoß gar klein <lb/> gieß Rosenwasser zu <lb/> nimm eine Handvoll Fench <lb/> und gar gute süsse Milch <lb/> treib damit den Fench wohl ab <lb/> rühr die gestoßne Matery darunter <lb/> schlag 3. Eyer darein <lb/> rühre alles glatt ab <lb/> nimm darzu auch einen frischen abgerührten Butter <lb/> und Zucker <lb/> gieß in eine Pfann <lb/> setz in einen Ofen und bachs <lb/> und wanns halb gebachen ist <lb/> mach ein Eyß darauf <lb/> laß gar bachen <lb/> es ist gar gut.</p>
+        <p> Nimm Mandel <lb/> stoß gar klein <lb/> gieß <objectName ref="rosenwasser">Rosenwasser</objectName> zu <lb/> nimm eine Handvoll Fench <lb/> und gar gute süsse <objectName ref="milch">Milch</objectName> <lb/> treib damit den Fench wohl ab <lb/> rühr die gestoßne Matery darunter <lb/> schlag 3. Eyer darein <lb/> rühre alles glatt ab <lb/> nimm darzu auch einen frischen abgerührten <objectName ref="butter">Butter</objectName> <lb/> und <objectName ref="zucker">Zucker</objectName> <lb/> gieß in eine Pfann <lb/> setz in einen <objectName ref="ofen">Ofen</objectName> und bachs <lb/> und wanns halb gebachen ist <lb/> mach ein Eyß darauf <lb/> laß gar bachen <lb/> es ist gar gut. </p>
             </div>
         </body>
     </text>

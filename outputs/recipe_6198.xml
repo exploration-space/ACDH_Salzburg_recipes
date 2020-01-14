@@ -165,9 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ITem zeitigen Wein sol man also erkennen : Wenn die Trauben süß seind <lb/> vnd die Körner schnell auffgehn vnd rein schneinen <lb/> auch sehr kleben an den Fingern <lb/> vnd die Beer beginnen klein zu werden <lb/> vnd runtzlecht <lb/> so ist der Wein zeitig zu lesen <lb/> Auch sollen die Weintretter Händt vnnd Füß wäschen <lb/> vnnd die vnzeitigen Trauben außwerffen <lb/> sie bringen sonst dem Wein grossen schaden.
-
-Item <lb/> wenn man den Wein lißt <lb/> ehe er recht zeitig ist <lb/> so wirt der Wein blöd <lb/> vnd nicht wehrhafftig <lb/> sondern brüchig <lb/> Leßt man jn aber zu viel zeitig werden <lb/> so wirt er aber brüchig vom reiffen <lb/> vnd faulen die Träublein.</p>
+        <p> ITem zeitigen <objectName ref="wein">Wein</objectName> sol man also erkennen : Wenn die Trauben süß seind <lb/> vnd die Körner schnell auffgehn vnd <objectName ref="rein">rein</objectName> schneinen <lb/> auch sehr kleben an den Fingern <lb/> vnd die Beer beginnen klein zu werden <lb/> vnd runtzlecht <lb/> so ist der <objectName ref="wein">Wein</objectName> zeitig zu lesen <lb/> Auch sollen die Weintretter Händt vnnd Füß wäschen <lb/> vnnd die vnzeitigen Trauben außwerffen <lb/> sie bringen sonst dem <objectName ref="wein">Wein</objectName> grossen schaden. Item <lb/> wenn man den <objectName ref="wein">Wein</objectName> lißt <lb/> ehe er recht zeitig ist <lb/> so wirt der <objectName ref="wein">Wein</objectName> blöd <lb/> vnd nicht wehrhafftig <lb/> sondern brüchig <lb/> Leßt man jn aber zu viel zeitig werden <lb/> so wirt er aber brüchig vom reiffen <lb/> vnd faulen die Träublein. </p>
             </div>
         </body>
     </text>

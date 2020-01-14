@@ -173,9 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAch einen Teig mit Eyern und Butter an <lb/> zuckere ihn <lb/> und gieß ein wenig Rosenwasser dazu; walchere diesen Teig <lb/> schneide dinne Schnitten wie Sauer Kraut daraus <lb/> und bachs aus Schmaltz: gieß dann einen Malvasier in eine Schüssel darüber <lb/> laß auf einer Kohlen warm werden <lb/> und streue Zucker und Trisanet darauf.
-
-</p>
+        <p> MAch einen <objectName ref="teig">Teig</objectName> mit Eyern und <objectName ref="butter">Butter</objectName> an <lb/> zuckere ihn <lb/> und gieß ein wenig <objectName ref="rosenwasser">Rosenwasser</objectName> dazu; walchere diesen <objectName ref="teig">Teig</objectName> <lb/> schneide dinne Schnitten wie Sauer <objectName ref="kraut">Kraut</objectName> daraus <lb/> und bachs aus Schmaltz : gieß dann einen Malvasier in eine <objectName ref="schuessel">Schüssel</objectName> darüber <lb/> laß auf einer <objectName ref="kohlen">Kohlen</objectName> warm werden <lb/> und streue <objectName ref="zucker">Zucker</objectName> und Trisanet darauf. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim ein loht Zimmet <lb/> ein quint. Pariskörner <lb/> ein viertheil einer Muscatennuß <lb/> 3. vierling Honigs <lb/> vnd ein maß guten Weins. Mische das Pulver vnd Honig <lb/> thus zusammen <lb/> vnd seyhe es schön durch <lb/> dann hastu ein gut lauter Getränck.</p>
+        <p> Nim ein loht Zimmet <lb/> ein <objectName ref="quint">quint</objectName>. Pariskörner <lb/> ein viertheil einer Muscatennuß <lb/> 3. <objectName ref="vierling">vierling</objectName> Honigs <lb/> vnd ein <objectName ref="mass">maß</objectName> guten Weins. Mische das Pulver vnd <objectName ref="honig">Honig</objectName> <lb/> thus zusammen <lb/> vnd seyhe es schön durch <lb/> dann hastu ein gut lauter Getränck. </p>
             </div>
         </body>
     </text>

@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm abgesottne Krebs <lb/> löse die Schweiffel aus <lb/> bereite aus denen Schaalen eines Theils ein gute rothe Krebs= Brühe <lb/> und aus dem andern Theil einen rothen Krebs= Taig <lb/> von disem Krebs= Taig aber Knödlein und Strützel <lb/> setz die Schüssel mit gebähtem Brod auf eine Glut <lb/> giesse von der rothen Brühe daran <lb/> gibe die Knödlein und Schweiffel oben darauf <lb/> und regaliers mit denen Strützlen.</p>
+        <p> NImm abgesottne Krebs <lb/> löse die Schweiffel aus <lb/> bereite aus denen Schaalen eines Theils ein gute rothe Krebs= <objectName ref="bruehe">Brühe</objectName> <lb/> und aus dem andern Theil einen rothen Krebs= Taig <lb/> von disem Krebs= Taig aber Knödlein und Strützel <lb/> setz die <objectName ref="schuessel">Schüssel</objectName> mit gebähtem Brod auf eine <objectName ref="glut">Glut</objectName> <lb/> giesse von der rothen <objectName ref="bruehe">Brühe</objectName> daran <lb/> gibe die Knödlein und Schweiffel oben darauf <lb/> und regaliers mit denen Strützlen. </p>
             </div>
         </body>
     </text>

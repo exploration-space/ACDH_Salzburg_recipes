@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZIehet Mandeln ab <lb/> stossets in einem Mörsel klein <lb/> giesset Rosenwasser daran <lb/> damit sie nicht öhlicht werden ; schüttets in ein Näpfflein <lb/> thut Zucker <lb/> und ein wenig gestossene Zimmet daran <lb/> rührets wohl unter einander : Machet ein Teiglein mit Wein <lb/> Mehl <lb/> und ein wenig Zucker an <lb/> wälchert es aus <lb/> und legt von dem Mandeln= Gehäck Häufflein darauf <lb/> schlaget den Teig darüber <lb/> wie man die Raffioln macht , drucket selbigen neben rings herum vest zu <lb/> damit sie nicht aufspringen <lb/> und bachets dann aus einem Schmaltz schön hell heraus.</p>
+        <p> ZIehet <objectName ref="mandeln">Mandeln</objectName> ab <lb/> stossets in einem Mörsel klein <lb/> giesset <objectName ref="rosenwasser">Rosenwasser</objectName> daran <lb/> damit sie nicht öhlicht werden; schüttets in ein Näpfflein <lb/> thut <objectName ref="zucker">Zucker</objectName> <lb/> und ein wenig gestossene Zimmet daran <lb/> rührets wohl unter einander : Machet ein Teiglein mit <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="mehl">Mehl</objectName> <lb/> und ein wenig <objectName ref="zucker">Zucker</objectName> an <lb/> wälchert es aus <lb/> und legt von dem Mandeln= <objectName ref="gehaeck">Gehäck</objectName> Häufflein darauf <lb/> schlaget den <objectName ref="teig">Teig</objectName> darüber <lb/> wie man die Raffioln macht, drucket selbigen neben rings herum vest zu <lb/> damit sie nicht aufspringen <lb/> und bachets dann aus einem Schmaltz schön hell heraus. </p>
             </div>
         </body>
     </text>

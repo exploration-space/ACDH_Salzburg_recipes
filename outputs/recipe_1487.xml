@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NUn legt zu den gebachenen Fischen <lb/> gebachene oder ungebachene Knödlein <lb/> Carfiol <lb/> Schnecken <lb/> gebrüheten und geschnittenen Spargel <lb/> geröste Maurachen <lb/> und etwann ausgelößte Krebs <lb/> alles wohl gewürtzt <lb/> mit frischem Butter die Pasteten gemacht und gebachen <lb/> aber nicht sauer <lb/> sondern mit einer guten gelben Butter=Brühe versehen und aufgetragen.</p>
+        <p> NUn legt zu den gebachenen Fischen <lb/> gebachene oder ungebachene Knödlein <lb/> Carfiol <lb/> <objectName ref="schnecken">Schnecken</objectName> <lb/> gebrüheten und geschnittenen <objectName ref="spargel">Spargel</objectName> <lb/> geröste Maurachen <lb/> und etwann ausgelößte Krebs <lb/> alles wohl gewürtzt <lb/> mit frischem <objectName ref="butter">Butter</objectName> die <objectName ref="pastete">Pasteten</objectName> gemacht und gebachen <lb/> aber nicht sauer <lb/> sondern mit einer guten gelben Butter=Brühe versehen und aufgetragen. </p>
             </div>
         </body>
     </text>

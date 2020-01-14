@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm gut rindernes Marck <lb/> schneids blättlet <lb/> butz zuvor <lb/> daß kein Beinlein darbey bleibt <lb/> mach ein Eingerührtes <lb/> koch es gar an die Statt <lb/> thue darein Zucker <lb/> Zimmet <lb/> ein wenig Petersil=Kräutlein geschnitten <lb/> 3. oder 4. Eyer mit Milch=Ram <lb/> das Marck alles unter einander gerührt <lb/> also gebachen <lb/> einen mürben Taig in das Becken gethan <lb/> wie öffters gemeldt worden <lb/> so es beliebt auch Körbl=Kraut.</p>
+        <p> NImm gut rindernes Marck <lb/> schneids blättlet <lb/> butz zuvor <lb/> daß kein Beinlein darbey bleibt <lb/> mach ein Eingerührtes <lb/> koch es gar an die Statt <lb/> thue darein <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet <lb/> ein wenig Petersil=Kräutlein geschnitten <lb/> 3. oder 4. Eyer mit Milch=Ram <lb/> das Marck alles unter einander gerührt <lb/> also gebachen <lb/> einen mürben Taig in das <objectName ref="becken">Becken</objectName> gethan <lb/> wie öffters gemeldt worden <lb/> so es beliebt auch Körbl=Kraut. </p>
             </div>
         </body>
     </text>

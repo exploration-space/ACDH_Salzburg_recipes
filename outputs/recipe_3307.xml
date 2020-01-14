@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Schlegel werden zerklopfft <lb/> eine Weil ins Saltz gelegt <lb/> und mit Zwibel <lb/> Knoblauch <lb/> wenig Lorbeer= Blätter <lb/> Rosmarin <lb/> und Lemoni= Schaalen in ein grosse Rein <lb/> Casserol <lb/> oder Pfannen mit Wasser gesotten <lb/> biß sie wohl weich <lb/> und gantz eingesotten haben; auf die letzt bleibt ein kurtze Brühe <lb/> mit welcher sie zugedeckt <lb/> oder wohl verschlossen <lb/> gar gedämpfft <lb/> und gleich <lb/> wie die Bratwürst gebräunt <lb/> und aufgetragen werden <lb/> mit wenig Eßig vermischt <lb/> und die mehriste Feisten darvon gethan.</p>
+        <p> DIe <objectName ref="schlegel">Schlegel</objectName> werden zerklopfft <lb/> eine Weil ins Saltz gelegt <lb/> und mit Zwibel <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> wenig Lorbeer= Blätter <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> und Lemoni= Schaalen in ein grosse <objectName ref="rein">Rein</objectName> <lb/> Casserol <lb/> oder Pfannen mit <objectName ref="wasser">Wasser</objectName> gesotten <lb/> biß sie wohl weich <lb/> und gantz eingesotten haben; auf die letzt bleibt ein kurtze <objectName ref="bruehe">Brühe</objectName> <lb/> mit welcher sie zugedeckt <lb/> oder wohl verschlossen <lb/> gar gedämpfft <lb/> und gleich <lb/> wie die Bratwürst gebräunt <lb/> und aufgetragen werden <lb/> mit wenig Eßig vermischt <lb/> und die mehriste <objectName ref="feisten">Feisten</objectName> darvon gethan. </p>
             </div>
         </body>
     </text>

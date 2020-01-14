@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn der Waller= Kopff blau abgesotten auf erstbeschriebene Art <lb/> kan er hernach mit einer weissen Butter= Brühe <lb/> und wenig sauer <lb/> mit Lemoni= Safft und Gewürtz versehen werden; oder mit einem guten Rago <lb/> von abgesottner Karpffen= Milch <lb/> Zungen <lb/> Hechten= Lebern und Magen <lb/> Rutten= Ferchen= Salbling= Lebern <lb/> etc. oder mit gezupfftem Waller= Brät <lb/> in einer weissen <lb/> oder gelben Butter= Brühe regaliert werden.</p>
+        <p> WAnn der Waller= Kopff blau abgesotten auf erstbeschriebene Art <lb/> kan er hernach mit einer weissen Butter= <objectName ref="bruehe">Brühe</objectName> <lb/> und wenig sauer <lb/> mit Lemoni= Safft und Gewürtz versehen werden; oder mit einem guten Rago <lb/> von abgesottner Karpffen= <objectName ref="milch">Milch</objectName> <lb/> <objectName ref="zunge">Zungen</objectName> <lb/> Hechten= <objectName ref="leber">Lebern</objectName> und <objectName ref="magen">Magen</objectName> <lb/> Rutten= Ferchen= Salbling= <objectName ref="leber">Lebern</objectName> <lb/> etc. oder mit gezupfftem Waller= Brät <lb/> in einer weissen <lb/> oder gelben Butter= <objectName ref="bruehe">Brühe</objectName> regaliert werden. </p>
             </div>
         </body>
     </text>

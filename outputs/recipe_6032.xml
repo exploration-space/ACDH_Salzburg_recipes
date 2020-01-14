@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>RUpffet die Vögel <lb/> nehmet das Gedärm heraus <lb/> bratets oder röstets im Schmaltz <lb/> legts in einen stollichten Hafen <lb/> giesst ein wenig Wein dazu <lb/> thut frische Beer von Weintrauben <lb/> wie auch Zucker und Trisanet daran ; lasset die Vögelein einen Sud in der Brüh aufthun : dann leget sie in eine Schüssel <lb/> richtet die Brüh darüber <lb/> und streuet Zimmet und klein= geschnittene Citronen= Schelffen darauf.</p>
+        <p> RUpffet die <objectName ref="voegel">Vögel</objectName> <lb/> nehmet das Gedärm heraus <lb/> bratets oder röstets im Schmaltz <lb/> legts in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> giesst ein wenig <objectName ref="wein">Wein</objectName> dazu <lb/> thut frische Beer von <objectName ref="weintrauben">Weintrauben</objectName> <lb/> wie auch <objectName ref="zucker">Zucker</objectName> und Trisanet daran; lasset die Vögelein einen Sud in der Brüh aufthun : dann leget sie in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> richtet die Brüh darüber <lb/> und streuet Zimmet und klein= geschnittene Citronen= Schelffen darauf. </p>
             </div>
         </body>
     </text>

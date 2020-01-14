@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) süsse Milch <lb/> vnnd thu ein wenig Lab <lb/> das im Kälbern Magen ist <lb/> darein <lb/> seig es vnter die Milch <lb/> vnd laß bey der Wärm stehen <lb/> so wirt es gerinnen <lb/> schüt es auff ein schöne Decken <lb/> vnd laß das Molcken darvon rinnen <lb/> wickels vbereinander <lb/> vnnd bindt die Decken zu an allen beyden örtern <lb/> vnd laß wol kalt werden <lb/> thu es wider voneinander <lb/> thu die Milch herauß <lb/> richt sie an in eine Schüssel <lb/> vnd gib sie trucken auff ein Tisch <lb/> besträw es mit weissem Zucker <lb/> so wirt es gut vnnd wolgeschmack. Vnnd also macht man die Decken Milch.</p>
+        <p> Nim ( m ) süsse <objectName ref="milch">Milch</objectName> <lb/> vnnd thu ein wenig <objectName ref="lab">Lab</objectName> <lb/> das im Kälbern <objectName ref="magen">Magen</objectName> ist <lb/> darein <lb/> seig es vnter die <objectName ref="milch">Milch</objectName> <lb/> vnd laß bey der Wärm stehen <lb/> so wirt es gerinnen <lb/> schüt es auff ein schöne Decken <lb/> vnd laß das Molcken darvon rinnen <lb/> wickels vbereinander <lb/> vnnd bindt die Decken zu an allen beyden örtern <lb/> vnd laß wol kalt werden <lb/> thu es wider voneinander <lb/> thu die <objectName ref="milch">Milch</objectName> herauß <lb/> richt sie an in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> vnd gib sie trucken auff ein <objectName ref="tisch">Tisch</objectName> <lb/> besträw es mit weissem <objectName ref="zucker">Zucker</objectName> <lb/> so wirt es gut vnnd wolgeschmack. Vnnd also macht man die Decken <objectName ref="milch">Milch</objectName>. </p>
             </div>
         </body>
     </text>

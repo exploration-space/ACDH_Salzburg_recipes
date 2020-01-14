@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>KLaube und wasche ein halb Pfund Reiß <lb/> lasse denselben wieder dürr und trocken werden <lb/> stosse ihn dann klein <lb/> und rühre ein wenig Rosenwasser darunter : nimm ferner anderthalb Maas Kern oder süssen Ram <lb/> laß ihn sieden <lb/> und rühre alsdann den angezwyrten Reiß darein <lb/> laß es also ein wenig kochen : hacke oder stosse indessen ein viertel Pfund abgezogener Mandel <lb/> mische sie auch darunter <lb/> zuckers nach deinen Geschmack und belieben <lb/> laß noch einen Sud zusammen aufthun <lb/> richte es in eine Schüssel <lb/> und streue durch einen zierlich ausgeschnittenen Model <lb/> Zimmet darauf.</p>
+        <p> KLaube und wasche ein halb <objectName ref="pfund">Pfund</objectName> Reiß <lb/> lasse denselben wieder dürr und trocken werden <lb/> stosse ihn dann klein <lb/> und rühre ein wenig <objectName ref="rosenwasser">Rosenwasser</objectName> darunter : nimm ferner anderthalb <objectName ref="maas">Maas</objectName> Kern oder süssen Ram <lb/> laß ihn sieden <lb/> und rühre alsdann den angezwyrten Reiß darein <lb/> laß es also ein wenig kochen : hacke oder stosse indessen ein viertel <objectName ref="pfund">Pfund</objectName> abgezogener Mandel <lb/> mische sie auch darunter <lb/> zuckers nach deinen Geschmack und belieben <lb/> laß noch einen Sud zusammen aufthun <lb/> richte es in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und streue durch einen zierlich ausgeschnittenen <objectName ref="model">Model</objectName> <lb/> Zimmet darauf. </p>
             </div>
         </body>
     </text>

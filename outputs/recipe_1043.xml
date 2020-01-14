@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Lard your Mutton and some Slices of Veal, with Bacon rolled in Spice and sweet Herbs; then brown them in melted Lard; boil the Leg of Mutton in strong Broth, with all Sorts of sweet Herbs, and an Onion stuck with Cloves. When it is ready lay it on the Dish, and lay the Collops round; then pour on it a Ragout, and garnish with Lemon and Orange.</p>
+        <p> Lard your Mutton and some Slices of Veal, with Bacon rolled in Spice and sweet Herbs; then brown them in melted Lard; boil the Leg of Mutton in strong Broth, with all Sorts of sweet Herbs, and an Onion stuck with Cloves. When it is ready lay it on the Dish, and lay the Collops round; then pour on it a <objectName ref="ragout">Ragout</objectName>, and garnish with Lemon and Orange. </p>
             </div>
         </body>
     </text>

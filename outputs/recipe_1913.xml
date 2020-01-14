@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Man seud die fisch am ersten im Salz fein ab, darnach <lb/> seichs ab, nimb gueten Wein, gilbs Woll, mit saffran, vnd <lb/> gewürz, darnach mans scharpf haben Will, nägel nimb <lb/> nicht, es macht nur scharpf vnd schwarz, aber leg darzue <lb/> Mußcatblüe, Zimmetröhrn, Ingwar, Mußcat vnd ein wenig <lb/> Pfefferstup, seud alles undereinander, vnd Wan du die <lb/> fisch abgesichen hast, so geuß das süpl dran, vnd laß ein <lb/> Wahl in dem Süppl thuen, so fachen sie das gewürz an <lb/> sich, magst mit der schwarzen Suppen auch also thuen. <lb/></p>
+        <p> Man seud die <objectName ref="fisch">fisch</objectName> am ersten im <objectName ref="salz">Salz</objectName> fein ab, darnach <lb/> seichs ab, nimb gueten <objectName ref="wein">Wein</objectName>, gilbs Woll, mit saffran, vnd <lb/> gewürz, darnach mans scharpf haben Will, <objectName ref="naegel">nägel</objectName> nimb <lb/> nicht, es macht nur scharpf vnd schwarz, aber leg darzue <lb/> Mußcatblüe, Zimmetröhrn, Ingwar, Mußcat vnd ein wenig <lb/> Pfefferstup, seud alles undereinander, vnd Wan du die <lb/> <objectName ref="fisch">fisch</objectName> abgesichen hast, so geuß das süpl dran, vnd laß ein <lb/> Wahl in dem Süppl thuen, so fachen sie das gewürz an <lb/> sich, magst mit der schwarzen <objectName ref="suppe">Suppen</objectName> auch also thuen. <lb/> </p>
             </div>
         </body>
     </text>

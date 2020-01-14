@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schneits fein zu spätlein, Nimb zugger, vnd <lb/> linnts gewürz, gemachte Nägelein, gilbß <lb/> woll, machs scharff mit Pfeffer, als hast g. <lb/></p>
+        <p> Schneits fein zu spätlein, Nimb zugger, vnd <lb/> linnts gewürz, gemachte Nägelein, gilbß <lb/> woll, machs scharff mit <objectName ref="pfeffer">Pfeffer</objectName>, als hast g. <lb/> </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb die Pfrilln<gap/> Salz nit vill, nimb ain gläsl <lb/> wein daran, vnd ain Stickhl<gap/> Putter<gap/>, in ein Pfan<gap/>, <lb/> auch ganzen Pfeffer, laß also sieden<gap/>, aber nit <lb/> lang, gibs also auf die daffl<gap/>. <lb/><lb/> (31r)</p>
+        <p> Nimb die Pfrilln<gap/> <objectName ref="salz">Salz</objectName> nit vill, nimb ain gläsl <lb/> <objectName ref="wein">wein</objectName> daran, vnd ain Stickhl<gap/> Putter<gap/>, in ein Pfan<gap/>, <lb/> auch ganzen <objectName ref="pfeffer">Pfeffer</objectName>, laß also sieden<gap/>, aber nit <lb/> lang, gibs also auf die daffl<gap/>. <lb/><lb/> ( 31r ) </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Süß Holtz <lb/> Eniß vnd Fenchelsafft in Wein gelassen <lb/> also daß das süß Holtz zwyfach gegen dem andern sey <lb/> man sol es stäts trincken.</p>
+        <p> Süß Holtz <lb/> Eniß vnd Fenchelsafft in <objectName ref="wein">Wein</objectName> gelassen <lb/> also daß das süß Holtz zwyfach gegen dem andern sey <lb/> man sol es stäts trincken. </p>
             </div>
         </body>
     </text>

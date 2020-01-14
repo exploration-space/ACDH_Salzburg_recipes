@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChildkrotten <lb/> mit gezupften Hechten <lb/> mit unterschiedlichen Zusatz <lb/> von Dardoffeln <lb/> Maurachen <lb/> oder andern guten Schwammen <lb/> in Butter und wenig Meel geröst <lb/> mit wenig Wein <lb/> Erbesbrühe <lb/> Gewürtz und Lemoni.</p>
+        <p> SChildkrotten <lb/> mit gezupften Hechten <lb/> mit unterschiedlichen Zusatz <lb/> von Dardoffeln <lb/> Maurachen <lb/> oder andern guten Schwammen <lb/> in <objectName ref="butter">Butter</objectName> und wenig Meel geröst <lb/> mit wenig <objectName ref="wein">Wein</objectName> <lb/> Erbesbrühe <lb/> Gewürtz und Lemoni. </p>
             </div>
         </body>
     </text>

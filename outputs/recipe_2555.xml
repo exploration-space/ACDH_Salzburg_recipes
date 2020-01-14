@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneidet einen Granat= Apffel der rothe Kern hat <lb/> Creutz= weiß von einander <lb/> nehmet die Kern heraus <lb/> thut selbige in eine Schüssel; trocknet reinlich ausgewaschene Corinthen oder Weinbeer auf einem Tuch ab <lb/> mischet sie zusamt ein wenig klein= zerschnittene Citronat darunter: giesst zuletzt Peter Siemonis daran <lb/> doch <lb/> daß er nicht viel Brüh bekommt <lb/> streuet Zucker darein <lb/> schneidet Pistacien= Nüßlein klein <lb/> legts neben den Salat herum <lb/> und beziert oder belegt solchen <lb/> wie in vorhergehenden bereits gemeldet worden.</p>
+        <p> SChneidet einen Granat= Apffel der rothe Kern hat <lb/> Creutz= weiß von einander <lb/> nehmet die Kern heraus <lb/> thut selbige in eine <objectName ref="schuessel">Schüssel</objectName>; trocknet reinlich ausgewaschene Corinthen oder Weinbeer auf einem <objectName ref="tuch">Tuch</objectName> ab <lb/> mischet sie zusamt ein wenig klein= zerschnittene Citronat darunter : giesst zuletzt Peter Siemonis daran <lb/> doch <lb/> daß er nicht viel Brüh bekommt <lb/> streuet <objectName ref="zucker">Zucker</objectName> darein <lb/> schneidet Pistacien= Nüßlein klein <lb/> legts neben den <objectName ref="salat">Salat</objectName> herum <lb/> und beziert oder belegt solchen <lb/> wie in vorhergehenden bereits gemeldet worden. </p>
             </div>
         </body>
     </text>

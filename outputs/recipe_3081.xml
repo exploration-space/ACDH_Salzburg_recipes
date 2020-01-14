@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIese werden auch von allen Haaren <lb/> Sand <lb/> und aller Unreinigkeit geklaubt und eingewässert <lb/> oder ein warme Brühe daran gegossen <lb/> damit sie fein aufgeschwellen <lb/> dann wird diese Brühe hinweg gethan <lb/> und die Maurachen gewürtzt <lb/> geröst <lb/> und zugericht <lb/> wie obgedacht.</p>
+        <p> DIese werden auch von allen Haaren <lb/> <objectName ref="sand">Sand</objectName> <lb/> und aller Unreinigkeit geklaubt und eingewässert <lb/> oder ein warme <objectName ref="bruehe">Brühe</objectName> daran gegossen <lb/> damit sie fein aufgeschwellen <lb/> dann wird diese <objectName ref="bruehe">Brühe</objectName> hinweg gethan <lb/> und die Maurachen gewürtzt <lb/> geröst <lb/> und zugericht <lb/> wie obgedacht. </p>
             </div>
         </body>
     </text>

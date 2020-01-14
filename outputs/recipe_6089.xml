@@ -167,9 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DAs Schloß=Brätlein <lb/> oder Schwantz=Stuck <lb/> vom Kalb <lb/> wird gleich einer Pasteten eingericht <lb/> mit Gewürtz und andern Zusatz gedämpfft; gibs in eigener Brühe <lb/> regaliers mit Presolen <lb/> oder gebachenen Füssen.
-
- </p>
+        <p> DAs Schloß=Brätlein <lb/> oder Schwantz=Stuck <lb/> vom <objectName ref="kalb">Kalb</objectName> <lb/> wird gleich einer <objectName ref="pastete">Pasteten</objectName> eingericht <lb/> mit Gewürtz und andern Zusatz gedämpfft; gibs in eigener <objectName ref="bruehe">Brühe</objectName> <lb/> regaliers mit Presolen <lb/> oder gebachenen Füssen. </p>
             </div>
         </body>
     </text>

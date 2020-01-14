@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>PLateis <lb/> mit dergleichen Uberguß <lb/> von Maurachen <lb/> Schwammen <lb/> und wenig Wein <lb/> mit Gewürtz <lb/> und nothwendigen Saltz <lb/> wann die Plateis überbrennt <lb/> abgesiehen <lb/> und auf die Schüssel aufgericht.</p>
+        <p> PLateis <lb/> mit dergleichen Uberguß <lb/> von Maurachen <lb/> Schwammen <lb/> und wenig <objectName ref="wein">Wein</objectName> <lb/> mit Gewürtz <lb/> und nothwendigen Saltz <lb/> wann die Plateis überbrennt <lb/> abgesiehen <lb/> und auf die <objectName ref="schuessel">Schüssel</objectName> aufgericht. </p>
             </div>
         </body>
     </text>

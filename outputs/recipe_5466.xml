@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>REib einen Lebkuchen <lb/> thue ihn in ein Häfelein <lb/> gieß Wein daran <lb/> mische Zucker <lb/> Zimmet <lb/> Ingber <lb/> Pfeffer und Saffran darein <lb/> ingleichen auch ausgekernte Rosin <lb/> und gewaschene Weinbeere oder Corinthen <lb/> gieß ein wenig Malvasier dazu  <lb/> richte sie über das abgesottene Wildpret <lb/> und belege es mit abgezogenen Mandeln.</p>
+        <p> REib einen <objectName ref="lebkuchen">Lebkuchen</objectName> <lb/> thue ihn in ein <objectName ref="haefelein">Häfelein</objectName> <lb/> gieß <objectName ref="wein">Wein</objectName> daran <lb/> mische <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet <lb/> Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Saffran darein <lb/> ingleichen auch ausgekernte Rosin <lb/> und gewaschene Weinbeere oder Corinthen <lb/> gieß ein wenig Malvasier dazu <lb/> richte sie über das abgesottene Wildpret <lb/> und belege es mit abgezogenen <objectName ref="mandeln">Mandeln</objectName>. </p>
             </div>
         </body>
     </text>

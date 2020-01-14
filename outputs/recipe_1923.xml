@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Seinds ferchen, Salzs ein, laß ein khlaines im Salz ligen, <lb/> daruon straiff das Salz auch daruon, nimb Wein vnd süssen <lb/> buter, als ein henen aÿr, vnd in wein, gilbs vnd gewürz, <lb/> geuß an die Visch, vnd loß Sieden biß genug seÿ, so richts an, <lb/> mit der Suppen, das Petersillkhraut ist gar guet vnd <lb/> Wolgeschmach, Wen mans darbeÿ Seud. <lb/></p>
+        <p> Seinds ferchen, Salzs ein, laß ein khlaines im <objectName ref="salz">Salz</objectName> ligen, <lb/> daruon straiff das <objectName ref="salz">Salz</objectName> auch daruon, nimb <objectName ref="wein">Wein</objectName> vnd süssen <lb/> buter, als ein henen aÿr, vnd in <objectName ref="wein">wein</objectName>, gilbs vnd gewürz, <lb/> geuß an die Visch, vnd loß Sieden biß genug seÿ, so richts an, <lb/> mit der <objectName ref="suppe">Suppen</objectName>, das Petersillkhraut ist gar guet vnd <lb/> Wolgeschmach, Wen mans darbeÿ Seud. <lb/> </p>
             </div>
         </body>
     </text>

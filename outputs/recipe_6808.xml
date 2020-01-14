@@ -171,9 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Zwibeln <lb/> vnd schneidt sie klein <lb/> setz ein Rindtfleischbrüh in einem Kessel auff <lb/> vnnd laß sieden <lb/> vnnd wenn die Brüh seudt <lb/> so wirff die geschnittene Zwibeln darein <lb/> vnd laß nur ein Sudt darmit auffthun <lb/> schüt sie auff ein Durchschlag <lb/> daß die Brüh davon rinnet <lb/> so kompt das herbe von Zwibeln hinweg. Nim(m) darnach ein kleinen Fischkessel <lb/> vnnd thu die Zwibeln darein <lb/> seig ein ander Rindtfleischbrüh <lb/> die fein feißt ist <lb/> darüber <lb/> pfeffers mit gestossenem Pfeffer. Vnd wenn die Vögel gebraten seyn <lb/> so zeuch sie ab von dem Spieß <lb/> vnd thu sie in die Zwibeln <lb/> laß darmit ein Sudt auffthun <lb/> daß nicht ein lange Brüh gewinnt <lb/> so wirt es gut vnd wolgeschmack.
-
-</p>
+        <p> Nim ( m ) Zwibeln <lb/> vnd schneidt sie klein <lb/> setz ein Rindtfleischbrüh in einem <objectName ref="kessel">Kessel</objectName> auff <lb/> vnnd laß sieden <lb/> vnnd wenn die Brüh seudt <lb/> so wirff die geschnittene Zwibeln darein <lb/> vnd laß nur ein Sudt darmit auffthun <lb/> schüt sie auff ein <objectName ref="durchschlag">Durchschlag</objectName> <lb/> daß die Brüh davon rinnet <lb/> so kompt das herbe von Zwibeln hinweg. Nim ( m ) darnach ein kleinen <objectName ref="fischkessel">Fischkessel</objectName> <lb/> vnnd thu die Zwibeln darein <lb/> seig ein ander Rindtfleischbrüh <lb/> die fein feißt ist <lb/> darüber <lb/> pfeffers mit gestossenem <objectName ref="pfeffer">Pfeffer</objectName>. Vnd wenn die <objectName ref="voegel">Vögel</objectName> gebraten seyn <lb/> so zeuch sie ab von dem <objectName ref="spiess">Spieß</objectName> <lb/> vnd thu sie in die Zwibeln <lb/> laß darmit ein Sudt auffthun <lb/> daß nicht ein lange Brüh gewinnt <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

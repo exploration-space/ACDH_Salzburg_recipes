@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Bähe weisses Brod <lb/> legs in eine Schüssel <lb/> giesse eine gute siedende Hennen= oder Fleischbrüh darüber <lb/> und streue dann geriebenen Parmasan= Käs darauf <lb/> oder so du wilt <lb/> lege das gebähte Brod in eine Dorten= Pfanne oder Pasteten= Tiegel <lb/> giesse die Brüh daran <lb/> streue den Käs darauf <lb/> und laß es in einer Röhre oder Bach= Oefelein einpregeln <lb/> und trags dann zu Tisch.</p>
+        <p> Bähe weisses Brod <lb/> legs in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> giesse eine gute siedende Hennen= oder Fleischbrüh darüber <lb/> und streue dann geriebenen Parmasan= Käs darauf <lb/> oder so du wilt <lb/> lege das gebähte Brod in eine Dorten= <objectName ref="pfanne">Pfanne</objectName> oder Pasteten= <objectName ref="tiegel">Tiegel</objectName> <lb/> giesse die Brüh daran <lb/> streue den Käs darauf <lb/> und laß es in einer Röhre oder Bach= Oefelein einpregeln <lb/> und trags dann zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>PErschling seynd auch gut heiß abgesotten <lb/> die Haut abgezogen <lb/> mit Erbes= Brühe <lb/> Butter <lb/> Gewürtz und Senff in einem Uberguß gegeben.</p>
+        <p> PErschling seynd auch gut heiß abgesotten <lb/> die Haut abgezogen <lb/> mit Erbes= <objectName ref="bruehe">Brühe</objectName> <lb/> <objectName ref="butter">Butter</objectName> <lb/> Gewürtz und Senff in einem Uberguß gegeben. </p>
             </div>
         </body>
     </text>

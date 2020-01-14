@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES seynd die Salbling und Forellen <lb/> oder Ferchen gut mit Meel aus Schmaltz gebachen <lb/> hernach mit wenig Wein in brauner Karpffen= jus zu geben.</p>
+        <p> ES seynd die Salbling und <objectName ref="forelle">Forellen</objectName> <lb/> oder Ferchen gut mit Meel aus Schmaltz gebachen <lb/> hernach mit wenig <objectName ref="wein">Wein</objectName> in brauner Karpffen= <objectName ref="jus">jus</objectName> zu geben. </p>
             </div>
         </body>
     </text>

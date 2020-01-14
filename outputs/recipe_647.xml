@@ -172,11 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChählet und schneidet die Quitten wie gelbe Ruben <lb/> röstet solche ein wenig im Schmaltz <lb/> und lassets darinnen dünsten, zuvor aber schneidet abgezogene Mandeln länglicht <lb/> körnet Rosinen aus <lb/> und wann die Quitten ein wenig geröstet sind <lb/> thut diese Mandeln und Rosinen <lb/> wie auch Weinbeerlein oder Corinthen dazu hinein <lb/> und lassts also noch ein wenig mit rösten: dann giesset in einen stollichten Hafen Wein daran <lb/> streuet Zucker und ein wenig Zimmet darein <lb/> und lassets noch eine weile mit einander sieden: Wer will <lb/> kan auch ein wenig Saffran dazu thun. Wann nun alles angerichtet <lb/> so streuet Zucker und Zimmet darauf.
-
-<gap/><gap/><gap/>
-
-Auf solche Weise kan man auch die Birn wie gelbe Ruben kochen.</p>
+        <p> SChählet und schneidet die <objectName ref="quitten">Quitten</objectName> wie gelbe Ruben <lb/> röstet solche ein wenig im Schmaltz <lb/> und lassets darinnen dünsten, zuvor aber schneidet abgezogene <objectName ref="mandeln">Mandeln</objectName> länglicht <lb/> körnet <objectName ref="rosinen">Rosinen</objectName> aus <lb/> und wann die <objectName ref="quitten">Quitten</objectName> ein wenig geröstet sind <lb/> thut diese <objectName ref="mandeln">Mandeln</objectName> und <objectName ref="rosinen">Rosinen</objectName> <lb/> wie auch Weinbeerlein oder Corinthen dazu hinein <lb/> und lassts also noch ein wenig mit rösten : dann giesset in einen stollichten <objectName ref="hafen">Hafen</objectName> <objectName ref="wein">Wein</objectName> daran <lb/> streuet <objectName ref="zucker">Zucker</objectName> und ein wenig Zimmet darein <lb/> und lassets noch eine weile mit einander sieden : Wer will <lb/> kan auch ein wenig Saffran dazu thun. Wann nun alles angerichtet <lb/> so streuet <objectName ref="zucker">Zucker</objectName> und Zimmet darauf. <gap/><gap/><gap/> Auf solche Weise kan man auch die Birn wie gelbe Ruben kochen. </p>
             </div>
         </body>
     </text>

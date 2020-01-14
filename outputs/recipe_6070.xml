@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Rot Ruben Salat <lb/> wen sie gesotten seyn <lb/> so schneidt sie klein <lb/> lang oder Wirfflicht <lb/> machs mit Oel <lb/> Essig vnd Saltz <lb/> ab <lb/> magsts süß oder saur machen.</p>
+        <p> Rot Ruben <objectName ref="salat">Salat</objectName> <lb/> wen sie gesotten seyn <lb/> so schneidt sie klein <lb/> lang oder Wirfflicht <lb/> machs mit Oel <lb/> <objectName ref="essig">Essig</objectName> vnd Saltz <lb/> ab <lb/> magsts süß oder saur machen. </p>
             </div>
         </body>
     </text>

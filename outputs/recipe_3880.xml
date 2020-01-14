@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES werden die Salbling und Forellen mit Oel <lb/> oder Butter gebraten <lb/> hernach mit klein= gehackten Zwibeln in Butter <lb/> oder Oel <lb/> sammt Lorbeer= Blättern <lb/> Rosmarin und Knoblauch geröst <lb/> auch Eßig daran gegossen <lb/> gewürtzt <lb/> und mit dem ersten Sud etwas fett darüber gegossen <lb/> und warmer aufgetragen; man kans auch also kalter geben.</p>
+        <p> ES werden die Salbling und <objectName ref="forelle">Forellen</objectName> mit Oel <lb/> oder <objectName ref="butter">Butter</objectName> gebraten <lb/> hernach mit klein= gehackten Zwibeln in <objectName ref="butter">Butter</objectName> <lb/> oder Oel <lb/> sammt Lorbeer= Blättern <lb/> <objectName ref="rosmarin">Rosmarin</objectName> und <objectName ref="knoblauch">Knoblauch</objectName> geröst <lb/> auch Eßig daran gegossen <lb/> gewürtzt <lb/> und mit dem ersten Sud etwas <objectName ref="fett">fett</objectName> darüber gegossen <lb/> und warmer aufgetragen; man kans auch also kalter geben. </p>
             </div>
         </body>
     </text>

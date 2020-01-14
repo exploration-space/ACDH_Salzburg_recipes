@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Item <lb/> wenn du ein Wein schenckest <lb/> vnnd wilt daß er dir nicht abfallen kan <lb/> so nim Baumöl <lb/> nach dem das Faß groß ist <lb/> vnd wenn der Wein so weit leer ist <lb/> dz er beyd Böden betrifft <lb/> so geuß das Baumöl hinein <lb/> vnd wen du weist <lb/> wie lang du an dem Wein schenckest <lb/> so verleuret er sein Farb nicht <lb/> vnd  wirt nicht konig <lb/> vnnd wenn du das faß auffschlegst <lb/> so findest du das Oel in dem Faß wider.</p>
+        <p> Item <lb/> wenn du ein <objectName ref="wein">Wein</objectName> schenckest <lb/> vnnd wilt daß er dir nicht abfallen kan <lb/> so nim Baumöl <lb/> nach dem das Faß groß ist <lb/> vnd wenn der <objectName ref="wein">Wein</objectName> so weit leer ist <lb/> dz er beyd Böden betrifft <lb/> so geuß das Baumöl hinein <lb/> vnd wen du weist <lb/> wie lang du an dem <objectName ref="wein">Wein</objectName> schenckest <lb/> so verleuret er sein Farb nicht <lb/> vnd wirt nicht konig <lb/> vnnd wenn du das faß auffschlegst <lb/> so findest du das Oel in dem Faß wider. </p>
             </div>
         </body>
     </text>

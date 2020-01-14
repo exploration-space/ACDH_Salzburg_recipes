@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb die Tauben spickh<gap/> es schön, bradte<gap/> <lb/> es halbenthaill vnnd thues von den <lb/> spis herab, nimb .3. Gebätte<gap/> schnidl<gap/> <lb/> in ein schissl<gap/>, Gies<gap/> das abgeträpfte<gap/> <lb/> darauf von den tauben, hackhe von <lb/> einer Gesottnen<gap/> hennen<gap/>, oder von <lb/> einen Gebrattnen<gap/> brädl<gap/> ein bräd<gap/>, <lb/> mache Also ein Gehäckh<gap/>, vnnd Gewirz<gap/> <lb/> es, leg die tauben auch darauf, <lb/> mache ein brie<gap/> mit butter vnd Lemony <lb/> Safft<gap/>, Gewürz<gap/>, Salz, thue auch dar= <lb/> Zue, die löber<gap/> vnnd mägel<gap/> von der <lb/> hennen<gap/> vnnd tauben ab, vnd lass <lb/> Auf der Gluett<gap/> sieden<gap/>. <lb/></p>
+        <p> Nimb die <objectName ref="taube">Tauben</objectName> spickh<gap/> es schön, bradte<gap/> <lb/> es halbenthaill vnnd thues von den <lb/> spis herab, nimb.3. Gebätte<gap/> schnidl<gap/> <lb/> in ein schissl<gap/>, Gies<gap/> das abgeträpfte<gap/> <lb/> darauf von den <objectName ref="taube">tauben</objectName>, hackhe von <lb/> einer Gesottnen<gap/> hennen<gap/>, oder von <lb/> einen Gebrattnen<gap/> brädl<gap/> ein bräd<gap/>, <lb/> mache Also ein Gehäckh<gap/>, vnnd Gewirz<gap/> <lb/> es, leg die <objectName ref="taube">tauben</objectName> auch darauf, <lb/> mache ein brie<gap/> mit <objectName ref="butter">butter</objectName> vnd Lemony <lb/> Safft<gap/>, Gewürz<gap/>, <objectName ref="salz">Salz</objectName>, thue auch dar= <lb/> Zue, die löber<gap/> vnnd mägel<gap/> von der <lb/> hennen<gap/> vnnd <objectName ref="taube">tauben</objectName> ab, vnd lass <lb/> Auf der Gluett<gap/> sieden<gap/>. <lb/> </p>
             </div>
         </body>
     </text>

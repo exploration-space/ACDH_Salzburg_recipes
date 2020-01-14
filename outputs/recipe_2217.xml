@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb guets mell, zu dem nimb gueten süssen Rämb, aÿrdoter, germb, <lb/> mache ihn an Wie ein germbtaig gar ring, laß ihn aufgehn, darnach <lb/> schite ihn auf ein tisch, rühr ihn Wider ab, strä mell drauf, mach 3. schlangen <lb/> drauß, Welgs in der dikh Wie ein khleins fingerl, bestreichs mit Puter, <lb/> Sä Mußcatblüe drauf, leg die 3. bleter aufeinander, streich den spiß, <lb/> schlag ein aÿr auf, bestreich den taig damit, säe Zukher drauf, schlag <lb/> ein papier drüber, vnd binds gerings mit einem bandt, vnd Wan er <lb/> aufgeht, so laß das bandt nach, begieß ihn mit Puter, biß er braten <lb/> Wird. <lb/></p>
+        <p> Nimb guets mell, zu dem nimb gueten süssen Rämb, aÿrdoter, germb, <lb/> mache ihn an Wie ein germbtaig gar ring, laß ihn aufgehn, darnach <lb/> schite ihn auf ein <objectName ref="tisch">tisch</objectName>, rühr ihn Wider ab, strä mell drauf, mach 3. schlangen <lb/> drauß, Welgs in der dikh Wie ein khleins fingerl, bestreichs mit Puter, <lb/> Sä Mußcatblüe drauf, leg die 3. bleter aufeinander, streich den spiß, <lb/> schlag ein aÿr auf, bestreich den taig damit, säe Zukher drauf, schlag <lb/> ein <objectName ref="papier">papier</objectName> drüber, vnd binds gerings mit einem bandt, vnd Wan er <lb/> aufgeht, so laß das bandt nach, begieß ihn mit Puter, biß er braten <lb/> Wird. <lb/> </p>
             </div>
         </body>
     </text>

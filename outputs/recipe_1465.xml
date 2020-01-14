@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Diese werden den ersten gantz gleich gemacht <lb/> ausgenommen das Gedärm von denen Schnepffen wird klein gehackt <lb/> der Magen und das Unsaubere wird weggethan <lb/> das andere aber in Butter geröst <lb/> gewürtzt <lb/> gesaltzen <lb/> auch gar ein wenig Wein <lb/> Ram <lb/> oder Fleisch=Brühe daran gegossen <lb/> mit gutem Butter abgerührt <lb/> auf gebähte Schnitten gelegt <lb/> oder man laßt die Schnitten aus <lb/> wann die Pasteten fertig <lb/> gibt mans mit der Brühe hinein <lb/> ist auch gut.</p>
+        <p> Diese werden den ersten gantz gleich gemacht <lb/> ausgenommen das Gedärm von denen Schnepffen wird klein gehackt <lb/> der <objectName ref="magen">Magen</objectName> und das Unsaubere wird weggethan <lb/> das andere aber in <objectName ref="butter">Butter</objectName> geröst <lb/> gewürtzt <lb/> gesaltzen <lb/> auch gar ein wenig <objectName ref="wein">Wein</objectName> <lb/> Ram <lb/> oder Fleisch=Brühe daran gegossen <lb/> mit gutem <objectName ref="butter">Butter</objectName> abgerührt <lb/> auf gebähte Schnitten gelegt <lb/> oder man laßt die Schnitten aus <lb/> wann die <objectName ref="pastete">Pasteten</objectName> fertig <lb/> gibt mans mit der <objectName ref="bruehe">Brühe</objectName> hinein <lb/> ist auch gut. </p>
             </div>
         </body>
     </text>

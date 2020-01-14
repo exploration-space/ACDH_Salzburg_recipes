@@ -168,9 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm geröste Semmel= Brosen <lb/> an den Boden <lb/> in den Dorten <lb/> dann auch die frische und sauber geklaubte Johannes= Beerlein <lb/> streue viel Zucker darauf <lb/> mach die Dorten zu <lb/> und bachs <lb/> und bestreus mit Zucker <lb/> oder mach ein Glas= Eyß darauf.
-
-N.B.: Wann sie zuvor in Zucker dick gesotten <lb/> werden sie noch besser.</p>
+        <p> Nimm geröste Semmel= Brosen <lb/> an den Boden <lb/> in den Dorten <lb/> dann auch die frische und sauber geklaubte Johannes= Beerlein <lb/> streue viel <objectName ref="zucker">Zucker</objectName> darauf <lb/> mach die Dorten zu <lb/> und bachs <lb/> und bestreus mit <objectName ref="zucker">Zucker</objectName> <lb/> oder mach ein Glas= Eyß darauf. N.B. : Wann sie zuvor in <objectName ref="zucker">Zucker</objectName> dick gesotten <lb/> werden sie noch besser. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Erstlich Mach Auß den Wörschy stickhl<gap/> <lb/> vnnd siedt<gap/> ihn hernach schlag Ayr<gap/> <lb/> auf vnnd Klopfs<gap/> ab Ker<gap/> die stickhl<gap/> <lb/><lb/> (re 24) darin vmb vnd bach<gap/> Ihn in schmalz<gap/> <lb/> schmirb<gap/> ein schisßl<gap/> mit butter lege <lb/> den Wörschy darauf vnnd sprigl<gap/> <lb/> einen siessen rämb<gap/> ab vnd Giess<gap/> <lb/> Ihn daran lass Ihn bregln<gap/> vnd <lb/> leg butter daran. <lb/></p>
+        <p> Erstlich Mach Auß den Wörschy stickhl<gap/> <lb/> vnnd siedt<gap/> ihn hernach schlag Ayr<gap/> <lb/> auf vnnd Klopfs<gap/> ab Ker<gap/> die stickhl<gap/> <lb/><lb/> ( re 24 ) darin vmb vnd bach<gap/> Ihn in schmalz<gap/> <lb/> schmirb<gap/> ein schisßl<gap/> mit <objectName ref="butter">butter</objectName> lege <lb/> den Wörschy darauf vnnd sprigl<gap/> <lb/> einen siessen rämb<gap/> ab vnd Giess<gap/> <lb/> Ihn daran lass Ihn bregln<gap/> vnd <lb/> leg <objectName ref="butter">butter</objectName> daran. <lb/> </p>
             </div>
         </body>
     </text>

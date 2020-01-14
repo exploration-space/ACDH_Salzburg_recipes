@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Rübeslein abgestreiffter von den Stenglen <lb/> in geläutertem Zucker kurtz gesotten <lb/> auf gebähte Semmel=Schnitten angericht <lb/> mit Zucker bestreut.</p>
+        <p> Rübeslein abgestreiffter von den Stenglen <lb/> in geläutertem <objectName ref="zucker">Zucker</objectName> kurtz gesotten <lb/> auf gebähte Semmel=Schnitten angericht <lb/> mit <objectName ref="zucker">Zucker</objectName> bestreut. </p>
             </div>
         </body>
     </text>

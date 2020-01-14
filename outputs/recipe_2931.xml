@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIe werden in einer ordinari sauren Fisch= Brühe <lb/> und im Anrichten <lb/> mit einer sauren gelben Zwibel= Erbes= oder andern Butter= Brühe übergossen <lb/> und warmer gegeben <lb/> mit Lemoni= Schelffen.</p>
+        <p> SIe werden in einer ordinari sauren Fisch= <objectName ref="bruehe">Brühe</objectName> <lb/> und im Anrichten <lb/> mit einer sauren gelben Zwibel= Erbes= oder andern Butter= <objectName ref="bruehe">Brühe</objectName> übergossen <lb/> und warmer gegeben <lb/> mit Lemoni= Schelffen. </p>
             </div>
         </body>
     </text>

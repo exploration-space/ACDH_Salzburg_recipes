@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChählet säuerlichte Aepffel <lb/> und zerschneidet selbige <lb/> giesst Wein und Wasser daran <lb/> jedoch deß Wassers mehr als deß Weins <lb/> lasst sie dann so lang sieden biß sie weich werden; zwingts durch einen Seiher oder Durchschlag <lb/> streuet Zimmet <lb/> Muscatenblüh und Saffran darein <lb/> lassts noch einen Sud aufthun; zerklopffet dann zwey Eyer <lb/> rührt selbige mit der Suppen an <lb/> und richtet sie über weisses würfflicht= geschnitten= und in Schmaltz geröstetes Brod.</p>
+        <p> SChählet säuerlichte Aepffel <lb/> und zerschneidet selbige <lb/> giesst <objectName ref="wein">Wein</objectName> und <objectName ref="wasser">Wasser</objectName> daran <lb/> jedoch deß Wassers mehr als deß Weins <lb/> lasst sie dann so lang sieden biß sie weich werden; zwingts durch einen <objectName ref="seiher">Seiher</objectName> oder <objectName ref="durchschlag">Durchschlag</objectName> <lb/> streuet Zimmet <lb/> Muscatenblüh und Saffran darein <lb/> lassts noch einen Sud aufthun; zerklopffet dann zwey Eyer <lb/> rührt selbige mit der <objectName ref="suppe">Suppen</objectName> an <lb/> und richtet sie über weisses würfflicht= geschnitten= und in Schmaltz geröstetes Brod. </p>
             </div>
         </body>
     </text>

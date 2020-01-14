@@ -168,12 +168,7 @@ Willst du ein weißes Mus zubereiten, kann man das mit Mandeln machen. Dafür mu
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WIldu habn̄ ein weisses gemuͤss daz get
-vō mādel dar vn̄ darczwͤ muͤstu sweinens
-fleisch han ein magʾs vn̄ ein faistes vn̄ lass
-daz sÿedn̄ an dÿe stat vn̄ hack daz klain
-So wirt das gemuͤss rain czuͤckker muͤstu
-dar czw han wan̄ es wʾt suͤss da von etc.</p>
+        <p> WIldu habn̄ ein weisses gemuͤss daz get vō mādel dar vn̄ darczwͤ muͤstu sweinens <objectName ref="fleisch">fleisch</objectName> han ein magʾs vn̄ ein faistes vn̄ lass daz sÿedn̄ an dÿe stat vn̄ hack daz klain So wirt das gemuͤss rain czuͤckker muͤstu dar czw han wan̄ es wʾt suͤss da von etc. </p>
             </div>
         </body>
     </text>

@@ -170,9 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIedet schöne Wegwarten im Röhren= Wasser <lb/> aber nicht gar zu weich ; legets eine Stund in frisches Wasser <lb/> legets wie die vorige auf ein reines Tuch <lb/> lassets vertrocknen ; beitzet sie nachmals in Zucker und Rosenwasser <lb/> und lassets über Nacht stehen : Machet von warmen Wein einen Teig an <lb/> zuckert ihn ein wenig <lb/> oder giesset von dieser Brüh <lb/> darinnen sie über Nacht gestanden <lb/> etwas dazu <lb/> schlaget aber kein Ey daran <lb/> tuncket die Wegwarten darein <lb/> bachet sie schön licht aus dem Schmaltz <lb/> legts in eine Schüssel <lb/> und streuet Zucker darauf.<gap/>
-
-<gap/> Hiebey ist zu beobachten <lb/> daß <lb/> wann man die Wegwarten in die Pfannen thut <lb/> sie in die Runden herum geleget werden müssen <lb/> wie die Spritzen= Küchlein.</p>
+        <p> SIedet schöne Wegwarten im Röhren= <objectName ref="wasser">Wasser</objectName> <lb/> aber nicht gar zu weich; legets eine Stund in frisches <objectName ref="wasser">Wasser</objectName> <lb/> legets wie die vorige auf ein reines <objectName ref="tuch">Tuch</objectName> <lb/> lassets vertrocknen; beitzet sie nachmals in <objectName ref="zucker">Zucker</objectName> und <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> und lassets über Nacht stehen : Machet von warmen <objectName ref="wein">Wein</objectName> einen <objectName ref="teig">Teig</objectName> an <lb/> zuckert ihn ein wenig <lb/> oder giesset von dieser Brüh <lb/> darinnen sie über Nacht gestanden <lb/> etwas dazu <lb/> schlaget aber kein Ey daran <lb/> tuncket die Wegwarten darein <lb/> bachet sie schön licht aus dem Schmaltz <lb/> legts in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und streuet <objectName ref="zucker">Zucker</objectName> darauf. <gap/> <gap/> Hiebey ist zu beobachten <lb/> daß <lb/> wann man die Wegwarten in die Pfannen thut <lb/> sie in die Runden herum geleget werden müssen <lb/> wie die Spritzen= Küchlein. </p>
             </div>
         </body>
     </text>

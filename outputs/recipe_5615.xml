@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet von einem Ey nur allein das Weisse <lb/> zerklopffets <lb/> doch nicht zu sehr ; saltzets ein wenig <lb/> und rührtes mit etwas schönem Mehl wohl glatt ab ; wircket den Teig <lb/> und klopffet ihn nicht <lb/> walchert gantz dinne Plätze <lb/> jedoch ohne Löcher <lb/> daraus : tuncket hernach das Hut= Mödelein ins Schmaltz <lb/> leget einen solchen ausgewälcherten Platz darein <lb/> und so dann in das heisse Schmaltz ; giesst fleissig auf <lb/> und bachets schön leicht= gelb heraus.</p>
+        <p> NEhmet von einem Ey nur allein das Weisse <lb/> zerklopffets <lb/> doch nicht zu sehr; saltzets ein wenig <lb/> und rührtes mit etwas schönem <objectName ref="mehl">Mehl</objectName> wohl glatt ab; wircket den <objectName ref="teig">Teig</objectName> <lb/> und klopffet ihn nicht <lb/> walchert gantz dinne Plätze <lb/> jedoch ohne Löcher <lb/> daraus : tuncket hernach das Hut= Mödelein ins Schmaltz <lb/> leget einen solchen ausgewälcherten Platz darein <lb/> und so dann in das heisse Schmaltz; giesst fleissig auf <lb/> und bachets schön leicht= gelb heraus. </p>
             </div>
         </body>
     </text>

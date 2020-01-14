@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim ein Hecht <lb/> reiß jn auff <lb/> vnd quell jn in einem gesotten Wasser <lb/> leg jn darnach in Wasser vnd Essig <lb/> thu Knobloch vnd Saltz darein <lb/> laß ein stundt oder zwo ligen <lb/> leg jn darnach auff ein Roßt <lb/> vnnd brat jn. Nim das grüne vom Knobloch <lb/> vnd stoß mit ein wenig grün Pettersilgen <lb/> zerlaß mit süsser Milch <lb/> streichs darmit durch <lb/> thu frische Meybutter darein <lb/> vnnd setz auff das Feuwer <lb/> rür es biß auffseudt <lb/> vnd schaw <lb/> daß nicht gerinnet. Vnnd wenn der Kölhecht gebraten ist <lb/> so schüt die Milch darvnter <lb/> so wirt es grün vnd wolgeschmack.</p>
+        <p> Nim ein <objectName ref="hecht">Hecht</objectName> <lb/> reiß jn auff <lb/> vnd quell jn in einem gesotten <objectName ref="wasser">Wasser</objectName> <lb/> leg jn darnach in <objectName ref="wasser">Wasser</objectName> vnd <objectName ref="essig">Essig</objectName> <lb/> thu Knobloch vnd Saltz darein <lb/> laß ein stundt oder zwo ligen <lb/> leg jn darnach auff ein Roßt <lb/> vnnd brat jn. Nim das grüne vom Knobloch <lb/> vnd stoß mit ein wenig grün Pettersilgen <lb/> zerlaß mit süsser <objectName ref="milch">Milch</objectName> <lb/> streichs darmit durch <lb/> thu frische Meybutter darein <lb/> vnnd setz auff das Feuwer <lb/> rür es biß auffseudt <lb/> vnd schaw <lb/> daß nicht gerinnet. Vnnd wenn der Kölhecht gebraten ist <lb/> so schüt die <objectName ref="milch">Milch</objectName> darvnter <lb/> so wirt es grün vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

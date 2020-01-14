@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet gute gerechte Geißmilch <lb/> stosst Pistazien= Nüßlein mit einen Weinbeerlein= Wasser ab <lb/> zwingts hernach durch ein reines Tüchlein <lb/> giesst selbige unter die Geißmilch <lb/> macht sie geschwind siedend <lb/> und rühret ohne aufhören <lb/> so lang solche siedet <lb/> zertreibt auch <lb/> von ein oder zweyen lind= gesottenen Eyern <lb/> die Dottern <lb/> rührt selbige mit der siedenden Suppen an <lb/> zuckerts <lb/> und richtets über schön gelb gebähtes Semmel= Brod.</p>
+        <p> NEhmet gute gerechte Geißmilch <lb/> stosst Pistazien= Nüßlein mit einen Weinbeerlein= <objectName ref="wasser">Wasser</objectName> ab <lb/> zwingts hernach durch ein reines Tüchlein <lb/> giesst selbige unter die Geißmilch <lb/> macht sie geschwind siedend <lb/> und rühret ohne aufhören <lb/> so lang solche siedet <lb/> zertreibt auch <lb/> von ein oder zweyen lind= gesottenen Eyern <lb/> die Dottern <lb/> rührt selbige mit der siedenden <objectName ref="suppe">Suppen</objectName> an <lb/> zuckerts <lb/> und richtets über schön gelb gebähtes Semmel= Brod. </p>
             </div>
         </body>
     </text>

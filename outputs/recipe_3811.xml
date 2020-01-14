@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIeser ist gut unter das Sauerkraut zu mischen <lb/> mit sauren Ram aufkochen lassen <lb/> und mit klein= gehackten und gerösten Zwibel eingebrennt.</p>
+        <p> DIeser ist gut unter das <objectName ref="sauerkraut">Sauerkraut</objectName> zu mischen <lb/> mit sauren Ram aufkochen lassen <lb/> und mit klein= gehackten und gerösten Zwibel eingebrennt. </p>
             </div>
         </body>
     </text>

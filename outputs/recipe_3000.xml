@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BRennestlen von der grossen Gattung <lb/> die Gipffel und gute Blätter darvon <lb/> seynd gut <lb/> dem Spinat gleich zu kochen.</p>
+        <p> BRennestlen von der grossen Gattung <lb/> die Gipffel und gute Blätter darvon <lb/> seynd gut <lb/> dem <objectName ref="spinat">Spinat</objectName> gleich zu kochen. </p>
             </div>
         </body>
     </text>

@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Auch Knödel Pasteten <lb/> es sey weiß oder gelb <lb/> in ein auffgesetzte Pasteten.</p>
+        <p> Auch <objectName ref="knoedel">Knödel</objectName> <objectName ref="pastete">Pasteten</objectName> <lb/> es sey weiß oder gelb <lb/> in ein auffgesetzte <objectName ref="pastete">Pasteten</objectName>. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIeser Fisch ist etwas lang <lb/> und gantz flach <lb/> dahero heissen sie auf Teutsch Zungen <lb/> und kommen aus Welschland anhero <lb/> in Feßlen eingemacht <lb/> und schön marinierter.</p>
+        <p> DIeser <objectName ref="fisch">Fisch</objectName> ist etwas lang <lb/> und gantz flach <lb/> dahero heissen sie auf Teutsch <objectName ref="zunge">Zungen</objectName> <lb/> und kommen aus Welschland anhero <lb/> in Feßlen eingemacht <lb/> und schön marinierter. </p>
             </div>
         </body>
     </text>

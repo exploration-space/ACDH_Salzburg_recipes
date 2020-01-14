@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn nehme ein Pfund Senff <lb/> zerstosse selbigen gantz klein zu Mehl <lb/> gieß eine Maas gantz süssen Most daran <lb/> der noch nicht vergoren ist <lb/> laß ihn einen Tag und Nacht stehen; wann er zu dick seyn sollte <lb/> kan man noch so viel daran schütten <lb/> biß daß er sich giessen läst; auch <lb/> wann man will <lb/> vier Loth klein geriebene Mandeln darunter mischen.</p>
+        <p> MAn nehme ein <objectName ref="pfund">Pfund</objectName> Senff <lb/> zerstosse selbigen gantz klein zu <objectName ref="mehl">Mehl</objectName> <lb/> gieß eine <objectName ref="maas">Maas</objectName> gantz süssen <objectName ref="most">Most</objectName> daran <lb/> der noch nicht vergoren ist <lb/> laß ihn einen Tag und Nacht stehen; wann er zu dick seyn sollte <lb/> kan man noch so viel daran schütten <lb/> biß daß er sich giessen läst; auch <lb/> wann man will <lb/> vier <objectName ref="loth">Loth</objectName> klein geriebene <objectName ref="mandeln">Mandeln</objectName> darunter mischen. </p>
             </div>
         </body>
     </text>

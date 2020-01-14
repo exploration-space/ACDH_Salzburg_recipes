@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIeses Mus wird auf die gleich jetzo beschriebe Art gemacht <lb/> wie das Kürbis und Cucummern= Mus : daher es hier zu wiederholen unnöthig.</p>
+        <p> DIeses Mus wird auf die gleich jetzo beschriebe Art gemacht <lb/> wie das <objectName ref="kuerbis">Kürbis</objectName> und Cucummern= Mus : daher es hier zu wiederholen unnöthig. </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Oder kansts grün eynmachen mit Pettersilgen <lb/> die wol gesotten vn(d) durchgestrichen ist <lb/> von einem gebehten Schnitten Weck <lb/> mit einer Rindtfleischbrüh <lb/> sampt der Pettersilgen vnd Lebern. Würtz es ab mit Saffran vnd Pfeffer <lb/> schaw daß du es nicht verwürtzest noch versaltzest <lb/> so ist es gut vnd wolgeschmack.</p>
+        <p> Oder kansts grün eynmachen mit Pettersilgen <lb/> die wol gesotten vn ( d ) durchgestrichen ist <lb/> von einem gebehten Schnitten Weck <lb/> mit einer Rindtfleischbrüh <lb/> sampt der Pettersilgen vnd <objectName ref="leber">Lebern</objectName>. Würtz es ab mit Saffran vnd <objectName ref="pfeffer">Pfeffer</objectName> <lb/> schaw daß du es nicht verwürtzest noch versaltzest <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

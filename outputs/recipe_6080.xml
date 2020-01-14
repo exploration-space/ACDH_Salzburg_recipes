@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim Rettich <lb/> vnnd schneidt jn klein <lb/> breit vnnd dünn <lb/> quell ihn in Wasser <lb/> vnd kül jn auß <lb/> machs an mit Oel <lb/> Essig vnnd Saltz. Du magst mit Zucker besträuwen oder lassen.</p>
+        <p> Nim <objectName ref="rettich">Rettich</objectName> <lb/> vnnd schneidt jn klein <lb/> breit vnnd dünn <lb/> quell ihn in <objectName ref="wasser">Wasser</objectName> <lb/> vnd kül jn auß <lb/> machs an mit Oel <lb/> <objectName ref="essig">Essig</objectName> vnnd Saltz. Du magst mit <objectName ref="zucker">Zucker</objectName> besträuwen oder lassen. </p>
             </div>
         </body>
     </text>

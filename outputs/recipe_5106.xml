@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Setz sie in einem Wasser zu <lb/> vnd laß sie ein stundt oder siben sieden <lb/> nim(m) sie herauß <lb/> vn(d) seuber sie auß <lb/> so leßt sie sich fein von einander lesen. Mach ein linden Pfeffer von Hünerschweiß <lb/> vnnd mach es saur <lb/> oder laß es süß <lb/> so wirt es gut vnd wolgeschmack.</p>
+        <p> Setz sie in einem <objectName ref="wasser">Wasser</objectName> zu <lb/> vnd laß sie ein stundt oder siben sieden <lb/> nim ( m ) sie herauß <lb/> vn ( d ) seuber sie auß <lb/> so leßt sie sich fein von einander lesen. Mach ein linden <objectName ref="pfeffer">Pfeffer</objectName> von Hünerschweiß <lb/> vnnd mach es saur <lb/> oder laß es süß <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

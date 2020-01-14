@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>1. Bouch: d´aqa vnd .1. glasßirter höfen <lb/> thue darein daß wasßer wans am <lb/> besten Sied so würff darein .2. loth <lb/> muscatplir .2. ganze Negl .5. loth <lb/> zkher vnd laß .3. Vatter unser sieden <lb/> wan es voll wirdt thue. es seuchen amber et <lb/> m: w: bl: gieß. g: ich kan auch ein wenig <lb/> weinpörl darein werfen. <lb/><lb/></p>
+        <p> 1. Bouch : d´aqa vnd.1. glasßirter höfen <lb/> thue darein daß wasßer wans am <lb/> besten Sied so würff darein.2. <objectName ref="loth">loth</objectName> <lb/> muscatplir.2. ganze Negl.5. <objectName ref="loth">loth</objectName> <lb/> zkher vnd laß.3. Vatter unser sieden <lb/> wan es voll wirdt thue. es <objectName ref="seuchen">seuchen</objectName> <objectName ref="amber">amber</objectName> et <lb/> m : w : bl : gieß. g : ich kan auch ein wenig <lb/> weinpörl darein werfen. <lb/><lb/> </p>
             </div>
         </body>
     </text>

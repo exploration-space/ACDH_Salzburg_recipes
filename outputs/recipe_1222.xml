@@ -175,9 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Erstlich schleimb<gap/> ihm ab, Mache schene Stuckh<gap/> dar <lb/> auß, laß ihm ein weill<gap/> in Salz ligen, dann Söz <lb/> halb ösßig halb wein waser iber, vnd schitte<gap/> den Waller<gap/> <lb/> in die Pfan<gap/>, laß ihm sieden<gap/>, vnd wan er thaills <lb/> verfaimbt<gap/>, so gieß<gap/> die prie<gap/> ab, vnd siede<gap/> gutten <lb/> lezelten<gap/>, in Wein, dreib<gap/> ihm durch, vnd schneyde<gap/> <lb/> grossen zwifl<gap/>, Rest<gap/> ihm in Schmalz<gap/>, vnd <lb/> lög<gap/> ihm auch darein, gewierz<gap/>, thue Putter<gap/> vnd <lb/> zugger<gap/> darein, vnd laß den fisch darin khochen, <lb/> die prie<gap/> khanst auch gilben<gap/>, <lb/>
-
-[Anm.: „halb wein waser“: „waser“ wurde nachträglich eingefügt.]</p>
+        <p> Erstlich schleimb<gap/> ihm ab, Mache schene Stuckh<gap/> dar <lb/> auß, laß ihm ein weill<gap/> in <objectName ref="salz">Salz</objectName> ligen, dann Söz <lb/> halb ösßig halb <objectName ref="wein">wein</objectName> waser iber, vnd schitte<gap/> den Waller<gap/> <lb/> in die Pfan<gap/>, laß ihm sieden<gap/>, vnd wan er thaills <lb/> verfaimbt<gap/>, so gieß<gap/> die prie<gap/> ab, vnd siede<gap/> gutten <lb/> lezelten<gap/>, in <objectName ref="wein">Wein</objectName>, dreib<gap/> ihm durch, vnd schneyde<gap/> <lb/> grossen zwifl<gap/>, Rest<gap/> ihm in Schmalz<gap/>, vnd <lb/> lög<gap/> ihm auch darein, gewierz<gap/>, thue Putter<gap/> vnd <lb/> zugger<gap/> darein, vnd laß den <objectName ref="fisch">fisch</objectName> darin khochen, <lb/> die prie<gap/> khanst auch gilben<gap/>, <lb/> [ Anm. : „ halb <objectName ref="wein">wein</objectName> waser “ : „ waser “ wurde nachträglich eingefügt. ] </p>
             </div>
         </body>
     </text>

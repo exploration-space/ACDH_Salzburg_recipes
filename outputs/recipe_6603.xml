@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Würg den Kappaun ab <lb/> rupff jhn <lb/> vnnd quell jhn ab auff Kolen <lb/> so wirdt er sehen gleich wie ein Fasan.</p>
+        <p> Würg den Kappaun ab <lb/> rupff jhn <lb/> vnnd quell jhn ab auff Kolen <lb/> so wirdt er sehen gleich wie ein <objectName ref="fasan">Fasan</objectName>. </p>
             </div>
         </body>
     </text>

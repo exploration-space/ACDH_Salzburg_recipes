@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChuppe halb= pfündige Hechtlen <lb/> mache sie am Bauch auf <lb/> nimm das Eingeweid heraus <lb/> und schneide kleine Schnittlein überzwech in die Fische <lb/> würtze <lb/> saltze und lege sie auf den Rost <lb/> bestreichs aber zuvor nur klein wenig mit Butter <lb/> damit sie sich nicht anhängen <lb/> im übrigen brate sie gantz trocken : wann sie dann fertig und erkaltet <lb/> streue Trisanet und ein wenig Pfeffer in einen Rosen= Essig <lb/> richte ihn also über die Hechtlein <lb/> und gib selbige zum Salat.</p>
+        <p> SChuppe halb= pfündige Hechtlen <lb/> mache sie am Bauch auf <lb/> nimm das Eingeweid heraus <lb/> und schneide kleine Schnittlein überzwech in die Fische <lb/> würtze <lb/> saltze und lege sie auf den <objectName ref="rost">Rost</objectName> <lb/> bestreichs aber zuvor nur klein wenig mit <objectName ref="butter">Butter</objectName> <lb/> damit sie sich nicht anhängen <lb/> im übrigen brate sie gantz trocken : wann sie dann fertig und erkaltet <lb/> streue Trisanet und ein wenig <objectName ref="pfeffer">Pfeffer</objectName> in einen Rosen= <objectName ref="essig">Essig</objectName> <lb/> richte ihn also über die Hechtlein <lb/> und gib selbige zum <objectName ref="salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

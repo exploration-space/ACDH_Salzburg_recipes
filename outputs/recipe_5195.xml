@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet Feigen <lb/> klaubet sie schön <lb/> sind sie aber alt <lb/> so wascht selbige aus frischem Wasser <lb/> schneidet sie alsdann klein <lb/> thuts in ein Häfelein <lb/> giesset Wein und ein wenig Wasser daran ; weichet inzwischen ein Stücklein Leb= oder Pfeffer= Kuchen in Wein <lb/> treibt ihn durch einen Seiher oder Durchschlag in das Töpflein an die Feigen <lb/> thut Saffran <lb/> oder auch ander gutes Gewürtz daran <lb/> zuckerts <lb/> setz es auf ein Kohlfeuer und lasst es sieden biß es eine feine Dicke überkommt.</p>
+        <p> NEhmet <objectName ref="feigen">Feigen</objectName> <lb/> klaubet sie schön <lb/> sind sie aber alt <lb/> so wascht selbige aus frischem <objectName ref="wasser">Wasser</objectName> <lb/> schneidet sie alsdann klein <lb/> thuts in ein <objectName ref="haefelein">Häfelein</objectName> <lb/> giesset <objectName ref="wein">Wein</objectName> und ein wenig <objectName ref="wasser">Wasser</objectName> daran; weichet inzwischen ein Stücklein Leb= oder Pfeffer= Kuchen in <objectName ref="wein">Wein</objectName> <lb/> treibt ihn durch einen <objectName ref="seiher">Seiher</objectName> oder <objectName ref="durchschlag">Durchschlag</objectName> in das <objectName ref="toepflein">Töpflein</objectName> an die <objectName ref="feigen">Feigen</objectName> <lb/> thut Saffran <lb/> oder auch ander gutes Gewürtz daran <lb/> zuckerts <lb/> setz es auf ein Kohlfeuer und lasst es sieden biß es eine feine Dicke überkommt. </p>
             </div>
         </body>
     </text>

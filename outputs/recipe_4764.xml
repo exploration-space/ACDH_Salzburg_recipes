@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SEihe die lautere Brühe von den gesottnen Erbsen herab <lb/> thue Muscatenblühe <lb/> Cardamomen <lb/> Ingber <lb/> Saffran und Saltz darein <lb/> laß sie sieden. Wann du es nun wilt anrichten <lb/> so thue Butter dazu; zerklopffe Eyerdottern <lb/> und rührs mit der siedenden Brühe an <lb/> laß es aber nicht mehr sieden <lb/> sondern richte sie gleich über weisses dünn= geschnittenes Brod.</p>
+        <p> SEihe die lautere <objectName ref="bruehe">Brühe</objectName> von den gesottnen <objectName ref="erbsen">Erbsen</objectName> herab <lb/> thue Muscatenblühe <lb/> Cardamomen <lb/> Ingber <lb/> Saffran und Saltz darein <lb/> laß sie sieden. Wann du es nun wilt anrichten <lb/> so thue <objectName ref="butter">Butter</objectName> dazu; zerklopffe Eyerdottern <lb/> und rührs mit der siedenden <objectName ref="bruehe">Brühe</objectName> an <lb/> laß es aber nicht mehr sieden <lb/> sondern richte sie gleich über weisses dünn= geschnittenes Brod. </p>
             </div>
         </body>
     </text>

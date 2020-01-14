@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES wird der Hecht aufgemacht <lb/> gesaltzen <lb/> und mit Oel und Pfeffer auf dem heissen Rost gebraten ; wie N°. 75. beschrieben worden ; so bald er fertig <lb/> so wird in einer Pfann <lb/> Oel warm gemacht <lb/> die Capry mit etlich Lorbeer= Blättlein und Rosmarin darinnen wenig geröst <lb/> ein Eßig darein gegossen <lb/> und mit dem ersten Sud gleich über den Fisch gegeben ; regaliers mit Lorbeer= Blättern <lb/> Lemoni und Rosmarin.</p>
+        <p> ES wird der <objectName ref="hecht">Hecht</objectName> aufgemacht <lb/> gesaltzen <lb/> und mit Oel und <objectName ref="pfeffer">Pfeffer</objectName> auf dem heissen <objectName ref="rost">Rost</objectName> gebraten; wie N°. 75. beschrieben worden; so bald er fertig <lb/> so wird in einer Pfann <lb/> Oel warm gemacht <lb/> die Capry mit etlich Lorbeer= Blättlein und <objectName ref="rosmarin">Rosmarin</objectName> darinnen wenig geröst <lb/> ein Eßig darein gegossen <lb/> und mit dem ersten Sud gleich über den <objectName ref="fisch">Fisch</objectName> gegeben; regaliers mit Lorbeer= Blättern <lb/> Lemoni und <objectName ref="rosmarin">Rosmarin</objectName>. </p>
             </div>
         </body>
     </text>

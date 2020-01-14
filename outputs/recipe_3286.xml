@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Zu diesem nimm Weinbeer die noch hart <lb/> und nicht gar zeitig seynd <lb/> klaube die Beer herab <lb/> zerstoß ein wenig <lb/> und treibs mit Wasser durch ein Haar=Sieblein <lb/> oder Tuch <lb/> von diesem Safft mache hernach ein Koch <lb/> mit in Butter gerösten subtilen Semmel=Brosen <lb/> Zucker <lb/> Zimmet und Muscatnuß <lb/> mit wenig Saltz <lb/> laß auch ein Stuck Lemoni=Schaalen mit zwey Näglein besteckter damit sieden <lb/> wanns gesotten <lb/> ein wenig gelb und dick <lb/> auch süß genug ist <lb/> so nimm die Lemoni=Schaalen hinweg <lb/> und gibs mit Zucker bestreuter.</p>
+        <p> Zu diesem nimm Weinbeer die noch hart <lb/> und nicht gar zeitig seynd <lb/> klaube die Beer herab <lb/> zerstoß ein wenig <lb/> und treibs mit <objectName ref="wasser">Wasser</objectName> durch ein Haar=Sieblein <lb/> oder <objectName ref="tuch">Tuch</objectName> <lb/> von diesem Safft mache hernach ein Koch <lb/> mit in <objectName ref="butter">Butter</objectName> gerösten subtilen Semmel=Brosen <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet und Muscatnuß <lb/> mit wenig Saltz <lb/> laß auch ein Stuck Lemoni=Schaalen mit zwey Näglein besteckter damit sieden <lb/> wanns gesotten <lb/> ein wenig gelb und dick <lb/> auch süß genug ist <lb/> so nimm die Lemoni=Schaalen hinweg <lb/> und gibs mit <objectName ref="zucker">Zucker</objectName> bestreuter. </p>
             </div>
         </body>
     </text>

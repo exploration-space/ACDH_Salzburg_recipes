@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>LEget die Nierlein in ein Wasser <lb/> ziehet ihnen die Haut ab <lb/> schneidet sie in der Mitte der Länge nach <lb/> ein wenig von einander <lb/> aber nicht gantz ; saltzet und pfefferts ein <lb/> schmierets mit Butter <lb/> legets auf den Rost <lb/> lassets nicht gar zu lang braten <lb/> und wendet sie offt um <lb/> daß sie nicht hart werden. So man will <lb/> kan man sie auch spicken <lb/> und wie die andern Nierlein am Spieß braten.</p>
+        <p> LEget die Nierlein in ein <objectName ref="wasser">Wasser</objectName> <lb/> ziehet ihnen die Haut ab <lb/> schneidet sie in der Mitte der Länge nach <lb/> ein wenig von einander <lb/> aber nicht gantz; saltzet und pfefferts ein <lb/> schmierets mit <objectName ref="butter">Butter</objectName> <lb/> legets auf den <objectName ref="rost">Rost</objectName> <lb/> lassets nicht gar zu lang braten <lb/> und wendet sie offt um <lb/> daß sie nicht hart werden. So man will <lb/> kan man sie auch spicken <lb/> und wie die andern Nierlein am <objectName ref="spiess">Spieß</objectName> braten. </p>
             </div>
         </body>
     </text>

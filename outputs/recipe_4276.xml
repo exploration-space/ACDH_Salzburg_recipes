@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Brust wird gefüllt <lb/> eingemelbt <lb/> und in heiß Schmaltz <lb/> oder Speck gebräunt <lb/> und sammt einer braunen jus gedämpfft <lb/> gibs auf braun Ruben <lb/> regaliers mit Fricanto, Gaumen oder Bratwürst.</p>
+        <p> DIe <objectName ref="brust">Brust</objectName> wird gefüllt <lb/> eingemelbt <lb/> und in heiß Schmaltz <lb/> oder <objectName ref="speck">Speck</objectName> gebräunt <lb/> und sammt einer braunen <objectName ref="jus">jus</objectName> gedämpfft <lb/> gibs auf braun Ruben <lb/> regaliers mit Fricanto, Gaumen oder Bratwürst. </p>
             </div>
         </body>
     </text>

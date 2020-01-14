@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES wird der Fisch geschuppt und aufgemacht <lb/> zu Stucken geschnitten <lb/> eingemelbt und gebachen <lb/> in die Schüssel gelegt ; dann laß Butter mit kleingehackten Sardellen zergehen <lb/> gieß darzu weissen Wein mit Pomerantzen= Safft <lb/> laß den Fisch darmit aufsieden <lb/> mische auch etliche Capryen darein ; regaliers mit solchen Schelffen <lb/> und in Zucker= PÆnat ausgebachenen gebratnen Kösten <lb/> oder ausgelößten Pomerantzen.</p>
+        <p> ES wird der <objectName ref="fisch">Fisch</objectName> geschuppt und aufgemacht <lb/> zu Stucken geschnitten <lb/> eingemelbt und gebachen <lb/> in die <objectName ref="schuessel">Schüssel</objectName> gelegt; dann laß <objectName ref="butter">Butter</objectName> mit kleingehackten <objectName ref="sardellen">Sardellen</objectName> zergehen <lb/> gieß darzu weissen <objectName ref="wein">Wein</objectName> mit Pomerantzen= Safft <lb/> laß den <objectName ref="fisch">Fisch</objectName> darmit aufsieden <lb/> mische auch etliche Capryen darein; regaliers mit solchen Schelffen <lb/> und in Zucker= PÆnat ausgebachenen gebratnen Kösten <lb/> oder ausgelößten Pomerantzen. </p>
             </div>
         </body>
     </text>

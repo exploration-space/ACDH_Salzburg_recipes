@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DAs Fleisch muß von dem Halß <lb/> ein wenig von den Beinern abgelößt <lb/> feine Stücklein darauß gemacht <lb/> gleich dem Fricanto gebräunt <lb/> und sammt einem Zusatz <lb/> von gebachenen Knödlein <lb/> und Schwammen ein Rago mit jus gemacht werden.</p>
+        <p> DAs <objectName ref="fleisch">Fleisch</objectName> muß von dem Halß <lb/> ein wenig von den Beinern abgelößt <lb/> feine Stücklein darauß gemacht <lb/> gleich dem Fricanto gebräunt <lb/> und sammt einem Zusatz <lb/> von gebachenen Knödlein <lb/> und Schwammen ein Rago mit <objectName ref="jus">jus</objectName> gemacht werden. </p>
             </div>
         </body>
     </text>

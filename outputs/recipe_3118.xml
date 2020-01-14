@@ -170,9 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>KOhl= Köpfflein <lb/> so schön gelb seynd <lb/> zerschnitten und gebrüht <lb/> dann mit Pfeffer <lb/> Eßig und Oel <lb/> auch wol Zucker und Weinbeerlein angemacht <lb/> ist gut.
-
-</p>
+        <p> KOhl= Köpfflein <lb/> so schön gelb seynd <lb/> zerschnitten und gebrüht <lb/> dann mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Eßig und Oel <lb/> auch wol <objectName ref="zucker">Zucker</objectName> und Weinbeerlein angemacht <lb/> ist gut. </p>
             </div>
         </body>
     </text>

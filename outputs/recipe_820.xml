@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Dünste und scheele die angeschnittene Kösten <lb/> sieds in gutem Wein <lb/> Zucker <lb/> gantzen Zimmet und Näglein <lb/> stoß und treibs durch <lb/> und fülls in die marbe Kräpfflein <lb/> mit sauber=gebutztem schwartzen Weinbeerlein vermischt.</p>
+        <p> Dünste und scheele die angeschnittene Kösten <lb/> sieds in gutem <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> gantzen Zimmet und Näglein <lb/> stoß und treibs durch <lb/> und fülls in die marbe Kräpfflein <lb/> mit sauber=gebutztem schwartzen Weinbeerlein vermischt. </p>
             </div>
         </body>
     </text>

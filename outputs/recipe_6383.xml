@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Quell den Hausen wol <lb/> vnd wenn er gesotten ist <lb/> so nim(m) Spenat <lb/> der abgequellt ist <lb/> thu beydes in einen Fischkesssel <lb/> thu gestossen Ingwer <lb/> gantze Muscatenblüt <lb/> vnd gantzen Pfeffer <lb/> daran <lb/> geuß ein lautere Erbeßbrüh <lb/> die wolgeschmack ist <lb/> darüber <lb/> thu ein wenig eyngebrennt Mehl vnd frische vngeschmätzte Butter darein <lb/> laß miteinander sieden <lb/> vnd versaltz es nicht <lb/> so wirt es gut vnd wolgeschmack.</p>
+        <p> Quell den Hausen wol <lb/> vnd wenn er gesotten ist <lb/> so nim ( m ) Spenat <lb/> der abgequellt ist <lb/> thu beydes in einen Fischkesssel <lb/> thu gestossen <objectName ref="ingwer">Ingwer</objectName> <lb/> gantze Muscatenblüt <lb/> vnd gantzen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> daran <lb/> geuß ein lautere Erbeßbrüh <lb/> die wolgeschmack ist <lb/> darüber <lb/> thu ein wenig eyngebrennt <objectName ref="mehl">Mehl</objectName> vnd frische vngeschmätzte <objectName ref="butter">Butter</objectName> darein <lb/> laß miteinander sieden <lb/> vnd versaltz es nicht <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm ein <lb/> oder mehrer Hechten <lb/> schuppe <lb/> und nimme sie aus <lb/> saltze <lb/> und spicke sie <lb/> mit geschnittnen Aalen= Fleisch <lb/> als wie mit Speck ; dann würtze <lb/> und brate sie am Spiß <lb/> oder auf dem Rost gefüllt <lb/> oder ungefüllter ; mach ein gute <lb/> saure gelbe Capry= oder Lemoni= Brühe darüber <lb/> wie über einen gebratenen Haasen ; man nimmt auch zu Zeiten an statt des Butters <lb/> gutes Oel.</p>
+        <p> NImm ein <lb/> oder mehrer Hechten <lb/> schuppe <lb/> und nimme sie aus <lb/> saltze <lb/> und spicke sie <lb/> mit geschnittnen Aalen= <objectName ref="fleisch">Fleisch</objectName> <lb/> als wie mit <objectName ref="speck">Speck</objectName>; dann würtze <lb/> und brate sie am Spiß <lb/> oder auf dem <objectName ref="rost">Rost</objectName> gefüllt <lb/> oder ungefüllter; mach ein gute <lb/> saure gelbe Capry= oder Lemoni= <objectName ref="bruehe">Brühe</objectName> darüber <lb/> wie über einen gebratenen Haasen; man nimmt auch zu Zeiten an statt des Butters <lb/> gutes Oel. </p>
             </div>
         </body>
     </text>

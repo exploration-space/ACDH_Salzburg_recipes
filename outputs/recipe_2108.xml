@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wasche die sauber, Wikhle es ÿbereinander, vnd schneids wie <lb/> geschniten Nudl, thue darunder ein guete hand voll Sembl= <lb/> brößl, hiz ein Schmalz, ein guets stükhl beÿ 2. oder 3. Aÿr <lb/> groß, brens auf die Piesen, nimb darein ein Wenig <lb/> geribnen khäß, Zimet Puluer, ein gueten löffl voll <lb/> Rämb, mach gar ein marbes taigl an, von schmalz oder <lb/> Puter, den leg in ein siedents Wasser, Walge es ein wenig <lb/> dikher als Zu geschnitnen Nudl, richts in ein dorten bëkhl, <lb/> gieß die fühl drein, Rädl riemblein darauf, bachs oben <lb/> vnd unden mit Gluet beÿ einem Feuer. <lb/></p>
+        <p> Wasche die sauber, Wikhle es ÿbereinander, vnd schneids wie <lb/> geschniten Nudl, thue darunder ein guete hand voll Sembl= <lb/> brößl, hiz ein <objectName ref="schmalz">Schmalz</objectName>, ein guets stükhl beÿ 2. oder 3. Aÿr <lb/> groß, brens auf die Piesen, nimb darein ein Wenig <lb/> geribnen khäß, Zimet Puluer, ein gueten löffl voll <lb/> Rämb, mach gar ein marbes taigl an, von <objectName ref="schmalz">schmalz</objectName> oder <lb/> Puter, den leg in ein siedents <objectName ref="wasser">Wasser</objectName>, Walge es ein wenig <lb/> dikher als Zu geschnitnen Nudl, richts in ein dorten bëkhl, <lb/> gieß die fühl drein, Rädl riemblein darauf, bachs oben <lb/> vnd unden mit Gluet beÿ einem <objectName ref="feuer">Feuer</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet den Hopffen <lb/> schneidet ihn ab <lb/> wie den Spargel <lb/> siedet selbigen in einem Wasser ein wenig ab ; giesset in einem stollichten Häfelein eine Fleischbrüh daran <lb/> würtzets mit Pfeffer und Muscatnuß <lb/> lassets ein wenig aufsieden <lb/> und wann ihr es schier anrichten wollet <lb/> werfft ein gut Stück Butter darein.</p>
+        <p> NEhmet den Hopffen <lb/> schneidet ihn ab <lb/> wie den <objectName ref="spargel">Spargel</objectName> <lb/> siedet selbigen in einem <objectName ref="wasser">Wasser</objectName> ein wenig ab; giesset in einem stollichten <objectName ref="haefelein">Häfelein</objectName> eine Fleischbrüh daran <lb/> würtzets mit <objectName ref="pfeffer">Pfeffer</objectName> und Muscatnuß <lb/> lassets ein wenig aufsieden <lb/> und wann ihr es schier anrichten wollet <lb/> werfft ein gut Stück <objectName ref="butter">Butter</objectName> darein. </p>
             </div>
         </body>
     </text>

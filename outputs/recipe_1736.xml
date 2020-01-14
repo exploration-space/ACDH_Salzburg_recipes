@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb <lb/> zwifel rests in ainen schmalz, schneit Pe= <lb/> =tersilwurzen darunter, vnd Khinnich, <lb/> schneit Mußcatblie daran, Nimb etlich <lb/> Imber, ain wenig Pföffer, Nimb <lb/> Puter daran, vnd ain guete Arbeß <lb/> Supen, laß woll auf sieden, sobalts <lb/> auf Siet, schneit grien Petersill daran, <lb/> Seyers zimblich mit ainen gueten Essig, <lb/> wen Sie sieden, so wern sie weiß. <lb/></p>
+        <p> Nimb <lb/> zwifel rests in ainen <objectName ref="schmalz">schmalz</objectName>, schneit Pe= <lb/> =tersilwurzen darunter, vnd Khinnich, <lb/> schneit Mußcatblie daran, Nimb etlich <lb/> Imber, ain wenig Pföffer, Nimb <lb/> Puter daran, vnd ain guete Arbeß <lb/> Supen, laß woll auf sieden, sobalts <lb/> auf Siet, schneit grien Petersill daran, <lb/> Seyers zimblich mit ainen gueten <objectName ref="essig">Essig</objectName>, <lb/> wen Sie sieden, so wern sie weiß. <lb/> </p>
             </div>
         </body>
     </text>

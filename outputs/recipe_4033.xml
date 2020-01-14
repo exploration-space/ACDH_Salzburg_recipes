@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES wird der Lachs <lb/> oder Rhein= Salm frischer zu dünnen Schnitzlein geschnitten <lb/> gesaltzen <lb/> ein wenig in Butter geröst <lb/> und klein gehackt <lb/> gibt ein gutes Gehäck <lb/> mit Zwibeln <lb/> oder Lemoni <lb/> sammt dessen Safft <lb/> welches dient vor eine kleine Schüssel= oder Teller= Speiß.</p>
+        <p> ES wird der <objectName ref="lachs">Lachs</objectName> <lb/> oder Rhein= Salm frischer zu dünnen Schnitzlein geschnitten <lb/> gesaltzen <lb/> ein wenig in <objectName ref="butter">Butter</objectName> geröst <lb/> und klein gehackt <lb/> gibt ein gutes <objectName ref="gehaeck">Gehäck</objectName> <lb/> mit Zwibeln <lb/> oder Lemoni <lb/> sammt dessen Safft <lb/> welches dient vor eine kleine Schüssel= oder Teller= Speiß. </p>
             </div>
         </body>
     </text>

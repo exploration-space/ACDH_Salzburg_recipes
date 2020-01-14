@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Borragum Bletter back auß dem Teig <lb/> darauß du die Salbey hast gebacken.</p>
+        <p> Borragum Bletter back auß dem <objectName ref="teig">Teig</objectName> <lb/> darauß du die Salbey hast gebacken. </p>
             </div>
         </body>
     </text>

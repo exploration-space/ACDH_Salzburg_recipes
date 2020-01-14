@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Es wird der Auerhahn wie ein braunes jus zerstuckt <lb/> frisch geklopfft <lb/> gewürtzt <lb/> gespickt <lb/> oder auch ungespickt <lb/> eingemelbt <lb/> und mit kälbernen Brät = Schnitzlein <lb/> gleich wie das braune jus <lb/> mit gutem Butter <lb/> in Speck <lb/> Zwibel <lb/> und gutem Gewürtz <lb/> jedoch nicht zu starck gebräunt und gedämpfft <lb/> und muß mans mit wenig Wein und Fleischbrühe zugedeckter genug sieden lassen.</p>
+        <p> Es wird der <objectName ref="auerhahn">Auerhahn</objectName> wie ein braunes <objectName ref="jus">jus</objectName> zerstuckt <lb/> frisch geklopfft <lb/> gewürtzt <lb/> gespickt <lb/> oder auch ungespickt <lb/> eingemelbt <lb/> und mit kälbernen Brät = Schnitzlein <lb/> gleich wie das braune <objectName ref="jus">jus</objectName> <lb/> mit gutem <objectName ref="butter">Butter</objectName> <lb/> in <objectName ref="speck">Speck</objectName> <lb/> Zwibel <lb/> und gutem Gewürtz <lb/> jedoch nicht zu starck gebräunt und gedämpfft <lb/> und muß mans mit wenig <objectName ref="wein">Wein</objectName> und <objectName ref="fleischbruehe">Fleischbrühe</objectName> zugedeckter genug sieden lassen. </p>
             </div>
         </body>
     </text>

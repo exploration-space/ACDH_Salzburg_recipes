@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>So nimb 4. aÿr, von den 2. das Weiß hinwëkh, nimb ein <lb/> süsß rämbl oder Wein, Zergeng ein schmalz darein, so <lb/> groß als ein halbes aÿr, nimb die aÿr, schlags in den <lb/> rämb, Woll abgerührt, salz, geuß in das mell, mach ein <lb/> taig, vnd machs nach deinem gefahlen. <lb/></p>
+        <p> So nimb 4. aÿr, von den 2. das Weiß hinwëkh, nimb ein <lb/> süsß rämbl oder <objectName ref="wein">Wein</objectName>, Zergeng ein <objectName ref="schmalz">schmalz</objectName> darein, so <lb/> groß als ein halbes aÿr, nimb die aÿr, schlags in den <lb/> rämb, Woll abgerührt, <objectName ref="salz">salz</objectName>, geuß in das mell, mach ein <lb/> taig, vnd machs nach deinem gefahlen. <lb/> </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Zertheille die gepuzte<gap/> hienner, salz ein, Strähe<gap/> <lb/> ein wenig Mehl<gap/> darauf, thues in haissen<gap/> butter<gap/>, <lb/> laß ein wenig dinsten<gap/>, due ein handtuoll<gap/> Khappry<gap/> <lb/> darein, Krepsen vnd Khärfioll<gap/>, ybersodnen<gap/>, khanst <lb/> auch Maurachen<gap/>, darein nemmben, schitt<gap/> es auf <lb/> ein schisl<gap/>, laß khalt werden vnd schlag es also <lb/> in Putter<gap/> daig ein, wanst die Pastötten<gap/> anrichten<gap/> <lb/> thues so mach ein Putter<gap/> Suppen darein vnd gibs, <lb/></p>
+        <p> Zertheille die gepuzte<gap/> hienner, <objectName ref="salz">salz</objectName> ein, Strähe<gap/> <lb/> ein wenig Mehl<gap/> darauf, thues in haissen<gap/> butter<gap/>, <lb/> laß ein wenig dinsten<gap/>, due ein handtuoll<gap/> Khappry<gap/> <lb/> darein, Krepsen vnd Khärfioll<gap/>, ybersodnen<gap/>, khanst <lb/> auch Maurachen<gap/>, darein nemmben, schitt<gap/> es auf <lb/> ein schisl<gap/>, laß khalt werden vnd schlag es also <lb/> in Putter<gap/> daig ein, wanst die Pastötten<gap/> anrichten<gap/> <lb/> thues so mach ein Putter<gap/> <objectName ref="suppe">Suppen</objectName> darein vnd gibs, <lb/> </p>
             </div>
         </body>
     </text>

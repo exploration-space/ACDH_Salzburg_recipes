@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Röste gescheelte Birn <lb/> Spalten von grossen Birn <lb/> in Butter oder Schmaltz <lb/> sieds mit halb Wasser und halb Wein <lb/> mit wenigen Lemoni=Schelffen <lb/> auch gantzen Zimmet und Näglen <lb/> und wann sie weich genug <lb/> richts an <lb/> mit durchgesiehner weniger Brühe <lb/> bestreus mit Zucker <lb/> und gibs.</p>
+        <p> Röste gescheelte Birn <lb/> Spalten von grossen Birn <lb/> in <objectName ref="butter">Butter</objectName> oder Schmaltz <lb/> sieds mit halb <objectName ref="wasser">Wasser</objectName> und halb <objectName ref="wein">Wein</objectName> <lb/> mit wenigen Lemoni=Schelffen <lb/> auch gantzen Zimmet und Näglen <lb/> und wann sie weich genug <lb/> richts an <lb/> mit durchgesiehner weniger <objectName ref="bruehe">Brühe</objectName> <lb/> bestreus mit <objectName ref="zucker">Zucker</objectName> <lb/> und gibs. </p>
             </div>
         </body>
     </text>

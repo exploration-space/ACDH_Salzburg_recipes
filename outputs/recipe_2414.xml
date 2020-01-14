@@ -171,11 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm einen Agrest oder unzeitigen Weintrauben <lb/> zupffe die Beere herab in ein Häfelein <lb/> thu ein wenig weiß Brod dazu <lb/> gieß eine Fleischbrüh daran <lb/> laß sieden biß weich wird <lb/> treibs darnach durch einen Durchschlag <lb/> thu ein Stücklein frische Butter und Gewürtz darein <lb/> laß es noch ein wenig sieden <lb/> richts in ein Schüsselein an <lb/> und trags dem Krancken für. <gap/>
-
-<gap/> So man will <lb/> kan mans auch über etliche Schnittlein gebähtes Brod richten.
-
- </p>
+        <p> NImm einen Agrest oder unzeitigen <objectName ref="weintrauben">Weintrauben</objectName> <lb/> zupffe die Beere herab in ein <objectName ref="haefelein">Häfelein</objectName> <lb/> thu ein wenig weiß Brod dazu <lb/> gieß eine Fleischbrüh daran <lb/> laß sieden biß weich wird <lb/> treibs darnach durch einen <objectName ref="durchschlag">Durchschlag</objectName> <lb/> thu ein Stücklein frische <objectName ref="butter">Butter</objectName> und Gewürtz darein <lb/> laß es noch ein wenig sieden <lb/> richts in ein Schüsselein an <lb/> und trags dem Krancken für. <gap/> <gap/> So man will <lb/> kan mans auch über etliche Schnittlein gebähtes Brod richten. </p>
             </div>
         </body>
     </text>

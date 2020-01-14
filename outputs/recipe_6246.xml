@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZUm Braten <lb/> vnd auch zum eynmachen <lb/> auch in Pasteten <lb/> es sey kalt oder warm <lb/> auch schwartz <lb/> gelb <lb/> oder weiß <lb/> in seiner eygenen Brüh <lb/> oder grün eyngemacht mit Eyerdotter <lb/> oder auch Knödel. Auch gekocht mit einem sauren Kraut <lb/> mit Speck <lb/> vnd wol gesotten <lb/> so wirt es gut vnd wolgeschmack.</p>
+        <p> ZUm Braten <lb/> vnd auch zum eynmachen <lb/> auch in <objectName ref="pastete">Pasteten</objectName> <lb/> es sey kalt oder warm <lb/> auch schwartz <lb/> gelb <lb/> oder weiß <lb/> in seiner eygenen Brüh <lb/> oder grün eyngemacht mit Eyerdotter <lb/> oder auch <objectName ref="knoedel">Knödel</objectName>. Auch gekocht mit einem sauren <objectName ref="kraut">Kraut</objectName> <lb/> mit <objectName ref="speck">Speck</objectName> <lb/> vnd wol gesotten <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Gebraten Kästen geschelt <lb/> mit Rosenwasser besprengt <lb/> vn(n) mit Zucker besträwt <lb/> ist gut vnd wolgeschmack. </p>
+        <p> Gebraten Kästen geschelt <lb/> mit <objectName ref="rosenwasser">Rosenwasser</objectName> besprengt <lb/> vn ( n ) mit <objectName ref="zucker">Zucker</objectName> besträwt <lb/> ist gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

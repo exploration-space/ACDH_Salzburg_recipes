@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn laßt einen schön weiß= gewässerten Stockfisch <lb/> in Wasser ohne Saltz <lb/> nur einen kurzen Sud thun <lb/> dann wird er abgesiehen <lb/> und sauber geklaubt <lb/> auch mit Muscatnuß <lb/> oder Blühe <lb/> wol gewürtzt <lb/> und im Casserol mit zimlich viel guten Butter herüber geschwungen <lb/> gesaltzen <lb/> schön weiß angericht <lb/> und aufgetragen.</p>
+        <p> MAn laßt einen schön weiß= gewässerten <objectName ref="stockfisch">Stockfisch</objectName> <lb/> in <objectName ref="wasser">Wasser</objectName> ohne Saltz <lb/> nur einen kurzen Sud thun <lb/> dann wird er abgesiehen <lb/> und sauber geklaubt <lb/> auch mit Muscatnuß <lb/> oder Blühe <lb/> wol gewürtzt <lb/> und im Casserol mit zimlich viel guten <objectName ref="butter">Butter</objectName> herüber geschwungen <lb/> gesaltzen <lb/> schön weiß angericht <lb/> und aufgetragen. </p>
             </div>
         </body>
     </text>

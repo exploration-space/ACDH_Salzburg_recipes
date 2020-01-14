@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NIm(m) die Füß von einem Beeren <lb/> setz sie zu mit Wasser <lb/> vnnd laß sie so lang sieden <lb/> biß daß das Haar herab gehet <lb/> butz sie darnach sauber auß <lb/> vnnd koch sie in einem guten Pfeffer <lb/> in einem Mandelgescharb <lb/> weiß vo(n) saur mit Limonien <lb/> so werden sie gut vnd wolgeschmack. Nim(m) die Beerenfüß <lb/> vnd den Beerenkopff <lb/> besengs auff dem Feuwr <lb/> wie man ein wild Schwein besengt <lb/> setz es zu <lb/> vnd kochs <lb/> wie man es von einem wilden Schwein macht <lb/> zeuch jn auß <lb/> vnd laß jn kalt werden <lb/> beschneidt jn <lb/> vnd säuber auß <lb/> so ist es gut zu essen.</p>
+        <p> NIm ( m ) die Füß von einem <objectName ref="beeren">Beeren</objectName> <lb/> setz sie zu mit <objectName ref="wasser">Wasser</objectName> <lb/> vnnd laß sie so lang sieden <lb/> biß daß das Haar herab gehet <lb/> butz sie darnach sauber auß <lb/> vnnd koch sie in einem guten <objectName ref="pfeffer">Pfeffer</objectName> <lb/> in einem Mandelgescharb <lb/> weiß vo ( n ) saur mit Limonien <lb/> so werden sie gut vnd wolgeschmack. Nim ( m ) die Beerenfüß <lb/> vnd den Beerenkopff <lb/> besengs auff dem Feuwr <lb/> wie man ein <objectName ref="wild">wild</objectName> Schwein besengt <lb/> setz es zu <lb/> vnd kochs <lb/> wie man es von einem wilden Schwein macht <lb/> zeuch jn auß <lb/> vnd laß jn kalt werden <lb/> beschneidt jn <lb/> vnd säuber auß <lb/> so ist es gut zu essen. </p>
             </div>
         </body>
     </text>

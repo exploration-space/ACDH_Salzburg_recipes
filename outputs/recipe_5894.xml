@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) ein Fasanen <lb/> der gebraten ist <lb/> nim(m) die Brust davon <lb/> mach ein gehack <lb/> thu es in eine Schüssel <lb/> leg die Flügel vnnd Diech auff das gehack <lb/> geuß ein braune Brüh darüber <lb/> vnnd druck von einer sauren Limonien den Safft darüber <lb/> laß darmit auffsieden <lb/> so wirt es gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) ein Fasanen <lb/> der gebraten ist <lb/> nim ( m ) die <objectName ref="brust">Brust</objectName> davon <lb/> mach ein gehack <lb/> thu es in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> leg die Flügel vnnd Diech auff das gehack <lb/> geuß ein braune Brüh darüber <lb/> vnnd druck von einer sauren Limonien den Safft darüber <lb/> laß darmit auffsieden <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WO eine grosse Mahlzeit ist <lb/> da man viel Capaunen und Indianen <lb/> auch Hüner <lb/> und anderes einheimisches Geflügel braucht <lb/> so können die Mägen <lb/> nachdeme sie sauber gebutzt <lb/> und wohl genug gesotten <lb/> zu feinen dünnen Schnitzlein geschnitten <lb/> mit Gewürtz <lb/> Wein und Fleischbrühe <lb/> auch Zwibel <lb/> oder Lemoni gelb oder braun eingebrennt <lb/> und in allweg der Lungen gleich zugericht <lb/> und vor ein kleine Speiß mit Dardoffeln gegeben werden <lb/> oder <lb/> als ein Ragu mit denen gerösten Lebern <lb/> Brüsen <lb/> und guten Schwammen <lb/> als ein Ragu in die Pupedon, und sonst appliciert werden.</p>
+        <p> WO eine grosse Mahlzeit ist <lb/> da man viel Capaunen und Indianen <lb/> auch Hüner <lb/> und anderes einheimisches <objectName ref="gefluegel">Geflügel</objectName> braucht <lb/> so können die Mägen <lb/> nachdeme sie sauber gebutzt <lb/> und wohl genug gesotten <lb/> zu feinen dünnen Schnitzlein geschnitten <lb/> mit Gewürtz <lb/> <objectName ref="wein">Wein</objectName> und <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> auch Zwibel <lb/> oder Lemoni gelb oder braun eingebrennt <lb/> und in allweg der <objectName ref="lunge">Lungen</objectName> gleich zugericht <lb/> und vor ein kleine Speiß mit Dardoffeln gegeben werden <lb/> oder <lb/> als ein Ragu mit denen gerösten <objectName ref="leber">Lebern</objectName> <lb/> Brüsen <lb/> und guten Schwammen <lb/> als ein Ragu in die Pupedon, und sonst appliciert werden. </p>
             </div>
         </body>
     </text>

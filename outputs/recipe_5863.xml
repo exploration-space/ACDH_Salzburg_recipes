@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mach ein Lungenmuß darauß <lb/> wie man pflegt von Kälberlungen zu machen. Du kanst die Leber vnd alles durcheinander hacken <lb/> vnnd kanst es saur machen <lb/> oder mit Eyern <lb/> so wirt es desto besser <lb/> hack darvnter grüne Kräuter <lb/> magsts gelb machen oder weiß lassen. Kanst es auch zurichten mit Saltz oder Gewütz <lb/> wie es dir gefallen wirdt.</p>
+        <p> Mach ein Lungenmuß darauß <lb/> wie man pflegt von Kälberlungen zu machen. Du kanst die <objectName ref="leber">Leber</objectName> vnd alles durcheinander hacken <lb/> vnnd kanst es saur machen <lb/> oder mit Eyern <lb/> so wirt es desto besser <lb/> hack darvnter grüne <objectName ref="kraeuter">Kräuter</objectName> <lb/> magsts gelb machen oder weiß lassen. Kanst es auch zurichten mit Saltz oder Gewütz <lb/> wie es dir gefallen wirdt. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Take a Pint of Cream and mix it with six Eggs well beaten, two Spoonsful of Flour, Half a Nutmeg grated, a Little Salt, and sweeten it to your Palate; butter a Cloth, put it in when the Pot boils; let it boil Half an Hour, and melt Butter to it for Sauce.</p>
+        <p> Take a Pint of Cream and mix it with six Eggs well beaten, two Spoonsful of Flour, Half a Nutmeg grated, a Little Salt, and sweeten it to your Palate; <objectName ref="butter">butter</objectName> a Cloth, put it in when the Pot boils; let it boil Half an Hour, and melt <objectName ref="butter">Butter</objectName> to it for <objectName ref="sauce">Sauce</objectName>. </p>
             </div>
         </body>
     </text>

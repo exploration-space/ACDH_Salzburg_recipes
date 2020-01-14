@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb schmalz ain löfl voll, Essig, Imber, Pfeffer, <lb/> Nägl, gewürzen woll, nimb Weinbör, laß <lb/> 5. stundt bachen. <lb/></p>
+        <p> Nimb <objectName ref="schmalz">schmalz</objectName> ain löfl voll, <objectName ref="essig">Essig</objectName>, Imber, <objectName ref="pfeffer">Pfeffer</objectName>, <lb/> Nägl, <objectName ref="gewuerze">gewürzen</objectName> woll, nimb Weinbör, laß <lb/> 5. stundt bachen. <lb/> </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES wird der Lachs= oder Rhein= Salm frischer <lb/> wie die Fisch abgesotten <lb/> und in weisser <lb/> oder rother Butter= Brühe gegeben <lb/> so ist er gut.</p>
+        <p> ES wird der Lachs= oder Rhein= Salm frischer <lb/> wie die <objectName ref="fisch">Fisch</objectName> abgesotten <lb/> und in weisser <lb/> oder rother Butter= <objectName ref="bruehe">Brühe</objectName> gegeben <lb/> so ist er gut. </p>
             </div>
         </body>
     </text>

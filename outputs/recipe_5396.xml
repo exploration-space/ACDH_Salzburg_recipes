@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>STecket geschählte Aepffel und Feigen <lb/> jedesmal Wechsel= weiß an ein höltzernes Spießlein <lb/> und derselben so viel man will ; machet einen Teig an <lb/> wie den gleich jetzo beschriebenen <lb/> ziehet sie zusamt denen Spießlein dadurch <lb/> lassets schön gelb bachen : Nehmet hernach die Spießlein heraus <lb/> und schneidet die Feigen und Aepffel nach der Länge entzwey.</p>
+        <p> STecket geschählte Aepffel und <objectName ref="feigen">Feigen</objectName> <lb/> jedesmal Wechsel= weiß an ein höltzernes Spießlein <lb/> und derselben so viel man will; machet einen <objectName ref="teig">Teig</objectName> an <lb/> wie den gleich jetzo beschriebenen <lb/> ziehet sie zusamt denen Spießlein dadurch <lb/> lassets schön gelb bachen : Nehmet hernach die Spießlein heraus <lb/> und schneidet die <objectName ref="feigen">Feigen</objectName> und Aepffel nach der Länge entzwey. </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb geribne Sembl, rösts im schmalz, aber nit braun, geuß <lb/> Wein dran, ein wenig Wasser, oder ungesalzne Arbes brüe, Zukher, <lb/> oder henig, ein Wenig Zimet stup, laß alles durcheinander Woll <lb/><lb/> (43r) Sieden, das die semblbrößl linder gesoten seind, Saffran nimbt <lb/> man erst, Wan man schier Will anrichten, machs fein din, geuß <lb/> ÿber bachne khnodlen, oder Wie du Wilt. <lb/></p>
+        <p> Nimb geribne Sembl, rösts im <objectName ref="schmalz">schmalz</objectName>, aber nit braun, geuß <lb/> <objectName ref="wein">Wein</objectName> dran, ein wenig <objectName ref="wasser">Wasser</objectName>, oder ungesalzne Arbes brüe, Zukher, <lb/> oder henig, ein Wenig Zimet stup, laß alles durcheinander Woll <lb/><lb/> ( 43r ) Sieden, das die semblbrößl linder gesoten seind, Saffran nimbt <lb/> man erst, Wan man schier Will anrichten, machs fein din, geuß <lb/> ÿber bachne khnodlen, oder Wie du Wilt. <lb/> </p>
             </div>
         </body>
     </text>

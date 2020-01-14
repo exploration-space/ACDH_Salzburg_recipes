@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm subtil aufgeschnittenes Brod in ein Rein <lb/> gieß ein klare lindgesaltzene Fleischbrühe daran <lb/> oder wann die Brühe versaltzen <lb/> so misch mit Wasser <lb/> klein= geschnittnes frisches Ochsenmarck oder frischen Butter <lb/> und Muscatnuß <lb/> laß gemach zu einen subtilem Müslein versieden <lb/> gib acht daß es sich nicht anlegt <lb/> wann es vor krancke oder vornehme Personen gehört <lb/> wird es vor dem Auftragen <lb/> mit gar ein wenig Saffran gemacht und durchgetrieben <lb/> und alsdann dick oder dünn nach Belieben gegeben.</p>
+        <p> NImm subtil aufgeschnittenes Brod in ein <objectName ref="rein">Rein</objectName> <lb/> gieß ein klare lindgesaltzene <objectName ref="fleischbruehe">Fleischbrühe</objectName> daran <lb/> oder wann die <objectName ref="bruehe">Brühe</objectName> versaltzen <lb/> so misch mit <objectName ref="wasser">Wasser</objectName> <lb/> klein= geschnittnes frisches Ochsenmarck oder frischen <objectName ref="butter">Butter</objectName> <lb/> und Muscatnuß <lb/> laß gemach zu einen subtilem Müslein versieden <lb/> gib acht daß es sich nicht anlegt <lb/> wann es vor krancke oder vornehme Personen gehört <lb/> wird es vor dem Auftragen <lb/> mit gar ein wenig Saffran gemacht und durchgetrieben <lb/> und alsdann dick oder dünn nach Belieben gegeben. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Zigersuppen mit Wasser vnd Butter lassen auffsieden <lb/> seig es durch ein Sib <lb/> vnd versaltz sie nicht.</p>
+        <p> Zigersuppen mit <objectName ref="wasser">Wasser</objectName> vnd <objectName ref="butter">Butter</objectName> lassen auffsieden <lb/> seig es durch ein Sib <lb/> vnd versaltz sie nicht. </p>
             </div>
         </body>
     </text>

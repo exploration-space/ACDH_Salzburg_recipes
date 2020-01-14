@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChähle die Marilln und schneide sie halb von einander <lb/> in gleichen auch Pinien= oder Pistacien=Nüßlein <lb/> und eingemachte Citronen=Schelffen <lb/> klein; mische Corinthen oder Weinbeerlein darunter <lb/> feuchts mit süssen Wein an <lb/> fülls in die in der mitte von einander geschnittene Marilln oder Abricosen <lb/> und stürtze sie allemal wieder auf einander : setz in eine Schüssel <lb/> gieß guten Wein daran <lb/> streue ein Trisanet darauf <lb/> laß auf der Kohlen aufsieden <lb/> so werden sie bald weich; und trags dann zu Tisch.</p>
+        <p> SChähle die Marilln und schneide sie halb von einander <lb/> in gleichen auch Pinien= oder Pistacien=Nüßlein <lb/> und eingemachte Citronen=Schelffen <lb/> klein; mische Corinthen oder Weinbeerlein darunter <lb/> feuchts mit süssen <objectName ref="wein">Wein</objectName> an <lb/> fülls in die in der mitte von einander geschnittene Marilln oder Abricosen <lb/> und stürtze sie allemal wieder auf einander : setz in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> gieß guten <objectName ref="wein">Wein</objectName> daran <lb/> streue ein Trisanet darauf <lb/> laß auf der <objectName ref="kohlen">Kohlen</objectName> aufsieden <lb/> so werden sie bald weich; und trags dann zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

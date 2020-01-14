@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>hakh auch die leber khlain, mit oder ohne khreitl, schlag aÿr dran, mach <lb/> dem du vill machen Wilt, vnd allzeit 2. thaill rämb, Wan 1. thaill aÿr <lb/> ist, mag man auch fleischbrüe nemben, aber von räm Wirds milter, <lb/> spridls als undereinander, magst auch noch mehr rämb oder brüe nemmen, <lb/> es rint schon dauon Was Zuuill, gwürz vnd salz es in ein Messingene pfan, <lb/> Wie ein aÿr herab einer gluet nit Zu fest, thue es in ein Seihpfan, <lb/> nit Zu fest, laß gar Woll auß seichen, alßdan schneid strizl auf ein <lb/> schißl, sez auf ein gluet, mach ein Wenig Puter brüelein drüber, laß ein <lb/> Sud thain, gibs. <lb/></p>
+        <p> hakh auch die <objectName ref="leber">leber</objectName> khlain, mit oder ohne khreitl, schlag aÿr dran, mach <lb/> dem du vill machen Wilt, vnd allzeit 2. thaill rämb, Wan 1. thaill aÿr <lb/> ist, mag man auch fleischbrüe nemben, aber von räm Wirds milter, <lb/> spridls als undereinander, magst auch noch mehr rämb oder brüe nemmen, <lb/> es rint schon dauon Was Zuuill, gwürz vnd <objectName ref="salz">salz</objectName> es in ein Messingene pfan, <lb/> Wie ein aÿr herab einer gluet nit Zu fest, thue es in ein Seihpfan, <lb/> nit Zu fest, laß gar Woll auß seichen, alßdan schneid strizl auf ein <lb/> schißl, sez auf ein gluet, mach ein Wenig Puter brüelein drüber, laß ein <lb/> Sud thain, gibs. <lb/> </p>
             </div>
         </body>
     </text>

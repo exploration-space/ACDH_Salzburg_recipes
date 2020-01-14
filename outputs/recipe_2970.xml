@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Knoblauch gehört eigentlich unter die Speisen zu mischen <lb/> wegen seines Geruchs <lb/> wie auch zu grünen und andern Sossen.</p>
+        <p> DEr <objectName ref="knoblauch">Knoblauch</objectName> gehört eigentlich unter die Speisen zu mischen <lb/> wegen seines Geruchs <lb/> wie auch zu grünen und andern Sossen. </p>
             </div>
         </body>
     </text>

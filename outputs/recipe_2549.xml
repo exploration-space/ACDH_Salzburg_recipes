@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmt einen guten Essig <lb/> thut klein Weinbeerlein oder Corinthen daran <lb/> so wird er wohl sauer davon <lb/> und ist zu unterschiedlichen Brühen zugebrauchen.</p>
+        <p> NEhmt einen guten <objectName ref="essig">Essig</objectName> <lb/> thut klein Weinbeerlein oder Corinthen daran <lb/> so wird er wohl sauer davon <lb/> und ist zu unterschiedlichen <objectName ref="bruehe">Brühen</objectName> zugebrauchen. </p>
             </div>
         </body>
     </text>

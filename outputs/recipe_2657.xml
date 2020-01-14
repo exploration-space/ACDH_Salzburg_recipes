@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmt eine gantz frische Buttermilch <lb/> lassts mit stetigem rühren schnell aufsieden ; werfft ein Stuck Butter darein : und richtets dann über rocken= oder weisses aufgeschnittenes Brod an.</p>
+        <p> NEhmt eine gantz frische <objectName ref="buttermilch">Buttermilch</objectName> <lb/> lassts mit stetigem rühren schnell aufsieden; werfft ein Stuck <objectName ref="butter">Butter</objectName> darein : und richtets dann über rocken= oder weisses aufgeschnittenes Brod an. </p>
             </div>
         </body>
     </text>

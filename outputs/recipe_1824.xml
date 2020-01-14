@@ -170,14 +170,7 @@ Willst du Morcheln mit Gelee machen, dann fülle die Morcheln mit einer guten Ei
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WIldu machn̄ gesulczt maurochn̄ so full
-di maurochn̄ mit einʾ gutn̄ aÿrfull
-vnd stoͤs si schon an ein spissel vnd prat si
-schon vnd geuss ein gute prue dar an dÿ vō
-sulcz vischn̄ seÿ gemach odʾ sunst ein gute
-prue von fleisch vnd tu im ein gute hilff
-von haussenpletrʾn odʾ von we es grʾn geste
-vnd vʾsalcz nicht so ist gut</p>
+        <p> WIldu machn̄ gesulczt maurochn̄ so full di maurochn̄ mit einʾ gutn̄ aÿrfull vnd stoͤs si schon an ein spissel vnd prat si schon vnd geuss ein gute prue dar an dÿ vō sulcz vischn̄ seÿ gemach odʾ sunst ein gute prue von <objectName ref="fleisch">fleisch</objectName> vnd tu im ein gute hilff von haussenpletrʾn odʾ von we es grʾn geste vnd vʾsalcz nicht so ist gut </p>
             </div>
         </body>
     </text>

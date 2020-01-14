@@ -169,9 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAurachen so frisch und sauber <lb/> werden auch gesaltzen <lb/> gewürtzt <lb/> und gleich also in frischem Butter geröst <lb/> und mit etlich Tropffen Wein oder Lemoni= Safft <lb/> oder auch gleich also warmer zu Tisch gegeben.
-
-</p>
+        <p> MAurachen so frisch und sauber <lb/> werden auch gesaltzen <lb/> gewürtzt <lb/> und gleich also in frischem <objectName ref="butter">Butter</objectName> geröst <lb/> und mit etlich Tropffen <objectName ref="wein">Wein</objectName> oder Lemoni= Safft <lb/> oder auch gleich also warmer zu <objectName ref="tisch">Tisch</objectName> gegeben. </p>
             </div>
         </body>
     </text>

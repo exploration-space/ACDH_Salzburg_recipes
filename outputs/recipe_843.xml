@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Scheele und halbiere die Aepffel <lb/> nimm die Butzen heraus <lb/> schneide dünne Blättlein von den halben Spalten überzwerch <lb/> richts von dem breiten Ranfft rings herum <lb/> biß in die Mitten <lb/> wie ein Rosen <lb/> die kleinen Stücker nimm <lb/> und fülle darmit die Tieffe der Schüssel <lb/> richts mit wenig Wein <lb/> und viel Zucker <lb/> gantzer Lemoni=Schelffen <lb/> auch gantzen Zimmet ein <lb/> oben auf decks zu <lb/> laß kochen <lb/> und wanns weich genug <lb/> so nimm die Schelffen und Zimmet darvon <lb/> bestreus mit Zucker <lb/> und gibs.</p>
+        <p> Scheele und halbiere die Aepffel <lb/> nimm die Butzen heraus <lb/> schneide dünne Blättlein von den halben Spalten überzwerch <lb/> richts von dem breiten Ranfft rings herum <lb/> biß in die Mitten <lb/> wie ein <objectName ref="rosen">Rosen</objectName> <lb/> die kleinen Stücker nimm <lb/> und fülle darmit die Tieffe der <objectName ref="schuessel">Schüssel</objectName> <lb/> richts mit wenig <objectName ref="wein">Wein</objectName> <lb/> und viel <objectName ref="zucker">Zucker</objectName> <lb/> gantzer Lemoni=Schelffen <lb/> auch gantzen Zimmet ein <lb/> oben auf decks zu <lb/> laß kochen <lb/> und wanns weich genug <lb/> so nimm die Schelffen und Zimmet darvon <lb/> bestreus mit <objectName ref="zucker">Zucker</objectName> <lb/> und gibs. </p>
             </div>
         </body>
     </text>

@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Hünlein werden geviertheilt <lb/> ein wenig geklopfft <lb/> eingesaltzen <lb/> in Meel umgekehrt <lb/> und gleich denen Fischen aus heissem Schmaltz gebachen <lb/> gieß das Schmaltz <lb/> biß auf ein wenig <lb/> aus der Pfann <lb/> und wirff Lorbeer= Blätter <lb/> Zwibel <lb/> Knoblauch und Rosmarin <lb/> auch Eßig <lb/> Pfeffer und Imber mit Lemoni= Schelffen darein <lb/> sobald es aufsiedet <lb/> so gieß diese Paiß an die Hünlein <lb/> in ein Rein <lb/> laß kalt werden; dann bedecks und hebe sie auf <lb/> also seynd sie kalt und warm gut; absonderlich <lb/> wann ein wenig Dardoffel= Oel darzu kommt.</p>
+        <p> DIe Hünlein werden geviertheilt <lb/> ein wenig geklopfft <lb/> eingesaltzen <lb/> in Meel umgekehrt <lb/> und gleich denen Fischen aus heissem Schmaltz gebachen <lb/> gieß das Schmaltz <lb/> biß auf ein wenig <lb/> aus der Pfann <lb/> und wirff Lorbeer= Blätter <lb/> Zwibel <lb/> <objectName ref="knoblauch">Knoblauch</objectName> und <objectName ref="rosmarin">Rosmarin</objectName> <lb/> auch Eßig <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Imber mit Lemoni= Schelffen darein <lb/> sobald es aufsiedet <lb/> so gieß diese Paiß an die Hünlein <lb/> in ein <objectName ref="rein">Rein</objectName> <lb/> laß kalt werden; dann bedecks und hebe sie auf <lb/> also seynd sie kalt und warm gut; absonderlich <lb/> wann ein wenig Dardoffel= Oel darzu kommt. </p>
             </div>
         </body>
     </text>

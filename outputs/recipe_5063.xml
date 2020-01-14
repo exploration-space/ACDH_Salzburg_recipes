@@ -172,8 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Setze das Hirn mit dem Ochsenkopff zu <lb/> vnnd laß wol an die statt sieden <lb/> thu darnach das Hirn auß dem Kopff <lb/> treibe es mit Eyerdotter ab <lb/> vnd streichs durch ein Härin Tuch <lb/> thu Butter in einen Kessel <lb/> auch Gewürtz <lb/> als Pfeffer <lb/> Ingwer vnd Saffran <lb/> laß miteinander sieden <lb/> vnd rürs vmb <lb/> d(aß) nicht anbrennt <lb/> gibs warm auff ein Tisch <lb/> so ist es gut vnd wolgeschmack.
-Du kanst auch wol das Hirn auß dem Kopff nemmen <lb/> vnd sieden lassen <lb/> vnd also zurichten.</p>
+        <p> Setze das <objectName ref="hirn">Hirn</objectName> mit dem Ochsenkopff zu <lb/> vnnd laß wol an die statt sieden <lb/> thu darnach das <objectName ref="hirn">Hirn</objectName> auß dem Kopff <lb/> treibe es mit Eyerdotter ab <lb/> vnd streichs durch ein Härin <objectName ref="tuch">Tuch</objectName> <lb/> thu <objectName ref="butter">Butter</objectName> in einen <objectName ref="kessel">Kessel</objectName> <lb/> auch Gewürtz <lb/> als <objectName ref="pfeffer">Pfeffer</objectName> <lb/> <objectName ref="ingwer">Ingwer</objectName> vnd Saffran <lb/> laß miteinander sieden <lb/> vnd rürs vmb <lb/> d ( aß ) nicht anbrennt <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> so ist es gut vnd wolgeschmack. Du kanst auch wol das <objectName ref="hirn">Hirn</objectName> auß dem Kopff nemmen <lb/> vnd sieden lassen <lb/> vnd also zurichten. </p>
             </div>
         </body>
     </text>

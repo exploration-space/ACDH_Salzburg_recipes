@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChlage 8. Eyer <lb/> und 2. Seidlein gute süsse Milch unter einander wohl ab <lb/> mache mit schönsten Meel <lb/> daß gesaltzen <lb/> einen dünnen Strauben= Taig an <lb/> schön glatt <lb/> gieß ihn in ein Säcklein <lb/> von weisser Leinwand <lb/> laß ihn in siedigem Wasser <lb/> so auch ein wenig gesaltzen <lb/> kochen <lb/> biß er fest wird <lb/> thue ihn heraus <lb/> aus dem Wasser und Sack <lb/> schneide lange Strützlein 2. Finger breit <lb/> mache etliche Ritzlein auf der Seiten <lb/> bachs mit stetem Rüglen schön langsam und kühl <lb/> sie lauffen groß auf <lb/> und werden rogel; der Taig muß aber nicht erkalten vor dem Bachen.</p>
+        <p> SChlage 8. Eyer <lb/> und 2. Seidlein gute süsse <objectName ref="milch">Milch</objectName> unter einander wohl ab <lb/> mache mit schönsten Meel <lb/> daß gesaltzen <lb/> einen dünnen Strauben= Taig an <lb/> schön glatt <lb/> gieß ihn in ein <objectName ref="saecklein">Säcklein</objectName> <lb/> von weisser Leinwand <lb/> laß ihn in siedigem <objectName ref="wasser">Wasser</objectName> <lb/> so auch ein wenig gesaltzen <lb/> kochen <lb/> biß er fest wird <lb/> thue ihn heraus <lb/> aus dem <objectName ref="wasser">Wasser</objectName> und <objectName ref="sack">Sack</objectName> <lb/> schneide lange Strützlein 2. Finger breit <lb/> mache etliche Ritzlein auf der Seiten <lb/> bachs mit stetem Rüglen schön langsam und kühl <lb/> sie lauffen groß auf <lb/> und werden rogel; der Taig muß aber nicht erkalten vor dem Bachen. </p>
             </div>
         </body>
     </text>

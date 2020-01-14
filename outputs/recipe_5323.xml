@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Schlegelein von dem Spanfärcklein werden mit gewürtztem Speck durchzogen <lb/> gepaitzt <lb/> gedämpfft <lb/> oder auch also gut mit nothwendigen Gewürtz <lb/> Lemoni und Kräutlein <lb/> mit gehörigen Saltz <lb/> und Faisch <lb/> kan in die Pasteten also gegeben werden.</p>
+        <p> DIe Schlegelein von dem Spanfärcklein werden mit gewürtztem <objectName ref="speck">Speck</objectName> durchzogen <lb/> gepaitzt <lb/> gedämpfft <lb/> oder auch also gut mit nothwendigen Gewürtz <lb/> Lemoni und Kräutlein <lb/> mit gehörigen Saltz <lb/> und Faisch <lb/> kan in die <objectName ref="pastete">Pasteten</objectName> also gegeben werden. </p>
             </div>
         </body>
     </text>

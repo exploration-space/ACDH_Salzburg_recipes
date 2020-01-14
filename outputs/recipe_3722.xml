@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm den gantzen Fisch <lb/> wasche <lb/> und säubere denselbigen inn= und auswendig <lb/> saltze ihn ein <lb/> und lege ihn in eine Fisch= reisten <lb/> setze dieselbige auf eine Glut= oder Kohlfeuer <lb/> und betreiffe den Fisch offt mit heissem Schmaltz; die Reisten aber setze in eine Bratpfannen: wann er nun gnug gebraten ist <lb/> lege ihn heraus <lb/> in eine Schüssel <lb/> und laß in dem Schmaltz <lb/> damit er betreifft worden <lb/> ein Rocken= oder auch ein Erbsen= Mehl einbrennen <lb/> pfeffers wohl <lb/> und gieß dasselbige zuletzt recht heiß über den Fisch.</p>
+        <p> NImm den gantzen <objectName ref="fisch">Fisch</objectName> <lb/> wasche <lb/> und säubere denselbigen inn= und auswendig <lb/> saltze ihn ein <lb/> und lege ihn in eine Fisch= reisten <lb/> setze dieselbige auf eine Glut= oder Kohlfeuer <lb/> und betreiffe den <objectName ref="fisch">Fisch</objectName> offt mit heissem Schmaltz; die Reisten aber setze in eine Bratpfannen : wann er nun gnug gebraten ist <lb/> lege ihn heraus <lb/> in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und laß in dem Schmaltz <lb/> damit er betreifft worden <lb/> ein Rocken= oder auch ein Erbsen= <objectName ref="mehl">Mehl</objectName> einbrennen <lb/> pfeffers wohl <lb/> und gieß dasselbige zuletzt recht heiß über den <objectName ref="fisch">Fisch</objectName>. </p>
             </div>
         </body>
     </text>

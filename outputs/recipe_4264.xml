@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm den gesottnen Kalbskopff <lb/> zerlege solchen <lb/> butze die Zung und das Maul <lb/> mache Stück aus allen <lb/> mit Pfeffer <lb/> Saltz <lb/> und angemachten geriebenen Brod besprengt <lb/> und auf den Rost <lb/> mit Butter begossen <lb/> gelegt <lb/> und also begossner im Safft und Fäum gegeben <lb/> oder in einer Zwibel= Brühe <lb/> Sardellen <lb/> Austern <lb/> Müschelein <lb/> Rosmarin= oder Knoblauch= Brühe <lb/> oder Lemoni= Soß <lb/> oder in dem Schlaff= Rock <lb/> das ist denen Kalbs= Füssen gleich <lb/> durch einen Taig gezogen <lb/> und im Schmalz gebachen.</p>
+        <p> NImm den gesottnen Kalbskopff <lb/> zerlege solchen <lb/> butze die Zung und das Maul <lb/> mache Stück aus allen <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Saltz <lb/> und angemachten geriebenen Brod besprengt <lb/> und auf den <objectName ref="rost">Rost</objectName> <lb/> mit <objectName ref="butter">Butter</objectName> begossen <lb/> gelegt <lb/> und also begossner im Safft und Fäum gegeben <lb/> oder in einer Zwibel= <objectName ref="bruehe">Brühe</objectName> <lb/> <objectName ref="sardellen">Sardellen</objectName> <lb/> <objectName ref="austern">Austern</objectName> <lb/> Müschelein <lb/> Rosmarin= oder Knoblauch= <objectName ref="bruehe">Brühe</objectName> <lb/> oder Lemoni= Soß <lb/> oder in dem Schlaff= Rock <lb/> das ist denen Kalbs= Füssen gleich <lb/> durch einen Taig gezogen <lb/> und im <objectName ref="schmalz">Schmalz</objectName> gebachen. </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Der Adler kan auch <lb/> auf obige Weiß gut und gantzer gedämpfft <lb/> ec. oder Alladoba gesotten ; warm in seiner eigenen Brühe <lb/> oder kalter in einer sauren Sultz gegeben werden <lb/> warmer kan er mit Netzleins = Würsten und ausgebachenen grünen Bertram und Salbey regaliert werden <lb/> kalter <lb/> mit Lorbeer = Blätter und Rosmarin besteckt <lb/> mit Lemoni = Kräutlein bestreut <lb/> und mit ausgelößten Margaranten = Kern der Schüssel = Ranfft geziert werden.</p>
+        <p> Der <objectName ref="adler">Adler</objectName> kan auch <lb/> auf obige Weiß gut und gantzer gedämpfft <lb/> ec. oder Alladoba gesotten; warm in seiner eigenen <objectName ref="bruehe">Brühe</objectName> <lb/> oder kalter in einer sauren Sultz gegeben werden <lb/> warmer kan er mit Netzleins = Würsten und ausgebachenen grünen <objectName ref="bertram">Bertram</objectName> und Salbey regaliert werden <lb/> kalter <lb/> mit <objectName ref="lorbeer-2">Lorbeer</objectName> = Blätter und <objectName ref="rosmarin">Rosmarin</objectName> besteckt <lb/> mit Lemoni = Kräutlein bestreut <lb/> und mit ausgelößten Margaranten = Kern der <objectName ref="schuessel">Schüssel</objectName> = Ranfft geziert werden. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn die Stiele von den Artischocken hinweg geschnitten worden <lb/> setze man solche auf den Kern <lb/> rings herum in ein Fäßlein <lb/> dessen Boden zuvor gesaltzen ; alsdann setze man andere Artischocken wieder oben darauf <lb/> daß der Kern über sich kommt <lb/> dann wieder andere mit dem Kern unter sich <lb/> und dieses so lang biß das Fäßlein voll wird : Nimm hernach ein gut theil Wasser <lb/> saltz es wohl <lb/> laß zimlich lang sieden <lb/> und dann wieder kalt werden ; gieß darnach das Saltzwasser auf die Artischocken <lb/> und schlage das Fäßlein vest zu <lb/> rittle es hin und wieder <lb/> daß die Brühe recht darüber gehe <lb/> und so kan man sie Jahr und Tag gut aufbehalten.</p>
+        <p> WAnn die Stiele von den <objectName ref="artischocken">Artischocken</objectName> hinweg geschnitten worden <lb/> setze man solche auf den Kern <lb/> rings herum in ein Fäßlein <lb/> dessen Boden zuvor gesaltzen; alsdann setze man andere <objectName ref="artischocken">Artischocken</objectName> wieder oben darauf <lb/> daß der Kern über sich kommt <lb/> dann wieder andere mit dem Kern unter sich <lb/> und dieses so lang biß das Fäßlein voll wird : Nimm hernach ein gut theil <objectName ref="wasser">Wasser</objectName> <lb/> saltz es wohl <lb/> laß zimlich lang sieden <lb/> und dann wieder kalt werden; gieß darnach das Saltzwasser auf die <objectName ref="artischocken">Artischocken</objectName> <lb/> und schlage das Fäßlein vest zu <lb/> rittle es hin und wieder <lb/> daß die <objectName ref="bruehe">Brühe</objectName> recht darüber gehe <lb/> und so kan man sie Jahr und Tag gut aufbehalten. </p>
             </div>
         </body>
     </text>

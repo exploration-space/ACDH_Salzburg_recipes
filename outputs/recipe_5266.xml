@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Spanfärcklein werden in Stücklein zerhackt <lb/> und gleich dem Hünlein= oder Lammfleisch schön gelb eingemacht <lb/> mit gerösten Zwibeln <lb/> Lemoni= Schelffen <lb/> oder Petersil= Kräutern und Wurtzeln gelb gemacht.</p>
+        <p> DIe Spanfärcklein werden in Stücklein zerhackt <lb/> und gleich dem Hünlein= oder <objectName ref="lammfleisch">Lammfleisch</objectName> schön gelb eingemacht <lb/> mit gerösten Zwibeln <lb/> Lemoni= Schelffen <lb/> oder Petersil= <objectName ref="kraeuter">Kräutern</objectName> und Wurtzeln gelb gemacht. </p>
             </div>
         </body>
     </text>

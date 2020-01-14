@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Semmel schmollen, lasß in einer milch woll siedten, darnach <lb/> nimb ein Sauberes Sibl, vmd schlag diße gesottne Semmel durch, <lb/> hernach nimb auf ein Silberne schisßl .5. ayrclar, vmd .2. ohne <lb/> Klar, darnach du sichst daß dikh wirdt, vmd Citron, schöllen vnd <lb/> zucker, 3 oder .4. Löfluoll, diße Stuckh riehr alle miteinander, 3 viertl <lb/> Stundt, alleweill auf einer seithen, vmd schmirb die schisßl mit butter, <lb/> an, vmd den raif fihls ein, vmd pachs Küell, so ist es Förttig. <lb/>.  <lb/><lb/></p>
+        <p> Nimb Semmel schmollen, lasß in einer <objectName ref="milch">milch</objectName> woll siedten, darnach <lb/> nimb ein Sauberes Sibl, vmd schlag diße gesottne Semmel durch, <lb/> hernach nimb auf ein Silberne schisßl.5. ayrclar, vmd.2. ohne <lb/> Klar, darnach du sichst daß dikh wirdt, vmd Citron, schöllen vnd <lb/> <objectName ref="zucker">zucker</objectName>, 3 oder.4. Löfluoll, diße Stuckh riehr alle miteinander, 3 viertl <lb/> Stundt, alleweill auf einer seithen, vmd schmirb die schisßl mit <objectName ref="butter">butter</objectName>, <lb/> an, vmd den raif fihls ein, vmd pachs Küell, so ist es Förttig. <lb/>. <lb/><lb/> </p>
             </div>
         </body>
     </text>

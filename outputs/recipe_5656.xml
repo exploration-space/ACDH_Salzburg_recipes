@@ -176,9 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Hecht muß gewässert und zubereitet werden <lb/> wie schon offt gedachtworden <lb/> dann siedet man ihn im Wasser <lb/> und nimmt die Haut oder Schuppen davon herab ; rührt herauf den Senff oder Mostart mit Wein an <lb/> würtzet ihn mit Cardamomen und Muscaten= Blüh <lb/> thut ein wenig Essig und Zucker <lb/> aber zimliches Stuck Butter dazu : alsdann legt man den Fisch in eine Schüssel <lb/> richtet den also zugerichteten Senff oder Mostart darüber <lb/> läst es also zusammen auf einer Kohl= Pfanne aufsieden <lb/> und streuet würfflicht= geschnittene Citronen= Schelffen darauf. <gap/><gap/>
-
-<gap/><gap/> Frische Hechte kan man zwar auch in dergleichen Senff= Brüh zurichten <lb/> sie müssen aber zuvor im Essig und Wasser abgesotten werden.</p>
+        <p> DEr <objectName ref="hecht">Hecht</objectName> muß gewässert und zubereitet werden <lb/> wie schon offt gedachtworden <lb/> dann siedet man ihn im <objectName ref="wasser">Wasser</objectName> <lb/> und nimmt die Haut oder Schuppen davon herab; rührt herauf den Senff oder Mostart mit <objectName ref="wein">Wein</objectName> an <lb/> würtzet ihn mit Cardamomen und Muscaten= Blüh <lb/> thut ein wenig <objectName ref="essig">Essig</objectName> und <objectName ref="zucker">Zucker</objectName> <lb/> aber zimliches Stuck <objectName ref="butter">Butter</objectName> dazu : alsdann legt man den <objectName ref="fisch">Fisch</objectName> in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> richtet den also zugerichteten Senff oder Mostart darüber <lb/> läst es also zusammen auf einer Kohl= <objectName ref="pfanne">Pfanne</objectName> aufsieden <lb/> und streuet würfflicht= geschnittene Citronen= Schelffen darauf. <gap/><gap/> <gap/><gap/> Frische Hechte kan man zwar auch in dergleichen Senff= Brüh zurichten <lb/> sie müssen aber zuvor im <objectName ref="essig">Essig</objectName> und <objectName ref="wasser">Wasser</objectName> abgesotten werden. </p>
             </div>
         </body>
     </text>

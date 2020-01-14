@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn die Leber von der Rutten von einer ungemeinen Grösse ist <lb/> so übersiede sie mit Wein <lb/> oder Eßig und gesaltznen Wasser <lb/> mit einem gescheelten und mit Nägelein besteckten Zwibel <lb/> Lorbeer= Blättlein <lb/> Lemoni= Schelffen <lb/> oder Rosmarin ; hernach röste solche in Butter <lb/> mit klein= gehackten Sardellen und Gewürtz ; oder lege die Leber in ein mit Butter beschmierte Schüssel <lb/> drucke Lemoni= Safft darüber <lb/> und gib braunen Butter <lb/> mit <lb/> oder ohne klein= gehackte Sardellen darüber.</p>
+        <p> WAnn die <objectName ref="leber">Leber</objectName> von der Rutten von einer ungemeinen Grösse ist <lb/> so übersiede sie mit <objectName ref="wein">Wein</objectName> <lb/> oder Eßig und gesaltznen <objectName ref="wasser">Wasser</objectName> <lb/> mit einem gescheelten und mit Nägelein besteckten Zwibel <lb/> Lorbeer= Blättlein <lb/> Lemoni= Schelffen <lb/> oder <objectName ref="rosmarin">Rosmarin</objectName>; hernach röste solche in <objectName ref="butter">Butter</objectName> <lb/> mit klein= gehackten <objectName ref="sardellen">Sardellen</objectName> und Gewürtz; oder lege die <objectName ref="leber">Leber</objectName> in ein mit <objectName ref="butter">Butter</objectName> beschmierte <objectName ref="schuessel">Schüssel</objectName> <lb/> drucke Lemoni= Safft darüber <lb/> und gib braunen <objectName ref="butter">Butter</objectName> <lb/> mit <lb/> oder ohne klein= gehackte <objectName ref="sardellen">Sardellen</objectName> darüber. </p>
             </div>
         </body>
     </text>

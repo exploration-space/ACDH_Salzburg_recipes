@@ -180,12 +180,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES wird das Hecht= Fleisch ohne Graten zu dünnen Flecklein <lb/> oder Presolen geschnitten <lb/> geklopfft <lb/> gesaltzen und gewürtzt <lb/> auch von dergleichen Hecht= Fleisch <lb/> Zwibel <lb/> Gewürtz <lb/> Butter und Petersil= Kräutlein ein gutes Gehäck gemacht <lb/> die Flecklein <lb/> oder Presolen <lb/> auf einer Seiten mit Eyern bestrichen <lb/> das Gehäck nach Proportiondarauf gestrichen <lb/> oder gelegt <lb/> als wie die Paffössen vom Kalbs= Hirn <lb/> hernach wieder mit Eyern bestrichen <lb/> und gleich mit angemachten Semmel= Brosen bestreut ; dann bachs im Ofen <lb/> oder in dem Schmaltz <lb/> oder gib unten und oben Glut <lb/> und wanns fertig <lb/> gibs in die Schüssel <lb/> und gieß warmen Butter <lb/> mit Lemoni= Safft <lb/> oder mit wenig Eßig darüber <lb/> oder mache ein saures <lb/> gelbes Sardellen= oder Capry Brühlein darüber ; oder mach es gleich auf Semmel= Schnitten.
-
-Paffössen – heute Pofesen 
-Presolen - Streifen 
-
- </p>
+        <p> ES wird das Hecht= <objectName ref="fleisch">Fleisch</objectName> ohne Graten zu dünnen Flecklein <lb/> oder Presolen geschnitten <lb/> geklopfft <lb/> gesaltzen und gewürtzt <lb/> auch von dergleichen Hecht= <objectName ref="fleisch">Fleisch</objectName> <lb/> Zwibel <lb/> Gewürtz <lb/> <objectName ref="butter">Butter</objectName> und Petersil= Kräutlein ein gutes <objectName ref="gehaeck">Gehäck</objectName> gemacht <lb/> die Flecklein <lb/> oder Presolen <lb/> auf einer Seiten mit Eyern bestrichen <lb/> das <objectName ref="gehaeck">Gehäck</objectName> nach Proportiondarauf gestrichen <lb/> oder gelegt <lb/> als wie die Paffössen vom Kalbs= <objectName ref="hirn">Hirn</objectName> <lb/> hernach wieder mit Eyern bestrichen <lb/> und gleich mit angemachten Semmel= Brosen bestreut; dann bachs im <objectName ref="ofen">Ofen</objectName> <lb/> oder in dem Schmaltz <lb/> oder gib unten und oben <objectName ref="glut">Glut</objectName> <lb/> und wanns fertig <lb/> gibs in die <objectName ref="schuessel">Schüssel</objectName> <lb/> und gieß warmen <objectName ref="butter">Butter</objectName> <lb/> mit Lemoni= Safft <lb/> oder mit wenig Eßig darüber <lb/> oder mache ein saures <lb/> gelbes Sardellen= oder Capry Brühlein darüber; oder mach es gleich auf Semmel= Schnitten. Paffössen – heute <objectName ref="pofesen">Pofesen</objectName> Presolen - Streifen </p>
             </div>
         </body>
     </text>

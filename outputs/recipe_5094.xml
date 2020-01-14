@@ -179,7 +179,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChlein gebachner <lb/> in süsser Brühe <lb/> mit Wein <lb/> Zucker <lb/> Zimmet<lb/> Pfeffer <lb/> Imber <lb/> Muscatnuß <lb/> Eßig und Erbes= Brühe <lb/> oder Wasser <lb/> mit Meel in Butter Liecht= gelb <lb/> mit klein= gehackten Zwibeln eingebrennt <lb/> mit Pinioli, und schwartzen Weinbeerlein; Item <lb/> allerhand Säfften <lb/> von Weixlen <lb/> Maulbeer <lb/> Rübessel <lb/> Weinschädlein <lb/> Agres <lb/> etc.</p>
+        <p> SChlein gebachner <lb/> in süsser <objectName ref="bruehe">Brühe</objectName> <lb/> mit <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet/ <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> Muscatnuß <lb/> Eßig und Erbes= <objectName ref="bruehe">Brühe</objectName> <lb/> oder <objectName ref="wasser">Wasser</objectName> <lb/> mit Meel in <objectName ref="butter">Butter</objectName> Liecht= gelb <lb/> mit klein= gehackten Zwibeln eingebrennt <lb/> mit Pinioli, und schwartzen Weinbeerlein; Item <lb/> allerhand Säfften <lb/> von Weixlen <lb/> Maulbeer <lb/> Rübessel <lb/> Weinschädlein <lb/> Agres <lb/> etc. </p>
             </div>
         </body>
     </text>

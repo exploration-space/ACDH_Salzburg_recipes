@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) ein neuwen Käß <lb/> der vber Nacht gemacht ist <lb/> vnd rür jhn ab mit saurem Rahm <lb/> thu frische Butter darein <lb/> vnd laß darmit auffsieden <lb/> so zergehet der Käß. Vnnd wenn du wilt anrichten <lb/> so nim(m) gebeht Schnitten Brot <lb/> oder von Weck <lb/> vnd geuß die Brüh darüber <lb/> so ist es ein gute Vngerische Käßsuppen.</p>
+        <p> Nim ( m ) ein neuwen Käß <lb/> der vber Nacht gemacht ist <lb/> vnd rür jhn ab mit saurem Rahm <lb/> thu frische <objectName ref="butter">Butter</objectName> darein <lb/> vnd laß darmit auffsieden <lb/> so zergehet der Käß. Vnnd wenn du wilt anrichten <lb/> so nim ( m ) gebeht Schnitten <objectName ref="brot">Brot</objectName> <lb/> oder von Weck <lb/> vnd geuß die Brüh darüber <lb/> so ist es ein gute Vngerische Käßsuppen. </p>
             </div>
         </body>
     </text>

@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIede die Hünlein gantzer <lb/> wie oben gehört <lb/> N°. 47. dann nimm viel abgezopfftes Petersil= Kraut <lb/> überhacke es ein wenig <lb/> dann stoß es mit einer Semmel= Mollen in einem steinernen Mörsel gantz, wann es klein gestossen ist <lb/> so treibs mit wenig Wasser <lb/> oder auch pur Eßig und Zucker <lb/> durch ein Tuch <lb/> oder Haar= Sieblein <lb/> es gehört auch ein wenig Saltz und Pfeffer darein <lb/> gib die Hünlein auf das Serviette, und die Soß besonder in ein Schaalen darzu <lb/> und wann die Soß mit Zucker nicht angenehm ist <lb/> so stoß an statt des Zuckers ein wenig Knoblauch darunter <lb/> und laß ihn sauer.</p>
+        <p> SIede die Hünlein gantzer <lb/> wie oben gehört <lb/> N°. 47. dann nimm viel abgezopfftes Petersil= <objectName ref="kraut">Kraut</objectName> <lb/> überhacke es ein wenig <lb/> dann stoß es mit einer Semmel= Mollen in einem steinernen Mörsel gantz, wann es klein gestossen ist <lb/> so treibs mit wenig <objectName ref="wasser">Wasser</objectName> <lb/> oder auch pur Eßig und <objectName ref="zucker">Zucker</objectName> <lb/> durch ein <objectName ref="tuch">Tuch</objectName> <lb/> oder Haar= Sieblein <lb/> es gehört auch ein wenig Saltz und <objectName ref="pfeffer">Pfeffer</objectName> darein <lb/> gib die Hünlein auf das <objectName ref="serviette">Serviette</objectName>, und die Soß besonder in ein Schaalen darzu <lb/> und wann die Soß mit <objectName ref="zucker">Zucker</objectName> nicht angenehm ist <lb/> so stoß an statt des Zuckers ein wenig <objectName ref="knoblauch">Knoblauch</objectName> darunter <lb/> und laß ihn sauer. </p>
             </div>
         </body>
     </text>

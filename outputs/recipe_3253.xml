@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIse werden mit Eßig <lb/> Wein und Wasser <lb/> auch nothwendigem Saltz <lb/> gespickten Zwibel <lb/> mit Näglein <lb/> Lemoni= Schelffen <lb/> Rosmarin und Lorbeer= Blättlein kurz eingesotten <lb/> mit schwartzem Brod eingebrennt <lb/> und die Suppen mit zerstossenen Wachholder= Beeren durchgetrieben <lb/> gewürtzt <lb/> und im Saltz recht gekost <lb/> ( mit abgeschöpffter Fette ) gegeben in seiner eigenen Brühe ; regaliert mit Kräutlein <lb/> und solchen frisch= gebratenen Carbonädlein.</p>
+        <p> DIse werden mit Eßig <lb/> <objectName ref="wein">Wein</objectName> und <objectName ref="wasser">Wasser</objectName> <lb/> auch nothwendigem Saltz <lb/> gespickten Zwibel <lb/> mit Näglein <lb/> Lemoni= Schelffen <lb/> <objectName ref="rosmarin">Rosmarin</objectName> und Lorbeer= Blättlein kurz eingesotten <lb/> mit schwartzem Brod eingebrennt <lb/> und die <objectName ref="suppe">Suppen</objectName> mit zerstossenen Wachholder= <objectName ref="beeren">Beeren</objectName> durchgetrieben <lb/> gewürtzt <lb/> und im Saltz recht gekost <lb/> ( mit abgeschöpffter Fette ) gegeben in seiner eigenen <objectName ref="bruehe">Brühe</objectName>; regaliert mit Kräutlein <lb/> und solchen frisch= gebratenen Carbonädlein. </p>
             </div>
         </body>
     </text>

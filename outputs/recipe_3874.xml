@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Salbling und Ferchen werden mit Meel aus Schmaltz gebachen <lb/> in die Schüssel gelegt <lb/> hernach muß mans mit wenig Butter <lb/> Gewürtz <lb/> auch wenig Eßig und Erbsen= Brühe <lb/> mit wenig Saffran lassen aufkochen <lb/> so seynd sie gut.</p>
+        <p> DIe Salbling und Ferchen werden mit Meel aus Schmaltz gebachen <lb/> in die <objectName ref="schuessel">Schüssel</objectName> gelegt <lb/> hernach muß mans mit wenig <objectName ref="butter">Butter</objectName> <lb/> Gewürtz <lb/> auch wenig Eßig und Erbsen= <objectName ref="bruehe">Brühe</objectName> <lb/> mit wenig Saffran lassen aufkochen <lb/> so seynd sie gut. </p>
             </div>
         </body>
     </text>

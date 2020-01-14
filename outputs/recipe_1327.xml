@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>hackhe<gap/> die höchten<gap/> Löber<gap/> schen klein, hernach thues <lb/> in ein degl<gap/>, und treibs<gap/> ab, schlag nach und <lb/> nach ayr<gap/> drein, thue semmel<gap/> breßl<gap/> drein, gieß<gap/> <lb/> einen heissen<gap/> butter<gap/> und ein wenig milch<gap/>, und <lb/> mach sye aber nit zu fösst<gap/>, laß ein wasser <lb/> sieden<gap/> und salz, und schlags darein, aber nit <lb/> groß, laß sieden<gap/> lög<gap/> ein butter<gap/> daran, löge<gap/> <lb/> Muhcat<gap/> bliehe<gap/> darzue, ist guet. <lb/></p>
+        <p> hackhe<gap/> die höchten<gap/> Löber<gap/> schen klein, hernach thues <lb/> in ein degl<gap/>, und treibs<gap/> ab, schlag nach und <lb/> nach ayr<gap/> drein, thue semmel<gap/> breßl<gap/> drein, gieß<gap/> <lb/> einen heissen<gap/> butter<gap/> und ein wenig milch<gap/>, und <lb/> mach sye aber nit zu fösst<gap/>, laß ein <objectName ref="wasser">wasser</objectName> <lb/> sieden<gap/> und <objectName ref="salz">salz</objectName>, und schlags darein, aber nit <lb/> groß, laß sieden<gap/> lög<gap/> ein butter<gap/> daran, löge<gap/> <lb/> Muhcat<gap/> bliehe<gap/> darzue, ist guet. <lb/> </p>
             </div>
         </body>
     </text>

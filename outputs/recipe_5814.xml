@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Du magst auch wol ein gehack darauß machen <lb/> ist es weiß <lb/> so nim(m) ein lautere Hennenbrüh <lb/> Ist es aber gebraten <lb/> so nim(m) ein braune Brüh <lb/> die du von einem Braten hast abgegossen <lb/> mit einer Hennenbrüh <lb/> die fein lindt gesaltzen ist. Wenn man es wil auff ein Tisch anrichten <lb/> so druckt man darein ein saur Pomerantzensafft <lb/> so wirt es gut vnd lieblich.</p>
+        <p> Du magst auch wol ein gehack darauß machen <lb/> ist es weiß <lb/> so nim ( m ) ein lautere Hennenbrüh <lb/> Ist es aber gebraten <lb/> so nim ( m ) ein braune Brüh <lb/> die du von einem Braten hast abgegossen <lb/> mit einer Hennenbrüh <lb/> die fein lindt gesaltzen ist. Wenn man es wil auff ein <objectName ref="tisch">Tisch</objectName> anrichten <lb/> so druckt man darein ein saur Pomerantzensafft <lb/> so wirt es gut vnd lieblich. </p>
             </div>
         </body>
     </text>

@@ -167,9 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>EIn gut Gehäck wird zugericht <lb/> von Kalbfleisch <lb/> mit <lb/> oder ohne Eyer <lb/> fülls in die Därm <lb/> und mache weisse Bratwürst <lb/> das Brät darzu muß überbraten werden.
-
- </p>
+        <p> EIn gut <objectName ref="gehaeck">Gehäck</objectName> wird zugericht <lb/> von <objectName ref="kalbfleisch">Kalbfleisch</objectName> <lb/> mit <lb/> oder ohne Eyer <lb/> fülls in die Därm <lb/> und mache weisse Bratwürst <lb/> das Brät darzu muß überbraten werden. </p>
             </div>
         </body>
     </text>

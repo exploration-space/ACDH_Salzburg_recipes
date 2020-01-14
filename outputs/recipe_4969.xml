@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn die Bäyrischen= oder Pfetter= Rüblein geschabet und gewaschen <lb/> leget sie in einen Hafen <lb/> giesset halb Fleischbrüh und halb Wasser daran <lb/> daß der Hafen voll wird; reibet hernach ein rocken Brod <lb/> thut es <lb/> nebenst einem Bach= oder Brat= Schmaltz <lb/> darein <lb/> pfeffert und setzets auf eine Kohlen <lb/> last es starck sieden <lb/> daß es ein dicklichtes Brühlein werde: Dann kan man etwan eine Stund vor dem Essen <lb/> ein Fleisch <lb/> so schon zuvor gesotten hat <lb/> darunter legen <lb/> und noch ein wenig mit sieden lassen. Absonderlich aber ist das Schweinene Fleisch hiezu am besten.</p>
+        <p> WAnn die Bäyrischen= oder Pfetter= Rüblein geschabet und gewaschen <lb/> leget sie in einen <objectName ref="hafen">Hafen</objectName> <lb/> giesset halb Fleischbrüh und halb <objectName ref="wasser">Wasser</objectName> daran <lb/> daß der <objectName ref="hafen">Hafen</objectName> voll wird; reibet hernach ein rocken Brod <lb/> thut es <lb/> nebenst einem Bach= oder Brat= Schmaltz <lb/> darein <lb/> pfeffert und setzets auf eine <objectName ref="kohlen">Kohlen</objectName> <lb/> last es starck sieden <lb/> daß es ein dicklichtes Brühlein werde : Dann kan man etwan eine Stund vor dem Essen <lb/> ein <objectName ref="fleisch">Fleisch</objectName> <lb/> so schon zuvor gesotten hat <lb/> darunter legen <lb/> und noch ein wenig mit sieden lassen. Absonderlich aber ist das Schweinene <objectName ref="fleisch">Fleisch</objectName> hiezu am besten. </p>
             </div>
         </body>
     </text>

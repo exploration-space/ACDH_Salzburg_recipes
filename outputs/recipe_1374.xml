@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein gebutzte ganß, salz ein, laß <lb/> ein, laß etwan 2 oder 3 tag in salz ligen<gap/> <lb/><lb/> (73r) darnach lege<gap/> es in einen guten esßig, laß 10 <lb/> oder 12 tag ligen<gap/>, wan du sye braten<gap/> wilst, <lb/> mueß es mit pfeffer und Nägel<gap/> stup<gap/> wohl <lb/> eingewirzt<gap/> sein, auch Lemoni<gap/> blätl<gap/>, und einen <lb/> safft<gap/>, brats<gap/>, und richts<gap/> in ein Bastetten<gap/>, so <lb/> ist es guet. <lb/></p>
+        <p> Nimb ein gebutzte ganß, <objectName ref="salz">salz</objectName> ein, laß <lb/> ein, laß etwan 2 oder 3 tag in <objectName ref="salz">salz</objectName> ligen<gap/> <lb/><lb/> ( 73r ) darnach lege<gap/> es in einen guten esßig, laß 10 <lb/> oder 12 tag ligen<gap/>, wan du sye braten<gap/> wilst, <lb/> mueß es mit <objectName ref="pfeffer">pfeffer</objectName> und Nägel<gap/> stup<gap/> wohl <lb/> eingewirzt<gap/> sein, auch Lemoni<gap/> blätl<gap/>, und einen <lb/> safft<gap/>, brats<gap/>, und richts<gap/> in ein Bastetten<gap/>, so <lb/> ist es guet. <lb/> </p>
             </div>
         </body>
     </text>

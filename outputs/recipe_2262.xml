@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb auf ein tisch 6. oder 8. Aÿr, in ein maß süssen Wein, vnd khlopffs <lb/><lb/> (55r) durcheinander ab, salz, Prokh etlich Protschniten drein, vnd geuß in ein pfan, <lb/> darin ein Wenig schmalz ist, Sez auf ein gluet, so Wirds fein dikh, mueß <lb/> darnach Woll Sieden, ist bereith. <lb/></p>
+        <p> Nimb auf ein <objectName ref="tisch">tisch</objectName> 6. oder 8. Aÿr, in ein <objectName ref="mass">maß</objectName> süssen <objectName ref="wein">Wein</objectName>, vnd khlopffs <lb/><lb/> ( 55r ) durcheinander ab, <objectName ref="salz">salz</objectName>, Prokh etlich Protschniten drein, vnd geuß in ein pfan, <lb/> darin ein Wenig <objectName ref="schmalz">schmalz</objectName> ist, Sez auf ein gluet, so Wirds fein dikh, mueß <lb/> darnach Woll Sieden, ist bereith. <lb/> </p>
             </div>
         </body>
     </text>

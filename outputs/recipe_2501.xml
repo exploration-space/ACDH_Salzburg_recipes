@@ -177,10 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneidet die hart= gesottene Eyer halb von einander <lb/> zerreibet die Dottern davon in einem Schüsselein; mischet ein wenig Semmel= Mehl oder geriebenes Eyerbrod <lb/> ingleichen auch Zucker <lb/> Weinbeere <lb/> Rosin <lb/> länglicht= geschnittene Mandeln <lb/> und gestossene Zimmet <lb/> auch Pfeffer und etwas Saffran darunter; schlaget ein oder zwey Eyer daran <lb/> und rühret alles wohl durch einander: füllet es dann in das hart= gesottene Weisse vom Ey <lb/> und häuffelt es ein wenig auf <lb/> bachets im Schmaltz; giesset einen Wein in ein Pfännlein <lb/> streuet Zucker und Trisanet <lb/> und ein wenig von einem zerriebenen Lebkuchen darein <lb/> lassets aufsieden <lb/> und richtets dann über diese halbierte gefüllt= und gebachene Eyer. <gap/>
-
-<gap/> Man kan auch den Lebkuchen davon lassen.
-</p>
+        <p> SChneidet die hart= gesottene Eyer halb von einander <lb/> zerreibet die Dottern davon in einem Schüsselein; mischet ein wenig Semmel= <objectName ref="mehl">Mehl</objectName> oder geriebenes Eyerbrod <lb/> ingleichen auch <objectName ref="zucker">Zucker</objectName> <lb/> Weinbeere <lb/> Rosin <lb/> länglicht= geschnittene <objectName ref="mandeln">Mandeln</objectName> <lb/> und gestossene Zimmet <lb/> auch <objectName ref="pfeffer">Pfeffer</objectName> und etwas Saffran darunter; schlaget ein oder zwey Eyer daran <lb/> und rühret alles wohl durch einander : füllet es dann in das hart= gesottene Weisse vom Ey <lb/> und häuffelt es ein wenig auf <lb/> bachets im Schmaltz; giesset einen <objectName ref="wein">Wein</objectName> in ein <objectName ref="pfaennlein">Pfännlein</objectName> <lb/> streuet <objectName ref="zucker">Zucker</objectName> und Trisanet <lb/> und ein wenig von einem zerriebenen <objectName ref="lebkuchen">Lebkuchen</objectName> darein <lb/> lassets aufsieden <lb/> und richtets dann über diese halbierte gefüllt= und gebachene Eyer. <gap/> <gap/> Man kan auch den <objectName ref="lebkuchen">Lebkuchen</objectName> davon lassen. </p>
             </div>
         </body>
     </text>

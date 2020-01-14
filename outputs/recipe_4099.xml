@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAch ein rechte Zwiebel= Suppen mit Fleischbrühe <lb/> siede den halben Theil Würst darinnen <lb/> der andere halbe Theil Würst wird gebraten <lb/> richte deine Suppen an <lb/> leg die gesottne Würst darauf <lb/> die gebratne aber auswendig herum ; dem es beliebt <lb/> der brennt noch klein= gehackten Zwiebel <lb/> oder gerieben Brod drauf.</p>
+        <p> MAch ein rechte Zwiebel= <objectName ref="suppe">Suppen</objectName> mit <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> siede den halben Theil Würst darinnen <lb/> der andere halbe Theil Würst wird gebraten <lb/> richte deine <objectName ref="suppe">Suppen</objectName> an <lb/> leg die gesottne Würst darauf <lb/> die gebratne aber auswendig herum; dem es beliebt <lb/> der brennt noch klein= gehackten <objectName ref="zwiebel">Zwiebel</objectName> <lb/> oder gerieben Brod drauf. </p>
             </div>
         </body>
     </text>

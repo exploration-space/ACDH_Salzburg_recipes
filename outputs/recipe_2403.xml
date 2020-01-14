@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DUrchklaube die Erdbeer <lb/> und wasche sie schön <lb/> zuckers nach genügen; giesse gemeinen <lb/> oder so du wilt <lb/> süssen Wein daran <lb/> treibs durch <lb/> und laß es nur einen Sud aufsieden: alsdann röste weisses und würfflicht= geschnittenes Brod in Schmaltz <lb/> richte die Erdbeer darüber. Wann man will <lb/> kan man ein wenig Trisanet darauf streuen.</p>
+        <p> DUrchklaube die Erdbeer <lb/> und wasche sie schön <lb/> zuckers nach genügen; giesse gemeinen <lb/> oder so du wilt <lb/> süssen <objectName ref="wein">Wein</objectName> daran <lb/> treibs durch <lb/> und laß es nur einen Sud aufsieden : alsdann röste weisses und würfflicht= geschnittenes Brod in Schmaltz <lb/> richte die Erdbeer darüber. Wann man will <lb/> kan man ein wenig Trisanet darauf streuen. </p>
             </div>
         </body>
     </text>

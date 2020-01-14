@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm einen guten Kern oder Ram von der Milch <lb/> siede den zuvor angebrühten Reiß wohl dick darinnen ab <lb/> thue ihn alsdann in einen Reibscherben <lb/> und laß ihn glatt abreiben ; mische gehackte Mandeln und Zucker darunter <lb/> gieß ein wenig Rosen= Wasser hinzu <lb/> und thue etwas frischer Butter darein <lb/> reibe alles wohl durch einander <lb/> und gibs also kalt zu essen.</p>
+        <p> NImm einen guten Kern oder Ram von der <objectName ref="milch">Milch</objectName> <lb/> siede den zuvor angebrühten Reiß wohl dick darinnen ab <lb/> thue ihn alsdann in einen <objectName ref="reibscherben">Reibscherben</objectName> <lb/> und laß ihn glatt abreiben; mische gehackte <objectName ref="mandeln">Mandeln</objectName> und <objectName ref="zucker">Zucker</objectName> darunter <lb/> gieß ein wenig Rosen= <objectName ref="wasser">Wasser</objectName> hinzu <lb/> und thue etwas frischer <objectName ref="butter">Butter</objectName> darein <lb/> reibe alles wohl durch einander <lb/> und gibs also kalt zu essen. </p>
             </div>
         </body>
     </text>

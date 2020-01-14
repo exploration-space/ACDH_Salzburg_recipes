@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Gradt vom Hecht gebraten <lb/> einsüssen oder sauren Pobrat darvnter gemacht <lb/> ist es auff beyde manier gut.</p>
+        <p> Gradt vom <objectName ref="hecht">Hecht</objectName> gebraten <lb/> einsüssen oder sauren Pobrat darvnter gemacht <lb/> ist es auff beyde manier gut. </p>
             </div>
         </body>
     </text>

@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>RÖste Brüßlein und die Leber mit guten Schwammen <lb/> oder Dardoffeln in Butter <lb/> hacke solche mit gebutztem Ochsen= Marck <lb/> geweichter Semmel <lb/> Saltz und Gewürtz <lb/> mit etlich Eyerdottern und Kräutlein <lb/> mische auch etwas frischen Butter darunter <lb/> und fülle die Indian Büglein darmit ; oder mische klein= gestossne Mandeln <lb/> Pisdazi, oder auch Pinioli, darunter <lb/> oder mache die Füll mit Krebs= Butter und Kälber= Brät <lb/> oder nimme Bratwürst= Gehäck <lb/> und fülle die Indians= Büglein ; sieds <lb/> oder brats am Spiß <lb/> oder in dem Ofen.</p>
+        <p> RÖste Brüßlein und die <objectName ref="leber">Leber</objectName> mit guten Schwammen <lb/> oder Dardoffeln in <objectName ref="butter">Butter</objectName> <lb/> hacke solche mit gebutztem Ochsen= Marck <lb/> geweichter Semmel <lb/> Saltz und Gewürtz <lb/> mit etlich Eyerdottern und Kräutlein <lb/> mische auch etwas frischen <objectName ref="butter">Butter</objectName> darunter <lb/> und fülle die Indian Büglein darmit; oder mische klein= gestossne <objectName ref="mandeln">Mandeln</objectName> <lb/> Pisdazi, oder auch Pinioli, darunter <lb/> oder mache die Füll mit Krebs= <objectName ref="butter">Butter</objectName> und Kälber= Brät <lb/> oder nimme Bratwürst= <objectName ref="gehaeck">Gehäck</objectName> <lb/> und fülle die Indians= Büglein; sieds <lb/> oder brats am Spiß <lb/> oder in dem <objectName ref="ofen">Ofen</objectName>. </p>
             </div>
         </body>
     </text>

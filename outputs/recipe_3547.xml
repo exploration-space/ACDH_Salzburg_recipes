@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>IN dem Herbst <lb/> wann die Kütten noch gut und wohl zu bekommen seyn <lb/> so nimm derselben ein Schaff voll <lb/> oder nach Belieben <lb/> scheele und schneide sie halb= oder Viertheil <lb/> und siede sie mit gantzem Zimmet <lb/> Lemoni= Schaalen und gantzen Nägelein in geläutertem Zucker zimlich dick ein <lb/> und behalts in den Gläseren <lb/> oder verglaßirten Hafen <lb/> auf den Winter <lb/> nach Gelegenheit darvon zu brauchen; sie seynd gut in die Dorten <lb/> und auch gleich also <lb/> auf eine Schüssel zu geben. Deßgleichen werden auch die Aepffel und Birn gemacht.</p>
+        <p> IN dem Herbst <lb/> wann die Kütten noch gut und wohl zu bekommen seyn <lb/> so nimm derselben ein <objectName ref="schaff">Schaff</objectName> voll <lb/> oder nach Belieben <lb/> scheele und schneide sie halb= oder Viertheil <lb/> und siede sie mit gantzem Zimmet <lb/> Lemoni= Schaalen und gantzen Nägelein in geläutertem <objectName ref="zucker">Zucker</objectName> zimlich dick ein <lb/> und behalts in den Gläseren <lb/> oder verglaßirten <objectName ref="hafen">Hafen</objectName> <lb/> auf den Winter <lb/> nach Gelegenheit darvon zu brauchen; sie seynd gut in die Dorten <lb/> und auch gleich also <lb/> auf eine <objectName ref="schuessel">Schüssel</objectName> zu geben. Deßgleichen werden auch die Aepffel und Birn gemacht. </p>
             </div>
         </body>
     </text>

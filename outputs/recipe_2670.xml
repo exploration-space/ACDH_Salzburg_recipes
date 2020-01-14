@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Wein= Suppe macht man auf die Art der Num. 43. beschriebenen Reinfal= Suppen ; nur nimmt man mehr Zucker <lb/> Muscaten= Blüh <lb/> und ein Stücklein Butter dazu : sonst wird selbige gleichfalls über weiß geröstes oder würfflicht= geschnittenes Brod gerichtet. Man kan auch <lb/> wer nicht lauter Wein haben will <lb/> den halben Theil von weissen Bier dazu nehmen.</p>
+        <p> DIe Wein= <objectName ref="suppe">Suppe</objectName> macht man auf die Art der Num. 43. beschriebenen Reinfal= <objectName ref="suppe">Suppen</objectName>; nur nimmt man mehr <objectName ref="zucker">Zucker</objectName> <lb/> Muscaten= Blüh <lb/> und ein Stücklein <objectName ref="butter">Butter</objectName> dazu : sonst wird selbige gleichfalls über weiß geröstes oder würfflicht= geschnittenes Brod gerichtet. Man kan auch <lb/> wer nicht lauter <objectName ref="wein">Wein</objectName> haben will <lb/> den halben Theil von weissen <objectName ref="bier">Bier</objectName> dazu nehmen. </p>
             </div>
         </body>
     </text>

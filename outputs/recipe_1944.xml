@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>So nimb Wein vnd Wasser, laß es Sieden, thue Weinbör, <lb/> Zibeben, vnd Zerschniten Mandl darein, bren ein wenig <lb/> mell daran, gewürz es mit Pfeffer vnd Mußcatblüe, Zuggers <lb/> woll, vnd gilbs, geuß ÿber die Zungen. <lb/></p>
+        <p> So nimb <objectName ref="wein">Wein</objectName> vnd <objectName ref="wasser">Wasser</objectName>, laß es Sieden, thue Weinbör, <lb/> <objectName ref="zibeben">Zibeben</objectName>, vnd Zerschniten Mandl darein, bren ein wenig <lb/> mell daran, gewürz es mit <objectName ref="pfeffer">Pfeffer</objectName> vnd Mußcatblüe, Zuggers <lb/> woll, vnd gilbs, geuß ÿber die <objectName ref="zunge">Zungen</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

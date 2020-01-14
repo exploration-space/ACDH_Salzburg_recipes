@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ain Bouch: d´aqa vnd 12. lemonj woll auß <lb/> gedruckht in einer Schisßl mit gemelten wasßer <lb/> Item v´ .4. lemonj die Schöllen klein zerschniten <lb/> vnd ins wasßer gethan darzue .9. loth zukher <lb/> misch alles woll durcheinander mit einem <lb/> hilzenen lefl laß alles beysamb stehen <lb/> Ein Stundt biß woll den gruch genommen <lb/> hat, hernach seuchs durch ein tuech oder Sib <lb/> auch Pißen vnd amber w: blt. in ein häderl <lb/> gethan von allen beden ein ½ gran hernach gieß in die gschier vnd laß woll kalt werden <lb/>ich kan daß weiß daruon thuen vnd daß ander <lb/> in ein merscher zerstosß vnd durch seuchen. <lb/></p>
+        <p> ain Bouch : d´aqa vnd 12. lemonj woll auß <lb/> gedruckht in einer Schisßl mit gemelten wasßer <lb/> Item v´.4. lemonj die Schöllen klein zerschniten <lb/> vnd ins wasßer gethan darzue.9. <objectName ref="loth">loth</objectName> zukher <lb/> misch alles woll durcheinander mit einem <lb/> hilzenen lefl laß alles beysamb stehen <lb/> Ein Stundt biß woll den gruch genommen <lb/> hat, hernach seuchs durch ein tuech oder Sib <lb/> auch Pißen vnd <objectName ref="amber">amber</objectName> w : blt. in ein häderl <lb/> gethan von allen beden ein ½ gran hernach gieß in die gschier vnd laß woll kalt werden /ich kan daß weiß daruon thuen vnd daß ander <lb/> in ein merscher zerstosß vnd durch <objectName ref="seuchen">seuchen</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

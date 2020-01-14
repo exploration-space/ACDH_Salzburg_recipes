@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Thu die Foren auff wie ein Kölheicht <lb/> besprengs ein wenig mit Saltz <lb/> legs auff einen Roßt <lb/> vnd brat sie ab <lb/> thu sie in einen Mörsel <lb/> vnd stoß sie <lb/> thu auch ein wenig gebeht Brot darein von einem Weck <lb/> stoß darmit <lb/> vnnd streichs durch mit einer Erbsbrüh <lb/> würtz es ab mit Pfeffer vnnd Saffran <lb/> thu frische vngeschmältzte Butter darein <lb/> vnd laß darmit sieden <lb/> so wirstu ein gute wolgeschmackte Brüh haben.</p>
+        <p> Thu die Foren auff wie ein Kölheicht <lb/> besprengs ein wenig mit Saltz <lb/> legs auff einen Roßt <lb/> vnd brat sie ab <lb/> thu sie in einen Mörsel <lb/> vnd stoß sie <lb/> thu auch ein wenig gebeht <objectName ref="brot">Brot</objectName> darein von einem Weck <lb/> stoß darmit <lb/> vnnd streichs durch mit einer Erbsbrüh <lb/> würtz es ab mit <objectName ref="pfeffer">Pfeffer</objectName> vnnd Saffran <lb/> thu frische vngeschmältzte <objectName ref="butter">Butter</objectName> darein <lb/> vnd laß darmit sieden <lb/> so wirstu ein gute wolgeschmackte Brüh haben. </p>
             </div>
         </body>
     </text>

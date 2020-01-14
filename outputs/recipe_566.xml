@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm ein Maßl<gap/> schönes Mundmehl<gap/> schneid <lb/> 1 lt<gap/> Butter darein, hernach nim 4 Eiyr<gap/> <lb/> Dötter, kaltes Wasser oder süßen Rahm<gap/> <lb/> mache damit den Taig<gap/> an, aber nicht zu <lb/> weich; Man kann daraus Pastätten oder <lb/> was man will formiren. <lb/></p>
+        <p> Nimm ein Maßl<gap/> schönes Mundmehl<gap/> schneid <lb/> 1 lt<gap/> <objectName ref="butter">Butter</objectName> darein, hernach nim 4 Eiyr<gap/> <lb/> Dötter, kaltes <objectName ref="wasser">Wasser</objectName> oder süßen Rahm<gap/> <lb/> mache damit den Taig<gap/> an, aber nicht zu <lb/> weich; Man kann daraus Pastätten oder <lb/> was man will formiren. <lb/> </p>
             </div>
         </body>
     </text>

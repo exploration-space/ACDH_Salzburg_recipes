@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet die reinlich abgebrüht und geputzte Hüner <lb/> schneidets zu Vierteln <lb/> saltzt und röstets im Schmaltz <lb/> daß sie schön gelb werden; giesst dann in einen stollichten Hafen ein wenig Fleischbrüh <lb/> Wein und Essig daran <lb/> zuckert und würtzets nach belieben <lb/> und last sie also sieden: Indessen zerklopffet zu zweyen Hünern zwey Eyerdottern <lb/> giesset von der siedenden Hüner= Brüh daran <lb/> und zerrühret sie wohl: Leget dann die Hüner in eine Schüssel <lb/> giesst die Brüh darüber <lb/> streuet Trisanet darauf <lb/> und beleget sie mit Plätzen oder Scheiben von Citronen.</p>
+        <p> NEhmet die reinlich abgebrüht und geputzte Hüner <lb/> schneidets zu Vierteln <lb/> saltzt und röstets im Schmaltz <lb/> daß sie schön gelb werden; giesst dann in einen stollichten <objectName ref="hafen">Hafen</objectName> ein wenig Fleischbrüh <lb/> <objectName ref="wein">Wein</objectName> und <objectName ref="essig">Essig</objectName> daran <lb/> zuckert und würtzets nach belieben <lb/> und last sie also sieden : Indessen zerklopffet zu zweyen Hünern zwey Eyerdottern <lb/> giesset von der siedenden Hüner= Brüh daran <lb/> und zerrühret sie wohl : Leget dann die Hüner in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> giesst die Brüh darüber <lb/> streuet Trisanet darauf <lb/> und beleget sie mit Plätzen oder Scheiben von Citronen. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb khlaine khrebßl, thue hinden die schalen von hilsen, <lb/> darin bleibt die gall, vnd umbs schwänzl brichs mit <lb/> Lederlein, nimb die khrebsen Wieuill du Wilt, stosß <lb/> als in eim Merser, gouß ein guete obermilch dran, <lb/> schlags durch, thue es in ein pfan, rührs stäts mit einem <lb/> löffl, das nicht anbrint, so gewingts döpfl Wie ein <lb/> voglspeiß, laß fein langsamb sieden, geuß ein tröpfl <lb/> Essig drein, so gerints fein, dan heb die töpflein <lb/> auf ein reithern, oder auf ein pfefferpfan, schwers <lb/> ein Wenig, so Wirds ein schötlein, das schneid Zu stukhen, <lb/> mach eingelbs Süppl drüber, ist gar ein guets linds <lb/> Essen. <lb/></p>
+        <p> Nimb khlaine khrebßl, thue hinden die schalen von hilsen, <lb/> darin bleibt die gall, vnd umbs schwänzl brichs mit <lb/> Lederlein, nimb die khrebsen Wieuill du Wilt, stosß <lb/> als in eim Merser, gouß ein guete obermilch dran, <lb/> schlags durch, thue es in ein pfan, rührs stäts mit einem <lb/> löffl, das nicht anbrint, so gewingts döpfl Wie ein <lb/> voglspeiß, laß fein langsamb sieden, geuß ein tröpfl <lb/> <objectName ref="essig">Essig</objectName> drein, so gerints fein, dan heb die <objectName ref="toepflein">töpflein</objectName> <lb/> auf ein reithern, oder auf ein pfefferpfan, schwers <lb/> ein Wenig, so Wirds ein schötlein, das schneid Zu stukhen, <lb/> mach eingelbs Süppl drüber, ist gar ein guets linds <lb/> Essen. <lb/> </p>
             </div>
         </body>
     </text>

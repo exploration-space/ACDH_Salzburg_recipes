@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ain guete Millich, leg Holler blüe da= <lb/> =rein, laß woll Sieden, Seichs darnach ab, <lb/><lb/> (60r) Sez die Millich auf, laß wider Sieden, Seich <lb/> darnach ab, Nimb ayr vnnd Meell, treibs <lb/> woll durcheinannder, geuß die Siedent Millich <lb/> darein, vnnd riers, so wiert ain grieß dar= <lb/> =auß, also schmeckhts nach Holler, thues her= <lb/> =auß auf ain Schißl, Nimb zugger, vnnd <lb/> budter darunnter, lints gewürz, Salz nit <lb/> hart, wanß kalt wierdt, so thues in ain taig, <lb/> laß ain halbe stunt bachen, also hast guet. <lb/></p>
+        <p> Nimb ain guete Millich, leg Holler blüe da= <lb/> =rein, laß woll Sieden, Seichs darnach ab, <lb/><lb/> ( 60r ) Sez die Millich auf, laß wider Sieden, Seich <lb/> darnach ab, Nimb ayr vnnd Meell, treibs <lb/> woll durcheinannder, geuß die Siedent Millich <lb/> darein, vnnd riers, so wiert ain <objectName ref="griess">grieß</objectName> dar= <lb/> =auß, also schmeckhts nach Holler, thues her= <lb/> =auß auf ain Schißl, Nimb zugger, vnnd <lb/> budter darunnter, lints gewürz, <objectName ref="salz">Salz</objectName> nit <lb/> hart, wanß kalt wierdt, so thues in ain taig, <lb/> laß ain halbe stunt bachen, also hast guet. <lb/> </p>
             </div>
         </body>
     </text>

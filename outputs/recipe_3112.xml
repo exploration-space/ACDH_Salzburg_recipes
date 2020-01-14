@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>GRosse Cucummern <lb/> oder Umergen gescheelt <lb/> zu Spalten gemacht <lb/> das Weiche heraus geschnitten <lb/> gebrüht <lb/> wieder abgesiehen <lb/> und kalt werden lassen <lb/> dann mit Eßig und Oel <lb/> auch Pfeffer wol angemacht <lb/> ist ein guter Salat.</p>
+        <p> GRosse Cucummern <lb/> oder Umergen gescheelt <lb/> zu Spalten gemacht <lb/> das Weiche heraus geschnitten <lb/> gebrüht <lb/> wieder abgesiehen <lb/> und kalt werden lassen <lb/> dann mit Eßig und Oel <lb/> auch <objectName ref="pfeffer">Pfeffer</objectName> wol angemacht <lb/> ist ein guter <objectName ref="salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

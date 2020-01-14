@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIto gebrüht <lb/> mit Weinbeerlein <lb/> Eßig <lb/> Oel <lb/> Zucker <lb/> Borraga= Blätter zum Bachen.</p>
+        <p> DIto gebrüht <lb/> mit Weinbeerlein <lb/> Eßig <lb/> Oel <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> Borraga= Blätter zum Bachen. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimbe frische Prisl<gap/>, Wasch sauber Aus <lb/> schneidts Zu stickhln<gap/> rests<gap/> in butter, <lb/> thues in ein Häfferl<gap/>, schneidt Zwifl <lb/> blötter<gap/> darunter vnnd Petersill, <lb/> Musgatblie<gap/> Pfeffer, Gies<gap/> ein wenig <lb/> rindt Suppen<gap/> Daran, lass ein <lb/> Guetten Sudt<gap/> thuen, richts an auf <lb/> Gebätte<gap/> schnidl<gap/> Semel. <lb/><lb/> (ve 7)</p>
+        <p> Nimbe frische Prisl<gap/>, Wasch sauber Aus <lb/> schneidts Zu stickhln<gap/> rests<gap/> in <objectName ref="butter">butter</objectName>, <lb/> thues in ein Häfferl<gap/>, schneidt Zwifl <lb/> blötter<gap/> darunter vnnd Petersill, <lb/> Musgatblie<gap/> <objectName ref="pfeffer">Pfeffer</objectName>, Gies<gap/> ein wenig <lb/> rindt Suppen<gap/> Daran, lass ein <lb/> Guetten Sudt<gap/> thuen, richts an auf <lb/> Gebätte<gap/> schnidl<gap/> Semel. <lb/><lb/> ( ve 7 ) </p>
             </div>
         </body>
     </text>

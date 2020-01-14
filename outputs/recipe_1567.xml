@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NAchdem der Hopffen sauber geklaubt <lb/> gewaschen <lb/> ein wenig überbrühet <lb/> wieder abgesigen <lb/> und ein wenig abgekühlt worden <lb/> so mache ein gutes Butter= Brühlein daran <lb/> wie oben bey denen Spargelen verstanden <lb/> alsdann nimm Krebs <lb/> sieds ab <lb/> und löse die Schweifflein aus <lb/> von denen Schaalen verfertige ein rothe Brühe <lb/> und ein wenig Krebs= Taig <lb/> bereite aus solchem etwas zum Regaliren <lb/> setz die Schüssel mit gebähten Schnitten auf ein Glut <lb/> giesse von der Erbsbrühe daran <lb/> und den Hopffen sammt den Krebs= Schweifflein darauf <lb/> so ists fertig.</p>
+        <p> NAchdem der Hopffen sauber geklaubt <lb/> gewaschen <lb/> ein wenig überbrühet <lb/> wieder abgesigen <lb/> und ein wenig abgekühlt worden <lb/> so mache ein gutes Butter= Brühlein daran <lb/> wie oben bey denen Spargelen verstanden <lb/> alsdann nimm Krebs <lb/> sieds ab <lb/> und löse die Schweifflein aus <lb/> von denen Schaalen verfertige ein rothe <objectName ref="bruehe">Brühe</objectName> <lb/> und ein wenig Krebs= Taig <lb/> bereite aus solchem etwas zum Regaliren <lb/> setz die <objectName ref="schuessel">Schüssel</objectName> mit gebähten Schnitten auf ein <objectName ref="glut">Glut</objectName> <lb/> giesse von der Erbsbrühe daran <lb/> und den Hopffen sammt den Krebs= Schweifflein darauf <lb/> so ists fertig. </p>
             </div>
         </body>
     </text>

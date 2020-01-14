@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Eyngebrennt Erbeßmehl <lb/> mit Erbeßbrüh angemacht <lb/> vnd warm auff ein Tisch geben <lb/> mit klein geschnitten Brot <lb/> das auß Butter gerößt <lb/> vn(d) mit Zucker süß gemacht ist <lb/> besträwt <lb/> ist gut vnd wolgeschmack.</p>
+        <p> Eyngebrennt Erbeßmehl <lb/> mit Erbeßbrüh angemacht <lb/> vnd warm auff ein <objectName ref="tisch">Tisch</objectName> geben <lb/> mit klein geschnitten <objectName ref="brot">Brot</objectName> <lb/> das auß <objectName ref="butter">Butter</objectName> gerößt <lb/> vn ( d ) mit <objectName ref="zucker">Zucker</objectName> süß gemacht ist <lb/> besträwt <lb/> ist gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

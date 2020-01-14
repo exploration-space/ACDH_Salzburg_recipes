@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn muß die Rutten mit ihrer Leber in allgemeinem Fisch= Sud aufgemachter einen Wall herüber thun lassen ; oder es wird in einem Geschirr Wein= Eßig darüber gegossen <lb/> hernachfrische Lemoni= Blättlein <lb/> Gewürtz <lb/> Butter <lb/> ein mit Nägelein= besteckter Zwibel <lb/> und Lorbeer= Blättlein darzu gelegt ; auch <lb/> so es beliebt <lb/> Capry <lb/> oder Sardellen ; das gibt eine treffliche Pasteten <lb/> von feinem Taig gemacht <lb/> und im Anrichten mit gelber Brühe <lb/> von der Paitz gemacht <lb/> versehen.</p>
+        <p> MAn muß die Rutten mit ihrer <objectName ref="leber">Leber</objectName> in allgemeinem Fisch= Sud aufgemachter einen Wall herüber thun lassen; oder es wird in einem <objectName ref="geschirr">Geschirr</objectName> Wein= Eßig darüber gegossen <lb/> hernachfrische Lemoni= Blättlein <lb/> Gewürtz <lb/> <objectName ref="butter">Butter</objectName> <lb/> ein mit Nägelein= besteckter Zwibel <lb/> und Lorbeer= Blättlein darzu gelegt; auch <lb/> so es beliebt <lb/> Capry <lb/> oder <objectName ref="sardellen">Sardellen</objectName>; das gibt eine treffliche <objectName ref="pastete">Pasteten</objectName> <lb/> von feinem Taig gemacht <lb/> und im Anrichten mit gelber <objectName ref="bruehe">Brühe</objectName> <lb/> von der Paitz gemacht <lb/> versehen. </p>
             </div>
         </body>
     </text>

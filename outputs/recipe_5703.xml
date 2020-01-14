@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>HAcket ein Pfund Mandeln <lb/> lassets etlichmal durch ein Sieb <lb/> oder grossen Seiher und Durchschlag lauffen <lb/> daß sie schön gleich werden ; mischet von zweyen Citronen die abgeriebene gelbe Schelffen <lb/> mit ein wenig Safft <lb/> Wie auch vier Loth Zimmet= Wasser <lb/> darunter <lb/> und mischet alles wohl durch einander.</p>
+        <p> HAcket ein <objectName ref="pfund">Pfund</objectName> <objectName ref="mandeln">Mandeln</objectName> <lb/> lassets etlichmal durch ein <objectName ref="sieb">Sieb</objectName> <lb/> oder grossen <objectName ref="seiher">Seiher</objectName> und <objectName ref="durchschlag">Durchschlag</objectName> lauffen <lb/> daß sie schön gleich werden; mischet von zweyen Citronen die abgeriebene gelbe Schelffen <lb/> mit ein wenig Safft <lb/> Wie auch vier <objectName ref="loth">Loth</objectName> Zimmet= <objectName ref="wasser">Wasser</objectName> <lb/> darunter <lb/> und mischet alles wohl durch einander. </p>
             </div>
         </body>
     </text>

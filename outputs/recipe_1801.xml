@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimbs, wens <lb/> halb gewaxen seint, schneidt d(a)s weiß v: Khern <lb/> herauß, Seuts in ain Wasser, laß ain halbe <lb/><lb/> (76v) stundt Sieden, mach .2. hilzene Messer, <lb/> damit hakhs klain auf ein schönes tuech, <lb/> thues in ain Pfan, geuß Siesßen millich= <lb/> =rämb daran, nimb buter, zuggers zimb= <lb/> =lich woll, laß nit lanng sieden. <lb/></p>
+        <p> Nimbs, wens <lb/> halb gewaxen seint, schneidt d ( a ) s weiß v : Khern <lb/> herauß, Seuts in ain <objectName ref="wasser">Wasser</objectName>, laß ain halbe <lb/><lb/> ( 76v ) stundt Sieden, mach.2. hilzene <objectName ref="messer">Messer</objectName>, <lb/> damit hakhs klain auf ein schönes tuech, <lb/> thues in ain Pfan, geuß Siesßen millich= <lb/> =rämb daran, nimb buter, zuggers zimb= <lb/> =lich woll, laß nit lanng sieden. <lb/> </p>
             </div>
         </body>
     </text>

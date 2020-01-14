@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mach ein volgspeiß, die laß gar trukhen außsieden, nimbs, <lb/> vnd stoß Woll in eim Merser, schlag 4. oder .5. aÿr dran, <lb/> auch linds Zerlassnes schmalz dran, eines halben Aÿrkhäß, <lb/> Nimb Weinbörl, Zukher ehrlich dran, vnd ÿber Zeuch ein <lb/> pfan mit einem aÿr, Wie von steht, vnd bachs gleich Wie <lb/> einen anderen gar khüell, thue es auf ein blat, Säe Confect <lb/> darauf, machs Woll mit Zibeben bestëkhen, gibs Warmb <lb/> auf den tisch. <lb/></p>
+        <p> Mach ein volgspeiß, die laß gar trukhen außsieden, nimbs, <lb/> vnd stoß Woll in eim Merser, schlag 4. oder.5. aÿr dran, <lb/> auch linds Zerlassnes <objectName ref="schmalz">schmalz</objectName> dran, eines halben Aÿrkhäß, <lb/> Nimb Weinbörl, Zukher ehrlich dran, vnd ÿber Zeuch ein <lb/> pfan mit einem aÿr, Wie von steht, vnd bachs gleich Wie <lb/> einen anderen gar khüell, thue es auf ein blat, Säe Confect <lb/> darauf, machs Woll mit <objectName ref="zibeben">Zibeben</objectName> bestëkhen, gibs Warmb <lb/> auf den <objectName ref="tisch">tisch</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

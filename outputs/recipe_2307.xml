@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb das roche brät vorn an der brust, hakh es khlain, ein wenig faisten <lb/> oder march drunder, Salz vnd gwürz es Woll, Wan du gern khanst <lb/> ein Weing saffran nemmen, ein löffl voll geribne Sembl .2 oder 3. <lb/> Aÿr, ein guets Milchrämbl, machs gleich so fest, das mans khan ein= <lb/> schlagen, das sie nit außeinander rinen, schlags dan in ein guete <lb/> fleischbrüe. <lb/></p>
+        <p> Nimb das roche brät vorn an der <objectName ref="brust">brust</objectName>, hakh es khlain, ein wenig faisten <lb/> oder march drunder, <objectName ref="salz">Salz</objectName> vnd gwürz es Woll, Wan du gern khanst <lb/> ein Weing saffran nemmen, ein löffl voll geribne Sembl.2 oder 3. <lb/> Aÿr, ein guets Milchrämbl, machs gleich so fest, das mans khan ein= <lb/> schlagen, das sie nit außeinander rinen, schlags dan in ein guete <lb/> fleischbrüe. <lb/> </p>
             </div>
         </body>
     </text>

@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIse können zugericht werden in allen Veränderungen <lb/> wie die kälberne <lb/> oder lämmerne Zungen <lb/> im Rösten <lb/> Bachen <lb/> Einmachen <lb/> auch Selchen <lb/> oder Räuchern ; und wann ich schon von einer Zungen schreib <lb/> so wird die mehrere Zahl auch darunter begriffen <lb/> und dises von andern Sorten insgemein <lb/> wie bey den Rinds= Zungen gehört.</p>
+        <p> DIse können zugericht werden in allen Veränderungen <lb/> wie die kälberne <lb/> oder lämmerne <objectName ref="zunge">Zungen</objectName> <lb/> im Rösten <lb/> Bachen <lb/> Einmachen <lb/> auch Selchen <lb/> oder Räuchern; und wann ich schon von einer <objectName ref="zunge">Zungen</objectName> schreib <lb/> so wird die mehrere Zahl auch darunter begriffen <lb/> und dises von andern Sorten insgemein <lb/> wie bey den Rinds= <objectName ref="zunge">Zungen</objectName> gehört. </p>
             </div>
         </body>
     </text>

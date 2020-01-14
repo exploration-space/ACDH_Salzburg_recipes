@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm die Kalbs= Brust <lb/> und fülle sie mit guter Füll <lb/> dergleichen du in disem Buch viel hast <lb/> jedoch nicht gar zu weich <lb/> oder gar zu voll <lb/> mach das Ort <lb/> wo du die Füll hin gethan <lb/> mit einem Spißlein oder Faden wohl zu <lb/> daß nicht wieder zuruck herauß gehet; dann laß die gefüllte Brust <lb/> in siedig gesaltznem Wasser ein wenig anlauffen <lb/> spick solche übersich schön subtil mit Speck <lb/> dann brats in Safft <lb/> und gibs auf ein Köhl <lb/> oder ander Kraut mit Presolen und grün regaliert; Item auf Kohlrabi und andere Ruben.</p>
+        <p> NImm die Kalbs= <objectName ref="brust">Brust</objectName> <lb/> und fülle sie mit guter Füll <lb/> dergleichen du in disem Buch viel hast <lb/> jedoch nicht gar zu weich <lb/> oder gar zu voll <lb/> mach das Ort <lb/> wo du die Füll hin gethan <lb/> mit einem Spißlein oder <objectName ref="faden">Faden</objectName> wohl zu <lb/> daß nicht wieder zuruck herauß gehet; dann laß die gefüllte <objectName ref="brust">Brust</objectName> <lb/> in siedig gesaltznem <objectName ref="wasser">Wasser</objectName> ein wenig anlauffen <lb/> spick solche übersich schön subtil mit <objectName ref="speck">Speck</objectName> <lb/> dann brats in Safft <lb/> und gibs auf ein Köhl <lb/> oder ander <objectName ref="kraut">Kraut</objectName> mit Presolen und grün regaliert; Item auf <objectName ref="kohlrabi">Kohlrabi</objectName> und andere Ruben. </p>
             </div>
         </body>
     </text>

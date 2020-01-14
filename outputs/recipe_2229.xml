@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb schens weisß mell, auch ein blabe milch, leg ein Prökhlein Puter, <lb/> einer haßlnuß groß, laß Sieden, geuß ins mell, machst nit Zu fest, <lb/> vnd das taigl fein glat, mach khügelein drauß. <lb/></p>
+        <p> Nimb schens weisß mell, auch ein blabe <objectName ref="milch">milch</objectName>, leg ein Prökhlein Puter, <lb/> einer haßlnuß groß, laß Sieden, geuß ins mell, machst nit Zu fest, <lb/> vnd das taigl fein glat, mach khügelein drauß. <lb/> </p>
             </div>
         </body>
     </text>

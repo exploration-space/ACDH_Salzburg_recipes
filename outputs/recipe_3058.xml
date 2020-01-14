@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SElleri wird viel zu der Suppen und andern Speisen gebraucht <lb/> ist aber auch gut allein vor ein ordinari Zuspeiß <lb/> die Wurtzen gebutzt <lb/> gebrüht <lb/> und mit Gewürtz <lb/> Butter und Fleisch <lb/> oder Ebes= Brüh gelb eingebrennt <lb/> und gar gekocht.</p>
+        <p> SElleri wird viel zu der <objectName ref="suppe">Suppen</objectName> und andern Speisen gebraucht <lb/> ist aber auch gut allein vor ein ordinari Zuspeiß <lb/> die Wurtzen gebutzt <lb/> gebrüht <lb/> und mit Gewürtz <lb/> <objectName ref="butter">Butter</objectName> und <objectName ref="fleisch">Fleisch</objectName> <lb/> oder Ebes= Brüh gelb eingebrennt <lb/> und gar gekocht. </p>
             </div>
         </body>
     </text>

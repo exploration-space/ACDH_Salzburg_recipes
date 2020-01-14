@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Man solle den Reiß sauber waschen <lb/> wieder trücknen <lb/> und stossen <lb/> daß er wird wie ein grober Grieß <lb/> darnach ein süssen Ram auf einer Glut lassen sieden <lb/> en Reiß darein schütten <lb/> und ein Weil sieden lassen <lb/> darnach klein=gestoßne Mandel auch darein rühren <lb/> daß er in rechter Dicken wird <lb/> wie ein Koch <lb/> ein wenig sieden lassen <lb/> und sehen <lb/> daß es nicht anbrennt <lb/> darnach zuckern <lb/> man mag auch Rosen= und Zimmet=Wasser darzu nehmen.</p>
+        <p> Man solle den Reiß sauber waschen <lb/> wieder trücknen <lb/> und stossen <lb/> daß er wird wie ein grober <objectName ref="griess">Grieß</objectName> <lb/> darnach ein süssen Ram auf einer <objectName ref="glut">Glut</objectName> lassen sieden <lb/> en Reiß darein schütten <lb/> und ein Weil sieden lassen <lb/> darnach klein=gestoßne Mandel auch darein rühren <lb/> daß er in rechter Dicken wird <lb/> wie ein Koch <lb/> ein wenig sieden lassen <lb/> und sehen <lb/> daß es nicht anbrennt <lb/> darnach <objectName ref="zucker">zuckern</objectName> <lb/> man mag auch Rosen= und Zimmet=Wasser darzu nehmen. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Weiß Kraut viertheilweiß geschnitten <lb/> auß heisser Butter gerößt biß braun wirt <lb/> machs eyn mit Rindtfleischbrüh <lb/> die wolgeschmack ist <lb/> vnd Kümel <lb/> laß damit eynsieden <lb/> biß ein kurtze Brüh gewinnet <lb/> so wirdt es gut vnd wolgeschmack.</p>
+        <p> Weiß <objectName ref="kraut">Kraut</objectName> viertheilweiß geschnitten <lb/> auß heisser <objectName ref="butter">Butter</objectName> gerößt biß braun wirt <lb/> machs eyn mit Rindtfleischbrüh <lb/> die wolgeschmack ist <lb/> vnd Kümel <lb/> laß damit eynsieden <lb/> biß ein kurtze Brüh gewinnet <lb/> so wirdt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

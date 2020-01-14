@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Käßsuppen von einem Parmesankäß außgezogen <lb/> die fein weiß ist <lb/> den Käß mit Wasser gesotten <lb/> oder halb Wasser vnnd halb Erbeßbrüh <lb/> ist gut vnd lieblich.</p>
+        <p> Käßsuppen von einem Parmesankäß außgezogen <lb/> die fein weiß ist <lb/> den Käß mit <objectName ref="wasser">Wasser</objectName> gesotten <lb/> oder halb <objectName ref="wasser">Wasser</objectName> vnnd halb Erbeßbrüh <lb/> ist gut vnd lieblich. </p>
             </div>
         </body>
     </text>

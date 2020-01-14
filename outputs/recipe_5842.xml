@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Du kanst die Köpff auch nemmen zum eynmachen in Gewürtz <lb/> es sey weiß oder gelb <lb/> oder in schwartzem Pfeffer. Du kanst es auch zum backen nemmen <lb/> wie es dir gefellig.</p>
+        <p> Du kanst die Köpff auch nemmen zum eynmachen in Gewürtz <lb/> es sey weiß oder gelb <lb/> oder in schwartzem <objectName ref="pfeffer">Pfeffer</objectName>. Du kanst es auch zum backen nemmen <lb/> wie es dir gefellig. </p>
             </div>
         </body>
     </text>

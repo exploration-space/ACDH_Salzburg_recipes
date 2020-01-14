@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) süsse Milch <lb/> die gar dick ist <lb/> vnd frische Eyer <lb/> das weiß darvon zerschlag wol <lb/> vnd thu es vnter die Milch <lb/> nim(m) kleine Besem von Birckenholtz gemacht <lb/> vnd fein sauber außgewaschen <lb/> rür die Milch darmit <lb/> so wirt es ein schönen Faum gewinnen <lb/> so kanstu jn oben herab nemmen <lb/> vnnd fein hoch in eine Schüssel anrichten <lb/> so wirt es zierlich vnd schön. Vnd man nennet es eine Schneemilch.</p>
+        <p> Nim ( m ) süsse <objectName ref="milch">Milch</objectName> <lb/> die gar dick ist <lb/> vnd frische Eyer <lb/> das weiß darvon zerschlag wol <lb/> vnd thu es vnter die <objectName ref="milch">Milch</objectName> <lb/> nim ( m ) kleine Besem von Birckenholtz gemacht <lb/> vnd fein sauber außgewaschen <lb/> rür die <objectName ref="milch">Milch</objectName> darmit <lb/> so wirt es ein schönen Faum gewinnen <lb/> so kanstu jn oben herab nemmen <lb/> vnnd fein hoch in eine <objectName ref="schuessel">Schüssel</objectName> anrichten <lb/> so wirt es zierlich vnd schön. Vnd man nennet es eine Schneemilch. </p>
             </div>
         </body>
     </text>

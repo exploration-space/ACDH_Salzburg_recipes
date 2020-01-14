@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>LInguadale mit Oel <lb/> oder Butter auf den Rost gelegt <lb/> gibs auf die Schüssel mit warmen Sardellen= Butter <lb/> Capry <lb/> Wein= Eßig und Lemoni; Regaliers grün <lb/> oder mit Lemoni= Schelffen <lb/> Zucker <lb/> Pinioli, Weinbeerlein <lb/> und Capry vermischt.</p>
+        <p> LInguadale mit Oel <lb/> oder <objectName ref="butter">Butter</objectName> auf den <objectName ref="rost">Rost</objectName> gelegt <lb/> gibs auf die <objectName ref="schuessel">Schüssel</objectName> mit warmen Sardellen= <objectName ref="butter">Butter</objectName> <lb/> Capry <lb/> Wein= Eßig und Lemoni; Regaliers grün <lb/> oder mit Lemoni= Schelffen <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> Pinioli, Weinbeerlein <lb/> und Capry vermischt. </p>
             </div>
         </body>
     </text>

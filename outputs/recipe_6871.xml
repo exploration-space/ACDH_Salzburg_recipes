@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Bresem <lb/> schupe sie <lb/> besträw sie mit Pfeffer <lb/> Ingwer vn(d) Saltz <lb/> thu frische Butter vnd Salbey darüber <lb/> schlags in ein Ruckenteig <lb/> scheubs in Ofen <lb/> vnnd laß backen <lb/> vnnd kalt werden <lb/> so ist es gut vnnd auch wolgeschmack.</p>
+        <p> Nim ( m ) Bresem <lb/> schupe sie <lb/> besträw sie mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> <objectName ref="ingwer">Ingwer</objectName> vn ( d ) Saltz <lb/> thu frische <objectName ref="butter">Butter</objectName> vnd Salbey darüber <lb/> schlags in ein Ruckenteig <lb/> scheubs in <objectName ref="ofen">Ofen</objectName> <lb/> vnnd laß backen <lb/> vnnd kalt werden <lb/> so ist es gut vnnd auch wolgeschmack. </p>
             </div>
         </body>
     </text>

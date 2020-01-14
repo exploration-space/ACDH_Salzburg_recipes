@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Hünlein werden gesotten <lb/> wie oben <lb/> und man lasset sie kalt werden; dann legt mans in die Schüssel <lb/> und gießt eine gute klare Sultz süß <lb/> oder sauer daran <lb/> der Gernch soll seyn von Lemoni <lb/> Gewürtz und Zimmet= Wasser; wie die Sultz zu machen <lb/> findest du zu End der eingemachten Früchten bey andern Sultzen beschrieben; Item <lb/> bey denen Schweins= Ohren bey dergleichen Sultz N°. 10. vom Schwein <lb/> etc.</p>
+        <p> DIe Hünlein werden gesotten <lb/> wie oben <lb/> und man lasset sie kalt werden; dann legt mans in die <objectName ref="schuessel">Schüssel</objectName> <lb/> und gießt eine gute klare Sultz süß <lb/> oder sauer daran <lb/> der Gernch soll seyn von Lemoni <lb/> Gewürtz und Zimmet= <objectName ref="wasser">Wasser</objectName>; wie die Sultz zu machen <lb/> findest du zu End der eingemachten <objectName ref="fruechte">Früchten</objectName> bey andern Sultzen beschrieben; Item <lb/> bey denen Schweins= Ohren bey dergleichen Sultz N°. 10. vom Schwein <lb/> etc. </p>
             </div>
         </body>
     </text>

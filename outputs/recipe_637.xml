@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>GIesset an die Pfirsiche <lb/> in einem stollichten Hafen <lb/> einen Malvasier <lb/> streuet Zucker darein <lb/> und last sie sieden <lb/> aber nicht zu lang <lb/> daß sie ein dickes Brühlein bekommen : Wann sie nun angerichtet werden <lb/> kan mans mit Zimmet und Zucker <lb/> oder mit einem Trisanet bestreuen : Oder <lb/> man kan sie auch halb von einander schneiden <lb/> schählen <lb/> und nur in einer Schüssel dünsten <lb/> wie die obgedachten Marilln ; Oder auch auf vorbesagte Weise füllen. Es sind aber die rothen Pfirsiche absonderlich schön zum dünsten <lb/> dieweil sie an sich selbst eine schöne rothe Brüh geben.</p>
+        <p> GIesset an die <objectName ref="pfirsiche">Pfirsiche</objectName> <lb/> in einem stollichten <objectName ref="hafen">Hafen</objectName> <lb/> einen Malvasier <lb/> streuet <objectName ref="zucker">Zucker</objectName> darein <lb/> und last sie sieden <lb/> aber nicht zu lang <lb/> daß sie ein dickes Brühlein bekommen : Wann sie nun angerichtet werden <lb/> kan mans mit Zimmet und <objectName ref="zucker">Zucker</objectName> <lb/> oder mit einem Trisanet bestreuen : Oder <lb/> man kan sie auch halb von einander schneiden <lb/> schählen <lb/> und nur in einer <objectName ref="schuessel">Schüssel</objectName> dünsten <lb/> wie die obgedachten Marilln; Oder auch auf vorbesagte Weise füllen. Es sind aber die rothen <objectName ref="pfirsiche">Pfirsiche</objectName> absonderlich schön zum dünsten <lb/> dieweil sie an sich selbst eine schöne rothe Brüh geben. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mach einen Brand= Taig mit siediger Milch an <lb/> hitze ein wenig Schmaltz <lb/> brenns in den Taig <lb/> rührs wol mit Eyern ab <lb/> so im warmen Wasser gelegen <lb/> und schneid Finger= lange Strützlein auf einen Teller <lb/> in das heisse Schmaltz <lb/> so gehen sie schön auf <lb/> man darffs nicht kühl bachen.</p>
+        <p> Mach einen Brand= Taig mit siediger <objectName ref="milch">Milch</objectName> an <lb/> hitze ein wenig Schmaltz <lb/> brenns in den Taig <lb/> rührs wol mit Eyern ab <lb/> so im warmen <objectName ref="wasser">Wasser</objectName> gelegen <lb/> und schneid Finger= lange Strützlein auf einen <objectName ref="teller">Teller</objectName> <lb/> in das heisse Schmaltz <lb/> so gehen sie schön auf <lb/> man darffs nicht kühl bachen. </p>
             </div>
         </body>
     </text>

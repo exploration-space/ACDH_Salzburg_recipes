@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) ein Magen von einem Kappaunen <lb/> schneidt vnd hack jn klein mit einem Rindtfeißt <lb/> rür es mit einer Rindtfleischbrüh ab <lb/> vnd rürs vmb <lb/> daß nicht anbrennt <lb/> biß daß auffseudt <lb/> darnach laß gemach sieden <lb/> thu kleine schwartze Rosein darein <lb/> Zucker <lb/> vn(d) etliche Eyerdotter <lb/> rürs darein <lb/> vnd laß ein Sudt darmit auffthun <lb/> Geuß ein wenig Essig darein <lb/> vnd laß auch ein Sudt mit auffthun <lb/> so ist es ein herrlichs Essen von einem Kappaunenmagen. Vnd die Speiß heißt man ein Gehackts.</p>
+        <p> Nim ( m ) ein <objectName ref="magen">Magen</objectName> von einem Kappaunen <lb/> schneidt vnd hack jn klein mit einem Rindtfeißt <lb/> rür es mit einer Rindtfleischbrüh ab <lb/> vnd rürs vmb <lb/> daß nicht anbrennt <lb/> biß daß auffseudt <lb/> darnach laß gemach sieden <lb/> thu kleine schwartze Rosein darein <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> vn ( d ) etliche Eyerdotter <lb/> rürs darein <lb/> vnd laß ein Sudt darmit auffthun <lb/> Geuß ein wenig <objectName ref="essig">Essig</objectName> darein <lb/> vnd laß auch ein Sudt mit auffthun <lb/> so ist es ein herrlichs Essen von einem Kappaunenmagen. Vnd die Speiß heißt man ein Gehackts. </p>
             </div>
         </body>
     </text>

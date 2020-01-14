@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim ein Erbsbrüh <lb/> die lauter ist <lb/> vn ein wenig Essig <lb/> so wirt es fein weiß <lb/> thu frische vngeschmältzte Butter darein <lb/> au ein wenig eyngebrennt Mehl <lb/> gantze Muscatenblüt <lb/> vnd gantzen Pfeffer <lb/> laß miteinander sieden <lb/> vnd wenns gar gesotten ist <lb/> so thut man die Agrastbeer darein <lb/> laß darmit nur ein Sudt auffthun <lb/> so wirt es gut vnnd wolgeschmack.</p>
+        <p> Nim ein Erbsbrüh <lb/> die lauter ist <lb/> vn ein wenig <objectName ref="essig">Essig</objectName> <lb/> so wirt es fein weiß <lb/> thu frische vngeschmältzte <objectName ref="butter">Butter</objectName> darein <lb/> au ein wenig eyngebrennt <objectName ref="mehl">Mehl</objectName> <lb/> gantze Muscatenblüt <lb/> vnd gantzen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> laß miteinander sieden <lb/> vnd wenns gar gesotten ist <lb/> so thut man die Agrastbeer darein <lb/> laß darmit nur ein Sudt auffthun <lb/> so wirt es gut vnnd wolgeschmack. </p>
             </div>
         </body>
     </text>

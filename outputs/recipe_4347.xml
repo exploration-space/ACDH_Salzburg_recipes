@@ -177,9 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Das gesottene und gesäuberte Hirn muß in zimliche Stücklein geschnitten <lb/> mit Krebsen= Schweifflein <lb/> oder Maurachen <lb/> oder Artischocken= Kern <lb/> oder grünen Erbsen <lb/> Austern <lb/> Dardofflen <lb/> Schwammen <lb/> als ein Rago in Butter geröst <lb/> mit wenig Meel bassiert oder gedämpfft <lb/> in die ausgehohlte und ausgeröste Semmel <lb/> mit seiner kurtzen Brühe <lb/> Gewürtz <lb/> Saltz <lb/> Lemoni= Schaalen <lb/> oder grünen Sachen <lb/> wohlgeschmack abgekocht <lb/> und eingefüllt werden.
-
-</p>
+        <p> Das gesottene und gesäuberte <objectName ref="hirn">Hirn</objectName> muß in zimliche Stücklein geschnitten <lb/> mit Krebsen= Schweifflein <lb/> oder Maurachen <lb/> oder Artischocken= Kern <lb/> oder grünen <objectName ref="erbsen">Erbsen</objectName> <lb/> <objectName ref="austern">Austern</objectName> <lb/> Dardofflen <lb/> Schwammen <lb/> als ein Rago in <objectName ref="butter">Butter</objectName> geröst <lb/> mit wenig Meel bassiert oder gedämpfft <lb/> in die ausgehohlte und ausgeröste Semmel <lb/> mit seiner kurtzen <objectName ref="bruehe">Brühe</objectName> <lb/> Gewürtz <lb/> Saltz <lb/> Lemoni= Schaalen <lb/> oder grünen Sachen <lb/> wohlgeschmack abgekocht <lb/> und eingefüllt werden. </p>
             </div>
         </body>
     </text>

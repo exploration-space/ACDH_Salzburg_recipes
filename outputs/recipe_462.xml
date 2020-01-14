@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Man solle Nemben bey einer hal= <lb/> ben Mas<gap/> guetten Milch Rämb<gap/> <lb/> ober einen siessen<gap/> auch .5. Ayr<gap/> <lb/> Gar woll Zerschlagen vnd Darein <lb/> seich<gap/> in ein Häfen<gap/> oder schisßl<gap/> mit <lb/> siedtenten<gap/> Wasser söz es das <lb/> es Wiert als wie ein schisslkhoch<gap/> <lb/> hernach soll mans heraus Nemben <lb/> mit einen faimblöffel<gap/> das das <lb/> Wasser Wolt Daruon khombt <lb/> löge einen löffel voll nach dem <lb/> andern in ein schisßl vnnd mit <lb/> Zuckher vnnd Weinpörlln<gap/> woll <lb/> Pesträht<gap/> Giess<gap/> ein Guette Milch <lb/> Daran Gibs so ist es schön vnnd <lb/> Guett. <lb/><lb/> (re 249)</p>
+        <p> Man solle Nemben bey einer hal= <lb/> ben Mas<gap/> guetten <objectName ref="milch">Milch</objectName> Rämb<gap/> <lb/> ober einen siessen<gap/> auch.5. Ayr<gap/> <lb/> Gar woll Zerschlagen vnd Darein <lb/> seich<gap/> in ein Häfen<gap/> oder schisßl<gap/> mit <lb/> siedtenten<gap/> <objectName ref="wasser">Wasser</objectName> söz es das <lb/> es Wiert als wie ein schisslkhoch<gap/> <lb/> hernach soll mans heraus Nemben <lb/> mit einen faimblöffel<gap/> das das <lb/> <objectName ref="wasser">Wasser</objectName> Wolt Daruon khombt <lb/> löge einen <objectName ref="loeffel">löffel</objectName> voll nach dem <lb/> andern in ein schisßl vnnd mit <lb/> Zuckher vnnd Weinpörlln<gap/> woll <lb/> Pesträht<gap/> Giess<gap/> ein Guette <objectName ref="milch">Milch</objectName> <lb/> Daran Gibs so ist es schön vnnd <lb/> Guett. <lb/><lb/> ( re 249 ) </p>
             </div>
         </body>
     </text>

@@ -173,32 +173,7 @@ Willst du einen guten Presssack vom Kalb machen, dann überbrühe das Kalb wie e
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WIildü machen ein guͤte press von ein̄
-kalb So prue daz kalb alss ein saw vnd
-czeuch im dÿe haut ab vnd slach seÿ cze stück=
-en vnd seud sÿ schon vnd laz dÿe haut
-auch siedn̄ dar vnder wen̄ ez gesotn̄ ist
-So hack daz fleisch klain vnd pheffers
-un̄ stuphs genuͤg darein Vnd tuess dann
-in ein kessel vnd heb ez dan̄ vber den̄
-herd vnd geuss ess ein winczigs dar an vn̄
-nÿm̄ dan̄ ein tuͤch vn̄ leg aÿn taÿl der
-heut dar auff vn̄ streich dÿe haut vnd
-vmb vnd vmb dar an̄ vn̄ tue daz geheck
-dar auff vnd slach dan̄ daz tuͤch wol dar=
-vmb vn̄ leg dan̄ ain prot dar auff vn̄
-swer stain̄ vn̄ mach ain guͤtte prue von̄
-gepettn̄ semeln̄ vn̄ hoenig vn̄ guttn̄ wein̄
-vnd hab ez daz dan̄ mit einander vber
-daz fewer vn̄ lass sÿedn̄ vn̄ streichs durch
-ein tuͤch vn̄ machs es ab mit mit (!) guͤttn̄
-stupp vn̄ laz dÿ dan̄ dÿe prue dÿe kalt
-werdn̄ vn̄ sneÿd dÿe press dan̄ dar ein
-also vō kelberss koͤphen̄ magstu sÿ auch
-machn̄ vn̄ die seint guͤt dar czuͤ vn̄ wenn
-man sweinn koͤph hat So waÿss mā wol
-wÿe man̄ dÿe machn̄ schol ein ÿeder
-maÿster</p>
+        <p> WIildü machen ein guͤte press von ein̄ <objectName ref="kalb">kalb</objectName> So prue daz <objectName ref="kalb">kalb</objectName> alss ein saw vnd czeuch im dÿe haut ab vnd slach seÿ cze stücken vnd seud sÿ schon vnd laz dÿe haut auch siedn̄ dar vnder wen̄ ez gesotn̄ ist So hack daz <objectName ref="fleisch">fleisch</objectName> klain vnd pheffers un̄ stuphs genuͤg darein Vnd tuess dann in ein <objectName ref="kessel">kessel</objectName> vnd heb ez dan̄ vber den̄ <objectName ref="herd">herd</objectName> vnd geuss ess ein winczigs dar an vn̄ nÿm̄ dan̄ ein tuͤch vn̄ leg aÿn taÿl der heut dar auff vn̄ streich dÿe haut vnd vmb vnd vmb dar an̄ vn̄ tue daz geheck dar auff vnd slach dan̄ daz tuͤch wol darvmb vn̄ leg dan̄ ain prot dar auff vn̄ swer stain̄ vn̄ mach ain guͤtte prue von̄ gepettn̄ semeln̄ vn̄ hoenig vn̄ guttn̄ wein̄ vnd hab ez daz dan̄ mit einander vber daz fewer vn̄ lass sÿedn̄ vn̄ streichs durch ein tuͤch vn̄ machs es ab mit mit ( ! ) guͤttn̄ stupp vn̄ laz dÿ dan̄ dÿe prue dÿe kalt werdn̄ vn̄ sneÿd dÿe press dan̄ dar ein also vō kelberss koͤphen̄ magstu sÿ auch machn̄ vn̄ die seint guͤt dar czuͤ vn̄ wenn man sweinn koͤph hat So waÿss mā wol wÿe man̄ dÿe machn̄ schol ein ÿeder maÿster </p>
             </div>
         </body>
     </text>

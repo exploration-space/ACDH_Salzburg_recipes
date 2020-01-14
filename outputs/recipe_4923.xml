@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn die Gans= Leberlein gehäutet und gespickt sind <lb/> muß man sie einsaltzen und würtzen <lb/> dann an einem Spieß abbraten lassen; jedoch aber anfangs mit heissem Schmaltz <lb/> und zu letzt mit heisser Butter betreiffen <lb/> auch mit geriebenen rocken Brod überstreuen <lb/> und Fleiß anwenden <lb/> daß sie schön gistig zu Tisch getragen werden: Dann kan man etwas von der Butter in das Schüsselein giessen <lb/> und die Leberlein darein legen.</p>
+        <p> WAnn die Gans= Leberlein gehäutet und gespickt sind <lb/> muß man sie einsaltzen und würtzen <lb/> dann an einem <objectName ref="spiess">Spieß</objectName> abbraten lassen; jedoch aber anfangs mit heissem Schmaltz <lb/> und zu letzt mit heisser <objectName ref="butter">Butter</objectName> betreiffen <lb/> auch mit geriebenen rocken Brod überstreuen <lb/> und Fleiß anwenden <lb/> daß sie schön gistig zu <objectName ref="tisch">Tisch</objectName> getragen werden : Dann kan man etwas von der <objectName ref="butter">Butter</objectName> in das Schüsselein giessen <lb/> und die Leberlein darein legen. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Brat sie auff dem Rost <lb/> vnnd rößts auß der Butter <lb/> mach ein saures Brühlein darzu mit Erbsbrüh <lb/> Essig <lb/> mit gestossenem Pfeffer <lb/> vnnd ein wenig frischer Butter <lb/> schneidt gesaltzen Limonien fein breit <lb/> vnnd laß darmit auffsieden <lb/> mach ein kurtze Brüh daran <lb/> vnd geuß vber den Köl Hecht <lb/> es sey gebraten <lb/> oder auß der Butter gerößt <lb/> so ist es gut vnd wolgeschmack.</p>
+        <p> Brat sie auff dem <objectName ref="rost">Rost</objectName> <lb/> vnnd rößts auß der <objectName ref="butter">Butter</objectName> <lb/> mach ein saures Brühlein darzu mit Erbsbrüh <lb/> <objectName ref="essig">Essig</objectName> <lb/> mit gestossenem <objectName ref="pfeffer">Pfeffer</objectName> <lb/> vnnd ein wenig frischer <objectName ref="butter">Butter</objectName> <lb/> schneidt gesaltzen Limonien fein breit <lb/> vnnd laß darmit auffsieden <lb/> mach ein kurtze Brüh daran <lb/> vnd geuß vber den Köl <objectName ref="hecht">Hecht</objectName> <lb/> es sey gebraten <lb/> oder auß der <objectName ref="butter">Butter</objectName> gerößt <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

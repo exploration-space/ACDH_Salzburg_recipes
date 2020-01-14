@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) frische Weichsel <lb/> reiß die Stengel ab <lb/> geuß Wein <lb/> gestossenen Zimmet vnd Zucker darein <lb/> laß darmit auffsieden <lb/> thu gerößt Brot von einem Weck darvnter <lb/> vnd gibs warm auff einen Tisch <lb/> vnnd besträw es mit Zucker.</p>
+        <p> Nim ( m ) frische Weichsel <lb/> reiß die Stengel ab <lb/> geuß <objectName ref="wein">Wein</objectName> <lb/> gestossenen Zimmet vnd <objectName ref="zucker">Zucker</objectName> darein <lb/> laß darmit auffsieden <lb/> thu gerößt <objectName ref="brot">Brot</objectName> von einem Weck darvnter <lb/> vnd gibs warm auff einen <objectName ref="tisch">Tisch</objectName> <lb/> vnnd besträw es mit <objectName ref="zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

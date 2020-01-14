@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Krebs= Schweifflein <lb/> in Butter <lb/> mit wenig Senff auf der Glut übergeschwungen <lb/> biß sie wol warm <lb/> aber nicht sieden <lb/> seynd gut <lb/> geschwind zu Tisch.</p>
+        <p> DIe Krebs= Schweifflein <lb/> in <objectName ref="butter">Butter</objectName> <lb/> mit wenig Senff auf der <objectName ref="glut">Glut</objectName> übergeschwungen <lb/> biß sie wol warm <lb/> aber nicht sieden <lb/> seynd gut <lb/> geschwind zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

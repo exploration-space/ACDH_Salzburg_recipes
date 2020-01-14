@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm unten und oben Butter <lb/> dergleichen Gehäck <lb/> und gar kein Taig <lb/> in die Mitte aber eine gute Füll <lb/> und oben mit Gehäck hübsch zugemacht <lb/> gespickt und gebachen <lb/> gib im Anrichten Brühe nach Geduncken <lb/> trags auf in der Schüssel <lb/> darin du es gebachen.</p>
+        <p> NImm unten und oben <objectName ref="butter">Butter</objectName> <lb/> dergleichen <objectName ref="gehaeck">Gehäck</objectName> <lb/> und gar kein Taig <lb/> in die Mitte aber eine gute Füll <lb/> und oben mit <objectName ref="gehaeck">Gehäck</objectName> hübsch zugemacht <lb/> gespickt und gebachen <lb/> gib im Anrichten <objectName ref="bruehe">Brühe</objectName> nach Geduncken <lb/> trags auf in der <objectName ref="schuessel">Schüssel</objectName> <lb/> darin du es gebachen. </p>
             </div>
         </body>
     </text>

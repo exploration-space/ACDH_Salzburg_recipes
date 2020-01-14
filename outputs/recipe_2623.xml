@@ -176,9 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Bähet einen Schnitten weisses Brod <lb/> thut selbiges in ein Häfelein <lb/> giesset Wein und Fleischbrüh daran <lb/> mischt auch kleine gehackte Essig= Cappern darunter <lb/> und last es mit einander sieden; zwingts hernach durch einen Seiher <lb/> und giesset noch etwas Wein nach <lb/> würtzet es mit Pfeffer <lb/> Cardamomen <lb/> Muscatblüh und Zucker <lb/> thut noch mehr gantze Essig= Cappern dazu <lb/> last alles zusammen sieden <lb/> und so ihr es anrichten wollet <lb/> leget ein Stuck Butter darein; richtet sie über das abgesottene Fleisch <lb/> und streuet würfflicht= geschnittene Citronen= Schelffen darauf. <gap/>
-
-<gap/> An statt deß gebähten Brods <lb/> kan auch ein weiß= geriebenes Brod genommen <lb/> oder auch diese Brüh nur mit gerösteten Mehl gemachet werden.</p>
+        <p> Bähet einen Schnitten weisses Brod <lb/> thut selbiges in ein <objectName ref="haefelein">Häfelein</objectName> <lb/> giesset <objectName ref="wein">Wein</objectName> und Fleischbrüh daran <lb/> mischt auch kleine gehackte Essig= Cappern darunter <lb/> und last es mit einander sieden; zwingts hernach durch einen <objectName ref="seiher">Seiher</objectName> <lb/> und giesset noch etwas <objectName ref="wein">Wein</objectName> nach <lb/> würtzet es mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Cardamomen <lb/> Muscatblüh und <objectName ref="zucker">Zucker</objectName> <lb/> thut noch mehr gantze Essig= Cappern dazu <lb/> last alles zusammen sieden <lb/> und so ihr es anrichten wollet <lb/> leget ein Stuck <objectName ref="butter">Butter</objectName> darein; richtet sie über das abgesottene <objectName ref="fleisch">Fleisch</objectName> <lb/> und streuet würfflicht= geschnittene Citronen= Schelffen darauf. <gap/> <gap/> An statt deß gebähten Brods <lb/> kan auch ein weiß= geriebenes Brod genommen <lb/> oder auch diese Brüh nur mit gerösteten <objectName ref="mehl">Mehl</objectName> gemachet werden. </p>
             </div>
         </body>
     </text>

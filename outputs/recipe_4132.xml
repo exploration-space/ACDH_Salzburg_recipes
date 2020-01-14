@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>AUs dem Hirsch= Schlegel <lb/> wann er sauber gehäutlet <lb/> zu lauter langen Blättlein geschnitten <lb/> aber nicht überzwerch <lb/> solche gesaltzen <lb/> mit angemachten <lb/> groben Speck gespickt <lb/> eingepaitzt <lb/> und gleich denen Beuf à la Mode gedämpfft <lb/> seynd gut in der Noth <lb/> kalter aufzuschneiden auf Teller <lb/> klein <lb/> oder grossen Schüsseln <lb/> oder sauber gespickt ; mit sauren Ram und guten Wein gebraten <lb/> oder  <lb/> wie andere Lungen= Braten <lb/> mit Butter und Speck begossen <lb/> und mit einer sauren oder süssen Brühe versehen <lb/> warmer zur Tafel gegeben <lb/> seynd allweg gut.</p>
+        <p> AUs dem Hirsch= <objectName ref="schlegel">Schlegel</objectName> <lb/> wann er sauber gehäutlet <lb/> zu lauter langen Blättlein geschnitten <lb/> aber nicht überzwerch <lb/> solche gesaltzen <lb/> mit angemachten <lb/> groben <objectName ref="speck">Speck</objectName> gespickt <lb/> eingepaitzt <lb/> und gleich denen Beuf à la Mode gedämpfft <lb/> seynd gut in der Noth <lb/> kalter aufzuschneiden auf <objectName ref="teller">Teller</objectName> <lb/> klein <lb/> oder grossen Schüsseln <lb/> oder sauber gespickt; mit sauren Ram und guten <objectName ref="wein">Wein</objectName> gebraten <lb/> oder <lb/> wie andere Lungen= Braten <lb/> mit <objectName ref="butter">Butter</objectName> und <objectName ref="speck">Speck</objectName> begossen <lb/> und mit einer sauren oder süssen <objectName ref="bruehe">Brühe</objectName> versehen <lb/> warmer zur Tafel gegeben <lb/> seynd allweg gut. </p>
             </div>
         </body>
     </text>

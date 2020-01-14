@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet die Vögel <lb/> rupfft und ziehet sie über den Kopff ab <lb/> legts eine weil in ein Wasser <lb/> dann saltzet und pfeffert sie <lb/> lassets also im Saltz und Gewürtz ein wenig ligen <lb/> steckts darnach überzwerch an den Spieß <lb/> steckt ihnen die Füsse fein übersich <lb/> und betreiffts mit Butter oder heissem Schmaltz : wan sie nun schier gebraten sind <lb/> bestreuet sie mit geriebenen weissen oder rockenen Brod <lb/> und wann dieses ein wenig an ihnen ertrocknet ist <lb/> betropffet sie nochmal mit zerlassener Butter <lb/> damit sie fein licht= braun und gistig werden <lb/> ziehets dann ab <lb/> legts in eine Schüssel <lb/> und zieret sie aus nach gefallen.</p>
+        <p> NEhmet die <objectName ref="voegel">Vögel</objectName> <lb/> rupfft und ziehet sie über den Kopff ab <lb/> legts eine weil in ein <objectName ref="wasser">Wasser</objectName> <lb/> dann saltzet und pfeffert sie <lb/> lassets also im Saltz und Gewürtz ein wenig ligen <lb/> steckts darnach überzwerch an den <objectName ref="spiess">Spieß</objectName> <lb/> steckt ihnen die Füsse fein übersich <lb/> und betreiffts mit <objectName ref="butter">Butter</objectName> oder heissem Schmaltz : wan sie nun schier gebraten sind <lb/> bestreuet sie mit geriebenen weissen oder rockenen Brod <lb/> und wann dieses ein wenig an ihnen ertrocknet ist <lb/> betropffet sie nochmal mit zerlassener <objectName ref="butter">Butter</objectName> <lb/> damit sie fein licht= braun und gistig werden <lb/> ziehets dann ab <lb/> legts in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und zieret sie aus nach gefallen. </p>
             </div>
         </body>
     </text>

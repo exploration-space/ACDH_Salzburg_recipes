@@ -170,7 +170,7 @@ D<span lang="DE">ie Apfelsorte Landsapfel wurde bisher nicht eindeutig geklärt.
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Geuß wein daran, nimb etlich zugger, Salz <lb/> nit, nimb farb tüecher, so werens roth, laß <lb/> woll einsieden, gibs Kalt, Salz nit. <lb/></p>
+        <p> Geuß <objectName ref="wein">wein</objectName> daran, nimb etlich zugger, <objectName ref="salz">Salz</objectName> <lb/> nit, nimb farb tüecher, so werens roth, laß <lb/> woll einsieden, gibs Kalt, <objectName ref="salz">Salz</objectName> nit. <lb/> </p>
             </div>
         </body>
     </text>

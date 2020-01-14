@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Tauch die Weixl auß, ein wenig Wein darein, strödt die <lb/> hausenblater in Wein, geuß darunder hönig, laß fein <lb/> durcheinander sieden, schneid die stingl halbet ab, nimb <lb/> schene Weixl, sez auf ein schißl, sez eine ander, geuß die <lb/> Sulzen drein, sez in ein kheller, laß gstehn, ist bereith. <lb/></p>
+        <p> Tauch die Weixl auß, ein wenig <objectName ref="wein">Wein</objectName> darein, strödt die <lb/> hausenblater in <objectName ref="wein">Wein</objectName>, geuß darunder hönig, laß fein <lb/> durcheinander sieden, schneid die stingl halbet ab, nimb <lb/> schene Weixl, sez auf ein schißl, sez eine ander, geuß die <lb/> Sulzen drein, sez in ein kheller, laß gstehn, ist bereith. <lb/> </p>
             </div>
         </body>
     </text>

@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZErklopffet sechs Eyerdottern <lb/> und zwey gantze Eyer <lb/> so lang <lb/> biß sie einen Gest geben; rühret nach und nach ein viertel Pfund durch= gesiebten Zucker <lb/> auch eben so viel Mehl <lb/> und zwar jedes besonders <lb/> letzlich auch einen halben Vierding <lb/> oder ein Achtel= Pfund <lb/> mit Rosenwasser abgeriebene Mandeln <lb/> und allerley Gewürtz <lb/> nach belieben <lb/> darunter <lb/> klopffet alles wohl durch einander: schmiret die Mödel mit Butter <lb/> vermachet sie aussen her mit Leimen oder Dohn <lb/> füllet den Teig darein und last ihn vorbesagter massen bachen.</p>
+        <p> ZErklopffet sechs Eyerdottern <lb/> und zwey gantze Eyer <lb/> so lang <lb/> biß sie einen Gest geben; rühret nach und nach ein viertel <objectName ref="pfund">Pfund</objectName> durch= gesiebten <objectName ref="zucker">Zucker</objectName> <lb/> auch eben so viel <objectName ref="mehl">Mehl</objectName> <lb/> und zwar jedes besonders <lb/> letzlich auch einen halben <objectName ref="vierding">Vierding</objectName> <lb/> oder ein Achtel= <objectName ref="pfund">Pfund</objectName> <lb/> mit <objectName ref="rosenwasser">Rosenwasser</objectName> abgeriebene <objectName ref="mandeln">Mandeln</objectName> <lb/> und allerley Gewürtz <lb/> nach belieben <lb/> darunter <lb/> klopffet alles wohl durch einander : schmiret die Mödel mit <objectName ref="butter">Butter</objectName> <lb/> vermachet sie aussen her mit Leimen oder Dohn <lb/> füllet den <objectName ref="teig">Teig</objectName> darein und last ihn vorbesagter massen bachen. </p>
             </div>
         </body>
     </text>

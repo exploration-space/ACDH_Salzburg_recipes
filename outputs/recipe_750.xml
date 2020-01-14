@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>vors erste … solches vor allen daß lein,, <lb/> gewandt wan du den Pisen oder amber kauffest <lb/> nimb ein Pleiene Pixen in form einer <lb/> medritath <lb/> bixen, welch 2. dökhl haben mus <lb/> eine wie gebeuchlich aber der andere darinen <lb/> mit ei Pändtl den man auß vnd ein heben <lb/> vnd legen kan, thue den Pisen vnd ambra <lb/> darein, thue darein ein wenig Pämb,, <lb/> woll thue darauf ein Papier fest Stopffen <lb/> dißer Pleyener Pixen laß auch ein hülzene <lb/> machen damit es besßer verwareht wird, s <lb/> also haltet es alle zeit seinen geruch. <lb/><lb/></p>
+        <p> vors erste … solches vor allen daß lein,, <lb/> gewandt wan du den Pisen oder <objectName ref="amber">amber</objectName> kauffest <lb/> nimb ein Pleiene Pixen in <objectName ref="form">form</objectName> einer <lb/> medritath <lb/> bixen, welch 2. dökhl haben mus <lb/> eine wie gebeuchlich aber der andere darinen <lb/> mit ei Pändtl den man auß vnd ein heben <lb/> vnd legen kan, thue den Pisen vnd <objectName ref="ambra">ambra</objectName> <lb/> darein, thue darein ein wenig Pämb,, <lb/> woll thue darauf ein <objectName ref="papier">Papier</objectName> fest Stopffen <lb/> dißer Pleyener Pixen laß auch ein hülzene <lb/> machen damit es besßer verwareht wird, s <lb/> also haltet es alle zeit seinen geruch. <lb/><lb/> </p>
             </div>
         </body>
     </text>

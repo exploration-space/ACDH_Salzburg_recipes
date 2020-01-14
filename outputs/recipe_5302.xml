@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Gefüllte Eyer in einer Weinbrüh <lb/> die fein außgerößt seyn auß der Butter <lb/> daß man auch schwartze Rosein in die Weinbrüh thut <lb/> so ist es nicht böß <lb/> sonderlich wenn die Weinbrüh süß ist.</p>
+        <p> Gefüllte Eyer in einer Weinbrüh <lb/> die fein außgerößt seyn auß der <objectName ref="butter">Butter</objectName> <lb/> daß man auch schwartze Rosein in die Weinbrüh thut <lb/> so ist es nicht böß <lb/> sonderlich wenn die Weinbrüh süß ist. </p>
             </div>
         </body>
     </text>

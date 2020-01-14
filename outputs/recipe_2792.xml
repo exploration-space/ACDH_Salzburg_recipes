@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn man nur ein wenig dergleichen Sultzen <lb/> etwan vor ein Kranckes <lb/> machen will <lb/> so nehme man einen halben Capaun <lb/> oder halbes Hun <lb/> und eine kleine Hand voll kleiner Gersten <lb/> so zuvor sauber abgerieben worden <lb/> zerstosse das Huhn und zugleich auch eine Hand voll Pinien= Nüßlein <lb/> und siede solches <lb/> besagter massen  <lb/> samt einer Muscaten= Blumen <lb/> in einer Flaschen ; dann zwing es durch <lb/> wie oben beschrieben.</p>
+        <p> WAnn man nur ein wenig dergleichen Sultzen <lb/> etwan vor ein Kranckes <lb/> machen will <lb/> so nehme man einen halben Capaun <lb/> oder halbes Hun <lb/> und eine kleine Hand voll kleiner <objectName ref="gerste">Gersten</objectName> <lb/> so zuvor sauber abgerieben worden <lb/> zerstosse das <objectName ref="huhn">Huhn</objectName> und zugleich auch eine Hand voll Pinien= Nüßlein <lb/> und siede solches <lb/> besagter massen <lb/> samt einer Muscaten= <objectName ref="blumen">Blumen</objectName> <lb/> in einer Flaschen; dann zwing es durch <lb/> wie oben beschrieben. </p>
             </div>
         </body>
     </text>

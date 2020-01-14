@@ -165,9 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm wol zeitige Birn <lb/> butze alles unsauberes und faules darvon <lb/> stoß in einem steinernen Mörsel <lb/> oder andern darzu tauglichen Geschirr <lb/> presse den Safft durch ein star=ckes Tuch <lb/> oder (wann es viel seynd) in einer Preß wol aus <lb/> laß den Safft in eienm verzinnten kupffernen Kessel biß auf halb einsieden <lb/> hebe ihn vom Feuer <lb/> laß ihn abkühlen <lb/> und behalte ihn in Gläsern <lb/> oder reinen Fässern und Geschirren wol vermachter; man kann ihn zu allerhand köstlichen Brühen <lb/> über roth oder schartzes Wildprät gebrauchen <lb/> oder auch zum Gebratnen geben <lb/> er dienet auch vor ein köstliches Getranck.
-
-NB. Es seynd auch Quitten=Schnitz gut in diesen Safft ge=kochter.</p>
+        <p> Nimm wol zeitige Birn <lb/> butze alles unsauberes und faules darvon <lb/> stoß in einem steinernen Mörsel <lb/> oder andern darzu tauglichen <objectName ref="geschirr">Geschirr</objectName> <lb/> <objectName ref="presse">presse</objectName> den Safft durch ein star=ckes <objectName ref="tuch">Tuch</objectName> <lb/> oder ( wann es viel seynd ) in einer Preß wol aus <lb/> laß den Safft in eienm verzinnten kupffernen <objectName ref="kessel">Kessel</objectName> biß auf halb einsieden <lb/> hebe ihn vom <objectName ref="feuer">Feuer</objectName> <lb/> laß ihn abkühlen <lb/> und behalte ihn in Gläsern <lb/> oder reinen Fässern und Geschirren wol vermachter; man kann ihn zu allerhand köstlichen <objectName ref="bruehe">Brühen</objectName> <lb/> über roth oder schartzes Wildprät gebrauchen <lb/> oder auch zum Gebratnen geben <lb/> er dienet auch vor ein köstliches Getranck. NB. Es seynd auch Quitten=Schnitz gut in diesen Safft ge=kochter. </p>
             </div>
         </body>
     </text>

@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAche geriebenes Semmel= oder Weck= Mehl mit Eyern zu einer rechten Dicken an <lb/> streue Muscatblüh <lb/> Saffran <lb/> Pfeffer <lb/> Ingber <lb/> und ein wenig Saltz darein; man kan auch <lb/> nach belieben <lb/> Weinbeerlein <lb/> oder etwas grünes <lb/> als entweder ein gehacktes Petersilien= oder Mayen= Kraut <lb/> darunter rühren <lb/> und wohl lehn anmachen: Darnach laß ein Schmaltz heiß werden <lb/> und leg ein Knötlein nach dem andern darein <lb/> drehe es in der Pfannen herum <lb/> so werden sie rund <lb/> laß aber nicht zu braun werden; dann kan man sie in einer siedenden Fleischbrüh <lb/> oder mit einem Fleisch <lb/> oder auch in einer Erbsen= Brüh <lb/> sieden lassen <lb/> so werden sie groß und gut.</p>
+        <p> MAche geriebenes Semmel= oder Weck= <objectName ref="mehl">Mehl</objectName> mit Eyern zu einer rechten Dicken an <lb/> streue Muscatblüh <lb/> Saffran <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Ingber <lb/> und ein wenig Saltz darein; man kan auch <lb/> nach belieben <lb/> Weinbeerlein <lb/> oder etwas grünes <lb/> als entweder ein gehacktes Petersilien= oder Mayen= <objectName ref="kraut">Kraut</objectName> <lb/> darunter rühren <lb/> und wohl lehn anmachen : Darnach laß ein Schmaltz heiß werden <lb/> und leg ein Knötlein nach dem andern darein <lb/> drehe es in der Pfannen herum <lb/> so werden sie rund <lb/> laß aber nicht zu braun werden; dann kan man sie in einer siedenden Fleischbrüh <lb/> oder mit einem <objectName ref="fleisch">Fleisch</objectName> <lb/> oder auch in einer Erbsen= Brüh <lb/> sieden lassen <lb/> so werden sie groß und gut. </p>
             </div>
         </body>
     </text>

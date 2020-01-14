@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein süsse milch, schlag 2. aÿr dran, thue ein schmalz in ein <lb/> Reindl, laß nit haiß Werden, thue ain milch vnd aÿr drein, <lb/> laß ein wenig Sieden, schneid ein Sembl khlein, rührs drunder, <lb/> laß also auf ein glietl ein wenig stehn. <lb/></p>
+        <p> Nimb ein süsse <objectName ref="milch">milch</objectName>, schlag 2. aÿr dran, thue ein <objectName ref="schmalz">schmalz</objectName> in ein <lb/> Reindl, laß nit haiß Werden, thue ain <objectName ref="milch">milch</objectName> vnd aÿr drein, <lb/> laß ein wenig Sieden, schneid ein Sembl khlein, rührs drunder, <lb/> laß also auf ein glietl ein wenig stehn. <lb/> </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) das gesotten Küheuter <lb/> treib ein Pasteten auff von weissem Teig <lb/> schneidt das Euter darein <lb/> es sey breit oder Wirfflicht <lb/> thu frische Butter <lb/> die vngeschmältzt ist <lb/> oder gehackten Speck <lb/> darüber <lb/> auch Ingwer vnd Saltz <lb/> machs vnd backs <lb/> vnd wenn du es wilt auffschneiden vnd anrichten <lb/> so geuß ein saur Brüh <lb/> die von Eyerdottern gemacht ist <lb/> darüber <lb/> so wirt es gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) das gesotten Küheuter <lb/> treib ein <objectName ref="pastete">Pasteten</objectName> auff von weissem <objectName ref="teig">Teig</objectName> <lb/> schneidt das <objectName ref="euter">Euter</objectName> darein <lb/> es sey breit oder Wirfflicht <lb/> thu frische <objectName ref="butter">Butter</objectName> <lb/> die vngeschmältzt ist <lb/> oder gehackten <objectName ref="speck">Speck</objectName> <lb/> darüber <lb/> auch <objectName ref="ingwer">Ingwer</objectName> vnd Saltz <lb/> machs vnd backs <lb/> vnd wenn du es wilt auffschneiden vnd anrichten <lb/> so geuß ein saur Brüh <lb/> die von Eyerdottern gemacht ist <lb/> darüber <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

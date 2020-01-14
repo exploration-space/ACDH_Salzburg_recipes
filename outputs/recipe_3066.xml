@@ -174,9 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn das Kraut sauber geklaubt und gewaschen ist <lb/> so wird es in einer weiten Pfannen oder Rein gleich also auf der Glut herab gedämpfft <lb/> oder geröst <lb/> auch offt umgerührt <lb/> biß er Wasser gibt <lb/> und weich wird <lb/> dann wird das Wasser darvon gesiehen <lb/> der Spenat aber mit Pfeffer und Muscatnuß <lb/> Knoblauch <lb/> kleinen Weinbeerlein <lb/> auch Butter <lb/> oder Oel <lb/> und geriebnen Parmesan- Käß wol gemacht <lb/> und warm gegeben <lb/> dem es beliebt <lb/> der nimmt auch ein wenig Zimmet und Näglein darzu.
-
-NB. Spenat= Strudel= und dergleichen Kräpfflein <lb/> seynd bey der Meel= Speiß angezeigt. Dito <lb/> dergleichen Knödlein und Würstlein.</p>
+        <p> WAnn das <objectName ref="kraut">Kraut</objectName> sauber geklaubt und gewaschen ist <lb/> so wird es in einer weiten Pfannen oder <objectName ref="rein">Rein</objectName> gleich also auf der <objectName ref="glut">Glut</objectName> herab gedämpfft <lb/> oder geröst <lb/> auch offt umgerührt <lb/> biß er <objectName ref="wasser">Wasser</objectName> gibt <lb/> und weich wird <lb/> dann wird das <objectName ref="wasser">Wasser</objectName> darvon gesiehen <lb/> der Spenat aber mit <objectName ref="pfeffer">Pfeffer</objectName> und Muscatnuß <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> kleinen Weinbeerlein <lb/> auch <objectName ref="butter">Butter</objectName> <lb/> oder Oel <lb/> und geriebnen Parmesan- Käß wol gemacht <lb/> und warm gegeben <lb/> dem es beliebt <lb/> der nimmt auch ein wenig Zimmet und Näglein darzu. NB. Spenat= Strudel= und dergleichen Kräpfflein <lb/> seynd bey der Meel= Speiß angezeigt. Dito <lb/> dergleichen Knödlein und Würstlein. </p>
             </div>
         </body>
     </text>

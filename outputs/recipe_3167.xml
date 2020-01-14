@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm von einem grossen Hecht das beste Stuck <lb/> ziehe die Haut ab <lb/> und schneide das Fleisch zu dünnen und etwas langen Flecklein <lb/> klopffe sie mit dem Messer ; dann saltze <lb/> gewürtze und lege sie auf ein Bret <lb/> belege sie übersich auch mit gutem von disem Fisch gemachten Gehäck <lb/> rolle sie zusammen <lb/> stecke sie an Bratspiß <lb/> und brats <lb/> oder besser im Ofen <lb/> in einem mit Butter bestrichenen Geschirr <lb/> mit zerlassenem Butter begossen <lb/> und mit angemachten Semmel= Brosen bestreuter.</p>
+        <p> NImm von einem grossen <objectName ref="hecht">Hecht</objectName> das beste Stuck <lb/> ziehe die Haut ab <lb/> und schneide das <objectName ref="fleisch">Fleisch</objectName> zu dünnen und etwas langen Flecklein <lb/> klopffe sie mit dem <objectName ref="messer">Messer</objectName>; dann saltze <lb/> gewürtze und lege sie auf ein Bret <lb/> belege sie übersich auch mit gutem von disem <objectName ref="fisch">Fisch</objectName> gemachten <objectName ref="gehaeck">Gehäck</objectName> <lb/> rolle sie zusammen <lb/> stecke sie an Bratspiß <lb/> und brats <lb/> oder besser im <objectName ref="ofen">Ofen</objectName> <lb/> in einem mit <objectName ref="butter">Butter</objectName> bestrichenen <objectName ref="geschirr">Geschirr</objectName> <lb/> mit zerlassenem <objectName ref="butter">Butter</objectName> begossen <lb/> und mit angemachten Semmel= Brosen bestreuter. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim zu einem viertheil Wein ein ächtmaß Honig <lb/> seudt das Honig mit einer halben Maß Wein <lb/> vnd schäume es wol <lb/> vnd thu es denn in einen andern Wein <lb/> vnd nim ein Lot Negelein <lb/> vnd ein Lot Parißkörner <lb/> vn zwey Lot Zimmetrinden <lb/> vnd ein Lot Spicanardus <lb/> vnnd ein Lot Ingwer <lb/> vnnd stoß es klein <lb/> vnd thu sie in den Wein <lb/> vnd laß es stehen drey stundt <lb/> vn geuß es denn auff den Sack <lb/> so hastu ein guten Claret.</p>
+        <p> Nim zu einem viertheil <objectName ref="wein">Wein</objectName> ein ächtmaß <objectName ref="honig">Honig</objectName> <lb/> seudt das <objectName ref="honig">Honig</objectName> mit einer halben <objectName ref="mass">Maß</objectName> <objectName ref="wein">Wein</objectName> <lb/> vnd schäume es wol <lb/> vnd thu es denn in einen andern <objectName ref="wein">Wein</objectName> <lb/> vnd nim ein Lot Negelein <lb/> vnd ein Lot Parißkörner <lb/> vn zwey Lot Zimmetrinden <lb/> vnd ein Lot Spicanardus <lb/> vnnd ein Lot <objectName ref="ingwer">Ingwer</objectName> <lb/> vnnd stoß es klein <lb/> vnd thu sie in den <objectName ref="wein">Wein</objectName> <lb/> vnd laß es stehen drey stundt <lb/> vn geuß es denn auff den <objectName ref="sack">Sack</objectName> <lb/> so hastu ein guten Claret. </p>
             </div>
         </body>
     </text>

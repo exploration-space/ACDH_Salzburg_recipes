@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Item <lb/> wenn der Most in dem geren ist <lb/> als wenn er begindt abzunemmen <lb/> vnnd doch von dem geren noch warm ist <lb/> so geuß Most darein <lb/> der erst von der Kelter oder Trotten kompt <lb/> vnd darzu gestossen Weinstein nach deinem bedüncken <lb/> vnd laß die vntereinander geren <lb/> wen sich das gesetzt <lb/> so thu jm aber also <lb/> vnd das thu viermal <lb/> vnd laß das Faß nicht vbergehn von dem geren <lb/> so wirt der Wein gut vnd starck <lb/> darzu süß nd dauwig.</p>
+        <p> Item <lb/> wenn der <objectName ref="most">Most</objectName> in dem geren ist <lb/> als wenn er begindt abzunemmen <lb/> vnnd doch von dem geren noch warm ist <lb/> so geuß <objectName ref="most">Most</objectName> darein <lb/> der erst von der <objectName ref="kelter">Kelter</objectName> oder Trotten kompt <lb/> vnd darzu gestossen <objectName ref="weinstein">Weinstein</objectName> nach deinem bedüncken <lb/> vnd laß die vntereinander geren <lb/> wen sich das gesetzt <lb/> so thu jm aber also <lb/> vnd das thu viermal <lb/> vnd laß das Faß nicht vbergehn von dem geren <lb/> so wirt der <objectName ref="wein">Wein</objectName> gut vnd starck <lb/> darzu süß nd dauwig. </p>
             </div>
         </body>
     </text>

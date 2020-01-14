@@ -174,9 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn soll das Brät sammt der Faisten vom Fisch <lb/> oder Butter <lb/> klein hacken <lb/> sammt einer in obere Milch <lb/> oder Erbes= Suppen geweichten Semmel <lb/> und zwey oder mehr Eyer daran schlagen <lb/> Pfeffer <lb/> Imber <lb/> und Muscat= Blühe darzu thun <lb/> Knödel daraus machen <lb/> und in ein Erbes= Suppen eintragen <lb/> man kan auch in die Suppen ein Stuck Butter legen <lb/> aber man soll ein gute süsse Fisch= Suppen darüber giessen.
-
-NB. Man kans auch in Schmaltz bachen; Item <lb/> man kans von allen andern Fischen machen <lb/> die kälbernen Knödel macht man eben also <lb/> wann mans bacht <lb/> macht man ein Weixel= Pfeffer darunter <lb/> und stupffts mit Zimmet <lb/> Zucker und Pfeffer.</p>
+        <p> MAn soll das Brät sammt der Faisten vom <objectName ref="fisch">Fisch</objectName> <lb/> oder <objectName ref="butter">Butter</objectName> <lb/> klein hacken <lb/> sammt einer in obere <objectName ref="milch">Milch</objectName> <lb/> oder Erbes= <objectName ref="suppe">Suppen</objectName> geweichten Semmel <lb/> und zwey oder mehr Eyer daran schlagen <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> und Muscat= Blühe darzu thun <lb/> <objectName ref="knoedel">Knödel</objectName> daraus machen <lb/> und in ein Erbes= <objectName ref="suppe">Suppen</objectName> eintragen <lb/> man kan auch in die <objectName ref="suppe">Suppen</objectName> ein Stuck <objectName ref="butter">Butter</objectName> legen <lb/> aber man soll ein gute süsse Fisch= <objectName ref="suppe">Suppen</objectName> darüber giessen. NB. Man kans auch in Schmaltz bachen; Item <lb/> man kans von allen andern Fischen machen <lb/> die kälbernen <objectName ref="knoedel">Knödel</objectName> macht man eben also <lb/> wann mans bacht <lb/> macht man ein Weixel= <objectName ref="pfeffer">Pfeffer</objectName> darunter <lb/> und stupffts mit Zimmet <lb/> <objectName ref="zucker">Zucker</objectName> und <objectName ref="pfeffer">Pfeffer</objectName>. </p>
             </div>
         </body>
     </text>

@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Quitten werden zu dinnen Schnitten <lb/> und das steinigte heraus geschnitten ; streichet eine süsse Füll von Mandeln darauf <lb/> wie selbige Num. 170. bey denen Birnschnitten beschrieben worden ; ziehet sie durch besagten Teig <lb/> und bachets langsam aus Schmaltz heraus <lb/> biß die Quitten weich werden <lb/> stosset sie hernach wieder in den Teig <lb/> und bachets noch einmal <lb/> wie gedacht.</p>
+        <p> DIe <objectName ref="quitten">Quitten</objectName> werden zu dinnen Schnitten <lb/> und das steinigte heraus geschnitten; streichet eine süsse Füll von <objectName ref="mandeln">Mandeln</objectName> darauf <lb/> wie selbige Num. 170. bey denen Birnschnitten beschrieben worden; ziehet sie durch besagten <objectName ref="teig">Teig</objectName> <lb/> und bachets langsam aus Schmaltz heraus <lb/> biß die <objectName ref="quitten">Quitten</objectName> weich werden <lb/> stosset sie hernach wieder in den <objectName ref="teig">Teig</objectName> <lb/> und bachets noch einmal <lb/> wie gedacht. </p>
             </div>
         </body>
     </text>

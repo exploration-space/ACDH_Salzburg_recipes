@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mach also, das kopfstukh ganz, das schwaifstukh auch ganz, <lb/> darnach seud den fisch schen blab, mach die Sulzen drüber, <lb/> nimb Wein vnd Arbesbrüe, seud die hausenblater in <lb/> der brüe, vnd treibs durch ein sibl, nimb Imber vnd <lb/> Pfefferstup, Mußcatblüe vnd Zukher, gilbs gar schen, <lb/> laß durcheinander sieden, seichs durch ein Wulens säkhl <lb/> in ein schißl an den fisch, sez es in ein khalten kheller, <lb/> so Wird es gstehn, alßdan gibs, ist bereith. <lb/></p>
+        <p> Mach also, das kopfstukh ganz, das schwaifstukh auch ganz, <lb/> darnach seud den <objectName ref="fisch">fisch</objectName> schen blab, mach die Sulzen drüber, <lb/> nimb <objectName ref="wein">Wein</objectName> vnd Arbesbrüe, seud die hausenblater in <lb/> der brüe, vnd treibs durch ein sibl, nimb Imber vnd <lb/> Pfefferstup, Mußcatblüe vnd Zukher, gilbs gar schen, <lb/> laß durcheinander sieden, seichs durch ein Wulens säkhl <lb/> in ein schißl an den <objectName ref="fisch">fisch</objectName>, sez es in ein khalten kheller, <lb/> so Wird es gstehn, alßdan gibs, ist bereith. <lb/> </p>
             </div>
         </body>
     </text>

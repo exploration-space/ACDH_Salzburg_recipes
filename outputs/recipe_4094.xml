@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm schönes Meel <lb/> schlag Eyer daran und Saltz <lb/> schlags wol ab <lb/> daß ein dünnes Taiglein wird <lb/> laß durch ein Faum= Löffel oder sonst ganst subtil und langsam in eine klare siedige Fleischbrühe in den Sud einlauffen <lb/> gib acht daß es sich untersich nit anbrennt <lb/> gewürtz mit wenig Muscatnuß <lb/> ein wenig frischen Butter und Saffran <lb/> ist fertig.</p>
+        <p> NImm schönes Meel <lb/> schlag Eyer daran und Saltz <lb/> schlags wol ab <lb/> daß ein dünnes Taiglein wird <lb/> laß durch ein Faum= <objectName ref="loeffel">Löffel</objectName> oder sonst ganst subtil und langsam in eine klare siedige <objectName ref="fleischbruehe">Fleischbrühe</objectName> in den Sud einlauffen <lb/> gib acht daß es sich untersich nit anbrennt <lb/> gewürtz mit wenig Muscatnuß <lb/> ein wenig frischen <objectName ref="butter">Butter</objectName> und Saffran <lb/> ist fertig. </p>
             </div>
         </body>
     </text>

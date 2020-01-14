@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>STechet von Parstörffer= oder Herrn= Aepffeln die Butzen heraus <lb/> und leget sie also ungeschählt in einen stollichten Hafen; giesset Wein und ein wenig Wasser daran <lb/> zuckerts <lb/> und lassets dünsten biß sie weich werden: Oder aber schählet sie <lb/> holet den Butzen heraus; bachets im Schmaltz <lb/> und macht alsdann eine süsse Brüh darüber.</p>
+        <p> STechet von Parstörffer= oder Herrn= Aepffeln die Butzen heraus <lb/> und leget sie also ungeschählt in einen stollichten <objectName ref="hafen">Hafen</objectName>; giesset <objectName ref="wein">Wein</objectName> und ein wenig <objectName ref="wasser">Wasser</objectName> daran <lb/> zuckerts <lb/> und lassets dünsten biß sie weich werden : Oder aber schählet sie <lb/> holet den Butzen heraus; bachets im Schmaltz <lb/> und macht alsdann eine süsse Brüh darüber. </p>
             </div>
         </body>
     </text>

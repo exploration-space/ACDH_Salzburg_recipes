@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZIehe von der Scorzonera die schwartze Schelffen herab <lb/> und laß die geschählte Wurtzeln eine gute Weil im Wasser ligen; wasche sie sauber <lb/> schneids klein <lb/> laß eine Fleischbrüh siedend werden <lb/> und thu ein Theil von der geschnittenen Wurtzel <lb/> samt einem Stücklein von weiß= gebähten Brod darein : nachdem es nun weich gesotten <lb/> so zwing es durch einen Seiher oder Durchschlag <lb/> und laß wieder sieden; würtze es mit guter Gewürtz <lb/> und thue die übrig= geschnittene ungesottene Scorzonera= Wurtzeln hinein : wann nun diese weich gesotten <lb/> lege zuletzt ein Stück Butter darein <lb/> und richts dann über weiß= gebähtes klein zerbrocktes Brod an.</p>
+        <p> ZIehe von der Scorzonera die schwartze Schelffen herab <lb/> und laß die geschählte Wurtzeln eine gute Weil im <objectName ref="wasser">Wasser</objectName> ligen; wasche sie sauber <lb/> schneids klein <lb/> laß eine Fleischbrüh siedend werden <lb/> und thu ein Theil von der geschnittenen Wurtzel <lb/> samt einem Stücklein von weiß= gebähten Brod darein : nachdem es nun weich gesotten <lb/> so zwing es durch einen <objectName ref="seiher">Seiher</objectName> oder <objectName ref="durchschlag">Durchschlag</objectName> <lb/> und laß wieder sieden; würtze es mit guter Gewürtz <lb/> und thue die übrig= geschnittene ungesottene Scorzonera= Wurtzeln hinein : wann nun diese weich gesotten <lb/> lege zuletzt ein Stück <objectName ref="butter">Butter</objectName> darein <lb/> und richts dann über weiß= gebähtes klein zerbrocktes Brod an. </p>
             </div>
         </body>
     </text>

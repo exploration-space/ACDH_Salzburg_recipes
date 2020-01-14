@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Weiß von <lb/> Ayrn, vnnd ain guets Semel Meell, treibs woll <lb/> ab, salz recht zue, Seichs durch ain tuech, od(er) durch <lb/> ain fämblöfel ins schmalz, Khers mit hilzen löfl <lb/> umb, vnnd bachs fein Weiß. <lb/></p>
+        <p> Nimb Weiß von <lb/> Ayrn, vnnd ain guets Semel Meell, treibs woll <lb/> ab, <objectName ref="salz">salz</objectName> recht zue, Seichs durch ain tuech, od ( er ) durch <lb/> ain fämblöfel ins <objectName ref="schmalz">schmalz</objectName>, Khers mit hilzen löfl <lb/> umb, vnnd bachs fein Weiß. <lb/> </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Man soll etliche säuerlichte Aepffel braten <lb/> das Weiche darvon abschneiden <lb/> darunter solle man thun eine Handvoll klein geschnittne Mandel und Semmel=Schmollen <lb/> die in guter Milch geweicht ist <lb/> alles durch einander stossen <lb/> daß es glatt wird <lb/> Zucker und Zimmet darein <lb/> ein wenig Schmaltz in ein Reindel lassen warm werden <lb/> den Zeug darein schütten <lb/> unten und oben Glut geben <lb/> so laufft es auf.</p>
+        <p> Man soll etliche säuerlichte Aepffel braten <lb/> das Weiche darvon abschneiden <lb/> darunter solle man thun eine Handvoll klein geschnittne Mandel und Semmel=Schmollen <lb/> die in guter <objectName ref="milch">Milch</objectName> geweicht ist <lb/> alles durch einander stossen <lb/> daß es glatt wird <lb/> <objectName ref="zucker">Zucker</objectName> und Zimmet darein <lb/> ein wenig Schmaltz in ein Reindel lassen warm werden <lb/> den Zeug darein schütten <lb/> unten und oben <objectName ref="glut">Glut</objectName> geben <lb/> so laufft es auf. </p>
             </div>
         </body>
     </text>

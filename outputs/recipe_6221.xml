@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Auch Würst gemacht von der Gänßleber <lb/> wie vorhin vermeldt ist von andern Lebern zu machen. Auch Priseindel in ein Pasteten eyn zu machen.</p>
+        <p> Auch Würst gemacht von der Gänßleber <lb/> wie vorhin vermeldt ist von andern <objectName ref="leber">Lebern</objectName> zu machen. Auch Priseindel in ein <objectName ref="pastete">Pasteten</objectName> eyn zu machen. </p>
             </div>
         </body>
     </text>

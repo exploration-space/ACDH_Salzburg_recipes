@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mach ein Teig an mit lauter Eyern oder Milch <lb/> die süß ist <lb/> nim(m) Holderblüt mit dem Stengel <lb/> vnnd wasch fein sauber auß reinem Wasser <lb/> schwings wol auß <lb/> daß kein Wasser daran hangt <lb/> stoß in Teig <lb/> vnd laß jhn wol herab rinnen <lb/> stoß darnach in heisse Butter <lb/> vnnd rürs auff vnd nider <lb/> so gibt es sich voneinander <lb/> vnd bäckt durchauß wol <lb/> gibs warm auff einen Tisch <lb/> vnd besträw es mit weissem Zucker.</p>
+        <p> Mach ein <objectName ref="teig">Teig</objectName> an mit lauter Eyern oder <objectName ref="milch">Milch</objectName> <lb/> die süß ist <lb/> nim ( m ) Holderblüt mit dem Stengel <lb/> vnnd wasch fein sauber auß reinem <objectName ref="wasser">Wasser</objectName> <lb/> schwings wol auß <lb/> daß kein <objectName ref="wasser">Wasser</objectName> daran hangt <lb/> stoß in <objectName ref="teig">Teig</objectName> <lb/> vnd laß jhn wol herab rinnen <lb/> stoß darnach in heisse <objectName ref="butter">Butter</objectName> <lb/> vnnd rürs auff vnd nider <lb/> so gibt es sich voneinander <lb/> vnd bäckt durchauß wol <lb/> gibs warm auff einen <objectName ref="tisch">Tisch</objectName> <lb/> vnd besträw es mit weissem <objectName ref="zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

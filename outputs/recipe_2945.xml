@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SCheele und schneide sie zu Spalter <lb/> wirff das Weiche heraus und hinweg <lb/> mach Stücklein nach Belieben <lb/> saltze und meelbe sie ein <lb/> und bachs schön gelb aus heissem Schmaltz <lb/> legs in ein erdene Rein <lb/> oder gleich in die Schüssel mit wenig Pfeffer und Muscatnuß <lb/> und so es beliebt auch klein= gehackten Petersil <lb/> gieß gute braune Jus daran <lb/> laß damit aufsieden <lb/> und gibs <lb/> aber gib acht <lb/> daß sie nicht zu fett werden.</p>
+        <p> SCheele und schneide sie zu Spalter <lb/> wirff das Weiche heraus und hinweg <lb/> mach Stücklein nach Belieben <lb/> saltze und meelbe sie ein <lb/> und bachs schön gelb aus heissem Schmaltz <lb/> legs in ein erdene <objectName ref="rein">Rein</objectName> <lb/> oder gleich in die <objectName ref="schuessel">Schüssel</objectName> mit wenig <objectName ref="pfeffer">Pfeffer</objectName> und Muscatnuß <lb/> und so es beliebt auch klein= gehackten Petersil <lb/> gieß gute braune <objectName ref="jus">Jus</objectName> daran <lb/> laß damit aufsieden <lb/> und gibs <lb/> aber gib acht <lb/> daß sie nicht zu <objectName ref="fett">fett</objectName> werden. </p>
             </div>
         </body>
     </text>

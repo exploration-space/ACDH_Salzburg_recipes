@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>RUben nach Belieben geschnitten <lb/> seynd gut gesotten <lb/> mit wenig Pfeffer <lb/> Zwibel und Ram weiß= gelb eingebrennt <lb/> und mit kurtzer Brühe also weich und fertig gemacht.</p>
+        <p> RUben nach Belieben geschnitten <lb/> seynd gut gesotten <lb/> mit wenig <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Zwibel und Ram weiß= gelb eingebrennt <lb/> und mit kurtzer <objectName ref="bruehe">Brühe</objectName> also weich und fertig gemacht. </p>
             </div>
         </body>
     </text>

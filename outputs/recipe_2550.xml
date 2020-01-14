@@ -167,9 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>THut schöne frische Holbeere <lb/> die nicht zu weich sind <lb/> in ein Glas <lb/> giesst einen guten Wein= Essig daran <lb/> und last ihn in der Sonnen destillirn. <gap/>
-
-<gap/> Man kan auch diesen Essig mit Gewürtz anstellen <lb/> wie solcher bey dem Rosen= Essig bereits beschrieben ist.</p>
+        <p> THut schöne frische Holbeere <lb/> die nicht zu weich sind <lb/> in ein <objectName ref="glas">Glas</objectName> <lb/> giesst einen guten Wein= <objectName ref="essig">Essig</objectName> daran <lb/> und last ihn in der Sonnen destillirn. <gap/> <gap/> Man kan auch diesen <objectName ref="essig">Essig</objectName> mit Gewürtz anstellen <lb/> wie solcher bey dem Rosen= <objectName ref="essig">Essig</objectName> bereits beschrieben ist. </p>
             </div>
         </body>
     </text>

@@ -175,9 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>PLateis so gewässert <lb/> und wieder getrücknet sind <lb/> werden durch zerlassenen Butter gezogen <lb/> geschwind mit Gewürtz <lb/> Saltz <lb/> und angemachten Semmel= Brosen bestreut <lb/> und auf dem heiß= gemachten Rost schnell hinweg gebraten <lb/> und also warm <lb/> mit braunem Butter <lb/> oder heissen Oel begossen <lb/> zur Tafel gegeben.
-
-NB. Man kan die Plateis also in einer kupffernen <lb/> und wol= verzinnten Schüssel <lb/> oder Multer <lb/> im Ofen <lb/> oder auf der Glut braten <lb/> aber wol Butter <lb/> oder Oel darzu nehmen.</p>
+        <p> PLateis so gewässert <lb/> und wieder getrücknet sind <lb/> werden durch zerlassenen <objectName ref="butter">Butter</objectName> gezogen <lb/> geschwind mit Gewürtz <lb/> Saltz <lb/> und angemachten Semmel= Brosen bestreut <lb/> und auf dem heiß= gemachten <objectName ref="rost">Rost</objectName> schnell hinweg gebraten <lb/> und also warm <lb/> mit braunem <objectName ref="butter">Butter</objectName> <lb/> oder heissen Oel begossen <lb/> zur Tafel gegeben. NB. Man kan die Plateis also in einer kupffernen <lb/> und wol= verzinnten <objectName ref="schuessel">Schüssel</objectName> <lb/> oder <objectName ref="multer">Multer</objectName> <lb/> im <objectName ref="ofen">Ofen</objectName> <lb/> oder auf der <objectName ref="glut">Glut</objectName> braten <lb/> aber wol <objectName ref="butter">Butter</objectName> <lb/> oder Oel darzu nehmen. </p>
             </div>
         </body>
     </text>

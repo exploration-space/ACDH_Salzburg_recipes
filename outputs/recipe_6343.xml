@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Eyer <lb/> die hart gesotten <lb/> vnnd sauber geschelt seyn <lb/> schneidt sie viertel weiß <lb/> oder rundt vndd dünn. Nim(m) Butter in ein Pfannen <lb/> mach sie heiß <lb/> vnd wirff die harten Eyer darein <lb/> rößt si wol in der Butter <lb/> vnd versaltz sie nicht <lb/> thu sauren Senff <lb/> der mit Essig angemacht ist darein <lb/> wirffs zwey oder dreymal mit dem Senff vmb in der Pfannen <lb/> gibs warm auff ein Tisch <lb/> so ist es gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) Eyer <lb/> die hart gesotten <lb/> vnnd sauber geschelt seyn <lb/> schneidt sie viertel weiß <lb/> oder rundt vndd dünn. Nim ( m ) <objectName ref="butter">Butter</objectName> in ein Pfannen <lb/> mach sie heiß <lb/> vnd wirff die harten Eyer darein <lb/> rößt si wol in der <objectName ref="butter">Butter</objectName> <lb/> vnd versaltz sie nicht <lb/> thu sauren Senff <lb/> der mit <objectName ref="essig">Essig</objectName> angemacht ist darein <lb/> wirffs zwey oder dreymal mit dem Senff vmb in der Pfannen <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

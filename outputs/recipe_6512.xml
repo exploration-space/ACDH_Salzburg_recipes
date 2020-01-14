@@ -179,7 +179,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DAs Fleischlein wird gehackt <lb/> gewaschen <lb/> und in allweg zugesetzt <lb/> gleich dem hier vorbeschriebenen Zwibel=Fleischlein <lb/> verfäumt <lb/> eingebrennt <lb/> gewürtzt <lb/> und gesotten <lb/> allein der Geschmack <lb/> wird an statt der Zwibel bey dem Petersil=Fleischlein <lb/> von Petersil=Wurtzeln und Kräutlein <lb/> oder andern zuvor benandten Garten=Sachen gemischt und gegeben <lb/> mit kurtzer Brühe <lb/> und nicht versotten <lb/> es kan und muß der Wein und Eßig bey den mehristen Garten=Sachen ausgelassen werden.</p>
+        <p> DAs Fleischlein wird gehackt <lb/> gewaschen <lb/> und in allweg zugesetzt <lb/> gleich dem hier vorbeschriebenen Zwibel=Fleischlein <lb/> verfäumt <lb/> eingebrennt <lb/> gewürtzt <lb/> und gesotten <lb/> allein der Geschmack <lb/> wird an statt der Zwibel bey dem Petersil=Fleischlein <lb/> von Petersil=Wurtzeln und Kräutlein <lb/> oder andern zuvor benandten Garten=Sachen gemischt und gegeben <lb/> mit kurtzer <objectName ref="bruehe">Brühe</objectName> <lb/> und nicht versotten <lb/> es kan und muß der <objectName ref="wein">Wein</objectName> und Eßig bey den mehristen Garten=Sachen ausgelassen werden. </p>
             </div>
         </body>
     </text>

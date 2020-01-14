@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneidet von nicht völlig aufgegangenen Rosen <lb/> das auswendige grüne samt dem einwendigen gelben Saamen heraus : Machet einen Teig mit Wein und Zucker <lb/> so dick als einen Strauben= Teig <lb/> an <lb/> gilbet ihn ein wenig <lb/> stosset die Rosen darein <lb/> haltets oben bey dem Stiel in ein heisses Schmaltz <lb/> schüttelt und rüttelt sie <lb/> so lauffen sie desto schöner und besser auf.</p>
+        <p> SChneidet von nicht völlig aufgegangenen <objectName ref="rosen">Rosen</objectName> <lb/> das auswendige grüne samt dem einwendigen gelben Saamen heraus : Machet einen <objectName ref="teig">Teig</objectName> mit <objectName ref="wein">Wein</objectName> und <objectName ref="zucker">Zucker</objectName> <lb/> so dick als einen Strauben= <objectName ref="teig">Teig</objectName> <lb/> an <lb/> gilbet ihn ein wenig <lb/> stosset die <objectName ref="rosen">Rosen</objectName> darein <lb/> haltets oben bey dem Stiel in ein heisses Schmaltz <lb/> schüttelt und rüttelt sie <lb/> so lauffen sie desto schöner und besser auf. </p>
             </div>
         </body>
     </text>

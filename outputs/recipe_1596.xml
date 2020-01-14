@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ain wennig wein, vnd schmalz <lb/> in ain Pfannen, vnd Seichs durch, thues Meell <lb/> ins wasser, vnd Pürsch solang biß hört wierdt, <lb/> Nimbs in ainen Mörßer, zerstosß, d(a)s gleich zaich <lb/> wierdt, Nimb Salz mit .10: Ayrn, stosß woll <lb/> ab, wans genueg ist, so treibs durch die Puter= <lb/> =.spriß in d(a)s Schmalz, (18v)</p>
+        <p> Nimb ain wennig <objectName ref="wein">wein</objectName>, vnd <objectName ref="schmalz">schmalz</objectName> <lb/> in ain Pfannen, vnd Seichs durch, thues Meell <lb/> ins <objectName ref="wasser">wasser</objectName>, vnd Pürsch solang biß hört wierdt, <lb/> Nimbs in ainen Mörßer, zerstosß, d ( a ) s gleich zaich <lb/> wierdt, Nimb <objectName ref="salz">Salz</objectName> mit.10 : Ayrn, stosß woll <lb/> ab, wans genueg ist, so treibs durch die Puter= <lb/> =.spriß in d ( a ) s <objectName ref="schmalz">Schmalz</objectName>, ( 18v ) </p>
             </div>
         </body>
     </text>

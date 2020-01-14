@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Eyngedämpfft mit Wacholderbeer vnd Zwibeln <lb/> fein säurlich <lb/> vnd ein wenig Saffran vnd gestossen Pfeffer darvnter <lb/> so wirdt es gut vnd wolgeschmack.</p>
+        <p> Eyngedämpfft mit Wacholderbeer vnd Zwibeln <lb/> fein säurlich <lb/> vnd ein wenig Saffran vnd gestossen <objectName ref="pfeffer">Pfeffer</objectName> darvnter <lb/> so wirdt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

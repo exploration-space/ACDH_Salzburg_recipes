@@ -181,7 +181,7 @@ Von den Mengenangaben her ist davon auszugehen, dass eine große Stückzahl prod
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb .3. mäßl Meell des gueten, für .5. groschn <lb/> Semellschmollen, vnd in gueter Millich einge= <lb/> =waikht, vnd darnach auß gedrukht, Item .5. lb: <lb/> Spöckh, vnd d(a)s fleisch klainner bißl gleich ge= <lb/> =schniten, vnd nimb .32. ayr mit der Clar <lb/> darzue, vnd grieß<gap/> vnd Kreitl, nach geniegen, <lb/><lb/> (48v) vnd Maran, vnd Salue, Iungen zwifel, schnit= <lb/> =lach, vnd dergleichen, alles durcheinannder <lb/> vermischt, mit warmen Wasser, darunter <lb/> schmalz zerlassen, vnd angemacht den Taig. <lb/></p>
+        <p> Nimb.3. mäßl Meell des gueten, für.5. groschn <lb/> Semellschmollen, vnd in gueter Millich einge= <lb/> =waikht, vnd darnach auß gedrukht, Item.5. lb : <lb/> Spöckh, vnd d ( a ) s <objectName ref="fleisch">fleisch</objectName> klainner bißl gleich ge= <lb/> =schniten, vnd nimb.32. ayr mit der Clar <lb/> darzue, vnd grieß<gap/> vnd Kreitl, nach geniegen, <lb/><lb/> ( 48v ) vnd Maran, vnd Salue, Iungen zwifel, schnit= <lb/> =lach, vnd dergleichen, alles durcheinannder <lb/> vermischt, mit warmen <objectName ref="wasser">Wasser</objectName>, darunter <lb/> <objectName ref="schmalz">schmalz</objectName> zerlassen, vnd angemacht den Taig. <lb/> </p>
             </div>
         </body>
     </text>

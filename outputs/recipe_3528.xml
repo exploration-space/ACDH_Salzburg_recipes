@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Krebs= Butter zum Eingerührten <lb/> mit abgeschlagenen Eyern <lb/> Milch <lb/> Gewürtz <lb/> Saltz und Kräutlein <lb/> ist schön und gut; wie bey den Dorten mehr gezeiget worden.</p>
+        <p> DEr Krebs= <objectName ref="butter">Butter</objectName> zum Eingerührten <lb/> mit abgeschlagenen Eyern <lb/> <objectName ref="milch">Milch</objectName> <lb/> Gewürtz <lb/> Saltz und Kräutlein <lb/> ist schön und gut; wie bey den Dorten mehr gezeiget worden. </p>
             </div>
         </body>
     </text>

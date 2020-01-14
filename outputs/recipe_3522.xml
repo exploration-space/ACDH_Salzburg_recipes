@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>KRebs= Pupedon, Knödlein und andern dergleichen Gehäck <lb/> seynd auch bey der Krebs= Suppen <lb/> und andern Füllwerck vielfältig zu sehen und zu lesen.</p>
+        <p> KRebs= Pupedon, Knödlein und andern dergleichen <objectName ref="gehaeck">Gehäck</objectName> <lb/> seynd auch bey der Krebs= <objectName ref="suppe">Suppen</objectName> <lb/> und andern Füllwerck vielfältig zu sehen und zu lesen. </p>
             </div>
         </body>
     </text>

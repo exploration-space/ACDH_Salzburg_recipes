@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb den Raifl, laß ihn Sieden, darnach nimb semblmollen, <lb/> die stükhl drundter, darnach gieß in ein hafen, vnd gilbs, <lb/> Nimb aÿr Wieuill du Wilt, seichs durch ein sib, thues in das mueß, <lb/> laß 2. stundt bachen Sieden, versalzs nit, so ists bereith. <lb/></p>
+        <p> Nimb den Raifl, laß ihn Sieden, darnach nimb semblmollen, <lb/> die stükhl drundter, darnach gieß in ein <objectName ref="hafen">hafen</objectName>, vnd gilbs, <lb/> Nimb aÿr Wieuill du Wilt, seichs durch ein sib, thues in das mueß, <lb/> laß 2. stundt bachen Sieden, versalzs nit, so ists bereith. <lb/> </p>
             </div>
         </body>
     </text>

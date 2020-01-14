@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn nimmt Schwein= Fleisch <lb/> so nicht zu fett <lb/> und hackt es klein <lb/> stoßt es in einem Mörsel wohl <lb/> bestreuet es mit Pfeffer <lb/> Saltz <lb/> Muscatnuß <lb/> und ein wenig Salbey <lb/> und so es beliebt <lb/> auch Knoblauch <lb/> stösset alles wohl durch einander <lb/>und wann es genug ist <lb/> verwahret man es in steinernen Häfen <lb/> so lang <lb/> als man will <lb/> so man darvon speisen will <lb/> so rollet man sie mit saubern Händen <lb/> einem Würstlein gleich <lb/> duncket sie in Eyerdottern <lb/> und röstet sie im Butter ; oder man macht darauß Bratwürst in die Därm <lb/> und bratets <lb/> wie andere Bratwürst.</p>
+        <p> MAn nimmt Schwein= <objectName ref="fleisch">Fleisch</objectName> <lb/> so nicht zu <objectName ref="fett">fett</objectName> <lb/> und hackt es klein <lb/> stoßt es in einem Mörsel wohl <lb/> bestreuet es mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Saltz <lb/> Muscatnuß <lb/> und ein wenig Salbey <lb/> und so es beliebt <lb/> auch <objectName ref="knoblauch">Knoblauch</objectName> <lb/> stösset alles wohl durch einander /und wann es genug ist <lb/> verwahret man es in steinernen Häfen <lb/> so lang <lb/> als man will <lb/> so man darvon speisen will <lb/> so rollet man sie mit saubern Händen <lb/> einem Würstlein gleich <lb/> duncket sie in Eyerdottern <lb/> und röstet sie im <objectName ref="butter">Butter</objectName>; oder man macht darauß Bratwürst in die Därm <lb/> und bratets <lb/> wie andere Bratwürst. </p>
             </div>
         </body>
     </text>

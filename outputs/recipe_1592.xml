@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ½. lb: Mandl, stosß sie Klain, benez Sie <lb/> mit ain frischen wasser, d(a)s Sie nit öllig sein, <lb/> Nimb .1 ½. virling zugger, rier es ab, Nimb <lb/> 8. ganze ayr, schlag ains vmb d(a)s and(er), riers <lb/> ½. stundt, Nimb ½. lb Siessen butter, laß <lb/> in ain wennig zergehen auf Erdenen schißl, vnd <lb/><lb/> (17r)</p>
+        <p> Nimb ½. lb : Mandl, stosß sie Klain, benez Sie <lb/> mit ain frischen <objectName ref="wasser">wasser</objectName>, d ( a ) s Sie nit öllig sein, <lb/> Nimb.1 ½. virling zugger, rier es ab, Nimb <lb/> 8. ganze ayr, schlag ains vmb d ( a ) s and ( er ), riers <lb/> ½. stundt, Nimb ½. lb Siessen <objectName ref="butter">butter</objectName>, laß <lb/> in ain wennig zergehen auf Erdenen schißl, vnd <lb/><lb/> ( 17r ) </p>
             </div>
         </body>
     </text>

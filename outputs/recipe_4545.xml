@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>QUitten und Aepffeln kan man auf eben dergleichen Art in einer Sultzen zubereiten <lb/> wie erst= gedachte Pfersiche; die Aepffel aber muß man zuvor schrauben <lb/> und nur ein wenig in dieser Sultzen aufsieden lassen <lb/> damit sie nicht zu weich werden <lb/> und alsdann die Sultzen ferner verfertigen <lb/> wie oben gedacht.</p>
+        <p> <objectName ref="quitten">QUitten</objectName> und Aepffeln kan man auf eben dergleichen Art in einer Sultzen zubereiten <lb/> wie erst= gedachte Pfersiche; die Aepffel aber muß man zuvor schrauben <lb/> und nur ein wenig in dieser Sultzen aufsieden lassen <lb/> damit sie nicht zu weich werden <lb/> und alsdann die Sultzen ferner verfertigen <lb/> wie oben gedacht. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet ein schönes warmes Mehl <lb/> und Eyer <lb/> so zuvor in einem warmen Wasser gelegen sind <lb/> schlaget sie an das Mehl <lb/> giesset einen Löffel voll Wein daran <lb/> rührets wohl durch einander ; schneidet Aepffel zu viereckichten Stücklein <lb/> legets in den Teig <lb/> rühret sie darinnen herum <lb/> daß der Teig allenthalben klebend bleibet <lb/> doch muß derselbe nicht zu dinn <lb/> auch nicht zu dick seyn ; formiret sie zuvor auf einen Deller <lb/> bachets <lb/> wie die gleich jetzo beschriebene <lb/> langsam heraus <lb/> und streuet <lb/> wann man sie zu Tisch trägt <lb/> Zucker darauf.</p>
+        <p> NEhmet ein schönes warmes <objectName ref="mehl">Mehl</objectName> <lb/> und Eyer <lb/> so zuvor in einem warmen <objectName ref="wasser">Wasser</objectName> gelegen sind <lb/> schlaget sie an das <objectName ref="mehl">Mehl</objectName> <lb/> giesset einen <objectName ref="loeffel">Löffel</objectName> voll <objectName ref="wein">Wein</objectName> daran <lb/> rührets wohl durch einander; schneidet Aepffel zu viereckichten Stücklein <lb/> legets in den <objectName ref="teig">Teig</objectName> <lb/> rühret sie darinnen herum <lb/> daß der <objectName ref="teig">Teig</objectName> allenthalben klebend bleibet <lb/> doch muß derselbe nicht zu dinn <lb/> auch nicht zu dick seyn; formiret sie zuvor auf einen Deller <lb/> bachets <lb/> wie die gleich jetzo beschriebene <lb/> langsam heraus <lb/> und streuet <lb/> wann man sie zu <objectName ref="tisch">Tisch</objectName> trägt <lb/> <objectName ref="zucker">Zucker</objectName> darauf. </p>
             </div>
         </body>
     </text>

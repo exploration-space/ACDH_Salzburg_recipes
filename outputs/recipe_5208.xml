@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIse werden sauber geklaubt <lb/> daß keine Würm darinn verbleiben <lb/> lege wenig Semmel= Brosen in die zubereitete Dorten <lb/> und die Beer (wann sie mit etlich Tropffen Wein angefeucht <lb/> auch wohl Zucker hinein gethan worden ) darüber <lb/> bedecke es mit dem Ausschnitt <lb/> bestreiche es mit Eyren <lb/> und bache es etc.</p>
+        <p> DIse werden sauber geklaubt <lb/> daß keine Würm darinn verbleiben <lb/> lege wenig Semmel= Brosen in die zubereitete Dorten <lb/> und die Beer ( wann sie mit etlich Tropffen <objectName ref="wein">Wein</objectName> angefeucht <lb/> auch wohl <objectName ref="zucker">Zucker</objectName> hinein gethan worden ) darüber <lb/> bedecke es mit dem Ausschnitt <lb/> bestreiche es mit Eyren <lb/> und bache es etc. </p>
             </div>
         </body>
     </text>

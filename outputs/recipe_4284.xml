@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe geschlagene Ripplein <lb/> oder Presolen <lb/> bespreng mit ein wenig Pfeffer und Saltz <lb/> begieß mit Butter <lb/> oder mit Dardoffel= Oel <lb/> dann legs auf einen Rost <lb/> brats schnell hinweg <lb/> und weil sie noch im Saft <lb/> so legs in eine Schüssel <lb/> und gib eine Sardellen= oder Capren= Brühe oder auch von Knoblauch <lb/> mit Zwibel <lb/> Rosmarin <lb/> und Lorbeer= Blättlein <lb/> gleich den Brat= Fischen <lb/> eine Brühe darüber</p>
+        <p> DIe geschlagene Ripplein <lb/> oder Presolen <lb/> bespreng mit ein wenig <objectName ref="pfeffer">Pfeffer</objectName> und Saltz <lb/> begieß mit <objectName ref="butter">Butter</objectName> <lb/> oder mit Dardoffel= Oel <lb/> dann legs auf einen <objectName ref="rost">Rost</objectName> <lb/> brats schnell hinweg <lb/> und weil sie noch im Saft <lb/> so legs in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und gib eine Sardellen= oder Capren= <objectName ref="bruehe">Brühe</objectName> oder auch von <objectName ref="knoblauch">Knoblauch</objectName> <lb/> mit Zwibel <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> und Lorbeer= Blättlein <lb/> gleich den Brat= Fischen <lb/> eine <objectName ref="bruehe">Brühe</objectName> darüber </p>
             </div>
         </body>
     </text>

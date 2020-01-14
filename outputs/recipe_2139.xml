@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb bähte schnitl, geuß gueten wein drauf, laß Sieden, schlags <lb/> durch ein sibl, thues in ein häferl, gilbs vnd Zuggers, laß an die <lb/> stat sieden, Wan dus schier anrichten Wilst, nimb 3. Aÿr doter, <lb/> Zerschlags, rührs darein, gibs Warmb, magst Weinpörl, Zukher, <lb/> oder mandl drauf sträen. <lb/></p>
+        <p> Nimb bähte schnitl, geuß gueten <objectName ref="wein">wein</objectName> drauf, laß Sieden, schlags <lb/> durch ein sibl, thues in ein häferl, gilbs vnd Zuggers, laß an die <lb/> stat sieden, Wan dus schier anrichten Wilst, nimb 3. Aÿr doter, <lb/> Zerschlags, rührs darein, gibs Warmb, magst Weinpörl, Zukher, <lb/> oder mandl drauf sträen. <lb/> </p>
             </div>
         </body>
     </text>

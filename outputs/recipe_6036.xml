@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Weiß Kopffel Salat im Wasser gequellt <lb/> vnd wiederumb außgekület <lb/> mit Essig <lb/> Oel vnnd Saltz angemacht <lb/> weissen Zucker <lb/> der gestossen ist <lb/> darüber gegossen <lb/> ist auch gut.</p>
+        <p> Weiß Kopffel <objectName ref="salat">Salat</objectName> im <objectName ref="wasser">Wasser</objectName> gequellt <lb/> vnd wiederumb außgekület <lb/> mit <objectName ref="essig">Essig</objectName> <lb/> Oel vnnd Saltz angemacht <lb/> weissen <objectName ref="zucker">Zucker</objectName> <lb/> der gestossen ist <lb/> darüber gegossen <lb/> ist auch gut. </p>
             </div>
         </body>
     </text>

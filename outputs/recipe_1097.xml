@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Take twelve Pound of lean Beef cut in Slices; then put a Quarter of a Pound of Butter in a Stew-pan over the Fire, and put in your Beef; let it boil quick till it Begins to Brown, then put in a Pint of Brown Ale, and a Gallon of Water, and cover it Close; let it stew gently for an Hour and an Half; put in what Spice you like in the Stewing; strain out the Liquor, and take off all the Fat; then put in some Sallery washed and cut small, Half a Hundred of Asparagus broke or cut small, and Palates boiled tender and cut; put these in, and let them boil gently till tender. Just as it is going to be taken up, fry a Handful of Spinage in Butter, and throw in a French Roll.</p>
+        <p> Take twelve Pound of lean Beef cut in Slices; then put a Quarter of a Pound of <objectName ref="butter">Butter</objectName> in a Stew-pan over the Fire, and put in your Beef; let it boil quick till it Begins to Brown, then put in a Pint of Brown Ale, and a Gallon of Water, and cover it Close; let it stew gently for an Hour and an Half; put in what Spice you like in the Stewing; strain out the Liquor, and take off all the Fat; then put in some Sallery washed and cut small, Half a Hundred of Asparagus broke or cut small, and Palates boiled tender and cut; put these in, and let them boil gently till tender. Just as it is going to be taken up, fry a Handful of Spinage in <objectName ref="butter">Butter</objectName>, and throw in a French Roll. </p>
             </div>
         </body>
     </text>

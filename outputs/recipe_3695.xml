@@ -170,9 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm sauber gebrühten und klein=gehackten Spinat <lb/> mische darunter ein wenig Eyer=Döpflein <lb/> mit geweichter Semmel <lb/> doch nicht zu naß <lb/> auch gehöriger massen gesaltzen <lb/> rühre einen guten Butter <lb/> mit etlich Eyern oder Dotter ab<lb/> schütte die Füll darein <lb/> rührs unter einander <lb/> und gibs in eine Dorten; beliebts <lb/> so mache es süß <lb/> und nimm kleine Wein=Beerlein darunter.
-
- </p>
+        <p> Nimm sauber gebrühten und klein=gehackten <objectName ref="spinat">Spinat</objectName> <lb/> mische darunter ein wenig Eyer=Döpflein <lb/> mit geweichter Semmel <lb/> doch nicht zu naß <lb/> auch gehöriger massen gesaltzen <lb/> rühre einen guten <objectName ref="butter">Butter</objectName> <lb/> mit etlich Eyern oder Dotter ab/ schütte die Füll darein <lb/> rührs unter einander <lb/> und gibs in eine Dorten; beliebts <lb/> so mache es süß <lb/> und nimm kleine Wein=Beerlein darunter. </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet zwey oder drey grosse Zwiebeln <lb/> lasset sie sieden <lb/> hackets klein <lb/> röstet selbige zimlich wohl im Schmaltz <lb/> daß sie schön braun werden <lb/> seihet dann das Fette davon herab <lb/> giesset eine Fleischbrüh und ein wenig Essig <lb/> auch <lb/> wann es beliebt <lb/> etwas Wein daran <lb/> zuckert und würtzet es nach gefallen: wem aber die süssen Brühen nicht anständig sind <lb/> der kan den Zucker gar wohl davon lassen.</p>
+        <p> NEhmet zwey oder drey grosse <objectName ref="zwiebel">Zwiebeln</objectName> <lb/> lasset sie sieden <lb/> hackets klein <lb/> röstet selbige zimlich wohl im Schmaltz <lb/> daß sie schön braun werden <lb/> seihet dann das Fette davon herab <lb/> giesset eine Fleischbrüh und ein wenig <objectName ref="essig">Essig</objectName> <lb/> auch <lb/> wann es beliebt <lb/> etwas <objectName ref="wein">Wein</objectName> daran <lb/> zuckert und würtzet es nach gefallen : wem aber die süssen <objectName ref="bruehe">Brühen</objectName> nicht anständig sind <lb/> der kan den <objectName ref="zucker">Zucker</objectName> gar wohl davon lassen. </p>
             </div>
         </body>
     </text>

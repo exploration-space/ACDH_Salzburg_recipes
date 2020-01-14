@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m)  schön weiß Mehl <lb/> vnnd mach ein Teig an mit lauter Eyer <lb/> Zucker vnd Rosenwasser <lb/> vnd hastu ein Waffeleysen <lb/> so back Waffeln darauß <lb/>  vnd nim(m)  ein wenig Butter darvnter <lb/> so wirt es gut vnd lieblich.</p>
+        <p> Nim ( m ) schön weiß <objectName ref="mehl">Mehl</objectName> <lb/> vnnd mach ein <objectName ref="teig">Teig</objectName> an mit lauter Eyer <lb/> <objectName ref="zucker">Zucker</objectName> vnd <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> vnd hastu ein Waffeleysen <lb/> so back Waffeln darauß <lb/> vnd nim ( m ) ein wenig <objectName ref="butter">Butter</objectName> darvnter <lb/> so wirt es gut vnd lieblich. </p>
             </div>
         </body>
     </text>

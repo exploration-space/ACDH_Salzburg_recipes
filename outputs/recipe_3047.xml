@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm 2. Handvoll Mandel <lb/> stoß aufs kleineste <lb/> schlag Eyer darein <lb/> und ein wenig Milchram <lb/> zuckers <lb/> mach so dick <lb/> wie Strauben=Taig <lb/> schmier eine Schüssel mit Schmaltz an <lb/> gieß darein <lb/> laß auf  einer Glut sieden.</p>
+        <p> Nimm 2. Handvoll Mandel <lb/> stoß aufs kleineste <lb/> schlag Eyer darein <lb/> und ein wenig Milchram <lb/> zuckers <lb/> mach so dick <lb/> wie Strauben=Taig <lb/> schmier eine <objectName ref="schuessel">Schüssel</objectName> mit Schmaltz an <lb/> gieß darein <lb/> laß auf einer <objectName ref="glut">Glut</objectName> sieden. </p>
             </div>
         </body>
     </text>

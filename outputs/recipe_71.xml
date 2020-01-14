@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Erstlich Nimb den Stockhfisch vnd thue <lb/> in ein sietes<gap/> wasser vnnd lass <lb/> in ein sudt<gap/> heryber thuen vnnd <lb/> salz ihn darnach schmirb<gap/> ein schissl<gap/> <lb/> mit butter hernach Richt den stöckh= <lb/> fisch<gap/> darauf vnnd Gewürz<gap/> Mus= <lb/> gatbie<gap/> Zimmet<gap/> vnnd so oft ein. leg<gap/> <lb/> stockhfisch<gap/> so oft ein leg Gewürz hernach <lb/> Nimb ein saurn Rämb<gap/> strigl<gap/> in <lb/><lb/> (ve 26) Gueting ab vnnd Gies<gap/> in an den <lb/> Stockhfisch vnnd lass Preglen<gap/> vnnd <lb/> leg ein brockhen<gap/> Putter daran. <lb/></p>
+        <p> Erstlich Nimb den Stockhfisch vnd thue <lb/> in ein sietes<gap/> <objectName ref="wasser">wasser</objectName> vnnd lass <lb/> in ein sudt<gap/> heryber thuen vnnd <lb/> <objectName ref="salz">salz</objectName> ihn darnach schmirb<gap/> ein schissl<gap/> <lb/> mit <objectName ref="butter">butter</objectName> hernach Richt den stöckh= <lb/> fisch<gap/> darauf vnnd Gewürz<gap/> Mus= <lb/> gatbie<gap/> Zimmet<gap/> vnnd so oft ein. leg<gap/> <lb/> stockhfisch<gap/> so oft ein leg Gewürz hernach <lb/> Nimb ein saurn Rämb<gap/> strigl<gap/> in <lb/><lb/> ( ve 26 ) Gueting ab vnnd Gies<gap/> in an den <lb/> Stockhfisch vnnd lass Preglen<gap/> vnnd <lb/> leg ein brockhen<gap/> Putter daran. <lb/> </p>
             </div>
         </body>
     </text>

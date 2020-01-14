@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm den Rucken <lb/> schiebe das Fleisch zusammen <lb/> soviel du kannst <lb/> hacke die übrigen Beiner hinweg <lb/> schneide die Presolen fein ordentlich <lb/> klopffe sie wohl gleich dünn <lb/> wie die kälberne <lb/> saltz <lb/> melbe sie ein wenig <lb/> und bräune sie im Schmaltz <lb/> oder Speck <lb/> und lege sie in ein groß Rein oder Casseroll <lb/> mit Speck = Schnitzlein <lb/> Zwibel <lb/> Maurachen <lb/> Gewürtz <lb/> Wein <lb/> und weniger Fleischbrühe <lb/> laß sieden <lb/> und zwar mit einer kurtzen Brühe <lb/> mit <lb/> oder ohne Fasch.</p>
+        <p> Nimm den Rucken <lb/> schiebe das <objectName ref="fleisch">Fleisch</objectName> zusammen <lb/> soviel du kannst <lb/> hacke die übrigen Beiner hinweg <lb/> schneide die Presolen fein ordentlich <lb/> klopffe sie wohl gleich dünn <lb/> wie die kälberne <lb/> saltz <lb/> melbe sie ein wenig <lb/> und bräune sie im Schmaltz <lb/> oder <objectName ref="speck">Speck</objectName> <lb/> und lege sie in ein groß <objectName ref="rein">Rein</objectName> oder Casseroll <lb/> mit <objectName ref="speck">Speck</objectName> = Schnitzlein <lb/> Zwibel <lb/> Maurachen <lb/> Gewürtz <lb/> <objectName ref="wein">Wein</objectName> <lb/> und weniger <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> laß sieden <lb/> und zwar mit einer kurtzen <objectName ref="bruehe">Brühe</objectName> <lb/> mit <lb/> oder ohne Fasch. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Neunaugen <lb/> geschleimt <lb/> gestutzt und heiß abgesotten <lb/> wie No. 35. beschrieben <lb/> seynd auch gut <lb/> mit wol Butter <lb/> weniger Erbes= und Sardellen= Brühe.</p>
+        <p> Neunaugen <lb/> geschleimt <lb/> gestutzt und heiß abgesotten <lb/> wie No. 35. beschrieben <lb/> seynd auch gut <lb/> mit wol <objectName ref="butter">Butter</objectName> <lb/> weniger Erbes= und Sardellen= <objectName ref="bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

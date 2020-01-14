@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Hirschl, oder rechl, Wan die Pasteten gemacht ist, von <lb/> Roggen mell, so nimb das brät, ÿberbrües, schneid Zweÿ <lb/> schnitl drein, Wasch auß in 3. oder 4. Wassern, vnd nimb <lb/> ein frisch Rinderes fleisch, das hakh gar khlein, ein Wenig <lb/> spëkh darunder, vnd ein wenig Maran, Salz vnd gewürz, <lb/> durcheinander, nez ein wenig mit Essig, schau das khein <lb/> Pain in der Pasteten ist, mach auch woll Lemonÿ darzue, <lb/> laß 3. stundt bachen. <lb/></p>
+        <p> Hirschl, oder rechl, Wan die <objectName ref="pastete">Pasteten</objectName> gemacht ist, von <lb/> Roggen mell, so nimb das brät, ÿberbrües, schneid Zweÿ <lb/> schnitl drein, Wasch auß in 3. oder 4. <objectName ref="wasser">Wassern</objectName>, vnd nimb <lb/> ein frisch Rinderes <objectName ref="fleisch">fleisch</objectName>, das hakh gar khlein, ein Wenig <lb/> spëkh darunder, vnd ein wenig Maran, <objectName ref="salz">Salz</objectName> vnd gewürz, <lb/> durcheinander, nez ein wenig mit <objectName ref="essig">Essig</objectName>, schau das khein <lb/> Pain in der <objectName ref="pastete">Pasteten</objectName> ist, mach auch woll Lemonÿ darzue, <lb/> laß 3. stundt bachen. <lb/> </p>
             </div>
         </body>
     </text>

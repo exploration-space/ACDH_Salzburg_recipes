@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>HAst du einen gar grossen Hecht zu verkochen <lb/> so schneide den Kopff ab <lb/> dann schneide den Ruckgrat in der Mitt nach der Länge zwey Finger= dick <lb/> oder so dick du ihn verlangest <lb/> durchaus beyderseits heraus <lb/> saltz und brate ihn also gantz <lb/> oder Stuckweiß auf dem warmen Rost <lb/> mit Gewürtz <lb/> Butter <lb/> oder Oel <lb/> und wann er fertig <lb/> so gib ihn mit braunen Butter und Lemoni= Safft <lb/> oder mit einer Sardellen= Capry= oder andern schon beschriebenen sauren Brühe.</p>
+        <p> HAst du einen gar grossen <objectName ref="hecht">Hecht</objectName> zu verkochen <lb/> so schneide den Kopff ab <lb/> dann schneide den Ruckgrat in der Mitt nach der Länge zwey Finger= dick <lb/> oder so dick du ihn verlangest <lb/> durchaus beyderseits heraus <lb/> saltz und brate ihn also gantz <lb/> oder Stuckweiß auf dem warmen <objectName ref="rost">Rost</objectName> <lb/> mit Gewürtz <lb/> <objectName ref="butter">Butter</objectName> <lb/> oder Oel <lb/> und wann er fertig <lb/> so gib ihn mit braunen <objectName ref="butter">Butter</objectName> und Lemoni= Safft <lb/> oder mit einer Sardellen= Capry= oder andern schon beschriebenen sauren <objectName ref="bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm die Kern aus sehr vielen Nüssen <lb/> hacke sie klein <lb/> und wann du sie in ein Töpflein oder Häfelein gethan <lb/> so schütte Milch daran <lb/> thu Zimmet <lb/> Zucker <lb/> und ein wenig Rosenwasser hinzu <lb/> zerbrocke Semmeln <lb/> oder so du wilt <lb/> nimm an derer statt gebähete Schnitten <lb/> streue Weinbeerlein oder Corinthen darauf <lb/> und richte dann die Suppe darüber.</p>
+        <p> NImm die Kern aus sehr vielen <objectName ref="nuesse">Nüssen</objectName> <lb/> hacke sie klein <lb/> und wann du sie in ein <objectName ref="toepflein">Töpflein</objectName> oder <objectName ref="haefelein">Häfelein</objectName> gethan <lb/> so schütte <objectName ref="milch">Milch</objectName> daran <lb/> thu Zimmet <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> und ein wenig <objectName ref="rosenwasser">Rosenwasser</objectName> hinzu <lb/> zerbrocke <objectName ref="semmeln">Semmeln</objectName> <lb/> oder so du wilt <lb/> nimm an derer statt gebähete Schnitten <lb/> streue Weinbeerlein oder Corinthen darauf <lb/> und richte dann die <objectName ref="suppe">Suppe</objectName> darüber. </p>
             </div>
         </body>
     </text>

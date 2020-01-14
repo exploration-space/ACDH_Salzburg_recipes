@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Item <lb/> wenn du Wein ablassen <lb/> daß er trüb wirt <lb/> so nim zu einem Fuder das weiß von vier vnd zwentzig Eyern <lb/> vnd klopff das wol <lb/> vnnd nun ein Mäßlein Saltz <lb/> vnd ein wenig gebeutels Mehl <lb/> vnd also viel lauteres Sandes <lb/> vnd laß deß trüben Weins ein viertheil auß dem Faß <lb/> vnd rüre die vorgenannten stück wol vntereinander <lb/> vnd geuß es zu dreyen malen in dz Faß <lb/> vnd zu jeglichen mal rür den Wein gar wol mit eine löchrichtem Holtz <lb/> darzu gemacht <lb/> vnd laß jn darnach ruhen <lb/> so wirt er lauter vnd schön.</p>
+        <p> Item <lb/> wenn du <objectName ref="wein">Wein</objectName> ablassen <lb/> daß er trüb wirt <lb/> so nim zu einem <objectName ref="fuder">Fuder</objectName> das weiß von vier vnd zwentzig Eyern <lb/> vnd klopff das wol <lb/> vnnd nun ein <objectName ref="maesslein">Mäßlein</objectName> Saltz <lb/> vnd ein wenig gebeutels <objectName ref="mehl">Mehl</objectName> <lb/> vnd also viel lauteres Sandes <lb/> vnd laß deß trüben Weins ein viertheil auß dem Faß <lb/> vnd rüre die vorgenannten stück wol vntereinander <lb/> vnd geuß es zu dreyen malen in dz Faß <lb/> vnd zu jeglichen mal rür den <objectName ref="wein">Wein</objectName> gar wol mit eine löchrichtem Holtz <lb/> darzu gemacht <lb/> vnd laß jn darnach ruhen <lb/> so wirt er lauter vnd schön. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim die Lampreten <lb/> vnd fah den Schweiß darvon auff mit Wein <lb/> Wasser vn Essig <lb/> schneidt darnach die Lampreten zu stücken in den schweiß <lb/> vnd reib Pfefferkuchen darein <lb/> würtz es an mit Zimmet vnnd Pfeffer <lb/> gelb ein wenig <lb/> laß darmit auffsieden <lb/> machs süß oder saur. Wenns halb gesotten ist <lb/> so zeuchs auß <lb/> vnnd säubers auß <lb/> streich darnach den Pfeffer durch <lb/> so wirt es fein glat. Oder wenn du es geschwindt kochen solt <lb/> so reib Pfefferkuchen darvnter <lb/> so darffstu es nicht durchstreichen <lb/> Thu auch darvnter geschweißte Zwibeln <lb/> die klein gehackt <lb/> so wirt es gut vnd wolgeschmack.</p>
+        <p> Nim die Lampreten <lb/> vnd fah den Schweiß darvon auff mit <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="wasser">Wasser</objectName> vn <objectName ref="essig">Essig</objectName> <lb/> schneidt darnach die Lampreten zu stücken in den schweiß <lb/> vnd reib <objectName ref="pfefferkuchen">Pfefferkuchen</objectName> darein <lb/> würtz es an mit Zimmet vnnd <objectName ref="pfeffer">Pfeffer</objectName> <lb/> gelb ein wenig <lb/> laß darmit auffsieden <lb/> machs süß oder saur. Wenns halb gesotten ist <lb/> so zeuchs auß <lb/> vnnd säubers auß <lb/> streich darnach den <objectName ref="pfeffer">Pfeffer</objectName> durch <lb/> so wirt es fein glat. Oder wenn du es geschwindt kochen solt <lb/> so reib <objectName ref="pfefferkuchen">Pfefferkuchen</objectName> darvnter <lb/> so darffstu es nicht durchstreichen <lb/> Thu auch darvnter geschweißte Zwibeln <lb/> die klein gehackt <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Geräuchert oder geselcht Küniglein <lb/> kalt oder warm <lb/> ist auff beyde manier gut <lb/> auch vnter grünen Kräutern zu kochen <lb/> es sey Spenat <lb/> grün oder weissen Köl.</p>
+        <p> Geräuchert oder geselcht Küniglein <lb/> kalt oder warm <lb/> ist auff beyde manier gut <lb/> auch vnter grünen <objectName ref="kraeuter">Kräutern</objectName> zu kochen <lb/> es sey Spenat <lb/> grün oder weissen Köl. </p>
             </div>
         </body>
     </text>

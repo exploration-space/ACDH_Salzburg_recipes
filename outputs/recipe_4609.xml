@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MIschet unter einen abgetrockneten Marzepan= Teig <lb/> Zimmet <lb/> Muscatenblüh <lb/> ein wenig Negelein und Cardamomen <lb/> Citronat <lb/> Pomerantzen= Schelffen <lb/> und grüne Pistacien= Nüßlein ; knetet alles wohl unter einander <lb/> streichest auf Oblat <lb/> und machet ein aufgesetztes Börtlein oder Rändlein herum <lb/> setzets in Ofen <lb/> lassets bachen <lb/> und überziehets mit einem Eiß.</p>
+        <p> MIschet unter einen abgetrockneten Marzepan= <objectName ref="teig">Teig</objectName> <lb/> Zimmet <lb/> Muscatenblüh <lb/> ein wenig Negelein und Cardamomen <lb/> Citronat <lb/> Pomerantzen= Schelffen <lb/> und grüne Pistacien= Nüßlein; knetet alles wohl unter einander <lb/> streichest auf Oblat <lb/> und machet ein aufgesetztes Börtlein oder Rändlein herum <lb/> setzets in <objectName ref="ofen">Ofen</objectName> <lb/> lassets bachen <lb/> und überziehets mit einem Eiß. </p>
             </div>
         </body>
     </text>

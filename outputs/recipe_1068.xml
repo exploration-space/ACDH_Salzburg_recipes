@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Put them into a Jar, on a Layer of Sea-sand; strew Sand again, and then another Layer of Nuts, till it is full; and be sure they don't touch each other in any of the Layers. When you would use them lay them in warm Water, shifting it as it cools for an Hour; then rub them dry, and they will peel well and eat sweet. Lemons will keep thus covered with Sand longer than any other Way.</p>
+        <p> Put them into a Jar, on a Layer of Sea-sand; strew <objectName ref="sand">Sand</objectName> again, and then another Layer of Nuts, till it is full; and be sure they do n't touch each other in any of the Layers. When you would use them lay them in warm Water, shifting it as it cools for an Hour; then rub them dry, and they will peel well and eat sweet. Lemons will keep thus covered with <objectName ref="sand">Sand</objectName> longer than any other Way. </p>
             </div>
         </body>
     </text>

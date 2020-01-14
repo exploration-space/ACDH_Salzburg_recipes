@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Dieser gehört roher zum Salat.</p>
+        <p> Dieser gehört roher zum <objectName ref="salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

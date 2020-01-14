@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Granzipori <lb/> und andere große und kleine Meer= Krebsen <lb/> werden auch den hiesigen teutschen Krebsen gleich gesotten und verkocht.</p>
+        <p> DIe Granzipori <lb/> und andere große und kleine Meer= <objectName ref="krebse">Krebsen</objectName> <lb/> werden auch den hiesigen teutschen <objectName ref="krebse">Krebsen</objectName> gleich gesotten und verkocht. </p>
             </div>
         </body>
     </text>

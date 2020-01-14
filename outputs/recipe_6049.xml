@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Cichorij Kraut Salat <lb/> das grün ist <lb/> das man quellt <lb/> du magsts süß oder saur machen. Ist das grün Kraut jung <lb/> so kan mans geben mit Essig <lb/> Oel vnd Saltz.</p>
+        <p> Cichorij <objectName ref="kraut">Kraut</objectName> <objectName ref="salat">Salat</objectName> <lb/> das grün ist <lb/> das man quellt <lb/> du magsts süß oder saur machen. Ist das grün <objectName ref="kraut">Kraut</objectName> jung <lb/> so kan mans geben mit <objectName ref="essig">Essig</objectName> <lb/> Oel vnd Saltz. </p>
             </div>
         </body>
     </text>

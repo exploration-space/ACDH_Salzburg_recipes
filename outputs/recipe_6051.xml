@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIse werden gemeiniglich <lb/> zum Verhacken <lb/> zum Einmachen <lb/> zum Dämpffen <lb/> und in die Pasteten genommen <lb/> jedoch seynd sie auch gut <lb/> und anständig zum Füllen <lb/> zum Braten <lb/> auch auf weisse <lb/> grüne und braune Suppen <lb/> zu weiß und braunen Rago <lb/> und Fricassen zerhackter <lb/> halb oder gantzer <lb/> wie folgt</p>
+        <p> DIse werden gemeiniglich <lb/> zum Verhacken <lb/> zum Einmachen <lb/> zum Dämpffen <lb/> und in die <objectName ref="pastete">Pasteten</objectName> genommen <lb/> jedoch seynd sie auch gut <lb/> und anständig zum Füllen <lb/> zum Braten <lb/> auch auf weisse <lb/> grüne und braune <objectName ref="suppe">Suppen</objectName> <lb/> zu weiß und braunen Rago <lb/> und Fricassen zerhackter <lb/> halb oder gantzer <lb/> wie folgt </p>
             </div>
         </body>
     </text>

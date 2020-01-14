@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Reib <lb/> die Mandl aufs khleinnest, laß ain wasßer <lb/> aufsieden, laß fein wider Kalt werden, nimb <lb/> nit zuuil wasser, leg den geribenen Mandl <lb/> in dasselbig wasser, treib in durch ain Neues <lb/> Tuech, geuß gesoten haußenblater souil als <lb/> dich dunckht, es sey genueg, nimb farb tiecher, <lb/> wilsts rot haben, nez in in wasser, trukh die <lb/> farb vndter den Mandl, geuß den Mandl, <lb/> in ain Saubers hefen, laß in ain wenig auf= <lb/> =sieden, zuggern so Sieß, alß du in habn wilt, <lb/> lassen nit hart Sieden, vnd riern stäts, thue <lb/> in herdan, lassen kalt werden, wan er ist <lb/> Kalt, so geuß in in die Mödl, Salz nit. <lb/></p>
+        <p> Reib <lb/> die Mandl aufs khleinnest, laß ain wasßer <lb/> aufsieden, laß fein wider Kalt werden, nimb <lb/> nit zuuil <objectName ref="wasser">wasser</objectName>, leg den geribenen Mandl <lb/> in dasselbig <objectName ref="wasser">wasser</objectName>, treib in durch ain Neues <lb/> Tuech, geuß gesoten haußenblater souil als <lb/> dich dunckht, es sey genueg, nimb farb tiecher, <lb/> wilsts rot haben, nez in in <objectName ref="wasser">wasser</objectName>, trukh die <lb/> farb vndter den Mandl, geuß den Mandl, <lb/> in ain Saubers hefen, laß in ain wenig auf= <lb/> =sieden, zuggern so Sieß, alß du in habn wilt, <lb/> lassen nit hart Sieden, vnd riern stäts, thue <lb/> in herdan, lassen kalt werden, wan er ist <lb/> Kalt, so geuß in in die Mödl, <objectName ref="salz">Salz</objectName> nit. <lb/> </p>
             </div>
         </body>
     </text>

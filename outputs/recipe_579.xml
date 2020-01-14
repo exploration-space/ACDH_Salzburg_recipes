@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim Aniß vnd Galgandt <lb/> jedes 2. loht <lb/> Nessel= samen vnd weissen Ingwer ein halb loht <lb/> Zimmet 1. quint machs zu reinem Pulver <lb/> vnd rührs vnter ein vnverscheumbts Honig <lb/> biß ein Latwerge darauß wirdt.</p>
+        <p> Nim Aniß vnd Galgandt <lb/> jedes 2. loht <lb/> Nessel= samen vnd weissen <objectName ref="ingwer">Ingwer</objectName> ein halb loht <lb/> Zimmet 1. <objectName ref="quint">quint</objectName> machs zu reinem Pulver <lb/> vnd rührs vnter ein vnverscheumbts <objectName ref="honig">Honig</objectName> <lb/> biß ein <objectName ref="latwerge">Latwerge</objectName> darauß wirdt. </p>
             </div>
         </body>
     </text>

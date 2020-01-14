@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Röste Habermehl in Butter <lb/> daß es braun werde; gieß hernach eine gute Fleischbrüh <lb/> wie auch ein wenig Rosen= oder andern Essig darein <lb/> würtze es mit Ingber <lb/> Pfeffer und Muscaten= Nüssen <lb/> laß es also sieden biß es dicklicht wird <lb/> und trags dann auf.</p>
+        <p> Röste Habermehl in <objectName ref="butter">Butter</objectName> <lb/> daß es braun werde; gieß hernach eine gute Fleischbrüh <lb/> wie auch ein wenig Rosen= oder andern <objectName ref="essig">Essig</objectName> darein <lb/> würtze es mit Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Muscaten= <objectName ref="nuesse">Nüssen</objectName> <lb/> laß es also sieden biß es dicklicht wird <lb/> und trags dann auf. </p>
             </div>
         </body>
     </text>

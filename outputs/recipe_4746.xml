@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIede Hanff= Körner in Wasser; dann stosse sie in einem Mörsel oder Reibscherben ab <lb/> streich oder zwings durch ein Tuch oder enges Sieblein <lb/> mit Fleischbrüh und Wein <lb/> thue klein gehackte Zwiebeln dazu; würtze und gilbs ein wenig <lb/> laß aufsieden <lb/> röste weisses Brod fein trocken im Schmaltz <lb/> und richte die Suppen darüber an.</p>
+        <p> SIede Hanff= Körner in <objectName ref="wasser">Wasser</objectName>; dann stosse sie in einem Mörsel oder <objectName ref="reibscherben">Reibscherben</objectName> ab <lb/> streich oder zwings durch ein <objectName ref="tuch">Tuch</objectName> oder enges Sieblein <lb/> mit Fleischbrüh und <objectName ref="wein">Wein</objectName> <lb/> thue klein gehackte <objectName ref="zwiebel">Zwiebeln</objectName> dazu; würtze und gilbs ein wenig <lb/> laß aufsieden <lb/> röste weisses Brod fein trocken im Schmaltz <lb/> und richte die <objectName ref="suppe">Suppen</objectName> darüber an. </p>
             </div>
         </body>
     </text>

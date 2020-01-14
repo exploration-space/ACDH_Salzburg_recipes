@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Gestossne<gap/> Mandl thue die sembl <lb/> molln<gap/> Darunter schlag Ayr<gap/> da= <lb/> rein Riehes<gap/> wohl Durch einander, mach <lb/> khleine Khnöderl, Pachs<gap/> in schmalz<gap/>, <lb/> vnnd mach ein Weixl<gap/> suppen<gap/> Dar= <lb/> yber, nimb Dörte<gap/> Weixl siedt<gap/> es, <lb/> nimb die brie<gap/> daruon, vnd nimb <lb/> wein vnnd Zukher, auch Zimet stup<gap/> <lb/> Giess<gap/> yber Die Khnödl ab so ist es <lb/> Recht. <lb/></p>
+        <p> Nimb Gestossne<gap/> Mandl thue die sembl <lb/> molln<gap/> Darunter schlag Ayr<gap/> da= <lb/> <objectName ref="rein">rein</objectName> Riehes<gap/> wohl Durch einander, mach <lb/> khleine Khnöderl, Pachs<gap/> in schmalz<gap/>, <lb/> vnnd mach ein Weixl<gap/> suppen<gap/> Dar= <lb/> yber, nimb Dörte<gap/> Weixl siedt<gap/> es, <lb/> nimb die brie<gap/> daruon, vnd nimb <lb/> <objectName ref="wein">wein</objectName> vnnd Zukher, auch Zimet stup<gap/> <lb/> Giess<gap/> yber Die Khnödl ab so ist es <lb/> Recht. <lb/> </p>
             </div>
         </body>
     </text>

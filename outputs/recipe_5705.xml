@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZU einem halben Pfund Zucker <lb/> nehmet ein halb Loth Lavendel= Blumen <lb/> Ingber <lb/> Cardamomen <lb/> Zimmet und Calmus <lb/> jedes Quint <lb/> Galgant und Muscaten= Blüh <lb/> jedes ein halb Quint <lb/> und zwar alles gröblicht zerstossen ; läutert den Zucker mit Rosen= oder Lavendel= Wasser <lb/> wann er nun dick gesotten ist <lb/> rühret vor= erweldete Species und Stücke darein <lb/> daß er noch dicker wird : benetzet einen Marmorstein mit Rosenwasser <lb/> und schneidet dann die Greieben oder Morselln mit einem Messer daraus <lb/> weil sie noch warm sind.</p>
+        <p> ZU einem halben <objectName ref="pfund">Pfund</objectName> <objectName ref="zucker">Zucker</objectName> <lb/> nehmet ein halb <objectName ref="loth">Loth</objectName> Lavendel= <objectName ref="blumen">Blumen</objectName> <lb/> Ingber <lb/> Cardamomen <lb/> Zimmet und Calmus <lb/> jedes <objectName ref="quint">Quint</objectName> <lb/> <objectName ref="galgant">Galgant</objectName> und Muscaten= Blüh <lb/> jedes ein halb <objectName ref="quint">Quint</objectName> <lb/> und zwar alles gröblicht zerstossen; läutert den <objectName ref="zucker">Zucker</objectName> mit Rosen= oder Lavendel= <objectName ref="wasser">Wasser</objectName> <lb/> wann er nun dick gesotten ist <lb/> rühret vor= erweldete Species und Stücke darein <lb/> daß er noch dicker wird : benetzet einen Marmorstein mit <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> und schneidet dann die Greieben oder Morselln mit einem <objectName ref="messer">Messer</objectName> daraus <lb/> weil sie noch warm sind. </p>
             </div>
         </body>
     </text>

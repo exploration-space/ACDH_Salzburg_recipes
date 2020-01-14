@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIse werden zugericht <lb/> wie in dem Bacherey= Buch bey denen Fisch= Pasteten zu lesen ist; Item <lb/> gebachner in die Pasteten <lb/> mit brauner Capry <lb/> oder Sardellen= Brühe.</p>
+        <p> DIse werden zugericht <lb/> wie in dem Bacherey= Buch bey denen Fisch= <objectName ref="pastete">Pasteten</objectName> zu lesen ist; Item <lb/> gebachner in die <objectName ref="pastete">Pasteten</objectName> <lb/> mit brauner Capry <lb/> oder Sardellen= <objectName ref="bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

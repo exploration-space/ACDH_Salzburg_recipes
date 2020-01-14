@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Rasp the Peel of two Oranges into half a Pint of Water; put to it half a Pint of Orange-Juice, and six Eggs, (but two of the Whites) and as much Sugar as will sweeten it; strain it, set it on the Fire, and when it is thick, put in a Piece of Butter as big as a Nut, keeping it stirring ’till it is cold.</p>
+        <p> Rasp the Peel of two Oranges into half a Pint of Water; put to it half a Pint of Orange-Juice, and six Eggs, ( but two of the Whites ) and as much Sugar as will sweeten it; strain it, set it on the Fire, and when it is thick, put in a Piece of <objectName ref="butter">Butter</objectName> as big as a Nut, keeping it stirring ’ till it is cold. </p>
             </div>
         </body>
     </text>

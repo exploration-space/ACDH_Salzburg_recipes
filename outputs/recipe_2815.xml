@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Dünstet vier Quitten gemach <lb/> schählet und treibet sie durch ein härines Sieblein; reibet von vier oder fünff Citronen das Marck in einem steinernen Mörsel glatt ab <lb/> schneidet von denen Schelffen das Weisse aufs genauste heraus <lb/> und das äusserste Gelbe theils länglicht <lb/> theils würfflicht; siedet dann noch so schwer Zucker <lb/> als der Quitten und Citronen sind <lb/> so lang biß er sich spinnet: rühret hernach das Citronen= Marck <lb/> und die durch= geriebenen Quitten darein <lb/> siedets biß es rauscht <lb/> und sich von der Pfannen ablöset; lasset letzlich die Citronen= Schelffen nur einen Sud darinnen aufthun <lb/> und füllet dann diese Latwerg in die Schachteln.</p>
+        <p> Dünstet vier <objectName ref="quitten">Quitten</objectName> gemach <lb/> schählet und treibet sie durch ein härines Sieblein; reibet von vier oder fünff Citronen das Marck in einem steinernen Mörsel glatt ab <lb/> schneidet von denen Schelffen das Weisse aufs genauste heraus <lb/> und das äusserste Gelbe theils länglicht <lb/> theils würfflicht; siedet dann noch so schwer <objectName ref="zucker">Zucker</objectName> <lb/> als der <objectName ref="quitten">Quitten</objectName> und Citronen sind <lb/> so lang biß er sich spinnet : rühret hernach das Citronen= Marck <lb/> und die durch= geriebenen <objectName ref="quitten">Quitten</objectName> darein <lb/> siedets biß es rauscht <lb/> und sich von der Pfannen ablöset; lasset letzlich die Citronen= Schelffen nur einen Sud darinnen aufthun <lb/> und füllet dann diese Latwerg in die Schachteln. </p>
             </div>
         </body>
     </text>

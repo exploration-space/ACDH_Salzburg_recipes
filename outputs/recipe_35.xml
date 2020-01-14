@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Gebuzte Hendl, siede<gap/> sye in <lb/> Wasser, Wasch sauber Aus, Zuuor <lb/> schmirb<gap/> ein schissl<gap/> mit Putter, richte <lb/> die Hendl darein, nimb Gebeithen<gap/> <lb/> Spinnäth<gap/>, und schneide ihne ein <lb/> Wenig, alsdan reste<gap/> ihne in schmalz<gap/>, <lb/> seiche<gap/> disen in die schissl<gap/>, Zwischen <lb/> den hendl<gap/> Gis Fleisch brie<gap/> daran, <lb/> Gewürz<gap/> vnnd lass alsdan Preglen<gap/>, <lb/> lege ein Guetten thaill butter daran <lb/></p>
+        <p> Nimb Gebuzte Hendl, siede<gap/> sye in <lb/> <objectName ref="wasser">Wasser</objectName>, Wasch sauber Aus, Zuuor <lb/> schmirb<gap/> ein schissl<gap/> mit Putter, richte <lb/> die Hendl darein, nimb Gebeithen<gap/> <lb/> Spinnäth<gap/>, und schneide ihne ein <lb/> Wenig, alsdan reste<gap/> ihne in schmalz<gap/>, <lb/> seiche<gap/> disen in die schissl<gap/>, Zwischen <lb/> den hendl<gap/> Gis <objectName ref="fleisch">Fleisch</objectName> brie<gap/> daran, <lb/> Gewürz<gap/> vnnd lass alsdan Preglen<gap/>, <lb/> lege ein Guetten thaill <objectName ref="butter">butter</objectName> daran <lb/> </p>
             </div>
         </body>
     </text>

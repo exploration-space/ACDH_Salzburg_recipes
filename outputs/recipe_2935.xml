@@ -179,7 +179,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIede die Eyer hart <lb/> schneids samt den Dottern überzwerch zu Rädlen <lb/> saltz und gewürtz mit Pfeffer <lb/> wol Muscatnuß <lb/> rösts mit klein= gehackten Zwibel <lb/> guten Kräutlein <lb/> sammt wenig weiß Meel <lb/> in wol Butter <lb/> gieß gute Erbesbrühe <lb/> oder Ram daran <lb/> wanns aufsiedt <lb/> so rühre geschwind etliche Eyrdotter <lb/> (welche besonder mit Lemoni= Safft <lb/> oder wenig Eßig <lb/> Butter <lb/> klein= gehackten Petersil= Kräutlein <lb/> Pfeffer und Muscatblühe zubereit seynd <lb/> ) mit öffterm Uberschwingen darein <lb/> kosts in Geschmack <lb/> und gibs warm.</p>
+        <p> SIede die Eyer hart <lb/> schneids samt den Dottern überzwerch zu Rädlen <lb/> saltz und gewürtz mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> wol Muscatnuß <lb/> rösts mit klein= gehackten Zwibel <lb/> guten Kräutlein <lb/> sammt wenig weiß Meel <lb/> in wol <objectName ref="butter">Butter</objectName> <lb/> gieß gute Erbesbrühe <lb/> oder Ram daran <lb/> wanns aufsiedt <lb/> so rühre geschwind etliche Eyrdotter <lb/> ( welche besonder mit Lemoni= Safft <lb/> oder wenig Eßig <lb/> <objectName ref="butter">Butter</objectName> <lb/> klein= gehackten Petersil= Kräutlein <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Muscatblühe zubereit seynd <lb/> ) mit öffterm Uberschwingen darein <lb/> kosts in Geschmack <lb/> und gibs warm. </p>
             </div>
         </body>
     </text>

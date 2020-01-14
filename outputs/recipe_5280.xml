@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn der Kreen <lb/> oder Meerrettich gerieben <lb/> oder gestossen <lb/> mit halb Mandeln und so viel Semmel= Mollen <lb/> mit süssen Ram angemacht <lb/> oder glatt abgetrieben <lb/> mit Zucker und Zimmet <lb/> wenig Saltz und Pfeffer aufsieden <lb/> und über gebratne <lb/> oder frisch= gebachne Hünlein <lb/> warmer angericht; ist schon bekannt <lb/> und schon bey denen Capaunen beschrieben; und wer keinen süssen Ram hat <lb/> der bediene sich der Milch.</p>
+        <p> WAnn der Kreen <lb/> oder <objectName ref="meerrettich">Meerrettich</objectName> gerieben <lb/> oder gestossen <lb/> mit halb <objectName ref="mandeln">Mandeln</objectName> und so viel Semmel= Mollen <lb/> mit süssen Ram angemacht <lb/> oder glatt abgetrieben <lb/> mit <objectName ref="zucker">Zucker</objectName> und Zimmet <lb/> wenig Saltz und <objectName ref="pfeffer">Pfeffer</objectName> aufsieden <lb/> und über gebratne <lb/> oder frisch= gebachne Hünlein <lb/> warmer angericht; ist schon bekannt <lb/> und schon bey denen Capaunen beschrieben; und wer keinen süssen Ram hat <lb/> der bediene sich der <objectName ref="milch">Milch</objectName>. </p>
             </div>
         </body>
     </text>

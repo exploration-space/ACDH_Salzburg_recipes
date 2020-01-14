@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SCheele die Pfersich und Pflaumen also frischer <lb/> nimme die Kern oder Stein heraus <lb/> lege sie also mit viel Zucker und ein wenig Zimmet in die Dorten <lb/> und lasse sie bachen.</p>
+        <p> SCheele die Pfersich und <objectName ref="pflaumen">Pflaumen</objectName> also frischer <lb/> nimme die Kern oder <objectName ref="stein">Stein</objectName> heraus <lb/> lege sie also mit viel <objectName ref="zucker">Zucker</objectName> und ein wenig Zimmet in die Dorten <lb/> und lasse sie bachen. </p>
             </div>
         </body>
     </text>

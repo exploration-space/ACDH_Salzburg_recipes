@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim den Hecht <lb/> vnd seudt jn fein blaw <lb/> vnd laß nur ein Sudt auffthun <lb/> seig das gesaltzen Wasser gar trucken ab <lb/> vnd geuß ein gute wolgeschmackte Erbsbrüh darüber <lb/> ein wenig eyngebrennt Mehl <lb/> vnd vngeschmältzte Butter <lb/> gantze Muscatenblüt <lb/> vnnd gestossen Ingwer <lb/> schneidt gesaltzen Limonien fein breit darein <lb/> vnnd laß resch eynsieden <lb/> so wirt es gut vnd wolgeschmack.</p>
+        <p> Nim den <objectName ref="hecht">Hecht</objectName> <lb/> vnd seudt jn fein blaw <lb/> vnd laß nur ein Sudt auffthun <lb/> seig das gesaltzen <objectName ref="wasser">Wasser</objectName> gar trucken ab <lb/> vnd geuß ein gute wolgeschmackte Erbsbrüh darüber <lb/> ein wenig eyngebrennt <objectName ref="mehl">Mehl</objectName> <lb/> vnd vngeschmältzte <objectName ref="butter">Butter</objectName> <lb/> gantze Muscatenblüt <lb/> vnnd gestossen <objectName ref="ingwer">Ingwer</objectName> <lb/> schneidt gesaltzen Limonien fein breit darein <lb/> vnnd laß resch eynsieden <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

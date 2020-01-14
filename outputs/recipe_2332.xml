@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein leberl, hakhs khlein, schlag aÿr dran, geuß ein Wenig rämb <lb/> dran, rührs ein geribne Sembl drunder, thue Weinpörl drunder, schlags <lb/> in ein Nezl ein, vnd mach Pratwürstl drauß, rests im schmalz, so seins <lb/> bereith. <lb/></p>
+        <p> Nimb ein leberl, hakhs khlein, schlag aÿr dran, geuß ein Wenig rämb <lb/> dran, rührs ein geribne Sembl drunder, thue Weinpörl drunder, schlags <lb/> in ein Nezl ein, vnd mach Pratwürstl drauß, rests im <objectName ref="schmalz">schmalz</objectName>, so seins <lb/> bereith. <lb/> </p>
             </div>
         </body>
     </text>

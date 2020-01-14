@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Item <lb/> nim(m) ein Handt voll Saltz <lb/> darnach das Faß groß ist <lb/> vnnd laß das auff das aller heissest werden <lb/> daß es gantz glüendt ist <lb/> vnd thu das zum Spundt hinein <lb/> vnd spundts zu <lb/> vnd laß es durcheinander arbeiten <lb/> vnnd schadet dem Wein nichts <lb/> aber du mußt jn ablassen <lb/> das magstu thun <lb/> wenn du wilt <lb/> Ist auch gut für das auffsteigen der Wein.</p>
+        <p> Item <lb/> nim ( m ) ein Handt voll Saltz <lb/> darnach das Faß groß ist <lb/> vnnd laß das auff das aller heissest werden <lb/> daß es gantz glüendt ist <lb/> vnd thu das zum Spundt hinein <lb/> vnd spundts zu <lb/> vnd laß es durcheinander arbeiten <lb/> vnnd schadet dem <objectName ref="wein">Wein</objectName> nichts <lb/> aber du mußt jn ablassen <lb/> das magstu thun <lb/> wenn du wilt <lb/> Ist auch gut für das auffsteigen der <objectName ref="wein">Wein</objectName>. </p>
             </div>
         </body>
     </text>

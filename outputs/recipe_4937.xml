@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIedet das Vorhäs gleich den andern ab <lb/> hernach machet die Limonien= Brüh <lb/> mit dem eingebrennten Mehl <lb/> darüber; wie bey dem Kalbfleisch <lb/> im nechst hernachfolgenden Theil <lb/> vermeldet werden wird.</p>
+        <p> SIedet das Vorhäs gleich den andern ab <lb/> hernach machet die Limonien= Brüh <lb/> mit dem eingebrennten <objectName ref="mehl">Mehl</objectName> <lb/> darüber; wie bey dem <objectName ref="kalbfleisch">Kalbfleisch</objectName> <lb/> im nechst hernachfolgenden Theil <lb/> vermeldet werden wird. </p>
             </div>
         </body>
     </text>

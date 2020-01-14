@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SEtzet die Zwetschgen <lb/> wann sie gewaschen <lb/> im Wasser zu <lb/> lassets wohl einsieden; röstet ein weiß=aufgeschnittenes Brod schön gelb im Schmaltz <lb/> leget dann von demselben ein wenig in eine Schüssel <lb/> und so dann eine Lage Zwetschgen darauf <lb/> und wieder eine Lag Brod <lb/> und so fort: giesset dann von der Zwetschgen=Brüh etwas darüber <lb/> und lassets also auf einer Kohlen noch einen Wall aufsieden: Wer will <lb/> kan ein wenig Wein darauf sprengen <lb/> und zuletzt Zucker oder Trisanet darauf streuen.</p>
+        <p> SEtzet die Zwetschgen <lb/> wann sie gewaschen <lb/> im <objectName ref="wasser">Wasser</objectName> zu <lb/> lassets wohl einsieden; röstet ein weiß=aufgeschnittenes Brod schön gelb im Schmaltz <lb/> leget dann von demselben ein wenig in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und so dann eine Lage Zwetschgen darauf <lb/> und wieder eine Lag Brod <lb/> und so fort : giesset dann von der Zwetschgen=Brüh etwas darüber <lb/> und lassets also auf einer <objectName ref="kohlen">Kohlen</objectName> noch einen Wall aufsieden : Wer will <lb/> kan ein wenig <objectName ref="wein">Wein</objectName> darauf sprengen <lb/> und zuletzt <objectName ref="zucker">Zucker</objectName> oder Trisanet darauf streuen. </p>
             </div>
         </body>
     </text>

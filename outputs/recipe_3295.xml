@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Siede den wol=ausgewaschenen Haiden=Bräun in Fleisch= oder Erbesbrühe <lb/> oder auch Milch <lb/> und wann er trucken eingesotten hat <lb/> saltz und schmältze ihn auf mit Butter <lb/> oder gutem Schmaltz.</p>
+        <p> Siede den wol=ausgewaschenen Haiden=Bräun in Fleisch= oder Erbesbrühe <lb/> oder auch <objectName ref="milch">Milch</objectName> <lb/> und wann er trucken eingesotten hat <lb/> saltz und schmältze ihn auf mit <objectName ref="butter">Butter</objectName> <lb/> oder gutem Schmaltz. </p>
             </div>
         </body>
     </text>

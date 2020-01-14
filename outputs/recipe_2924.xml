@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ERbes dergleichen am Fasttag mit Gewürtz und Kräutlein gesotten <lb/> dick durchgetrieben <lb/> mit braunem Butter abgemacht <lb/> gib ein Stuck von einem geräucherten Lax= oder Aalfisch <lb/> Hecht <lb/> oder Huchen darauf.</p>
+        <p> ERbes dergleichen am Fasttag mit Gewürtz und Kräutlein gesotten <lb/> dick durchgetrieben <lb/> mit braunem <objectName ref="butter">Butter</objectName> abgemacht <lb/> gib ein Stuck von einem geräucherten Lax= oder Aalfisch <lb/> <objectName ref="hecht">Hecht</objectName> <lb/> oder Huchen darauf. </p>
             </div>
         </body>
     </text>

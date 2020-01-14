@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm einen schönen Hollunder <lb/> der nicht gantz offen ist <lb/> daß er nicht abfällt <lb/> zupffe ihn ab <lb/> lege selbigen in ein Glas <lb/> giesse Essig darüber <lb/> laß ihn vierzehen Tag oder drey Wochen in der Sonne destillirn <lb/> so zieht er den Holler= Geschmack gantz an sich.</p>
+        <p> NImm einen schönen Hollunder <lb/> der nicht gantz offen ist <lb/> daß er nicht abfällt <lb/> zupffe ihn ab <lb/> lege selbigen in ein <objectName ref="glas">Glas</objectName> <lb/> giesse <objectName ref="essig">Essig</objectName> darüber <lb/> laß ihn vierzehen Tag oder drey Wochen in der Sonne destillirn <lb/> so zieht er den Holler= Geschmack gantz an sich. </p>
             </div>
         </body>
     </text>

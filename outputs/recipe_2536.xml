@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChählet die Marilln <lb/>schneidets von einander daß der Kern heraus kommt <lb/> thut in ein jedes Marilln ein Pistacien= Nüßlein oder Mandel ; schlichtets also in die Schüssel daß der Salat hoch wird <lb/> giesset Peter Simonis daran <lb/> und zuckerts <lb/> nehmet einen grün= und frischen Citronat <lb/> schneidet ihn klein= und würfflicht <lb/> und streuet oben ein wenig Trisanet darauf.</p>
+        <p> SChählet die Marilln /schneidets von einander daß der Kern heraus kommt <lb/> thut in ein jedes Marilln ein Pistacien= Nüßlein oder Mandel; schlichtets also in die <objectName ref="schuessel">Schüssel</objectName> daß der <objectName ref="salat">Salat</objectName> hoch wird <lb/> giesset Peter Simonis daran <lb/> und zuckerts <lb/> nehmet einen grün= und frischen Citronat <lb/> schneidet ihn klein= und würfflicht <lb/> und streuet oben ein wenig Trisanet darauf. </p>
             </div>
         </body>
     </text>

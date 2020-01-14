@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DErgleichen erstbeschriebene Flecklein werden von Hechten <lb/> oder andern grossen Fischen geschnitten <lb/> wohl geklopfft <lb/> mit Gewürtz <lb/> Saltz <lb/> Knoblauch <lb/> in wenig Eßig gebaitzt ; durch ein Taiglein gezogen <lb/> und aus Schmaltz gebachen ; dienet mit ausgebachenen grünen Petersil= Kräutlein und Fröschen zu einer kleinen Speiß <lb/> oder die vorbeschriebene gebratne Hecht= Rollen <lb/> mit disen zu regalieren.</p>
+        <p> DErgleichen erstbeschriebene Flecklein werden von Hechten <lb/> oder andern grossen Fischen geschnitten <lb/> wohl geklopfft <lb/> mit Gewürtz <lb/> Saltz <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> in wenig Eßig gebaitzt; durch ein Taiglein gezogen <lb/> und aus Schmaltz gebachen; dienet mit ausgebachenen grünen Petersil= Kräutlein und <objectName ref="froesche">Fröschen</objectName> zu einer kleinen Speiß <lb/> oder die vorbeschriebene gebratne Hecht= Rollen <lb/> mit disen zu regalieren. </p>
             </div>
         </body>
     </text>

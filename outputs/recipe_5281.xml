@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SCheele und schneide die frischen Cucummern blättlet <lb/> wie zu dem Salat <lb/> laß im Ram kurz sieden mit wenig Pfeffer und Saltz; gibs über die gebratne Hünlein <lb/> es ist ein gut= und gesunde Brühe <lb/> zuletzt mit etlich Tropffen Eßig.</p>
+        <p> SCheele und schneide die frischen Cucummern blättlet <lb/> wie zu dem <objectName ref="salat">Salat</objectName> <lb/> laß im Ram kurz sieden mit wenig <objectName ref="pfeffer">Pfeffer</objectName> und Saltz; gibs über die gebratne Hünlein <lb/> es ist ein gut= und gesunde <objectName ref="bruehe">Brühe</objectName> <lb/> zuletzt mit etlich Tropffen Eßig. </p>
             </div>
         </body>
     </text>

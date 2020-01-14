@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm die Scher= Ruben <lb/> melbige sie ein <lb/> und bache sie aus heissem Schmaltz schön braun; röste die Wachteln mit wenig Meel im Butter und kleinem Speck <lb/> lege die Ruben letzlich auch darzu <lb/> gib Fleischbrühe <lb/> Zimmet und wenig Zucker darein <lb/> laß zugedeckt wohl kochen <lb/> und gibs warm.</p>
+        <p> NImm die Scher= Ruben <lb/> melbige sie ein <lb/> und bache sie aus heissem Schmaltz schön braun; röste die <objectName ref="wachtel">Wachteln</objectName> mit wenig Meel im <objectName ref="butter">Butter</objectName> und kleinem <objectName ref="speck">Speck</objectName> <lb/> lege die Ruben letzlich auch darzu <lb/> gib <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> Zimmet und wenig <objectName ref="zucker">Zucker</objectName> darein <lb/> laß zugedeckt wohl kochen <lb/> und gibs warm. </p>
             </div>
         </body>
     </text>

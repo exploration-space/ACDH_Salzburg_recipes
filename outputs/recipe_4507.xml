@@ -178,11 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>RIchte den gebachenen Hecht Stuckweiß in die Schüssel ; laß in einem Casserol gescheelte <lb/> oder auch ungescheelte Pflaumen <lb/> Fordäschen <lb/> Spendling <lb/> oder Zwetschgen <lb/> mit Wein <lb/> Wasser <lb/> Lemoni= Schelffen <lb/> Zimmet <lb/> Nägelein <lb/> und wohl Zucker sieden <lb/> treibs durch <lb/> und gibs über den angerichten Bachfisch <lb/> laß kurtz aufkochen <lb/> und gibs mit Zucker <lb/> oder mit Zimmet und Zucker <lb/> in Butter= geröste Semmel= Brosen.
-
-Fordäschen <lb/> Spendling - Früchte, ähnlich der Pflaumen und Zwetschgen
-
- </p>
+        <p> RIchte den gebachenen <objectName ref="hecht">Hecht</objectName> Stuckweiß in die <objectName ref="schuessel">Schüssel</objectName>; laß in einem Casserol gescheelte <lb/> oder auch ungescheelte <objectName ref="pflaumen">Pflaumen</objectName> <lb/> Fordäschen <lb/> <objectName ref="spendling">Spendling</objectName> <lb/> oder Zwetschgen <lb/> mit <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="wasser">Wasser</objectName> <lb/> Lemoni= Schelffen <lb/> Zimmet <lb/> Nägelein <lb/> und wohl <objectName ref="zucker">Zucker</objectName> sieden <lb/> treibs durch <lb/> und gibs über den angerichten Bachfisch <lb/> laß kurtz aufkochen <lb/> und gibs mit <objectName ref="zucker">Zucker</objectName> <lb/> oder mit Zimmet und <objectName ref="zucker">Zucker</objectName> <lb/> in Butter= geröste Semmel= Brosen. Fordäschen <lb/> <objectName ref="spendling">Spendling</objectName> - <objectName ref="fruechte">Früchte</objectName>, ähnlich der <objectName ref="pflaumen">Pflaumen</objectName> und Zwetschgen </p>
             </div>
         </body>
     </text>

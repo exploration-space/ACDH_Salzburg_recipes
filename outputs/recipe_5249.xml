@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Zerlaß Butter <lb/> vnd rür Grießmehl darein <lb/> vnd laß mit der Buttr sieden <lb/> biß d(aß) die Butter lauter vnd klar wirt <lb/> seig sie ab von dem Grieß <lb/> den du hast eyngerürt <lb/> schüt jn auff ein Sieb <lb/> vnd laß die Butter wol davon seigen <lb/> thu es in ein Fischkessel <lb/> vnd schneidt ein weissen Weck darvnter <lb/> setzs auff das Feuwer <lb/> vnd rößts miteinander <lb/> versaltz es nicht. Vnd wenn du es wilt anrichten <lb/> so gibs warm auff ein Tisch <lb/> so wirt es gut vn(d) wolgeschmack. Vnd also macht man das Schmaltz Koch.</p>
+        <p> Zerlaß <objectName ref="butter">Butter</objectName> <lb/> vnd rür Grießmehl darein <lb/> vnd laß mit der Buttr sieden <lb/> biß d ( aß ) die <objectName ref="butter">Butter</objectName> lauter vnd klar wirt <lb/> seig sie ab von dem <objectName ref="griess">Grieß</objectName> <lb/> den du hast eyngerürt <lb/> schüt jn auff ein <objectName ref="sieb">Sieb</objectName> <lb/> vnd laß die <objectName ref="butter">Butter</objectName> wol davon seigen <lb/> thu es in ein <objectName ref="fischkessel">Fischkessel</objectName> <lb/> vnd schneidt ein weissen Weck darvnter <lb/> setzs auff das Feuwer <lb/> vnd rößts miteinander <lb/> versaltz es nicht. Vnd wenn du es wilt anrichten <lb/> so gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> so wirt es gut vn ( d ) wolgeschmack. Vnd also macht man das Schmaltz Koch. </p>
             </div>
         </body>
     </text>

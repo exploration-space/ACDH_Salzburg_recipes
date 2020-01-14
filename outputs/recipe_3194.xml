@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WEich die Prinelln= oder Datteln eine viertel Stund zuvor <lb/> ehe man sie bachen will <lb/> im Wein; mach hernach ein Teiglein mit andern frischen Wein <lb/> und ein wenig weissen= oder Böhmischen Bier an <lb/> brenne ein Löffelein Schmaltz darein <lb/> nimm aber kein Ey dazu. Mache ein Schmaltz heiß <lb/> ziehe die Prinelln oder Dattteln durch den Teig <lb/> und bache sie wohl heiß und schön heraus <lb/> legs in eine Schüssel <lb/> und streue Zucker darauf.</p>
+        <p> WEich die Prinelln= oder <objectName ref="datteln">Datteln</objectName> eine viertel Stund zuvor <lb/> ehe man sie bachen will <lb/> im <objectName ref="wein">Wein</objectName>; mach hernach ein Teiglein mit andern frischen <objectName ref="wein">Wein</objectName> <lb/> und ein wenig weissen= oder Böhmischen <objectName ref="bier">Bier</objectName> an <lb/> brenne ein Löffelein Schmaltz darein <lb/> nimm aber kein Ey dazu. Mache ein Schmaltz heiß <lb/> ziehe die Prinelln oder Dattteln durch den <objectName ref="teig">Teig</objectName> <lb/> und bache sie wohl heiß und schön heraus <lb/> legs in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und streue <objectName ref="zucker">Zucker</objectName> darauf. </p>
             </div>
         </body>
     </text>

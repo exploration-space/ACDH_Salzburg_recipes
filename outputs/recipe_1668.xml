@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb für .6. kr: anstrich auß der Appoteg= <lb/> =gen, laß in wasser waikhen bis es die völlige <lb/> farb gibt, od(er) d(a)s wasser völlig geförbt, <lb/> nimb zugger darzue, d(a)s es nit gar zu dickh <lb/> oder zu dün wiert, dises wiert zu zierunng <lb/> der Turten gebraucht. <lb/></p>
+        <p> Nimb für.6. kr : anstrich auß der Appoteg= <lb/> =gen, laß in <objectName ref="wasser">wasser</objectName> waikhen bis es die völlige <lb/> farb gibt, od ( er ) d ( a ) s <objectName ref="wasser">wasser</objectName> völlig geförbt, <lb/> nimb zugger darzue, d ( a ) s es nit gar zu dickh <lb/> oder zu dün wiert, dises wiert zu zierunng <lb/> der Turten gebraucht. <lb/> </p>
             </div>
         </body>
     </text>

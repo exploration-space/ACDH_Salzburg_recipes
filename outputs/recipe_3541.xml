@@ -170,9 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAche von diesem erst= beschriebenen <lb/> wol= fetten Hechten= Gehäck <lb/> und Parmesan-Käß <lb/> Ballen <lb/> so groß wie ein rechtes Ey <lb/> setze es weit voneinander in die mit Butter zubereite Schüssel <lb/> schlage die Eyer entzwischen <lb/> gib unten und oben Glut <lb/> und machs fertig <lb/> aber nicht hart; gibs warmer zu Tisch.
-
-NB. An Fleischtäg macht mans auch also <lb/> mit guten Braten Brühe <lb/> mit Capaunen= Schnepffen= Kälbernen und andern Gehäck.</p>
+        <p> MAche von diesem erst= beschriebenen <lb/> wol= fetten Hechten= <objectName ref="gehaeck">Gehäck</objectName> <lb/> und Parmesan-Käß <lb/> Ballen <lb/> so groß wie ein rechtes Ey <lb/> setze es weit voneinander in die mit <objectName ref="butter">Butter</objectName> zubereite <objectName ref="schuessel">Schüssel</objectName> <lb/> schlage die Eyer entzwischen <lb/> gib unten und oben <objectName ref="glut">Glut</objectName> <lb/> und machs fertig <lb/> aber nicht hart; gibs warmer zu <objectName ref="tisch">Tisch</objectName>. NB. An Fleischtäg macht mans auch also <lb/> mit guten Braten <objectName ref="bruehe">Brühe</objectName> <lb/> mit Capaunen= Schnepffen= Kälbernen und andern <objectName ref="gehaeck">Gehäck</objectName>. </p>
             </div>
         </body>
     </text>

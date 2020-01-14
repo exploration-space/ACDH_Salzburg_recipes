@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIeses findet man nach Verlangen bey der Suppen <lb/> Pasteten <lb/> und denen gemischten Fasten= Speisen.</p>
+        <p> DIeses findet man nach Verlangen bey der <objectName ref="suppe">Suppen</objectName> <lb/> <objectName ref="pastete">Pasteten</objectName> <lb/> und denen gemischten Fasten= Speisen. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Lunge wird gebrühet <lb/> und klein langlecht geschnitten <lb/> in einer gelben Zwibel= Brühe mit wenig Wein <lb/> oder Eßig gesäuert <lb/> gewürtzt <lb/> und klein geschnittnes Petersil= Kräutlein <lb/> und wenig Lorbeer darzugethan: Oder auf gleiche Weiß gesotten <lb/> geschnitten <lb/> mit Gewürtz <lb/> Lemoni <lb/> und gelb eingebrennt <lb/> oder braun eingebrennt <lb/> mit guter brauner jus, so ist es gut.</p>
+        <p> DIe <objectName ref="lunge">Lunge</objectName> wird gebrühet <lb/> und klein langlecht geschnitten <lb/> in einer gelben Zwibel= <objectName ref="bruehe">Brühe</objectName> mit wenig <objectName ref="wein">Wein</objectName> <lb/> oder Eßig gesäuert <lb/> gewürtzt <lb/> und klein geschnittnes Petersil= Kräutlein <lb/> und wenig <objectName ref="lorbeer-2">Lorbeer</objectName> darzugethan : Oder auf gleiche Weiß gesotten <lb/> geschnitten <lb/> mit Gewürtz <lb/> Lemoni <lb/> und gelb eingebrennt <lb/> oder braun eingebrennt <lb/> mit guter brauner <objectName ref="jus">jus</objectName>, so ist es gut. </p>
             </div>
         </body>
     </text>

@@ -170,9 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Kalt abgebraten Fasan mit seinem Halß <lb/> Flügel vnnd Schwantz <lb/> daß der Leib gerupfft <lb/> vnnd fein auffrichtig steht in einer Schüssel <lb/> vnnd ein wenig Weichselsalsen darvnter vnnd darüber gegossen <lb/> mit Confect <lb/> Aniß <lb/> Coriander vnd Fenchel besträwt <lb/> wirt es schön <lb/> zierlich vnd gut zu essen.
-
-</p>
+        <p> Kalt abgebraten <objectName ref="fasan">Fasan</objectName> mit seinem Halß <lb/> Flügel vnnd Schwantz <lb/> daß der Leib gerupfft <lb/> vnnd fein auffrichtig steht in einer <objectName ref="schuessel">Schüssel</objectName> <lb/> vnnd ein wenig Weichselsalsen darvnter vnnd darüber gegossen <lb/> mit Confect <lb/> Aniß <lb/> Coriander vnd <objectName ref="fenchel">Fenchel</objectName> besträwt <lb/> wirt es schön <lb/> zierlich vnd gut zu essen. </p>
             </div>
         </body>
     </text>

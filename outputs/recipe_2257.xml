@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Souill du Aÿr nimbst, auf ein aÿr, ein halbe schalen voll Wasser, vnd <lb/> spridls durcheinander, vnd nimb ein Puter oder Schmalz, laß ein <lb/> Wenig haiß Werden, schits drein, rührs auf einem glietl ab, das <lb/> nit hert Wird, ist bereith.<lb/></p>
+        <p> Souill du Aÿr nimbst, auf ein aÿr, ein halbe schalen voll <objectName ref="wasser">Wasser</objectName>, vnd <lb/> spridls durcheinander, vnd nimb ein Puter oder <objectName ref="schmalz">Schmalz</objectName>, laß ein <lb/> Wenig haiß Werden, schits drein, rührs auf einem glietl ab, das <lb/> nit hert Wird, ist bereith./ </p>
             </div>
         </body>
     </text>

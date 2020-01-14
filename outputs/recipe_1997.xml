@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein milch vnd Wein durcheinander, laß Warm werden, <lb/> nimb ein Rosenwasser auch darunder, vnd ein guets Semblmell, <lb/> Zuggers vnd pfeffers, mach also ein taigl an, nit Zu dikh, laß <lb/> das Eÿsen Woll haiß Werden, schmirbs mit einem buter, vnd <lb/> wisch Wider sauber auß, nimb ein halben löffl voll taig ins <lb/> Eÿsen, vnd bachs. <lb/></p>
+        <p> Nimb ein <objectName ref="milch">milch</objectName> vnd <objectName ref="wein">Wein</objectName> durcheinander, laß Warm werden, <lb/> nimb ein <objectName ref="rosenwasser">Rosenwasser</objectName> auch darunder, vnd ein guets Semblmell, <lb/> Zuggers vnd pfeffers, mach also ein taigl an, nit Zu dikh, laß <lb/> das Eÿsen Woll haiß Werden, schmirbs mit einem buter, vnd <lb/> wisch Wider sauber auß, nimb ein halben löffl voll taig ins <lb/> Eÿsen, vnd bachs. <lb/> </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Khrebsen schwänz hack es khlain, nimb Sembl brößl <lb/> schlag aÿr dran das genug ist, vnd ein löfl voll milchrämb, <lb/> vnd ein gewürz, rührs durcheinander, laß in eim bindelel <lb/> stöhr Werden, darnach mach ein taig von aÿrduter, Welge <lb/> ihn auß, so din als ein Papier, darnach streich das gehäkh <lb/> darauf, darnach leg den taig ÿber 2. finger brait, vnd <lb/> trukhs mit ein thäller ab, darnach mach ein Wenig buter= <lb/> suppen, leg die strudl drein, laß ein wenig ein sieden, <lb/> richt es an, es ist guet. <lb/></p>
+        <p> Nimb Khrebsen schwänz hack es khlain, nimb Sembl brößl <lb/> schlag aÿr dran das genug ist, vnd ein löfl voll milchrämb, <lb/> vnd ein gewürz, rührs durcheinander, laß in eim bindelel <lb/> stöhr Werden, darnach mach ein taig von aÿrduter, Welge <lb/> ihn auß, so din als ein <objectName ref="papier">Papier</objectName>, darnach streich das gehäkh <lb/> darauf, darnach leg den taig ÿber 2. finger brait, vnd <lb/> trukhs mit ein thäller ab, darnach mach ein Wenig buter= <lb/> <objectName ref="suppe">suppen</objectName>, leg die strudl drein, laß ein wenig ein sieden, <lb/> richt es an, es ist guet. <lb/> </p>
             </div>
         </body>
     </text>

@@ -173,8 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NUn soll schönen geklaubten Reiß in einer guten süssen obern Milch sieden <lb/> wie man ihn sonsten kocht <lb/> wohl dick <lb/> dann in einem Mörsel wohl abgestossen ; darnach nimm gar klein gestossene Mandeln <lb/> ungefehr so viel <lb/> als der Reiß ist <lb/> mit einem Stuck Butter <lb/> sammt in Milch geweichter Semmel <lb/> wieder ausgetruckt <lb/> und darunter gestossen <lb/> mit Zucker und Eyer wohl dick angemacht <lb/> und gleich anderen Dorten gebachen.
- </p>
+        <p> NUn soll schönen geklaubten Reiß in einer guten süssen obern <objectName ref="milch">Milch</objectName> sieden <lb/> wie man ihn sonsten kocht <lb/> wohl dick <lb/> dann in einem Mörsel wohl abgestossen; darnach nimm gar klein gestossene <objectName ref="mandeln">Mandeln</objectName> <lb/> ungefehr so viel <lb/> als der Reiß ist <lb/> mit einem Stuck <objectName ref="butter">Butter</objectName> <lb/> sammt in <objectName ref="milch">Milch</objectName> geweichter Semmel <lb/> wieder ausgetruckt <lb/> und darunter gestossen <lb/> mit <objectName ref="zucker">Zucker</objectName> und Eyer wohl dick angemacht <lb/> und gleich anderen Dorten gebachen. </p>
             </div>
         </body>
     </text>

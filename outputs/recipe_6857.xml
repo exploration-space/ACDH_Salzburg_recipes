@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Rephüner <lb/> spick sie mit Zimmet <lb/> Neglein vnnd Speck <lb/> würtz vnd saltz sie <lb/> leg sie in die Pasteten <lb/> die du hast auffgetrieben von Ruckenteig oder Weitzenteig <lb/> vnd thu kleine schwartze Rosein darein <lb/> mach die Pasteten zu <lb/> scheubs in Ofen <lb/> vnd laß backen <lb/> schneidts auff <lb/> vn(d) geuß Pfeffer darein <lb/> setz widerumb in Ofen <lb/> vnd laß damit auffsieden <lb/> gibs warm auff ein Tisch <lb/> so ist es gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) Rephüner <lb/> spick sie mit Zimmet <lb/> Neglein vnnd <objectName ref="speck">Speck</objectName> <lb/> würtz vnd saltz sie <lb/> leg sie in die <objectName ref="pastete">Pasteten</objectName> <lb/> die du hast auffgetrieben von Ruckenteig oder Weitzenteig <lb/> vnd thu kleine schwartze Rosein darein <lb/> mach die <objectName ref="pastete">Pasteten</objectName> zu <lb/> scheubs in <objectName ref="ofen">Ofen</objectName> <lb/> vnd laß backen <lb/> schneidts auff <lb/> vn ( d ) geuß <objectName ref="pfeffer">Pfeffer</objectName> darein <lb/> setz widerumb in <objectName ref="ofen">Ofen</objectName> <lb/> vnd laß damit auffsieden <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

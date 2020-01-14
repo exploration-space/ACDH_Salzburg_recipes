@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Kehr die Miltz vmb <lb/> nim(m) darnach Pfeffer <lb/> Saltz vnd Feldtkümmel durcheinander <lb/> bestrew sie damit <lb/> vn(d) wend sie darnach wider vmb <lb/> brat sie an einem Spieß <lb/> oder auff dem Roßt <lb/> vn(d) begeuß mit frischer vnzerlassener Butter. Nim(m) darnach ein Rindtfleischbrüh <lb/> ein wenig Essig <lb/> gestossen Pfeffer oder Ingwer in die Brüh <lb/> vnnd wann du es wilt anrichten <lb/> so geuß die Brüh darüber <lb/> so wirdt es gut vnd wolgeschmack.</p>
+        <p> Kehr die Miltz vmb <lb/> nim ( m ) darnach <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Saltz vnd Feldtkümmel durcheinander <lb/> bestrew sie damit <lb/> vn ( d ) wend sie darnach wider vmb <lb/> brat sie an einem <objectName ref="spiess">Spieß</objectName> <lb/> oder auff dem Roßt <lb/> vn ( d ) begeuß mit frischer vnzerlassener <objectName ref="butter">Butter</objectName>. Nim ( m ) darnach ein Rindtfleischbrüh <lb/> ein wenig <objectName ref="essig">Essig</objectName> <lb/> gestossen <objectName ref="pfeffer">Pfeffer</objectName> oder <objectName ref="ingwer">Ingwer</objectName> in die Brüh <lb/> vnnd wann du es wilt anrichten <lb/> so geuß die Brüh darüber <lb/> so wirdt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

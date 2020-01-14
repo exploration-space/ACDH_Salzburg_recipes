@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet Weitzen= Mehl <lb/> machet mit zweyen Eyern <lb/> und ein wenig Rosen= Wasser einen Teig an <lb/> saltzet ihn gar was wenigs <lb/> streuet Zucker darein <lb/> und walchert selbigen zu länglichten Plätzen <lb/> wie zu denen Heffen= Küchlein; schneidet ihn dann überzwerch zu Stücklein eines Messer= rucken dick <lb/> und bachets aus Schmaltz in einer Pfannen.</p>
+        <p> NEhmet Weitzen= <objectName ref="mehl">Mehl</objectName> <lb/> machet mit zweyen Eyern <lb/> und ein wenig Rosen= <objectName ref="wasser">Wasser</objectName> einen <objectName ref="teig">Teig</objectName> an <lb/> saltzet ihn gar was wenigs <lb/> streuet <objectName ref="zucker">Zucker</objectName> darein <lb/> und walchert selbigen zu länglichten Plätzen <lb/> wie zu denen Heffen= Küchlein; schneidet ihn dann überzwerch zu Stücklein eines Messer= rucken dick <lb/> und bachets aus Schmaltz in einer Pfannen. </p>
             </div>
         </body>
     </text>

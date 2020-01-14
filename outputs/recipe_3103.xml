@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ERbes <lb/> so noch jung <lb/> grün und frisch <lb/> sammt den Hülsen oder Schelffen gebrüht <lb/> gibt man auch kalt zum Salat <lb/> mit Pfeffer <lb/> Eßig und Oel.</p>
+        <p> ERbes <lb/> so noch jung <lb/> grün und frisch <lb/> sammt den Hülsen oder Schelffen gebrüht <lb/> gibt man auch kalt zum <objectName ref="salat">Salat</objectName> <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Eßig und Oel. </p>
             </div>
         </body>
     </text>

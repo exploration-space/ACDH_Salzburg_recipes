@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Du kanst auch die Miltz zum eynmachen nemmen <lb/> du kanst machen gelb oder weiß <lb/> mit grünen wolschmeckenden Kräutern <lb/> oder mit Pettersilgen Wurtzel gehackt.</p>
+        <p> Du kanst auch die Miltz zum eynmachen nemmen <lb/> du kanst machen gelb oder weiß <lb/> mit grünen wolschmeckenden <objectName ref="kraeuter">Kräutern</objectName> <lb/> oder mit Pettersilgen Wurtzel gehackt. </p>
             </div>
         </body>
     </text>

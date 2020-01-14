@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Nüß <lb/> thu sie auß den Schalen <lb/> vn(d) stoß sie <lb/> streich sie mit warmen Wasser durch <lb/> thu Butter darein <lb/> vnd laß damit auffsieden <lb/> versaltz es nicht <lb/> magsts süß machen oder saur <lb/> so ist es auff beyde manier gut.</p>
+        <p> Nim ( m ) Nüß <lb/> thu sie auß den Schalen <lb/> vn ( d ) stoß sie <lb/> streich sie mit warmen <objectName ref="wasser">Wasser</objectName> durch <lb/> thu <objectName ref="butter">Butter</objectName> darein <lb/> vnd laß damit auffsieden <lb/> versaltz es nicht <lb/> magsts süß machen oder saur <lb/> so ist es auff beyde manier gut. </p>
             </div>
         </body>
     </text>

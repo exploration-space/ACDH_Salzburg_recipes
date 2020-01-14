@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Siede<gap/> die grundl<gap/> blau, wan sye gesotten<gap/> sein, <lb/> so seich<gap/> es ab, lögs<gap/> in ein schisßel<gap/>, siede<gap/> in <lb/> einer pfann<gap/> einen guetten wein, lög<gap/> zuckher<gap/> <lb/> auch latwergen<gap/> darein, so wird es schwarz, <lb/> reste<gap/> klein gehackhten<gap/> zwifl<gap/> und Nägerl<gap/> Stup<gap/> <lb/> wann die briehe<gap/> gesotten<gap/> hat, gieß<gap/> über die fisch, <lb/> ist guet. <lb/></p>
+        <p> Siede<gap/> die grundl<gap/> blau, wan sye gesotten<gap/> sein, <lb/> so seich<gap/> es ab, lögs<gap/> in ein schisßel<gap/>, siede<gap/> in <lb/> einer pfann<gap/> einen guetten <objectName ref="wein">wein</objectName>, lög<gap/> zuckher<gap/> <lb/> auch latwergen<gap/> darein, so wird es schwarz, <lb/> reste<gap/> klein gehackhten<gap/> zwifl<gap/> und Nägerl<gap/> Stup<gap/> <lb/> wann die briehe<gap/> gesotten<gap/> hat, gieß<gap/> über die <objectName ref="fisch">fisch</objectName>, <lb/> ist guet. <lb/> </p>
             </div>
         </body>
     </text>

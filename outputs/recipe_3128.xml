@@ -168,9 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAngolt= Stengel gewaschen <lb/> gebrüht <lb/> dann mit Pfeffer <lb/> Eßig und Oel angemacht <lb/> gibt ein guten Salat.
-
-</p>
+        <p> MAngolt= Stengel gewaschen <lb/> gebrüht <lb/> dann mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Eßig und Oel angemacht <lb/> gibt ein guten <objectName ref="salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

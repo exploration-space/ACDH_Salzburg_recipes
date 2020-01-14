@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Halß= Fürschlag <lb/> oder andere Theile dises Wildpräts <lb/> werden in Stucken zerhackt <lb/> auf unterschiedliche Weiß gesotten <lb/> gedämpfft <lb/> gebraten <lb/> gebräunter in die Pasteten <lb/> mit Zwibel eingemachter <lb/> in sauern Ram gedünster <lb/> mit Capry <lb/> Wachholder= Beer <lb/> mit Speck und Knoblauch <lb/> oder in süsser Brühe zugerichter <lb/> und also unterschiedlich zu verkochen <lb/> findest du bey dem Rindfleisch im Ersten Capitel zur Genügen <lb/> absonderlich bey denen Lungen= Braten.</p>
+        <p> DEr Halß= Fürschlag <lb/> oder andere Theile dises Wildpräts <lb/> werden in Stucken zerhackt <lb/> auf unterschiedliche Weiß gesotten <lb/> gedämpfft <lb/> gebraten <lb/> gebräunter in die <objectName ref="pastete">Pasteten</objectName> <lb/> mit Zwibel eingemachter <lb/> in sauern Ram gedünster <lb/> mit Capry <lb/> Wachholder= Beer <lb/> mit <objectName ref="speck">Speck</objectName> und <objectName ref="knoblauch">Knoblauch</objectName> <lb/> oder in süsser <objectName ref="bruehe">Brühe</objectName> zugerichter <lb/> und also unterschiedlich zu verkochen <lb/> findest du bey dem <objectName ref="rindfleisch">Rindfleisch</objectName> im Ersten Capitel zur Genügen <lb/> absonderlich bey denen Lungen= Braten. </p>
             </div>
         </body>
     </text>

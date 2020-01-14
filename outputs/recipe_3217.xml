@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ERstlich nimm eine Pfanne und röste den Gries darinnen im Schmaltz <lb/> daß er schön weiß bleibt; giesse alsdann eine Fleisch= brüh <lb/> oder auch ein wenig Wasser zusamt der Brüh daran <lb/> laß ihn in besagter Pfanne anfänglich aufsieden : gieß es in einen Hafen <lb/> würff Saltz und ein wenig Bachschmaltz <lb/> oder auch nur Butter darein <lb/> laß ferner sieden <lb/> und richte so dann den Brey an.</p>
+        <p> ERstlich nimm eine <objectName ref="pfanne">Pfanne</objectName> und röste den Gries darinnen im Schmaltz <lb/> daß er schön weiß bleibt; giesse alsdann eine Fleisch= brüh <lb/> oder auch ein wenig <objectName ref="wasser">Wasser</objectName> zusamt der Brüh daran <lb/> laß ihn in besagter <objectName ref="pfanne">Pfanne</objectName> anfänglich aufsieden : gieß es in einen <objectName ref="hafen">Hafen</objectName> <lb/> würff Saltz und ein wenig Bachschmaltz <lb/> oder auch nur <objectName ref="butter">Butter</objectName> darein <lb/> laß ferner sieden <lb/> und richte so dann den Brey an. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Schöll die öpffl, schneids in der mithe voneinander, schneid <lb/> die grädten herauß, schropfs an, geuß ein Wein, <lb/> dran, legs in ein haiß schmalz, laß schen braun Werden, <lb/> legs auf ein schißl, nimb Weinpöhrl, die sauber auß= <lb/> gewaschen sein, sez ÿber in Wein, Zuggers, oder leg <lb/> ein hönig dran, geuß ÿber die öpffl, dekhs Zue, <lb/> sez auf ein gluet, laß Sieden, vnd Wen du es auf <lb/> den tisch gibst, besträs mit Zimetstup. <lb/></p>
+        <p> Schöll die öpffl, schneids in der mithe voneinander, schneid <lb/> die grädten herauß, schropfs an, geuß ein <objectName ref="wein">Wein</objectName>, <lb/> dran, legs in ein haiß <objectName ref="schmalz">schmalz</objectName>, laß schen braun Werden, <lb/> legs auf ein schißl, nimb Weinpöhrl, die sauber auß= <lb/> gewaschen sein, sez ÿber in <objectName ref="wein">Wein</objectName>, Zuggers, oder leg <lb/> ein hönig dran, geuß ÿber die öpffl, dekhs Zue, <lb/> sez auf ein gluet, laß Sieden, vnd Wen du es auf <lb/> den <objectName ref="tisch">tisch</objectName> gibst, besträs mit Zimetstup. <lb/> </p>
             </div>
         </body>
     </text>

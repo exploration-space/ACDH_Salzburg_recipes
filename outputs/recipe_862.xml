@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Scheele die Zwetschgen <lb/> kerne sie aus <lb/> richts mit Butter und Zucker in ein bedecktes Casserol <lb/> oder Rein <lb/> schwings offt über <lb/> sie geben selbst Brühe <lb/> beym Anrichten bestreus mit Zucker und wenig Zimmet <lb/> oder laß den Butter aus.</p>
+        <p> Scheele die Zwetschgen <lb/> kerne sie aus <lb/> richts mit <objectName ref="butter">Butter</objectName> und <objectName ref="zucker">Zucker</objectName> in ein bedecktes Casserol <lb/> oder <objectName ref="rein">Rein</objectName> <lb/> schwings offt über <lb/> sie geben selbst <objectName ref="bruehe">Brühe</objectName> <lb/> beym Anrichten bestreus mit <objectName ref="zucker">Zucker</objectName> und wenig Zimmet <lb/> oder laß den <objectName ref="butter">Butter</objectName> aus. </p>
             </div>
         </body>
     </text>

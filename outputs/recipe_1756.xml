@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Hackh speckh klain, nimb guete Khreiter, ain <lb/> wennig buter, Roßmarin, weinbör, oder <lb/> zibeben, Imber vnd Pfeffer, Mußcatblie, <lb/> Salz nit hardt. <lb/><lb/> (67v)</p>
+        <p> Hackh speckh klain, nimb guete Khreiter, ain <lb/> wennig buter, Roßmarin, weinbör, oder <lb/> <objectName ref="zibeben">zibeben</objectName>, Imber vnd <objectName ref="pfeffer">Pfeffer</objectName>, Mußcatblie, <lb/> <objectName ref="salz">Salz</objectName> nit hardt. <lb/><lb/> ( 67v ) </p>
             </div>
         </body>
     </text>

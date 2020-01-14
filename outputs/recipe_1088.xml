@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Take raw Carrots, scrape them clean and grate them. To Half a Pound of carrot take a Pound of grated Bread, a Nutmeg, a Little Cinamon, a very Little Salt, Half a Pound of Sugar, and Half a Pint of Sack, eight Eggs, a Pound of melted Butter, and as much Cream as will mix it well together; stir it and beat it up well, then put it into a Dish to bake. Put Puff-paste at the bottom of the Dish.</p>
+        <p> Take raw Carrots, scrape them clean and grate them. To Half a Pound of carrot take a Pound of grated Bread, a Nutmeg, a Little Cinamon, a very Little Salt, Half a Pound of Sugar, and Half a Pint of <objectName ref="sack">Sack</objectName>, eight Eggs, a Pound of melted <objectName ref="butter">Butter</objectName>, and as much Cream as will mix it well together; stir it and beat it up well, then put it into a Dish to bake. Put Puff-paste at the bottom of the Dish. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nussen=Schüssel=Koch <lb/> die noch heurig <lb/> klein gestossen <lb/> und mit in Wein geweichter Semmel <lb/> Gewürtz und Zucker <lb/> gibt ein gutes Schüssel=Koch.</p>
+        <p> Nussen=Schüssel=Koch <lb/> die noch heurig <lb/> klein gestossen <lb/> und mit in <objectName ref="wein">Wein</objectName> geweichter Semmel <lb/> Gewürtz und <objectName ref="zucker">Zucker</objectName> <lb/> gibt ein gutes Schüssel=Koch. </p>
             </div>
         </body>
     </text>

@@ -172,9 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim der Maulbeersafft ein halb pfundt <lb/> Brom= beersafft ein pfundt <lb/> schönes geleuterts vnnd ver= schaumptes Honigs ein halb pfundt <lb/> süssen gesotte= nen Wein ein vierling <lb/> laß den safft mit dem Honig vnd dem Most auff eim Kohlfewer <lb/> das nicht riech <lb/> gemächlich sieden <lb/> so lang biß es in ein Form eines Syrups kompt.
-
-Dieser Safft ein kräfftige Artzney für alle Ge= bresten <lb/> Fäulniß <lb/> Erhitzung <lb/> vnnd für Bräune deß Halß vnd Mundes <lb/> reiniget vnnd trucknet die böse Feuchtigkeit <lb/> zeucht auch widerumb auff daß nider gestossen Blat oder Zäpflein <lb/> treibet auch hindersich <lb/> vnd wehret den zufallenden Flüssen.</p>
+        <p> Nim der Maulbeersafft ein halb pfundt <lb/> Brom= beersafft ein pfundt <lb/> schönes geleuterts vnnd ver= schaumptes Honigs ein halb pfundt <lb/> süssen gesotte= nen <objectName ref="wein">Wein</objectName> ein <objectName ref="vierling">vierling</objectName> <lb/> laß den safft mit dem <objectName ref="honig">Honig</objectName> vnd dem <objectName ref="most">Most</objectName> auff eim Kohlfewer <lb/> das nicht riech <lb/> gemächlich sieden <lb/> so lang biß es in ein <objectName ref="form">Form</objectName> eines Syrups kompt. Dieser Safft ein kräfftige Artzney für alle Ge= bresten <lb/> Fäulniß <lb/> Erhitzung <lb/> vnnd für Bräune deß Halß vnd Mundes <lb/> reiniget vnnd trucknet die böse Feuchtigkeit <lb/> zeucht auch widerumb auff daß nider gestossen Blat oder Zäpflein <lb/> treibet auch hindersich <lb/> vnd wehret den zufallenden Flüssen. </p>
             </div>
         </body>
     </text>

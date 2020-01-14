@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm Tauben gantzer <lb/> oder <lb/> wie du wilst <lb/> gewürtz und saltze sie ein wenig <lb/> rösts mit zwey <lb/> oder mehrer zerschnittnen Dardoffeln <lb/> und schön = geklaubten Rehling <lb/> Schwämmlein <lb/> mit wenig weiß Meel in gutem Butter und Dardoffel = Oel <lb/> mit wenig Speck <lb/> gieß Fleischbrühe <lb/> mit gar wenig Wein darein <lb/> und laß genug sieden; dann machs fertig mit wenig frischen Butter <lb/> klein = gehacktem Petersil = Kräutlein und Eyerdotter <lb/> mit kurzer Soß.</p>
+        <p> NImm <objectName ref="taube">Tauben</objectName> gantzer <lb/> oder <lb/> wie du wilst <lb/> gewürtz und saltze sie ein wenig <lb/> rösts mit zwey <lb/> oder mehrer zerschnittnen Dardoffeln <lb/> und schön = geklaubten <objectName ref="rehling">Rehling</objectName> <lb/> Schwämmlein <lb/> mit wenig weiß Meel in gutem <objectName ref="butter">Butter</objectName> und Dardoffel = Oel <lb/> mit wenig <objectName ref="speck">Speck</objectName> <lb/> gieß <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> mit gar wenig <objectName ref="wein">Wein</objectName> darein <lb/> und laß genug sieden; dann machs fertig mit wenig frischen <objectName ref="butter">Butter</objectName> <lb/> klein = gehacktem Petersil = Kräutlein und Eyerdotter <lb/> mit kurzer Soß. </p>
             </div>
         </body>
     </text>

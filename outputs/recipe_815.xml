@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Siede Botzner=Kütten wol weich <lb/> schlags durch das Haarsieb <lb/> nimm auf ein Kütten von vier frischen Eyern das Klar <lb/> schlags zu einem puren Faum <lb/> mit diesem Faum treibe die durchgeschlagne Kütten nach und nach ab <lb/> bey einer Stund <lb/> mit stetem Rühren auf einer Seiten <lb/> stoß auf einen Kütten ein Handvoll abgezogne Mandeln gantz klein <lb/> und reibe die Schleffen von einem Lemoni <lb/> oder Pomerantzen an einem gantzen Zucker=Hut ab <lb/> mische dieses mit so viel Zucker darein <lb/> daß es süß genug ist <lb/> so es beliebt <lb/> streichs <lb/> wie die Pafössen <lb/> auf Oblat <lb/> zimlich hoch <lb/> und bachs im Ofen gantz kühl.</p>
+        <p> Siede Botzner=Kütten wol weich <lb/> schlags durch das <objectName ref="haarsieb">Haarsieb</objectName> <lb/> nimm auf ein Kütten von vier frischen Eyern das Klar <lb/> schlags zu einem puren Faum <lb/> mit diesem Faum treibe die durchgeschlagne Kütten nach und nach ab <lb/> bey einer Stund <lb/> mit stetem Rühren auf einer Seiten <lb/> stoß auf einen Kütten ein Handvoll abgezogne <objectName ref="mandeln">Mandeln</objectName> gantz klein <lb/> und reibe die Schleffen von einem Lemoni <lb/> oder Pomerantzen an einem gantzen Zucker=Hut ab <lb/> mische dieses mit so viel <objectName ref="zucker">Zucker</objectName> darein <lb/> daß es süß genug ist <lb/> so es beliebt <lb/> streichs <lb/> wie die Pafössen <lb/> auf Oblat <lb/> zimlich hoch <lb/> und bachs im <objectName ref="ofen">Ofen</objectName> gantz kühl. </p>
             </div>
         </body>
     </text>

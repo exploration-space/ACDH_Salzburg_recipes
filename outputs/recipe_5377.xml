@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>GIesset einen Wein in ein Häfelein <lb/> thut ein wenig Bachschmaltz <lb/> oder aber das Trübe aus der Pfannen <lb/> darein <lb/> wie auch Ingber <lb/> Pfeffer <lb/> Negelein <lb/> abgezogene länglicht= geschnittene Mandeln <lb/> Weinbeer <lb/> Rosinen oder Zibeben <lb/> röstet ein wenig rocken Brod im Schmaltz <lb/> schüttet es zu jetzt= besagten Stücken in das Töpfflein oder Häfelein <lb/> last alles mit einander aufsieden <lb/> und richtets dann über den Lendbraten an.</p>
+        <p> GIesset einen <objectName ref="wein">Wein</objectName> in ein <objectName ref="haefelein">Häfelein</objectName> <lb/> thut ein wenig Bachschmaltz <lb/> oder aber das Trübe aus der Pfannen <lb/> darein <lb/> wie auch Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Negelein <lb/> abgezogene länglicht= geschnittene <objectName ref="mandeln">Mandeln</objectName> <lb/> Weinbeer <lb/> <objectName ref="rosinen">Rosinen</objectName> oder <objectName ref="zibeben">Zibeben</objectName> <lb/> röstet ein wenig rocken Brod im Schmaltz <lb/> schüttet es zu jetzt= besagten Stücken in das Töpfflein oder <objectName ref="haefelein">Häfelein</objectName> <lb/> last alles mit einander aufsieden <lb/> und richtets dann über den Lendbraten an. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneide von dem Schlegel breite Flecklein <lb/> Fingers=dick <lb/> klopffe <lb/> und spicke sie mit gutem Speck; dann richte sie gleich einer braunen jus, in selbst=eigener kurtzen Brühe; wer will <lb/> gibt einen Geruch <lb/> mit Capry <lb/> Austern <lb/> Müschlein <lb/> oder Sardellen.</p>
+        <p> SChneide von dem <objectName ref="schlegel">Schlegel</objectName> breite Flecklein <lb/> Fingers=dick <lb/> klopffe <lb/> und spicke sie mit gutem <objectName ref="speck">Speck</objectName>; dann richte sie gleich einer braunen <objectName ref="jus">jus</objectName>, in selbst=eigener kurtzen <objectName ref="bruehe">Brühe</objectName>; wer will <lb/> gibt einen Geruch <lb/> mit Capry <lb/> <objectName ref="austern">Austern</objectName> <lb/> Müschlein <lb/> oder <objectName ref="sardellen">Sardellen</objectName>. </p>
             </div>
         </body>
     </text>

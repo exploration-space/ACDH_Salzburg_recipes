@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>In Pasteten kalt lassen werden.</p>
+        <p> In <objectName ref="pastete">Pasteten</objectName> kalt lassen werden. </p>
             </div>
         </body>
     </text>

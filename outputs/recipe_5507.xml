@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) ein Krautsuppen <lb/> vnd schmältz sie wol mit Butter <lb/> vnnd laß damit auffsieden <lb/> so ist es auch ein gute Suppen.</p>
+        <p> Nim ( m ) ein <objectName ref="krautsuppe">Krautsuppen</objectName> <lb/> vnd schmältz sie wol mit <objectName ref="butter">Butter</objectName> <lb/> vnnd laß damit auffsieden <lb/> so ist es auch ein gute <objectName ref="suppe">Suppen</objectName>. </p>
             </div>
         </body>
     </text>

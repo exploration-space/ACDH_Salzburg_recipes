@@ -175,8 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm sauber = gebutzte Tauben <lb/> laß gantzer <lb/> oder zerstuckter mit wenig Wein und Fleischbrühe aufsieden <lb/> nimm den Faum darvon <lb/> gewürtz mit Pfeffer <lb/> Imber <lb/> Muscatnuß und wenig Saffran <lb/> brenne sie schön gelb ein <lb/> zuletzt wirff den Safft von unzeitigen Agres <lb/> oder Weintrauben darein <lb/> mit etlich dergleichen Beer <lb/> und ein Stuck Butter mit Lemoni = Schelffen <lb/> schwings etlichmal herüber <lb/> und nach kurtzen Sud <lb/> richte es an: Regaliers mit was gebachnen <lb/> oder gebratnen Carbonädlein.
-</p>
+        <p> NImm sauber = gebutzte <objectName ref="taube">Tauben</objectName> <lb/> laß gantzer <lb/> oder zerstuckter mit wenig <objectName ref="wein">Wein</objectName> und <objectName ref="fleischbruehe">Fleischbrühe</objectName> aufsieden <lb/> nimm den Faum darvon <lb/> gewürtz mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> Muscatnuß und wenig Saffran <lb/> brenne sie schön gelb ein <lb/> zuletzt wirff den Safft von unzeitigen Agres <lb/> oder <objectName ref="weintrauben">Weintrauben</objectName> darein <lb/> mit etlich dergleichen Beer <lb/> und ein Stuck <objectName ref="butter">Butter</objectName> mit Lemoni = Schelffen <lb/> schwings etlichmal herüber <lb/> und nach kurtzen Sud <lb/> richte es an : Regaliers mit was gebachnen <lb/> oder gebratnen Carbonädlein. </p>
             </div>
         </body>
     </text>

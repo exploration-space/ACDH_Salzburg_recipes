@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES werden Flecklein vom Schlegel geschnitten <lb/> breit geschlagen <lb/> miteinem fetten <lb/> guten Knödlein=Gehäck gefüllt <lb/> und über einander gerollt; dann in kälberne Netzlein gewicklet <lb/> und mit Salbey=Blättern <lb/> gleichwie die Cramets=Vögel an Spiß gebraten <lb/> und gibs im Safft.</p>
+        <p> ES werden Flecklein vom <objectName ref="schlegel">Schlegel</objectName> geschnitten <lb/> breit geschlagen <lb/> miteinem fetten <lb/> guten Knödlein=Gehäck gefüllt <lb/> und über einander gerollt; dann in kälberne Netzlein gewicklet <lb/> und mit Salbey=Blättern <lb/> gleichwie die Cramets=Vögel an Spiß gebraten <lb/> und gibs im Safft. </p>
             </div>
         </body>
     </text>

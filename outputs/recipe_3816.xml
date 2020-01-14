@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>UBersiede die geräucherte Karpffen <lb/> mit einen kurtzen Sud <lb/> und wann sie im Saltz gar zu sauer seynd <lb/> so legs nach dem Sud in frisches Wasser; Brenne die Erbs= Brühe mit wenig weiß Meel und geschnittnen langen Zwibel liechtgelb ein <lb/> lege zwey Lorbeer= Blättlein <lb/> Pfeffer <lb/> Imber <lb/> und wohlgeribne Muscatnuß darein <lb/> laß wohl weich kochen <lb/> treibs durch ein Haar= Sieblein <lb/> nimm klein= gehacktes Petersil= Kräutl und Lemoni= Schelffen darein <lb/> mit einem guten Stück Butter <lb/> und wenigen Saffran <lb/> laß den Karpffen darmit gantzer <lb/> oder Stuckweiß aufkochen <lb/> und gibs in Saltz und Geschmack warmer zur Taffel.</p>
+        <p> UBersiede die geräucherte Karpffen <lb/> mit einen kurtzen Sud <lb/> und wann sie im Saltz gar zu sauer seynd <lb/> so legs nach dem Sud in frisches <objectName ref="wasser">Wasser</objectName>; Brenne die Erbs= <objectName ref="bruehe">Brühe</objectName> mit wenig weiß Meel und geschnittnen langen Zwibel liechtgelb ein <lb/> lege zwey Lorbeer= Blättlein <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> und wohlgeribne Muscatnuß darein <lb/> laß wohl weich kochen <lb/> treibs durch ein Haar= Sieblein <lb/> nimm klein= gehacktes Petersil= Kräutl und Lemoni= Schelffen darein <lb/> mit einem guten Stück <objectName ref="butter">Butter</objectName> <lb/> und wenigen Saffran <lb/> laß den Karpffen darmit gantzer <lb/> oder Stuckweiß aufkochen <lb/> und gibs in Saltz und Geschmack warmer zur Taffel. </p>
             </div>
         </body>
     </text>

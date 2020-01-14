@@ -174,11 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm süssen Milchram <lb/> laß ihn aufsieden <lb/> in einer verzinnten Pfannen <lb/> oder tieffen Casserol <lb/> thue ein schönes Mund= oder Oblat= Meel darein <lb/> daß es im Abrühren wol dick und trucken wird <lb/> saltz ihn nach Gebühr <lb/> lege frische Eyer in warmes Wasser <lb/> und nachdem der Taig wohl angezächt worden ist <lb/> so wird er mit den gantzen Eyern <lb/> eins nach dem andern wol abgerührt <lb/> biß der Taig die rechte Dicken hat <lb/> von diesem Taig schlag Strützlein <lb/> auf einen beschmierten Tellermit dem Messer <lb/> in das nicht gar zu heisse Schmaltz <lb/> oder mache mit der Handhab eines Schüssels runde Küchlein <lb/> oder treibs durch die Brand= Strauben <lb/> und bachs langsam <lb/> spritz <lb/> so seynd sie zum geschmäckesten <lb/> gibs warm <lb/> mit Zucker bestreut.
-
-NB. Also macht mans auch von guter Milch <lb/> wann man den süssen Ram nicht haben kann <lb/> ohne <lb/> daß Butter oder Schmaltz solle darein gelegt werden.
-
- </p>
+        <p> NImm süssen Milchram <lb/> laß ihn aufsieden <lb/> in einer verzinnten Pfannen <lb/> oder tieffen Casserol <lb/> thue ein schönes Mund= oder Oblat= Meel darein <lb/> daß es im Abrühren wol dick und trucken wird <lb/> saltz ihn nach Gebühr <lb/> lege frische Eyer in warmes <objectName ref="wasser">Wasser</objectName> <lb/> und nachdem der Taig wohl angezächt worden ist <lb/> so wird er mit den gantzen Eyern <lb/> eins nach dem andern wol abgerührt <lb/> biß der Taig die rechte Dicken hat <lb/> von diesem Taig schlag Strützlein <lb/> auf einen beschmierten Tellermit dem <objectName ref="messer">Messer</objectName> <lb/> in das nicht gar zu heisse Schmaltz <lb/> oder mache mit der Handhab eines Schüssels runde Küchlein <lb/> oder treibs durch die Brand= <objectName ref="strauben">Strauben</objectName> <lb/> und bachs langsam <lb/> spritz <lb/> so seynd sie zum geschmäckesten <lb/> gibs warm <lb/> mit <objectName ref="zucker">Zucker</objectName> bestreut. NB. Also macht mans auch von guter <objectName ref="milch">Milch</objectName> <lb/> wann man den süssen Ram nicht haben kann <lb/> ohne <lb/> daß <objectName ref="butter">Butter</objectName> oder Schmaltz solle darein gelegt werden. </p>
             </div>
         </body>
     </text>

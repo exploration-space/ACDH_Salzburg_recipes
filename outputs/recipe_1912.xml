@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Sied den rein salbm das genug ist, darnach röst ihn im buter, <lb/> das er schön braun ist, darnach nimb ein sauren Wein, vnd <lb/> sein Suppen ein löfl voll, vnd ein buter, vnd gewürz, laß es sieden. <lb/></p>
+        <p> Sied den <objectName ref="rein">rein</objectName> salbm das genug ist, darnach röst ihn im buter, <lb/> das er schön braun ist, darnach nimb ein sauren <objectName ref="wein">Wein</objectName>, vnd <lb/> sein <objectName ref="suppe">Suppen</objectName> ein löfl voll, vnd ein buter, vnd gewürz, laß es sieden. <lb/> </p>
             </div>
         </body>
     </text>

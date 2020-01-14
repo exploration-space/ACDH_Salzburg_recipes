@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) sauber Mehl <lb/> vnd zwey oder drey Eyer <lb/> hacks durcheinander <lb/> biß klein wirt <lb/> thu es in eine Schüssel <lb/> vn(n) halts gegen dem Feuwer <lb/> rür es vmb <lb/> biß trucken wirt <lb/> rürs eyn in gesotten Milch <lb/> vnnd thu Butter viel darein <lb/> laß damit sieden <lb/> saltz es ab <lb/> so ist ein gut Muß.</p>
+        <p> Nim ( m ) sauber <objectName ref="mehl">Mehl</objectName> <lb/> vnd zwey oder drey Eyer <lb/> hacks durcheinander <lb/> biß klein wirt <lb/> thu es in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> vn ( n ) halts gegen dem Feuwer <lb/> rür es vmb <lb/> biß trucken wirt <lb/> rürs eyn in gesotten <objectName ref="milch">Milch</objectName> <lb/> vnnd thu <objectName ref="butter">Butter</objectName> viel darein <lb/> laß damit sieden <lb/> saltz es ab <lb/> so ist ein gut Muß. </p>
             </div>
         </body>
     </text>

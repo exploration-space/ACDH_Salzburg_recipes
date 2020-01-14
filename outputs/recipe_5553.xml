@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Gebacken Amarellen in einem solchen Teig gebacken.</p>
+        <p> Gebacken Amarellen in einem solchen <objectName ref="teig">Teig</objectName> gebacken. </p>
             </div>
         </body>
     </text>

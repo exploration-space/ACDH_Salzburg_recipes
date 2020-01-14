@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb auch bähte Semblschnitl, richts auf ein schißl, rest ein Zwifl, vnd <lb/> bren ein Wenig mell darzue, rests nit gar schwarz, geuß rämb oder <lb/> guete milch dran, gewürz, vnd ein Wenig saffran, laß Sieden, salz <lb/> ein Wenig, buter drein, gieß siedent ÿber die schnitl, dekhs Zue, <lb/> vnd gibs Warmb.<lb/></p>
+        <p> Nimb auch bähte Semblschnitl, richts auf ein schißl, rest ein Zwifl, vnd <lb/> bren ein Wenig mell darzue, rests nit gar schwarz, geuß rämb oder <lb/> guete <objectName ref="milch">milch</objectName> dran, gewürz, vnd ein Wenig saffran, laß Sieden, <objectName ref="salz">salz</objectName> <lb/> ein Wenig, buter drein, gieß siedent ÿber die schnitl, dekhs Zue, <lb/> vnd gibs Warmb./ </p>
             </div>
         </body>
     </text>

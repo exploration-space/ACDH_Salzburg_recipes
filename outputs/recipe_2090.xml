@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Spinät, vnd hakh ihn khlein, darnach tauche es auß, vnd <lb/> rests im Schmalz, thue darnach geribne Sembl drunder, pfeffer <lb/> stup, Zukher, mach ein blat auß, Wie Zu andern dorten, streich <lb/> die fühl darnach drauf, moch ein Eÿß drüber, bachs in einer <lb/> dortenpfan, so ists bereith. <lb/></p>
+        <p> Nimb Spinät, vnd hakh ihn khlein, darnach tauche es auß, vnd <lb/> rests im <objectName ref="schmalz">Schmalz</objectName>, thue darnach geribne Sembl drunder, <objectName ref="pfeffer">pfeffer</objectName> <lb/> stup, Zukher, mach ein blat auß, Wie Zu andern dorten, streich <lb/> die fühl darnach drauf, moch ein Eÿß drüber, bachs in einer <lb/> dortenpfan, so ists bereith. <lb/> </p>
             </div>
         </body>
     </text>

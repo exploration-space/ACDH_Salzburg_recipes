@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim schöne Quitten<lb/> wis[ch]e sie sauber ab<lb/> schnei= [S.8] de sie in vier stücken<lb/> darnach nim ein maß frisch Brunnenwasser<lb/> thus in eine Messine Pfannen<lb/> schütte die Schniz darein<lb/> laß sieden<lb/> biß du sie ein wenig kanst mit dem Finger trucken<lb/> doch daß sie nicht zu weich seyn<lb/> thus herauß<lb/> vnd geuß das Wasser hin<lb/> nim wider wie zuvor<lb/> wie viel du dann machen wilt<lb/> thus in ein reines leines Säcklein<lb/> trucks in einer Pressen auß<lb/> so gibts ein weissen Safft<lb/> wann du eine halbe maß safft hast<lb/> so nim 1. pfundt guten weissen Zucker<lb/> nur ungeläutert<lb/> sieds gehlingen ab<lb/> biß auff einem Teller gestehet<lb/> gieß darnach in einen Model.</p>
+        <p> Nim schöne Quitten/ wis [ ch ] e sie sauber ab/ schnei= [ S.8 ] de sie in vier stücken/ darnach nim ein <objectName ref="mass">maß</objectName> frisch Brunnenwasser/ thus in eine Messine Pfannen/ schütte die Schniz darein/ laß sieden/ biß du sie ein wenig kanst mit dem Finger trucken/ doch daß sie nicht zu weich seyn/ thus herauß/ vnd geuß das <objectName ref="wasser">Wasser</objectName> hin/ nim wider wie zuvor/ wie viel du dann machen wilt/ thus in ein reines leines Säcklein/ trucks in einer Pressen auß/ so gibts ein weissen Safft/ wann du eine halbe <objectName ref="mass">maß</objectName> safft hast/ so nim 1. pfundt guten weissen Zucker/ nur ungeläutert/ sieds gehlingen ab/ biß auff einem <objectName ref="teller">Teller</objectName> gestehet/ gieß darnach in einen <objectName ref="model">Model</objectName>. </p>
             </div>
         </body>
     </text>

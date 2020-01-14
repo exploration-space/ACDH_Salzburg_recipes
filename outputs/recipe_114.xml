@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Siede<gap/> den fisch in ein wasser ab wan <lb/> er Genueg Gesodten<gap/> ist lög in auf <lb/> ein schisßl<gap/> Gewierz<gap/> ihm mit <lb/> Muscablie<gap/> vnd besträhe<gap/> es mit sembl <lb/> Presl<gap/> vnd Khlein gehackhten Pettersill <lb/> khraut Er ist ferttig. <lb/><lb/> (re 48)</p>
+        <p> Siede<gap/> den <objectName ref="fisch">fisch</objectName> in ein <objectName ref="wasser">wasser</objectName> ab wan <lb/> er Genueg Gesodten<gap/> ist lög in auf <lb/> ein schisßl<gap/> Gewierz<gap/> ihm mit <lb/> Muscablie<gap/> vnd besträhe<gap/> es mit sembl <lb/> Presl<gap/> vnd Khlein gehackhten Pettersill <lb/> khraut Er ist ferttig. <lb/><lb/> ( re 48 ) </p>
             </div>
         </body>
     </text>

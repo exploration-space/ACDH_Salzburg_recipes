@@ -173,9 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Du magst auch ein Muß machen von einer Kappaunen Leber <lb/> brat sie <lb/> vnd stoß mit schwartzen Rosein vnnd gebeht Schnitten Brot <lb/> stoß das wol durcheinander <lb/> zerlaß es mit eim warmen Wein <lb/> vnd streichs durch ein Härin Tuch <lb/> das fein dick ist <lb/> Wenn du es durchgestrichen hast <lb/> so thu es in ein kleinen Fischkessel <lb/> zuckers <lb/> vn(d) rürs vmb <lb/> thu auch darvnter ein wenig Zimmet vnd Pfeffer <lb/> wenns auffgesotten ist <lb/> so richt es an <lb/> dieweil es warm ist. Wenns ein krancker Mensch isset <lb/> so darffstu es nicht würtzen <lb/> denn es ist ein linde Speiß. Du magst es gebe(n) kalt oder warm <lb/> Wiltu es kalt geben <lb/> so mustu es würtzen mit Zimmet <lb/> Pfeffer <lb/> vnd ein wenig Neglein.
-
-</p>
+        <p> Du magst auch ein Muß machen von einer Kappaunen <objectName ref="leber">Leber</objectName> <lb/> brat sie <lb/> vnd stoß mit schwartzen Rosein vnnd gebeht Schnitten <objectName ref="brot">Brot</objectName> <lb/> stoß das wol durcheinander <lb/> zerlaß es mit eim warmen <objectName ref="wein">Wein</objectName> <lb/> vnd streichs durch ein Härin <objectName ref="tuch">Tuch</objectName> <lb/> das fein dick ist <lb/> Wenn du es durchgestrichen hast <lb/> so thu es in ein kleinen <objectName ref="fischkessel">Fischkessel</objectName> <lb/> zuckers <lb/> vn ( d ) rürs vmb <lb/> thu auch darvnter ein wenig Zimmet vnd <objectName ref="pfeffer">Pfeffer</objectName> <lb/> wenns auffgesotten ist <lb/> so richt es an <lb/> dieweil es warm ist. Wenns ein krancker Mensch isset <lb/> so darffstu es nicht würtzen <lb/> denn es ist ein linde Speiß. Du magst es gebe ( n ) kalt oder warm <lb/> Wiltu es kalt geben <lb/> so mustu es würtzen mit Zimmet <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> vnd ein wenig Neglein. </p>
             </div>
         </body>
     </text>

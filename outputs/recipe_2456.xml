@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZIehe eine Hand voll Mandeln ab <lb/> und stosse dieselbe mit ein wenig Rosenwasser klein <lb/> querle oder klopffe vier oder fünff Eyer <lb/> gieß eine halbe Maas süssen Ram oder Kern dazu <lb/> und rühre die Mandeln darunter; hernach zuckers und bestreich eine zienerne Schüssel mit Butter <lb/> gieß das abgerührte darein <lb/> setz es auf die Kohlen und laß sieden <lb/> biß es fast gestehet: alsdann streue Zimmet darauf <lb/> und gibs zu essen.</p>
+        <p> ZIehe eine Hand voll <objectName ref="mandeln">Mandeln</objectName> ab <lb/> und stosse dieselbe mit ein wenig <objectName ref="rosenwasser">Rosenwasser</objectName> klein <lb/> querle oder klopffe vier oder fünff Eyer <lb/> gieß eine halbe <objectName ref="maas">Maas</objectName> süssen Ram oder Kern dazu <lb/> und rühre die <objectName ref="mandeln">Mandeln</objectName> darunter; hernach zuckers und bestreich eine zienerne <objectName ref="schuessel">Schüssel</objectName> mit <objectName ref="butter">Butter</objectName> <lb/> gieß das abgerührte darein <lb/> setz es auf die <objectName ref="kohlen">Kohlen</objectName> und laß sieden <lb/> biß es fast gestehet : alsdann streue Zimmet darauf <lb/> und gibs zu essen. </p>
             </div>
         </body>
     </text>

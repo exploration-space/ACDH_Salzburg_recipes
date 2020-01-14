@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIede den Hecht im Saltzwasser und ein wenig Essig <lb/> seihe alsdann die Brüh davon <lb/> gieß Wein <lb/> und von denen zuvor abgesotten= und durchgezwungenen Erbsen <lb/> die dicklichte Brüh daran <lb/> würff ein Stück Butter dazu <lb/> würtz es mit guter Gewürtz <lb/> und laß es wohl zusammen sieden.</p>
+        <p> SIede den <objectName ref="hecht">Hecht</objectName> im Saltzwasser und ein wenig <objectName ref="essig">Essig</objectName> <lb/> seihe alsdann die Brüh davon <lb/> gieß <objectName ref="wein">Wein</objectName> <lb/> und von denen zuvor abgesotten= und durchgezwungenen <objectName ref="erbsen">Erbsen</objectName> <lb/> die dicklichte Brüh daran <lb/> würff ein Stück <objectName ref="butter">Butter</objectName> dazu <lb/> würtz es mit guter Gewürtz <lb/> und laß es wohl zusammen sieden. </p>
             </div>
         </body>
     </text>

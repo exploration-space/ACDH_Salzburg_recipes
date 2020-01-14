@@ -165,9 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wer der Wein wil pflegen <lb/> sol jr verhüten vor den Osterwinden <lb/> vnd vor der vbrigen Hitz vnd Kälte <lb/> vnd wenn es regnet vnd dondert <lb/> das schadert sehr.
-
-Nim ein Faß <lb/> das gemacht ist von Wacholderholtz <lb/> vnd geuß de Wein in seiner ger darein <lb/> oder thu Wurtzeln von Weinstöcken darein <lb/> so weret der Wein lang <lb/> oder henck ein wenig Hopffen darein in einem Säcklein <lb/> so wirt der Wein starck vnd wolgeschmack.</p>
+        <p> Wer der <objectName ref="wein">Wein</objectName> wil pflegen <lb/> sol jr verhüten vor den Osterwinden <lb/> vnd vor der vbrigen Hitz vnd Kälte <lb/> vnd wenn es regnet vnd dondert <lb/> das schadert sehr. Nim ein Faß <lb/> das gemacht ist von Wacholderholtz <lb/> vnd geuß de <objectName ref="wein">Wein</objectName> in seiner ger darein <lb/> oder thu Wurtzeln von Weinstöcken darein <lb/> so weret der <objectName ref="wein">Wein</objectName> lang <lb/> oder henck ein wenig Hopffen darein in einem <objectName ref="saecklein">Säcklein</objectName> <lb/> so wirt der <objectName ref="wein">Wein</objectName> starck vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

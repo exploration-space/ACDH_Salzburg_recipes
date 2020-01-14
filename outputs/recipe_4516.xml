@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm einen Löffel voll schönes Mehls <lb/> röste dasselbe im Schmaltz <lb/> aber nicht braun <lb/> und laß es wieder erkuhlen ; darnach klopffe vier Eyerdottern <lb/> gieß eine kalte Fleischbrühe dazu <lb/> zwyre das Mehl damit an <lb/> und laß es mit stetem rühren gemach aufsieden ; thue auch Butter darein <lb/> und streue Muscatenblühe darauf.</p>
+        <p> NImm einen <objectName ref="loeffel">Löffel</objectName> voll schönes Mehls <lb/> röste dasselbe im Schmaltz <lb/> aber nicht braun <lb/> und laß es wieder erkuhlen; darnach klopffe vier Eyerdottern <lb/> gieß eine kalte <objectName ref="fleischbruehe">Fleischbrühe</objectName> dazu <lb/> zwyre das <objectName ref="mehl">Mehl</objectName> damit an <lb/> und laß es mit stetem rühren gemach aufsieden; thue auch <objectName ref="butter">Butter</objectName> darein <lb/> und streue Muscatenblühe darauf. </p>
             </div>
         </body>
     </text>

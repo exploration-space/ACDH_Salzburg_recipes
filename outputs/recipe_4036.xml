@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm von den Lachsen <lb/> oder Rhein= Salmen das geröste <lb/> oder übersottne Brät <lb/> mit Butter <lb/> Gewürtz <lb/> und mit süssen Ram <lb/> oder Milch geweichte Semmel <lb/> und Eyerdotter <lb/> welches wie die Capaunen= Würst <lb/> gehackt und eingefüllt wird <lb/> und gibt gute weisse Würst.</p>
+        <p> NImm von den Lachsen <lb/> oder Rhein= Salmen das geröste <lb/> oder übersottne Brät <lb/> mit <objectName ref="butter">Butter</objectName> <lb/> Gewürtz <lb/> und mit süssen Ram <lb/> oder <objectName ref="milch">Milch</objectName> geweichte Semmel <lb/> und Eyerdotter <lb/> welches wie die Capaunen= Würst <lb/> gehackt und eingefüllt wird <lb/> und gibt gute weisse Würst. </p>
             </div>
         </body>
     </text>

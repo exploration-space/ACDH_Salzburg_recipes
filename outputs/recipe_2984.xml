@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BOhnen seynd gut mit Speck gekocht <lb/> und mit Pfeffer und guten Kräutlein gewürtzt <lb/> auch allzeit etwas von Knoblauch <lb/> oder Zwibel.</p>
+        <p> <objectName ref="bohnen">BOhnen</objectName> seynd gut mit <objectName ref="speck">Speck</objectName> gekocht <lb/> und mit <objectName ref="pfeffer">Pfeffer</objectName> und guten Kräutlein gewürtzt <lb/> auch allzeit etwas von <objectName ref="knoblauch">Knoblauch</objectName> <lb/> oder Zwibel. </p>
             </div>
         </body>
     </text>

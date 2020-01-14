@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChählet und schneidet die Pfersische halb von einander <lb/> rühret in einem messingen Kesselein sechzehen Loth Pfersische <lb/> und acht Loth Zucker <lb/> wohl unter einander <lb/> lassets über der Kohlen sieden <lb/> biß sie sich in dem Kesselein abschählen: füllet hernach den Teig in die Mödel <lb/> ziehet aber selbige zuvor durch ein warmes Wasser <lb/> wie bey den Quitten= Zelten bereits erinnert worden.</p>
+        <p> SChählet und schneidet die Pfersische halb von einander <lb/> rühret in einem messingen <objectName ref="kesselein">Kesselein</objectName> sechzehen <objectName ref="loth">Loth</objectName> Pfersische <lb/> und acht <objectName ref="loth">Loth</objectName> <objectName ref="zucker">Zucker</objectName> <lb/> wohl unter einander <lb/> lassets über der <objectName ref="kohlen">Kohlen</objectName> sieden <lb/> biß sie sich in dem <objectName ref="kesselein">Kesselein</objectName> abschählen : füllet hernach den <objectName ref="teig">Teig</objectName> in die Mödel <lb/> ziehet aber selbige zuvor durch ein warmes <objectName ref="wasser">Wasser</objectName> <lb/> wie bey den Quitten= Zelten bereits erinnert worden. </p>
             </div>
         </body>
     </text>

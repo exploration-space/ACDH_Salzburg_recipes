@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Es wird der Auerhahn auf obige Weiß gedämpfft <lb/> ist auch gut und wohlgeschmack mit gestossenen und durchgetriebenen Wachholder = oder Kronabet = Beeren <lb/> gelb oder braun.</p>
+        <p> Es wird der <objectName ref="auerhahn">Auerhahn</objectName> auf obige Weiß gedämpfft <lb/> ist auch gut und wohlgeschmack mit gestossenen und durchgetriebenen Wachholder = oder Kronabet = <objectName ref="beeren">Beeren</objectName> <lb/> gelb oder braun. </p>
             </div>
         </body>
     </text>

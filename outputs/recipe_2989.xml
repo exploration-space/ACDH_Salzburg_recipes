@@ -170,10 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BOhnen gesotten <lb/> seynd gut kalt und warm in Salat <lb/> mit Pfeffer <lb/> Eßig <lb/> und wol Oel.
-
-Bohnen grün <lb/> frisch aus den Hülsen gelößt <lb/> kocht man den grünen Erbsen gleich <lb/> in Petersil <lb/> Pfeffer und Butter.
-</p>
+        <p> <objectName ref="bohnen">BOhnen</objectName> gesotten <lb/> seynd gut kalt und warm in <objectName ref="salat">Salat</objectName> <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Eßig <lb/> und wol Oel. <objectName ref="bohnen">Bohnen</objectName> grün <lb/> frisch aus den Hülsen gelößt <lb/> kocht man den grünen <objectName ref="erbsen">Erbsen</objectName> gleich <lb/> in Petersil <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und <objectName ref="butter">Butter</objectName>. </p>
             </div>
         </body>
     </text>

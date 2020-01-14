@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Oder mach kleine Pasteten <lb/> daß einer eine auff einmal kan in das Maul schieben <lb/> Nim(m) das Fleisch <lb/> vnd laß gar an die statt sieden <lb/> hack es mit einem Speck <lb/> oder ist es vorhin feißt <lb/> so darffstu kein Speck <lb/> nim(m) darvnter kleine Rosein <lb/> machs ab mit Pfeffer <lb/> Saffran <lb/> vn(n) ein wenig Essig <lb/> mach es eyn in die Pasteten. Hastu kein Weinbeer <lb/> so nim(m) Agrastbeer oder Groselbeer <lb/> saltz es gelindt <lb/> vnd mach sie nicht grösser <lb/> als dz du eine auff einmal kanst in das Maul schieben <lb/> so seindt sie gut vnd wolgeschmack.</p>
+        <p> Oder mach kleine <objectName ref="pastete">Pasteten</objectName> <lb/> daß einer eine auff einmal kan in das Maul schieben <lb/> Nim ( m ) das <objectName ref="fleisch">Fleisch</objectName> <lb/> vnd laß gar an die statt sieden <lb/> hack es mit einem <objectName ref="speck">Speck</objectName> <lb/> oder ist es vorhin feißt <lb/> so darffstu kein <objectName ref="speck">Speck</objectName> <lb/> nim ( m ) darvnter kleine Rosein <lb/> machs ab mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Saffran <lb/> vn ( n ) ein wenig <objectName ref="essig">Essig</objectName> <lb/> mach es eyn in die <objectName ref="pastete">Pasteten</objectName>. Hastu kein Weinbeer <lb/> so nim ( m ) Agrastbeer oder Groselbeer <lb/> saltz es gelindt <lb/> vnd mach sie nicht grösser <lb/> als dz du eine auff einmal kanst in das Maul schieben <lb/> so seindt sie gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

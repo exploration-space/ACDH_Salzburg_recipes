@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Fülle die Köpff mit einem guten Gehäck oder Füll <lb/> und übersieds <lb/> biß weich genug seynd <lb/> zerschneids <lb/> und richts in ein Schüssel <lb/> gieß daran ein guten siedigen Ram <lb/> mit Butter und gut Gewürtz <lb/> laß damit aufsieden <lb/> und gibs mit geriebnem Parmesan- Käß bestreut.</p>
+        <p> Fülle die Köpff mit einem guten <objectName ref="gehaeck">Gehäck</objectName> oder Füll <lb/> und übersieds <lb/> biß weich genug seynd <lb/> zerschneids <lb/> und richts in ein <objectName ref="schuessel">Schüssel</objectName> <lb/> gieß daran ein guten siedigen Ram <lb/> mit <objectName ref="butter">Butter</objectName> und gut Gewürtz <lb/> laß damit aufsieden <lb/> und gibs mit geriebnem Parmesan- Käß bestreut. </p>
             </div>
         </body>
     </text>

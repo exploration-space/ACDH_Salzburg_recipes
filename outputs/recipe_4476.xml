@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>AUs obigen Capaunen= Brät No. 45. mit frischen Butter und Eyern glatt abgerührt <lb/> kan man ein aufgegangenes Capaunen= Müslein <lb/> in einen Reiff auf die Schüssel <lb/> oder in ein mit Butter beschmiertes Reinlein <lb/> mit doppelter Glut machen; und wer <lb/> will mischet auch gantz klein= gestossene Mandeln darunter.</p>
+        <p> AUs obigen Capaunen= Brät No. 45. mit frischen <objectName ref="butter">Butter</objectName> und Eyern glatt abgerührt <lb/> kan man ein aufgegangenes Capaunen= Müslein <lb/> in einen Reiff auf die <objectName ref="schuessel">Schüssel</objectName> <lb/> oder in ein mit <objectName ref="butter">Butter</objectName> beschmiertes Reinlein <lb/> mit doppelter <objectName ref="glut">Glut</objectName> machen; und wer <lb/> will mischet auch gantz klein= gestossene <objectName ref="mandeln">Mandeln</objectName> darunter. </p>
             </div>
         </body>
     </text>

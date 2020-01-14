@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIses Fleisch wird mit Saltz <lb/> zerstossenen Wachholder= Beer und Salliter= Zeltlein wohl eingerieben <lb/> und etlich Tag in diser Sur ligen gelassen <lb/> absonderlich die Schlegel <lb/> mit wenig Knoblauch <lb/> Lorbeer= Blättern <lb/> und Rosmarin; hernach mit Zwibeln <lb/> Eßig <lb/> und diser Sur eingepaitzt <lb/> und was zum Spicken tauglich <lb/> nachdem es wohl geschlagen <lb/> mürb gemacht <lb/> und sauber gespickt <lb/> wird in dem Braten und Einmachen <lb/> gleich dem andern Wildpret verfahren.</p>
+        <p> DIses <objectName ref="fleisch">Fleisch</objectName> wird mit Saltz <lb/> zerstossenen Wachholder= Beer und Salliter= Zeltlein wohl eingerieben <lb/> und etlich Tag in diser Sur ligen gelassen <lb/> absonderlich die <objectName ref="schlegel">Schlegel</objectName> <lb/> mit wenig <objectName ref="knoblauch">Knoblauch</objectName> <lb/> Lorbeer= Blättern <lb/> und <objectName ref="rosmarin">Rosmarin</objectName>; hernach mit Zwibeln <lb/> Eßig <lb/> und diser Sur eingepaitzt <lb/> und was zum Spicken tauglich <lb/> nachdem es wohl geschlagen <lb/> mürb gemacht <lb/> und sauber gespickt <lb/> wird in dem Braten und Einmachen <lb/> gleich dem andern Wildpret verfahren. </p>
             </div>
         </body>
     </text>

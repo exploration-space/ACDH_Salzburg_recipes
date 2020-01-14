@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>VOm Hecht= Brät <lb/> oder Gehäck findet man nach Genügen bey denen Fasten= Suppen <lb/> im Andern Buch <lb/> des Ersten Theils.</p>
+        <p> VOm Hecht= Brät <lb/> oder <objectName ref="gehaeck">Gehäck</objectName> findet man nach Genügen bey denen Fasten= <objectName ref="suppe">Suppen</objectName> <lb/> im Andern Buch <lb/> des Ersten Theils. </p>
             </div>
         </body>
     </text>

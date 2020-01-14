@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm Schmaltz= Pfund= oder Pargamotta- Birn <lb/> scheels und schabs biß an den Butzen <lb/> doch also <lb/> daß dieser an dem Stengel <lb/> oder Stiel hangen bleibt <lb/> unter die geschabne Birn mische gestossenen Zucker <lb/> wenig Zimmet= Stup <lb/> und wenig Mund= Meel <lb/> legs wiederum um den Butzen herum <lb/> als obs ein Birn sey <lb/> hernach bachs in Schmaltz <lb/> und gibs mit Zucker <lb/> oder ein Syrup darüber.</p>
+        <p> NImm Schmaltz= Pfund= oder Pargamotta- Birn <lb/> scheels und schabs biß an den Butzen <lb/> doch also <lb/> daß dieser an dem Stengel <lb/> oder Stiel hangen bleibt <lb/> unter die geschabne Birn mische gestossenen <objectName ref="zucker">Zucker</objectName> <lb/> wenig Zimmet= Stup <lb/> und wenig Mund= Meel <lb/> legs wiederum um den Butzen herum <lb/> als obs ein Birn sey <lb/> hernach bachs in Schmaltz <lb/> und gibs mit <objectName ref="zucker">Zucker</objectName> <lb/> oder ein Syrup darüber. </p>
             </div>
         </body>
     </text>

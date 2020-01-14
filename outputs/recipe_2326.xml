@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Seud den Reiß im Wasser, laß ihn ein Wenig sieden, vnd seich ihn trukhen ab, <lb/> reib ihn khlain, thue aÿr drunder, mach ihn nit Zu din, thue schmalz in ein <lb/> Pfan, schlag khugl drein, mit eim löffl, laß bachen, thue Zukher drauf. <lb/></p>
+        <p> Seud den Reiß im <objectName ref="wasser">Wasser</objectName>, laß ihn ein Wenig sieden, vnd seich ihn trukhen ab, <lb/> reib ihn khlain, thue aÿr drunder, mach ihn nit Zu din, thue <objectName ref="schmalz">schmalz</objectName> in ein <lb/> Pfan, schlag khugl drein, mit eim löffl, laß bachen, thue Zukher drauf. <lb/> </p>
             </div>
         </body>
     </text>

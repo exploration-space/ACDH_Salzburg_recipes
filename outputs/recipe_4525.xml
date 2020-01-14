@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZU einem Seidlein oder halben Maas süssen Ram oder Milch nimmt man fünff Löffel voll Mehl <lb/> röstet dasselbe im Schmaltz <lb/> wiewol man es auch ungeröstet lassen kan : hernach zwieret man das Mehl mit der Milch oder Ram fein glatt an <lb/> daß sie nicht butzicht oder knöckericht wird <lb/> und kochets alsdann über dem Feuer also <lb/> daß der Brey nicht zu dick oder zu dinn werde : wann er dann fertig <lb/> dupffet man ihn oben mit einem Stuck Butter wohl an.</p>
+        <p> ZU einem Seidlein oder halben <objectName ref="maas">Maas</objectName> süssen Ram oder <objectName ref="milch">Milch</objectName> nimmt man fünff <objectName ref="loeffel">Löffel</objectName> voll <objectName ref="mehl">Mehl</objectName> <lb/> röstet dasselbe im Schmaltz <lb/> wiewol man es auch ungeröstet lassen kan : hernach zwieret man das <objectName ref="mehl">Mehl</objectName> mit der <objectName ref="milch">Milch</objectName> oder Ram fein glatt an <lb/> daß sie nicht butzicht oder knöckericht wird <lb/> und kochets alsdann über dem <objectName ref="feuer">Feuer</objectName> also <lb/> daß der Brey nicht zu dick oder zu dinn werde : wann er dann fertig <lb/> dupffet man ihn oben mit einem Stuck <objectName ref="butter">Butter</objectName> wohl an. </p>
             </div>
         </body>
     </text>

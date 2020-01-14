@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim auß der Apotecken Benzoi <lb/> vnd Paradiß= holtz <lb/> jedes 3. quint. zucker 6. loht <lb/> stoß alles beson= dern <lb/> vnd misch in einem Mörser vntereinander mit gutem Rosenwasser <lb/> mach ein Teig darauß <lb/> vnnd praepariers wie Krebsaugen.</p>
+        <p> Nim auß der Apotecken Benzoi <lb/> vnd Paradiß= holtz <lb/> jedes 3. <objectName ref="quint">quint</objectName>. <objectName ref="zucker">zucker</objectName> 6. loht <lb/> stoß alles beson= dern <lb/> vnd misch in einem <objectName ref="moerser">Mörser</objectName> vntereinander mit gutem <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> mach ein <objectName ref="teig">Teig</objectName> darauß <lb/> vnnd praepariers wie Krebsaugen. </p>
             </div>
         </body>
     </text>

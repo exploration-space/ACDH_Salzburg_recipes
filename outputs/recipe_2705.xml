@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn nehme ein halb Seidlein <lb/> oder den vierdten Theil einer Maas <lb/> von braun= oder weissen Bier <lb/> ist gleich viel <lb/> und ein Seidlein <lb/> oder den halben Theil der Maas <lb/> von süssen Ram ; thue beedes zusammen in eine Pfannen <lb/> und rühre es wohl untereinander <lb/> lasse es also mit stetigem Rühren wohl aufsieden <lb/> und richte es über würfflicht= geschnitten und zuvor geröstetes Brod an. Diese Suppe kan man alsdann nach belieben und gefallen zuckern.</p>
+        <p> MAn nehme ein halb Seidlein <lb/> oder den vierdten Theil einer <objectName ref="maas">Maas</objectName> <lb/> von braun= oder weissen <objectName ref="bier">Bier</objectName> <lb/> ist gleich viel <lb/> und ein Seidlein <lb/> oder den halben Theil der <objectName ref="maas">Maas</objectName> <lb/> von süssen Ram; thue beedes zusammen in eine Pfannen <lb/> und rühre es wohl untereinander <lb/> lasse es also mit stetigem Rühren wohl aufsieden <lb/> und richte es über würfflicht= geschnitten und zuvor geröstetes Brod an. Diese <objectName ref="suppe">Suppe</objectName> kan man alsdann nach belieben und gefallen <objectName ref="zucker">zuckern</objectName>. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m)  ein neuwen Krug <lb/>  schmier jhn innwendig wol mit zerlassener Butter <lb/> thu ein solchen Teig darein <lb/> daß der Krug halb davon voll wirt <lb/> vnd wenn er auffgelauffen <lb/>  daß er voll ist <lb/>  so scheubs in heissen Ofen <lb/> vnd laß backen <lb/> thu jn herauß <lb/> vnd laß jn kalt werden <lb/> zerschlag den Krug <lb/> vnnd thu die Schifer davon hinweg <lb/>  vnnd gibs fein gantz auff Tisch <lb/> so sihet es wie ein Krug.</p>
+        <p> Nim ( m ) ein neuwen <objectName ref="krug">Krug</objectName> <lb/> schmier jhn innwendig wol mit zerlassener <objectName ref="butter">Butter</objectName> <lb/> thu ein solchen <objectName ref="teig">Teig</objectName> darein <lb/> daß der <objectName ref="krug">Krug</objectName> halb davon voll wirt <lb/> vnd wenn er auffgelauffen <lb/> daß er voll ist <lb/> so scheubs in heissen <objectName ref="ofen">Ofen</objectName> <lb/> vnd laß backen <lb/> thu jn herauß <lb/> vnd laß jn kalt werden <lb/> zerschlag den <objectName ref="krug">Krug</objectName> <lb/> vnnd thu die Schifer davon hinweg <lb/> vnnd gibs fein gantz auff <objectName ref="tisch">Tisch</objectName> <lb/> so sihet es wie ein <objectName ref="krug">Krug</objectName>. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm das Brät von frischen Lachsen <lb/> oder Rhein= Salmen <lb/> auch das Brät von Aalfischen <lb/> frischer oder gebratner <lb/> so man sie hat <lb/> mit Butter und Gewürtz darunter gemischt <lb/> gehackt <lb/> und in die Därm gefüllt <lb/> das gibt gute Bratwürst.</p>
+        <p> NImm das Brät von frischen Lachsen <lb/> oder Rhein= Salmen <lb/> auch das Brät von Aalfischen <lb/> frischer oder gebratner <lb/> so man sie hat <lb/> mit <objectName ref="butter">Butter</objectName> und Gewürtz darunter gemischt <lb/> gehackt <lb/> und in die Därm gefüllt <lb/> das gibt gute Bratwürst. </p>
             </div>
         </body>
     </text>

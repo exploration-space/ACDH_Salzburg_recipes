@@ -176,9 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Item <lb/> nim(m) ein Büntel von fünff vnd dreyssig Weitzkörnern <lb/> hencks in das Faß <lb/> so wirt das Bier wolgeschmack zu trincken.
-
-Item <lb/> nim(m) Reinfall <lb/> ist ein Kraut <lb/> Wacholderbeer <lb/> vnd deß heyligen Geistes Wurtzel <lb/> Benedicten die rote <lb/> eines so viel als deß andern <lb/> vnd vier frisch oder harte Eyer <lb/> vnd hengs oder legs in das Bierfaß.</p>
+        <p> Item <lb/> nim ( m ) ein Büntel von fünff vnd dreyssig Weitzkörnern <lb/> hencks in das Faß <lb/> so wirt das <objectName ref="bier">Bier</objectName> wolgeschmack zu trincken. Item <lb/> nim ( m ) Reinfall <lb/> ist ein <objectName ref="kraut">Kraut</objectName> <lb/> Wacholderbeer <lb/> vnd deß heyligen Geistes Wurtzel <lb/> Benedicten die rote <lb/> eines so viel als deß andern <lb/> vnd vier frisch oder harte Eyer <lb/> vnd hengs oder legs in das Bierfaß. </p>
             </div>
         </body>
     </text>

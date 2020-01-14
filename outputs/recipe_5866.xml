@@ -179,9 +179,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BRate die Hünlein <lb/> zerlegs <lb/> oder halbiers <lb/> richts in eine Schüssel <lb/> schneid gute Leber zu kleinen Schnitzlein <lb/> röste sie mit klein= gehackten Zwibeln und Petersil im Butter <lb/> und wenig Speck <lb/> mit etlich zerhackten Capryen und Sardellen <lb/> Gewürtz <lb/> mit wenig Meel gelb <lb/> oder liechtbraun; wanns fertig <lb/> so gieß daran ein wenig Fleischbrühe <lb/> oder Wasser <lb/> mit wenig Eßig <lb/> gibs über die Hünlein <lb/> bedecks <lb/> laß noch eine Weil auf der Glut aufsieden <lb/> und gibs mit kurzer Brühe.
-
-Wer will <lb/> kan diese Brühe durchtreiben <lb/> durch ein Haar= Sieblein <lb/> oder Tuch.</p>
+        <p> BRate die Hünlein <lb/> zerlegs <lb/> oder halbiers <lb/> richts in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> schneid gute <objectName ref="leber">Leber</objectName> zu kleinen Schnitzlein <lb/> röste sie mit klein= gehackten Zwibeln und Petersil im <objectName ref="butter">Butter</objectName> <lb/> und wenig <objectName ref="speck">Speck</objectName> <lb/> mit etlich zerhackten Capryen und <objectName ref="sardellen">Sardellen</objectName> <lb/> Gewürtz <lb/> mit wenig Meel gelb <lb/> oder liechtbraun; wanns fertig <lb/> so gieß daran ein wenig <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> oder <objectName ref="wasser">Wasser</objectName> <lb/> mit wenig Eßig <lb/> gibs über die Hünlein <lb/> bedecks <lb/> laß noch eine Weil auf der <objectName ref="glut">Glut</objectName> aufsieden <lb/> und gibs mit kurzer <objectName ref="bruehe">Brühe</objectName>. Wer will <lb/> kan diese <objectName ref="bruehe">Brühe</objectName> durchtreiben <lb/> durch ein Haar= Sieblein <lb/> oder <objectName ref="tuch">Tuch</objectName>. </p>
             </div>
         </body>
     </text>

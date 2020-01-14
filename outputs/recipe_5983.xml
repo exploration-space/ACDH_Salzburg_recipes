@@ -171,8 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Fülle und brate die Tauben <lb/> wie jetzt gemeldt <lb/> jedoch ohne gespickte Fricantoen <lb/> und Kälber = Flecklein <lb/> und wann sie schön im Safft gebraten <lb/> und wieder abgekühlt <lb/> so stosset mans in einem Salbey = Brand = oder Schnitten = Taig <lb/> und bachts aus heissem Schmaltz; und wer will <lb/> der mischet klein = gehackten Salbey <lb/> oder Petersil = Kräutlein in den Taig; Es können auch die Tauben entzwey geschnitten <lb/> und halbiert werden: garniers mit gebachnen grünen Kräutlein und Kälber = Euterlein.
-</p>
+        <p> Fülle und brate die <objectName ref="taube">Tauben</objectName> <lb/> wie jetzt gemeldt <lb/> jedoch ohne gespickte Fricantoen <lb/> und Kälber = Flecklein <lb/> und wann sie schön im Safft gebraten <lb/> und wieder abgekühlt <lb/> so stosset mans in einem Salbey = Brand = oder Schnitten = Taig <lb/> und bachts aus heissem Schmaltz; und wer will <lb/> der mischet klein = gehackten Salbey <lb/> oder Petersil = Kräutlein in den Taig; Es können auch die <objectName ref="taube">Tauben</objectName> entzwey geschnitten <lb/> und halbiert werden : garniers mit gebachnen grünen Kräutlein und Kälber = Euterlein. </p>
             </div>
         </body>
     </text>

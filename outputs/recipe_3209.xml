@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>VOm Hecht= Brät zum Pupedon , findest du bey denen Krebs= Pasteten.</p>
+        <p> VOm Hecht= Brät zum Pupedon, findest du bey denen Krebs= <objectName ref="pastete">Pasteten</objectName>. </p>
             </div>
         </body>
     </text>

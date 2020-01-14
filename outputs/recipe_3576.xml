@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wann der Kopff wohl gesotten ist <lb/> so thue das Fett und Fleisch von Augen heraus <lb/> hacks mit grünen Kräutern <lb/> geriebenen Semmeln <lb/> Eyerdottern <lb/> wenig Gewürtz und Saltz; mach Schnitten von Semmel <lb/> und streichs darauf <lb/> drucke die andere Schnitten darauf <lb/> und schlag ein oder zwey Eyer durch einander <lb/> und tauche die Schnitten mit den Oerstern darein <lb/> und bachs aus heissem Schmaltz <lb/> gibs gleich auf den Tisch <lb/> und regaliers mit gebachnen Kräutern.</p>
+        <p> Wann der Kopff wohl gesotten ist <lb/> so thue das <objectName ref="fett">Fett</objectName> und <objectName ref="fleisch">Fleisch</objectName> von <objectName ref="augen">Augen</objectName> heraus <lb/> hacks mit grünen <objectName ref="kraeuter">Kräutern</objectName> <lb/> geriebenen <objectName ref="semmeln">Semmeln</objectName> <lb/> Eyerdottern <lb/> wenig Gewürtz und Saltz; mach Schnitten von Semmel <lb/> und streichs darauf <lb/> drucke die andere Schnitten darauf <lb/> und schlag ein oder zwey Eyer durch einander <lb/> und tauche die Schnitten mit den Oerstern darein <lb/> und bachs aus heissem Schmaltz <lb/> gibs gleich auf den <objectName ref="tisch">Tisch</objectName> <lb/> und regaliers mit gebachnen <objectName ref="kraeuter">Kräutern</objectName>. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm eine <lb/> oder mehr Brüst von frischen Hirschen <lb/> wann sie mit dem Schuß nicht verderbt worden <lb/> wässere sie wohl weiß <lb/> hernach planschiere sie auf dem Rost <lb/> oder in siedigem Wasser <lb/> daß du sie sauber kanst spicken <lb/> hernach fülls mit einem guten <lb/> feisten Gehäck <lb/> oder mit einem guten Bratwürst Brät <lb/> brats am Spiß <lb/> oder im Ofen <lb/> fein safftig <lb/> und gib eine gute Sardellen= Brühe darüber ; oder du kanst es zuvor übersieden <lb/> wann sie schon gefüllt ist <lb/> biß auf den halben Theil genug <lb/> und erst hernach spicken <lb/> und am Spiß <lb/> oder in dem Ofen gar abbraten.</p>
+        <p> NImm eine <lb/> oder mehr Brüst von frischen Hirschen <lb/> wann sie mit dem Schuß nicht verderbt worden <lb/> wässere sie wohl weiß <lb/> hernach planschiere sie auf dem <objectName ref="rost">Rost</objectName> <lb/> oder in siedigem <objectName ref="wasser">Wasser</objectName> <lb/> daß du sie sauber kanst spicken <lb/> hernach fülls mit einem guten <lb/> <objectName ref="feisten">feisten</objectName> <objectName ref="gehaeck">Gehäck</objectName> <lb/> oder mit einem guten Bratwürst Brät <lb/> brats am Spiß <lb/> oder im <objectName ref="ofen">Ofen</objectName> <lb/> fein safftig <lb/> und gib eine gute Sardellen= <objectName ref="bruehe">Brühe</objectName> darüber; oder du kanst es zuvor übersieden <lb/> wann sie schon gefüllt ist <lb/> biß auf den halben Theil genug <lb/> und erst hernach spicken <lb/> und am Spiß <lb/> oder in dem <objectName ref="ofen">Ofen</objectName> gar abbraten. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim Feinzucker 1. loht <lb/> siede den mit dem besten Rosenwasser <lb/> so du haben magst <lb/> vnnd wenn er ge= sotten biß es fleugt <lb/> so thu zu letzt ein quint. geriebe= ne Perlein darein <lb/> vnd gieß zeltlein darauß <lb/> wie du weist.</p>
+        <p> Nim Feinzucker 1. loht <lb/> siede den mit dem besten <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> so du haben magst <lb/> vnnd wenn er ge= sotten biß es fleugt <lb/> so thu zu letzt ein <objectName ref="quint">quint</objectName>. geriebe= ne Perlein darein <lb/> vnd gieß zeltlein darauß <lb/> wie du weist. </p>
             </div>
         </body>
     </text>

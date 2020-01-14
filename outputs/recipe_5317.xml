@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Hünlein werden vorhero gewöhnlicher massen mit einem kurtzen Butter= Brühlein schön weiß eingemacht <lb/> und an die statt weich gesotten <lb/> der Spinat aber wird auch <lb/> nachdem er sauber geklaubt <lb/> gewaschen <lb/> in Wasser überbrennt <lb/> wieder abgesiehen <lb/> und ausgedruckt ist <lb/> mit wenigem Pfeffer <lb/> Muscatnuß <lb/> und frischen Butter geröst <lb/> hernach mit der Hünlein= Brühe vermischt und angemacht <lb/> auch recht im Saltz herüber geschwungen; den Spinat in die Schüssel angericht <lb/> und die Hünlein darauf <lb/> regaliers mit rothen <lb/> oder ausgebachenen Semmel= Schnittlein.</p>
+        <p> DIe Hünlein werden vorhero gewöhnlicher massen mit einem kurtzen Butter= Brühlein schön weiß eingemacht <lb/> und an die statt weich gesotten <lb/> der <objectName ref="spinat">Spinat</objectName> aber wird auch <lb/> nachdem er sauber geklaubt <lb/> gewaschen <lb/> in <objectName ref="wasser">Wasser</objectName> überbrennt <lb/> wieder abgesiehen <lb/> und ausgedruckt ist <lb/> mit wenigem <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Muscatnuß <lb/> und frischen <objectName ref="butter">Butter</objectName> geröst <lb/> hernach mit der Hünlein= <objectName ref="bruehe">Brühe</objectName> vermischt und angemacht <lb/> auch recht im Saltz herüber geschwungen; den <objectName ref="spinat">Spinat</objectName> in die <objectName ref="schuessel">Schüssel</objectName> angericht <lb/> und die Hünlein darauf <lb/> regaliers mit rothen <lb/> oder ausgebachenen Semmel= Schnittlein. </p>
             </div>
         </body>
     </text>

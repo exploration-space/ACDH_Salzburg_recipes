@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Rutten so zuvor gebachen <lb/> können auch in brauner Karpffen= jus, in brauner Zwibel= Brühe <lb/> oder Sardellen= Brühe <lb/> gleich also <lb/> oder mit Dardoffeln <lb/> Maurachen <lb/> Schwammen <lb/> auch ausgebachnen Knödlein vom Fisch= Brät gegeben werden.</p>
+        <p> DIe Rutten so zuvor gebachen <lb/> können auch in brauner Karpffen= <objectName ref="jus">jus</objectName>, in brauner Zwibel= <objectName ref="bruehe">Brühe</objectName> <lb/> oder Sardellen= <objectName ref="bruehe">Brühe</objectName> <lb/> gleich also <lb/> oder mit Dardoffeln <lb/> Maurachen <lb/> Schwammen <lb/> auch ausgebachnen Knödlein vom Fisch= Brät gegeben werden. </p>
             </div>
         </body>
     </text>

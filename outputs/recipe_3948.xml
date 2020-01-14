@@ -173,9 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet Mehl und Eyer <lb/> weisses Bier <lb/> oder <lb/> an dessen statt <lb/> einen Kern oder Ram <lb/> und ein wenig Wein <lb/> rührets unter einander <lb/> saltzets; machet den Teig fein dinn <lb/> daß er durch ein Triechterlein laufft <lb/> fasset selbiges voll <lb/> und lasset also den Teig in das Schmaltz <lb/> welches nicht zu heiß seyn muß <lb/> lauffen <lb/> und kehret ihn mit einem Gäbelein um: bieget ihn über ein Schäuffelein oder Walcher= Holtz <lb/> und tragets mit Zucker bestreuet zu Tisch.
-
-</p>
+        <p> NEhmet <objectName ref="mehl">Mehl</objectName> und Eyer <lb/> weisses <objectName ref="bier">Bier</objectName> <lb/> oder <lb/> an dessen statt <lb/> einen Kern oder Ram <lb/> und ein wenig <objectName ref="wein">Wein</objectName> <lb/> rührets unter einander <lb/> saltzets; machet den <objectName ref="teig">Teig</objectName> fein dinn <lb/> daß er durch ein Triechterlein laufft <lb/> fasset selbiges voll <lb/> und lasset also den <objectName ref="teig">Teig</objectName> in das Schmaltz <lb/> welches nicht zu heiß seyn muß <lb/> lauffen <lb/> und kehret ihn mit einem Gäbelein um : bieget ihn über ein Schäuffelein oder Walcher= Holtz <lb/> und tragets mit <objectName ref="zucker">Zucker</objectName> bestreuet zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

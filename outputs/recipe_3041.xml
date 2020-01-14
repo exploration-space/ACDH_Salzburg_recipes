@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Man soll Piessen <lb/> Perchtram und Petersil sauber waschen <lb/> in einem Merschel stossen <lb/> gute süsse obere Milch daran giessen <lb/> und durchtreiben <lb/> daß schön grün wird <lb/> darnach 4. oder 5. Eyer <lb/> mit ein wenig Meel darein wol zerklopfft <lb/> ein Schmaltz in einem Reinlein lassen heiß werden <lb/> den Zeug darein giessen <lb/> unten und oben Glut geben <lb/> man kan es gantz heraus thun <lb/> auch zuckern oder nicht <lb/> nach Belieben.</p>
+        <p> Man soll Piessen <lb/> Perchtram und Petersil sauber waschen <lb/> in einem Merschel stossen <lb/> gute süsse obere <objectName ref="milch">Milch</objectName> daran giessen <lb/> und durchtreiben <lb/> daß schön grün wird <lb/> darnach 4. oder 5. Eyer <lb/> mit ein wenig Meel darein wol zerklopfft <lb/> ein Schmaltz in einem Reinlein lassen heiß werden <lb/> den Zeug darein giessen <lb/> unten und oben <objectName ref="glut">Glut</objectName> geben <lb/> man kan es gantz heraus thun <lb/> auch <objectName ref="zucker">zuckern</objectName> oder nicht <lb/> nach Belieben. </p>
             </div>
         </body>
     </text>

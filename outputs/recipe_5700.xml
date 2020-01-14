@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SIede den in Stücke zerschnittenen Hecht auf die bekannte Art im Essig blau <lb/> schneide alsdann eine Zwiebel und einen Apfel zu dinnen Schnitten <lb/> thue ein Stuck vom gebähten Rocken= Brot dazu <lb/> gieß Wein daran <lb/> und laß es alles zusammen sieden; treibs dann durch ein Sieblein oder Seiher <lb/> thue Zucker <lb/> Trisanet <lb/> Pfeffer und Negelein dazu <lb/> laß ferner kochen: lege den bereits blau= gesottenen Hecht in die Schüssel <lb/> gieß die Brüh neben herum darein <lb/> daß der Fisch schon blau bleibt <lb/> und bestreue ihn mit klein= zerschnittenen Citronen= Schelfen.</p>
+        <p> SIede den in Stücke zerschnittenen <objectName ref="hecht">Hecht</objectName> auf die bekannte Art im <objectName ref="essig">Essig</objectName> blau <lb/> schneide alsdann eine <objectName ref="zwiebel">Zwiebel</objectName> und einen Apfel zu dinnen Schnitten <lb/> thue ein Stuck vom gebähten Rocken= <objectName ref="brot">Brot</objectName> dazu <lb/> gieß <objectName ref="wein">Wein</objectName> daran <lb/> und laß es alles zusammen sieden; treibs dann durch ein Sieblein oder <objectName ref="seiher">Seiher</objectName> <lb/> thue <objectName ref="zucker">Zucker</objectName> <lb/> Trisanet <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Negelein dazu <lb/> laß ferner kochen : lege den bereits blau= gesottenen <objectName ref="hecht">Hecht</objectName> in die <objectName ref="schuessel">Schüssel</objectName> <lb/> gieß die Brüh neben herum darein <lb/> daß der <objectName ref="fisch">Fisch</objectName> schon blau bleibt <lb/> und bestreue ihn mit klein= zerschnittenen Citronen= Schelfen. </p>
             </div>
         </body>
     </text>

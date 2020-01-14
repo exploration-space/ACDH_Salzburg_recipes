@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BRunn= und Garten= Kreß zu der Suppen <lb/> auch zu grüner Soß <lb/> und zum Salat.</p>
+        <p> BRunn= und Garten= Kreß zu der <objectName ref="suppe">Suppen</objectName> <lb/> auch zu grüner Soß <lb/> und zum <objectName ref="salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

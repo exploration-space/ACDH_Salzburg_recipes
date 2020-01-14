@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>VOn einem Meerschwein kan man auff vielerley manier koche(n) <lb/> es sey schwartz <lb/> gelb <lb/> gebraten <lb/> oder mit Senff eyngemacht <lb/> auch in Pasteten <lb/> es sey kalt oder warm <lb/> ist es gut vnd wolgeschmack.</p>
+        <p> VOn einem <objectName ref="meerschwein">Meerschwein</objectName> kan man auff vielerley manier koche ( n ) <lb/> es sey schwartz <lb/> gelb <lb/> gebraten <lb/> oder mit Senff eyngemacht <lb/> auch in <objectName ref="pastete">Pasteten</objectName> <lb/> es sey kalt oder warm <lb/> ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

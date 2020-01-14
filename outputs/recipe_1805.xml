@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Semel schniten, die Pär, Seut in ainen <lb/> gueten Weinn zum Gmüesß, treibs durch <lb/> ain tuech, zuggers woll, nimb Imber, Salz <lb/> ain wennig, gibs khalt od(er) warmb, laß ain <lb/> wennig aufsieden. <lb/><lb/> (77v)</p>
+        <p> Nimb Semel schniten, die Pär, Seut in ainen <lb/> gueten <objectName ref="wein">Weinn</objectName> zum Gmüesß, treibs durch <lb/> ain tuech, zuggers woll, nimb Imber, <objectName ref="salz">Salz</objectName> <lb/> ain wennig, gibs khalt od ( er ) warmb, laß ain <lb/> wennig aufsieden. <lb/><lb/> ( 77v ) </p>
             </div>
         </body>
     </text>

@@ -174,11 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nöspeln <lb/> mit Wein <lb/> Zucker <lb/> auch gantzen Zimmet und Nägelein wohl gesotten <lb/> und durchgetrieben; mit Butter <lb/> Eyern <lb/> gestoßnen Mandeln und Semmel=Brosen <lb/> bey eienr Stund abgerührt <lb/> mit kleinen Lemoni=Schelffen gemischt; ist auch ein gutes Muß; ohne Butter <lb/> Eyer und Mandel <lb/> ein edles Koch.
-
-NB. Man kann auch auf dieses Muß ein Eiß <lb/> von Eyerklar <lb/> Zucker und Lemoni=Safft <lb/> machen.
-
-NB. Nöspeln zur Dorten=Füll; seynd im II. Theil <lb/> 2. Buch. I. Capitel <lb/> 13. Blatt <lb/> N°. 5. zu finden.</p>
+        <p> Nöspeln <lb/> mit <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> auch gantzen Zimmet und Nägelein wohl gesotten <lb/> und durchgetrieben; mit <objectName ref="butter">Butter</objectName> <lb/> Eyern <lb/> gestoßnen <objectName ref="mandeln">Mandeln</objectName> und Semmel=Brosen <lb/> bey eienr Stund abgerührt <lb/> mit kleinen Lemoni=Schelffen gemischt; ist auch ein gutes Muß; ohne <objectName ref="butter">Butter</objectName> <lb/> Eyer und Mandel <lb/> ein edles Koch. NB. Man kann auch auf dieses Muß ein Eiß <lb/> von Eyerklar <lb/> <objectName ref="zucker">Zucker</objectName> und Lemoni=Safft <lb/> machen. NB. Nöspeln zur Dorten=Füll; seynd im II. Theil <lb/> 2. Buch. I. Capitel <lb/> 13. <objectName ref="blatt">Blatt</objectName> <lb/> N°. 5. zu finden. </p>
             </div>
         </body>
     </text>

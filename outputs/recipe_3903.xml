@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Es kan auch der Adler in die Pasteten ( wie bey der Bacherey vom Feder = Wildprät beschrieben ) zugericht <lb/> und gleich dem Auerhahn gemacht und gebachen <lb/> der Kopff <lb/> Flügel und Schweiff darauf gesteckt <lb/> und aufgetragen werden.</p>
+        <p> Es kan auch der <objectName ref="adler">Adler</objectName> in die <objectName ref="pastete">Pasteten</objectName> ( wie bey der Bacherey vom <objectName ref="feder">Feder</objectName> = Wildprät beschrieben ) zugericht <lb/> und gleich dem <objectName ref="auerhahn">Auerhahn</objectName> gemacht und gebachen <lb/> der Kopff <lb/> Flügel und Schweiff darauf gesteckt <lb/> und aufgetragen werden. </p>
             </div>
         </body>
     </text>

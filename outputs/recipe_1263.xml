@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Salz die löber<gap/> ein wie ein andtere löber<gap/> zum <lb/> Resten<gap/>, nimb ein Putter<gap/> in ein bfan<gap/>, lög<gap/> die <lb/> löber<gap/> drein, las sieden<gap/> gemach breglen<gap/> trapfe<gap/> <lb/> sie aber Imber zue mit lemany<gap/> Safft<gap/>, khere<gap/> sie <lb/> vmb, vnd trapfe<gap/> die andtere seithen<gap/>, besträhe<gap/> auch <lb/> hernach ein reindtl<gap/> mit pfeffer, vnd zimmet<gap/> Stup<gap/>, <lb/> las darin bis zum anrichten<gap/>, Ist, die khölberne<gap/> <lb/> löber<gap/> khan man auch allso machen, vnd wanst duß <lb/> anrichten<gap/> wilst, so Strähe<gap/> lemany<gap/> schöllen<gap/> darauf <lb/> ist recht, <lb/></p>
+        <p> <objectName ref="salz">Salz</objectName> die löber<gap/> ein wie ein andtere löber<gap/> zum <lb/> Resten<gap/>, nimb ein Putter<gap/> in ein bfan<gap/>, lög<gap/> die <lb/> löber<gap/> drein, las sieden<gap/> gemach breglen<gap/> trapfe<gap/> <lb/> sie aber Imber zue mit lemany<gap/> Safft<gap/>, khere<gap/> sie <lb/> vmb, vnd trapfe<gap/> die andtere seithen<gap/>, besträhe<gap/> auch <lb/> hernach ein reindtl<gap/> mit <objectName ref="pfeffer">pfeffer</objectName>, vnd zimmet<gap/> Stup<gap/>, <lb/> las darin bis zum anrichten<gap/>, Ist, die khölberne<gap/> <lb/> löber<gap/> khan man auch allso machen, vnd wanst duß <lb/> anrichten<gap/> wilst, so Strähe<gap/> lemany<gap/> schöllen<gap/> darauf <lb/> ist recht, <lb/> </p>
             </div>
         </body>
     </text>

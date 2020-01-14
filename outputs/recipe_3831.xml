@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MIt Maurachen <lb/> Schwammen <lb/> Dardoffeln <lb/> Krebsen= Schweifflein <lb/> Butter <lb/> Gewürtz <lb/> Sardellen <lb/> auch ausgelößten Austern <lb/> Müscheln <lb/> etc.</p>
+        <p> MIt Maurachen <lb/> Schwammen <lb/> Dardoffeln <lb/> Krebsen= Schweifflein <lb/> <objectName ref="butter">Butter</objectName> <lb/> Gewürtz <lb/> <objectName ref="sardellen">Sardellen</objectName> <lb/> auch ausgelößten <objectName ref="austern">Austern</objectName> <lb/> Müscheln <lb/> etc. </p>
             </div>
         </body>
     </text>

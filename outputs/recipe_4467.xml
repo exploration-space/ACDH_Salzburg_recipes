@@ -169,9 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SOlcher ist mit einer guten Capry= Lemoni= Sardellen= oder Austern= Brühe zu geben <lb/> wie bey der Bacherey schon angezeigt worden.
-
- </p>
+        <p> SOlcher ist mit einer guten Capry= Lemoni= Sardellen= oder Austern= <objectName ref="bruehe">Brühe</objectName> zu geben <lb/> wie bey der Bacherey schon angezeigt worden. </p>
             </div>
         </body>
     </text>

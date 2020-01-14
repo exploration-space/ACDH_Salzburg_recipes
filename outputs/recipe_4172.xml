@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Aeschen werden geschuppt <lb/> und heiß abgesotten <lb/> seynd köstlich und gut <lb/> warm auf die Schüssel gelegt <lb/> in guter weisser Butter= Brühe ; Item <lb/> mit Capry <lb/> Lemoni <lb/> und allerhand Uberguß <lb/> wie gleich vorher bey denen Salbling und Ferchen ist beschrieben worden ; dito in Wein <lb/> Butter und Gewürtz <lb/> mit Erbsen= Brühe vermischt <lb/> und damit eingemacht in diser Brühe.</p>
+        <p> DIe Aeschen werden geschuppt <lb/> und heiß abgesotten <lb/> seynd köstlich und gut <lb/> warm auf die <objectName ref="schuessel">Schüssel</objectName> gelegt <lb/> in guter weisser Butter= <objectName ref="bruehe">Brühe</objectName>; Item <lb/> mit Capry <lb/> Lemoni <lb/> und allerhand Uberguß <lb/> wie gleich vorher bey denen Salbling und Ferchen ist beschrieben worden; dito in <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="butter">Butter</objectName> und Gewürtz <lb/> mit Erbsen= <objectName ref="bruehe">Brühe</objectName> vermischt <lb/> und damit eingemacht in diser <objectName ref="bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

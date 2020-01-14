@@ -169,9 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DAs Rucken= Stuck <lb/> oder der so= genannte Hochrucken <lb/> wird ordinari in das Kraut und Rüben <lb/> oder auch <lb/> sammt dergleichen Füß und Ohren auf die Hospot <lb/> und in die Ollia gebraucht.
-
- </p>
+        <p> DAs Rucken= Stuck <lb/> oder der so= genannte Hochrucken <lb/> wird ordinari in das <objectName ref="kraut">Kraut</objectName> und <objectName ref="rueben">Rüben</objectName> <lb/> oder auch <lb/> sammt dergleichen Füß und Ohren auf die Hospot <lb/> und in die Ollia gebraucht. </p>
             </div>
         </body>
     </text>

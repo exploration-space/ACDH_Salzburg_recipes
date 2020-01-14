@@ -175,31 +175,7 @@ Willst du Mandelsulz in drei Farben machen, dann nimm Hausenblasen und koche sie
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WIldu machn̄ gesulcz mādel mit dreÿ=
-laÿr gestalt habn̄ (!) so nÿm haussēpletʾ vnd
-die vʾseud in wasser schon vnd nȳm dā
-dick mādel milch vnd petʾsilb vnd hack
-den klain gar wol vnd reib in in einē reib
-scherbn̄ gar klein vnd daz trittail mōd̄l
-milch dar vndʾ vnd zuckkʾs wol ab vnd
-daz wirt dan ein grunÿ varb vnd nÿm
-dā dise czwaÿ tail vnd die seud in einʾ
-pfan vnd zuckkʾs auch wol ab vnd laz
-[324v] also siedn̄ in dʾ pfann vnd geuss dan ein tail al=
-so weissen auf ein pfandellein vnd daz trittail
-mach gleich gel vnd geuss auch auf ein pfa=
-ndellein vnd laz dan sten vnd seud die grunē
-farb auch in eim (!) pfandellein vnd geuss dan
-auf ein pfann allssambt vnd laz sten daz
-es hert werd also hastu dreÿ farb grün
-weis vnd gel vnd hab es vbʾ daz fewr
-vnd tu es pald her ab vnd slach es auf
-ein pannchk vnd sneÿd es dan schafftza=
-gloͤt vnd leg es also gesnitēs auf ein tisch
-auf ein schussel dez ersten so leg dar nach
-weÿs odʾ gruͤn etc. pis die schussel vol
-werd vnd gib es dan han hin vnd bedeck
-es schon</p>
+        <p> WIldu machn̄ gesulcz mādel mit dreÿlaÿr gestalt habn̄ ( ! ) so nÿm haussēpletʾ vnd die vʾseud in <objectName ref="wasser">wasser</objectName> schon vnd nȳm dā dick mādel <objectName ref="milch">milch</objectName> vnd petʾsilb vnd hack den klain gar wol vnd reib in in einē reib scherbn̄ gar klein vnd daz trittail mōd̄l <objectName ref="milch">milch</objectName> dar vndʾ vnd zuckkʾs wol ab vnd daz wirt dan ein grunÿ varb vnd nÿm dā dise czwaÿ tail vnd die seud in einʾ pfan vnd zuckkʾs auch wol ab vnd laz [ 324v ] also siedn̄ in dʾ pfann vnd geuss dan ein tail also weissen auf ein pfandellein vnd daz trittail mach gleich gel vnd geuss auch auf ein pfandellein vnd laz dan sten vnd seud die grunē farb auch in eim ( ! ) pfandellein vnd geuss dan auf ein pfann allssambt vnd laz sten daz es hert werd also hastu dreÿ farb grün weis vnd gel vnd hab es vbʾ daz fewr vnd tu es pald her ab vnd slach es auf ein pannchk vnd sneÿd es dan schafftzagloͤt vnd leg es also gesnitēs auf ein <objectName ref="tisch">tisch</objectName> auf ein schussel dez ersten so leg dar nach weÿs odʾ gruͤn etc. pis die schussel vol werd vnd gib es dan han hin vnd bedeck es schon </p>
             </div>
         </body>
     </text>

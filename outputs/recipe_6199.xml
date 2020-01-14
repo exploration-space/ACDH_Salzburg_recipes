@@ -168,11 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Item <lb/> man sol die Fäß also bereiten <lb/> sie sollen rein vn schön gewäschen seyn <lb/> mit gesaltzenem Wasser <lb/> vnd wol bewart von bösem Geruch <lb/> Wenn sie denn rein geschäschen seind <lb/> so sol man sie räuchern mit gutem Weihrauch.
-
-Item <lb/> nim Welsch Nußbaumen Laub <lb/> vnd seudt das in Wasser <lb/> vnd bahe die Faß damit <lb/> vnd laß das darinnen stehen zween oder drey tag.
-
-Man sol die Faß sauber schwencken mit reinem Wasser <lb/> vnd gar eben warten <lb/> damit sie nicht schimlich werden. Wenn du es also rein behalten <lb/> vn sauber geschwenckt hast <lb/> so beräucher es darnach ein wenig mit eim weissen Weihrauch <lb/> vnd versponte das Faß <lb/> daß der Rauch darinnen bleibe <lb/> etc.</p>
+        <p> Item <lb/> man sol die Fäß also bereiten <lb/> sie sollen <objectName ref="rein">rein</objectName> vn schön gewäschen seyn <lb/> mit gesaltzenem <objectName ref="wasser">Wasser</objectName> <lb/> vnd wol bewart von bösem Geruch <lb/> Wenn sie denn <objectName ref="rein">rein</objectName> geschäschen seind <lb/> so sol man sie räuchern mit gutem <objectName ref="weihrauch">Weihrauch</objectName>. Item <lb/> nim Welsch Nußbaumen Laub <lb/> vnd seudt das in <objectName ref="wasser">Wasser</objectName> <lb/> vnd bahe die Faß damit <lb/> vnd laß das darinnen stehen zween oder drey tag. Man sol die Faß sauber schwencken mit reinem <objectName ref="wasser">Wasser</objectName> <lb/> vnd gar eben warten <lb/> damit sie nicht schimlich werden. Wenn du es also <objectName ref="rein">rein</objectName> behalten <lb/> vn sauber geschwenckt hast <lb/> so beräucher es darnach ein wenig mit eim weissen <objectName ref="weihrauch">Weihrauch</objectName> <lb/> vnd versponte das Faß <lb/> daß der <objectName ref="rauch">Rauch</objectName> darinnen bleibe <lb/> etc. </p>
             </div>
         </body>
     </text>

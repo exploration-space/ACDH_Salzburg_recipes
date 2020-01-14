@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Hierzu nimm schöne weisse <lb/> wol=zeitige <lb/> obgezopffte Holder=Blühe <lb/> in ein zinnerne Kantel <lb/> gieß siedige Milch daran <lb/> und laß zugemacht ein Weil also stehen <lb/> oder laß die Milch also gleich mit der Blühe einen Sud aufthun <lb/> und seihs durch ein Tuch <lb/> oder treibs durchs Haar=Sieb <lb/> so hat die Milch schon den Geschmack von der Holder=Blühe <lb/> dann mach mit dieser Milch ein Kinds=Koch <lb/> mit weissem Meel <lb/> oder ein dergleichen Eyer=Koch <lb/> mit Eyern und Semmel=Brosen abgerührt <lb/> und gesotten <lb/> beym Anrichten mit Zucker und Zimmet bestreut <lb/> oder gleich also; dem es beliebt <lb/> laßt die Blühe darbey.</p>
+        <p> Hierzu nimm schöne weisse <lb/> wol=zeitige <lb/> obgezopffte Holder=Blühe <lb/> in ein zinnerne Kantel <lb/> gieß siedige <objectName ref="milch">Milch</objectName> daran <lb/> und laß zugemacht ein Weil also stehen <lb/> oder laß die <objectName ref="milch">Milch</objectName> also gleich mit der Blühe einen Sud aufthun <lb/> und seihs durch ein <objectName ref="tuch">Tuch</objectName> <lb/> oder treibs durchs Haar=Sieb <lb/> so hat die <objectName ref="milch">Milch</objectName> schon den Geschmack von der Holder=Blühe <lb/> dann mach mit dieser <objectName ref="milch">Milch</objectName> ein Kinds=Koch <lb/> mit weissem Meel <lb/> oder ein dergleichen Eyer=Koch <lb/> mit Eyern und Semmel=Brosen abgerührt <lb/> und gesotten <lb/> beym Anrichten mit <objectName ref="zucker">Zucker</objectName> und Zimmet bestreut <lb/> oder gleich also; dem es beliebt <lb/> laßt die Blühe darbey. </p>
             </div>
         </body>
     </text>

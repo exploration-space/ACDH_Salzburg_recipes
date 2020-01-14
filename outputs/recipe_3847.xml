@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChuppe diesen Fisch <lb/> mache ihn am Bauch auf <lb/> nimme das völlige Bäuschlein heraus <lb/> thue die Gall hinweg <lb/> saltze den Fisch <lb/> gib ihm auf jeder Seiten einen langen Schnitt <lb/> wo er am dickesten ist <lb/> und bache ihn schön Liecht= braun.</p>
+        <p> SChuppe diesen <objectName ref="fisch">Fisch</objectName> <lb/> mache ihn am Bauch auf <lb/> nimme das völlige Bäuschlein heraus <lb/> thue die Gall hinweg <lb/> saltze den <objectName ref="fisch">Fisch</objectName> <lb/> gib ihm auf jeder Seiten einen langen Schnitt <lb/> wo er am dickesten ist <lb/> und bache ihn schön Liecht= braun. </p>
             </div>
         </body>
     </text>

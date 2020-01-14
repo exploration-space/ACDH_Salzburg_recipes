@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChuppe den Karpffen <lb/> und mache ihn am Bauch auf <lb/> nimm das Eingeweid heraus <lb/> wasche ihn <lb/> und schneide drey oder vier Finger breite Stücklein überzwerch daraus <lb/> auf die Art <lb/> wie bey den zerschnitten= und gebratenen Hecht <lb/> Num. 68. gelehret worden <lb/> saltze und würtze ihn mit Pfeffer <lb/> Cardamomen und Muscaten= Blühe <lb/> streue ein wenig Weitzen= Mehl darauf <lb/> laß ein gutes Baum= Oel in einer Pfannen heiß werden <lb/> und bache den Fisch schön gelb heraus : alsdann leg ihn in eine Schüssel <lb/> neben herum aber <lb/> so wohl Lorbeer= Blätter als auch geviertelte Citronen <lb/> und streue klein= und würfflicht= geschnittene Citronen= Schelffen drauf.</p>
+        <p> SChuppe den Karpffen <lb/> und mache ihn am Bauch auf <lb/> nimm das Eingeweid heraus <lb/> wasche ihn <lb/> und schneide drey oder vier Finger breite Stücklein überzwerch daraus <lb/> auf die Art <lb/> wie bey den zerschnitten= und gebratenen <objectName ref="hecht">Hecht</objectName> <lb/> Num. 68. gelehret worden <lb/> saltze und würtze ihn mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Cardamomen und Muscaten= Blühe <lb/> streue ein wenig Weitzen= <objectName ref="mehl">Mehl</objectName> darauf <lb/> laß ein gutes Baum= Oel in einer Pfannen heiß werden <lb/> und bache den <objectName ref="fisch">Fisch</objectName> schön gelb heraus : alsdann leg ihn in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> neben herum aber <lb/> so wohl Lorbeer= Blätter als auch geviertelte Citronen <lb/> und streue klein= und würfflicht= geschnittene Citronen= Schelffen drauf. </p>
             </div>
         </body>
     </text>

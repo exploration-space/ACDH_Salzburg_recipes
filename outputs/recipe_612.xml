@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Honig der in der Artzeney der in der Küchen gebraucht wirdt <lb/> sol wol geleutert vnnd verscheumpt werden <lb/> vff diese weise <lb/> nimb den Honig <lb/> thu ihn in einen messinen oder Küpffe= ren Kessel <lb/> thu halb so viel wassers dran <lb/> vnnd laß wol durcheinander sieden vff eim Kolfewerlin <lb/> ver= [S. 24] scheum es solang <lb/> biß das wasser einseudt <lb/> vnnd schlag jhn darnach in ein rein wüllen Tuch.</p>
+        <p> DEr <objectName ref="honig">Honig</objectName> der in der Artzeney der in der Küchen gebraucht wirdt <lb/> sol wol geleutert vnnd verscheumpt werden <lb/> vff diese weise <lb/> nimb den <objectName ref="honig">Honig</objectName> <lb/> thu ihn in einen messinen oder Küpffe= ren <objectName ref="kessel">Kessel</objectName> <lb/> thu halb so viel wassers dran <lb/> vnnd laß wol durcheinander sieden vff eim Kolfewerlin <lb/> ver= [ S. 24 ] scheum es solang <lb/> biß das <objectName ref="wasser">wasser</objectName> einseudt <lb/> vnnd schlag jhn darnach in ein <objectName ref="rein">rein</objectName> wüllen <objectName ref="tuch">Tuch</objectName>. </p>
             </div>
         </body>
     </text>

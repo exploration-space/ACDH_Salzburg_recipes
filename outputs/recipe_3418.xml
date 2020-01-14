@@ -180,7 +180,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneide sie in zwey <lb/> oder vier Theil <lb/> saltze und klopffe sie mit einem grossen Messerrucken <lb/> melbe sie <lb/> und bache sie schön Semmelfarb <lb/> richts in ein verdecktes Geschirr <lb/> mache ein Marginäd <lb/> mit in Oel gerösten <lb/> klein geschnittenen Zwibeln <lb/> Knoblauch <lb/> Rosmarin <lb/> Lorbeer= Blättlein <lb/> Fleischbrühe und Eßig <lb/> Gewürtz <lb/> Lemoni= Schelffen <lb/> und wenig Saffran <lb/> laß ein= zwey= oder mehrmahlen aufsieden <lb/> und gibs über diese Haßel= oder Reb= Hünlein <lb/> und decke es zu <lb/> darnach du es sauer haben wilst <lb/> und gibs warmer <lb/> oder kalter <lb/> so seynd sie gut: Regaliers mit gebachenen <lb/> oder frischen Kräutlein.</p>
+        <p> SChneide sie in zwey <lb/> oder vier Theil <lb/> saltze und klopffe sie mit einem grossen Messerrucken <lb/> melbe sie <lb/> und bache sie schön Semmelfarb <lb/> richts in ein verdecktes <objectName ref="geschirr">Geschirr</objectName> <lb/> mache ein Marginäd <lb/> mit in Oel gerösten <lb/> klein geschnittenen Zwibeln <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> Lorbeer= Blättlein <lb/> <objectName ref="fleischbruehe">Fleischbrühe</objectName> und Eßig <lb/> Gewürtz <lb/> Lemoni= Schelffen <lb/> und wenig Saffran <lb/> laß ein= zwey= oder mehrmahlen aufsieden <lb/> und gibs über diese Haßel= oder Reb= Hünlein <lb/> und <objectName ref="decke">decke</objectName> es zu <lb/> darnach du es sauer haben wilst <lb/> und gibs warmer <lb/> oder kalter <lb/> so seynd sie gut : Regaliers mit gebachenen <lb/> oder frischen Kräutlein. </p>
             </div>
         </body>
     </text>

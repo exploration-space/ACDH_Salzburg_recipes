@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Darzu nimm gute gedörrte Haber=Kern <lb/> so viel du vonnöthen hast <lb/> röste ihn gar wenig in Butter <lb/> aber nicht braun <lb/> schütt gute Milch oder Ram daran <lb/> und laß damit genug sieden <lb/> biß dick wird <lb/> wie ein Reiß=Koch <lb/> so ist es gesund und gut <lb/> aber gib acht <lb/> daß dirs Anfangs nicht anbrent <lb/> dann es zieht an.</p>
+        <p> Darzu nimm gute gedörrte Haber=Kern <lb/> so viel du vonnöthen hast <lb/> röste ihn gar wenig in <objectName ref="butter">Butter</objectName> <lb/> aber nicht braun <lb/> schütt gute <objectName ref="milch">Milch</objectName> oder Ram daran <lb/> und laß damit genug sieden <lb/> biß dick wird <lb/> wie ein Reiß=Koch <lb/> so ist es gesund und gut <lb/> aber gib acht <lb/> daß dirs Anfangs nicht anbrent <lb/> dann es zieht an. </p>
             </div>
         </body>
     </text>

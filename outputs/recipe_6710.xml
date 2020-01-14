@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim Brunkreß <lb/> vnnd grün Pettersilge <lb/> wasch es miteinander fein sauber auß <lb/> stoß miteinander <lb/> drück den Safft auß mit den Händen <lb/> nim darvnter etwan 15. Dotter vo Eyern <lb/> vnd Essig streich es durch ein Härin Tuch <lb/> nim Pfeffer vn ein wenig Saffran darvnter <lb/> auch weissen Zucker <lb/> laß es miteinander sieden <lb/> vnnd rür es vmb mit einem Eysern Löffel <lb/> biß daß auffseudt <lb/> vnnd ein Faum gibt <lb/> geuß darnach vber die Backfisch <lb/> so ist es schön <lb/> zierlich vnd wolgeschmack.</p>
+        <p> Nim Brunkreß <lb/> vnnd grün Pettersilge <lb/> wasch es miteinander fein sauber auß <lb/> stoß miteinander <lb/> drück den Safft auß mit den Händen <lb/> nim darvnter etwan 15. Dotter vo Eyern <lb/> vnd <objectName ref="essig">Essig</objectName> streich es durch ein Härin <objectName ref="tuch">Tuch</objectName> <lb/> nim <objectName ref="pfeffer">Pfeffer</objectName> vn ein wenig Saffran darvnter <lb/> auch weissen <objectName ref="zucker">Zucker</objectName> <lb/> laß es miteinander sieden <lb/> vnnd rür es vmb mit einem Eysern <objectName ref="loeffel">Löffel</objectName> <lb/> biß daß auffseudt <lb/> vnnd ein Faum gibt <lb/> geuß darnach vber die Backfisch <lb/> so ist es schön <lb/> zierlich vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn die Erdbeer sauber gewaschen <lb/> werden sie zusamt einem weissen Semmelschnitten im süssen oder andern Wein geweicht ; dann durch einen Durchschlag oder Seiher zusamt den Wein durchgetrieben : dann thut Zucker und  noch ein wenig Semmelmehl daran <lb/> und last es ferner einen Sud aufthun <lb/> so kan man es dann warm oder kalt nach belieben geniessen.</p>
+        <p> WAnn die Erdbeer sauber gewaschen <lb/> werden sie zusamt einem weissen <objectName ref="semmelschnitten">Semmelschnitten</objectName> im süssen oder andern <objectName ref="wein">Wein</objectName> geweicht; dann durch einen <objectName ref="durchschlag">Durchschlag</objectName> oder <objectName ref="seiher">Seiher</objectName> zusamt den <objectName ref="wein">Wein</objectName> durchgetrieben : dann thut <objectName ref="zucker">Zucker</objectName> und noch ein wenig <objectName ref="semmelmehl">Semmelmehl</objectName> daran <lb/> und last es ferner einen Sud aufthun <lb/> so kan man es dann warm oder kalt nach belieben geniessen. </p>
             </div>
         </body>
     </text>

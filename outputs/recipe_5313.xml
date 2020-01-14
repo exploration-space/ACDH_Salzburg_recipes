@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIse Hünlein <lb/> nachdeme sie ausgebutzt <lb/> eingesteckt <lb/> in gesaltznen Eßig <lb/> Lorbeer <lb/> Knoblauch <lb/> Zwibel <lb/> Rosmarin <lb/> Lemoni= Schelffen <lb/> und gantzen <lb/> oder grob= gestossnen Gewürtz weich gesotten <lb/> ausgelegt <lb/> und verdeckter auskühlen lassen; hernach durch einen Brand= Taig <lb/> Salbey= Schnitten <lb/> oder weissen Bier= Taig gezogen <lb/> und aus heissem Schmaltz gebachen, regaliers mit gebratenen Netzleins= Würstlein <lb/> und grün= gebachnen Petersil.</p>
+        <p> DIse Hünlein <lb/> nachdeme sie ausgebutzt <lb/> eingesteckt <lb/> in gesaltznen Eßig <lb/> <objectName ref="lorbeer-2">Lorbeer</objectName> <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> Zwibel <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> Lemoni= Schelffen <lb/> und gantzen <lb/> oder grob= gestossnen Gewürtz weich gesotten <lb/> ausgelegt <lb/> und verdeckter auskühlen lassen; hernach durch einen Brand= Taig <lb/> Salbey= Schnitten <lb/> oder weissen Bier= Taig gezogen <lb/> und aus heissem Schmaltz gebachen, regaliers mit gebratenen Netzleins= Würstlein <lb/> und grün= gebachnen Petersil. </p>
             </div>
         </body>
     </text>

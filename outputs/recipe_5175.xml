@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Dieser Fisch wird mit den ersten Sud <lb/> in einer gelben Butter= Erbes= oder Petersil= Brühe <lb/> auch trucken auf das Kraut <lb/> oder auf die Olia, auch auf die durchgetriebne Erbes <lb/> und in die Fasten= Speck= Knödlein gegeben <lb/> dann der Fisch ist an sich selbsten gut <lb/> wann er recht und frisch gerauchert wird.</p>
+        <p> Dieser <objectName ref="fisch">Fisch</objectName> wird mit den ersten Sud <lb/> in einer gelben Butter= Erbes= oder Petersil= <objectName ref="bruehe">Brühe</objectName> <lb/> auch trucken auf das <objectName ref="kraut">Kraut</objectName> <lb/> oder auf die Olia, auch auf die durchgetriebne Erbes <lb/> und in die Fasten= Speck= Knödlein gegeben <lb/> dann der <objectName ref="fisch">Fisch</objectName> ist an sich selbsten gut <lb/> wann er recht und frisch gerauchert wird. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m)  geriebene Mandeln <lb/> zertreib sie am ersten mit Zucker vnnd Rosenwasser <lb/> darnach mit lauter Eyern <lb/> vn(n) machs nicht zu dick. Nim(m) Butter in ein Turtenpfannen <lb/> setz sie auff Kolen <lb/>  vnnd mach sie heiß <lb/>  zeuch die Mandeln darein <lb/>  vnd setz auff heisse Aschen <lb/>  daß vnten vnd oben heiß ist <lb/>  vnd backs fein langsam auß. Stürtz mit der Turtenpfannen vmb <lb/> vnd schneidt es länglicht <lb/>  oder wie du wilt <lb/>  gibs warm auff ein Tisch <lb/> vnd besträw es mit Zucker. Du magst auch kleine Weinbeer darvnter nemmen oder nicht <lb/> so ist es auff beyde manier gut.</p>
+        <p> Nim ( m ) geriebene <objectName ref="mandeln">Mandeln</objectName> <lb/> zertreib sie am ersten mit <objectName ref="zucker">Zucker</objectName> vnnd <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> darnach mit lauter Eyern <lb/> vn ( n ) machs nicht zu dick. Nim ( m ) <objectName ref="butter">Butter</objectName> in ein Turtenpfannen <lb/> setz sie auff Kolen <lb/> vnnd mach sie heiß <lb/> zeuch die <objectName ref="mandeln">Mandeln</objectName> darein <lb/> vnd setz auff heisse <objectName ref="asche">Aschen</objectName> <lb/> daß vnten vnd oben heiß ist <lb/> vnd backs fein langsam auß. Stürtz mit der Turtenpfannen vmb <lb/> vnd schneidt es länglicht <lb/> oder wie du wilt <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> vnd besträw es mit <objectName ref="zucker">Zucker</objectName>. Du magst auch kleine Weinbeer darvnter nemmen oder nicht <lb/> so ist es auff beyde manier gut. </p>
             </div>
         </body>
     </text>

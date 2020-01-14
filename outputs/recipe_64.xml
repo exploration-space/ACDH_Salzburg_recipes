@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb gebuzte Hendl<gap/> wasch sauber <lb/><lb/> (re 23) auß dan salz es ein vnnd khers<gap/> in <lb/> Mehl ein Wenig vmb Pachs<gap/> in <lb/> schmalz<gap/> schön Gelflet<gap/> den so lege <lb/> 3. Gebädte<gap/> schnidl<gap/> in ein schissl<gap/> richt <lb/> die Hendl darauf Gies<gap/> ein wenig <lb/> guette Fleisch brie<gap/> daran Gewirz<gap/> <lb/> Musgablie<gap/> vnnd Zimmet<gap/> druckhe Woll <lb/> Lemony safft<gap/> Darein lege ein guettes <lb/> stuckh<gap/> butter Zue las es Preglen<gap/>. <lb/></p>
+        <p> Nimb gebuzte Hendl<gap/> wasch sauber <lb/><lb/> ( re 23 ) auß dan <objectName ref="salz">salz</objectName> es ein vnnd khers<gap/> in <lb/> <objectName ref="mehl">Mehl</objectName> ein Wenig vmb Pachs<gap/> in <lb/> schmalz<gap/> schön Gelflet<gap/> den so lege <lb/> 3. Gebädte<gap/> schnidl<gap/> in ein schissl<gap/> richt <lb/> die Hendl darauf Gies<gap/> ein wenig <lb/> guette <objectName ref="fleisch">Fleisch</objectName> brie<gap/> daran Gewirz<gap/> <lb/> Musgablie<gap/> vnnd Zimmet<gap/> druckhe Woll <lb/> Lemony safft<gap/> Darein lege ein guettes <lb/> stuckh<gap/> <objectName ref="butter">butter</objectName> Zue las es Preglen<gap/>. <lb/> </p>
             </div>
         </body>
     </text>

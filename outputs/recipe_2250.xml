@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb geschniten Nudl, die mit lauter Aÿrn angemacht, mach ein taig dar= <lb/> uon, das sie ganz hert sein, laß in einer Pfan von Messing guete milch <lb/> oder rämb sieden, darunden ein stukh Puter, khoch die Nudl drein, <lb/> fein dikh Wie ein Aÿr mueß, sez ihn ein gluet, oben drüber auch auf <lb/> einer hafen dekh, sied also rämbl an, Wie am Aÿr mueß. <lb/></p>
+        <p> Nimb geschniten Nudl, die mit lauter Aÿrn angemacht, mach ein taig dar= <lb/> uon, das sie ganz hert sein, laß in einer Pfan von Messing guete <objectName ref="milch">milch</objectName> <lb/> oder rämb sieden, darunden ein stukh Puter, khoch die Nudl drein, <lb/> fein dikh Wie ein Aÿr mueß, sez ihn ein gluet, oben drüber auch auf <lb/> einer <objectName ref="hafen">hafen</objectName> dekh, sied also rämbl an, Wie am Aÿr mueß. <lb/> </p>
             </div>
         </body>
     </text>

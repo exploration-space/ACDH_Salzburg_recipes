@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Bähet einen Schnitten rocken Brod fein licht <lb/> thut solchen in ein Häfelein <lb/> giesset Wein daran <lb/> und last es sieden ; nach diesen <lb/> schlagt ihn durch einen Seiher <lb/> giesset nochmal Wein dazu <lb/> thut Zucker <lb/> Cardamomen und Rosen = Essig daran <lb/> oder drucket den Safft von Citronen darein <lb/> und last ihn über dem abgesottenen Wildpret einen Sud aufthun : Wann ihr es nun bald anrichten wolt <lb/> so legt etliche Citronen = Plätz darein <lb/> und last es noch ein wenig <lb/> aber nicht lang mehr <lb/> sieden ; alsdann richtets an <lb/> und streuet von Citronen klein = zerschnittene Schelffen darauf.</p>
+        <p> Bähet einen Schnitten rocken Brod fein licht <lb/> thut solchen in ein <objectName ref="haefelein">Häfelein</objectName> <lb/> giesset <objectName ref="wein">Wein</objectName> daran <lb/> und last es sieden; nach diesen <lb/> schlagt ihn durch einen <objectName ref="seiher">Seiher</objectName> <lb/> giesset nochmal <objectName ref="wein">Wein</objectName> dazu <lb/> thut <objectName ref="zucker">Zucker</objectName> <lb/> Cardamomen und <objectName ref="rosen">Rosen</objectName> = <objectName ref="essig">Essig</objectName> daran <lb/> oder drucket den Safft von Citronen darein <lb/> und last ihn über dem abgesottenen Wildpret einen Sud aufthun : Wann ihr es nun bald anrichten wolt <lb/> so legt etliche Citronen = Plätz darein <lb/> und last es noch ein wenig <lb/> aber nicht lang mehr <lb/> sieden; alsdann richtets an <lb/> und streuet von Citronen klein = zerschnittene Schelffen darauf. </p>
             </div>
         </body>
     </text>

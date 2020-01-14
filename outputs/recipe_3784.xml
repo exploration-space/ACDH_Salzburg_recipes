@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>VErliehr die Eyer in wenig gesaltzenem Wasser <lb/> oder setze solche roher in ein mit Butter bestrichene Schüssel <lb/> röste die sauber geklaubte <lb/> ausgewaschene <lb/> und klein= gehackte Sauerrampffen in Butter <lb/> mit wenig geriebener Muscatnuß und Saltz <lb/> gibs über die Eyer <lb/> laß darmit auf der Glut kurtz kochen <lb/> oder nur anziehen <lb/> daß sie aber nicht hart werden <lb/> und gibs.</p>
+        <p> VErliehr die Eyer in wenig gesaltzenem <objectName ref="wasser">Wasser</objectName> <lb/> oder setze solche roher in ein mit <objectName ref="butter">Butter</objectName> bestrichene <objectName ref="schuessel">Schüssel</objectName> <lb/> röste die sauber geklaubte <lb/> ausgewaschene <lb/> und klein= gehackte Sauerrampffen in <objectName ref="butter">Butter</objectName> <lb/> mit wenig geriebener Muscatnuß und Saltz <lb/> gibs über die Eyer <lb/> laß darmit auf der <objectName ref="glut">Glut</objectName> kurtz kochen <lb/> oder nur anziehen <lb/> daß sie aber nicht hart werden <lb/> und gibs. </p>
             </div>
         </body>
     </text>

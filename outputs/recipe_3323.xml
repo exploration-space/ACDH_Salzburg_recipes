@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn die Hünlein gebutzt <lb/> ausgenommen und untergriffen seynd <lb/> so nimm ausgelößte und klein= gehackte Krebs <lb/> mit klein= gestossenen Mandeln <lb/> und in Ram geweichte Semmel <lb/> mit wenig Muscatnuß <lb/> Eyerdottern <lb/> weissen frischen Butter <lb/> oder Krebs= Butter darunter ; fülle und brate die Hünlein damit <lb/> so werden sie gut <lb/> ( sie seynd hernach roth <lb/> oder weiß <lb/> gebraten <lb/> oder gesotten <lb/> ) wann sie gesotten <lb/> gibt mans weiß mit Mandel= Kreen <lb/> roth aber <lb/> in rother Butter= Brühe.</p>
+        <p> WAnn die Hünlein gebutzt <lb/> ausgenommen und untergriffen seynd <lb/> so nimm ausgelößte und klein= gehackte Krebs <lb/> mit klein= gestossenen <objectName ref="mandeln">Mandeln</objectName> <lb/> und in Ram geweichte Semmel <lb/> mit wenig Muscatnuß <lb/> Eyerdottern <lb/> weissen frischen <objectName ref="butter">Butter</objectName> <lb/> oder Krebs= <objectName ref="butter">Butter</objectName> darunter; fülle und brate die Hünlein damit <lb/> so werden sie gut <lb/> ( sie seynd hernach roth <lb/> oder weiß <lb/> gebraten <lb/> oder gesotten <lb/> ) wann sie gesotten <lb/> gibt mans weiß mit Mandel= Kreen <lb/> roth aber <lb/> in rother Butter= <objectName ref="bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

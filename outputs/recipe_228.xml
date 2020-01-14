@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Erstlich Nimb ein schönes Mell<gap/> in ein <lb/> Degl<gap/> auch Zuckher vnd Pfeffer darzue, <lb/> schlag Zwey Neue Ayr<gap/> Darein, Mach <lb/> von Esterreicher Wein und Rossen <lb/> wasser ein Dines taigl<gap/> an, hernach <lb/> Hiz Das Eisen auf einen Reschen<gap/> <lb/> Feyr<gap/> vnnd bestreichs mit weissen <lb/> Waix<gap/> vnd wisch es wider sauber ab, <lb/><lb/> (re 109) vnd Giess<gap/> gleich ain össlöflvoll <lb/> darein vnd Druckhs fast Zusamen, <lb/> Höbs yber das Feyr, dass aber <lb/> schön weiss<gap/> Gebachen<gap/> werden, also <lb/> seindt sie Recht. <lb/></p>
+        <p> Erstlich Nimb ein schönes Mell<gap/> in ein <lb/> Degl<gap/> auch Zuckher vnd <objectName ref="pfeffer">Pfeffer</objectName> darzue, <lb/> schlag Zwey Neue Ayr<gap/> Darein, Mach <lb/> von Esterreicher <objectName ref="wein">Wein</objectName> und Rossen <lb/> <objectName ref="wasser">wasser</objectName> ein Dines taigl<gap/> an, hernach <lb/> Hiz Das Eisen auf einen Reschen<gap/> <lb/> Feyr<gap/> vnnd bestreichs mit weissen <lb/> Waix<gap/> vnd wisch es wider sauber ab, <lb/><lb/> ( re 109 ) vnd Giess<gap/> gleich ain össlöflvoll <lb/> darein vnd Druckhs fast Zusamen, <lb/> Höbs yber das Feyr, dass aber <lb/> schön weiss<gap/> Gebachen<gap/> werden, also <lb/> seindt sie Recht. <lb/> </p>
             </div>
         </body>
     </text>

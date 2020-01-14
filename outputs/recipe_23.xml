@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Hackhe ein Prädl<gap/> oder henel<gap/> Gar<gap/> <lb/><lb/> (re 7) khlein, vnnd Lemony Safft<gap/> darunter, <lb/> thues in ein häfferl<gap/>, Gies<gap/> ein fleisch <lb/> Suppen<gap/> daran, lass sieden<gap/>, Ge= <lb/> würz<gap/> Pfeffer, Musgatblie<gap/>, vnnd <lb/> ein wenig Wein, leg ein bröckhel<gap/> <lb/> butter daran, richte es an auf <lb/> Gebätte<gap/> Semel schnidl<gap/>. <lb/></p>
+        <p> Hackhe ein Prädl<gap/> oder henel<gap/> Gar<gap/> <lb/><lb/> ( re 7 ) khlein, vnnd Lemony Safft<gap/> darunter, <lb/> thues in ein häfferl<gap/>, Gies<gap/> ein <objectName ref="fleisch">fleisch</objectName> <lb/> Suppen<gap/> daran, lass sieden<gap/>, Ge= <lb/> würz<gap/> <objectName ref="pfeffer">Pfeffer</objectName>, Musgatblie<gap/>, vnnd <lb/> ein wenig <objectName ref="wein">Wein</objectName>, leg ein bröckhel<gap/> <lb/> <objectName ref="butter">butter</objectName> daran, richte es an auf <lb/> Gebätte<gap/> Semel schnidl<gap/>. <lb/> </p>
             </div>
         </body>
     </text>

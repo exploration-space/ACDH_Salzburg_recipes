@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>FIncken <lb/> Emmerlinge <lb/> Gegler und Meisen etc. kan man ebenfalls braten wie andere Vögel <lb/> ausser daß man die Köpffe und Füsse frey läst <lb/> und nicht mit an den Spieß steckt : Oder <lb/> wann man will <lb/> kan man sie nur im Schmaltz rösten.</p>
+        <p> FIncken <lb/> Emmerlinge <lb/> Gegler und <objectName ref="meise">Meisen</objectName> etc. kan man ebenfalls braten wie andere <objectName ref="voegel">Vögel</objectName> <lb/> ausser daß man die Köpffe und Füsse frey läst <lb/> und nicht mit an den <objectName ref="spiess">Spieß</objectName> steckt : Oder <lb/> wann man will <lb/> kan man sie nur im Schmaltz rösten. </p>
             </div>
         </body>
     </text>

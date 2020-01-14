@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Leber wird zu Schnitzlein geschnitten <lb/> mit Pfeffer im Meel geschwungen <lb/> im Butter geröst <lb/> im Anrichten mit etlich Tropfen Eßig besprengt <lb/> gesaltzen <lb/> und geschwind aufgetragen; oder schneid die Leber in zimlich grosse und lange Stücklein <lb/> richts wie die Presolen mit angemachtem Brod in ein breit mit Butter wohl bestrichenes Geschirr <lb/> gib unten und oben Glut; sie braucht wohl Butter <lb/> wird aber gut <lb/> gibs warm und saltz es.</p>
+        <p> DIe <objectName ref="leber">Leber</objectName> wird zu Schnitzlein geschnitten <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName> im Meel geschwungen <lb/> im <objectName ref="butter">Butter</objectName> geröst <lb/> im Anrichten mit etlich Tropfen Eßig besprengt <lb/> gesaltzen <lb/> und geschwind aufgetragen; oder schneid die <objectName ref="leber">Leber</objectName> in zimlich grosse und lange Stücklein <lb/> richts wie die Presolen mit angemachtem Brod in ein breit mit <objectName ref="butter">Butter</objectName> wohl bestrichenes <objectName ref="geschirr">Geschirr</objectName> <lb/> gib unten und oben <objectName ref="glut">Glut</objectName>; sie braucht wohl <objectName ref="butter">Butter</objectName> <lb/> wird aber gut <lb/> gibs warm und saltz es. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wann die Wamme allerdings abgesotten <lb/> und schön weiß ist ; wird sie zu viereckichten Stücklein geschnitten <lb/> im Schmaltz geröstet <lb/> und in einen stollichten Hafen gelegt ; dann nimmt man Pürg = oder andere säuerliche Aepffel <lb/> schählet <lb/> und hacket sie klein <lb/> mischet selbige unter die Wammen <lb/> röstet auch ein geriebenes weisses Brod im Schmaltz <lb/> und thuts auch daran <lb/> giesset dann eine Fleischbrüh dazu <lb/> würtzet und lasset es eine weil sieden : Dann richtet man die Wammen in eine Schüssel <lb/> und giesset die Brüh darüber .</p>
+        <p> Wann die Wamme allerdings abgesotten <lb/> und schön weiß ist; wird sie zu viereckichten Stücklein geschnitten <lb/> im Schmaltz geröstet <lb/> und in einen stollichten <objectName ref="hafen">Hafen</objectName> gelegt; dann nimmt man Pürg = oder andere säuerliche Aepffel <lb/> schählet <lb/> und hacket sie klein <lb/> mischet selbige unter die Wammen <lb/> röstet auch ein geriebenes weisses Brod im Schmaltz <lb/> und thuts auch daran <lb/> giesset dann eine Fleischbrüh dazu <lb/> würtzet und lasset es eine weil sieden : Dann richtet man die Wammen in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und giesset die Brüh darüber. </p>
             </div>
         </body>
     </text>

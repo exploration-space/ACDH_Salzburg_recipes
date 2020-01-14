@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEn Spinat oder das grüne Kraut überbrühet <lb/> und drucket es wohl aus <lb/> hackets klein <lb/> und röstets im Schmaltz ; mischet ein wenig Kalbfett <lb/> geriebene Semmel <lb/> wie auch etwas von Pertram und Majoran darunter <lb/> schlaget zwey oder drey Eyer daran <lb/> würtzets mit Pfeffer <lb/> Ingber und Muscaten= Blüh <lb/> thut ein wenig Milchram dazu <lb/> rühret alles wohl durcheinander <lb/> streicht diese Füll auf den Teig <lb/> und bereitet es dann ferner wie die bereits vorher beschriebene Strudeln.</p>
+        <p> DEn <objectName ref="spinat">Spinat</objectName> oder das grüne <objectName ref="kraut">Kraut</objectName> überbrühet <lb/> und drucket es wohl aus <lb/> hackets klein <lb/> und röstets im Schmaltz; mischet ein wenig Kalbfett <lb/> geriebene Semmel <lb/> wie auch etwas von Pertram und <objectName ref="majoran">Majoran</objectName> darunter <lb/> schlaget zwey oder drey Eyer daran <lb/> würtzets mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Ingber und Muscaten= Blüh <lb/> thut ein wenig Milchram dazu <lb/> rühret alles wohl durcheinander <lb/> streicht diese Füll auf den <objectName ref="teig">Teig</objectName> <lb/> und bereitet es dann ferner wie die bereits vorher beschriebene Strudeln. </p>
             </div>
         </body>
     </text>

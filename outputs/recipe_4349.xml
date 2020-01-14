@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Dises soll gesottner und gesäuberter <lb/> mit angemachten Semmel= Brosen <lb/> Gewürtz <lb/> Saltz und Lemoni= Schelffen <lb/> in gantz kleine Stücklein geschnitten <lb/> in Butter geröst <lb/> und mit Lemoni= Safft recent gemacht werden.</p>
+        <p> Dises soll gesottner und gesäuberter <lb/> mit angemachten Semmel= Brosen <lb/> Gewürtz <lb/> Saltz und Lemoni= Schelffen <lb/> in gantz kleine Stücklein geschnitten <lb/> in <objectName ref="butter">Butter</objectName> geröst <lb/> und mit Lemoni= Safft recent gemacht werden. </p>
             </div>
         </body>
     </text>

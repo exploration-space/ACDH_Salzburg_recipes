@@ -170,8 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm schön gebutzte Tauben <lb/> spicks <lb/> saltz und brate sie <lb/> nimm hernach gewässerte Capry <lb/> gieß ein wenig Wein darein <lb/> auch Imber darzu <lb/> laß also einen Sud thun <lb/> und lege die gebratne Tauben in eine Schüssel <lb/> gieß die gesottne Capry darüber <lb/> mach nicht viel Brühe <lb/> gibs warm mit Lemoni.
-Hoffe dermahlen von denen einheimischen Tauben <lb/> nach Nothdurfft genug gemeldt zu haben; es ist aber hierbey dem geehrten Leser anzudeuten <lb/> daß <lb/> wann ers wohl in Acht nimmt <lb/> schier durchgehends <lb/> wie die Hünlein <lb/> also auch die junge Tauben können zugericht werden.</p>
+        <p> NImm schön gebutzte <objectName ref="taube">Tauben</objectName> <lb/> spicks <lb/> saltz und brate sie <lb/> nimm hernach gewässerte Capry <lb/> gieß ein wenig <objectName ref="wein">Wein</objectName> darein <lb/> auch Imber darzu <lb/> laß also einen Sud thun <lb/> und lege die gebratne <objectName ref="taube">Tauben</objectName> in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> gieß die gesottne Capry darüber <lb/> mach nicht viel <objectName ref="bruehe">Brühe</objectName> <lb/> gibs warm mit Lemoni. Hoffe dermahlen von denen einheimischen <objectName ref="taube">Tauben</objectName> <lb/> nach Nothdurfft genug gemeldt zu haben; es ist aber hierbey dem geehrten Leser anzudeuten <lb/> daß <lb/> wann ers wohl in Acht nimmt <lb/> schier durchgehends <lb/> wie die Hünlein <lb/> also auch die junge <objectName ref="taube">Tauben</objectName> können zugericht werden. </p>
             </div>
         </body>
     </text>

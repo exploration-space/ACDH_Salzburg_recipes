@@ -171,9 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChälet und schneidet Aepffel <lb/> wie gedacht <lb/> wie auch kleine Zwiebeln <lb/> aber würfflicht <lb/> last sie zusamt einem zerbrockten Stücklein Brod im Wein sieden <lb/> biß es alles wohl weich ist; zwingets dann durch <lb/> würtzets mit allerley guter Gewürtz; so ihr die Brüh süß haben wollet <lb/> zuckerts <lb/> wiewol es auch verbleiben kan; solte sie zu dick werden wollen <lb/> mag man mit Zugiessung eines Weins <lb/> oder auch etwas wenigs Essig <lb/> annoch helffen <lb/> alles miteinander sieden lassen <lb/> und zuletzt ein oder zwey zerklopffte Eyerdötterlein mit dieser siedenden Brüh anrühren <lb/> und so dann über das Gebratens giessen.
-
-</p>
+        <p> SChälet und schneidet Aepffel <lb/> wie gedacht <lb/> wie auch kleine <objectName ref="zwiebel">Zwiebeln</objectName> <lb/> aber würfflicht <lb/> last sie zusamt einem zerbrockten Stücklein Brod im <objectName ref="wein">Wein</objectName> sieden <lb/> biß es alles wohl weich ist; zwingets dann durch <lb/> würtzets mit allerley guter Gewürtz; so ihr die Brüh süß haben wollet <lb/> zuckerts <lb/> wiewol es auch verbleiben kan; solte sie zu dick werden wollen <lb/> mag man mit Zugiessung eines Weins <lb/> oder auch etwas wenigs <objectName ref="essig">Essig</objectName> <lb/> annoch helffen <lb/> alles miteinander sieden lassen <lb/> und zuletzt ein oder zwey zerklopffte Eyerdötterlein mit dieser siedenden Brüh anrühren <lb/> und so dann über das Gebratens giessen. </p>
             </div>
         </body>
     </text>

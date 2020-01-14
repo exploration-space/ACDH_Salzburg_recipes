@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ain Bouch: d´aqa leg darein .2. tt <lb/> wein trauben zerdruckhe selbe woll <lb/> im wasßer laß ½ Stundt stehen, seihs <lb/> durch ein tuech oder Sib nimb darzue <lb/> 5. l. zuckher gies in die gschür vnd <lb/> laß woll frisch werden musc: et amber <lb/> w: bl: ein wenig anderen gschmachen. <lb/></p>
+        <p> ain Bouch : d´aqa leg darein.2. tt <lb/> <objectName ref="wein">wein</objectName> trauben zerdruckhe selbe woll <lb/> im wasßer laß ½ Stundt stehen, seihs <lb/> durch ein tuech oder Sib nimb darzue <lb/> 5. l. zuckher gies in die gschür vnd <lb/> laß woll frisch werden musc : et <objectName ref="amber">amber</objectName> <lb/> w : bl : ein wenig anderen gschmachen. <lb/> </p>
             </div>
         </body>
     </text>

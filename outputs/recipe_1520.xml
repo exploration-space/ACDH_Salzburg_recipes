@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Mach ein grießkhoch. von einer milch, das nit gar dün ist, Salzen <lb/> darffs du es nit, wans gsotten, So schits in ein schisßl, vnd laß riehren <lb/> bis Kalt wirdt, damit es Kein hautt macht, riehr alß dan .2 handt= <lb/> uoll Klein gestosßne Mandl darunter, nimb alß dann, 8. oder. 10. <lb/> Ayr, nachdem du Vill machen wilst, halber, vmd halb ganze ayr, <lb/> ein prockhen eines ayrgroß butter Klein geschniten, darunter <lb/> zuckhers daß woll syesß wirdt, riehrs ein stundt, schits auf ein <lb/> schisßl, die geschmirbt ist, bachs wie du wilt, ist schen vnnd <lb/> guett. <lb/>.</p>
+        <p> Mach ein grießkhoch. von einer <objectName ref="milch">milch</objectName>, das nit gar dün ist, Salzen <lb/> darffs du es nit, wans gsotten, So schits in ein schisßl, vnd laß riehren <lb/> bis Kalt wirdt, damit es Kein hautt macht, riehr alß dan.2 handt= <lb/> uoll Klein gestosßne Mandl darunter, nimb alß dann, 8. oder. 10. <lb/> Ayr, nachdem du Vill machen wilst, halber, vmd halb ganze ayr, <lb/> ein prockhen eines ayrgroß <objectName ref="butter">butter</objectName> Klein geschniten, darunter <lb/> zuckhers daß woll syesß wirdt, riehrs ein stundt, schits auf ein <lb/> schisßl, die geschmirbt ist, bachs wie du wilt, ist schen vnnd <lb/> guett. <lb/>. </p>
             </div>
         </body>
     </text>

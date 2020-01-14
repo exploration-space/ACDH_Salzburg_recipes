@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZUpffet von frischen Wexeln die Stiele ab <lb/> giesst in einem stollichten Häfelein einen Wein daran <lb/> zuckerts wohl <lb/> lassets einen Sud aufthun; schneidet ein weisses Brod würfflicht <lb/> es sey gleich ein Weck oder Semmel; röstets im Schmaltz fein licht und rösch: Nehmet alsdann das Brod aus dem Schmaltz <lb/> legets in eine Schüssel <lb/> richtet die Weixeln darüber an <lb/> und bestreuet sie mit Zucker und Trisanet.</p>
+        <p> ZUpffet von frischen Wexeln die Stiele ab <lb/> giesst in einem stollichten <objectName ref="haefelein">Häfelein</objectName> einen <objectName ref="wein">Wein</objectName> daran <lb/> zuckerts wohl <lb/> lassets einen Sud aufthun; schneidet ein weisses Brod würfflicht <lb/> es sey gleich ein Weck oder Semmel; röstets im Schmaltz fein licht und rösch : Nehmet alsdann das Brod aus dem Schmaltz <lb/> legets in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> richtet die Weixeln darüber an <lb/> und bestreuet sie mit <objectName ref="zucker">Zucker</objectName> und Trisanet. </p>
             </div>
         </body>
     </text>

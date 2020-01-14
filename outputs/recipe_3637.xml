@@ -179,7 +179,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneide Kalbfleisch <lb/> wie Fricanto, klopffs <lb/> lege Speck= Schnitz in ein Casserol über den Boden <lb/> hernach richte deine kälberne Schnitzlein auch darauf wohl angemacht <lb/> oben bedecke es wieder mit Speck= Schnitzlein <lb/> bassiere es auf einem Kohlfeuer <lb/> wanns genug <lb/> ziehe die Kalbs= Schnitzlein aus dem Speck <lb/> mache ein braun Meel mit ein wenig von disem Speck <lb/> lege die Kalbs= Schnitzlein darein <lb/> nimm gute jus darauf <lb/> sieds völlig mit Brüßlein <lb/> Dardoffeln <lb/> Champignonen, Hüner= Kämmlein <lb/> Lemani= Schnitzlein <lb/> und Verius- Kräutlein <lb/> Salat <lb/> und ein Brod= Coulie, gibs warm.</p>
+        <p> SChneide <objectName ref="kalbfleisch">Kalbfleisch</objectName> <lb/> wie Fricanto, klopffs <lb/> lege Speck= Schnitz in ein Casserol über den Boden <lb/> hernach richte deine kälberne Schnitzlein auch darauf wohl angemacht <lb/> oben bedecke es wieder mit Speck= Schnitzlein <lb/> bassiere es auf einem Kohlfeuer <lb/> wanns genug <lb/> ziehe die Kalbs= Schnitzlein aus dem <objectName ref="speck">Speck</objectName> <lb/> mache ein braun Meel mit ein wenig von disem <objectName ref="speck">Speck</objectName> <lb/> lege die Kalbs= Schnitzlein darein <lb/> nimm gute <objectName ref="jus">jus</objectName> darauf <lb/> sieds völlig mit Brüßlein <lb/> Dardoffeln <lb/> Champignonen, Hüner= Kämmlein <lb/> Lemani= Schnitzlein <lb/> und Verius- Kräutlein <lb/> <objectName ref="salat">Salat</objectName> <lb/> und ein Brod= Coulie, gibs warm. </p>
             </div>
         </body>
     </text>

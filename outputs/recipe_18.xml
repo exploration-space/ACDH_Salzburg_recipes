@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Siede<gap/> den Zemmer, aber nit Zu lind<gap/>, <lb/> salze ihme ein wenig löge Ihne auf <lb/> den Rost, Gewirz<gap/> Ihme woll, tröpf<gap/> <lb/> Ihme mit Lemony Safft<gap/>, vnnd schmrbe<gap/> <lb/> Ihme mit butter besähe<gap/> ihnne mit <lb/><lb/> (ve 5) Semel Preßl<gap/>, Kanst auch, wan du <lb/> Ihme gehrn siess<gap/> haben wilst, vmb <lb/> Die schissl<gap/> Zukher sträen<gap/>, vnd Zimmet <lb/> stupp<gap/>, oder von dissen heiffel<gap/> machen <lb/> Auf der schissl<gap/>. <lb/></p>
+        <p> Siede<gap/> den Zemmer, aber nit Zu lind<gap/>, <lb/> salze ihme ein wenig löge Ihne auf <lb/> den <objectName ref="rost">Rost</objectName>, Gewirz<gap/> Ihme woll, tröpf<gap/> <lb/> Ihme mit Lemony Safft<gap/>, vnnd schmrbe<gap/> <lb/> Ihme mit <objectName ref="butter">butter</objectName> besähe<gap/> ihnne mit <lb/><lb/> ( ve 5 ) Semel Preßl<gap/>, Kanst auch, wan du <lb/> Ihme gehrn siess<gap/> haben wilst, vmb <lb/> Die schissl<gap/> Zukher sträen<gap/>, vnd Zimmet <lb/> stupp<gap/>, oder von dissen heiffel<gap/> machen <lb/> Auf der schissl<gap/>. <lb/> </p>
             </div>
         </body>
     </text>

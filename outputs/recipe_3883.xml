@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ES sind die Salbling auch gut mit Zwibeln <lb/> Aepffeln <lb/> Lemoni gelb <lb/> auch mit wenig Wein und Erbsen= Brühe durchgetriebner darüber zu geben.</p>
+        <p> ES sind die Salbling auch gut mit Zwibeln <lb/> Aepffeln <lb/> Lemoni gelb <lb/> auch mit wenig <objectName ref="wein">Wein</objectName> und Erbsen= <objectName ref="bruehe">Brühe</objectName> durchgetriebner darüber zu geben. </p>
             </div>
         </body>
     </text>

@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>LEge die Eyer in eine Pfann <lb/> daß sie darinnen nebeneinander wol liegen können <lb/> gieß frisch Wasser daran <lb/> daß die Eyer bedeckt <lb/> und daß Wasser darüber geht <lb/> setz auf ein helles Feuer <lb/> und gib acht darauf <lb/> wann sie den ersten Sud thun <lb/> so seynd sie in einem paar Vatter Unser lang fertig <lb/> wann sie aber gar groß <lb/> brauchen sie auch um ein paar Sud mehr zu kochen.</p>
+        <p> LEge die Eyer in eine Pfann <lb/> daß sie darinnen nebeneinander wol liegen können <lb/> gieß frisch <objectName ref="wasser">Wasser</objectName> daran <lb/> daß die Eyer bedeckt <lb/> und daß <objectName ref="wasser">Wasser</objectName> darüber geht <lb/> setz auf ein helles <objectName ref="feuer">Feuer</objectName> <lb/> und gib acht darauf <lb/> wann sie den ersten Sud thun <lb/> so seynd sie in einem paar Vatter Unser lang fertig <lb/> wann sie aber gar groß <lb/> brauchen sie auch um ein paar Sud mehr zu kochen. </p>
             </div>
         </body>
     </text>

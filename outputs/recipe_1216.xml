@@ -170,9 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Richte<gap/> sye an Spiß zum prathen<gap/> wie sonsten <lb/> begiesß<gap/> mit butter<gap/>, vnd besträs<gap/> erstlich mit Salz, <lb/> vnd halb zugger<gap/>, Löge<gap/> sembl<gap/> schniten<gap/>, darundter, <lb/> Begieß<gap/> ihm mit siesen<gap/> Rämb<gap/>, vnd frischen Putter<gap/>, <lb/> wans schier gebratten<gap/>, so besträhs<gap/> noch ein Mahl mit <lb/> Salz, vnd zugger<gap/>, richte<gap/> die schnepfen<gap/> auf die Semmbl<gap/> <lb/> an, weill sie noch Faimben<gap/>, <lb/>
-
-[Anm.: Die ersten beiden Zeilen des Rezeptes weisen eine von der üblichen Handschrift geringfügig abweichende Form auf. „weill sie noch Faimben“: bedeutet ‚während sie noch schäumen‘. „wans schier gebratten“: bedeutet ‚wenn sie beinahe gebraten sind‘.]</p>
+        <p> Richte<gap/> sye an Spiß zum prathen<gap/> wie sonsten <lb/> begiesß<gap/> mit butter<gap/>, vnd besträs<gap/> erstlich mit <objectName ref="salz">Salz</objectName>, <lb/> vnd halb zugger<gap/>, Löge<gap/> sembl<gap/> schniten<gap/>, darundter, <lb/> Begieß<gap/> ihm mit siesen<gap/> Rämb<gap/>, vnd frischen Putter<gap/>, <lb/> wans schier gebratten<gap/>, so besträhs<gap/> noch ein Mahl mit <lb/> <objectName ref="salz">Salz</objectName>, vnd zugger<gap/>, richte<gap/> die schnepfen<gap/> auf die Semmbl<gap/> <lb/> an, weill sie noch Faimben<gap/>, <lb/> [ Anm. : Die ersten beiden Zeilen des Rezeptes weisen eine von der üblichen Handschrift geringfügig abweichende <objectName ref="form">Form</objectName> auf. „ weill sie noch Faimben “ : bedeutet ‚während sie noch schäumen ‘. „ wans schier gebratten “ : bedeutet ‚wenn sie beinahe gebraten sind ‘. ] </p>
             </div>
         </body>
     </text>

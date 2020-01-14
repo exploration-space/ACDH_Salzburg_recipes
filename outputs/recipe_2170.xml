@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Man khan auch khlaine ferchen in der brüe khochen, thue es auf, salz <lb/> ein, laß ein Weill in dem salz ligen, legs auf ein rost, nimb in <lb/> ein pfändl ein Wenig öel, Essig, pfeffer, Imber, noch ein Wenig <lb/> Rosmarin, Saluel vnd Lorber bleter, legs in das pfändl, darin <lb/> das öel vnd Essig, bestreich damit, die fisch auf dem rost, Wan sie <lb/> braten, richts in ein schißl, Sez auf ein gluet, gieß die obgeschribne <lb/> brüe drüber, laß ein Sud thuen, alßdan gibs Warm Zu essen. <lb/></p>
+        <p> Man khan auch khlaine ferchen in der brüe khochen, thue es auf, <objectName ref="salz">salz</objectName> <lb/> ein, laß ein Weill in dem <objectName ref="salz">salz</objectName> ligen, legs auf ein <objectName ref="rost">rost</objectName>, nimb in <lb/> ein pfändl ein Wenig öel, <objectName ref="essig">Essig</objectName>, <objectName ref="pfeffer">pfeffer</objectName>, Imber, noch ein Wenig <lb/> <objectName ref="rosmarin">Rosmarin</objectName>, Saluel vnd Lorber bleter, legs in das pfändl, darin <lb/> das öel vnd <objectName ref="essig">Essig</objectName>, bestreich damit, die <objectName ref="fisch">fisch</objectName> auf dem <objectName ref="rost">rost</objectName>, Wan sie <lb/> braten, richts in ein schißl, Sez auf ein gluet, gieß die obgeschribne <lb/> brüe drüber, laß ein Sud thuen, alßdan gibs Warm Zu essen. <lb/> </p>
             </div>
         </body>
     </text>

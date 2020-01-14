@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Rapünzelein gebutzt zum Salat.</p>
+        <p> Rapünzelein gebutzt zum <objectName ref="salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

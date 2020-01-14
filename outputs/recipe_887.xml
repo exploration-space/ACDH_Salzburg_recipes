@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm abgezogne Mandeln <lb/> stoß sie auf das kleinist <lb/> mit wenig Zimmet= oder Rosenwasser <lb/> treibs mit einer guten Milch <lb/> oder süssen Ram durch ein Tuch oder Haarsieblein <lb/> nimm aber nur so viel Milch <lb/> als du auf die Schüssel bedarffst <lb/> seihe es <lb/> daß es fein dick von Mandeln wird <lb/> zuckere es <lb/> und gibs also kalter.</p>
+        <p> Nimm abgezogne <objectName ref="mandeln">Mandeln</objectName> <lb/> stoß sie auf das kleinist <lb/> mit wenig Zimmet= oder <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> treibs mit einer guten <objectName ref="milch">Milch</objectName> <lb/> oder süssen Ram durch ein <objectName ref="tuch">Tuch</objectName> oder Haarsieblein <lb/> nimm aber nur so viel <objectName ref="milch">Milch</objectName> <lb/> als du auf die <objectName ref="schuessel">Schüssel</objectName> bedarffst <lb/> seihe es <lb/> daß es fein dick von <objectName ref="mandeln">Mandeln</objectName> wird <lb/> zuckere es <lb/> und gibs also kalter. </p>
             </div>
         </body>
     </text>

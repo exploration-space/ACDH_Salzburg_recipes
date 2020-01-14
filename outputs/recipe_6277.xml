@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>HAcke das Fleisch in Stücken <lb/> saltz ein wenig <lb/> und bräun es ab auf dem Rost <lb/> oder in der Pfannen <lb/> dann legs in ein Rein <lb/> mit Wasser und Wein <lb/> oder Eßig<lb/> laß zugedeckt genug sieden <lb/> gibs eingebrennt mit Zwibel und Sardellen <lb/> thue auch Gewürtz daran.</p>
+        <p> HAcke das <objectName ref="fleisch">Fleisch</objectName> in Stücken <lb/> saltz ein wenig <lb/> und bräun es ab auf dem <objectName ref="rost">Rost</objectName> <lb/> oder in der Pfannen <lb/> dann legs in ein <objectName ref="rein">Rein</objectName> <lb/> mit <objectName ref="wasser">Wasser</objectName> und <objectName ref="wein">Wein</objectName> <lb/> oder Eßig/ laß zugedeckt genug sieden <lb/> gibs eingebrennt mit Zwibel und <objectName ref="sardellen">Sardellen</objectName> <lb/> thue auch Gewürtz daran. </p>
             </div>
         </body>
     </text>

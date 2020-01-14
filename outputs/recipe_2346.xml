@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Citronat= Aepffel oder auch die Citronen werden zu Stücken geschnitten <lb/> und die Kern heraus genommen; sind es gelbe Citronat= Aepffel <lb/> muß man sie überzwerch schneiden : alsdann leget man selbige etliche Tage in Saltz= Wasser <lb/> biß sie etwas durchsichtig werden ; siedets in Röhrenwasser ein wenig <lb/> lässets auf einem Tuch wieder ertrocknen <lb/> läutert den Zucker <lb/> siedet selbigen zur rechten Dicken <lb/> und giesset ihn <lb/> wann er kalt ist <lb/> über den citronat oder die Citronen ; so dann der Zucker nachgehends zu dinn wird <lb/> wird er abgegossen <lb/> noch einmal gesotten <lb/> und wieder darüber geschüttet.</p>
+        <p> DIe Citronat= Aepffel oder auch die Citronen werden zu Stücken geschnitten <lb/> und die Kern heraus genommen; sind es gelbe Citronat= Aepffel <lb/> muß man sie überzwerch schneiden : alsdann leget man selbige etliche Tage in Saltz= <objectName ref="wasser">Wasser</objectName> <lb/> biß sie etwas durchsichtig werden; siedets in Röhrenwasser ein wenig <lb/> lässets auf einem <objectName ref="tuch">Tuch</objectName> wieder ertrocknen <lb/> läutert den <objectName ref="zucker">Zucker</objectName> <lb/> siedet selbigen zur rechten Dicken <lb/> und giesset ihn <lb/> wann er kalt ist <lb/> über den citronat oder die Citronen; so dann der <objectName ref="zucker">Zucker</objectName> nachgehends zu dinn wird <lb/> wird er abgegossen <lb/> noch einmal gesotten <lb/> und wieder darüber geschüttet. </p>
             </div>
         </body>
     </text>

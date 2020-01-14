@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet fünff Pfund mageres Rindfleisch <lb/> anderthalb Pfund Schweinen Fleisch <lb/> ein viertel Pfund Speck <lb/> zwey Loth Saltz <lb/> ein halb Loth Pfeffer <lb/> Coriander <lb/> Rosmarin <lb/> hackt alles klein <lb/> füllt es in das Gedärm <lb/> und henckets alsdann in Rauch.</p>
+        <p> NEhmet fünff <objectName ref="pfund">Pfund</objectName> mageres <objectName ref="rindfleisch">Rindfleisch</objectName> <lb/> anderthalb <objectName ref="pfund">Pfund</objectName> Schweinen <objectName ref="fleisch">Fleisch</objectName> <lb/> ein viertel <objectName ref="pfund">Pfund</objectName> <objectName ref="speck">Speck</objectName> <lb/> zwey <objectName ref="loth">Loth</objectName> Saltz <lb/> ein halb <objectName ref="loth">Loth</objectName> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Coriander <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> hackt alles klein <lb/> füllt es in das Gedärm <lb/> und henckets alsdann in <objectName ref="rauch">Rauch</objectName>. </p>
             </div>
         </body>
     </text>

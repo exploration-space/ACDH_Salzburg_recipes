@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet gute mürbe Aepffel <lb/> wozu die Parstörffer am besten sind <lb/> schählet solche <lb/> und schneidets zu dinnen Plätzlein; schüttets in einen Pasteten= Tiegel oder stollichten Hafen <lb/> giesst ein wenig Wein daran <lb/> zuckerts nach belieben <lb/> und lassets also mit einander dünsten <lb/> biß die Aepffel weich werden <lb/> und sich rühren lassen; alsdann rühret sie wohl ab <lb/> und lassets noch eine weile sieden: Wann man nun die Aepffel angerichtet <lb/> kan man Zucker <lb/> oder auch ein wenig Zimmet darauf streuen.</p>
+        <p> NEhmet gute mürbe Aepffel <lb/> wozu die Parstörffer am besten sind <lb/> schählet solche <lb/> und schneidets zu dinnen Plätzlein; schüttets in einen Pasteten= <objectName ref="tiegel">Tiegel</objectName> oder stollichten <objectName ref="hafen">Hafen</objectName> <lb/> giesst ein wenig <objectName ref="wein">Wein</objectName> daran <lb/> zuckerts nach belieben <lb/> und lassets also mit einander dünsten <lb/> biß die Aepffel weich werden <lb/> und sich rühren lassen; alsdann rühret sie wohl ab <lb/> und lassets noch eine weile sieden : Wann man nun die Aepffel angerichtet <lb/> kan man <objectName ref="zucker">Zucker</objectName> <lb/> oder auch ein wenig Zimmet darauf streuen. </p>
             </div>
         </body>
     </text>

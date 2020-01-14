@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Take six Pigeons with the Giblets. Cut the Pigeons in Quarters, and put them into a Stew-pan, with two Blades of Mace, a little Pepper, Salt, and just Water enough to stew them without Burning. When they are tender thicken the Liquor with the Yolk of an Egg, three Spoonsful of Cream, a Bit of Butter, a little shred Thyme and Parsley. Shake them up together, and garnish with Lemon.</p>
+        <p> Take six Pigeons with the Giblets. Cut the Pigeons in Quarters, and put them into a Stew-pan, with two Blades of Mace, a little Pepper, Salt, and just Water enough to stew them without Burning. When they are tender thicken the Liquor with the Yolk of an Egg, three Spoonsful of Cream, a Bit of <objectName ref="butter">Butter</objectName>, a little shred Thyme and Parsley. Shake them up together, and garnish with Lemon. </p>
             </div>
         </body>
     </text>

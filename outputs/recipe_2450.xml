@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>REibe ein halb Pfund Mandeln mit Rosen= Wasser klein <lb/> daß sie wohl und lieblich darnach riechen; laß dann die Brosamen von einer Semmel im süssen Ram oder Kern weich werden; treibs durch einen Seiher oder Durchschlag <lb/> rührs unter die Mandeln <lb/> thu es hernach in eine Schüssel <lb/> streichs in die Höhe <lb/> streue Zimmet darauf <lb/> und bestecks mit Mandeln oder Blumen.</p>
+        <p> REibe ein halb <objectName ref="pfund">Pfund</objectName> <objectName ref="mandeln">Mandeln</objectName> mit Rosen= <objectName ref="wasser">Wasser</objectName> klein <lb/> daß sie wohl und lieblich darnach riechen; laß dann die Brosamen von einer Semmel im süssen Ram oder Kern weich werden; treibs durch einen <objectName ref="seiher">Seiher</objectName> oder <objectName ref="durchschlag">Durchschlag</objectName> <lb/> rührs unter die <objectName ref="mandeln">Mandeln</objectName> <lb/> thu es hernach in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> streichs in die Höhe <lb/> streue Zimmet darauf <lb/> und bestecks mit <objectName ref="mandeln">Mandeln</objectName> oder <objectName ref="blumen">Blumen</objectName>. </p>
             </div>
         </body>
     </text>

@@ -166,9 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Henck in einen leinen Säcklein darein Wacholderwürtz <lb/> Weintraubenblüt <lb/> oder Hopffenblumen.
-
-Diese ding widerbringen auch den <lb/> der jetzundt gebrochen ist.</p>
+        <p> Henck in einen leinen <objectName ref="saecklein">Säcklein</objectName> darein Wacholderwürtz <lb/> Weintraubenblüt <lb/> oder Hopffenblumen. Diese ding widerbringen auch den <lb/> der jetzundt gebrochen ist. </p>
             </div>
         </body>
     </text>

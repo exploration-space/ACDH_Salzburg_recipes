@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Ein gute wolgeschmeckte Brüh gekocht von einer Spensaw <lb/> mit gantzem Pfeffer <lb/> Ingwer <lb/> vnd gantzer Muscatenblüt <lb/> auch mit Pettersilgen Wurtzel <lb/> vnd wenn du solche Gewürtz darzu nimmest <lb/> so wirdt sie wolgeschmack <lb/> vnd man nennet es ein Sawbrüh.</p>
+        <p> Ein gute wolgeschmeckte Brüh gekocht von einer Spensaw <lb/> mit gantzem <objectName ref="pfeffer">Pfeffer</objectName> <lb/> <objectName ref="ingwer">Ingwer</objectName> <lb/> vnd gantzer Muscatenblüt <lb/> auch mit Pettersilgen Wurtzel <lb/> vnd wenn du solche Gewürtz darzu nimmest <lb/> so wirdt sie wolgeschmack <lb/> vnd man nennet es ein Sawbrüh. </p>
             </div>
         </body>
     </text>

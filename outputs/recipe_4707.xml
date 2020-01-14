@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Kopff wird im Wasser <lb/> Saltz <lb/> Eßig oder Wein <lb/> Stückweiß gantz weich gesotten <lb/> mit etlichen Kälber= Füssen <lb/> das Fleisch von denen Beinern herab gelößt <lb/> zu feinen Schnitzlein <lb/> oder Blättlein= weiß geschnitten <lb/> und weils noch warm ist <lb/> mit guten Kräutlein <lb/> Lemoni= Schelffen und Gewürtz <lb/> insonderheit <lb/> grob= gestossenen Pfeffer <lb/> in ein darzu bequemes Geschirr <lb/> oder Rein gericht <lb/> mit einem Teller und Stein beschwert <lb/> biß kalt worden ; dann werden feine Schnitzlein davon geschnitten <lb/> mit Eßig und Oel gegeben <lb/> und grün regaliert.</p>
+        <p> DEr Kopff wird im <objectName ref="wasser">Wasser</objectName> <lb/> Saltz <lb/> Eßig oder <objectName ref="wein">Wein</objectName> <lb/> Stückweiß gantz weich gesotten <lb/> mit etlichen Kälber= Füssen <lb/> das <objectName ref="fleisch">Fleisch</objectName> von denen Beinern herab gelößt <lb/> zu feinen Schnitzlein <lb/> oder Blättlein= weiß geschnitten <lb/> und weils noch warm ist <lb/> mit guten Kräutlein <lb/> Lemoni= Schelffen und Gewürtz <lb/> insonderheit <lb/> grob= gestossenen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> in ein darzu bequemes <objectName ref="geschirr">Geschirr</objectName> <lb/> oder <objectName ref="rein">Rein</objectName> gericht <lb/> mit einem <objectName ref="teller">Teller</objectName> und <objectName ref="stein">Stein</objectName> beschwert <lb/> biß kalt worden; dann werden feine Schnitzlein davon geschnitten <lb/> mit Eßig und Oel gegeben <lb/> und grün regaliert. </p>
             </div>
         </body>
     </text>

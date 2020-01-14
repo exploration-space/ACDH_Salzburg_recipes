@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn muß Kälber= oder Schöpsen= Carbonädlein nehmen <lb/> spicke sie <lb/> wie die Fricanto, und bassiere sie mit Butter auf solche Weiß <lb/> mach es an <lb/> wie gebräuchig <lb/> wann sie dir zu einer Speiß dienen sollen <lb/> so must du allerhand Garnaturen daran thun; als Artischocken= Kern <lb/> oder Carfiol <lb/> oder Dardoffeln <lb/> etc. Wann du aber nur andere Speisen darmit zieren <lb/> und regalieren wilst <lb/> so ist es nicht nötig <lb/> sondern laß in ihrer jus sieden.</p>
+        <p> MAn muß Kälber= oder Schöpsen= Carbonädlein nehmen <lb/> spicke sie <lb/> wie die Fricanto, und bassiere sie mit <objectName ref="butter">Butter</objectName> auf solche Weiß <lb/> mach es an <lb/> wie gebräuchig <lb/> wann sie dir zu einer Speiß dienen sollen <lb/> so must du allerhand Garnaturen daran thun; als Artischocken= Kern <lb/> oder Carfiol <lb/> oder Dardoffeln <lb/> etc. Wann du aber nur andere Speisen darmit zieren <lb/> und regalieren wilst <lb/> so ist es nicht nötig <lb/> sondern laß in ihrer <objectName ref="jus">jus</objectName> sieden. </p>
             </div>
         </body>
     </text>

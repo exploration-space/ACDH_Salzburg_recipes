@@ -178,9 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm ein <lb/> oder mehr beliebige Stuck vom Haussen <lb/> saltz <lb/> und brate ihn auf dem Rost <lb/> begieß ihn immer mit zerlassenem Butter; wann der Haussen fertig <lb/> so nimm ein wenig Schmaltz <lb/> und laß warm werden <lb/> wirff darein kleingehackten Zwibel <lb/> mit gar wenig Meel <lb/> und nach Nothdurfft Capry <lb/> laß mit einander rösten <lb/> gieß wenig Erbsen=Brühe und Eßig daran <lb/> mit Pfeffer <lb/> Imber <lb/> Muscatnuß und wenig Saffran <lb/> Butter und Lemoni=Schaalen <lb/> laß aufsieden <lb/> und gibs über den Haussen.
-
- </p>
+        <p> NImm ein <lb/> oder mehr beliebige Stuck vom Haussen <lb/> saltz <lb/> und brate ihn auf dem <objectName ref="rost">Rost</objectName> <lb/> begieß ihn immer mit zerlassenem <objectName ref="butter">Butter</objectName>; wann der Haussen fertig <lb/> so nimm ein wenig Schmaltz <lb/> und laß warm werden <lb/> wirff darein kleingehackten Zwibel <lb/> mit gar wenig Meel <lb/> und nach Nothdurfft Capry <lb/> laß mit einander rösten <lb/> gieß wenig Erbsen=Brühe und Eßig daran <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> Muscatnuß und wenig Saffran <lb/> <objectName ref="butter">Butter</objectName> und Lemoni=Schaalen <lb/> laß aufsieden <lb/> und gibs über den Haussen. </p>
             </div>
         </body>
     </text>

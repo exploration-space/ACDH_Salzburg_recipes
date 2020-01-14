@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>RIchte dise Vögel mit wohl Butter und Bratwürst= Gehäck <lb/> Gewürtz <lb/> mit Lemoni= Safft und weniger Fleischbrühe in ein verschlossenes Casserol <lb/> und laß dünsten <lb/> oder dämpffen <lb/> wie eine Pasteten= Füll; gibs mit einer Dotter= oder andern guten Brühe.</p>
+        <p> RIchte dise <objectName ref="voegel">Vögel</objectName> mit wohl <objectName ref="butter">Butter</objectName> und Bratwürst= <objectName ref="gehaeck">Gehäck</objectName> <lb/> Gewürtz <lb/> mit Lemoni= Safft und weniger <objectName ref="fleischbruehe">Fleischbrühe</objectName> in ein verschlossenes Casserol <lb/> und laß dünsten <lb/> oder dämpffen <lb/> wie eine Pasteten= Füll; gibs mit einer Dotter= oder andern guten <objectName ref="bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

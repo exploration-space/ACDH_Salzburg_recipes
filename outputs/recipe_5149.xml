@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm in ein Hafen schönes Mund= Meel <lb/> so viel als du Strauben haben willst <lb/> und süssen Milchram <lb/> mache aus dem Meel einen festen Taig in dem Hafen <lb/> zäh <lb/> oder klopfe ihn wol ab <lb/> schlage zwey ganze Eyer daran <lb/> darnach schlage Dotter darein <lb/> biß daß der Taig dünn genug ist <lb/> als wie ein anderer Stauben= Taig<lb/> gieß solchen nach Proportion in den Strauben= Löffel <lb/> und bachs schön aus heissem Schmaltz.</p>
+        <p> NImm in ein <objectName ref="hafen">Hafen</objectName> schönes Mund= Meel <lb/> so viel als du <objectName ref="strauben">Strauben</objectName> haben willst <lb/> und süssen Milchram <lb/> mache aus dem Meel einen festen Taig in dem <objectName ref="hafen">Hafen</objectName> <lb/> zäh <lb/> oder klopfe ihn wol ab <lb/> schlage zwey ganze Eyer daran <lb/> darnach schlage Dotter darein <lb/> biß daß der Taig dünn genug ist <lb/> als wie ein anderer Stauben= Taig/ gieß solchen nach Proportion in den Strauben= <objectName ref="loeffel">Löffel</objectName> <lb/> und bachs schön aus heissem Schmaltz. </p>
             </div>
         </body>
     </text>

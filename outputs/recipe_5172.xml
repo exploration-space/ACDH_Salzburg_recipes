@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WAnn die Aalfisch abgestreifft <lb/> aufgemacht <lb/> eingesaltzen <lb/> und in Eßig gelegt <lb/> hernach mit Salbey <lb/> oder Lorbeer= Laub gebraten <lb/> mit Butter begossen <lb/> und letztlich mit Semel= Brosen bestreut <lb/> angericht <lb/> so gibe braunen Butter <lb/> mit klein= gehackten Sardellen vermischt darüber; zier sie mit Lemoni <lb/> und gibs: Andere begiessen den Aal im Braten mit zerlaßnem Sardellen= Butter.</p>
+        <p> WAnn die Aalfisch abgestreifft <lb/> aufgemacht <lb/> eingesaltzen <lb/> und in Eßig gelegt <lb/> hernach mit Salbey <lb/> oder Lorbeer= Laub gebraten <lb/> mit <objectName ref="butter">Butter</objectName> begossen <lb/> und letztlich mit Semel= Brosen bestreut <lb/> angericht <lb/> so gibe braunen <objectName ref="butter">Butter</objectName> <lb/> mit klein= gehackten <objectName ref="sardellen">Sardellen</objectName> vermischt darüber; zier sie mit Lemoni <lb/> und gibs : Andere begiessen den <objectName ref="aal">Aal</objectName> im Braten mit zerlaßnem Sardellen= <objectName ref="butter">Butter</objectName>. </p>
             </div>
         </body>
     </text>

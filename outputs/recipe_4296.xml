@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Gaimen werden gewaschen <lb/> gesotten <lb/> gebutzt und gewürtzt <lb/> wie gleich jetzt gemeldet worden <lb/> alsdann brenne dieselben mit Zwibel und ein wenig Meel in gutem Butter schön gelb ein <lb/> giesse einen Löffel= voll Wein mit Fleischbrühe daran <lb/> und laß es gar an die statt sieden <lb/> setz die Schüssel mit gebähtem Brod auf <lb/> schütte darüber eine gute Fleischbrühe <lb/> gibe die Gaimen oben drauf <lb/> regaliers so gut du kanst <lb/> und trags auf.</p>
+        <p> DIe Gaimen werden gewaschen <lb/> gesotten <lb/> gebutzt und gewürtzt <lb/> wie gleich jetzt gemeldet worden <lb/> alsdann brenne dieselben mit Zwibel und ein wenig Meel in gutem <objectName ref="butter">Butter</objectName> schön gelb ein <lb/> giesse einen Löffel= voll <objectName ref="wein">Wein</objectName> mit <objectName ref="fleischbruehe">Fleischbrühe</objectName> daran <lb/> und laß es gar an die statt sieden <lb/> setz die <objectName ref="schuessel">Schüssel</objectName> mit gebähtem Brod auf <lb/> schütte darüber eine gute <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> gibe die Gaimen oben drauf <lb/> regaliers so gut du kanst <lb/> und trags auf. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Setz die Füß mit einem Wasser zu <lb/> vnd wenn  sie wol gesotten seyn <lb/> so schaw <lb/> daß du es nicht versaltzest <lb/> wilt du es aber weiß machen <lb/> so nim(m) kein Gewürtz <lb/> sondern nur Weinessig vnter die Brüh <lb/> so wirt es davon weiß <lb/> gieß es in die Schüssel vber die Füß <lb/> Ehe du es aber darüber geußt <lb/> so laß es kalt werden <lb/> vnd rür es mit einem Löffel auff vn(n) nider <lb/> so wirt es baldt kalt vnd weiß. So magstu es auch machen sampt dem Gewürtz <lb/> so ist es auff beyde Manier gut <lb/> sonderlich wen(n) sie saur seyn.</p>
+        <p> Setz die Füß mit einem <objectName ref="wasser">Wasser</objectName> zu <lb/> vnd wenn sie wol gesotten seyn <lb/> so schaw <lb/> daß du es nicht versaltzest <lb/> wilt du es aber weiß machen <lb/> so nim ( m ) kein Gewürtz <lb/> sondern nur <objectName ref="weinessig">Weinessig</objectName> vnter die Brüh <lb/> so wirt es davon weiß <lb/> gieß es in die <objectName ref="schuessel">Schüssel</objectName> vber die Füß <lb/> Ehe du es aber darüber geußt <lb/> so laß es kalt werden <lb/> vnd rür es mit einem <objectName ref="loeffel">Löffel</objectName> auff vn ( n ) nider <lb/> so wirt es baldt kalt vnd weiß. So magstu es auch machen sampt dem Gewürtz <lb/> so ist es auff beyde Manier gut <lb/> sonderlich wen ( n ) sie saur seyn. </p>
             </div>
         </body>
     </text>

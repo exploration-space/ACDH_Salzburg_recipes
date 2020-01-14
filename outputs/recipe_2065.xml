@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Wasser vnd schmalz durcheinander, vnd mach ein taig <lb/> an, gar vest, sez ihn auf, oder schlag ihn ÿber, Wie du ein <lb/> Pasteten haben Wilt, nimb Wasser vnd schmalz durcheinander, <lb/> seud das Ändl, vnd thues gar schen auf, mach ein guets sipl <lb/> drüber, legs in die Pasteten, machs Zue, bachs in einer <lb/> dorten Pfanen, schlag ein Aÿr auf, bestreichs damit, so <lb/> Wirds schen, vnd ist bereith. <lb/></p>
+        <p> Nimb <objectName ref="wasser">Wasser</objectName> vnd <objectName ref="schmalz">schmalz</objectName> durcheinander, vnd mach ein taig <lb/> an, gar vest, sez ihn auf, oder schlag ihn ÿber, Wie du ein <lb/> <objectName ref="pastete">Pasteten</objectName> haben Wilt, nimb <objectName ref="wasser">Wasser</objectName> vnd <objectName ref="schmalz">schmalz</objectName> durcheinander, <lb/> seud das Ändl, vnd thues gar schen auf, mach ein guets sipl <lb/> drüber, legs in die <objectName ref="pastete">Pasteten</objectName>, machs Zue, bachs in einer <lb/> dorten Pfanen, schlag ein Aÿr auf, bestreichs damit, so <lb/> Wirds schen, vnd ist bereith. <lb/> </p>
             </div>
         </body>
     </text>

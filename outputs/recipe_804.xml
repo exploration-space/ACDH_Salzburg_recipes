@@ -168,11 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Diese werden mit Wasser <lb/> Wein <lb/> und Zimmet gesotten <lb/> durchgetrieben <lb/> und auf erst beschriebne Art verkocht.
-
-NB. Dieser Safft mit Zucker wol gemacht <lb/> schickt sich auch zu Braten <lb/> die und dergleichen Latwergen ist allen Bauren bekannt.
-
-NB. Holderbeer in die Dorten=Füll <lb/> im II. Theil <lb/> 2. Buch <lb/> II. Blat <lb/> 41. und 42. N°.</p>
+        <p> Diese werden mit <objectName ref="wasser">Wasser</objectName> <lb/> <objectName ref="wein">Wein</objectName> <lb/> und Zimmet gesotten <lb/> durchgetrieben <lb/> und auf erst beschriebne Art verkocht. NB. Dieser Safft mit <objectName ref="zucker">Zucker</objectName> wol gemacht <lb/> schickt sich auch zu Braten <lb/> die und dergleichen <objectName ref="latwerge">Latwergen</objectName> ist allen Bauren bekannt. NB. Holderbeer in die Dorten=Füll <lb/> im II. Theil <lb/> 2. Buch <lb/> II. Blat <lb/> 41. und 42. N°. </p>
             </div>
         </body>
     </text>

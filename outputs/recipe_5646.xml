@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAn schuppet den Fisch <lb/> und schneidet überzwerch kleine Schnittlein darein <lb/> würtzet und saltzet ihn hernach <lb/> dann wird er in einer Brat= Pfanne <lb/> oder aber auf dem Rost gebraten : zuletzt ein Trisanet <lb/> wie auch Ingber und Pfeffer darauf gestreuet <lb/> und also nach belieben kalt genossen.</p>
+        <p> MAn schuppet den <objectName ref="fisch">Fisch</objectName> <lb/> und schneidet überzwerch kleine Schnittlein darein <lb/> würtzet und saltzet ihn hernach <lb/> dann wird er in einer Brat= <objectName ref="pfanne">Pfanne</objectName> <lb/> oder aber auf dem <objectName ref="rost">Rost</objectName> gebraten : zuletzt ein Trisanet <lb/> wie auch Ingber und <objectName ref="pfeffer">Pfeffer</objectName> darauf gestreuet <lb/> und also nach belieben kalt genossen. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) die Hattele <lb/> vnd treib einen Teig auff von einem weissen Mehl <lb/> vnd mach die Hattele eyn <lb/> vnnd backs im Ofen. Wenn du es darnach wilt anrichte(n) <lb/> so mach ein saure Brüh darüber <lb/> oder geuß ein braune Brüh darein <lb/> so ist es auch lieblich vnd gut zu essen.</p>
+        <p> Nim ( m ) die Hattele <lb/> vnd treib einen <objectName ref="teig">Teig</objectName> auff von einem weissen <objectName ref="mehl">Mehl</objectName> <lb/> vnd mach die Hattele eyn <lb/> vnnd backs im <objectName ref="ofen">Ofen</objectName>. Wenn du es darnach wilt anrichte ( n ) <lb/> so mach ein saure Brüh darüber <lb/> oder geuß ein braune Brüh darein <lb/> so ist es auch lieblich vnd gut zu essen. </p>
             </div>
         </body>
     </text>

@@ -174,9 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEr Hecht wird geschuppt <lb/> oder auch ungeschuppter zerstuckt <lb/> in Saltzwasser und Eßig gesotten <lb/> und wann der Fisch nicht geschuppt <lb/> so wird er gescheelt <lb/> mit gutem Butter <lb/> Gewürtz <lb/> Capry und Lemoni <lb/> auch <lb/> so es beliebt <lb/> ein gute Sardellen <lb/> auch mit <lb/> oder ohne Fäsch <lb/> in die Pasteten gemacht ; gebachen <lb/> und mit einer gelben <lb/> eingebrennten Erbsen= Brühe und Wein gegeben.
-
- </p>
+        <p> DEr <objectName ref="hecht">Hecht</objectName> wird geschuppt <lb/> oder auch ungeschuppter zerstuckt <lb/> in Saltzwasser und Eßig gesotten <lb/> und wann der <objectName ref="fisch">Fisch</objectName> nicht geschuppt <lb/> so wird er gescheelt <lb/> mit gutem <objectName ref="butter">Butter</objectName> <lb/> Gewürtz <lb/> Capry und Lemoni <lb/> auch <lb/> so es beliebt <lb/> ein gute <objectName ref="sardellen">Sardellen</objectName> <lb/> auch mit <lb/> oder ohne Fäsch <lb/> in die <objectName ref="pastete">Pasteten</objectName> gemacht; gebachen <lb/> und mit einer gelben <lb/> eingebrennten Erbsen= <objectName ref="bruehe">Brühe</objectName> und <objectName ref="wein">Wein</objectName> gegeben. </p>
             </div>
         </body>
     </text>

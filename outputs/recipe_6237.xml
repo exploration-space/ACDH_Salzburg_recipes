@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Gelb auff Vngerisch eyngemacht <lb/> fein süß. Auch weiß eyngemacht mit Eyerdottern <lb/> fein säurlich <lb/> mit grünen wolschmeckenden Kräutern.</p>
+        <p> Gelb auff Vngerisch eyngemacht <lb/> fein süß. Auch weiß eyngemacht mit Eyerdottern <lb/> fein säurlich <lb/> mit grünen wolschmeckenden <objectName ref="kraeuter">Kräutern</objectName>. </p>
             </div>
         </body>
     </text>

@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ITem die Wein <lb/> die gelesen werdern <lb/> ehe sie zeitig seind <lb/> die seind nicht wehrhafftig <lb/> vnnd gut <lb/> auch die Wein <lb/> so vberig zeitig seindt <lb/> vnd not leiden von Hitz oder Kälte <lb/> seind auch nicht natürlich gesundt vnd gut <lb/> darnach hab man sich zurichten <lb/> daß man das recht mittel treff.</p>
+        <p> ITem die <objectName ref="wein">Wein</objectName> <lb/> die gelesen werdern <lb/> ehe sie zeitig seind <lb/> die seind nicht wehrhafftig <lb/> vnnd gut <lb/> auch die <objectName ref="wein">Wein</objectName> <lb/> so vberig zeitig seindt <lb/> vnd not leiden von Hitz oder Kälte <lb/> seind auch nicht natürlich gesundt vnd gut <lb/> darnach hab man sich zurichten <lb/> daß man das recht mittel treff. </p>
             </div>
         </body>
     </text>

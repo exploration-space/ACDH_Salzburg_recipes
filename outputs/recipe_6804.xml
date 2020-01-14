@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Auch eyngemachte Vögel mit Pettersilgen Wurtzel <lb/> in jhrer eygenen Brüh mit Muscatenblüt <lb/> nim(m) darzu ein gute Hennenbrüh <lb/> so wirdt es desto wolgeschmacker.</p>
+        <p> Auch eyngemachte <objectName ref="voegel">Vögel</objectName> mit Pettersilgen Wurtzel <lb/> in jhrer eygenen Brüh mit Muscatenblüt <lb/> nim ( m ) darzu ein gute Hennenbrüh <lb/> so wirdt es desto wolgeschmacker. </p>
             </div>
         </body>
     </text>

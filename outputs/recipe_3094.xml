@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ARtischocken noch jung und klein <lb/> gebutzt <lb/> zu Spalten gemacht <lb/> das Rauh heraus geschnitten <lb/> und mit Saltz <lb/> Pfeffer <lb/> auch Eßig und Oel zum Salat gemacht.</p>
+        <p> <objectName ref="artischocken">ARtischocken</objectName> noch jung und klein <lb/> gebutzt <lb/> zu Spalten gemacht <lb/> das Rauh heraus geschnitten <lb/> und mit Saltz <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> auch Eßig und Oel zum <objectName ref="salat">Salat</objectName> gemacht. </p>
             </div>
         </body>
     </text>

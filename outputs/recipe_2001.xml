@@ -168,10 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>
-Zum braten, seud ihn am ersten, schneid ihn darnach <lb/> Zu stukhen, stekh ihn an ein spieß, vnd brat ihn, laß ihn <lb/> khalt werden, vnd Wen du ihn anrichst, so gib ein, grüene <lb/> Salssen darzue, so ist er guet. <lb/>
-Nimb ein All, Zeuch ihn nit ab, sondern thue ihn auf, vnd Weid <lb/> ihn auß, schneid ihn Zu 4. stukhen, seud ihn ab mit Wasser, <lb/> Essig vnd Salz, laß ihn an die stat Sieden, richt ihn trukhen vnd <lb/> Worm an, so ist es ein guets Essen. <lb/>
-</p>
+        <p> Zum braten, seud ihn am ersten, schneid ihn darnach <lb/> Zu stukhen, stekh ihn an ein <objectName ref="spiess">spieß</objectName>, vnd brat ihn, laß ihn <lb/> khalt werden, vnd Wen du ihn anrichst, so gib ein, grüene <lb/> Salssen darzue, so ist er guet. <lb/> Nimb ein All, Zeuch ihn nit ab, sondern thue ihn auf, vnd Weid <lb/> ihn auß, schneid ihn Zu 4. stukhen, seud ihn ab mit <objectName ref="wasser">Wasser</objectName>, <lb/> <objectName ref="essig">Essig</objectName> vnd <objectName ref="salz">Salz</objectName>, laß ihn an die stat Sieden, richt ihn trukhen vnd <lb/> Worm an, so ist es ein guets Essen. <lb/> </p>
             </div>
         </body>
     </text>

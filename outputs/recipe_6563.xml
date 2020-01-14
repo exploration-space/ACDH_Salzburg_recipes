@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Wenn der Kappaunen halb gesotten ist <lb/> so nim(m) Vngerische Pflaumen <lb/> Ziweben <lb/> vnd ein wenig Essig <lb/> Rindtfleischbrüh <lb/> vnd ein wenig eyngebrennt Mehl darein <lb/> pfeffers <lb/> vnd machs gelb <lb/> laß es damit wol auffsieden <lb/> machs wol süß mit Zucker <lb/> so wirt es gut vnd wolgeschmack.</p>
+        <p> Wenn der Kappaunen halb gesotten ist <lb/> so nim ( m ) Vngerische <objectName ref="pflaumen">Pflaumen</objectName> <lb/> Ziweben <lb/> vnd ein wenig <objectName ref="essig">Essig</objectName> <lb/> Rindtfleischbrüh <lb/> vnd ein wenig eyngebrennt <objectName ref="mehl">Mehl</objectName> darein <lb/> pfeffers <lb/> vnd machs gelb <lb/> laß es damit wol auffsieden <lb/> machs wol süß mit <objectName ref="zucker">Zucker</objectName> <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

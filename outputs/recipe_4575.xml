@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZIehe ein Pfund Mandeln ab <lb/> stosse sie mit Rosenwasser wohl klein <lb/> nimm ferner ein halb Pfund durchgesiebten Zucker <lb/> schlage sechs gantze Eyer <lb/> und eben so viel Eyerdottern <lb/> in einen Topff oder Hafen <lb/> schütte den Zucker darein <lb/> und klopff es also drey viertel Stunden lang ; gieß dieses wohl gemach an die Mandeln <lb/> und rühre alles noch ferner eine viertel Stund : schmire den Model mit Butter <lb/> schütte den besagter massen zusamm= gemachten Mandel= Teig darein <lb/> und laß ihn bachen.</p>
+        <p> ZIehe ein <objectName ref="pfund">Pfund</objectName> <objectName ref="mandeln">Mandeln</objectName> ab <lb/> stosse sie mit <objectName ref="rosenwasser">Rosenwasser</objectName> wohl klein <lb/> nimm ferner ein halb <objectName ref="pfund">Pfund</objectName> durchgesiebten <objectName ref="zucker">Zucker</objectName> <lb/> schlage sechs gantze Eyer <lb/> und eben so viel Eyerdottern <lb/> in einen Topff oder <objectName ref="hafen">Hafen</objectName> <lb/> schütte den <objectName ref="zucker">Zucker</objectName> darein <lb/> und klopff es also drey viertel Stunden lang; gieß dieses wohl gemach an die <objectName ref="mandeln">Mandeln</objectName> <lb/> und rühre alles noch ferner eine viertel Stund : schmire den <objectName ref="model">Model</objectName> mit <objectName ref="butter">Butter</objectName> <lb/> schütte den besagter massen zusamm= gemachten Mandel= <objectName ref="teig">Teig</objectName> darein <lb/> und laß ihn bachen. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb 2. oder 3. Aÿr, ein guete milch, salz, vnd machs also mit der <lb/> milch an nit Zu fest, vnd schneids Wie ein khlein finger, thues auch in das <lb/> Puter schmalz, seuds wie andere, Werden auch guet, man nimbt auch ein <lb/> guete Puter milch, sollen fein marb Werden. <lb/></p>
+        <p> Nimb 2. oder 3. Aÿr, ein guete <objectName ref="milch">milch</objectName>, <objectName ref="salz">salz</objectName>, vnd machs also mit der <lb/> <objectName ref="milch">milch</objectName> an nit Zu fest, vnd schneids Wie ein khlein finger, thues auch in das <lb/> Puter <objectName ref="schmalz">schmalz</objectName>, seuds wie andere, Werden auch guet, man nimbt auch ein <lb/> guete Puter <objectName ref="milch">milch</objectName>, sollen fein marb Werden. <lb/> </p>
             </div>
         </body>
     </text>

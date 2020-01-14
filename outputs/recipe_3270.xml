@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NAchdem die Carbonädlein breit geschlagen <lb/> mit Saltz und Gewürtz besprengt <lb/> mit wenig Eßig <lb/> Zwibel <lb/> Knoblauch <lb/> oder Rosmarin in Butter <lb/> oder Schwein= Schmaltz gedämpfft <lb/> so seynd sie gut.</p>
+        <p> NAchdem die Carbonädlein breit geschlagen <lb/> mit Saltz und Gewürtz besprengt <lb/> mit wenig Eßig <lb/> Zwibel <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> oder <objectName ref="rosmarin">Rosmarin</objectName> in <objectName ref="butter">Butter</objectName> <lb/> oder Schwein= Schmaltz gedämpfft <lb/> so seynd sie gut. </p>
             </div>
         </body>
     </text>

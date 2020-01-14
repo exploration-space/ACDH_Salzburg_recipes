@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Scheele und schneide die Aepffel auf erstbeschriebne Weiß <lb/> die süssen Aepffel übersiede <lb/> die sauren aber richte mit Wein <lb/> Zucker <lb/> gantzen Zimmet und Näglein <lb/> auch mit rothen Durnisol=Flecklein ein <lb/> laß verdeckter kochen <lb/> trucke die Durnisol=Flecklein wol aus <lb/> und wanns genug roth seynd <lb/> so thue die Flecklein darvon <lb/> richte die Aepffel schön ordentlich auf die Schüssel <lb/> und nicht viel Safft oder Syrup daran <lb/> beziers mit weissen oder gelben Kräutlein <lb/> und gibs.</p>
+        <p> Scheele und schneide die Aepffel auf erstbeschriebne Weiß <lb/> die süssen Aepffel übersiede <lb/> die sauren aber richte mit <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> gantzen Zimmet und Näglein <lb/> auch mit rothen Durnisol=Flecklein ein <lb/> laß verdeckter kochen <lb/> trucke die Durnisol=Flecklein wol aus <lb/> und wanns genug roth seynd <lb/> so thue die Flecklein darvon <lb/> richte die Aepffel schön ordentlich auf die <objectName ref="schuessel">Schüssel</objectName> <lb/> und nicht viel Safft oder Syrup daran <lb/> beziers mit weissen oder gelben Kräutlein <lb/> und gibs. </p>
             </div>
         </body>
     </text>

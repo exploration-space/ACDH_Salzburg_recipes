@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneid grosse Ruben zu dinnen Schnitten <lb/> wirff sie in siedend Wasser <lb/> laß darinnen eine Stund sieden; treibs durch einen Seiher <lb/> und so mans anrichten will <lb/> schneide die äussere Rinde von Semmeln in grosse Stück <lb/> legs in eine Schüssel <lb/> und gieß eine siedende Fleischbrüh darüber <lb/> laß auf einer Kohlen sieden biß es ein wenig weich wird: dann richte das durchgetriebene von den Ruben dazu <lb/> saltz oben darauf ein wenig <lb/> brenne wol heisses Schmaltz darüber; dann sie muß etwas fett sein: und trags also zu Tisch.</p>
+        <p> SChneid grosse Ruben zu dinnen Schnitten <lb/> wirff sie in siedend <objectName ref="wasser">Wasser</objectName> <lb/> laß darinnen eine Stund sieden; treibs durch einen <objectName ref="seiher">Seiher</objectName> <lb/> und so mans anrichten will <lb/> schneide die äussere Rinde von <objectName ref="semmeln">Semmeln</objectName> in grosse Stück <lb/> legs in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und gieß eine siedende Fleischbrüh darüber <lb/> laß auf einer <objectName ref="kohlen">Kohlen</objectName> sieden biß es ein wenig weich wird : dann richte das durchgetriebene von den Ruben dazu <lb/> saltz oben darauf ein wenig <lb/> brenne wol heisses Schmaltz darüber; dann sie muß etwas <objectName ref="fett">fett</objectName> sein : und trags also zu <objectName ref="tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

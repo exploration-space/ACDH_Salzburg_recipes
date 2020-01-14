@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>des wird zerbrochen alß wie daß malz <lb/> aber auch stehen lasßen aber .6. theil <lb/> wosßer, auch gemacht wie den obigen aber <lb/> ain masß hopfen, vnd ½ masß hopfen wasßer <lb/> alß dan gebrandt wie oben. <lb/></p>
+        <p> des wird zerbrochen alß wie daß <objectName ref="malz">malz</objectName> <lb/> aber auch stehen lasßen aber.6. theil <lb/> wosßer, auch gemacht wie den obigen aber <lb/> ain masß <objectName ref="hopfen">hopfen</objectName>, vnd ½ masß <objectName ref="hopfen">hopfen</objectName> wasßer <lb/> alß dan gebrandt wie oben. <lb/> </p>
             </div>
         </body>
     </text>

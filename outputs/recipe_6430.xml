@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Gib sie roh auff ein Tisch zum Obß. Wiltu sie aber warm geben <lb/> so laß nur ein mal auffsieden mit Wein <lb/> mach ein kurtze Brüh daran. Denn sie seind vorhin süß.</p>
+        <p> Gib sie roh auff ein <objectName ref="tisch">Tisch</objectName> zum Obß. Wiltu sie aber warm geben <lb/> so laß nur ein mal auffsieden mit <objectName ref="wein">Wein</objectName> <lb/> mach ein kurtze Brüh daran. Denn sie seind vorhin süß. </p>
             </div>
         </body>
     </text>

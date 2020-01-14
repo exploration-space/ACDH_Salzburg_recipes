@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WIe dieselbe <lb/> in süsser und saurer Brühe zu kochen <lb/> findest du genug bey den rindernen Zungen.</p>
+        <p> WIe dieselbe <lb/> in süsser und saurer <objectName ref="bruehe">Brühe</objectName> zu kochen <lb/> findest du genug bey den rindernen <objectName ref="zunge">Zungen</objectName>. </p>
             </div>
         </body>
     </text>

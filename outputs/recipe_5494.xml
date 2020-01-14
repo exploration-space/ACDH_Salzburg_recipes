@@ -168,9 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Amarellen <lb/> vn(d) stoß sie mit den Kern <lb/> sie seyn dürr oder grün <lb/> streich sie mit Zimmet vnnd Wein durch <lb/> vnnd mach sie wol süß <lb/> laß darmit auffsieden <lb/> so ist es gut.
-
-</p>
+        <p> Nim ( m ) Amarellen <lb/> vn ( d ) stoß sie mit den Kern <lb/> sie seyn dürr oder grün <lb/> streich sie mit Zimmet vnnd <objectName ref="wein">Wein</objectName> durch <lb/> vnnd mach sie wol süß <lb/> laß darmit auffsieden <lb/> so ist es gut. </p>
             </div>
         </body>
     </text>

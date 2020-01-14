@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) dürre Schwammen <lb/> wasch sie sauber auß etlichen Wassern <lb/> setz sie zu mit Erbeßbrüh vnnd klein geschweißten Zwibeln <lb/> mach es ab mit Essig <lb/> Pfeffer <lb/> mit Saffran vnd Saltz <lb/> laß miteinander ein stundt oder zwo sieden <lb/> so wirt es gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) dürre Schwammen <lb/> wasch sie sauber auß etlichen <objectName ref="wasser">Wassern</objectName> <lb/> setz sie zu mit Erbeßbrüh vnnd klein geschweißten Zwibeln <lb/> mach es ab mit <objectName ref="essig">Essig</objectName> <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> mit Saffran vnd Saltz <lb/> laß miteinander ein stundt oder zwo sieden <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

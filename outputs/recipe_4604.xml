@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet drey Eß= Löffel voll klar= und wie ein Mehl gestossenes Zuckers <lb/> röstet ihn wohl trocken auf einer kleinen Kohlen <lb/> doch daß er nicht anbrenne ; giesset dann ein wenig frisch ausgepreßten Saurach= oder Wein= Lägelein= Safft <lb/> so nicht mit Zucker zum Syrup gesotten ist <lb/> daran <lb/> und rühret ihn schön glatt ab <lb/> daß er eine rechte Dicken bekommt <lb/> dann dieser Spiegel muß sehr wohl abgerühret werden ; dann kan man auch damit eisen oder spiegeln was man will <lb/> und selbiges alsdann in der Stuben ertrocknen lassen.</p>
+        <p> NEhmet drey Eß= <objectName ref="loeffel">Löffel</objectName> voll klar= und wie ein <objectName ref="mehl">Mehl</objectName> gestossenes Zuckers <lb/> röstet ihn wohl trocken auf einer kleinen <objectName ref="kohlen">Kohlen</objectName> <lb/> doch daß er nicht anbrenne; giesset dann ein wenig frisch ausgepreßten Saurach= oder Wein= Lägelein= Safft <lb/> so nicht mit <objectName ref="zucker">Zucker</objectName> zum Syrup gesotten ist <lb/> daran <lb/> und rühret ihn schön glatt ab <lb/> daß er eine rechte Dicken bekommt <lb/> dann dieser Spiegel muß sehr wohl abgerühret werden; dann kan man auch damit eisen oder spiegeln was man will <lb/> und selbiges alsdann in der Stuben ertrocknen lassen. </p>
             </div>
         </body>
     </text>

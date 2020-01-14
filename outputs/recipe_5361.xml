@@ -165,9 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WIe man aber mit dem Selchen sich verhalten soll <lb/> ist in dem 1. Capitel bey denen Ochsen= Zungen N°. 43. 44. Item <lb/> N°. 111 alldorten zu lesen.
-
- </p>
+        <p> WIe man aber mit dem Selchen sich verhalten soll <lb/> ist in dem 1. Capitel bey denen Ochsen= <objectName ref="zunge">Zungen</objectName> N°. 43. 44. Item <lb/> N°. 111 alldorten zu lesen. </p>
             </div>
         </body>
     </text>

@@ -175,8 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm sauber = gebutzte Tauben <lb/> schneide sie in der Mitte nach der Länge in zwey Theil <lb/> schneid auch Köpff <lb/> Füß und Flügel herunter <lb/> stecke die Schenckel ein <lb/> klopffe die Brust ein wenig <lb/> und fülle die Tauben innwendig voll mit gutem Bratwürst = Gehäck; laß sie mit gutem Butter <lb/> wenig Wein und Fleischbrühe dämpffen <lb/> brenns ein wenig ein mit klein = gehackten Zwibeln <lb/> Petersil = Kräutlein <lb/> und guten Sardellen <lb/> gewürtz mit wenig Pfeffer <lb/> Imber und Muscatnuß <lb/> und gibs.
-</p>
+        <p> NImm sauber = gebutzte <objectName ref="taube">Tauben</objectName> <lb/> schneide sie in der Mitte nach der Länge in zwey Theil <lb/> schneid auch Köpff <lb/> Füß und Flügel herunter <lb/> stecke die Schenckel ein <lb/> klopffe die <objectName ref="brust">Brust</objectName> ein wenig <lb/> und fülle die <objectName ref="taube">Tauben</objectName> innwendig voll mit gutem Bratwürst = <objectName ref="gehaeck">Gehäck</objectName>; laß sie mit gutem <objectName ref="butter">Butter</objectName> <lb/> wenig <objectName ref="wein">Wein</objectName> und <objectName ref="fleischbruehe">Fleischbrühe</objectName> dämpffen <lb/> brenns ein wenig ein mit klein = gehackten Zwibeln <lb/> Petersil = Kräutlein <lb/> und guten <objectName ref="sardellen">Sardellen</objectName> <lb/> gewürtz mit wenig <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber und Muscatnuß <lb/> und gibs. </p>
             </div>
         </body>
     </text>

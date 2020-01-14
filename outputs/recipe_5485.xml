@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Weinsuppen mit Eyern zugericht <lb/> gelb vnd süß gemacht <lb/> thu Ingwer vnd Zimmet darvnter <lb/> laß mit Butter vnd Saltz auffsieden <lb/> so wirt es gut vnd wolgeschmack.</p>
+        <p> Weinsuppen mit Eyern zugericht <lb/> gelb vnd süß gemacht <lb/> thu <objectName ref="ingwer">Ingwer</objectName> vnd Zimmet darvnter <lb/> laß mit <objectName ref="butter">Butter</objectName> vnd Saltz auffsieden <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

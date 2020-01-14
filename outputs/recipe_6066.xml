@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim harte Eyer <lb/> gib sie besonder neben dem Salat <lb/> besträw sie mit grün Pettersilgen vnd Saltz <lb/> vnd geuß Essig darüber.</p>
+        <p> Nim harte Eyer <lb/> gib sie besonder neben dem <objectName ref="salat">Salat</objectName> <lb/> besträw sie mit grün Pettersilgen vnd Saltz <lb/> vnd geuß <objectName ref="essig">Essig</objectName> darüber. </p>
             </div>
         </body>
     </text>

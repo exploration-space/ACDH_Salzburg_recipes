@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein Viertung Reiß, siedt in In einer guetten milch gar waich, <lb/> nimb ein Viertung Mandl, stosß die groblecht, alß dan nimb den ge= <lb/><lb/> stosßnen Reiß, vnd Mandl. vmd einen Viertung butter, Stosß alles <lb/> wohl durcheinander ab, alß dan thues in ein Schisßl, riehrs .2. Stundt, <lb/> vmd schlag .6. ganze ayr daran, wans geriehrt genueg ist, So bachs <lb/> wie ein anders Mandlkhoch, Zuckhers daß syeß genueg ist. <lb/>.</p>
+        <p> Nimb ein <objectName ref="viertung">Viertung</objectName> Reiß, siedt in In einer guetten <objectName ref="milch">milch</objectName> gar waich, <lb/> nimb ein <objectName ref="viertung">Viertung</objectName> Mandl, stosß die groblecht, alß dan nimb den ge= <lb/><lb/> stosßnen Reiß, vnd Mandl. vmd einen <objectName ref="viertung">Viertung</objectName> <objectName ref="butter">butter</objectName>, Stosß alles <lb/> wohl durcheinander ab, alß dan thues in ein Schisßl, riehrs.2. Stundt, <lb/> vmd schlag.6. ganze ayr daran, wans geriehrt genueg ist, So bachs <lb/> wie ein anders Mandlkhoch, Zuckhers daß syeß genueg ist. <lb/>. </p>
             </div>
         </body>
     </text>

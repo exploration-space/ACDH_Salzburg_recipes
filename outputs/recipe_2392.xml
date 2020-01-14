@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>HAcke die Datteln oder Cibeben klein <lb/> sieds in Wein ab; treibs durch einen Seiher oder reines Sieblein <lb/> wirff ein klein Stück Butter hinein <lb/> laß aufsieden; zuckers <lb/> würtz es mit Zimmet <lb/> Cardamomen und Muscatenblüh: richts dann über gebäht Brod <lb/> und streue Zimmet oder Trisanet darauf.</p>
+        <p> HAcke die <objectName ref="datteln">Datteln</objectName> oder Cibeben klein <lb/> sieds in <objectName ref="wein">Wein</objectName> ab; treibs durch einen <objectName ref="seiher">Seiher</objectName> oder reines Sieblein <lb/> wirff ein klein Stück <objectName ref="butter">Butter</objectName> hinein <lb/> laß aufsieden; zuckers <lb/> würtz es mit Zimmet <lb/> Cardamomen und Muscatenblüh : richts dann über gebäht Brod <lb/> und streue Zimmet oder Trisanet darauf. </p>
             </div>
         </body>
     </text>

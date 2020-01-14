@@ -170,9 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>MAche einen Teig an mit Eyern und Mehl <lb/> würcke ihn zusammen <lb/> behalte selbigen an einem warmen Ort auf <lb/> daß er dürr werde ; alsdann wird er gehacket <lb/> oder an einem Reibeisen gerieben <lb/> und in einer siedenden Fleischbrühe gekocht ; dann thut man auch Cardamomen <lb/> Muscatblühe und Butter darein <lb/> lässt es sieden und richtets an. <gap/>
-
-<gap/> Wann man es säuerlich haben will <lb/> so giesset man ein wenig Essig darein.</p>
+        <p> MAche einen <objectName ref="teig">Teig</objectName> an mit Eyern und <objectName ref="mehl">Mehl</objectName> <lb/> würcke ihn zusammen <lb/> behalte selbigen an einem warmen Ort auf <lb/> daß er dürr werde; alsdann wird er gehacket <lb/> oder an einem <objectName ref="reibeisen">Reibeisen</objectName> gerieben <lb/> und in einer siedenden <objectName ref="fleischbruehe">Fleischbrühe</objectName> gekocht; dann thut man auch Cardamomen <lb/> Muscatblühe und <objectName ref="butter">Butter</objectName> darein <lb/> lässt es sieden und richtets an. <gap/> <gap/> Wann man es säuerlich haben will <lb/> so giesset man ein wenig <objectName ref="essig">Essig</objectName> darein. </p>
             </div>
         </body>
     </text>

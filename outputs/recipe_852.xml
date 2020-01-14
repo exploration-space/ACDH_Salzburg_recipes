@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Diese ausgekernt <lb/> mit Wein und wol Zucker <lb/> auch beygelegten gantzen Zimmet <lb/> und wenig Näglein <lb/> seynd von einem raren Geruch <lb/> und gut <lb/> wer will <lb/> treibts durch.</p>
+        <p> Diese ausgekernt <lb/> mit <objectName ref="wein">Wein</objectName> und wol <objectName ref="zucker">Zucker</objectName> <lb/> auch beygelegten gantzen Zimmet <lb/> und wenig Näglein <lb/> seynd von einem raren Geruch <lb/> und gut <lb/> wer will <lb/> treibts durch. </p>
             </div>
         </body>
     </text>

@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>(57v) Nembt haußenblater, 4. zwifel, Nembt die <lb/> schörpf von den höchten, oder Kärpfen, laß <lb/> den wein auf Sieden, wasch die fisch aufs <lb/> schönist, thue die fisch ein, wan der wein auf= <lb/> =seut, laß gemach Sieden, d(a)s manß kaumb <lb/> sicht, nimbt ganz lints gewürz, Mußcatblie, <lb/> Pfeffer, dan von den Imbern vnd Nägelein <lb/> wierts häntig, Nimb darnach ain wenig <lb/> gueten Esßig, gilbs wan du schier v: feüer <lb/> wilt haben, zuggers zimblich woll, Seichs woll <lb/> ab, sez wid(er) zum feüer, laß ein gueten Sudt <lb/> thuen, so sezt sich d(a)s trieb fein wid(er) auf den <lb/> boden, Salz nit hart. <lb/></p>
+        <p> ( 57v ) Nembt haußenblater, 4. zwifel, Nembt die <lb/> schörpf von den höchten, oder Kärpfen, laß <lb/> den <objectName ref="wein">wein</objectName> auf Sieden, wasch die <objectName ref="fisch">fisch</objectName> aufs <lb/> schönist, thue die <objectName ref="fisch">fisch</objectName> ein, wan der <objectName ref="wein">wein</objectName> auf= <lb/> =seut, laß gemach Sieden, d ( a ) s manß kaumb <lb/> sicht, nimbt ganz lints gewürz, Mußcatblie, <lb/> <objectName ref="pfeffer">Pfeffer</objectName>, dan von den Imbern vnd Nägelein <lb/> wierts häntig, Nimb darnach ain wenig <lb/> gueten Esßig, gilbs wan du schier v : feüer <lb/> wilt haben, zuggers zimblich woll, Seichs woll <lb/> ab, sez wid ( er ) zum feüer, laß ein gueten Sudt <lb/> thuen, so sezt sich d ( a ) s trieb fein wid ( er ) auf den <lb/> boden, <objectName ref="salz">Salz</objectName> nit hart. <lb/> </p>
             </div>
         </body>
     </text>

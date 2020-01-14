@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe flache braun= gebachene Marzepan macht man gleichfalls also <lb/> wie den abgetrockneten Marzepan= Zeug ; man walchert nemlich besagten Teig oder Zeug aus <lb/> stippet die Mödel mit Mehl ein <lb/> drucket den Teig vest darein <lb/> nimmt ihn dann heraus <lb/> schneidet selbigen aus <lb/> und lässet ihn ein wenig ertrocknen ; leget so dann ein Papier auf ein Blech <lb/> und die Marzepan darauf <lb/> bächt sie nachmal schön licht= gelb in den Ofen <lb/> und verguldets <lb/> wie es beliebt.</p>
+        <p> DIe flache braun= gebachene Marzepan macht man gleichfalls also <lb/> wie den abgetrockneten Marzepan= Zeug; man walchert nemlich besagten <objectName ref="teig">Teig</objectName> oder Zeug aus <lb/> stippet die Mödel mit <objectName ref="mehl">Mehl</objectName> ein <lb/> drucket den <objectName ref="teig">Teig</objectName> vest darein <lb/> nimmt ihn dann heraus <lb/> schneidet selbigen aus <lb/> und lässet ihn ein wenig ertrocknen; leget so dann ein <objectName ref="papier">Papier</objectName> auf ein <objectName ref="blech">Blech</objectName> <lb/> und die Marzepan darauf <lb/> bächt sie nachmal schön licht= gelb in den <objectName ref="ofen">Ofen</objectName> <lb/> und verguldets <lb/> wie es beliebt. </p>
             </div>
         </body>
     </text>

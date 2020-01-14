@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>HOpffen <lb/> so noch jung <lb/> und erst aus der Erden heraus geschossen <lb/> oder dergleichen Gipffel <lb/> sauber gebutzt <lb/> und den Spargel gebrüht <lb/> gibt einen guten Salat.</p>
+        <p> HOpffen <lb/> so noch jung <lb/> und erst aus der Erden heraus geschossen <lb/> oder dergleichen Gipffel <lb/> sauber gebutzt <lb/> und den <objectName ref="spargel">Spargel</objectName> gebrüht <lb/> gibt einen guten <objectName ref="salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

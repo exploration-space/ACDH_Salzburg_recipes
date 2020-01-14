@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Saur Pomerantzen Safft. Wen man die Pomerantzen außdruckt <lb/> macht man den Safft an mit Zimmet vnd Zucker <lb/> kalt zu dem Braten gegeben <lb/> ist gut vnd wolgeschmack.</p>
+        <p> Saur Pomerantzen Safft. Wen man die Pomerantzen außdruckt <lb/> macht man den Safft an mit Zimmet vnd <objectName ref="zucker">Zucker</objectName> <lb/> kalt zu dem Braten gegeben <lb/> ist gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

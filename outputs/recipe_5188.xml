@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DUrchsuche die Grundeln <lb/> daß kein Moß <lb/> Schilff <lb/> Holtz <lb/> oder Stein darunter seye <lb/> setze ein gesaltzen Wasser über das Feuer <lb/> und wann das Fisch= Bädlein siedt <lb/> gieß erst ein wenig Wein= Eßig mit Wasser an die abgesiehene Grundeln <lb/> daß sie schön blau werden <lb/> und samt dem Eßig geschwind in den siedigen Sud geschütt <lb/> und nur lassen anfangen zu sieden <lb/> ein wenig frischen Wasser abgeschröckt <lb/> vom Feuer gehoben <lb/> mit weissem Papier zugedeckt <lb/> und stehen lassen biß zum Anrichten ; dan(n) mit Eßig besprengt <lb/> und mit grünen Kräutlein bestreuter <lb/> auf dem Serviete warm <lb/> oder kalter gegeben.</p>
+        <p> DUrchsuche die Grundeln <lb/> daß kein Moß <lb/> Schilff <lb/> Holtz <lb/> oder <objectName ref="stein">Stein</objectName> darunter seye <lb/> setze ein gesaltzen <objectName ref="wasser">Wasser</objectName> über das <objectName ref="feuer">Feuer</objectName> <lb/> und wann das Fisch= Bädlein siedt <lb/> gieß erst ein wenig Wein= Eßig mit <objectName ref="wasser">Wasser</objectName> an die abgesiehene Grundeln <lb/> daß sie schön blau werden <lb/> und samt dem Eßig geschwind in den siedigen Sud geschütt <lb/> und nur lassen anfangen zu sieden <lb/> ein wenig frischen <objectName ref="wasser">Wasser</objectName> abgeschröckt <lb/> vom <objectName ref="feuer">Feuer</objectName> gehoben <lb/> mit weissem <objectName ref="papier">Papier</objectName> zugedeckt <lb/> und stehen lassen biß zum Anrichten; dan ( n ) mit Eßig besprengt <lb/> und mit grünen Kräutlein bestreuter <lb/> auf dem Serviete warm <lb/> oder kalter gegeben. </p>
             </div>
         </body>
     </text>

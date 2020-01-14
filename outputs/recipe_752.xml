@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>wan du keinen zukher Conserva hast vnd <lb/> ainen gruch dem wasßer geben wilst so <lb/> nimb ain leinbath oder taffel vnd bindte <lb/> den amber vnd muschio darein. vnd wirf ihe <lb/> ihn ins wasßer vnd laß darin stehen biß <lb/> den gruch an sich hat genommen, hernach <lb/> nimbs heraus vnd hengs w wie <lb/><lb/> oben, so ist er widerumb zu gebrauchen <lb/> vnd bekombt seinen natirlichen gruch. <lb/></p>
+        <p> wan du keinen zukher Conserva hast vnd <lb/> ainen gruch dem wasßer geben wilst so <lb/> nimb ain leinbath oder taffel vnd bindte <lb/> den <objectName ref="amber">amber</objectName> vnd muschio darein. vnd wirf ihe <lb/> ihn ins wasßer vnd laß darin stehen biß <lb/> den gruch an sich hat genommen, hernach <lb/> nimbs heraus vnd hengs w wie <lb/><lb/> oben, so ist er widerumb zu gebrauchen <lb/> vnd bekombt seinen natirlichen gruch. <lb/> </p>
             </div>
         </body>
     </text>

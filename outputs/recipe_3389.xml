@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChneidet die Schleyen auf <lb/> und nehmet das Eingeweid heraus <lb/> reibt sie mit Saltz <lb/> wie erst vermeldet worden <lb/> damit das schlüpfferige herab komme <lb/> und schneidet dann die Schleyen überzwerch von einander <lb/> wascht und siedet sie im Saltzwasser <lb/> so lang <lb/> biß sie weich werden; alsdann seihet das Wasser wieder herab <lb/> giesset Wein daran <lb/> thut ein wenig Semmelmehl dazu <lb/> würtzt und zuckerts ein wenig <lb/> last es sieden <lb/> und werfft zuletzt ein Stuck Butter hinein <lb/> daß es ein dicklichtes Brühlein werde.</p>
+        <p> SChneidet die Schleyen auf <lb/> und nehmet das Eingeweid heraus <lb/> reibt sie mit Saltz <lb/> wie erst vermeldet worden <lb/> damit das schlüpfferige herab komme <lb/> und schneidet dann die Schleyen überzwerch von einander <lb/> wascht und siedet sie im Saltzwasser <lb/> so lang <lb/> biß sie weich werden; alsdann seihet das <objectName ref="wasser">Wasser</objectName> wieder herab <lb/> giesset <objectName ref="wein">Wein</objectName> daran <lb/> thut ein wenig <objectName ref="semmelmehl">Semmelmehl</objectName> dazu <lb/> würtzt und zuckerts ein wenig <lb/> last es sieden <lb/> und werfft zuletzt ein Stuck <objectName ref="butter">Butter</objectName> hinein <lb/> daß es ein dicklichtes Brühlein werde. </p>
             </div>
         </body>
     </text>

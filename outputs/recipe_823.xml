@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>In diesen vierdten Theil; 2. Buch <lb/> 4. Capitel <lb/> 74. Blatt <lb/> N°. 28.</p>
+        <p> In diesen vierdten Theil; 2. Buch <lb/> 4. Capitel <lb/> 74. <objectName ref="blatt">Blatt</objectName> <lb/> N°. 28. </p>
             </div>
         </body>
     </text>

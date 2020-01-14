@@ -169,9 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ZIehe ein viertel Pfund Mandel ab <lb/> und stosse sie mit ein wenig frischen Wasser; zwinge dieselbe alsdann mit dem vierdten Theil von einer Maas frischen Wasser durch <lb/> zuckers wohl <lb/> laß aufsieden: indessen bähe ein paar Semmelschnitten fein gelb <lb/> richte die Mandel= Suppe darüber <lb/> und streue ein wenig Zimmet darauf <lb/> so ist sie gut.
-
- </p>
+        <p> ZIehe ein viertel <objectName ref="pfund">Pfund</objectName> Mandel ab <lb/> und stosse sie mit ein wenig frischen <objectName ref="wasser">Wasser</objectName>; zwinge dieselbe alsdann mit dem vierdten Theil von einer <objectName ref="maas">Maas</objectName> frischen <objectName ref="wasser">Wasser</objectName> durch <lb/> zuckers wohl <lb/> laß aufsieden : indessen bähe ein paar <objectName ref="semmelschnitten">Semmelschnitten</objectName> fein gelb <lb/> richte die Mandel= <objectName ref="suppe">Suppe</objectName> darüber <lb/> und streue ein wenig Zimmet darauf <lb/> so ist sie gut. </p>
             </div>
         </body>
     </text>

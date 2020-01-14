@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DAs lämmerne Schlegelein wird mit gewürztem Speck durchzogen; sodann in Wasser <lb/> Eßig <lb/> oder Wein <lb/> worinn auch Zwibel <lb/> Lemono=Schelffen <lb/> Lorbeer=Blättlein <lb/> gantz Gewürtz und gute Kräutlein gethan; schön weiß gesotten <lb/> in Tisch=Serviette; kan also warmer <lb/> oder kalter gegeben werden.</p>
+        <p> DAs lämmerne Schlegelein wird mit gewürztem <objectName ref="speck">Speck</objectName> durchzogen; sodann in <objectName ref="wasser">Wasser</objectName> <lb/> Eßig <lb/> oder <objectName ref="wein">Wein</objectName> <lb/> worinn auch Zwibel <lb/> Lemono=Schelffen <lb/> Lorbeer=Blättlein <lb/> gantz Gewürtz und gute Kräutlein gethan; schön weiß gesotten <lb/> in Tisch=Serviette; kan also warmer <lb/> oder kalter gegeben werden. </p>
             </div>
         </body>
     </text>

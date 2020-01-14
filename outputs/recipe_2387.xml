@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>BRechet von dem Löffelkraut die Stiele herab <lb/> waschet selbiges <lb/> und last es wieder ein wenig ertrocknen; hackt es auf das allerkleinste <lb/> thuts in ein Schüsselein oder Schällein <lb/> giesst ein wenig Wein daran <lb/> doch nicht zu viel <lb/> daß es annoch dicklicht bleibt <lb/> und zuckerts nach belieben.</p>
+        <p> BRechet von dem <objectName ref="loeffelkraut">Löffelkraut</objectName> die Stiele herab <lb/> waschet selbiges <lb/> und last es wieder ein wenig ertrocknen; hackt es auf das allerkleinste <lb/> thuts in ein Schüsselein oder Schällein <lb/> giesst ein wenig <objectName ref="wein">Wein</objectName> daran <lb/> doch nicht zu viel <lb/> daß es annoch dicklicht bleibt <lb/> und zuckerts nach belieben. </p>
             </div>
         </body>
     </text>

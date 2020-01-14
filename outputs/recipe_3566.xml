@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>SChnecken in der Erbes= oder Butter= Brühe <lb/> mit gar wenig Wein <lb/> etwas gelb mit vorhero besagten gemacht <lb/> und Gewürtz <lb/> mit dem ersten Sud gekost und angericht.</p>
+        <p> <objectName ref="schnecken">SChnecken</objectName> in der Erbes= oder Butter= <objectName ref="bruehe">Brühe</objectName> <lb/> mit gar wenig <objectName ref="wein">Wein</objectName> <lb/> etwas gelb mit vorhero besagten gemacht <lb/> und Gewürtz <lb/> mit dem ersten Sud gekost und angericht. </p>
             </div>
         </body>
     </text>

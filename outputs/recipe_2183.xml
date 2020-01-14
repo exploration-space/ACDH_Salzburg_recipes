@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein höchten, seud ihn Wie sonst, seich ihn ab, laß den ÿberkhüelen, <lb/><lb/> (48v) nach dem Zeuch ihm die haut ab, vnd Zerbrich ihn Wie ein stokhfisch, <lb/> leg den in ein häferl, schneid den Zwifl langlet, rest den im <lb/> schmalz, vnd schit ihn dran, geuß Weinessig, Arbesbrüe dran, <lb/> gewürz Woll mit allerleÿ gewürz, thues darzue, vnd laß anein= <lb/> ander sieden, man darffs nit gilben, gibs Warmb, so ists bereith. <lb/></p>
+        <p> Nimb ein höchten, seud ihn Wie sonst, seich ihn ab, laß den ÿberkhüelen, <lb/><lb/> ( 48v ) nach dem Zeuch ihm die haut ab, vnd Zerbrich ihn Wie ein stokhfisch, <lb/> leg den in ein häferl, schneid den Zwifl langlet, rest den im <lb/> <objectName ref="schmalz">schmalz</objectName>, vnd schit ihn dran, geuß <objectName ref="weinessig">Weinessig</objectName>, Arbesbrüe dran, <lb/> gewürz Woll mit allerleÿ gewürz, thues darzue, vnd laß anein= <lb/> ander sieden, man darffs nit gilben, gibs Warmb, so ists bereith. <lb/> </p>
             </div>
         </body>
     </text>

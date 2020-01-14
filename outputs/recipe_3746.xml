@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm brätig = gesottenes Rindfleisch <lb/> schneid es klein <lb/> mit rinderner Faisten <lb/> oder Speck <lb/> mit Wein <lb/> Gewürtz <lb/> Saltz <lb/> wohl riechenden Kräutlein <lb/> und Lemoni = Schelffen <lb/> mit Pinioli und Weinbeer in Butter zu rösten ; auf eine Schüssel <lb/> in einen gebachenen Butter = Taig = Ranfft <lb/> oder sonst in Gehäck = Pastetlein zu füllen ; kannst auch Capry darzu nehmen.</p>
+        <p> Nimm brätig = gesottenes <objectName ref="rindfleisch">Rindfleisch</objectName> <lb/> schneid es klein <lb/> mit rinderner Faisten <lb/> oder <objectName ref="speck">Speck</objectName> <lb/> mit <objectName ref="wein">Wein</objectName> <lb/> Gewürtz <lb/> Saltz <lb/> wohl riechenden Kräutlein <lb/> und Lemoni = Schelffen <lb/> mit Pinioli und Weinbeer in <objectName ref="butter">Butter</objectName> zu rösten; auf eine <objectName ref="schuessel">Schüssel</objectName> <lb/> in einen gebachenen <objectName ref="butter">Butter</objectName> = Taig = Ranfft <lb/> oder sonst in <objectName ref="gehaeck">Gehäck</objectName> = Pastetlein zu füllen; kannst auch Capry darzu nehmen. </p>
             </div>
         </body>
     </text>

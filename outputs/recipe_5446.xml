@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) sauren Rahm <lb/> vnd thu Butter darein <lb/> laß darmit auffsieden <lb/> so ist es gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) sauren Rahm <lb/> vnd thu <objectName ref="butter">Butter</objectName> darein <lb/> laß darmit auffsieden <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

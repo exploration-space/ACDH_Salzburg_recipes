@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>KRebs= Butter <lb/> mit Ram <lb/> oder Milch <lb/> Eyern <lb/> wenig Meel und Zucker <lb/> auch Saltz wol abgesprittlet <lb/> und durchgesiehen in die Schüssel <lb/> mit doppelter Glut <lb/> oder im Ofen anziehen lassen; oder gar ein wenig braun gemacht <lb/> mit wenig Zucker und Zimmet bestreut <lb/> und bald zu Tisch geben.</p>
+        <p> KRebs= <objectName ref="butter">Butter</objectName> <lb/> mit Ram <lb/> oder <objectName ref="milch">Milch</objectName> <lb/> Eyern <lb/> wenig Meel und <objectName ref="zucker">Zucker</objectName> <lb/> auch Saltz wol abgesprittlet <lb/> und durchgesiehen in die <objectName ref="schuessel">Schüssel</objectName> <lb/> mit doppelter <objectName ref="glut">Glut</objectName> <lb/> oder im <objectName ref="ofen">Ofen</objectName> anziehen lassen; oder gar ein wenig braun gemacht <lb/> mit wenig <objectName ref="zucker">Zucker</objectName> und Zimmet bestreut <lb/> und bald zu <objectName ref="tisch">Tisch</objectName> geben. </p>
             </div>
         </body>
     </text>

@@ -169,9 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Steck die Leber an ein Spieß <lb/> vnd wan(n) sie gebraten ist <lb/> so schneidt sie zu stücken <lb/> schneidt auch Zwibel klein darzu <lb/> setz es mit Rindernbrüh zu <lb/> vnnd mach es mit gestossenem Pfeffer ab <lb/> brenn ein wenig Mehl darein <lb/> so wirdt es ein grauwe Brüh gewinnen <lb/> ist gut vnd wolgeschmack.
-
-</p>
+        <p> Steck die <objectName ref="leber">Leber</objectName> an ein <objectName ref="spiess">Spieß</objectName> <lb/> vnd wan ( n ) sie gebraten ist <lb/> so schneidt sie zu stücken <lb/> schneidt auch Zwibel klein darzu <lb/> setz es mit Rindernbrüh zu <lb/> vnnd mach es mit gestossenem <objectName ref="pfeffer">Pfeffer</objectName> ab <lb/> brenn ein wenig <objectName ref="mehl">Mehl</objectName> darein <lb/> so wirdt es ein grauwe Brüh gewinnen <lb/> ist gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

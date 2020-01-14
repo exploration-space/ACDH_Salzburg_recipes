@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm Feigen <lb/> schneid sie klein <lb/> mit sauber gewaschnen Pinioli, kleinen und grossen Rosinen <lb/> wenig Wein <lb/> Lemoni= Schaalen <lb/> und den Safft <lb/> guten Butter <lb/> Imber <lb/> Zimmet und Muscatnuß <lb/> welches gibt eine gute Dorten= Füll.</p>
+        <p> Nimm <objectName ref="feigen">Feigen</objectName> <lb/> schneid sie klein <lb/> mit sauber gewaschnen Pinioli, kleinen und grossen <objectName ref="rosinen">Rosinen</objectName> <lb/> wenig <objectName ref="wein">Wein</objectName> <lb/> Lemoni= Schaalen <lb/> und den Safft <lb/> guten <objectName ref="butter">Butter</objectName> <lb/> Imber <lb/> Zimmet und Muscatnuß <lb/> welches gibt eine gute Dorten= Füll. </p>
             </div>
         </body>
     </text>

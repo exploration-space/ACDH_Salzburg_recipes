@@ -170,9 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Röste die sauber= gebutzte Wachteln <lb/> mit klein= gehackten wenigen Zwibeln <lb/> und Meel <lb/> in Butter und Speck <lb/> gieß disen Safft auf den gekochten Köhl <lb/> oder Sauer= Kraut <lb/> laß mit kochen <lb/> in <lb/> oder ein wenig vor dem Anrichten lege die Wachteln auch darauf <lb/> laß ein wenig mitkochen <lb/> und richts an.
-
-</p>
+        <p> Röste die sauber= gebutzte <objectName ref="wachtel">Wachteln</objectName> <lb/> mit klein= gehackten wenigen Zwibeln <lb/> und Meel <lb/> in <objectName ref="butter">Butter</objectName> und <objectName ref="speck">Speck</objectName> <lb/> gieß disen Safft auf den gekochten Köhl <lb/> oder Sauer= <objectName ref="kraut">Kraut</objectName> <lb/> laß mit kochen <lb/> in <lb/> oder ein wenig vor dem Anrichten lege die <objectName ref="wachtel">Wachteln</objectName> auch darauf <lb/> laß ein wenig mitkochen <lb/> und richts an. </p>
             </div>
         </body>
     </text>

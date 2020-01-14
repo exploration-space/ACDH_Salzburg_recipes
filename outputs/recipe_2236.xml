@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Erstlich nimb 8. löffl voll mell, vnd 6. löffl voll Zukher, darnach die <lb/> Mußcatnus schen khlain geschniten, vnd in das mell vnd Zukher gethan, <lb/> Pfefferstup auch darunder, darnach 3. Sechzechen thaill Wasser, vnd <lb/> von 2. Aÿrn den doter, einer Welschen Nuß groß frischen Buter, vnd <lb/> also Warmb lassen Werden, das man ein finger Woll drin <lb/> leiden khan, vnd damit angemacht, halbe dikh, das man ihn Woll <lb/> abpöhrn khan, darnach mueß man die 2. Aÿrkhlar nemben, vnd <lb/> ein halbs Sechzechen thaill Rosenwasser undereinander Woll abge= <lb/> rührt, das es Woll faimben thuet, vnd mit demselben mueß mans <lb/> an die stat an machen. <lb/></p>
+        <p> Erstlich nimb 8. löffl voll mell, vnd 6. löffl voll Zukher, darnach die <lb/> Mußcatnus schen khlain geschniten, vnd in das mell vnd Zukher gethan, <lb/> Pfefferstup auch darunder, darnach 3. Sechzechen thaill <objectName ref="wasser">Wasser</objectName>, vnd <lb/> von 2. Aÿrn den doter, einer Welschen Nuß groß frischen Buter, vnd <lb/> also Warmb lassen Werden, das man ein finger Woll drin <lb/> leiden khan, vnd damit angemacht, halbe dikh, das man ihn Woll <lb/> abpöhrn khan, darnach mueß man die 2. Aÿrkhlar nemben, vnd <lb/> ein halbs Sechzechen thaill <objectName ref="rosenwasser">Rosenwasser</objectName> undereinander Woll abge= <lb/> rührt, das es Woll faimben thuet, vnd mit demselben mueß mans <lb/> an die stat an machen. <lb/> </p>
             </div>
         </body>
     </text>

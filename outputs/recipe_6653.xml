@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Du magsts auch kochen fein weiß <lb/> wie ein Stockfisch <lb/>  mit gutem süssen Rahm <lb/> ist es auch gut vnd wolgeschmack.</p>
+        <p> Du magsts auch kochen fein weiß <lb/> wie ein <objectName ref="stockfisch">Stockfisch</objectName> <lb/> mit gutem süssen Rahm <lb/> ist es auch gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

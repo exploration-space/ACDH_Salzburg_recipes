@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Auch Knödel von Endten.</p>
+        <p> Auch <objectName ref="knoedel">Knödel</objectName> von Endten. </p>
             </div>
         </body>
     </text>

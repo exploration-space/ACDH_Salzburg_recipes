@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb ein schenes stuckh<gap/> Stockhfisch also <lb/> rocher<gap/> in ein rein Gericht hernach <lb/> thue in ein Anders den Pettersill <lb/> Khlein Plädtlet<gap/> Geschniden in ein <lb/> Höfferl<gap/> in einer Arbes Prie<gap/> siedten<gap/> <lb/> lassen Prens<gap/> ein vnnd schidts<gap/> her= <lb/> nach yber den stockhfisch<gap/> lass ihn <lb/> Preglen<gap/> auch ein Guettes stuckh <lb/> butter daran Gelögt also ist es <lb/> recht, richte Ihm auf ein schisßl<gap/>, Must in <lb/> aber auch Zuuor in der Prie<gap/> sözen <lb/> es ist Guett. <lb/></p>
+        <p> Nimb ein schenes stuckh<gap/> Stockhfisch also <lb/> rocher<gap/> in ein <objectName ref="rein">rein</objectName> Gericht hernach <lb/> thue in ein Anders den Pettersill <lb/> Khlein Plädtlet<gap/> Geschniden in ein <lb/> Höfferl<gap/> in einer Arbes Prie<gap/> siedten<gap/> <lb/> lassen Prens<gap/> ein vnnd schidts<gap/> her= <lb/> nach yber den stockhfisch<gap/> lass ihn <lb/> Preglen<gap/> auch ein Guettes stuckh <lb/> <objectName ref="butter">butter</objectName> daran Gelögt also ist es <lb/> recht, richte Ihm auf ein schisßl<gap/>, Must in <lb/> aber auch Zuuor in der Prie<gap/> sözen <lb/> es ist Guett. <lb/> </p>
             </div>
         </body>
     </text>

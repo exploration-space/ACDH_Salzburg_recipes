@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>ARtischocken gibt man auch also wie oben <lb/> gesotten <lb/> und auf die Schüssel gericht <lb/> mit Butter <lb/> Gewürtz <lb/> und wol gemachter Erbesbrühe warm zu Tisch <lb/> regaliers mit ihren selbst eignen Blättern.</p>
+        <p> <objectName ref="artischocken">ARtischocken</objectName> gibt man auch also wie oben <lb/> gesotten <lb/> und auf die <objectName ref="schuessel">Schüssel</objectName> gericht <lb/> mit <objectName ref="butter">Butter</objectName> <lb/> Gewürtz <lb/> und wol gemachter Erbesbrühe warm zu <objectName ref="tisch">Tisch</objectName> <lb/> regaliers mit ihren selbst eignen Blättern. </p>
             </div>
         </body>
     </text>

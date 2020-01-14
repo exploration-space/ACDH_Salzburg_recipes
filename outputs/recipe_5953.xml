@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet junges Hun <lb/> ertränckets mit Essig <lb/> wie die bald hernach beschriebene Tauben <lb/> hängets auf <lb/> und lassets verzappeln <lb/> rupffets <lb/> schneidets auf nehmets aus <lb/> und waschets mit Wein <lb/> würtzets innen und aussen wohl ein <lb/> und setzets über nacht in Keller : Wann man will <lb/> kan mans auch spicken <lb/> steckets dann an <lb/> und bratets wie ein ander Hun <lb/> und machet eine Brüh darüber nach belieben.</p>
+        <p> NEhmet junges Hun <lb/> ertränckets mit <objectName ref="essig">Essig</objectName> <lb/> wie die bald hernach beschriebene <objectName ref="taube">Tauben</objectName> <lb/> hängets auf <lb/> und lassets verzappeln <lb/> rupffets <lb/> schneidets auf nehmets aus <lb/> und waschets mit <objectName ref="wein">Wein</objectName> <lb/> würtzets innen und aussen wohl ein <lb/> und setzets über nacht in <objectName ref="keller">Keller</objectName> : Wann man will <lb/> kan mans auch spicken <lb/> steckets dann an <lb/> und bratets wie ein ander Hun <lb/> und machet eine Brüh darüber nach belieben. </p>
             </div>
         </body>
     </text>

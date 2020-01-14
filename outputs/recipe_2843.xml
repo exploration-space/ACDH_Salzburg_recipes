@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet ein viertel Pfund Zucker <lb/> drey viertel Pfund Weitzen= Mehl <lb/> sechs Eyerdottern <lb/> und ein wenig Rosenwasser <lb/> giesset ein gemeines Wasser daran <lb/> biß der Teig recht an der Dicken wird; schmiret hernach das Eisen mit Schmaltz <lb/> last es wohl heiß werden <lb/> leget einen Löffel voll Teig darein <lb/> lasset ihn bachen <lb/> kehret aber das Eisen bald um <lb/> nehmet das Wifftig heraus <lb/> wickelts um das Walcherholtz.</p>
+        <p> NEhmet ein viertel <objectName ref="pfund">Pfund</objectName> <objectName ref="zucker">Zucker</objectName> <lb/> drey viertel <objectName ref="pfund">Pfund</objectName> Weitzen= <objectName ref="mehl">Mehl</objectName> <lb/> sechs Eyerdottern <lb/> und ein wenig <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> giesset ein gemeines <objectName ref="wasser">Wasser</objectName> daran <lb/> biß der <objectName ref="teig">Teig</objectName> recht an der Dicken wird; schmiret hernach das Eisen mit Schmaltz <lb/> last es wohl heiß werden <lb/> leget einen <objectName ref="loeffel">Löffel</objectName> voll <objectName ref="teig">Teig</objectName> darein <lb/> lasset ihn bachen <lb/> kehret aber das Eisen bald um <lb/> nehmet das Wifftig heraus <lb/> wickelts um das Walcherholtz. </p>
             </div>
         </body>
     </text>

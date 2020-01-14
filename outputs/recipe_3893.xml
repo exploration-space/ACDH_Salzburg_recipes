@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NImm ein <lb/> oder mehr Stuck frischen Haussen <lb/> säubere <lb/> und saltze ihne ein; dann röste ihn ein wenig in Butter <lb/> und gieß wenig Eßig mit gutem Gewürtz <lb/> Lemoni und Butter daran <lb/> vermache ihn also in einer Rein <lb/> oder Casserol wohl <lb/> daß kein Dampff davon mag; setz ihn in warmen Ofen <lb/> oder laß ihn auf der Glut also dämpffen; wann er fertig <lb/> so gib ihn mit seiner Brühe <lb/> schön gelb eingebrennt <lb/> mit wenig Saffran <lb/> so ist er gut.</p>
+        <p> NImm ein <lb/> oder mehr Stuck frischen Haussen <lb/> säubere <lb/> und saltze ihne ein; dann röste ihn ein wenig in <objectName ref="butter">Butter</objectName> <lb/> und gieß wenig Eßig mit gutem Gewürtz <lb/> Lemoni und <objectName ref="butter">Butter</objectName> daran <lb/> vermache ihn also in einer <objectName ref="rein">Rein</objectName> <lb/> oder Casserol wohl <lb/> daß kein Dampff davon mag; setz ihn in warmen <objectName ref="ofen">Ofen</objectName> <lb/> oder laß ihn auf der <objectName ref="glut">Glut</objectName> also dämpffen; wann er fertig <lb/> so gib ihn mit seiner <objectName ref="bruehe">Brühe</objectName> <lb/> schön gelb eingebrennt <lb/> mit wenig Saffran <lb/> so ist er gut. </p>
             </div>
         </body>
     </text>

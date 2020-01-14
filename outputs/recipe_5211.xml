@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DErgleichen weisse eingemachte Zitronen <lb/> deto von rothen Zitronen= Kraut <lb/> mit candierten gehackten Zitronen= oder Lemoni= Schaalen <lb/> und dessen Safft angefeucht.</p>
+        <p> DErgleichen weisse eingemachte <objectName ref="zitronen">Zitronen</objectName> <lb/> deto von rothen Zitronen= <objectName ref="kraut">Kraut</objectName> <lb/> mit candierten gehackten Zitronen= oder Lemoni= Schaalen <lb/> und dessen Safft angefeucht. </p>
             </div>
         </body>
     </text>

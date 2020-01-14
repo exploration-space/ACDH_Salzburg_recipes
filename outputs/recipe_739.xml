@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Erstlich muß man daß wasßer anfangs ein <lb/> wenig sieden lasß vnd darnach den Caffè <lb/> darein gethan vnd 5. vater vnser lang <lb/> lasßen sieden auf ein koll feuer oder anders <lb/> feuer auf ½ masß wasßer nimb ich ain <lb/> lefl voll Caffè, wider auf ein masß <lb/> oder .2. waß mehrer, wan ich ihn Starckh <lb/><lb/> will machen vnd gieß ihn in daß Schallerl, <lb/> wan du ihn Sieß wilst haben so nimb <lb/> ich zckher darzue, wo nit, vnd wilst ihn <lb/> Sauer haben so nimb ich Saliter zeltl <lb/> darzue zuuor laß ich ihn Sizen vnd NB: <lb/> vill ichs Sieden vnd hernach in  Schällel gosßen vnd <lb/> warmb gedrunkhen er ist guth. <lb/></p>
+        <p> Erstlich muß man daß wasßer anfangs ein <lb/> wenig sieden lasß vnd darnach den Caffè <lb/> darein gethan vnd 5. vater vnser lang <lb/> lasßen sieden auf ein koll <objectName ref="feuer">feuer</objectName> oder anders <lb/> <objectName ref="feuer">feuer</objectName> auf ½ masß wasßer nimb ich ain <lb/> lefl voll Caffè, wider auf ein masß <lb/> oder.2. waß mehrer, wan ich ihn Starckh <lb/><lb/> will machen vnd gieß ihn in daß Schallerl, <lb/> wan du ihn Sieß wilst haben so nimb <lb/> ich zckher darzue, wo nit, vnd wilst ihn <lb/> Sauer haben so nimb ich Saliter zeltl <lb/> darzue zuuor laß ich ihn Sizen vnd NB : <lb/> vill ichs Sieden vnd hernach in Schällel gosßen vnd <lb/> warmb gedrunkhen er ist guth. <lb/> </p>
             </div>
         </body>
     </text>

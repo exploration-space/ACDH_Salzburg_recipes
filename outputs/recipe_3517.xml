@@ -166,9 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>WIe solcher zu machen <lb/> ist bey der Krebs= Suppen schon beschrieben.
-
-</p>
+        <p> WIe solcher zu machen <lb/> ist bey der Krebs= <objectName ref="suppe">Suppen</objectName> schon beschrieben. </p>
             </div>
         </body>
     </text>

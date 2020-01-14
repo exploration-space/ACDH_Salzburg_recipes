@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Item <lb/> nim Sanct Johannskraut <lb/> vnd stoß es in ein faß <lb/> daß es voll sey <lb/> vnd schüt Most darauff <lb/> vnd wenn der Wein vergiert <lb/> so thu das Kraut herauß <lb/> vnd wäsche es sauber <lb/> vnnd laß es dürr werden <lb/> vnd thu es in dem Mertzen wider in eins <lb/> oder ander frisch Johanneskraut <lb/> vnd füll es wider mit anderm Wein.</p>
+        <p> Item <lb/> nim Sanct Johannskraut <lb/> vnd stoß es in ein faß <lb/> daß es voll sey <lb/> vnd schüt <objectName ref="most">Most</objectName> darauff <lb/> vnd wenn der <objectName ref="wein">Wein</objectName> vergiert <lb/> so thu das <objectName ref="kraut">Kraut</objectName> herauß <lb/> vnd wäsche es sauber <lb/> vnnd laß es dürr werden <lb/> vnd thu es in dem Mertzen wider in eins <lb/> oder ander frisch Johanneskraut <lb/> vnd füll es wider mit anderm <objectName ref="wein">Wein</objectName>. </p>
             </div>
         </body>
     </text>

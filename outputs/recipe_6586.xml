@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Ein Kappaunen gekocht in seiner eygenen Brüh <lb/> mit Muscatenblüt vnd gantzem Pfeffer <lb/> auch mit geschnittenem Ingwer <lb/> vnd mit Pettersilgen Wurtzel <lb/> so ist es herrlich vnd gut.</p>
+        <p> Ein Kappaunen gekocht in seiner eygenen Brüh <lb/> mit Muscatenblüt vnd gantzem <objectName ref="pfeffer">Pfeffer</objectName> <lb/> auch mit geschnittenem <objectName ref="ingwer">Ingwer</objectName> <lb/> vnd mit Pettersilgen Wurtzel <lb/> so ist es herrlich vnd gut. </p>
             </div>
         </body>
     </text>

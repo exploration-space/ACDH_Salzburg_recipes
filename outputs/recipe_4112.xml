@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DEn Rucken zu braten <lb/> so wird er gehäutlet <lb/> gesaltzen <lb/> gespickt <lb/> in sauren Ram <lb/> mit Eßig <lb/> Kräutern <lb/> Lemoni= Schelffen <lb/> gedämpfft <lb/> oder mit Speck <lb/> Zwibel <lb/> Knoblauch und Eßig <lb/> oder mit Capry= Sardellen= Agres= oder unzeitigen Wein= Trauben= Soß <lb/> gebratner zu geben <lb/> oder auch mit einem süssen Safft <lb/> (die erst N°. 11. vor der Brust seynd benennt worden) darüber gegossen.</p>
+        <p> DEn Rucken zu braten <lb/> so wird er gehäutlet <lb/> gesaltzen <lb/> gespickt <lb/> in sauren Ram <lb/> mit Eßig <lb/> <objectName ref="kraeuter">Kräutern</objectName> <lb/> Lemoni= Schelffen <lb/> gedämpfft <lb/> oder mit <objectName ref="speck">Speck</objectName> <lb/> Zwibel <lb/> <objectName ref="knoblauch">Knoblauch</objectName> und Eßig <lb/> oder mit Capry= Sardellen= Agres= oder unzeitigen Wein= Trauben= Soß <lb/> gebratner zu geben <lb/> oder auch mit einem süssen Safft <lb/> ( die erst N°. 11. vor der <objectName ref="brust">Brust</objectName> seynd benennt worden ) darüber gegossen. </p>
             </div>
         </body>
     </text>

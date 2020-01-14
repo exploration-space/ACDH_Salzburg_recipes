@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet das Fleisch <lb/> zerschneidet es in Stücken <lb/> waschet <lb/> saltzet <lb/> und würtzet es mit Ingber und Pfeffer <lb/> und röstets im Schmaltz daß es schön gelb wird ; hernach thut es in einen stollichten Hafen <lb/> giesst halb Wein halb Fleischbrüh <lb/> und ein wenig Essig daran <lb/> thut Muscathblüh <lb/> Cardamomen <lb/> Saffran <lb/> Zucker <lb/> Semmel = Mehl <lb/> und geschnittene Limonien dazu <lb/> und lasset es miteinander sieden ; es muß aber die Brüh fein dicklicht senn <lb/> und das säuerlichte vorschlagen : Wann es nun weich gesotten ist <lb/> richtets an <lb/> und streuet klein = geschnittene Schelffen von Citronen darauf.</p>
+        <p> NEhmet das <objectName ref="fleisch">Fleisch</objectName> <lb/> zerschneidet es in Stücken <lb/> waschet <lb/> saltzet <lb/> und würtzet es mit Ingber und <objectName ref="pfeffer">Pfeffer</objectName> <lb/> und röstets im Schmaltz daß es schön gelb wird; hernach thut es in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> giesst halb <objectName ref="wein">Wein</objectName> halb Fleischbrüh <lb/> und ein wenig <objectName ref="essig">Essig</objectName> daran <lb/> thut Muscathblüh <lb/> Cardamomen <lb/> Saffran <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> Semmel = <objectName ref="mehl">Mehl</objectName> <lb/> und geschnittene Limonien dazu <lb/> und lasset es miteinander sieden; es muß aber die Brüh fein dicklicht senn <lb/> und das säuerlichte vorschlagen : Wann es nun weich gesotten ist <lb/> richtets an <lb/> und streuet klein = geschnittene Schelffen von Citronen darauf. </p>
             </div>
         </body>
     </text>

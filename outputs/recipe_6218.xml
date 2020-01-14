@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Ein Ganß zu füllen mit kleinen Vögeln <lb/> Zwibeln <lb/> Epffeln <lb/> Birn vnd Kästen.</p>
+        <p> Ein Ganß zu füllen mit kleinen <objectName ref="voegel">Vögeln</objectName> <lb/> Zwibeln <lb/> Epffeln <lb/> Birn vnd Kästen. </p>
             </div>
         </body>
     </text>

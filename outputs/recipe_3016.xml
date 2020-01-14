@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Rüblein <lb/> die Bayerische <lb/> oder Scherr= Rüblein genannt: Diese werden gebutzt <lb/> ein wenig gesaltzen und eingemeelbt <lb/> und Liecht= gelb braun aus Schmaltz gebachen <lb/> dann mit Wasser <lb/> Fleisch= oder anderer Brühe <lb/> wenig Pfeffer <lb/> Zucker und Zimmet gar gekocht <lb/> gibs mit kurtzer Brühe.</p>
+        <p> Rüblein <lb/> die Bayerische <lb/> oder Scherr= Rüblein genannt : Diese werden gebutzt <lb/> ein wenig gesaltzen und eingemeelbt <lb/> und Liecht= gelb braun aus Schmaltz gebachen <lb/> dann mit <objectName ref="wasser">Wasser</objectName> <lb/> Fleisch= oder anderer <objectName ref="bruehe">Brühe</objectName> <lb/> wenig <objectName ref="pfeffer">Pfeffer</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> und Zimmet gar gekocht <lb/> gibs mit kurtzer <objectName ref="bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

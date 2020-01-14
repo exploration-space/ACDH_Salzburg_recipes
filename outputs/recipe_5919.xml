@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>DIe Tauben gantzer <lb/> in die Pasteten zugericht <lb/> ( wie das Feder = Wildprät ) ist bey der Bacherey zu finden.</p>
+        <p> DIe <objectName ref="taube">Tauben</objectName> gantzer <lb/> in die <objectName ref="pastete">Pasteten</objectName> zugericht <lb/> ( wie das <objectName ref="feder">Feder</objectName> = Wildprät ) ist bey der Bacherey zu finden. </p>
             </div>
         </body>
     </text>

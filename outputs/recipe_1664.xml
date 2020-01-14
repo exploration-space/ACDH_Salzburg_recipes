@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Meell souil man zu ainner Turten bedarf .2. <lb/> oder .3. ayr, vnd ain labletes wasser darein, <lb/> vnnd ain wennig schmalz genomben, den taig <lb/> angemacht. <lb/></p>
+        <p> Meell souil man zu ainner Turten bedarf.2. <lb/> oder.3. ayr, vnd ain labletes <objectName ref="wasser">wasser</objectName> darein, <lb/> vnnd ain wennig <objectName ref="schmalz">schmalz</objectName> genomben, den taig <lb/> angemacht. <lb/> </p>
             </div>
         </body>
     </text>

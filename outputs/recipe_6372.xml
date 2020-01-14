@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Gersten <lb/> die mit Rindtfleischbrüh gesotté ist <lb/> streich sie durch ein Härin Tuch <lb/> daß fein dick wirt <lb/> thu sie in ein vberzindten Fischkessel <lb/> thu frische vngeschmältzte Butter darvnter <lb/> rür auch Eyer darein <lb/> vnd laß darmit auffsieden <lb/> so ist es gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) <objectName ref="gerste">Gersten</objectName> <lb/> die mit Rindtfleischbrüh gesotté ist <lb/> streich sie durch ein Härin <objectName ref="tuch">Tuch</objectName> <lb/> daß fein dick wirt <lb/> thu sie in ein vberzindten <objectName ref="fischkessel">Fischkessel</objectName> <lb/> thu frische vngeschmältzte <objectName ref="butter">Butter</objectName> darvnter <lb/> rür auch Eyer darein <lb/> vnd laß darmit auffsieden <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Seudt weinn, schneit die schall daruon, laß <lb/> ½. stunt Sieden, nimb etlich Semel schniten <lb/> darunter, treibs durch ain Tuech, nimb <lb/> weinpör darunter, zuggers woll, sez wid(er) <lb/> zum feüer, laß ain wenig aufsieden, gibs <lb/> Kalt, Salz nit. <lb/></p>
+        <p> Seudt <objectName ref="wein">weinn</objectName>, schneit die schall daruon, laß <lb/> ½. stunt Sieden, nimb etlich Semel schniten <lb/> darunter, treibs durch ain Tuech, nimb <lb/> weinpör darunter, zuggers woll, sez wid ( er ) <lb/> zum feüer, laß ain wenig aufsieden, gibs <lb/> Kalt, <objectName ref="salz">Salz</objectName> nit. <lb/> </p>
             </div>
         </body>
     </text>

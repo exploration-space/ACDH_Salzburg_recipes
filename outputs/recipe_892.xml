@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimm ein halbe Maaß süssen Ram <lb/> und fünff Eyer <lb/> zersprittle sie wol durcheinander <lb/> und setz in einem Krug oder Hafen bedeckter in siediges Wasser <lb/> laß sieden <lb/> biß es fest wird <lb/> wie ein Schüssel=Koch <lb/> darnach nimms mit einem löcherigen Löffel heraus <lb/> daß das Wasser kann darvon kommen <lb/> richts auf ein Schüssel <lb/> einen Löffelvoll nach dem andern <lb/> man mags auch wol in die Körblein giessen <lb/> wie den Eyer=Schotten <lb/> und hernach trucken geben <lb/> mit Zucker und Weinbeerlein bestreuter <lb/> oder man mag einen süssen Ram daran giessen.</p>
+        <p> Nimm ein halbe Maaß süssen Ram <lb/> und fünff Eyer <lb/> zersprittle sie wol durcheinander <lb/> und setz in einem <objectName ref="krug">Krug</objectName> oder <objectName ref="hafen">Hafen</objectName> bedeckter in siediges <objectName ref="wasser">Wasser</objectName> <lb/> laß sieden <lb/> biß es fest wird <lb/> wie ein Schüssel=Koch <lb/> darnach nimms mit einem löcherigen <objectName ref="loeffel">Löffel</objectName> heraus <lb/> daß das <objectName ref="wasser">Wasser</objectName> kann darvon kommen <lb/> richts auf ein <objectName ref="schuessel">Schüssel</objectName> <lb/> einen Löffelvoll nach dem andern <lb/> man mags auch wol in die Körblein giessen <lb/> wie den Eyer=Schotten <lb/> und hernach trucken geben <lb/> mit <objectName ref="zucker">Zucker</objectName> und Weinbeerlein bestreuter <lb/> oder man mag einen süssen Ram daran giessen. </p>
             </div>
         </body>
     </text>

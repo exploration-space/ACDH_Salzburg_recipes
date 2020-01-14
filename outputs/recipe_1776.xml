@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nimb Roßmarin, weinpör ain wennig, <lb/> schmalz, Imber, Pfeffer, Nägelein Salue. <lb/></p>
+        <p> Nimb Roßmarin, weinpör ain wennig, <lb/> <objectName ref="schmalz">schmalz</objectName>, Imber, <objectName ref="pfeffer">Pfeffer</objectName>, Nägelein Salue. <lb/> </p>
             </div>
         </body>
     </text>

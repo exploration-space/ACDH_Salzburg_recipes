@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>NEhmet zeitige Weixeln <lb/> oder saure Kirschen <lb/> stosst sie zusamt den Kernen <lb/> treibts durch; wann sie zu dick sind <lb/> giesst einen guten Wein daran <lb/> solte sie zu sauer seyn <lb/> kan mans auch ein wenig zuckern.</p>
+        <p> NEhmet zeitige Weixeln <lb/> oder saure <objectName ref="kirschen">Kirschen</objectName> <lb/> stosst sie zusamt den Kernen <lb/> treibts durch; wann sie zu dick sind <lb/> giesst einen guten <objectName ref="wein">Wein</objectName> daran <lb/> solte sie zu sauer seyn <lb/> kan mans auch ein wenig <objectName ref="zucker">zuckern</objectName>. </p>
             </div>
         </body>
     </text>

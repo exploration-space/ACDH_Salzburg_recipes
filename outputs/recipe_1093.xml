@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>To a Quart of Milk put Half a Pound of Rice, and boil it a Little; then putting it into the Dish, throw in a Quarter of a Pound of Butter, with the same Quantity of Sugar, and a Handful of Flour: also two or three Eggs well beaten; stir it altogether while it is hot, and then bake it.</p>
+        <p> To a <objectName ref="quart">Quart</objectName> of Milk put Half a Pound of Rice, and boil it a Little; then putting it into the Dish, throw in a Quarter of a Pound of <objectName ref="butter">Butter</objectName>, with the same Quantity of Sugar, and a Handful of Flour : also two or three Eggs well beaten; stir it altogether while it is hot, and then bake it. </p>
             </div>
         </body>
     </text>

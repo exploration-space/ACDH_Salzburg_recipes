@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p>Nim(m) Haberkern <lb/> quell vnd wasch sie auß <lb/> vnnd wenn sie sauber geklaubt seyn <lb/> so setz sie mit Erbeßbrüh <lb/> laß mit Butter vnd Saltz gemach sieden <lb/> so wirt es gut vnd wolgeschmack.</p>
+        <p> Nim ( m ) Haberkern <lb/> quell vnd wasch sie auß <lb/> vnnd wenn sie sauber geklaubt seyn <lb/> so setz sie mit Erbeßbrüh <lb/> laß mit <objectName ref="butter">Butter</objectName> vnd Saltz gemach sieden <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>
