@@ -147,7 +147,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
                     <object type="Zutaten" xml:id="austern">Austern</object>
                     <object type="Zutaten" xml:id="eier">Eier</object>
@@ -158,13 +158,13 @@
                     <object type="Zutaten" xml:id="zitronensaft">Zitronensaft</object>
                 </listObject>
             </div>
-            <div type="utensils">
+            <div type="utensil">
                 <listObject>
                     <object type="MaterielleKultur" xml:id="zinnschuessel">Zinnschüssel</object>
                 </listObject>
             </div>
             <div type="recipe">
-                <p>Nimbe ein Guetten <objectName ref="kapaun">Coppaun<gap/></objectName>, siede<gap/> <lb/> ihme marb<gap/>, nimb die Prust von dem <lb/> Coppaun, hackh sye gar khlein, Nimb <lb/> das March* vnnd die Nirn auch eiterl<gap/>, <lb/> vnnd Wasche es Sauber aus, khere<gap/> sye in <lb/> Mell vmb, Pache<gap/> sye in butter, das <lb/> sye Zimblich Resch<gap/> Werden, thue daß <lb/> Gehackte in ein Zinnene<gap/> schisßl<gap/>, Gies<gap/> <lb/> ein Coppauner<gap/> oder henner brie<gap/> daran, <lb/> seze es Auf ein Gluett<gap/>, lasse es siden<gap/>,. <lb/> Wan du es Anrichten Wilst, so Giesse <lb/> ein Dotter Suppen<gap/> daran, Nimb <lb/> lemony<gap/>, trucke den Safft darein, Nimb <lb/> <objectName ref="pistazien">Pistazy<gap/></objectName>, Ziechs ab<gap/>, thue es auf die <lb/> Suppen, Ziere den schisßl ranft<gap/> mit <lb/> Gebachnen<gap/> Prisl<gap/>, vnnd <objectName ref="austern">Austern</objectName>, Gibe <lb/> es Warm, stuppe<gap/> es mit <objectName ref="zimt">Zimmet</objectName><gap/>, vnd <lb/> salze es, so ist sye Guett.</p>
+                <p>Nimbe ein Guetten <objectName ref="#kapaun">Coppaun<gap/></objectName>, siede<gap/> <lb/> ihme marb<gap/>, nimb die Prust von dem <lb/> Coppaun, hackh sye gar khlein, Nimb <lb/> das March* vnnd die Nirn auch eiterl<gap/>, <lb/> vnnd Wasche es Sauber aus, khere<gap/> sye in <lb/> Mell vmb, Pache<gap/> sye in butter, das <lb/> sye Zimblich Resch<gap/> Werden, thue daß <lb/> Gehackte in ein Zinnene<gap/> schisßl<gap/>, Gies<gap/> <lb/> ein Coppauner<gap/> oder henner brie<gap/> daran, <lb/> seze es Auf ein Gluett<gap/>, lasse es siden<gap/>,. <lb/> Wan du es Anrichten Wilst, so Giesse <lb/> ein Dotter Suppen<gap/> daran, Nimb <lb/> lemony<gap/>, trucke den Safft darein, Nimb <lb/> <objectName ref="#pistazien">Pistazy<gap/></objectName>, Ziechs ab<gap/>, thue es auf die <lb/> Suppen, Ziere den schisßl ranft<gap/> mit <lb/> Gebachnen<gap/> Prisl<gap/>, vnnd <objectName ref="#austern">Austern</objectName>, Gibe <lb/> es Warm, stuppe<gap/> es mit <objectName ref="#zimt">Zimmet</objectName><gap/>, vnd <lb/> salze es, so ist sye Guett.</p>
             </div>
         </body>
     </text>
