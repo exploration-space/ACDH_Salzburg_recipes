@@ -147,7 +147,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
                     <object type="Zutaten" xml:id="butter">Butter</object>
                     <object type="Zutaten" xml:id="gewuerze">Gewürze</object>
@@ -163,7 +163,7 @@
                 </listObject>
             </div>
             <div type="recipe">
-                <p>NImm übersottene <objectName ref="lunge">Lungen</objectName> <lb/> hack sie zimlich klein <lb/> mit <objectName ref="petersilie">Petersil</objectName> und wenig Zwibel <lb/> <objectName ref="gewuerze">gewürtz</objectName> und <objectName ref="salz">saltz</objectName> es nach Nothdurfft <lb/> röste es im <objectName ref="butter">Butter</objectName> <lb/> biß der <objectName ref="zwiebel">Zwibel</objectName> anfangt wohl zu riechen; hernach reib an einem <objectName ref="zuckerhut">Zuckerhut</objectName> die Schelffen von einer Pomerantzen <lb/> schabe den gelben Zucker unter die geröste <objectName ref="lunge">Lungen</objectName> <lb/> mit sammt denen abgeriebenen Schelffen <lb/> mit <emph><objectName ref="pinienkerne">Pinioli</objectName></emph> und Rosinen= <objectName ref="weinbeeren">Weinbeer</objectName> darunter <lb/> und den <objectName ref="pomeranzensaft">Safft von den Pomerantzen</objectName> <lb/> wann es aber nicht genug <emph>recent</emph> darvon würde <lb/> wegen Fülle der <objectName ref="lunge">Lungen</objectName> <lb/> so nimm auch den <objectName ref="limonensaft">Safft von einer Lemoni</objectName> darzu <lb/> oder gar guten Wein; fülle dise <objectName ref="lunge">Lungen</objectName> alsdann in eine offene <lb/> oder geflochtete Dorten; und hast du keine <emph><objectName ref="pinienkerne">Pinioli</objectName></emph> nicht <lb/> so nimm geschnittene Mandeln und <emph>Pisdazi</emph> darunter; und siehe <lb/> daß die Füll fett genug seye.</p>
+                <p>NImm übersottene <objectName ref="#lunge">Lungen</objectName> <lb/> hack sie zimlich klein <lb/> mit <objectName ref="#petersilie">Petersil</objectName> und wenig Zwibel <lb/> <objectName ref="#gewuerze">gewürtz</objectName> und <objectName ref="#salz">saltz</objectName> es nach Nothdurfft <lb/> röste es im <objectName ref="#butter">Butter</objectName> <lb/> biß der <objectName ref="#zwiebel">Zwibel</objectName> anfangt wohl zu riechen; hernach reib an einem <objectName ref="#zuckerhut">Zuckerhut</objectName> die Schelffen von einer Pomerantzen <lb/> schabe den gelben Zucker unter die geröste <objectName ref="#lunge">Lungen</objectName> <lb/> mit sammt denen abgeriebenen Schelffen <lb/> mit <emph><objectName ref="#pinienkerne">Pinioli</objectName></emph> und Rosinen= <objectName ref="#weinbeeren">Weinbeer</objectName> darunter <lb/> und den <objectName ref="#pomeranzensaft">Safft von den Pomerantzen</objectName> <lb/> wann es aber nicht genug <emph>recent</emph> darvon würde <lb/> wegen Fülle der <objectName ref="#lunge">Lungen</objectName> <lb/> so nimm auch den <objectName ref="#limonensaft">Safft von einer Lemoni</objectName> darzu <lb/> oder gar guten Wein; fülle dise <objectName ref="#lunge">Lungen</objectName> alsdann in eine offene <lb/> oder geflochtete Dorten; und hast du keine <emph><objectName ref="#pinienkerne">Pinioli</objectName></emph> nicht <lb/> so nimm geschnittene Mandeln und <emph>Pisdazi</emph> darunter; und siehe <lb/> daß die Füll fett genug seye.</p>
             </div>
         </body>
     </text>
