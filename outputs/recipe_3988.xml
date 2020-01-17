@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIse werden gewaschen <lb/> und in halb <objectName ref="wasser">Wasser</objectName> <lb/> halb <objectName ref="wein">Wein</objectName> gesotten <lb/> die Kern heraus gelößt <lb/> dann die Zwetschgen gehackt <lb/> und gleich also mit <objectName ref="zucker">Zucker</objectName> oder Zimmet <lb/> von Lemoni= Schaalen angemacht <lb/> in Dorten oder Kräpfflein gefüllt <lb/> und gebachen. </p>
+        <p> DIse werden gewaschen <lb/> und in halb <objectName ref="#wasser">Wasser</objectName> <lb/> halb <objectName ref="#wein">Wein</objectName> gesotten <lb/> die Kern heraus gelößt <lb/> dann die Zwetschgen gehackt <lb/> und gleich also mit <objectName ref="#zucker">Zucker</objectName> oder Zimmet <lb/> von Lemoni= Schaalen angemacht <lb/> in Dorten oder Kräpfflein gefüllt <lb/> und gebachen. </p>
             </div>
         </body>
     </text>

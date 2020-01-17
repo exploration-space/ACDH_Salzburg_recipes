@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Take Gooseberries full ripe, bruise them in a Mortar, and to every <objectName ref="quart">Quart</objectName> of Gooseberries put three Quarts of Water, which has been boiled and stood till it is cold; let it stand twenty four Hours; then strain it through a Canvass, then a Flannel, and to every Gallon of this Liquor put a Pound of brown Sugar; stir it well, and barrel it up. At three Quarters of a Years end it is fit for Use. </p>
+        <p> Take Gooseberries full ripe, bruise them in a Mortar, and to every <objectName ref="#quart">Quart</objectName> of Gooseberries put three Quarts of Water, which has been boiled and stood till it is cold; let it stand twenty four Hours; then strain it through a Canvass, then a Flannel, and to every Gallon of this Liquor put a Pound of brown Sugar; stir it well, and barrel it up. At three Quarters of a Years end it is fit for Use. </p>
             </div>
         </body>
     </text>

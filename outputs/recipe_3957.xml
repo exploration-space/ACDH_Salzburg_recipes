@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet einen guten Kern oder andere gute <objectName ref="milch">Milch</objectName> <lb/> schlaget Eyer daran <lb/> klopffets wohl unter einander <lb/> thut <objectName ref="zucker">Zucker</objectName> und <objectName ref="rosenwasser">Rosenwasser</objectName> dazu; schneidet breite Schnitten von einer Semmel oder Eyerbrod <lb/> weichet sie in diese Eyermilch : Alsdann hebets mit einem Fisch= Schäuffelein in eine Pfannen <lb/> bachets schön gelb heraus <lb/> und streuet ein Trisanet darauf. </p>
+        <p> NEhmet einen guten Kern oder andere gute <objectName ref="#milch">Milch</objectName> <lb/> schlaget Eyer daran <lb/> klopffets wohl unter einander <lb/> thut <objectName ref="#zucker">Zucker</objectName> und <objectName ref="#rosenwasser">Rosenwasser</objectName> dazu; schneidet breite Schnitten von einer Semmel oder Eyerbrod <lb/> weichet sie in diese Eyermilch : Alsdann hebets mit einem Fisch= Schäuffelein in eine Pfannen <lb/> bachets schön gelb heraus <lb/> und streuet ein Trisanet darauf. </p>
             </div>
         </body>
     </text>

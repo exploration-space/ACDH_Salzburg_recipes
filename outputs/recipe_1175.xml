@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb die hiendl, zertheills, vnd <objectName ref="salz">Salz</objectName>, besträs<gap/> <lb/> mit Mehl<gap/> oder Semmbl<gap/> braßen, Pachgs<gap/> im schmalz<gap/>, <lb/> schitte<gap/> alß dan <objectName ref="wein">wein</objectName> vnd Fleisch<gap/> <objectName ref="suppe">suppen</objectName> daran, gewierz<gap/>, <lb/> vnd laß also sieden<gap/>, khanst auch khlein geschnitnen<gap/> <lb/> Khnoflacht<gap/> darein nemmben, löge<gap/> ein wenig Putter<gap/> <lb/> zue, Richts<gap/> an, vnd gilbs<gap/> mit ayr<gap/>. <lb/><lb/> ( 16r ) </p>
+        <p> Nimb die hiendl, zertheills, vnd <objectName ref="#salz">Salz</objectName>, besträs<gap/> <lb/> mit Mehl<gap/> oder Semmbl<gap/> braßen, Pachgs<gap/> im schmalz<gap/>, <lb/> schitte<gap/> alß dan <objectName ref="#wein">wein</objectName> vnd Fleisch<gap/> <objectName ref="#suppe">suppen</objectName> daran, gewierz<gap/>, <lb/> vnd laß also sieden<gap/>, khanst auch khlein geschnitnen<gap/> <lb/> Khnoflacht<gap/> darein nemmben, löge<gap/> ein wenig Putter<gap/> <lb/> zue, Richts<gap/> an, vnd gilbs<gap/> mit ayr<gap/>. <lb/><lb/> ( 16r ) </p>
             </div>
         </body>
     </text>

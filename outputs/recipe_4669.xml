@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet schöne weisse Kalbs= Füsse <lb/> schneidet sie halb von einander <lb/> und putzet sie auf das reinlichste ab <lb/> lassets wohl weich sieden; macht einen <objectName ref="teig">Teig</objectName> an <lb/> schüttet in eine <objectName ref="schuessel">Schüssel</objectName> ein <objectName ref="mehl">Mehl</objectName> <lb/> schlaget fünff Eyer daran <lb/> zwierets mit gutem Ram oder Kern an <lb/> macht ihn aber ein wenig dicker als einen Strauben= <objectName ref="teig">Teig</objectName>; duncket die Füsse in den <objectName ref="teig">Teig</objectName> <lb/> und bachet sie fein langsam aus heissem Schmaltz; lassets wohl ausbachen <lb/> aber doch nicht zu braun werden. </p>
+        <p> NEhmet schöne weisse Kalbs= Füsse <lb/> schneidet sie halb von einander <lb/> und putzet sie auf das reinlichste ab <lb/> lassets wohl weich sieden; macht einen <objectName ref="#teig">Teig</objectName> an <lb/> schüttet in eine <objectName ref="#schuessel">Schüssel</objectName> ein <objectName ref="#mehl">Mehl</objectName> <lb/> schlaget fünff Eyer daran <lb/> zwierets mit gutem Ram oder Kern an <lb/> macht ihn aber ein wenig dicker als einen Strauben= <objectName ref="#teig">Teig</objectName>; duncket die Füsse in den <objectName ref="#teig">Teig</objectName> <lb/> und bachet sie fein langsam aus heissem Schmaltz; lassets wohl ausbachen <lb/> aber doch nicht zu braun werden. </p>
             </div>
         </body>
     </text>

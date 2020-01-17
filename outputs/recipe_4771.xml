@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAche eine <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> oder gesaltznes <objectName ref="wasser">Wasser</objectName> siedend <lb/> röste ein wenig <objectName ref="mehl">Mehl</objectName> im Schmaltz <lb/> und brenns darein; würtze es auch mit Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> und geriebener Muscaten= Nuß <lb/> laß es sieden <lb/> und richte es darauf über gewürffelt rocken Brod : So du aber die <objectName ref="suppe">Suppen</objectName> gelb haben wilt <lb/> so kan man ein wenig Saffran dazu nehmen <lb/> und so dann über weiß= gebähtes Brod anrichten. </p>
+        <p> MAche eine <objectName ref="#fleischbruehe">Fleischbrühe</objectName> <lb/> oder gesaltznes <objectName ref="#wasser">Wasser</objectName> siedend <lb/> röste ein wenig <objectName ref="#mehl">Mehl</objectName> im Schmaltz <lb/> und brenns darein; würtze es auch mit Ingber <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> und geriebener Muscaten= Nuß <lb/> laß es sieden <lb/> und richte es darauf über gewürffelt rocken Brod : So du aber die <objectName ref="#suppe">Suppen</objectName> gelb haben wilt <lb/> so kan man ein wenig Saffran dazu nehmen <lb/> und so dann über weiß= gebähtes Brod anrichten. </p>
             </div>
         </body>
     </text>

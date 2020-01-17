@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChneide denen Hünlein die Füß <lb/> Köpff und Flügel herunter <lb/> fülle sie mit Bratwürst= <objectName ref="gehaeck">Gehäck</objectName> <lb/> bräune sie in <objectName ref="butter">Butter</objectName> <lb/> <objectName ref="speck">Speck</objectName> <lb/> oder Schmaltz <lb/> hernach gib ein gutes Ragu <lb/> von Capry <lb/> Leberlein <lb/> Mäglein <lb/> <objectName ref="sardellen">Sardellen</objectName> und Schwammen mit brauner <objectName ref="jus">jus</objectName> darüber. </p>
+        <p> SChneide denen Hünlein die Füß <lb/> Köpff und Flügel herunter <lb/> fülle sie mit Bratwürst= <objectName ref="#gehaeck">Gehäck</objectName> <lb/> bräune sie in <objectName ref="#butter">Butter</objectName> <lb/> <objectName ref="#speck">Speck</objectName> <lb/> oder Schmaltz <lb/> hernach gib ein gutes Ragu <lb/> von Capry <lb/> Leberlein <lb/> Mäglein <lb/> <objectName ref="#sardellen">Sardellen</objectName> und Schwammen mit brauner <objectName ref="#jus">jus</objectName> darüber. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Dieses siede mit <objectName ref="zucker">Zucker</objectName> und <objectName ref="wein">Wein</objectName> auch abgescheelte <objectName ref="semmeln">Semmeln</objectName> <lb/> treibs durch das haarsieblein <lb/> mische kleingestossene <objectName ref="mandeln">Mandeln</objectName> mit Zimmet=Stup darunter <lb/> und laß kurtz aufkochen <lb/> und gibs mit <objectName ref="zucker">Zucker</objectName> bestreuter. NB. <objectName ref="zibeben">Zibeben</objectName> in die Dorten <lb/> seynd in dem II. Theil <lb/> 2. Buch <lb/> bey der Bacherey schon zu finden. Bb2 </p>
+        <p> Dieses siede mit <objectName ref="#zucker">Zucker</objectName> und <objectName ref="#wein">Wein</objectName> auch abgescheelte <objectName ref="#semmeln">Semmeln</objectName> <lb/> treibs durch das haarsieblein <lb/> mische kleingestossene <objectName ref="#mandeln">Mandeln</objectName> mit Zimmet=Stup darunter <lb/> und laß kurtz aufkochen <lb/> und gibs mit <objectName ref="#zucker">Zucker</objectName> bestreuter. NB. <objectName ref="#zibeben">Zibeben</objectName> in die Dorten <lb/> seynd in dem II. Theil <lb/> 2. Buch <lb/> bey der Bacherey schon zu finden. Bb2 </p>
             </div>
         </body>
     </text>

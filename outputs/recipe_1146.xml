@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Ziehe<gap/> ein handt<gap/> voll Mandl<gap/> ab, Stosß<gap/> khlein vnd drey <lb/> hart gesothne<gap/> ayr<gap/> dotter<gap/>, daran, du khanst von Einem <lb/> gebrattnen<gap/> Copaun<gap/> oder Röb<gap/> hiendl, die Rippen<gap/> <lb/> zuhackhen<gap/> vnd auch darundter stosßen<gap/>, auch aine <lb/> wenig gebäthe<gap/> sembl<gap/>, wan dises alles gestosßen<gap/> <lb/> ist, so schitte<gap/> ain Rindt<gap/> <objectName ref="suppe">suppen</objectName> darauf vnd dreibs<gap/> <lb/> ab, schlags<gap/> durch ein härnes<gap/> Sib<gap/>, due Putter<gap/> vnd <lb/> gewierzt<gap/> darundter, laß also Kochen, vnd Richts<gap/> <lb/><lb/> ( 7v ) auf gebätte<gap/> Semmbl<gap/> an, es ist ein guette <lb/> <objectName ref="suppe">Suppen</objectName>, <lb/> </p>
+        <p> Ziehe<gap/> ein handt<gap/> voll Mandl<gap/> ab, Stosß<gap/> khlein vnd drey <lb/> hart gesothne<gap/> ayr<gap/> dotter<gap/>, daran, du khanst von Einem <lb/> gebrattnen<gap/> Copaun<gap/> oder Röb<gap/> hiendl, die Rippen<gap/> <lb/> zuhackhen<gap/> vnd auch darundter stosßen<gap/>, auch aine <lb/> wenig gebäthe<gap/> sembl<gap/>, wan dises alles gestosßen<gap/> <lb/> ist, so schitte<gap/> ain Rindt<gap/> <objectName ref="#suppe">suppen</objectName> darauf vnd dreibs<gap/> <lb/> ab, schlags<gap/> durch ein härnes<gap/> Sib<gap/>, due Putter<gap/> vnd <lb/> gewierzt<gap/> darundter, laß also Kochen, vnd Richts<gap/> <lb/><lb/> ( 7v ) auf gebätte<gap/> Semmbl<gap/> an, es ist ein guette <lb/> <objectName ref="#suppe">Suppen</objectName>, <lb/> </p>
             </div>
         </body>
     </text>

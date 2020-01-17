@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Zwibeln <lb/> schneidt sie fein breit vnnd dünn <lb/> setz sie mit <objectName ref="wasser">Wasser</objectName> zu <lb/> vnd wenn er schier gesotten <lb/> so geuß <objectName ref="essig">Essig</objectName> darvnter <lb/> pfeffers vnd saltzs <lb/> vnd schmältzs mit <objectName ref="butter">Butter</objectName> <lb/> so ist es ein gute <objectName ref="suppe">Suppen</objectName> vor einen armen Gesellen. </p>
+        <p> Nim ( m ) Zwibeln <lb/> schneidt sie fein breit vnnd dünn <lb/> setz sie mit <objectName ref="#wasser">Wasser</objectName> zu <lb/> vnd wenn er schier gesotten <lb/> so geuß <objectName ref="#essig">Essig</objectName> darvnter <lb/> pfeffers vnd saltzs <lb/> vnd schmältzs mit <objectName ref="#butter">Butter</objectName> <lb/> so ist es ein gute <objectName ref="#suppe">Suppen</objectName> vor einen armen Gesellen. </p>
             </div>
         </body>
     </text>

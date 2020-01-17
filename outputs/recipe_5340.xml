@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> In <objectName ref="pastete">Pasteten</objectName> <lb/> es sey warm oder kalt <lb/> auch schwartz mit seinem eygenen Schweiß eyngemacht <lb/> ist auff vielerley manier gut zu zurichten. </p>
+        <p> In <objectName ref="#pastete">Pasteten</objectName> <lb/> es sey warm oder kalt <lb/> auch schwartz mit seinem eygenen Schweiß eyngemacht <lb/> ist auff vielerley manier gut zu zurichten. </p>
             </div>
         </body>
     </text>

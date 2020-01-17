@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Plateis werden überbrennt <lb/> abgesiehen <lb/> und auf die <objectName ref="schuessel">Schüssel</objectName> mit Semmel= Brosen <lb/> und wenig Gewürtz <lb/> wol warm angericht <lb/> und zugedeckter auf einer kleinen <objectName ref="glut">Glut</objectName> stehen lassen; unterdessen wirff klein= gehackte <objectName ref="sardellen">Sardellen</objectName> in zerlassenen <objectName ref="butter">Butter</objectName> <lb/> laß ihn darmit braun und fäumig werden <lb/> und gib ihn über die Plateis. </p>
+        <p> DIe Plateis werden überbrennt <lb/> abgesiehen <lb/> und auf die <objectName ref="#schuessel">Schüssel</objectName> mit Semmel= Brosen <lb/> und wenig Gewürtz <lb/> wol warm angericht <lb/> und zugedeckter auf einer kleinen <objectName ref="#glut">Glut</objectName> stehen lassen; unterdessen wirff klein= gehackte <objectName ref="#sardellen">Sardellen</objectName> in zerlassenen <objectName ref="#butter">Butter</objectName> <lb/> laß ihn darmit braun und fäumig werden <lb/> und gib ihn über die Plateis. </p>
             </div>
         </body>
     </text>

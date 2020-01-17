@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> 1½ tt zukher.24 tt <objectName ref="loth">loth</objectName> wasßer. <lb/> vnd.4. lott lillien. machs wie oben <lb/> NB. <lb/> auf alle Conserva kan ich ein wenig frische <lb/> blummen thuen blöter darauf thuen. <lb/> </p>
+        <p> 1½ tt zukher.24 tt <objectName ref="#loth">loth</objectName> wasßer. <lb/> vnd.4. lott lillien. machs wie oben <lb/> NB. <lb/> auf alle Conserva kan ich ein wenig frische <lb/> blummen thuen blöter darauf thuen. <lb/> </p>
             </div>
         </body>
     </text>

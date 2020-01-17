@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Auch gelb eyngemacht mit Ziweben vnnd Vngerischen <objectName ref="pflaumen">Pflaumen</objectName> <lb/> es sey süß oder säurlich <lb/> oder mit Agrastbeern <lb/> ist es auff beyde manier gut. </p>
+        <p> Auch gelb eyngemacht mit Ziweben vnnd Vngerischen <objectName ref="#pflaumen">Pflaumen</objectName> <lb/> es sey süß oder säurlich <lb/> oder mit Agrastbeern <lb/> ist es auff beyde manier gut. </p>
             </div>
         </body>
     </text>

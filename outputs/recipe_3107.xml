@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="fenchel">FEnchel</objectName> <lb/> wann er im Sommer erwachsen <lb/> gibt man die junge und weiche Schoß <lb/> oder Gipffel wol gebutzt <lb/> mit beygesetzten <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Eßig und Oel zu <objectName ref="tisch">Tisch</objectName> <lb/> auch <objectName ref="zucker">Zucker</objectName>. </p>
+        <p> <objectName ref="#fenchel">FEnchel</objectName> <lb/> wann er im Sommer erwachsen <lb/> gibt man die junge und weiche Schoß <lb/> oder Gipffel wol gebutzt <lb/> mit beygesetzten <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Eßig und Oel zu <objectName ref="#tisch">Tisch</objectName> <lb/> auch <objectName ref="#zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

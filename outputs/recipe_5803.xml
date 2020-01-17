@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Euterlein zu braten <lb/> mit Pertrum <objectName ref="kraut">Kraut</objectName> gespickt <lb/> vnnd warm geben <lb/> mit einer braunen Brüh <lb/> die sauer ist <lb/> so seindt sie gut zu essen. </p>
+        <p> Euterlein zu braten <lb/> mit Pertrum <objectName ref="#kraut">Kraut</objectName> gespickt <lb/> vnnd warm geben <lb/> mit einer braunen Brüh <lb/> die sauer ist <lb/> so seindt sie gut zu essen. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Röstet ein schönes <objectName ref="mehl">Mehl</objectName> im Schmaltz <lb/> mischet so viel <lb/> als deß gerösteten ist <lb/> auch ungeröstetes darunter <lb/> netzets mit kaltem <objectName ref="wein">Wein</objectName> an <lb/> rührets mit dem Weissen von Eyern ab <lb/> thut ein wenig <objectName ref="zucker">Zucker</objectName> daran; schneidet aus grossen Aepffeln runde Blatten/ Plätze oder Scheiben <lb/> kehrets im <objectName ref="teig">Teig</objectName> um <lb/> legts in ein gar heisses Schmaltz <lb/> und bachets <lb/> so lauffen sie schön auf. </p>
+        <p> Röstet ein schönes <objectName ref="#mehl">Mehl</objectName> im Schmaltz <lb/> mischet so viel <lb/> als deß gerösteten ist <lb/> auch ungeröstetes darunter <lb/> netzets mit kaltem <objectName ref="#wein">Wein</objectName> an <lb/> rührets mit dem Weissen von Eyern ab <lb/> thut ein wenig <objectName ref="#zucker">Zucker</objectName> daran; schneidet aus grossen Aepffeln runde Blatten/ Plätze oder Scheiben <lb/> kehrets im <objectName ref="#teig">Teig</objectName> um <lb/> legts in ein gar heisses Schmaltz <lb/> und bachets <lb/> so lauffen sie schön auf. </p>
             </div>
         </body>
     </text>

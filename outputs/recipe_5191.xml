@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SAltze die geklaubte Grundeln lebendig <lb/> und melbe sie ein <lb/> laß absterben <lb/> röste sie ab <lb/> und bachs in Schmaltz <lb/> oder Oel; lege aber nicht zu viel auf einmal ein <lb/> daß sie nicht zu weich werden <lb/> sondern kürnig bleiben <lb/> und gibs gleich also warmer zu <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> SAltze die geklaubte Grundeln lebendig <lb/> und melbe sie ein <lb/> laß absterben <lb/> röste sie ab <lb/> und bachs in Schmaltz <lb/> oder Oel; lege aber nicht zu viel auf einmal ein <lb/> daß sie nicht zu weich werden <lb/> sondern kürnig bleiben <lb/> und gibs gleich also warmer zu <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

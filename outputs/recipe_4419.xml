@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Siedet eine Kalbs = <objectName ref="lunge">Lungen</objectName> in halb <objectName ref="wasser">Wasser</objectName> und halb <objectName ref="wein">Wein</objectName> <lb/> saltzets; wann sie weich gesotten <lb/> nehmet sie heraus auf einen <objectName ref="teller">Teller</objectName> <lb/> schneidets zu Stücklein <lb/> eines grösser als ein Finger; indessen machet in einer Pfannen ein Schmaltz heiß <lb/> thut die geschnittene <objectName ref="lunge">Lungen</objectName> darein <lb/> und lassets darinnen rösten <lb/> doch nicht gar zu lang <lb/> richtets dann in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> d streuet Ingber darauf : Oder machet eine Brüh nach belieben darüber. </p>
+        <p> Siedet eine Kalbs = <objectName ref="#lunge">Lungen</objectName> in halb <objectName ref="#wasser">Wasser</objectName> und halb <objectName ref="#wein">Wein</objectName> <lb/> saltzets; wann sie weich gesotten <lb/> nehmet sie heraus auf einen <objectName ref="#teller">Teller</objectName> <lb/> schneidets zu Stücklein <lb/> eines grösser als ein Finger; indessen machet in einer Pfannen ein Schmaltz heiß <lb/> thut die geschnittene <objectName ref="#lunge">Lungen</objectName> darein <lb/> und lassets darinnen rösten <lb/> doch nicht gar zu lang <lb/> richtets dann in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> d streuet Ingber darauf : Oder machet eine Brüh nach belieben darüber. </p>
             </div>
         </body>
     </text>

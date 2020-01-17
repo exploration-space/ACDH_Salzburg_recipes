@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm einen <objectName ref="hecht">Hecht</objectName> <lb/> schuppe denselben <lb/> mache ihn am Bauch auf <lb/> thue das Eingeweid heraus <lb/> schneide ihn halb von einander in zwey Stücke : wann er nun ein paar Stunden im Saltz gelegen <lb/> und in einem Saltzwasser abgesotten worden <lb/> so leg ihn in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> thue gesaltzene <objectName ref="butter">Butter</objectName> daran <lb/> setze die <objectName ref="schuessel">Schüssel</objectName> auf die <objectName ref="kohlen">Kohlen</objectName> <lb/> laß also zergehen und ein wenig bratzeln <lb/> streue Muscatblühh darauf <lb/> und giebs dann zu essen. </p>
+        <p> NImm einen <objectName ref="#hecht">Hecht</objectName> <lb/> schuppe denselben <lb/> mache ihn am Bauch auf <lb/> thue das Eingeweid heraus <lb/> schneide ihn halb von einander in zwey Stücke : wann er nun ein paar Stunden im Saltz gelegen <lb/> und in einem Saltzwasser abgesotten worden <lb/> so leg ihn in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> thue gesaltzene <objectName ref="#butter">Butter</objectName> daran <lb/> setze die <objectName ref="#schuessel">Schüssel</objectName> auf die <objectName ref="#kohlen">Kohlen</objectName> <lb/> laß also zergehen und ein wenig bratzeln <lb/> streue Muscatblühh darauf <lb/> und giebs dann zu essen. </p>
             </div>
         </body>
     </text>

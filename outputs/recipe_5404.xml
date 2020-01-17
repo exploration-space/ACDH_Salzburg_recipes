@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BRennet ein wenig heisses Schmaltz ins <objectName ref="mehl">Mehl</objectName> <lb/> doch nicht zu viel <lb/> daß das <objectName ref="mehl">Mehl</objectName> trocken bleibt; giesset ein wenig <objectName ref="wein">Wein</objectName> und <objectName ref="bier">Bier</objectName> <lb/> wann es zuvor warm gemachet worden daß man einen Finger darinnen leiden kan <lb/> daran <lb/> und machet es folgends mit Weissen von Eyern zu einem zimlich= dicken <objectName ref="teig">Teig</objectName> an : Bachet jede Weixel besonders <lb/> giesst öffters auf <lb/> sehet aber ja zu <lb/> daß das Schmaltz nicht zu heiß und nicht zu tieff seye. </p>
+        <p> BRennet ein wenig heisses Schmaltz ins <objectName ref="#mehl">Mehl</objectName> <lb/> doch nicht zu viel <lb/> daß das <objectName ref="#mehl">Mehl</objectName> trocken bleibt; giesset ein wenig <objectName ref="#wein">Wein</objectName> und <objectName ref="#bier">Bier</objectName> <lb/> wann es zuvor warm gemachet worden daß man einen Finger darinnen leiden kan <lb/> daran <lb/> und machet es folgends mit Weissen von Eyern zu einem zimlich= dicken <objectName ref="#teig">Teig</objectName> an : Bachet jede Weixel besonders <lb/> giesst öffters auf <lb/> sehet aber ja zu <lb/> daß das Schmaltz nicht zu heiß und nicht zu tieff seye. </p>
             </div>
         </body>
     </text>

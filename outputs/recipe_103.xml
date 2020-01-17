@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Thue den huechen<gap/> Auf, schiep<gap/> ihn <lb/><lb/> ( re 43 ) Vorher, wasch ihn Auß schneidt Ihn Zu <lb/> rundte stickhl<gap/>, wie den allfisch<gap/>, <lb/> den <objectName ref="kopf">Kopf</objectName> aber, in der Midten <lb/> von einander, <objectName ref="salz">salz</objectName> ihn, vnnd Ge= <lb/> wirze<gap/> ihn ein, reste<gap/> ihn in <objectName ref="butter">butter</objectName>, <lb/> schen Gelflet<gap/>, richt in, in ein mit <objectName ref="butter">butter</objectName> <lb/> Geschmierbten<gap/> schisßl<gap/> thue Lemony safft<gap/> <lb/> daran, vnnd ein wenig Arbes brie<gap/> <lb/> vnnd frischen <objectName ref="butter">butter</objectName>, lass ihn Auf der <lb/> Gluet<gap/> Kochen. <lb/> </p>
+        <p> Thue den huechen<gap/> Auf, schiep<gap/> ihn <lb/><lb/> ( re 43 ) Vorher, wasch ihn Auß schneidt Ihn Zu <lb/> rundte stickhl<gap/>, wie den allfisch<gap/>, <lb/> den <objectName ref="#kopf">Kopf</objectName> aber, in der Midten <lb/> von einander, <objectName ref="#salz">salz</objectName> ihn, vnnd Ge= <lb/> wirze<gap/> ihn ein, reste<gap/> ihn in <objectName ref="#butter">butter</objectName>, <lb/> schen Gelflet<gap/>, richt in, in ein mit <objectName ref="#butter">butter</objectName> <lb/> Geschmierbten<gap/> schisßl<gap/> thue Lemony safft<gap/> <lb/> daran, vnnd ein wenig Arbes brie<gap/> <lb/> vnnd frischen <objectName ref="#butter">butter</objectName>, lass ihn Auf der <lb/> Gluet<gap/> Kochen. <lb/> </p>
             </div>
         </body>
     </text>

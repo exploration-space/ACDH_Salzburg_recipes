@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb von einer Semel<gap/> die mollen<gap/> herauß, <lb/> waickhe<gap/> es in ein guette<gap/> milch<gap/>, wann es ein <lb/> wenig gewaickht<gap/> ist, so riehrs<gap/> wohl ab, mit <lb/> ayr<gap/> groß butter<gap/> und <objectName ref="salz">salz</objectName>, nimb ayr<gap/> schlags <lb/> nach und nach drein, und ein zuckher<gap/>, bestreiche<gap/> <lb/> ein schüsßl<gap/> mit butter<gap/>, gieß<gap/> daßmueß<gap/> dar : <lb/> auf, und lege<gap/> ein raif<gap/> herumb, unten<gap/> und <lb/> oben<gap/> gluet<gap/>, ist guet. <lb/> </p>
+        <p> Nimb von einer Semel<gap/> die mollen<gap/> herauß, <lb/> waickhe<gap/> es in ein guette<gap/> milch<gap/>, wann es ein <lb/> wenig gewaickht<gap/> ist, so riehrs<gap/> wohl ab, mit <lb/> ayr<gap/> groß butter<gap/> und <objectName ref="#salz">salz</objectName>, nimb ayr<gap/> schlags <lb/> nach und nach drein, und ein zuckher<gap/>, bestreiche<gap/> <lb/> ein schüsßl<gap/> mit butter<gap/>, gieß<gap/> daßmueß<gap/> dar : <lb/> auf, und lege<gap/> ein raif<gap/> herumb, unten<gap/> und <lb/> oben<gap/> gluet<gap/>, ist guet. <lb/> </p>
             </div>
         </body>
     </text>

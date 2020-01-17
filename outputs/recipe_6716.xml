@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Rößt den Rheinfisch auß <lb/> vnd mach jn eyn mit einer Erbsbrüh <lb/> mit <objectName ref="essig">Essig</objectName> vnd frischer <objectName ref="butter">Butter</objectName> <lb/> mit gesaltzen Limonien vn ( n ) gestossen <objectName ref="ingwer">Ingwer</objectName> <lb/> laß damit resch eynsieden <lb/> so wird es gut vnd wolgeschmack. </p>
+        <p> Rößt den Rheinfisch auß <lb/> vnd mach jn eyn mit einer Erbsbrüh <lb/> mit <objectName ref="#essig">Essig</objectName> vnd frischer <objectName ref="#butter">Butter</objectName> <lb/> mit gesaltzen Limonien vn ( n ) gestossen <objectName ref="#ingwer">Ingwer</objectName> <lb/> laß damit resch eynsieden <lb/> so wird es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm die gebutzte Span= Sau <lb/> oder Spanfärcklein <lb/> richte sie <lb/> wie vorher zum Braten; hacke Zwibel <lb/> ausgelößte <objectName ref="sardellen">Sardellen</objectName> <lb/> und Petersil klein <lb/> dann hacke auch die <objectName ref="leber">Leber</objectName> mit übersottenem <objectName ref="speck">Speck</objectName> besonder <lb/> mische darzu gute Schwammen und Gewürtz <lb/> röste dises alles in guten Dardoffel= Oel mit wenig zerdruckten <objectName ref="knoblauch">Knoblauch</objectName> <lb/> fülle das Spanfärcklein im hohlen Leib darmit <lb/> vermache es wohl <lb/> und brate es <lb/> wie sonst. </p>
+        <p> NImm die gebutzte Span= Sau <lb/> oder Spanfärcklein <lb/> richte sie <lb/> wie vorher zum Braten; hacke Zwibel <lb/> ausgelößte <objectName ref="#sardellen">Sardellen</objectName> <lb/> und Petersil klein <lb/> dann hacke auch die <objectName ref="#leber">Leber</objectName> mit übersottenem <objectName ref="#speck">Speck</objectName> besonder <lb/> mische darzu gute Schwammen und Gewürtz <lb/> röste dises alles in guten Dardoffel= Oel mit wenig zerdruckten <objectName ref="#knoblauch">Knoblauch</objectName> <lb/> fülle das Spanfärcklein im hohlen Leib darmit <lb/> vermache es wohl <lb/> und brate es <lb/> wie sonst. </p>
             </div>
         </body>
     </text>

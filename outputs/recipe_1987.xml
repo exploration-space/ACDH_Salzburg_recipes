@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Und Meer freÿln, auch zu den bachen haßlnus, rothe khrebsen, <lb/> gefihlte Mandl khräpfl, oder Was man sonst einschlagen <lb/> Will. <lb/> Nimb ein schöns Semblmell, vnd ein süsß rämbl, verseuds, <lb/> ein süssen Puter drein, vnd geuß in das mell, darnach <lb/> nimb das weiß von 2. aÿrn auf ein schißl, vnd Zween <lb/> löffl voll Zugger, 2. löffl voll <objectName ref="rosenwasser">Rosenwasser</objectName>, schlags mit der <lb/> hand ab, biß sich der taig von der hand schelt, darnach <lb/> Walg ihn auß, vnd schneids zu den Förmen, darnach stosß <lb/> Mandl, <objectName ref="rosenwasser">Rosenwasser</objectName> vnd Zukher durcheinander, vnd schlags <lb/> ein. <lb/> </p>
+        <p> Und Meer freÿln, auch zu den bachen haßlnus, rothe khrebsen, <lb/> gefihlte Mandl khräpfl, oder Was man sonst einschlagen <lb/> Will. <lb/> Nimb ein schöns Semblmell, vnd ein süsß rämbl, verseuds, <lb/> ein süssen Puter drein, vnd geuß in das mell, darnach <lb/> nimb das weiß von 2. aÿrn auf ein schißl, vnd Zween <lb/> löffl voll Zugger, 2. löffl voll <objectName ref="#rosenwasser">Rosenwasser</objectName>, schlags mit der <lb/> hand ab, biß sich der taig von der hand schelt, darnach <lb/> Walg ihn auß, vnd schneids zu den Förmen, darnach stosß <lb/> Mandl, <objectName ref="#rosenwasser">Rosenwasser</objectName> vnd Zukher durcheinander, vnd schlags <lb/> ein. <lb/> </p>
             </div>
         </body>
     </text>

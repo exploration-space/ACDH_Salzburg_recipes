@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Sälmling in Cassenadt abgesotten fein blaw <lb/> vnd laß kalt werden <lb/> so kanstu es geben auff ein <objectName ref="tisch">Tisch</objectName> <lb/> kalt oder warm. Nim ein Erbsbrüh <lb/> frische <objectName ref="butter">Butter</objectName> <lb/> vnnd Muscatenblüt <lb/> auch gestossen <objectName ref="ingwer">Ingwer</objectName> <lb/> laß das miteinander auffsieden <lb/> wirff grüne <objectName ref="kraeuter">Kräuter</objectName> <lb/> die fein klein gehackt seyn <lb/> darein <lb/> laß darmit ein Sudt auffthun <lb/> so wirt es gut vnd wolgeschmack. </p>
+        <p> Sälmling in Cassenadt abgesotten fein blaw <lb/> vnd laß kalt werden <lb/> so kanstu es geben auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> kalt oder warm. Nim ein Erbsbrüh <lb/> frische <objectName ref="#butter">Butter</objectName> <lb/> vnnd Muscatenblüt <lb/> auch gestossen <objectName ref="#ingwer">Ingwer</objectName> <lb/> laß das miteinander auffsieden <lb/> wirff grüne <objectName ref="#kraeuter">Kräuter</objectName> <lb/> die fein klein gehackt seyn <lb/> darein <lb/> laß darmit ein Sudt auffthun <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb guete <objectName ref="milch">milch</objectName>, vnd gueten Puter undereinander, laß Sieden, <lb/> nimb ein schens mell, <objectName ref="salz">Salz</objectName>, mach ein taig darmit der siedigen <objectName ref="milch">milch</objectName> <lb/> an, nit Zu fest, schneid fein Nudl ein Wenig khliener, dan ein khlainer <lb/> Finger, nimb Wider Rämb vnd Puter, laß Sieden, thue die Nudl <lb/> drein, dempffs auf einer gluet herab in einer Pfann, rührs nit Zu <lb/> bald, sie Werden Mueset, mach schene Rämbl dran, gibs Warmb./ </p>
+        <p> Nimb guete <objectName ref="#milch">milch</objectName>, vnd gueten Puter undereinander, laß Sieden, <lb/> nimb ein schens mell, <objectName ref="#salz">Salz</objectName>, mach ein taig darmit der siedigen <objectName ref="#milch">milch</objectName> <lb/> an, nit Zu fest, schneid fein Nudl ein Wenig khliener, dan ein khlainer <lb/> Finger, nimb Wider Rämb vnd Puter, laß Sieden, thue die Nudl <lb/> drein, dempffs auf einer gluet herab in einer Pfann, rührs nit Zu <lb/> bald, sie Werden Mueset, mach schene Rämbl dran, gibs Warmb./ </p>
             </div>
         </body>
     </text>

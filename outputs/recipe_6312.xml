@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Die Wurtz gesäubert <lb/> beyß in <objectName ref="wein">Wein</objectName> <lb/> biß der <objectName ref="wein">wein</objectName> die krafft vn geschmack der Wurtz empfahet. Dieser <objectName ref="wein">Wein</objectName> sol streng getruncke werde. Erführt auß durch den Harn verbrennte Cholerische vnnd Melancholische feuchtigkeit <lb/> reiniget das <objectName ref="hirn">Hirn</objectName> vnd vergifftigung Melancholischer dämpff. Bringet die Mönigen ( welches auß erfahrung kundtbar ) zu jhrn vorigen sinnen vnd gesundtheit. </p>
+        <p> Die Wurtz gesäubert <lb/> beyß in <objectName ref="#wein">Wein</objectName> <lb/> biß der <objectName ref="#wein">wein</objectName> die krafft vn geschmack der Wurtz empfahet. Dieser <objectName ref="#wein">Wein</objectName> sol streng getruncke werde. Erführt auß durch den Harn verbrennte Cholerische vnnd Melancholische feuchtigkeit <lb/> reiniget das <objectName ref="#hirn">Hirn</objectName> vnd vergifftigung Melancholischer dämpff. Bringet die Mönigen ( welches auß erfahrung kundtbar ) zu jhrn vorigen sinnen vnd gesundtheit. </p>
             </div>
         </body>
     </text>

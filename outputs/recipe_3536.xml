@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe gebachne Frösch seynd gut <lb/> gleich nach dem Bachen <lb/> in guter braun= oder gelber Karffen= <objectName ref="jus">Jus</objectName> zu geben. Dito <lb/> also in guter Erbesbrühe <lb/> mit wenig Eßig <lb/> Gewürtz <lb/> und kleingehackten Petersil= Kräutlein <lb/> gelb. Gebachne Frösch seynd allzeit gut in einer gelben sauren Knobel= <objectName ref="bruehe">Brühe</objectName> <lb/> mit <objectName ref="butter">Butter</objectName> und Gewürtz. </p>
+        <p> DIe gebachne Frösch seynd gut <lb/> gleich nach dem Bachen <lb/> in guter braun= oder gelber Karffen= <objectName ref="#jus">Jus</objectName> zu geben. Dito <lb/> also in guter Erbesbrühe <lb/> mit wenig Eßig <lb/> Gewürtz <lb/> und kleingehackten Petersil= Kräutlein <lb/> gelb. Gebachne Frösch seynd allzeit gut in einer gelben sauren Knobel= <objectName ref="#bruehe">Brühe</objectName> <lb/> mit <objectName ref="#butter">Butter</objectName> und Gewürtz. </p>
             </div>
         </body>
     </text>

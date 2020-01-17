@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> KAlt Hausen <objectName ref="pastete">Pasteten</objectName> in Ruckenteig eyngeschlagen <lb/> mit Gewürtz <lb/> Saltz vnd guter <objectName ref="butter">Butter</objectName> <lb/> laß backen <lb/> vnd kalt werden <lb/> so ist es gut vnd wolgeschmack. </p>
+        <p> KAlt Hausen <objectName ref="#pastete">Pasteten</objectName> in Ruckenteig eyngeschlagen <lb/> mit Gewürtz <lb/> Saltz vnd guter <objectName ref="#butter">Butter</objectName> <lb/> laß backen <lb/> vnd kalt werden <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

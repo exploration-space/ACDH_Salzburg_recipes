@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> CArfiol gebutzt und gebrüht <lb/> gibt man auch in rother Krebs= Butter= <objectName ref="bruehe">Brühe</objectName> <lb/> und mit ausgelößten <objectName ref="krebse">Krebsen</objectName> regaliert. </p>
+        <p> CArfiol gebutzt und gebrüht <lb/> gibt man auch in rother Krebs= Butter= <objectName ref="#bruehe">Brühe</objectName> <lb/> und mit ausgelößten <objectName ref="#krebse">Krebsen</objectName> regaliert. </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm gebähte Semmel= Schnitten <lb/> richts ordentlich in die Schussel <lb/> leg die gebratene <objectName ref="wachtel">Wachteln</objectName> gantz oder halbierter darauf <lb/> gieß gantz guten <objectName ref="wein">Wein</objectName> daran <lb/> streue <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet und ein wenig <objectName ref="pfeffer">Pfeffer</objectName> darüber <lb/> laß zugedeckter anschwellen; regaliers mit Pomerantzen oder Lemoni <lb/> und wer will <lb/> streut zuletzt Pinioli und <objectName ref="rosinen">Rosinen</objectName> darüber. </p>
+        <p> NImm gebähte Semmel= Schnitten <lb/> richts ordentlich in die Schussel <lb/> leg die gebratene <objectName ref="#wachtel">Wachteln</objectName> gantz oder halbierter darauf <lb/> gieß gantz guten <objectName ref="#wein">Wein</objectName> daran <lb/> streue <objectName ref="#zucker">Zucker</objectName> <lb/> Zimmet und ein wenig <objectName ref="#pfeffer">Pfeffer</objectName> darüber <lb/> laß zugedeckter anschwellen; regaliers mit Pomerantzen oder Lemoni <lb/> und wer will <lb/> streut zuletzt Pinioli und <objectName ref="#rosinen">Rosinen</objectName> darüber. </p>
             </div>
         </body>
     </text>

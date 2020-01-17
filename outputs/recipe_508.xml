@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Gedierte<gap/> Frichten, was du wilst, <lb/> siede<gap/> sye in <objectName ref="wasser">wasser</objectName> oder <objectName ref="wein">wein</objectName>, wan sye ge= <lb/> soden<gap/> sein so Nimb die Kern herauß <lb/> vnd treib<gap/> daß vnndere Durch einander durch <lb/> ein Sib<gap/>, vnd schlag daß durch ge= <lb/> tribne<gap/> in die aufgesezte Dortten, <lb/> darnach Zuckhers vnd bachs<gap/> so ist <lb/> es recht <lb/> </p>
+        <p> Nimb Gedierte<gap/> Frichten, was du wilst, <lb/> siede<gap/> sye in <objectName ref="#wasser">wasser</objectName> oder <objectName ref="#wein">wein</objectName>, wan sye ge= <lb/> soden<gap/> sein so Nimb die Kern herauß <lb/> vnd treib<gap/> daß vnndere Durch einander durch <lb/> ein Sib<gap/>, vnd schlag daß durch ge= <lb/> tribne<gap/> in die aufgesezte Dortten, <lb/> darnach Zuckhers vnd bachs<gap/> so ist <lb/> es recht <lb/> </p>
             </div>
         </body>
     </text>

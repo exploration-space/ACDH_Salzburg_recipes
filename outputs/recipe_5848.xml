@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Pirckhan mit Limonien eyngedämpfft <lb/> oder mit Wacholderbeer <lb/> auch schwartz auff Vngerisch eyngemacht <lb/> denn der Vogel ist an jhm selber schwartz <lb/> vnd auch das <objectName ref="fleisch">Fleisch</objectName>. </p>
+        <p> Pirckhan mit Limonien eyngedämpfft <lb/> oder mit Wacholderbeer <lb/> auch schwartz auff Vngerisch eyngemacht <lb/> denn der Vogel ist an jhm selber schwartz <lb/> vnd auch das <objectName ref="#fleisch">Fleisch</objectName>. </p>
             </div>
         </body>
     </text>

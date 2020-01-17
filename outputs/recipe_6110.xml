@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChneide von einem grossen Kalbs=Schlegel das beste Stuck Brät <lb/> hinden bey dem Bein <lb/> nach der Länge herab; dann mache Stück darauß <lb/> der Länge nach <lb/> und in der Grösse <lb/> wie eine <objectName ref="taube">Tauben</objectName> <lb/> und so lang es seyn kan <lb/> dann saltz <lb/> paitz und spicke sie mit <objectName ref="speck">Speck</objectName> <lb/> und brate sie am Spiß <lb/> gleich einem andern Lung=Brätlein <lb/> in saurer Ram=Cucummern=Capry=und anderer <objectName ref="bruehe">Brühe</objectName> </p>
+        <p> SChneide von einem grossen Kalbs=Schlegel das beste Stuck Brät <lb/> hinden bey dem Bein <lb/> nach der Länge herab; dann mache Stück darauß <lb/> der Länge nach <lb/> und in der Grösse <lb/> wie eine <objectName ref="#taube">Tauben</objectName> <lb/> und so lang es seyn kan <lb/> dann saltz <lb/> paitz und spicke sie mit <objectName ref="#speck">Speck</objectName> <lb/> und brate sie am Spiß <lb/> gleich einem andern Lung=Brätlein <lb/> in saurer Ram=Cucummern=Capry=und anderer <objectName ref="#bruehe">Brühe</objectName> </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChähle und schneide die Aepffel in zwey Theil <lb/> nimm die Kerne und Butzen heraus <lb/> rösts im Schmaltz daß sie schön braun und weich werden : legs dann neben einander in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> gieß guten <objectName ref="wein">Wein</objectName> daran <lb/> streue <objectName ref="zucker">Zucker</objectName> <lb/> Corinthen oder Weinbeerlein und <objectName ref="rosinen">Rosinen</objectName> darein <lb/> bestecke die halbirte Aepffel mit länglicht= geschnittenen abgezogenen <objectName ref="mandeln">Mandeln</objectName>; setze sie also in der <objectName ref="schuessel">Schüssel</objectName> auf eine <objectName ref="kohlpfanne">Kohlpfanne</objectName> <lb/> laß noch ein wenig kochen <lb/> und bestreue sie mit Trisanet. </p>
+        <p> SChähle und schneide die Aepffel in zwey Theil <lb/> nimm die Kerne und Butzen heraus <lb/> rösts im Schmaltz daß sie schön braun und weich werden : legs dann neben einander in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> gieß guten <objectName ref="#wein">Wein</objectName> daran <lb/> streue <objectName ref="#zucker">Zucker</objectName> <lb/> Corinthen oder Weinbeerlein und <objectName ref="#rosinen">Rosinen</objectName> darein <lb/> bestecke die halbirte Aepffel mit länglicht= geschnittenen abgezogenen <objectName ref="#mandeln">Mandeln</objectName>; setze sie also in der <objectName ref="#schuessel">Schüssel</objectName> auf eine <objectName ref="#kohlpfanne">Kohlpfanne</objectName> <lb/> laß noch ein wenig kochen <lb/> und bestreue sie mit Trisanet. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein sembl, vnd schneid die Rindten daruon, unden vnd <lb/> oben, nimb Weixl, vnd sez Zue, in halb <objectName ref="wein">Wein</objectName> vnd halb <lb/> <objectName ref="wasser">Wasser</objectName>, laß ein Wenig sieden, seichs ab, schlags durch, Zukhers, <lb/> holl die Sembl auß, nimb ein Wenig under die Weixl, <lb/> fühls in die Sembl, mach den Pranfft drüber, verstreichs <lb/> mit Aÿrkhlar, bachs resch im <objectName ref="schmalz">schmalz</objectName>, thues hernach in ein <lb/> füeßlets Reindl, geuß die Weixl <objectName ref="suppe">suppen</objectName> drüber, Zukhers, <lb/> vnd leg Mußcatblier darzue, laß Sieden, gibs Warmb auf <lb/> ein <objectName ref="tisch">tisch</objectName>, es ist guet. <lb/> </p>
+        <p> Nimb ein sembl, vnd schneid die Rindten daruon, unden vnd <lb/> oben, nimb Weixl, vnd sez Zue, in halb <objectName ref="#wein">Wein</objectName> vnd halb <lb/> <objectName ref="#wasser">Wasser</objectName>, laß ein Wenig sieden, seichs ab, schlags durch, Zukhers, <lb/> holl die Sembl auß, nimb ein Wenig under die Weixl, <lb/> fühls in die Sembl, mach den Pranfft drüber, verstreichs <lb/> mit Aÿrkhlar, bachs resch im <objectName ref="#schmalz">schmalz</objectName>, thues hernach in ein <lb/> füeßlets Reindl, geuß die Weixl <objectName ref="#suppe">suppen</objectName> drüber, Zukhers, <lb/> vnd leg Mußcatblier darzue, laß Sieden, gibs Warmb auf <lb/> ein <objectName ref="#tisch">tisch</objectName>, es ist guet. <lb/> </p>
             </div>
         </body>
     </text>

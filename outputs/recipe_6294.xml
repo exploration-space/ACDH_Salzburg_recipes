@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Vom Lungenmuß kanstu Schlickkrapffen machen <lb/> wie von einem <objectName ref="kalb">Kalb</objectName> ist angezeigt worden. </p>
+        <p> Vom Lungenmuß kanstu Schlickkrapffen machen <lb/> wie von einem <objectName ref="#kalb">Kalb</objectName> ist angezeigt worden. </p>
             </div>
         </body>
     </text>

@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Hünlein werden geviertheilt <lb/> gesaltzen <lb/> und wanns beliebt <lb/> in kalten Eßig <lb/> mit Zwibel <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> <objectName ref="lorbeer-2">Lorbeer</objectName> <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> und Lemoni= Schelffen gelegt <lb/> oder gar siediger darüber gossen <lb/> und zugestürtzter paitzen lassen <lb/> hernach sauber abgetrücknet <lb/> und eingemelbigt <lb/> ( etliche thuns gleich eingesaltzner einmelbigen <lb/> und nicht paissen <lb/> und safftig ausbachen; ) regaliers mit gebratenen Netzleins= Würsten <lb/> und gebachnen Brunnkreß <lb/> Körbelkraut <lb/> oder Petersil; andere lassen die Hünlein vorher übersieden. </p>
+        <p> DIe Hünlein werden geviertheilt <lb/> gesaltzen <lb/> und wanns beliebt <lb/> in kalten Eßig <lb/> mit Zwibel <lb/> <objectName ref="#knoblauch">Knoblauch</objectName> <lb/> <objectName ref="#lorbeer-2">Lorbeer</objectName> <lb/> <objectName ref="#rosmarin">Rosmarin</objectName> <lb/> und Lemoni= Schelffen gelegt <lb/> oder gar siediger darüber gossen <lb/> und zugestürtzter paitzen lassen <lb/> hernach sauber abgetrücknet <lb/> und eingemelbigt <lb/> ( etliche thuns gleich eingesaltzner einmelbigen <lb/> und nicht paissen <lb/> und safftig ausbachen; ) regaliers mit gebratenen Netzleins= Würsten <lb/> und gebachnen Brunnkreß <lb/> Körbelkraut <lb/> oder Petersil; andere lassen die Hünlein vorher übersieden. </p>
             </div>
         </body>
     </text>

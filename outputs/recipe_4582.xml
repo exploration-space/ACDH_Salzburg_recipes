@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChählet die Muscateller= Birne <lb/> schabet die Stiele ab <lb/> und schneidets biß zur helfft hinweg <lb/> röstets im Schmaltz; machet den <objectName ref="teig">Teig</objectName> <lb/> wie bey denen andern Dorten <lb/> streuet ein geröstetes Brod <lb/> wie auch <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet und geschnittene <objectName ref="mandeln">Mandeln</objectName> auf den Boden <lb/> setzet die Birnlein nach einander darauf <lb/> daß die Stiele über sich kommen <lb/> giesset ein wenig Malvasier daran <lb/> und bachet den Dorten schön langsam ab. </p>
+        <p> SChählet die Muscateller= Birne <lb/> schabet die Stiele ab <lb/> und schneidets biß zur helfft hinweg <lb/> röstets im Schmaltz; machet den <objectName ref="#teig">Teig</objectName> <lb/> wie bey denen andern Dorten <lb/> streuet ein geröstetes Brod <lb/> wie auch <objectName ref="#zucker">Zucker</objectName> <lb/> Zimmet und geschnittene <objectName ref="#mandeln">Mandeln</objectName> auf den Boden <lb/> setzet die Birnlein nach einander darauf <lb/> daß die Stiele über sich kommen <lb/> giesset ein wenig Malvasier daran <lb/> und bachet den Dorten schön langsam ab. </p>
             </div>
         </body>
     </text>

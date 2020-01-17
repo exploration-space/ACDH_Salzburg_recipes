@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Erstlich nimb ¼ lt<gap/> abgegogne<gap/> Klein <lb/> Gestossne<gap/> Mandl, ¼. lt gestoss= <lb/> nen<gap/> Zuckher thue in ein Mössingne<gap/> <lb/> Pfan<gap/> Gies<gap/> ein wenig <objectName ref="wasser">wasser</objectName> Daran <lb/> lass siedten<gap/> schidt<gap/> Die Mandl drein <lb/> vnnd ein Ayr Clar, Drickhes<gap/> auf <lb/> der Gluet<gap/> herab, Rihr Zimmet stup<gap/> <lb/> Darein in den halben thaill, treib<gap/> <lb/> Durch ein hilzes<gap/> sibel<gap/> auf ein Popir <lb/> lass Druckhen<gap/> werden, Darnach richts <lb/> Auf ein vmbgestierzte schisl<gap/> Zuckhers <lb/> so ist es Recht. <lb/> [ Anm. : „ abgegogne Klein Gestossne Mandl “ sind abgezogene kleingestossene <objectName ref="mandeln">Mandeln</objectName> ] </p>
+        <p> Erstlich nimb ¼ lt<gap/> abgegogne<gap/> Klein <lb/> Gestossne<gap/> Mandl, ¼. lt gestoss= <lb/> nen<gap/> Zuckher thue in ein Mössingne<gap/> <lb/> Pfan<gap/> Gies<gap/> ein wenig <objectName ref="#wasser">wasser</objectName> Daran <lb/> lass siedten<gap/> schidt<gap/> Die Mandl drein <lb/> vnnd ein Ayr Clar, Drickhes<gap/> auf <lb/> der Gluet<gap/> herab, Rihr Zimmet stup<gap/> <lb/> Darein in den halben thaill, treib<gap/> <lb/> Durch ein hilzes<gap/> sibel<gap/> auf ein Popir <lb/> lass Druckhen<gap/> werden, Darnach richts <lb/> Auf ein vmbgestierzte schisl<gap/> Zuckhers <lb/> so ist es Recht. <lb/> [ Anm. : „ abgegogne Klein Gestossne Mandl “ sind abgezogene kleingestossene <objectName ref="#mandeln">Mandeln</objectName> ] </p>
             </div>
         </body>
     </text>

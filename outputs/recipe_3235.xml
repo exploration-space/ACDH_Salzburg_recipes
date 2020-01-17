@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAsche und klaube die <objectName ref="gerste">Gersten</objectName> <lb/> laß selbige vier Stund in einer Fleischbrüh sieden <lb/> wiewol man auch ein wenig <objectName ref="wasser">Wasser</objectName> darunter giessen kan <lb/> und treibe sie hernach durch einen <objectName ref="seiher">Seiher</objectName> oder <objectName ref="durchschlag">Durchschlag</objectName>; ist sie zu dick <lb/> so gieß noch ein wenig Fleischbrüh dazu <lb/> würtze es mit guten Gewürtz <lb/> würff ein Stuck <objectName ref="butter">Butter</objectName> darein <lb/> laß aufsieden : zerklopffe alsdann Eyerdottern <lb/> rühre selbige in das Mus oder Schleim <lb/> drucke von einer Citronen den Safft darein <lb/> richte es an <lb/> und streue klein= geschnittene Citronen= Schelffen darauf. </p>
+        <p> WAsche und klaube die <objectName ref="#gerste">Gersten</objectName> <lb/> laß selbige vier Stund in einer Fleischbrüh sieden <lb/> wiewol man auch ein wenig <objectName ref="#wasser">Wasser</objectName> darunter giessen kan <lb/> und treibe sie hernach durch einen <objectName ref="#seiher">Seiher</objectName> oder <objectName ref="#durchschlag">Durchschlag</objectName>; ist sie zu dick <lb/> so gieß noch ein wenig Fleischbrüh dazu <lb/> würtze es mit guten Gewürtz <lb/> würff ein Stuck <objectName ref="#butter">Butter</objectName> darein <lb/> laß aufsieden : zerklopffe alsdann Eyerdottern <lb/> rühre selbige in das Mus oder Schleim <lb/> drucke von einer Citronen den Safft darein <lb/> richte es an <lb/> und streue klein= geschnittene Citronen= Schelffen darauf. </p>
             </div>
         </body>
     </text>

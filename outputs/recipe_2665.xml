@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm halb <objectName ref="reinfal-suesswein">Reinfal</objectName> <lb/> und halb ungesaltzne Capaunen= oder Hüner= <objectName ref="bruehe">Brühe</objectName> <lb/> zuckers <lb/> laß es aufsieden; klopff einen Eyerdotter <lb/> rühre ihn mit der siedenden <objectName ref="suppe">Suppe</objectName> an <lb/> und giesse es über weisses würfftlicht= geschnittenes Brod. <gap/> <gap/> Wobey zu mercken <lb/> daß man jedesmal zu einem Eyerdottern <lb/> ungefehr ein Achtel= <objectName ref="maas">Maas</objectName> der <objectName ref="suppe">Suppen</objectName> nehmen müsse. </p>
+        <p> NImm halb <objectName ref="#reinfal-suesswein">Reinfal</objectName> <lb/> und halb ungesaltzne Capaunen= oder Hüner= <objectName ref="#bruehe">Brühe</objectName> <lb/> zuckers <lb/> laß es aufsieden; klopff einen Eyerdotter <lb/> rühre ihn mit der siedenden <objectName ref="#suppe">Suppe</objectName> an <lb/> und giesse es über weisses würfftlicht= geschnittenes Brod. <gap/> <gap/> Wobey zu mercken <lb/> daß man jedesmal zu einem Eyerdottern <lb/> ungefehr ein Achtel= <objectName ref="#maas">Maas</objectName> der <objectName ref="#suppe">Suppen</objectName> nehmen müsse. </p>
             </div>
         </body>
     </text>

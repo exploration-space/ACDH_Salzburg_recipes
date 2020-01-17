@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SAltze die Ruck=Brätlein <lb/> aber nicht zu starck <lb/> spicks und paitze sie <lb/> und brats im Safft <lb/> wie andere Lung=Brätlein <lb/> und wann du sie anrichtest <lb/> so nimm ausgewaschene <lb/> und klein=gehackte <objectName ref="sardellen">Sardellen</objectName> in wohl <objectName ref="butter">Butter</objectName> <lb/> laß ihne säumig werden <lb/> und gibs über die Ruck=Brätlein; Etliche nehmen zerdruckten und klein=gehackten <objectName ref="knoblauch">Knoblauch</objectName> darunter; man kans auch an statt des Butters <lb/> unter den Braten <lb/> mit sauren Ram begiessen <lb/> und beym Anrichten die Bratens=Brühe durchgetriebner mit Capren aufsieden lassen <lb/> und darüber geben <lb/> mit Lemoni=Schaalen. </p>
+        <p> SAltze die Ruck=Brätlein <lb/> aber nicht zu starck <lb/> spicks und paitze sie <lb/> und brats im Safft <lb/> wie andere Lung=Brätlein <lb/> und wann du sie anrichtest <lb/> so nimm ausgewaschene <lb/> und klein=gehackte <objectName ref="#sardellen">Sardellen</objectName> in wohl <objectName ref="#butter">Butter</objectName> <lb/> laß ihne säumig werden <lb/> und gibs über die Ruck=Brätlein; Etliche nehmen zerdruckten und klein=gehackten <objectName ref="#knoblauch">Knoblauch</objectName> darunter; man kans auch an statt des Butters <lb/> unter den Braten <lb/> mit sauren Ram begiessen <lb/> und beym Anrichten die Bratens=Brühe durchgetriebner mit Capren aufsieden lassen <lb/> und darüber geben <lb/> mit Lemoni=Schaalen. </p>
             </div>
         </body>
     </text>

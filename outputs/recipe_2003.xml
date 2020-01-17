@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Gebratne <objectName ref="nerfling">Nerfling</objectName> oder frisch abgesoten, oder in einer Puder= <lb/> =suppen. </p>
+        <p> Gebratne <objectName ref="#nerfling">Nerfling</objectName> oder frisch abgesoten, oder in einer Puder= <lb/> =suppen. </p>
             </div>
         </body>
     </text>

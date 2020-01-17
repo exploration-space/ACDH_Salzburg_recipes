@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChneidet den kalten Braten zu dinn = und breiten Plätzen; giesst einen Senff oder Mostart in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> thut ein gut theil <objectName ref="butter">Butter</objectName> daran <lb/> giesst Fleischbrüh <lb/> oder ein klein wenig <objectName ref="wein">Wein</objectName> dazu <lb/> legt den geschnittenen Braten hinein <lb/> setzet die <objectName ref="schuessel">Schüssel</objectName> wohl zugedeckt auf eine <objectName ref="kohl">Kohl</objectName> = <objectName ref="pfanne">Pfanne</objectName> <lb/> und last es mit einander aufsieden; drucket Citronen = Safft darein <lb/> zuckerts auch <lb/> so es beliebt <lb/> und bestreuet es mit würfflicht = geschnittenen Schelffen von Citronen. </p>
+        <p> SChneidet den kalten Braten zu dinn = und breiten Plätzen; giesst einen Senff oder Mostart in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> thut ein gut theil <objectName ref="#butter">Butter</objectName> daran <lb/> giesst Fleischbrüh <lb/> oder ein klein wenig <objectName ref="#wein">Wein</objectName> dazu <lb/> legt den geschnittenen Braten hinein <lb/> setzet die <objectName ref="#schuessel">Schüssel</objectName> wohl zugedeckt auf eine <objectName ref="#kohl">Kohl</objectName> = <objectName ref="#pfanne">Pfanne</objectName> <lb/> und last es mit einander aufsieden; drucket Citronen = Safft darein <lb/> zuckerts auch <lb/> so es beliebt <lb/> und bestreuet es mit würfflicht = geschnittenen Schelffen von Citronen. </p>
             </div>
         </body>
     </text>

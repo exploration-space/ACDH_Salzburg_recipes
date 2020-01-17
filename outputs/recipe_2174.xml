@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wan die <objectName ref="fisch">fisch</objectName> schen blab vnd khirnig abgsoten, nimb vonder= <lb/> selbigen brüe, gieß ein Wenig öel drein, Petersill, Sieds durch= <lb/> einander, gieß es ÿber den <objectName ref="fisch">fisch</objectName>, gibs Warm. <lb/> </p>
+        <p> Wan die <objectName ref="#fisch">fisch</objectName> schen blab vnd khirnig abgsoten, nimb vonder= <lb/> selbigen brüe, gieß ein Wenig öel drein, Petersill, Sieds durch= <lb/> einander, gieß es ÿber den <objectName ref="#fisch">fisch</objectName>, gibs Warm. <lb/> </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Richt<gap/> die <objectName ref="fisch">fisch</objectName> in ein rein<gap/>, <objectName ref="salz">salz</objectName>, gieß<gap/> esßig <lb/> und arbeß<gap/> Brüehe<gap/> daran, Strähe<gap/> Lemonj<gap/> <lb/> Schöllen<gap/>, und rosenmarin<gap/>, Muhcat<gap/> Blühe<gap/>, Lasße <lb/> es sieden<gap/>, mach<gap/> es ein wenig zueri mit meell<gap/> <lb/> so ist es recht. <lb/> [ Anm. : „ Muhcat “ : bedeutet ‚Muskat ‘. ] </p>
+        <p> Richt<gap/> die <objectName ref="#fisch">fisch</objectName> in ein rein<gap/>, <objectName ref="#salz">salz</objectName>, gieß<gap/> esßig <lb/> und arbeß<gap/> Brüehe<gap/> daran, Strähe<gap/> Lemonj<gap/> <lb/> Schöllen<gap/>, und rosenmarin<gap/>, Muhcat<gap/> Blühe<gap/>, Lasße <lb/> es sieden<gap/>, mach<gap/> es ein wenig zueri mit meell<gap/> <lb/> so ist es recht. <lb/> [ Anm. : „ Muhcat “ : bedeutet ‚Muskat ‘. ] </p>
             </div>
         </body>
     </text>

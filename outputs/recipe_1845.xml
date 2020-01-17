@@ -170,7 +170,7 @@ Willst du gute Eierkuchen machen, dann nimm Semmelbröseln und gib sie in ein Ge
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WIldu machn̄ guten aÿr kuchn̄ so nÿmb gut semel melb vnd tu es in ein kar vnd slach aÿr dar ein vnd rur es mit eim loffl̄ d so du dicket mugst vnd ze masse salcz̄ es vnd scheuss also grosses in den <objectName ref="hafen">hafen</objectName> <objectName ref="ofen">ofen</objectName> sam die faust vnd daz sint dan gut aÿrkuchl̄ </p>
+        <p> WIldu machn̄ guten aÿr kuchn̄ so nÿmb gut semel melb vnd tu es in ein kar vnd slach aÿr dar ein vnd rur es mit eim loffl̄ d so du dicket mugst vnd ze masse salcz̄ es vnd scheuss also grosses in den <objectName ref="#hafen">hafen</objectName> <objectName ref="#ofen">ofen</objectName> sam die faust vnd daz sint dan gut aÿrkuchl̄ </p>
             </div>
         </body>
     </text>

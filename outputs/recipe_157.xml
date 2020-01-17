@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein halb Viertung<gap/> Mandl Ziegs<gap/> <lb/> ab stoss<gap/> hernach an statt des <objectName ref="wasser">wasser</objectName> <lb/> Nimb von einen Lemony<gap/> den safft <lb/> vnnd die schöllen<gap/> Khlein Gewirfflet<gap/> <lb/> Geschnidten auch ein <objectName ref="viertung">Viertung</objectName> schen <lb/> Gefätten<gap/> Zuckher vndereinander stoss <lb/> alles Klein, wie ein Mell lass ein <lb/> wenig Zuckher heraust das du es <lb/> aus machen Kanst, hernach mache <lb/><lb/> ( re 73 ) kleine Prözl legs auf oblätt<gap/> pachs<gap/> <lb/> schen Khiell<gap/> es seint schen. <lb/> </p>
+        <p> Nimb ein halb Viertung<gap/> Mandl Ziegs<gap/> <lb/> ab stoss<gap/> hernach an statt des <objectName ref="#wasser">wasser</objectName> <lb/> Nimb von einen Lemony<gap/> den safft <lb/> vnnd die schöllen<gap/> Khlein Gewirfflet<gap/> <lb/> Geschnidten auch ein <objectName ref="#viertung">Viertung</objectName> schen <lb/> Gefätten<gap/> Zuckher vndereinander stoss <lb/> alles Klein, wie ein Mell lass ein <lb/> wenig Zuckher heraust das du es <lb/> aus machen Kanst, hernach mache <lb/><lb/> ( re 73 ) kleine Prözl legs auf oblätt<gap/> pachs<gap/> <lb/> schen Khiell<gap/> es seint schen. <lb/> </p>
             </div>
         </body>
     </text>

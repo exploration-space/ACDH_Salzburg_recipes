@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim Biesen Stengel <lb/> schel vnnd quell sie in <objectName ref="wasser">Wasser</objectName> <lb/> machs in an mit Oel/ <objectName ref="essig">Essig</objectName> vnd Saltz. </p>
+        <p> Nim Biesen Stengel <lb/> schel vnnd quell sie in <objectName ref="#wasser">Wasser</objectName> <lb/> machs in an mit Oel/ <objectName ref="#essig">Essig</objectName> vnd Saltz. </p>
             </div>
         </body>
     </text>

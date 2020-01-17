@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> GArten= Kreß <lb/> und Körbel= <objectName ref="kraut">Kraut</objectName> <lb/> mit allerhand andern vermischten <objectName ref="kraeuter">Kräutern</objectName> <lb/> oder der so genannte Mischantze= <objectName ref="salat">Salat</objectName> <lb/> ist aller Orten gut und bekannt. </p>
+        <p> GArten= Kreß <lb/> und Körbel= <objectName ref="#kraut">Kraut</objectName> <lb/> mit allerhand andern vermischten <objectName ref="#kraeuter">Kräutern</objectName> <lb/> oder der so genannte Mischantze= <objectName ref="#salat">Salat</objectName> <lb/> ist aller Orten gut und bekannt. </p>
             </div>
         </body>
     </text>

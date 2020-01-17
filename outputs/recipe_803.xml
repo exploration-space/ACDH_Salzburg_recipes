@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimm wol zeitige abgezopffte Holderbeer <lb/> stoß <lb/> und treibs mit wenig <objectName ref="wein">Wein</objectName> durch das <objectName ref="haarsieb">haarsieb</objectName> <lb/> mach diesen Safft mit Gewürtz und <objectName ref="zucker">Zucker</objectName> <lb/> oder <objectName ref="honig">Honig</objectName> <lb/> süß genug <lb/> dann röste aufgeschnittnes Brod in Schmaltz <lb/> oder auf dem <objectName ref="rost">Rost</objectName> <lb/> gieß den zubereiten Safft daran <lb/> gibs warm <lb/> mit <objectName ref="zucker">Zucker</objectName> bestreut <lb/> zu <objectName ref="tisch">Tisch</objectName> <lb/> oder röste geriebnes Brod in Schmaltz <lb/> und mach auf obige Weiß ein Schmarren <lb/> oder Muß daraus. </p>
+        <p> Nimm wol zeitige abgezopffte Holderbeer <lb/> stoß <lb/> und treibs mit wenig <objectName ref="#wein">Wein</objectName> durch das <objectName ref="#haarsieb">haarsieb</objectName> <lb/> mach diesen Safft mit Gewürtz und <objectName ref="#zucker">Zucker</objectName> <lb/> oder <objectName ref="#honig">Honig</objectName> <lb/> süß genug <lb/> dann röste aufgeschnittnes Brod in Schmaltz <lb/> oder auf dem <objectName ref="#rost">Rost</objectName> <lb/> gieß den zubereiten Safft daran <lb/> gibs warm <lb/> mit <objectName ref="#zucker">Zucker</objectName> bestreut <lb/> zu <objectName ref="#tisch">Tisch</objectName> <lb/> oder röste geriebnes Brod in Schmaltz <lb/> und mach auf obige Weiß ein Schmarren <lb/> oder Muß daraus. </p>
             </div>
         </body>
     </text>

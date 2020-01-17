@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Große Capern <lb/> wenn sie gequellt vnd gewässert seyn <lb/> mit <objectName ref="essig">Essig</objectName> vnd Baumöl angemacht. </p>
+        <p> Große Capern <lb/> wenn sie gequellt vnd gewässert seyn <lb/> mit <objectName ref="#essig">Essig</objectName> vnd Baumöl angemacht. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn die Bocks= Nierlein gewaschen sind <lb/> siedet sie ein wenig in einer Fleischbrüh; ziehet die Haut herab <lb/> schneidets zu Plätzlein <lb/> legts in ein stollichtes <objectName ref="haefelein">Häfelein</objectName> <lb/> giesset ein wenig Fleischbrüh daran <lb/> brennt ein klein Stäublein <objectName ref="mehl">Mehl</objectName> darauf <lb/> würtzets mit <objectName ref="pfeffer">Pfeffer</objectName> und Negelein <lb/> werfft ein gut theil <objectName ref="butter">Butter</objectName> darein <lb/> setzets in eine <objectName ref="kohlen">Kohlen</objectName> <lb/> lassets einpratzeln <lb/> biß es ein dicklichtes Brühlein gewinne <lb/> und richtets dann an. </p>
+        <p> WAnn die Bocks= Nierlein gewaschen sind <lb/> siedet sie ein wenig in einer Fleischbrüh; ziehet die Haut herab <lb/> schneidets zu Plätzlein <lb/> legts in ein stollichtes <objectName ref="#haefelein">Häfelein</objectName> <lb/> giesset ein wenig Fleischbrüh daran <lb/> brennt ein klein Stäublein <objectName ref="#mehl">Mehl</objectName> darauf <lb/> würtzets mit <objectName ref="#pfeffer">Pfeffer</objectName> und Negelein <lb/> werfft ein gut theil <objectName ref="#butter">Butter</objectName> darein <lb/> setzets in eine <objectName ref="#kohlen">Kohlen</objectName> <lb/> lassets einpratzeln <lb/> biß es ein dicklichtes Brühlein gewinne <lb/> und richtets dann an. </p>
             </div>
         </body>
     </text>

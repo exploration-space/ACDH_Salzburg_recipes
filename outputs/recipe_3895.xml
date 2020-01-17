@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr Haussen wird frisch abgesotten <lb/> wie gleich jetzt gehört <lb/> und wann er fertig <lb/> so gib ihn auf die <objectName ref="schuessel">Schüssel</objectName> <lb/> und dann den geriebenen Kreen <lb/> mit in <objectName ref="butter">Butter</objectName> gerösten Semmel=Brosen und Erbsen=Brühe gekocht <lb/> darüber; regaliers mit frisch=gebratnen Carbonädlein von Haussen <lb/> und grünen Kräutlein. </p>
+        <p> DEr Haussen wird frisch abgesotten <lb/> wie gleich jetzt gehört <lb/> und wann er fertig <lb/> so gib ihn auf die <objectName ref="#schuessel">Schüssel</objectName> <lb/> und dann den geriebenen Kreen <lb/> mit in <objectName ref="#butter">Butter</objectName> gerösten Semmel=Brosen und Erbsen=Brühe gekocht <lb/> darüber; regaliers mit frisch=gebratnen Carbonädlein von Haussen <lb/> und grünen Kräutlein. </p>
             </div>
         </body>
     </text>

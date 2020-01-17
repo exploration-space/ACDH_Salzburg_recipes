@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChuppe die Aeschen <lb/> und ritze sie an <lb/> mache sie auf <lb/> saltze sie ein <lb/> und richte sie in die <objectName ref="pastete">Pasteten</objectName> <lb/> wie in dem Bacherey= Buch ausführlich beschrieben <lb/> mit Gewürtz <lb/> <objectName ref="butter">Butter</objectName> und anderer Zugehör. </p>
+        <p> SChuppe die Aeschen <lb/> und ritze sie an <lb/> mache sie auf <lb/> saltze sie ein <lb/> und richte sie in die <objectName ref="#pastete">Pasteten</objectName> <lb/> wie in dem Bacherey= Buch ausführlich beschrieben <lb/> mit Gewürtz <lb/> <objectName ref="#butter">Butter</objectName> und anderer Zugehör. </p>
             </div>
         </body>
     </text>

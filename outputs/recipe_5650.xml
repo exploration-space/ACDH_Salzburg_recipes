@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChuppe und bereite den <objectName ref="hecht">Hecht</objectName> <lb/> wie vielfaltig schon gelehret worden; bache ihn <lb/> wann er zuvor gesaltzen und eingemelbet <lb/> aus heissem Oel schön gelb heraus <lb/> und mache hernach die Num. 34. beschriebene Citronen= Brüh darüber. </p>
+        <p> SChuppe und bereite den <objectName ref="#hecht">Hecht</objectName> <lb/> wie vielfaltig schon gelehret worden; bache ihn <lb/> wann er zuvor gesaltzen und eingemelbet <lb/> aus heissem Oel schön gelb heraus <lb/> und mache hernach die Num. 34. beschriebene Citronen= Brüh darüber. </p>
             </div>
         </body>
     </text>

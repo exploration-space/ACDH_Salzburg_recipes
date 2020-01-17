@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> KApis= oder weiß Haupt= <objectName ref="kraut">Kraut</objectName> <lb/> das subtilist darvon gantz klein und langlecht geschnitten <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName> und Saltz eingesprengt <lb/> und ein Weil also ligen lassen <lb/> dann das <objectName ref="wasser">Wasser</objectName> darvon gedruckt <lb/> auch mit Eßig und Oel wol angemacht <lb/> ist ein guter <objectName ref="salat">Salat</objectName> vor die Gesunde. </p>
+        <p> KApis= oder weiß Haupt= <objectName ref="#kraut">Kraut</objectName> <lb/> das subtilist darvon gantz klein und langlecht geschnitten <lb/> mit <objectName ref="#pfeffer">Pfeffer</objectName> und Saltz eingesprengt <lb/> und ein Weil also ligen lassen <lb/> dann das <objectName ref="#wasser">Wasser</objectName> darvon gedruckt <lb/> auch mit Eßig und Oel wol angemacht <lb/> ist ein guter <objectName ref="#salat">Salat</objectName> vor die Gesunde. </p>
             </div>
         </body>
     </text>

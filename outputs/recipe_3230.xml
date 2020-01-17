@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Schaafs= Köpflein werden wohl gesotten <lb/> gebutzt <lb/> abgelößt <lb/> mit wenig Gewürtz und Saltz besprengt <lb/> durch ein Taiglein <lb/> ( so von gehackten <lb/> wohlriechenden Kräutlein <lb/> <objectName ref="milch">Milch</objectName> <lb/> Meel und Eyern angemacht ist <lb/> ) gezogen <lb/> oder eingedunckt <lb/> und aus heissem Schmaltz gebachen; gibs hernach trucken <lb/> mit gebachenem Petersil <lb/> oder bachs aus Eyern. </p>
+        <p> DIe Schaafs= Köpflein werden wohl gesotten <lb/> gebutzt <lb/> abgelößt <lb/> mit wenig Gewürtz und Saltz besprengt <lb/> durch ein Taiglein <lb/> ( so von gehackten <lb/> wohlriechenden Kräutlein <lb/> <objectName ref="#milch">Milch</objectName> <lb/> Meel und Eyern angemacht ist <lb/> ) gezogen <lb/> oder eingedunckt <lb/> und aus heissem Schmaltz gebachen; gibs hernach trucken <lb/> mit gebachenem Petersil <lb/> oder bachs aus Eyern. </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb daß Rindtfleisch, salze es, vnnd <lb/> seze<gap/> es Zue, lass woll sieden<gap/>, thue <lb/> Lorber blöter<gap/>.2. oder.3. heippl<gap/> Knob= <lb/> lach, Ganze Zinober<gap/>, Nägel<gap/>, Musgatblie<gap/> <lb/> vnnd ein <objectName ref="rosmarin">Rosmarin</objectName>, Gelbe vnnd Weisse <lb/> rueben<gap/>, nit Zu vill, ein Klein Wönig <lb/> Saffran darein, lass ein Viertl stundt <lb/> darmit siedten<gap/>, Nimbe es von feür<gap/> <lb/> deckh es mit einer hafen<gap/> deckh<gap/> Zue, das <lb/> der Gschmach<gap/> nit daruon Gehe, Gibe es <lb/> mit dinnen Kreittern<gap/> Auf die Tafel. <lb/> </p>
+        <p> Nimb daß Rindtfleisch, salze es, vnnd <lb/> seze<gap/> es Zue, lass woll sieden<gap/>, thue <lb/> Lorber blöter<gap/>.2. oder.3. heippl<gap/> Knob= <lb/> lach, Ganze Zinober<gap/>, Nägel<gap/>, Musgatblie<gap/> <lb/> vnnd ein <objectName ref="#rosmarin">Rosmarin</objectName>, Gelbe vnnd Weisse <lb/> rueben<gap/>, nit Zu vill, ein Klein Wönig <lb/> Saffran darein, lass ein Viertl stundt <lb/> darmit siedten<gap/>, Nimbe es von feür<gap/> <lb/> deckh es mit einer hafen<gap/> deckh<gap/> Zue, das <lb/> der Gschmach<gap/> nit daruon Gehe, Gibe es <lb/> mit dinnen Kreittern<gap/> Auf die Tafel. <lb/> </p>
             </div>
         </body>
     </text>

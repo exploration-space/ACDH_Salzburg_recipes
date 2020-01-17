@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb die dör dofeln<gap/>, wasch etliche mahl in haisen<gap/> <lb/> waser auß, hernach schöll<gap/> sie ab, ganz din<gap/>, vnd <lb/> schneite<gap/> sie ganz dinn<gap/>, thue hernach Putter<gap/> in ein <lb/> Rein<gap/>, ein zimbliches stückhl<gap/>, vnd thue die därdofellen<gap/> <lb/> darauf, schitte<gap/> ein glässl gueten Rodten <objectName ref="wein">Wein</objectName> <lb/> darauf, vnd laß also Khochen. <lb/> [ Anm. : Das „ dör “ bei „ dör dofeln “ wurde nachträglich eingefügt, es soll Dardoffel bedeuten. ] </p>
+        <p> Nimb die dör dofeln<gap/>, wasch etliche mahl in haisen<gap/> <lb/> waser auß, hernach schöll<gap/> sie ab, ganz din<gap/>, vnd <lb/> schneite<gap/> sie ganz dinn<gap/>, thue hernach Putter<gap/> in ein <lb/> Rein<gap/>, ein zimbliches stückhl<gap/>, vnd thue die därdofellen<gap/> <lb/> darauf, schitte<gap/> ein glässl gueten Rodten <objectName ref="#wein">Wein</objectName> <lb/> darauf, vnd laß also Khochen. <lb/> [ Anm. : Das „ dör “ bei „ dör dofeln “ wurde nachträglich eingefügt, es soll Dardoffel bedeuten. ] </p>
             </div>
         </body>
     </text>

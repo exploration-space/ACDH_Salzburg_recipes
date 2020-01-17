@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schneid <lb/> oder hacke die gebachne Sträublein in kleine kurtze Stücker <lb/> kochs in siedender <objectName ref="milch">Milch</objectName> mit <objectName ref="zucker">Zucker</objectName> /und wenig Zimmet <lb/> wer will <lb/> kan Pinioli, und kleine Corrinten darein mischen. </p>
+        <p> Schneid <lb/> oder hacke die gebachne Sträublein in kleine kurtze Stücker <lb/> kochs in siedender <objectName ref="#milch">Milch</objectName> mit <objectName ref="#zucker">Zucker</objectName> /und wenig Zimmet <lb/> wer will <lb/> kan Pinioli, und kleine Corrinten darein mischen. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Im Landt zu Vngern füllt man die Schweinen Därm eins theils mit geriebenem <objectName ref="brot">Brot</objectName> <lb/> das weiß ist <lb/> vnnd viel frischen Schweinenspeck darvnter <lb/> eins so viel als deß andern. Vnnd wenn man sie kocht <lb/> vnd auff dem Roßt abbreunt <lb/> seind sie trefflich gut. </p>
+        <p> Im Landt zu Vngern füllt man die Schweinen Därm eins theils mit geriebenem <objectName ref="#brot">Brot</objectName> <lb/> das weiß ist <lb/> vnnd viel frischen Schweinenspeck darvnter <lb/> eins so viel als deß andern. Vnnd wenn man sie kocht <lb/> vnd auff dem Roßt abbreunt <lb/> seind sie trefflich gut. </p>
             </div>
         </body>
     </text>

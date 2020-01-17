@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NIm ( m ) <objectName ref="feigen">Feigen</objectName> <lb/> vn ( d ) schneidt sie klein <lb/> thu kleine schwartze Rosein <lb/> die sauber außgewaschen seyn <lb/> darvnter <lb/> machs in ein Turten eyn <lb/> vnd thu ein wenig <objectName ref="butter">Butter</objectName> darüber <lb/> laß backen <lb/> es sey im <objectName ref="ofen">Ofen</objectName> oder in der Turtenpfannen. Vnd wenn du wilt ein Turten machen <lb/> so nim ( m ) Eyerdotter vnd <objectName ref="butter">Butter</objectName> <lb/> thu es vnter das <objectName ref="mehl">Mehl</objectName> <lb/> vnd mach ein <objectName ref="teig">Teig</objectName> darauß <lb/> treib jn dünn auß <lb/> vnnd schneidt jhn fein rundt <lb/> vnnd saltz jhn. Vnnd ein solchen <objectName ref="teig">Teig</objectName> kanstu zu allerley Turten brauchen. </p>
+        <p> NIm ( m ) <objectName ref="#feigen">Feigen</objectName> <lb/> vn ( d ) schneidt sie klein <lb/> thu kleine schwartze Rosein <lb/> die sauber außgewaschen seyn <lb/> darvnter <lb/> machs in ein Turten eyn <lb/> vnd thu ein wenig <objectName ref="#butter">Butter</objectName> darüber <lb/> laß backen <lb/> es sey im <objectName ref="#ofen">Ofen</objectName> oder in der Turtenpfannen. Vnd wenn du wilt ein Turten machen <lb/> so nim ( m ) Eyerdotter vnd <objectName ref="#butter">Butter</objectName> <lb/> thu es vnter das <objectName ref="#mehl">Mehl</objectName> <lb/> vnd mach ein <objectName ref="#teig">Teig</objectName> darauß <lb/> treib jn dünn auß <lb/> vnnd schneidt jhn fein rundt <lb/> vnnd saltz jhn. Vnnd ein solchen <objectName ref="#teig">Teig</objectName> kanstu zu allerley Turten brauchen. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Eyngemacht gelb <lb/> weiß <lb/> oder sein säuerlich mit Limonien <lb/> in <objectName ref="pfeffer">Pfeffer</objectName> mit seinen eygenen Schweiß. </p>
+        <p> Eyngemacht gelb <lb/> weiß <lb/> oder sein säuerlich mit Limonien <lb/> in <objectName ref="#pfeffer">Pfeffer</objectName> mit seinen eygenen Schweiß. </p>
             </div>
         </body>
     </text>

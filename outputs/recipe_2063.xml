@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Zu khleinen stükhlein hakhen, vnd ÿberbreinn, schön auß gewaschen, <lb/> gesalzen, gewürzt mit Imber, darzue Weinpörl oder Zwifl <lb/> khlein gehakht, vnd ein Wenig Puter oder <objectName ref="schmalz">schmalz</objectName>, darnach <lb/> Zuegedekht, laß auch 2. stund oder mehr bachen. <lb/> </p>
+        <p> Zu khleinen stükhlein hakhen, vnd ÿberbreinn, schön auß gewaschen, <lb/> gesalzen, gewürzt mit Imber, darzue Weinpörl oder Zwifl <lb/> khlein gehakht, vnd ein Wenig Puter oder <objectName ref="#schmalz">schmalz</objectName>, darnach <lb/> Zuegedekht, laß auch 2. stund oder mehr bachen. <lb/> </p>
             </div>
         </body>
     </text>

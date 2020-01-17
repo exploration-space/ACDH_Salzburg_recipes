@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Item nimm ein frisch Ey <lb/> das an den selbigen tage <lb/> so man das <objectName ref="bier">Bier</objectName> wil anstechen <lb/> gelegt ist worden <lb/> vnd laß es in das Faß <objectName ref="bier">Bier</objectName> <lb/> darnach nim ( m ) den <objectName ref="leim">leim</objectName> <lb/> vnd mach den spunt wol zu <lb/> vnd dieweil ein tropffen <objectName ref="bier">Bier</objectName> in dem faß ist <lb/> so wirt es nicht saur. </p>
+        <p> Item nimm ein frisch Ey <lb/> das an den selbigen tage <lb/> so man das <objectName ref="#bier">Bier</objectName> wil anstechen <lb/> gelegt ist worden <lb/> vnd laß es in das Faß <objectName ref="#bier">Bier</objectName> <lb/> darnach nim ( m ) den <objectName ref="#leim">leim</objectName> <lb/> vnd mach den spunt wol zu <lb/> vnd dieweil ein tropffen <objectName ref="#bier">Bier</objectName> in dem faß ist <lb/> so wirt es nicht saur. </p>
             </div>
         </body>
     </text>

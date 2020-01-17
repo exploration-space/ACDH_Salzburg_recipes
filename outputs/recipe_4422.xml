@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Die <objectName ref="leber">Leber</objectName> waschet und häutet <lb/> schneidet sie zu kleinen Plätzlein <lb/> streuet ein wenig <objectName ref="mehl">Mehl</objectName> darauf <lb/> röstets im Schmaltz <lb/> seihet dann ein wenig Schmaltz davon herab <lb/> giesset eine Fleischbrüh und etwas <objectName ref="essig">Essig</objectName> daran <lb/> würtzets mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Negelein und Saltz <lb/> lassets also mit einander aufsieden <lb/> doch nicht zu lang <lb/> daß die <objectName ref="leber">Leber</objectName> mild bleibet. </p>
+        <p> Die <objectName ref="#leber">Leber</objectName> waschet und häutet <lb/> schneidet sie zu kleinen Plätzlein <lb/> streuet ein wenig <objectName ref="#mehl">Mehl</objectName> darauf <lb/> röstets im Schmaltz <lb/> seihet dann ein wenig Schmaltz davon herab <lb/> giesset eine Fleischbrüh und etwas <objectName ref="#essig">Essig</objectName> daran <lb/> würtzets mit <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Negelein und Saltz <lb/> lassets also mit einander aufsieden <lb/> doch nicht zu lang <lb/> daß die <objectName ref="#leber">Leber</objectName> mild bleibet. </p>
             </div>
         </body>
     </text>

@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Kanst auch <objectName ref="wachtel">Wachteln</objectName> braten <lb/> mit sauren Limonien Safft darüber gedruckt <lb/> ist es gut vnd wolgeschmack. </p>
+        <p> Kanst auch <objectName ref="#wachtel">Wachteln</objectName> braten <lb/> mit sauren Limonien Safft darüber gedruckt <lb/> ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

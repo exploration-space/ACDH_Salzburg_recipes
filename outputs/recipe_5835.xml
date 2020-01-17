@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> AM Fleischtag=Tag <lb/> nimmt man an statt des Butters <lb/> gutes Marck <lb/> zerlassnen <objectName ref="speck">Speck</objectName> <lb/> saubere fette Brätlein=Brühe <lb/> oder andere gute <objectName ref="jus">Jus</objectName>, und macht damit das Eingerührte <lb/> Kremb <lb/> oder Schüssel=Speiß; oder nimm dergleichen fette Braten=Brühe in die <objectName ref="schuessel">Schüssel</objectName> <lb/> schlag die gantze Eyr darein <lb/> saltz und gewürtz; gib unten und oben <objectName ref="glut">Glut</objectName> <lb/> und trags auf. </p>
+        <p> AM Fleischtag=Tag <lb/> nimmt man an statt des Butters <lb/> gutes Marck <lb/> zerlassnen <objectName ref="#speck">Speck</objectName> <lb/> saubere fette Brätlein=Brühe <lb/> oder andere gute <objectName ref="#jus">Jus</objectName>, und macht damit das Eingerührte <lb/> Kremb <lb/> oder Schüssel=Speiß; oder nimm dergleichen fette Braten=Brühe in die <objectName ref="#schuessel">Schüssel</objectName> <lb/> schlag die gantze Eyr darein <lb/> saltz und gewürtz; gib unten und oben <objectName ref="#glut">Glut</objectName> <lb/> und trags auf. </p>
             </div>
         </body>
     </text>

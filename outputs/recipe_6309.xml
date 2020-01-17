@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Ist gut für die Hertzsucht <lb/> däuwung <lb/> Melancholey <lb/> zittern des Hertzens <lb/> reinigt dz <objectName ref="blut">Blut</objectName> <lb/> benimpt viel Fantasey <lb/> für Grindt vn Aussatz. Mach jn also : Thu drey Pfundt Borrago oder Burretsch in siben oder acht Pfundt <objectName ref="most">Most</objectName> <lb/> seudt es also ineinander <lb/> biß er lauter wirt <lb/> er stärcktet das Gesicht. </p>
+        <p> Ist gut für die Hertzsucht <lb/> däuwung <lb/> Melancholey <lb/> zittern des Hertzens <lb/> reinigt dz <objectName ref="#blut">Blut</objectName> <lb/> benimpt viel Fantasey <lb/> für Grindt vn Aussatz. Mach jn also : Thu drey Pfundt Borrago oder Burretsch in siben oder acht Pfundt <objectName ref="#most">Most</objectName> <lb/> seudt es also ineinander <lb/> biß er lauter wirt <lb/> er stärcktet das Gesicht. </p>
             </div>
         </body>
     </text>

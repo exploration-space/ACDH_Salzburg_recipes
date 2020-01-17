@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NIm Holderblüt <lb/> vnd brich sie ab von den Stengeln <lb/> vnd dörr sie auff einem saubern <objectName ref="tuch">Tuch</objectName> in dem Lufft <lb/> vnd nicht in der Sonnen <lb/> vnd henck sie an den Lufft <lb/> biß in den Herbst <lb/> daß sie nit schimlig werden <lb/> vnd thu süssen <objectName ref="most">Most</objectName> in ein Faß <lb/> vnd laß jn geren <lb/> vnd wenn er in dem Satz ist <lb/> so henck die Blume in das Faß <lb/> oder schüt sie darein <lb/> so wirt der <objectName ref="wein">Wein</objectName> wolschmackend <lb/> vnd gut zu trincken <lb/> als Maluasier vnd Muscateller. </p>
+        <p> NIm Holderblüt <lb/> vnd brich sie ab von den Stengeln <lb/> vnd dörr sie auff einem saubern <objectName ref="#tuch">Tuch</objectName> in dem Lufft <lb/> vnd nicht in der Sonnen <lb/> vnd henck sie an den Lufft <lb/> biß in den Herbst <lb/> daß sie nit schimlig werden <lb/> vnd thu süssen <objectName ref="#most">Most</objectName> in ein Faß <lb/> vnd laß jn geren <lb/> vnd wenn er in dem Satz ist <lb/> so henck die Blume in das Faß <lb/> oder schüt sie darein <lb/> so wirt der <objectName ref="#wein">Wein</objectName> wolschmackend <lb/> vnd gut zu trincken <lb/> als Maluasier vnd Muscateller. </p>
             </div>
         </body>
     </text>

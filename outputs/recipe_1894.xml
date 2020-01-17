@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein fierting mandl, schöll sie, stosß sie gar <lb/> khlain, darnach in daß stessen 2. oder 3. löffl <lb/> voll <objectName ref="rosenwasser">rosenwasser</objectName>, auch 3. oder 4. löfl voll gestossen <lb/> Zugger, rührs alls undereinander, alßdan mach <lb/> ein taiglein an, leg ein süsß <objectName ref="schmalz">Schmalz</objectName> ein Wenig <lb/> in ein Wenig <objectName ref="wasser">Wasser</objectName>, laß also einen Sud thuen, <lb/> nimb dan 1. oder 2. aÿr, auch ein schenes p ( robatum ). <lb/> </p>
+        <p> Nimb ein fierting mandl, schöll sie, stosß sie gar <lb/> khlain, darnach in daß stessen 2. oder 3. löffl <lb/> voll <objectName ref="#rosenwasser">rosenwasser</objectName>, auch 3. oder 4. löfl voll gestossen <lb/> Zugger, rührs alls undereinander, alßdan mach <lb/> ein taiglein an, leg ein süsß <objectName ref="#schmalz">Schmalz</objectName> ein Wenig <lb/> in ein Wenig <objectName ref="#wasser">Wasser</objectName>, laß also einen Sud thuen, <lb/> nimb dan 1. oder 2. aÿr, auch ein schenes p ( robatum ). <lb/> </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ZErquetsche und durchtreibe die Holderbeer <lb/> alsdann siede disen Safft mit <objectName ref="zucker">Zucker</objectName> <lb/> wenig <objectName ref="wein">Wein</objectName> und Zimmet <lb/> und ein paar Nägelein <lb/> schön dick <lb/> mache sie an mit wenig Semmel= Brosen und Lemoni= Schelffen <lb/> fülle sie in die Dorten <lb/> und bestreue es mit <objectName ref="zucker">Zucker</objectName>. </p>
+        <p> ZErquetsche und durchtreibe die Holderbeer <lb/> alsdann siede disen Safft mit <objectName ref="#zucker">Zucker</objectName> <lb/> wenig <objectName ref="#wein">Wein</objectName> und Zimmet <lb/> und ein paar Nägelein <lb/> schön dick <lb/> mache sie an mit wenig Semmel= Brosen und Lemoni= Schelffen <lb/> fülle sie in die Dorten <lb/> und bestreue es mit <objectName ref="#zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

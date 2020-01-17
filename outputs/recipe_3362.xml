@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIse Hünlein werden halbiert <lb/> und die Füßlein eingesteckt <lb/> oder gar geviertheilt <lb/> geklopfft <lb/> gesaltzen <lb/> und in Eßig gelegt <lb/> warm <lb/> oder kalter <lb/> wie erst oben beschrieben ist <lb/> oder auch nur eingesaltzner <lb/> sauber abgetrücknet <lb/> in abgeschlagenen Eyern <lb/> so mit wenig Meel <lb/> Semmel Bröslein <lb/> und klein= gehackten Petersil= Kräutlein vermischt worden <lb/> und ein wenig gesaltzen <lb/> umgekehrt <lb/> und in wohl heissen Schmaltz gebachen <lb/> mit gebachenen Eyern <lb/> und ausgerösten Salbey= Blättlein <lb/> oder gebachenen Holder= <objectName ref="strauben">Strauben</objectName> ( wann es an der Zeit ist. ) regaliert. </p>
+        <p> DIse Hünlein werden halbiert <lb/> und die Füßlein eingesteckt <lb/> oder gar geviertheilt <lb/> geklopfft <lb/> gesaltzen <lb/> und in Eßig gelegt <lb/> warm <lb/> oder kalter <lb/> wie erst oben beschrieben ist <lb/> oder auch nur eingesaltzner <lb/> sauber abgetrücknet <lb/> in abgeschlagenen Eyern <lb/> so mit wenig Meel <lb/> Semmel Bröslein <lb/> und klein= gehackten Petersil= Kräutlein vermischt worden <lb/> und ein wenig gesaltzen <lb/> umgekehrt <lb/> und in wohl heissen Schmaltz gebachen <lb/> mit gebachenen Eyern <lb/> und ausgerösten Salbey= Blättlein <lb/> oder gebachenen Holder= <objectName ref="#strauben">Strauben</objectName> ( wann es an der Zeit ist. ) regaliert. </p>
             </div>
         </body>
     </text>

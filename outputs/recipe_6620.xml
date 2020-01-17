@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wenn du wilt ein Schaiden kochen <lb/> so mustu jhn brüen in heissem <objectName ref="wasser">Wasser</objectName> <lb/> schab jn fein sauber ab <lb/> so wirt er weiß. </p>
+        <p> Wenn du wilt ein Schaiden kochen <lb/> so mustu jhn brüen in heissem <objectName ref="#wasser">Wasser</objectName> <lb/> schab jn fein sauber ab <lb/> so wirt er weiß. </p>
             </div>
         </body>
     </text>

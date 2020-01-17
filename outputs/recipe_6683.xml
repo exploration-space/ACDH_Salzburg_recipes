@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Gebratener <objectName ref="hecht">Hecht</objectName> zu der Brüh <lb/> Ein Kapernbrüh darvnter gemacht mit einer Erbsbrüh <lb/> <objectName ref="essig">Essig</objectName> <lb/> vnnd mit frischer <objectName ref="butter">Butter</objectName> <lb/> die nicht gesaltzen ist <lb/> ein wenig <objectName ref="ingwer">Ingwer</objectName> vnnd gestossenen <objectName ref="pfeffer">Pfeffer</objectName> darein gethan <lb/> laß darmit auffsieden <lb/> so geuß es vber oder vnter den gebraten <objectName ref="hecht">Hecht</objectName> <lb/> wie du es haben wilt <lb/> so ist es gut vnd wolgeschmack. </p>
+        <p> Gebratener <objectName ref="#hecht">Hecht</objectName> zu der Brüh <lb/> Ein Kapernbrüh darvnter gemacht mit einer Erbsbrüh <lb/> <objectName ref="#essig">Essig</objectName> <lb/> vnnd mit frischer <objectName ref="#butter">Butter</objectName> <lb/> die nicht gesaltzen ist <lb/> ein wenig <objectName ref="#ingwer">Ingwer</objectName> vnnd gestossenen <objectName ref="#pfeffer">Pfeffer</objectName> darein gethan <lb/> laß darmit auffsieden <lb/> so geuß es vber oder vnter den gebraten <objectName ref="#hecht">Hecht</objectName> <lb/> wie du es haben wilt <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

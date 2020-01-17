@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Gesotten Rencken eyngemacht mit Pettersilge Wurtzel vn ( n ) Erbsbrüh <lb/> mit <objectName ref="butter">Butter</objectName> vn ( n ) Muscatenblüt. Nim ( m ) auch ein wenig gestossen <objectName ref="ingwer">Ingwer</objectName> dazu <lb/> vnd laß darmit sieden <lb/> daß ein kurtze Brüh gewinnet <lb/> so wirdt es gut vnnd wolgeschmack. </p>
+        <p> Gesotten Rencken eyngemacht mit Pettersilge Wurtzel vn ( n ) Erbsbrüh <lb/> mit <objectName ref="#butter">Butter</objectName> vn ( n ) Muscatenblüt. Nim ( m ) auch ein wenig gestossen <objectName ref="#ingwer">Ingwer</objectName> dazu <lb/> vnd laß darmit sieden <lb/> daß ein kurtze Brüh gewinnet <lb/> so wirdt es gut vnnd wolgeschmack. </p>
             </div>
         </body>
     </text>

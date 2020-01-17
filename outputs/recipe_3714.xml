@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn das Maul gewöhnlich wohl weich gesotten <lb/> gesäubert <lb/> zu beliebigen Stücken geschnitten und gebutzt <lb/> gibs in einer süssen <lb/> gelben Mandel=und Aepffel=Brühe <lb/> mit wenig <objectName ref="wein">Wein</objectName> <lb/> Lemoni <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> und Wein=Beerlein angemacht. </p>
+        <p> WAnn das Maul gewöhnlich wohl weich gesotten <lb/> gesäubert <lb/> zu beliebigen Stücken geschnitten und gebutzt <lb/> gibs in einer süssen <lb/> gelben Mandel=und Aepffel=Brühe <lb/> mit wenig <objectName ref="#wein">Wein</objectName> <lb/> Lemoni <lb/> <objectName ref="#zucker">Zucker</objectName> <lb/> und Wein=Beerlein angemacht. </p>
             </div>
         </body>
     </text>

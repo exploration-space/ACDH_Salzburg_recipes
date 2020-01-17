@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb abgezogne Mandl, reib oder stosß, doch nit Zu khlain, geuß ein <lb/> wenig <objectName ref="rosenwasser">Rosenwasser</objectName> Zue, das nit öelig Werden, machs mit aÿrn an, <lb/> vnd stosß ein Zukher, formiers Wie ein Zimpfltaig, vnd in süssen <lb/> <objectName ref="schmalz">Schmalz</objectName> bachen, das fein liechtbraun Werden, man mags auch Woll in <lb/> der dorten pfan bachen. <lb/><lb/> ( 62r ) </p>
+        <p> Nimb abgezogne Mandl, reib oder stosß, doch nit Zu khlain, geuß ein <lb/> wenig <objectName ref="#rosenwasser">Rosenwasser</objectName> Zue, das nit öelig Werden, machs mit aÿrn an, <lb/> vnd stosß ein Zukher, formiers Wie ein Zimpfltaig, vnd in süssen <lb/> <objectName ref="#schmalz">Schmalz</objectName> bachen, das fein liechtbraun Werden, man mags auch Woll in <lb/> der dorten pfan bachen. <lb/><lb/> ( 62r ) </p>
             </div>
         </body>
     </text>

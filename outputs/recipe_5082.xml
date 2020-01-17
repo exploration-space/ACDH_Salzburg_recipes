@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIeser <objectName ref="fisch">Fisch</objectName> ist geschmack <lb/> aber schleimig von Natur <lb/> und mit einer dicken Haut versehen. Den Schlein aufgemacht <lb/> die Gall allein hinweg gethan <lb/> und sammt dem Eingeweyd oder Bäuschlein gesotten <lb/> wie den Hechten <lb/> auch vor dem Einlegen in den siedigen Fischsud mit Wein= Eßig übergossen <lb/> und mit diesem in Sud gethan <lb/> sauber abgefäumet <lb/> und wann er genug gesotten <lb/> mit wenig frischem <objectName ref="wasser">Wasser</objectName> abgeschröckt <lb/> vom <objectName ref="feuer">Feuer</objectName> gehoben; beym Anrichten aber mit gutem Wein= Eßig besprengt <lb/> und mit Petersil= Kräutlein bestreut <lb/> seynd schön und gut. </p>
+        <p> DIeser <objectName ref="#fisch">Fisch</objectName> ist geschmack <lb/> aber schleimig von Natur <lb/> und mit einer dicken Haut versehen. Den Schlein aufgemacht <lb/> die Gall allein hinweg gethan <lb/> und sammt dem Eingeweyd oder Bäuschlein gesotten <lb/> wie den Hechten <lb/> auch vor dem Einlegen in den siedigen Fischsud mit Wein= Eßig übergossen <lb/> und mit diesem in Sud gethan <lb/> sauber abgefäumet <lb/> und wann er genug gesotten <lb/> mit wenig frischem <objectName ref="#wasser">Wasser</objectName> abgeschröckt <lb/> vom <objectName ref="#feuer">Feuer</objectName> gehoben; beym Anrichten aber mit gutem Wein= Eßig besprengt <lb/> und mit Petersil= Kräutlein bestreut <lb/> seynd schön und gut. </p>
             </div>
         </body>
     </text>

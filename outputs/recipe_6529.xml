@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIse werden in einer Zwibel <lb/> oder Sardellen=brühe <lb/> auch versottener in der Fricasse, gebachner in Eyern und im Schlaffrock gegeben <lb/> und seynd mit <lb/> oder ohne <objectName ref="papier">Papier</objectName> zu braten <lb/> weilen aber dise Zurichtungen bey denen Kalbs= und Schaafs=Füssen zu End des 2. und 3. Capitels zu finden <lb/> wird der geehrte Leser <lb/> auch dahin gewiesen. </p>
+        <p> DIse werden in einer Zwibel <lb/> oder Sardellen=brühe <lb/> auch versottener in der Fricasse, gebachner in Eyern und im Schlaffrock gegeben <lb/> und seynd mit <lb/> oder ohne <objectName ref="#papier">Papier</objectName> zu braten <lb/> weilen aber dise Zurichtungen bey denen Kalbs= und Schaafs=Füssen zu End des 2. und 3. Capitels zu finden <lb/> wird der geehrte Leser <lb/> auch dahin gewiesen. </p>
             </div>
         </body>
     </text>

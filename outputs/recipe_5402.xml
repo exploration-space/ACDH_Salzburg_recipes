@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ZErklopffet das Weisse von Eyern <lb/> giesst warme <objectName ref="milch">Milch</objectName> daran <lb/> zuckerts wohl <lb/> rühret schönes <objectName ref="mehl">Mehl</objectName> darein; brennet auch einen <objectName ref="loeffel">Löffel</objectName> voll <objectName ref="mehl">Mehl</objectName> im Schmaltz <lb/> rühret selbiges ebenfalls darunter <lb/> tuncket die Weixeln <lb/> wie gedacht <lb/> darein <lb/> und bachets wohl heiß heraus; der <objectName ref="teig">Teig</objectName> aber muß immerzu wohl heiß bleiben. </p>
+        <p> ZErklopffet das Weisse von Eyern <lb/> giesst warme <objectName ref="#milch">Milch</objectName> daran <lb/> zuckerts wohl <lb/> rühret schönes <objectName ref="#mehl">Mehl</objectName> darein; brennet auch einen <objectName ref="#loeffel">Löffel</objectName> voll <objectName ref="#mehl">Mehl</objectName> im Schmaltz <lb/> rühret selbiges ebenfalls darunter <lb/> tuncket die Weixeln <lb/> wie gedacht <lb/> darein <lb/> und bachets wohl heiß heraus; der <objectName ref="#teig">Teig</objectName> aber muß immerzu wohl heiß bleiben. </p>
             </div>
         </body>
     </text>

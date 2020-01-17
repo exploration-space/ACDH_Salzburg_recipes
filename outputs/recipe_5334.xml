@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIse werden in allweg zugericht <lb/> wie bey denen Kalb= Schaaf= und Lamm= Füssen zu ersehen; aber sie seynd im Geschmack die besten aus allen Füssen; also dienen sie gesottner zum Bachen aus Taig <lb/> oder Eyern <lb/> zur Fricasse, in gelber Zwibel= <objectName ref="bruehe">Brühe</objectName> <lb/> in der Kälber= Sultz <lb/> in Ram <lb/> in Senff <lb/> in braunen Zwibel <lb/> in Lemoni <lb/> vor Krancke gebachner in Meel <lb/> und in einer süssen Wein= Beerlein und Wein= <objectName ref="bruehe">Brühe</objectName> <lb/> mit eingebrennten Semmel= Brosen <lb/> auch in unterschiedlich gemischte Speisen <lb/> mit andern Sachen zu vermischen. </p>
+        <p> DIse werden in allweg zugericht <lb/> wie bey denen Kalb= Schaaf= und Lamm= Füssen zu ersehen; aber sie seynd im Geschmack die besten aus allen Füssen; also dienen sie gesottner zum Bachen aus Taig <lb/> oder Eyern <lb/> zur Fricasse, in gelber Zwibel= <objectName ref="#bruehe">Brühe</objectName> <lb/> in der Kälber= Sultz <lb/> in Ram <lb/> in Senff <lb/> in braunen Zwibel <lb/> in Lemoni <lb/> vor Krancke gebachner in Meel <lb/> und in einer süssen Wein= Beerlein und Wein= <objectName ref="#bruehe">Brühe</objectName> <lb/> mit eingebrennten Semmel= Brosen <lb/> auch in unterschiedlich gemischte Speisen <lb/> mit andern Sachen zu vermischen. </p>
             </div>
         </body>
     </text>

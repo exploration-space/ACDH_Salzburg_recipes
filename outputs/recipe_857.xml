@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wann sie trucken seynd <lb/> abgebrockt <lb/> mit geläutertem <objectName ref="honig">Honig</objectName> <lb/> gantzen Zimmet und Näglein <lb/> in kleine eychene <objectName ref="geschirr">Geschirr</objectName> <lb/> oder Fäßlein <lb/> wol verschlagen und eingemacht <lb/> oder auch mit sammt den gebutzten Stenglen <lb/> seynd köstlich vor Krancke <lb/> und lassen sich behalten <lb/> biß wieder die Frucht zur Blühe kommt. </p>
+        <p> Wann sie trucken seynd <lb/> abgebrockt <lb/> mit geläutertem <objectName ref="#honig">Honig</objectName> <lb/> gantzen Zimmet und Näglein <lb/> in kleine eychene <objectName ref="#geschirr">Geschirr</objectName> <lb/> oder Fäßlein <lb/> wol verschlagen und eingemacht <lb/> oder auch mit sammt den gebutzten Stenglen <lb/> seynd köstlich vor Krancke <lb/> und lassen sich behalten <lb/> biß wieder die Frucht zur Blühe kommt. </p>
             </div>
         </body>
     </text>

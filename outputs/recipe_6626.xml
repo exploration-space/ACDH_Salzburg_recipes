@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ein stück Salm <lb/> der gesotten ist <lb/> gerieben Weck <lb/> vnd grüne wolschmeckende <objectName ref="kraeuter">Kräuter</objectName> <lb/> hack es klein durcheinander <lb/> mach es ab mit gestossenem <objectName ref="ingwer">Ingwer</objectName> <lb/> vnnd versaltz es nicht. Vnnd wenn du es hast angemacht <lb/> so nim <objectName ref="butter">Butter</objectName> in ein Turtenpfannen <lb/> mach sie heiß <lb/> nim ein höltzern <objectName ref="loeffel">Löffel</objectName> <lb/> zeuchs darmit eyn <lb/> vnnd mach runde Turtelet darauß in der Pfannen <lb/> die fein dünn seind <lb/> kehrs mit einem höltzern Scheuffelein vmb <lb/> backs fein auß <lb/> vnd gibs trucken also warm auff ein <objectName ref="tisch">Tisch</objectName>. So nennt man es Turtelet von einem Salm. </p>
+        <p> Nim ein stück Salm <lb/> der gesotten ist <lb/> gerieben Weck <lb/> vnd grüne wolschmeckende <objectName ref="#kraeuter">Kräuter</objectName> <lb/> hack es klein durcheinander <lb/> mach es ab mit gestossenem <objectName ref="#ingwer">Ingwer</objectName> <lb/> vnnd versaltz es nicht. Vnnd wenn du es hast angemacht <lb/> so nim <objectName ref="#butter">Butter</objectName> in ein Turtenpfannen <lb/> mach sie heiß <lb/> nim ein höltzern <objectName ref="#loeffel">Löffel</objectName> <lb/> zeuchs darmit eyn <lb/> vnnd mach runde Turtelet darauß in der Pfannen <lb/> die fein dünn seind <lb/> kehrs mit einem höltzern Scheuffelein vmb <lb/> backs fein auß <lb/> vnd gibs trucken also warm auff ein <objectName ref="#tisch">Tisch</objectName>. So nennt man es Turtelet von einem Salm. </p>
             </div>
         </body>
     </text>

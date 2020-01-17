@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BRaunbeer <lb/> so schön und wol zeitig <lb/> mit <objectName ref="zucker">Zucker</objectName> wol gemacht <lb/> seynd auch gut. </p>
+        <p> BRaunbeer <lb/> so schön und wol zeitig <lb/> mit <objectName ref="#zucker">Zucker</objectName> wol gemacht <lb/> seynd auch gut. </p>
             </div>
         </body>
     </text>

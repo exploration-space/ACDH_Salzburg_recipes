@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Sembl Preßl<gap/> Rests<gap/> in <objectName ref="butter">butter</objectName>, <lb/> thue halb <objectName ref="wein">Wein</objectName>, wie auch Halb <objectName ref="wasser">Wasser</objectName> <lb/> in ein trey fiessletes<gap/> Reindl<gap/>, lass <lb/> Dan Die Preßl vnnd <objectName ref="wein">wein</objectName> vnderein <lb/> ander siedten<gap/> Gilbs<gap/> vnnd thue Mus <lb/><lb/> ( ve 149 ) gatblie<gap/> darzur, Zuckhers, vnd <lb/> thue Zimmet stup<gap/> Darein, Richts <lb/> an auf ein Schisßl<gap/>, olso ist es <lb/> Recht. <lb/> </p>
+        <p> Nimb Sembl Preßl<gap/> Rests<gap/> in <objectName ref="#butter">butter</objectName>, <lb/> thue halb <objectName ref="#wein">Wein</objectName>, wie auch Halb <objectName ref="#wasser">Wasser</objectName> <lb/> in ein trey fiessletes<gap/> Reindl<gap/>, lass <lb/> Dan Die Preßl vnnd <objectName ref="#wein">wein</objectName> vnderein <lb/> ander siedten<gap/> Gilbs<gap/> vnnd thue Mus <lb/><lb/> ( ve 149 ) gatblie<gap/> darzur, Zuckhers, vnd <lb/> thue Zimmet stup<gap/> Darein, Richts <lb/> an auf ein Schisßl<gap/>, olso ist es <lb/> Recht. <lb/> </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SIe werden auch gewässert <lb/> getrücknet <lb/> und mit Oel <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> Gewürtz <lb/> und weniger Erbes= <objectName ref="bruehe">Brühe</objectName> kurtz gedämpfft. </p>
+        <p> SIe werden auch gewässert <lb/> getrücknet <lb/> und mit Oel <lb/> <objectName ref="#knoblauch">Knoblauch</objectName> <lb/> Gewürtz <lb/> und weniger Erbes= <objectName ref="#bruehe">Brühe</objectName> kurtz gedämpfft. </p>
             </div>
         </body>
     </text>

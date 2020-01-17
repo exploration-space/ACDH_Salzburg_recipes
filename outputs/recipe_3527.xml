@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Krebs= Schweifflein <lb/> mit <objectName ref="butter">Butter</objectName> <lb/> Saltz und Gewürtz <lb/> in frische Austern= Schaalen eingericht <lb/> seynd gut <lb/> mit gehackten wenigen <objectName ref="sardellen">Sardellen</objectName> noch besser. </p>
+        <p> DIe Krebs= Schweifflein <lb/> mit <objectName ref="#butter">Butter</objectName> <lb/> Saltz und Gewürtz <lb/> in frische Austern= Schaalen eingericht <lb/> seynd gut <lb/> mit gehackten wenigen <objectName ref="#sardellen">Sardellen</objectName> noch besser. </p>
             </div>
         </body>
     </text>

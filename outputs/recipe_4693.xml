@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WÄssert und waschet den Niernbraten <lb/> saltzet ihn ein <lb/> last selbigen eine Stund oder länger im Saltz ligen <lb/> stecket ihn also an den <objectName ref="spiess">Spieß</objectName> <lb/> daß das dickeste von dem <objectName ref="nieren">Nieren</objectName> oben hinauf komme; betreifft ihn mit Schmaltz <lb/> oder aber bedupfft denselben mit <objectName ref="butter">Butter</objectName> <lb/> giesst ein wenig <objectName ref="wasser">Wasser</objectName> in die Bratpfannen <lb/> und last ihn also allgemach drey Stunden lang braten <lb/> nach dem er nemlich groß oder klein ist. </p>
+        <p> WÄssert und waschet den Niernbraten <lb/> saltzet ihn ein <lb/> last selbigen eine Stund oder länger im Saltz ligen <lb/> stecket ihn also an den <objectName ref="#spiess">Spieß</objectName> <lb/> daß das dickeste von dem <objectName ref="#nieren">Nieren</objectName> oben hinauf komme; betreifft ihn mit Schmaltz <lb/> oder aber bedupfft denselben mit <objectName ref="#butter">Butter</objectName> <lb/> giesst ein wenig <objectName ref="#wasser">Wasser</objectName> in die Bratpfannen <lb/> und last ihn also allgemach drey Stunden lang braten <lb/> nach dem er nemlich groß oder klein ist. </p>
             </div>
         </body>
     </text>

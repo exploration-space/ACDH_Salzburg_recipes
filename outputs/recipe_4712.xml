@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BEreitet und spicket die Nierlein <lb/> wie vor gemeldet <lb/> saltzets <lb/> würtzet sie aber nicht ein <lb/> steckets an <lb/> betreiffets mit Schmaltz <lb/> welches nicht gar zu heiß seyn darff <lb/> übergiessets offt damit <lb/> last sie braten; mischet indessen Saltz und <objectName ref="pfeffer">Pfeffer</objectName> unter einander <lb/> und wann die Nierlein halb abgebraten <lb/> so überstreuet sie ein wenig damit <lb/> absonderlich wo die Schnittlein hinein geschnitten sind : wann sie nun fast fertig <lb/> bestreuet sie nochmal <lb/> aber mit trocken geriebenen Brod <lb/> betreifft es mit <objectName ref="butter">Butter</objectName> <lb/> bratets nach diesem noch ein wenig herum <lb/> und legets in eine <objectName ref="schuessel">Schüssel</objectName>. </p>
+        <p> BEreitet und spicket die Nierlein <lb/> wie vor gemeldet <lb/> saltzets <lb/> würtzet sie aber nicht ein <lb/> steckets an <lb/> betreiffets mit Schmaltz <lb/> welches nicht gar zu heiß seyn darff <lb/> übergiessets offt damit <lb/> last sie braten; mischet indessen Saltz und <objectName ref="#pfeffer">Pfeffer</objectName> unter einander <lb/> und wann die Nierlein halb abgebraten <lb/> so überstreuet sie ein wenig damit <lb/> absonderlich wo die Schnittlein hinein geschnitten sind : wann sie nun fast fertig <lb/> bestreuet sie nochmal <lb/> aber mit trocken geriebenen Brod <lb/> betreifft es mit <objectName ref="#butter">Butter</objectName> <lb/> bratets nach diesem noch ein wenig herum <lb/> und legets in eine <objectName ref="#schuessel">Schüssel</objectName>. </p>
             </div>
         </body>
     </text>

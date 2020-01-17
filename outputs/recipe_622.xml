@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Diese werden auch wie von den <objectName ref="ochsenzunge">Ochsenzungen</objectName> Blümlin gesagt ist <lb/> mit <objectName ref="zucker">Zucker</objectName> eingemacht <lb/> zu einer Conserua <lb/> durch welcher stetrigen gebrauch mögen die Schwachen trawrigen Menschen jres leids ver= gessen <lb/> stercket vnd krefftiget das Hertz <lb/> mag zu allen Gebrechen <lb/> gleich den <objectName ref="ochsenzunge">Ochsenzungen</objectName> <lb/> nützlich ge= braucht werden. </p>
+        <p> Diese werden auch wie von den <objectName ref="#ochsenzunge">Ochsenzungen</objectName> Blümlin gesagt ist <lb/> mit <objectName ref="#zucker">Zucker</objectName> eingemacht <lb/> zu einer Conserua <lb/> durch welcher stetrigen gebrauch mögen die Schwachen trawrigen Menschen jres leids ver= gessen <lb/> stercket vnd krefftiget das Hertz <lb/> mag zu allen Gebrechen <lb/> gleich den <objectName ref="#ochsenzunge">Ochsenzungen</objectName> <lb/> nützlich ge= braucht werden. </p>
             </div>
         </body>
     </text>

@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ALles dises <lb/> wie es soll und muß zugericht werden <lb/> ist bey dem <objectName ref="kalb">Kalb</objectName> ausführlich und ordentlich beschrieben <lb/> nur daß das Schwein= <objectName ref="fleisch">Fleisch</objectName> stärcker muß gesaltzen und gewürtzt werden <lb/> wegen seiner Süsse. </p>
+        <p> ALles dises <lb/> wie es soll und muß zugericht werden <lb/> ist bey dem <objectName ref="#kalb">Kalb</objectName> ausführlich und ordentlich beschrieben <lb/> nur daß das Schwein= <objectName ref="#fleisch">Fleisch</objectName> stärcker muß gesaltzen und gewürtzt werden <lb/> wegen seiner Süsse. </p>
             </div>
         </body>
     </text>

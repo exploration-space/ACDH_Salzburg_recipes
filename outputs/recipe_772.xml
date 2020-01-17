@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Diese seynd zwar auch erstbeschriebner massen zu kochen <lb/> aber nicht mehrer <objectName ref="zucker">Zucker</objectName>. NB. Ammerellen in Taig gedunckter <lb/> aus Schmaltz gebachen <lb/> seynd in dem 5. Capitel in diesem Buch N°. 46. Zu finden <lb/> im 96. Blat. </p>
+        <p> Diese seynd zwar auch erstbeschriebner massen zu kochen <lb/> aber nicht mehrer <objectName ref="#zucker">Zucker</objectName>. NB. Ammerellen in Taig gedunckter <lb/> aus Schmaltz gebachen <lb/> seynd in dem 5. Capitel in diesem Buch N°. 46. Zu finden <lb/> im 96. Blat. </p>
             </div>
         </body>
     </text>

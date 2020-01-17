@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Hattele vom wilden Schwein zu braten <lb/> eyndämpffen oder eynmachen in eine <objectName ref="pastete">Pasteten</objectName>. </p>
+        <p> Hattele vom wilden Schwein zu braten <lb/> eyndämpffen oder eynmachen in eine <objectName ref="#pastete">Pasteten</objectName>. </p>
             </div>
         </body>
     </text>

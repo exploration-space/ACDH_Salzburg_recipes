@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) ein Ganß zum fricusiern <lb/> seudt sie am ersten gar an die statt <lb/> vnd rößt sie darnach im Schmaltz <lb/> vnnd wenn du sie gerößt hast <lb/> so seig die <objectName ref="butter">Butter</objectName> herab <lb/> thu Brüh vnnd ein wenig <objectName ref="essig">Essig</objectName> darein <lb/> machs ab mit Gewürtz <lb/> vnd laß widerumb sieden <lb/> oder machs mit Agrastbeer gelb oder weiß <lb/> so wirt es auch wolgeschmack. </p>
+        <p> Nim ( m ) ein Ganß zum fricusiern <lb/> seudt sie am ersten gar an die statt <lb/> vnd rößt sie darnach im Schmaltz <lb/> vnnd wenn du sie gerößt hast <lb/> so seig die <objectName ref="#butter">Butter</objectName> herab <lb/> thu Brüh vnnd ein wenig <objectName ref="#essig">Essig</objectName> darein <lb/> machs ab mit Gewürtz <lb/> vnd laß widerumb sieden <lb/> oder machs mit Agrastbeer gelb oder weiß <lb/> so wirt es auch wolgeschmack. </p>
             </div>
         </body>
     </text>

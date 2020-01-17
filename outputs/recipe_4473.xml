@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIeses Brät <lb/> oder <objectName ref="gehaeck">Gehäck</objectName> macht man auch mit Eyern <lb/> oder dergleichen Dotter an <lb/> und macht Finger= lange Strützlein daraus <lb/> bestreiche eine <objectName ref="schuessel">Schüssel</objectName> mit gutem <objectName ref="butter">Butter</objectName> <lb/> lege die Strützlein ordentlich darein; gieß siedigen Ram daran <lb/> und laß in der <objectName ref="schuessel">Schüssel</objectName> zugedeckter aufsieden <lb/> so seynd sie gut und wohlgeschmack; wo man keinen Ram hat <lb/> kan solches mit <objectName ref="milch">Milch</objectName> <lb/> oder etwas gelben <objectName ref="fleischbruehe">Fleischbrühe</objectName> geschehen; Etliche färbens mit Krebs= <objectName ref="butter">Butter</objectName>. </p>
+        <p> DIeses Brät <lb/> oder <objectName ref="#gehaeck">Gehäck</objectName> macht man auch mit Eyern <lb/> oder dergleichen Dotter an <lb/> und macht Finger= lange Strützlein daraus <lb/> bestreiche eine <objectName ref="#schuessel">Schüssel</objectName> mit gutem <objectName ref="#butter">Butter</objectName> <lb/> lege die Strützlein ordentlich darein; gieß siedigen Ram daran <lb/> und laß in der <objectName ref="#schuessel">Schüssel</objectName> zugedeckter aufsieden <lb/> so seynd sie gut und wohlgeschmack; wo man keinen Ram hat <lb/> kan solches mit <objectName ref="#milch">Milch</objectName> <lb/> oder etwas gelben <objectName ref="#fleischbruehe">Fleischbrühe</objectName> geschehen; Etliche färbens mit Krebs= <objectName ref="#butter">Butter</objectName>. </p>
             </div>
         </body>
     </text>

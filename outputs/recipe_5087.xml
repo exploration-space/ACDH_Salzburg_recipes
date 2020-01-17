@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr Schlein wird blau <lb/> oder heiß abgesotten <lb/> geschelt <lb/> oder auch mit seiner blauen Haut in die <objectName ref="schuessel">Schüssel</objectName> angericht <lb/> mit einem weissen Uberguß <lb/> oder abgegossenen Butter= <objectName ref="bruehe">Brühe</objectName> <lb/> vor dem Anrichten mit wenig Senff <lb/> oder Mostart gemischt und übergossen <lb/> auch regalirter und wol warmer zur Tafel gegeben. </p>
+        <p> DEr Schlein wird blau <lb/> oder heiß abgesotten <lb/> geschelt <lb/> oder auch mit seiner blauen Haut in die <objectName ref="#schuessel">Schüssel</objectName> angericht <lb/> mit einem weissen Uberguß <lb/> oder abgegossenen Butter= <objectName ref="#bruehe">Brühe</objectName> <lb/> vor dem Anrichten mit wenig Senff <lb/> oder Mostart gemischt und übergossen <lb/> auch regalirter und wol warmer zur Tafel gegeben. </p>
             </div>
         </body>
     </text>

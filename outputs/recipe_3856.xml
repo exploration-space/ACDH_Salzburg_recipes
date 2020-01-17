@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIse können mit einer guten gelben Capry= <objectName ref="bruehe">Brühe</objectName> zugericht werden; wie schon bey den Waller <lb/> Hechten <lb/> oder Rhein= Salm <lb/> etc. gehört worden. </p>
+        <p> DIse können mit einer guten gelben Capry= <objectName ref="#bruehe">Brühe</objectName> zugericht werden; wie schon bey den Waller <lb/> Hechten <lb/> oder Rhein= Salm <lb/> etc. gehört worden. </p>
             </div>
         </body>
     </text>

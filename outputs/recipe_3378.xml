@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAche die Weißfische am Bauch auf <lb/> nimm die Gall samt dem Eingeweid heraus <lb/> und siede sie dann im <objectName ref="essig">Essig</objectName> mit Saltz ab; lege alsdann die <objectName ref="fisch">Fisch</objectName> in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> schneide etliche <objectName ref="zwiebel">Zwiebeln</objectName> klein= und würfflicht <lb/> rösts im Schmaltz <lb/> und brenne sie darüber : laß ferner einen mit Fleischbrüh vermischten <objectName ref="essig">Essig</objectName> siedend werden <lb/> gieß ihn in die <objectName ref="schuessel">Schüssel</objectName> an die Fische <lb/> und streue zuletzt einen Ingber darauf. </p>
+        <p> MAche die Weißfische am Bauch auf <lb/> nimm die Gall samt dem Eingeweid heraus <lb/> und siede sie dann im <objectName ref="#essig">Essig</objectName> mit Saltz ab; lege alsdann die <objectName ref="#fisch">Fisch</objectName> in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> schneide etliche <objectName ref="#zwiebel">Zwiebeln</objectName> klein= und würfflicht <lb/> rösts im Schmaltz <lb/> und brenne sie darüber : laß ferner einen mit Fleischbrüh vermischten <objectName ref="#essig">Essig</objectName> siedend werden <lb/> gieß ihn in die <objectName ref="#schuessel">Schüssel</objectName> an die Fische <lb/> und streue zuletzt einen Ingber darauf. </p>
             </div>
         </body>
     </text>

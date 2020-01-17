@@ -170,7 +170,7 @@ Willst du Mandelmus machen, dann nimm Mandeln, Rosinen und guten Wein, dann wird
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WIldu machn̄ Mandel chern̄ muͤss So nÿm̄ mandel dar czwͤ Weinper vn̄ guͤtn̄ <objectName ref="wein">wein</objectName> So wirt daz gemuͤss seinn ( ! ) vn̄ czucckers genuͤg vnd salcz es sein̄ gefueg etc. </p>
+        <p> WIldu machn̄ Mandel chern̄ muͤss So nÿm̄ mandel dar czwͤ Weinper vn̄ guͤtn̄ <objectName ref="#wein">wein</objectName> So wirt daz gemuͤss seinn ( ! ) vn̄ czucckers genuͤg vnd salcz es sein̄ gefueg etc. </p>
             </div>
         </body>
     </text>

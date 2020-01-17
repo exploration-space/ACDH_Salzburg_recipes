@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Die mueß man noch diner anmachen, schlag den taig auf ein täller, <lb/> schneids mit einem <objectName ref="messer">messer</objectName> ab in das <objectName ref="schmalz">schmalz</objectName>, bachs khiel, so sein sie beraith. <lb/> </p>
+        <p> Die mueß man noch diner anmachen, schlag den taig auf ein täller, <lb/> schneids mit einem <objectName ref="#messer">messer</objectName> ab in das <objectName ref="#schmalz">schmalz</objectName>, bachs khiel, so sein sie beraith. <lb/> </p>
             </div>
         </body>
     </text>

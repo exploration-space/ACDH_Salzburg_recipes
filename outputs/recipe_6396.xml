@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Holunder <lb/> es sey dürr oder grün <lb/> sonderlich aber die Blüt <lb/> thu sie in eine <objectName ref="milch">Milch</objectName> <lb/> vnd laß damit auffsieden <lb/> seig die <objectName ref="milch">Milch</objectName> durch ein Härin <objectName ref="tuch">Tuch</objectName> <lb/> thu die Holderblüt hinweg <lb/> rür in die <objectName ref="milch">Milch</objectName> eyngebrennt <objectName ref="mehl">Mehl</objectName> <lb/> wenns auffgesotten ist <lb/> so saltz es ab <lb/> vnd richt es an <lb/> wirff <objectName ref="brot">Brot</objectName> darüber <lb/> ( daß ) klein geschnitten <lb/> besträw es mit weissem <objectName ref="zucker">Zucker</objectName> <lb/> so wirt es gut vnnd wolgeschmack <lb/> schmeckt lieblich nach der Holderblüt. </p>
+        <p> Nim ( m ) Holunder <lb/> es sey dürr oder grün <lb/> sonderlich aber die Blüt <lb/> thu sie in eine <objectName ref="#milch">Milch</objectName> <lb/> vnd laß damit auffsieden <lb/> seig die <objectName ref="#milch">Milch</objectName> durch ein Härin <objectName ref="#tuch">Tuch</objectName> <lb/> thu die Holderblüt hinweg <lb/> rür in die <objectName ref="#milch">Milch</objectName> eyngebrennt <objectName ref="#mehl">Mehl</objectName> <lb/> wenns auffgesotten ist <lb/> so saltz es ab <lb/> vnd richt es an <lb/> wirff <objectName ref="#brot">Brot</objectName> darüber <lb/> ( daß ) klein geschnitten <lb/> besträw es mit weissem <objectName ref="#zucker">Zucker</objectName> <lb/> so wirt es gut vnnd wolgeschmack <lb/> schmeckt lieblich nach der Holderblüt. </p>
             </div>
         </body>
     </text>

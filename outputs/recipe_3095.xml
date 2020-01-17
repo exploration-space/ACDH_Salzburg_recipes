@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ARtischocken= und dergleichen Kern gebrüht <lb/> und kalt geben <lb/> mit Eßig <lb/> Oel und <objectName ref="pfeffer">Pfeffer</objectName> zum <objectName ref="salat">Salat</objectName>. </p>
+        <p> ARtischocken= und dergleichen Kern gebrüht <lb/> und kalt geben <lb/> mit Eßig <lb/> Oel und <objectName ref="#pfeffer">Pfeffer</objectName> zum <objectName ref="#salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Mach ein <objectName ref="teig">Teig</objectName> an von lauter Eyern <lb/> daß du jhn fein dünn wie ein <objectName ref="papier">Papier</objectName> kanst außtreiben <lb/> leg jn zwyfachtig <lb/> vnd walg jhn widerumb mit einem Walger <lb/> schneidt Pelster mit einem Rädtlein <lb/> zeuch sie eyn in <objectName ref="butter">Butter</objectName> <lb/> die nicht gar heiß ist <lb/> geuß mit einem <objectName ref="loeffel">Löffel</objectName> darauff <lb/> so leßt sichs geschwindt außbacken. Vnd auß solchem <objectName ref="teig">Teig</objectName> kanstu Krentzlein <lb/> oder was du wilt machen. </p>
+        <p> Mach ein <objectName ref="#teig">Teig</objectName> an von lauter Eyern <lb/> daß du jhn fein dünn wie ein <objectName ref="#papier">Papier</objectName> kanst außtreiben <lb/> leg jn zwyfachtig <lb/> vnd walg jhn widerumb mit einem Walger <lb/> schneidt Pelster mit einem Rädtlein <lb/> zeuch sie eyn in <objectName ref="#butter">Butter</objectName> <lb/> die nicht gar heiß ist <lb/> geuß mit einem <objectName ref="#loeffel">Löffel</objectName> darauff <lb/> so leßt sichs geschwindt außbacken. Vnd auß solchem <objectName ref="#teig">Teig</objectName> kanstu Krentzlein <lb/> oder was du wilt machen. </p>
             </div>
         </body>
     </text>

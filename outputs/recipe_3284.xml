@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Sechs Eyerdotter soll man nehmen <lb/> und zwey Löffelvoll geriebne Semmel mit Fleisch=Suppen wol untereinander absprittlen <lb/> darnach in einem Reinlein einen frischen <objectName ref="butter">Butter</objectName> lassen zergehen <lb/> den Zeug darein giessen <lb/> und auf einem Glütlein sieden lassen <lb/> es hat bald genug <lb/> gewürtz mit Muscatnuß wie ein Eyer=Gerten. </p>
+        <p> Sechs Eyerdotter soll man nehmen <lb/> und zwey Löffelvoll geriebne Semmel mit Fleisch=Suppen wol untereinander absprittlen <lb/> darnach in einem Reinlein einen frischen <objectName ref="#butter">Butter</objectName> lassen zergehen <lb/> den Zeug darein giessen <lb/> und auf einem Glütlein sieden lassen <lb/> es hat bald genug <lb/> gewürtz mit Muscatnuß wie ein Eyer=Gerten. </p>
             </div>
         </body>
     </text>

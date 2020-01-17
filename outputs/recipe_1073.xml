@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Boil the Bottoms of as many Artichokes as you please, and clean them well; cut each of them into six Parts; season them with Cinamon, Nutmeg, Sugar, and a little Salt; then lay the Artichokes in the Pye; then take the Marrow of four or five Marrow Bones, dip it in the Yolks of Eggs and grated Bread; then season it as you did your Artichokes, and lay it on the Top, and between them; then put on sliced Lemon, Barberries, and Mace; put <objectName ref="butter">butter</objectName> on the Top, and close up your Pye; then make the Lear of White-wine, <objectName ref="sack">Sack</objectName> and Sugar; thicken it with Yolks of Eggs and a little <objectName ref="butter">Butter</objectName>. When the Pye is drawn pour it in, shake it together, and serve it hot. </p>
+        <p> Boil the Bottoms of as many Artichokes as you please, and clean them well; cut each of them into six Parts; season them with Cinamon, Nutmeg, Sugar, and a little Salt; then lay the Artichokes in the Pye; then take the Marrow of four or five Marrow Bones, dip it in the Yolks of Eggs and grated Bread; then season it as you did your Artichokes, and lay it on the Top, and between them; then put on sliced Lemon, Barberries, and Mace; put <objectName ref="#butter">butter</objectName> on the Top, and close up your Pye; then make the Lear of White-wine, <objectName ref="#sack">Sack</objectName> and Sugar; thicken it with Yolks of Eggs and a little <objectName ref="#butter">Butter</objectName>. When the Pye is drawn pour it in, shake it together, and serve it hot. </p>
             </div>
         </body>
     </text>

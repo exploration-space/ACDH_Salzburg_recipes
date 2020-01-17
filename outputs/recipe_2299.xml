@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> hakh die <objectName ref="leber">Leber</objectName> von henen oder khopaun khlain, <objectName ref="rosmarin">Rosmarin</objectName> oder Petersill= <lb/> khreitl drunder, nimb 3. aÿr in ein Milchrämb, noch souill als der Aÿr <lb/> sein, spridls ab, das leberl drunder, gewürz ein Wenig, bestreich ein <lb/> schißl mit Puter, geuß das angemachte leberl drein, sez auf ein gluet, <lb/> ein schißlring drüber, oben vnd unden gluet, <objectName ref="salz">Salz</objectName> es auch, geht schön auf, <lb/> man khan auch fleischbrüe für die <objectName ref="milch">Milch</objectName> nemben, aber ein Prüe oder <lb/> milchrämb, soll dannach darbeÿ sein, vnd 2. mall souill brüe als aÿr. <lb/> </p>
+        <p> hakh die <objectName ref="#leber">Leber</objectName> von henen oder khopaun khlain, <objectName ref="#rosmarin">Rosmarin</objectName> oder Petersill= <lb/> khreitl drunder, nimb 3. aÿr in ein Milchrämb, noch souill als der Aÿr <lb/> sein, spridls ab, das leberl drunder, gewürz ein Wenig, bestreich ein <lb/> schißl mit Puter, geuß das angemachte leberl drein, sez auf ein gluet, <lb/> ein schißlring drüber, oben vnd unden gluet, <objectName ref="#salz">Salz</objectName> es auch, geht schön auf, <lb/> man khan auch fleischbrüe für die <objectName ref="#milch">Milch</objectName> nemben, aber ein Prüe oder <lb/> milchrämb, soll dannach darbeÿ sein, vnd 2. mall souill brüe als aÿr. <lb/> </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChneide <objectName ref="semmeln">Semmeln</objectName> zu dinnen Schnitten <lb/> streiche eine Füll von <objectName ref="mandeln">Mandeln</objectName> oder <objectName ref="latwerge">Latwergen</objectName> darauf <lb/> oder auch von eingerührten Eyern mit Weinbeern oder Corinthen <lb/> welche von diesen beliebt; lege einen andern Schnitten darüber <lb/> ziehe sie durch zerklopffte Eyer <lb/> oder sonst ein anständiges Teiglein <lb/> und bachs aus Schmaltz <lb/> so sehen sie wie andere gemeine Schnitten <lb/> und sind doch einwendig gefüllt. </p>
+        <p> SChneide <objectName ref="#semmeln">Semmeln</objectName> zu dinnen Schnitten <lb/> streiche eine Füll von <objectName ref="#mandeln">Mandeln</objectName> oder <objectName ref="#latwerge">Latwergen</objectName> darauf <lb/> oder auch von eingerührten Eyern mit Weinbeern oder Corinthen <lb/> welche von diesen beliebt; lege einen andern Schnitten darüber <lb/> ziehe sie durch zerklopffte Eyer <lb/> oder sonst ein anständiges Teiglein <lb/> und bachs aus Schmaltz <lb/> so sehen sie wie andere gemeine Schnitten <lb/> und sind doch einwendig gefüllt. </p>
             </div>
         </body>
     </text>

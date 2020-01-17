@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm Cucummern <lb/> die etwas groß und grün <lb/> aus dem Garten <lb/> wasche <lb/> scheele <lb/> und schneide sie zu Scheiben <lb/> saltze sie ein <lb/> und laß ein Weil ligen <lb/> drucke das <objectName ref="wasser">Wasser</objectName> darvon <lb/> und schwings mit klein= geschnittnem Zwibel <lb/> Petersil <lb/> wol <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Muscatnuß <lb/> und wenig Meel <lb/> im <objectName ref="butter">Butter</objectName> <lb/> oder <objectName ref="speck">Speck</objectName> <lb/> gieß dicken sauren Ram daran <lb/> rührs untereinander <lb/> und laß miteinander auf der <objectName ref="glut">Glut</objectName> zusammen in rechter Dicken einsieden <lb/> gilbs ein wenig <lb/> so seynd sie gut. </p>
+        <p> NImm Cucummern <lb/> die etwas groß und grün <lb/> aus dem Garten <lb/> wasche <lb/> scheele <lb/> und schneide sie zu Scheiben <lb/> saltze sie ein <lb/> und laß ein Weil ligen <lb/> drucke das <objectName ref="#wasser">Wasser</objectName> darvon <lb/> und schwings mit klein= geschnittnem Zwibel <lb/> Petersil <lb/> wol <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Muscatnuß <lb/> und wenig Meel <lb/> im <objectName ref="#butter">Butter</objectName> <lb/> oder <objectName ref="#speck">Speck</objectName> <lb/> gieß dicken sauren Ram daran <lb/> rührs untereinander <lb/> und laß miteinander auf der <objectName ref="#glut">Glut</objectName> zusammen in rechter Dicken einsieden <lb/> gilbs ein wenig <lb/> so seynd sie gut. </p>
             </div>
         </body>
     </text>

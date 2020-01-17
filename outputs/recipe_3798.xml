@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr Waller= Schweiff <lb/> und zwar je grösser <lb/> je besser <lb/> wird eingesaltzen <lb/> beederseits mit dem <objectName ref="messer">Messer</objectName> ein wenig gekrintlet <lb/> oder gestupfft <lb/> und mit zerlassenem <objectName ref="butter">Butter</objectName> <lb/> oder guten Dardoffel= oder andern Oel gebraten; ist gut warmer <lb/> mit einer sauren Capry= Lemoni= oder gelber dünner Zwibel= <objectName ref="bruehe">Brühe</objectName>; oder auch gleich also truckner <lb/> mit braunem <objectName ref="butter">Butter</objectName> <lb/> Lemoni= Safft <lb/> und Schelffen <lb/> auch also mit Eßig <lb/> Oel und Capry zu geben. </p>
+        <p> DEr Waller= Schweiff <lb/> und zwar je grösser <lb/> je besser <lb/> wird eingesaltzen <lb/> beederseits mit dem <objectName ref="#messer">Messer</objectName> ein wenig gekrintlet <lb/> oder gestupfft <lb/> und mit zerlassenem <objectName ref="#butter">Butter</objectName> <lb/> oder guten Dardoffel= oder andern Oel gebraten; ist gut warmer <lb/> mit einer sauren Capry= Lemoni= oder gelber dünner Zwibel= <objectName ref="#bruehe">Brühe</objectName>; oder auch gleich also truckner <lb/> mit braunem <objectName ref="#butter">Butter</objectName> <lb/> Lemoni= Safft <lb/> und Schelffen <lb/> auch also mit Eßig <lb/> Oel und Capry zu geben. </p>
             </div>
         </body>
     </text>

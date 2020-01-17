@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIeses ist gut unter die <objectName ref="linsen">Linsen</objectName> <lb/> süß und sauren <objectName ref="kraut">Kraut</objectName> <lb/> Rind= Hirsch= und Schweinen= <objectName ref="fleisch">Fleisch</objectName> <lb/> wie auch unter die Erbes und <objectName ref="bohnen">Bohnen</objectName>. </p>
+        <p> DIeses ist gut unter die <objectName ref="#linsen">Linsen</objectName> <lb/> süß und sauren <objectName ref="#kraut">Kraut</objectName> <lb/> Rind= Hirsch= und Schweinen= <objectName ref="#fleisch">Fleisch</objectName> <lb/> wie auch unter die Erbes und <objectName ref="#bohnen">Bohnen</objectName>. </p>
             </div>
         </body>
     </text>

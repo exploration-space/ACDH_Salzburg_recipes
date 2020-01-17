@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm frische Marillen <lb/> scheele sie <lb/> und nimm die Kern oder <objectName ref="stein">Stein</objectName> heraus; legs in eine Dorten mit etlich Tropffen <objectName ref="wein">Wein</objectName> <lb/> nimm wohl <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet und Lemoni= Schaalen dazu <lb/> so werden sie gut seyn. </p>
+        <p> NImm frische Marillen <lb/> scheele sie <lb/> und nimm die Kern oder <objectName ref="#stein">Stein</objectName> heraus; legs in eine Dorten mit etlich Tropffen <objectName ref="#wein">Wein</objectName> <lb/> nimm wohl <objectName ref="#zucker">Zucker</objectName> <lb/> Zimmet und Lemoni= Schaalen dazu <lb/> so werden sie gut seyn. </p>
             </div>
         </body>
     </text>

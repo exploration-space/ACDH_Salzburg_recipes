@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Erstlich Nimb die Lerchen<gap/> halbgebratten<gap/> <lb/> Nimb <objectName ref="fleisch">Fleisch</objectName> brie<gap/> Lemony safft<gap/> Mus= <lb/> gatblie<gap/> Imber<gap/> <objectName ref="wein">Wein</objectName> <objectName ref="butter">butter</objectName> vnnd <lb/> <objectName ref="salz">salz</objectName> es lass siedten<gap/> wan die <lb/> <objectName ref="lerchen">lerchen</objectName> halbgebradten<gap/> sein legs in ein <lb/> schissl<gap/> Gies die brie<gap/> daryber lass <lb/> siedten. <lb/> </p>
+        <p> Erstlich Nimb die Lerchen<gap/> halbgebratten<gap/> <lb/> Nimb <objectName ref="#fleisch">Fleisch</objectName> brie<gap/> Lemony safft<gap/> Mus= <lb/> gatblie<gap/> Imber<gap/> <objectName ref="#wein">Wein</objectName> <objectName ref="#butter">butter</objectName> vnnd <lb/> <objectName ref="#salz">salz</objectName> es lass siedten<gap/> wan die <lb/> <objectName ref="#lerchen">lerchen</objectName> halbgebradten<gap/> sein legs in ein <lb/> schissl<gap/> Gies die brie<gap/> daryber lass <lb/> siedten. <lb/> </p>
             </div>
         </body>
     </text>

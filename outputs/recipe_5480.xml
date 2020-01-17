@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Erbeßbrüh <lb/> ein wenig <objectName ref="essig">Essig</objectName> <lb/> <objectName ref="butter">Butter</objectName> <lb/> Saltz vnnd <objectName ref="wein">Wein</objectName> <lb/> laß miteinander auffsieden <lb/> so wirt es gut vnd wolgeschmack. </p>
+        <p> Nim ( m ) Erbeßbrüh <lb/> ein wenig <objectName ref="#essig">Essig</objectName> <lb/> <objectName ref="#butter">Butter</objectName> <lb/> Saltz vnnd <objectName ref="#wein">Wein</objectName> <lb/> laß miteinander auffsieden <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

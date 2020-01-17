@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Auch ein Karwenada <lb/> so muß man es geschwindt braten <lb/> auch zum backen <lb/> so kan man ein saure Brüh darüber machen. Du kanst auch ein gebacken Schaiden in einem <objectName ref="pfeffer">Pfeffer</objectName> geben <lb/> so ist es gut vnd wolgeschmack. </p>
+        <p> Auch ein Karwenada <lb/> so muß man es geschwindt braten <lb/> auch zum backen <lb/> so kan man ein saure Brüh darüber machen. Du kanst auch ein gebacken Schaiden in einem <objectName ref="#pfeffer">Pfeffer</objectName> geben <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

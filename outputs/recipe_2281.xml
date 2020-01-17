@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Zeuch ihm das heitl ab, ein Wenig, brith ihn ein Wenig, richt ihn auf ein <lb/> Schißl, fleischbrie, <objectName ref="pfeffer">pfeffer</objectName>, Buter dran, laß ihn auf der gluet sieden, <lb/> gib ihn Warmb oder Wie ein Sallat, nach dem Pritten aber khim vnd <lb/> <objectName ref="pfeffer">Pfeffer</objectName> dran, mehr öel vnd <objectName ref="essig">Essig</objectName> vnd <objectName ref="salz">Salz</objectName>, Will man gehrn, khan mans <lb/> Zukhern. <lb/> </p>
+        <p> Zeuch ihm das heitl ab, ein Wenig, brith ihn ein Wenig, richt ihn auf ein <lb/> Schißl, fleischbrie, <objectName ref="#pfeffer">pfeffer</objectName>, Buter dran, laß ihn auf der gluet sieden, <lb/> gib ihn Warmb oder Wie ein Sallat, nach dem Pritten aber khim vnd <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> dran, mehr öel vnd <objectName ref="#essig">Essig</objectName> vnd <objectName ref="#salz">Salz</objectName>, Will man gehrn, khan mans <lb/> Zukhern. <lb/> </p>
             </div>
         </body>
     </text>

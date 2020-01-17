@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Gebeiethen<gap/> spinäth<gap/>, hackhe ihn <lb/> Klein, Dan so Rest<gap/> Sembl Presl<gap/> <lb/> Als wie den spinnäth<gap/> in <objectName ref="butter">butter</objectName>, <lb/> mache von Siess obers<gap/> vnd Ayrn<gap/> <lb/> ein Daig<gap/> an, Pindte Dissen Zu <lb/> samben Ihn ein Saubers Diechel<gap/> <lb/> in ein <objectName ref="wasser">Wasser</objectName> in einen hafen<gap/>, <lb/><lb/> ( re 138 ) hernach schneidte strizl Daraus <lb/> schmirb<gap/> ein schissl<gap/> mit Putter thue <lb/> es Darein, Giess<gap/> Fleisch<gap/> oder Arbes <lb/> brie<gap/> Daran, Gewürz<gap/> es vnnd <lb/> lass auf der Gluet<gap/> Preglen<gap/>, also <lb/> ist es Recht. <lb/> </p>
+        <p> Nimb Gebeiethen<gap/> spinäth<gap/>, hackhe ihn <lb/> Klein, Dan so Rest<gap/> Sembl Presl<gap/> <lb/> Als wie den spinnäth<gap/> in <objectName ref="#butter">butter</objectName>, <lb/> mache von Siess obers<gap/> vnd Ayrn<gap/> <lb/> ein Daig<gap/> an, Pindte Dissen Zu <lb/> samben Ihn ein Saubers Diechel<gap/> <lb/> in ein <objectName ref="#wasser">Wasser</objectName> in einen hafen<gap/>, <lb/><lb/> ( re 138 ) hernach schneidte strizl Daraus <lb/> schmirb<gap/> ein schissl<gap/> mit Putter thue <lb/> es Darein, Giess<gap/> Fleisch<gap/> oder Arbes <lb/> brie<gap/> Daran, Gewürz<gap/> es vnnd <lb/> lass auf der Gluet<gap/> Preglen<gap/>, also <lb/> ist es Recht. <lb/> </p>
             </div>
         </body>
     </text>

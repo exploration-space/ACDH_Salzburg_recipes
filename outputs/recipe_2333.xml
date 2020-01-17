@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein <objectName ref="schmalz">schmalz</objectName>, laß Zergehn, das es khiell Wird, schlag etliche Aÿr auf, <lb/> spridls ab, geuß in das <objectName ref="schmalz">schmalz</objectName>, nimb ein schöns Semblmell, mach mit <lb/> dem abgespridlet ein daigl an, schlag dan vor die khnödl in ein <objectName ref="wasser">Wasser</objectName>, <lb/> leg gewürz darzue, mach ein guete brüe, gilbs, so Wirds schen, laß <lb/> also Sieden, so Werden sie schen Rogl, auf ein <objectName ref="tisch">tisch</objectName> 4. oder 5. Aÿr. <lb/> </p>
+        <p> Nimb ein <objectName ref="#schmalz">schmalz</objectName>, laß Zergehn, das es khiell Wird, schlag etliche Aÿr auf, <lb/> spridls ab, geuß in das <objectName ref="#schmalz">schmalz</objectName>, nimb ein schöns Semblmell, mach mit <lb/> dem abgespridlet ein daigl an, schlag dan vor die khnödl in ein <objectName ref="#wasser">Wasser</objectName>, <lb/> leg gewürz darzue, mach ein guete brüe, gilbs, so Wirds schen, laß <lb/> also Sieden, so Werden sie schen Rogl, auf ein <objectName ref="#tisch">tisch</objectName> 4. oder 5. Aÿr. <lb/> </p>
             </div>
         </body>
     </text>

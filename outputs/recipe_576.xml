@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim frische Wacholderbeer <lb/> zerstoß sie klein <lb/> beitz in einem starcken <objectName ref="wein">Wein</objectName> <lb/> stoß ein loht Zimmet dar= ein <lb/> vnd Muscatennüß <lb/> laß acht Tag beitzen <lb/> sieds darnach <lb/> vnnd vermengs mit <objectName ref="zucker">Zucker</objectName> <lb/> laß sie so lang sieden <lb/> biß es auff einem Zin gestehet <lb/> nim nüchtern einer Haselnuß groß ein <lb/> sie dienet für Rückenwehe vnd böse Lufft. </p>
+        <p> Nim frische Wacholderbeer <lb/> zerstoß sie klein <lb/> beitz in einem starcken <objectName ref="#wein">Wein</objectName> <lb/> stoß ein loht Zimmet dar= ein <lb/> vnd Muscatennüß <lb/> laß acht Tag beitzen <lb/> sieds darnach <lb/> vnnd vermengs mit <objectName ref="#zucker">Zucker</objectName> <lb/> laß sie so lang sieden <lb/> biß es auff einem Zin gestehet <lb/> nim nüchtern einer Haselnuß groß ein <lb/> sie dienet für Rückenwehe vnd böse Lufft. </p>
             </div>
         </body>
     </text>

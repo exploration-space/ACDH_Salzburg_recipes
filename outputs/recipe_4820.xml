@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> HAcke das kalte Gebratens zusamt dem <objectName ref="fett">Fett</objectName> <lb/> thue drey <objectName ref="loeffel">Löffel</objectName> voll Milchram dazu <lb/> rühre etwas von geriebenen Salbey oder <objectName ref="majoran">Majoran</objectName> darunter; schlage Eyer <lb/> so viel als nöthig <lb/> daran <lb/> röste geriebenes Semmel= <objectName ref="mehl">Mehl</objectName> in <objectName ref="butter">Butter</objectName> oder Schmaltz <lb/> mische es <lb/> zusamt ein wenig Weinbeerlein oder Corinthen <lb/> auch unter diese Füll; fülle selbige in ein Kalbs= <objectName ref="netz">Netz</objectName> <lb/> und brats <lb/> wie die vorher= beschriebene in einer Bratpfannen. </p>
+        <p> HAcke das kalte Gebratens zusamt dem <objectName ref="#fett">Fett</objectName> <lb/> thue drey <objectName ref="#loeffel">Löffel</objectName> voll Milchram dazu <lb/> rühre etwas von geriebenen Salbey oder <objectName ref="#majoran">Majoran</objectName> darunter; schlage Eyer <lb/> so viel als nöthig <lb/> daran <lb/> röste geriebenes Semmel= <objectName ref="#mehl">Mehl</objectName> in <objectName ref="#butter">Butter</objectName> oder Schmaltz <lb/> mische es <lb/> zusamt ein wenig Weinbeerlein oder Corinthen <lb/> auch unter diese Füll; fülle selbige in ein Kalbs= <objectName ref="#netz">Netz</objectName> <lb/> und brats <lb/> wie die vorher= beschriebene in einer Bratpfannen. </p>
             </div>
         </body>
     </text>

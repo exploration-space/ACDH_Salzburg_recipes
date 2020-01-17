@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ain löfel voll Meell oder mehr, souill <lb/> zugger, ain par ayr darunter, darnach mit <lb/> <objectName ref="wasser">wasser</objectName> ainen taig angemacht, vnd hernach lezeltn <lb/> formiert vnd gebachen, <lb/> </p>
+        <p> Nimb ain löfel voll Meell oder mehr, souill <lb/> zugger, ain par ayr darunter, darnach mit <lb/> <objectName ref="#wasser">wasser</objectName> ainen taig angemacht, vnd hernach lezeltn <lb/> formiert vnd gebachen, <lb/> </p>
             </div>
         </body>
     </text>

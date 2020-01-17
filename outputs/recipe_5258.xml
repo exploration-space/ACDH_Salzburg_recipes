@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schel vnd schneidt sie klein <lb/> quell sie in <objectName ref="wasser">Wasser</objectName> <lb/> vnnd druck es wol auß durh ein Härin <objectName ref="tuch">Tuch</objectName> <lb/> hack sie klein <lb/> vnd rößt sie in <objectName ref="speck">Speck</objectName> <lb/> der klein geschnitten ist <lb/> nim ( m ) ein wenig <objectName ref="milch">Milch</objectName> darvnter <lb/> vnd laß darmit sieden <lb/> so wirt es gut vnd wolgeschmack. </p>
+        <p> Schel vnd schneidt sie klein <lb/> quell sie in <objectName ref="#wasser">Wasser</objectName> <lb/> vnnd druck es wol auß durh ein Härin <objectName ref="#tuch">Tuch</objectName> <lb/> hack sie klein <lb/> vnd rößt sie in <objectName ref="#speck">Speck</objectName> <lb/> der klein geschnitten ist <lb/> nim ( m ) ein wenig <objectName ref="#milch">Milch</objectName> darvnter <lb/> vnd laß darmit sieden <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

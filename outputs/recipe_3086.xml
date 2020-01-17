@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIese werden in allweg den Maurachen gleich gebutzt <lb/> aufgedörrt <lb/> und zu allerhand Speisen verkocht <lb/> wie von diesen und andern Schwammen in diesen Büchern schon offt angemerckt ist worden <lb/> und zu finden ist. NB. Die weissen Schwammen <lb/> die man Pilsling <lb/> oder Peltzling nennet <lb/> seynd die besten zum dörren <lb/> hernach gesotten <lb/> und mit dieser <objectName ref="bruehe">Brühe</objectName> <lb/> es seye von <objectName ref="fleisch">Fleisch</objectName> oder Erbes <lb/> ein wol= gesottne <objectName ref="gerste">Gersten</objectName> <lb/> mit <objectName ref="butter">Butter</objectName> und Gewürtz eingericht <lb/> ist gut und gesund. </p>
+        <p> DIese werden in allweg den Maurachen gleich gebutzt <lb/> aufgedörrt <lb/> und zu allerhand Speisen verkocht <lb/> wie von diesen und andern Schwammen in diesen Büchern schon offt angemerckt ist worden <lb/> und zu finden ist. NB. Die weissen Schwammen <lb/> die man Pilsling <lb/> oder Peltzling nennet <lb/> seynd die besten zum dörren <lb/> hernach gesotten <lb/> und mit dieser <objectName ref="#bruehe">Brühe</objectName> <lb/> es seye von <objectName ref="#fleisch">Fleisch</objectName> oder Erbes <lb/> ein wol= gesottne <objectName ref="#gerste">Gersten</objectName> <lb/> mit <objectName ref="#butter">Butter</objectName> und Gewürtz eingericht <lb/> ist gut und gesund. </p>
             </div>
         </body>
     </text>

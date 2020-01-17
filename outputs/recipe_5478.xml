@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) ein <objectName ref="krautsuppe">Krautsuppen</objectName> <lb/> vnd laß sie auffsieden <lb/> thu Baumöl darein <lb/> vnd laß darmit auffsieden <lb/> vnd ist es zu wenig gesaltzen <lb/> so saltz es baß. Also nennet mans ein Oelsuppen. </p>
+        <p> Nim ( m ) ein <objectName ref="#krautsuppe">Krautsuppen</objectName> <lb/> vnd laß sie auffsieden <lb/> thu Baumöl darein <lb/> vnd laß darmit auffsieden <lb/> vnd ist es zu wenig gesaltzen <lb/> so saltz es baß. Also nennet mans ein Oelsuppen. </p>
             </div>
         </body>
     </text>

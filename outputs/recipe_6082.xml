@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Du kanst auch wol ein <objectName ref="salat">Salat</objectName> zurichten in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> grün <lb/> weiß vnnd rot <lb/> fein wie ein <objectName ref="rosen">Rosen</objectName> gemacht <lb/> so ist es zierlich <lb/> gut vnnd wolgeschmack. </p>
+        <p> Du kanst auch wol ein <objectName ref="#salat">Salat</objectName> zurichten in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> grün <lb/> weiß vnnd rot <lb/> fein wie ein <objectName ref="#rosen">Rosen</objectName> gemacht <lb/> so ist es zierlich <lb/> gut vnnd wolgeschmack. </p>
             </div>
         </body>
     </text>

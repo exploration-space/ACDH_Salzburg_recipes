@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIse <objectName ref="rettich">Rettich</objectName> gebutzt und gebrüht <lb/> an statt der weissen Ruben zu der <objectName ref="suppe">Suppen</objectName> <lb/> Olia, und andern Speisen zu gebrauchen <lb/> dergleichen auch mit den grossen <objectName ref="rettich">Rettich</objectName> geschehen kan <lb/> die Ruben aber seynd besser. NB. <objectName ref="rettich">Rettich</objectName> frisch zu dünnen Blättlein geschnitten <lb/> ein Weil eingesaltzen <lb/> das <objectName ref="wasser">Wasser</objectName> darvon getruckt <lb/> gibt man mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Eßig und Oel zum <objectName ref="salat">Salat</objectName>. </p>
+        <p> DIse <objectName ref="#rettich">Rettich</objectName> gebutzt und gebrüht <lb/> an statt der weissen Ruben zu der <objectName ref="#suppe">Suppen</objectName> <lb/> Olia, und andern Speisen zu gebrauchen <lb/> dergleichen auch mit den grossen <objectName ref="#rettich">Rettich</objectName> geschehen kan <lb/> die Ruben aber seynd besser. NB. <objectName ref="#rettich">Rettich</objectName> frisch zu dünnen Blättlein geschnitten <lb/> ein Weil eingesaltzen <lb/> das <objectName ref="#wasser">Wasser</objectName> darvon getruckt <lb/> gibt man mit <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Eßig und Oel zum <objectName ref="#salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

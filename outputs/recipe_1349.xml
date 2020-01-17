@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim 9 loth<gap/> zuckher<gap/>, 3 löfl voll rosen<gap/> <lb/> wasßer<gap/>, rihrs<gap/> ab, schlag ain ayr<gap/> drein, rihrs<gap/> <lb/> ein viertl Stundt, nimb ein aneiß<gap/>, und 5 <lb/> loth<gap/> schenes<gap/> mehl<gap/>, rihrs<gap/> darunter, Streihe<gap/> es <lb/> auf die oblath<gap/>, aber dünn<gap/>, bachs<gap/> in offen<gap/> oder in <lb/> <objectName ref="rohr">rohr</objectName>, in der dorten<gap/> pfann<gap/> oben<gap/>, und unten<gap/> gluet<gap/>, <lb/> aber oben heisßer<gap/> alß unten, ist guet. <lb/> </p>
+        <p> Nim 9 loth<gap/> zuckher<gap/>, 3 löfl voll rosen<gap/> <lb/> wasßer<gap/>, rihrs<gap/> ab, schlag ain ayr<gap/> drein, rihrs<gap/> <lb/> ein viertl Stundt, nimb ein aneiß<gap/>, und 5 <lb/> loth<gap/> schenes<gap/> mehl<gap/>, rihrs<gap/> darunter, Streihe<gap/> es <lb/> auf die oblath<gap/>, aber dünn<gap/>, bachs<gap/> in offen<gap/> oder in <lb/> <objectName ref="#rohr">rohr</objectName>, in der dorten<gap/> pfann<gap/> oben<gap/>, und unten<gap/> gluet<gap/>, <lb/> aber oben heisßer<gap/> alß unten, ist guet. <lb/> </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChlaget an einen guten geriebenen Käß <lb/> und halb so viel <objectName ref="mehl">Mehl</objectName> <lb/> so viel Eyer als nöthig; machet einen <objectName ref="teig">Teig</objectName> an <lb/> daß er sich wälchern lasse <lb/> wälchert ihn dann auf einem Bret <lb/> daß er schön weiß werde; formiret ihn krumm wie einen halben Mond <lb/> oder was man vor eine <objectName ref="form">Form</objectName> daraus zu machen verlanget <lb/> und bachets im Schmaltz. </p>
+        <p> SChlaget an einen guten geriebenen Käß <lb/> und halb so viel <objectName ref="#mehl">Mehl</objectName> <lb/> so viel Eyer als nöthig; machet einen <objectName ref="#teig">Teig</objectName> an <lb/> daß er sich wälchern lasse <lb/> wälchert ihn dann auf einem Bret <lb/> daß er schön weiß werde; formiret ihn krumm wie einen halben Mond <lb/> oder was man vor eine <objectName ref="#form">Form</objectName> daraus zu machen verlanget <lb/> und bachets im Schmaltz. </p>
             </div>
         </body>
     </text>

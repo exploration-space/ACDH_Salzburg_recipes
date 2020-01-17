@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChneide ein wenig dicke Schnitzlein <objectName ref="speck">Speck</objectName> <lb/> grob mit Petersil <lb/> Zwibel <lb/> Gewürtz <lb/> Saltz <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> lege Schnitzlein <objectName ref="speck">Speck</objectName> am Boden <lb/> die Kälber= Schnitzlein Hand= dick darauf : erstlich gib wenig <objectName ref="feuer">Feuer</objectName> <lb/> damit es nur dämpffe <lb/> hernach aber ihm starck auf beyden Seiten <lb/> thue ein wenig Meel daran <lb/> und klare <objectName ref="suppe">Suppen</objectName> <lb/> laß sieden <lb/> binde die Soß <lb/> thue Eßig daran <lb/> gibs warm. </p>
+        <p> SChneide ein wenig dicke Schnitzlein <objectName ref="#speck">Speck</objectName> <lb/> grob mit Petersil <lb/> Zwibel <lb/> Gewürtz <lb/> Saltz <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> lege Schnitzlein <objectName ref="#speck">Speck</objectName> am Boden <lb/> die Kälber= Schnitzlein Hand= dick darauf : erstlich gib wenig <objectName ref="#feuer">Feuer</objectName> <lb/> damit es nur dämpffe <lb/> hernach aber ihm starck auf beyden Seiten <lb/> thue ein wenig Meel daran <lb/> und klare <objectName ref="#suppe">Suppen</objectName> <lb/> laß sieden <lb/> binde die Soß <lb/> thue Eßig daran <lb/> gibs warm. </p>
             </div>
         </body>
     </text>

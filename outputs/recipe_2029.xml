@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Sez ein <objectName ref="wasser">Wasser</objectName> ÿber, <objectName ref="salz">salz</objectName> an der statt, vnd geuß den <objectName ref="essig">Essig</objectName> <lb/> darzue, geuß den Warmen <objectName ref="essig">Essig</objectName> an den khärpffen, vnd <lb/> Wen die brüe seud, so geuß es auch drüber, schits alßbald <lb/> in die pfan, vnd mach gar ein rösch <objectName ref="feuer">feuer</objectName>, das sie gschwind <lb/> sieden, laß die brüe halb einsieden, so ist er gesothen, leg ein Allaun darzue, so Wird es schen blab, Wilstu ein <lb/> Süpl dran machen, so nimb halbs <objectName ref="wasser">Wasser</objectName> vnd halb <objectName ref="essig">Essig</objectName>, <lb/> gewürz Woll, leg ein Puter darzue. <lb/> </p>
+        <p> Sez ein <objectName ref="#wasser">Wasser</objectName> ÿber, <objectName ref="#salz">salz</objectName> an der statt, vnd geuß den <objectName ref="#essig">Essig</objectName> <lb/> darzue, geuß den Warmen <objectName ref="#essig">Essig</objectName> an den khärpffen, vnd <lb/> Wen die brüe seud, so geuß es auch drüber, schits alßbald <lb/> in die pfan, vnd mach gar ein rösch <objectName ref="#feuer">feuer</objectName>, das sie gschwind <lb/> sieden, laß die brüe halb einsieden, so ist er gesothen, leg ein Allaun darzue, so Wird es schen blab, Wilstu ein <lb/> Süpl dran machen, so nimb halbs <objectName ref="#wasser">Wasser</objectName> vnd halb <objectName ref="#essig">Essig</objectName>, <lb/> gewürz Woll, leg ein Puter darzue. <lb/> </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChählet Aepffel oder Birne <lb/> und zerschneidet sie entweder länglicht oder auch würfflicht <lb/> nach belieben; mischet kleine Weinbeerlein oder Corinthen darunter <lb/> rühret alles wohl durch einander : Machet einen <objectName ref="teig">Teig</objectName> mit vier Eyern <lb/> doch nicht zu dinn <lb/> an <lb/> rühret die Aepffel wohl darinnen herum <lb/> daß sich der <objectName ref="teig">Teig</objectName> anhencke; schüttet ihn hernach auf einen Deller der schmaltzig ist <lb/> und schneidet lange Schnitten und Stritzeln daraus <lb/> oder formirets wie <objectName ref="weintrauben">Weintrauben</objectName>; legets in eine Pfannen mit heissem Schmaltz <lb/> und bachets heraus. </p>
+        <p> SChählet Aepffel oder Birne <lb/> und zerschneidet sie entweder länglicht oder auch würfflicht <lb/> nach belieben; mischet kleine Weinbeerlein oder Corinthen darunter <lb/> rühret alles wohl durch einander : Machet einen <objectName ref="#teig">Teig</objectName> mit vier Eyern <lb/> doch nicht zu dinn <lb/> an <lb/> rühret die Aepffel wohl darinnen herum <lb/> daß sich der <objectName ref="#teig">Teig</objectName> anhencke; schüttet ihn hernach auf einen Deller der schmaltzig ist <lb/> und schneidet lange Schnitten und Stritzeln daraus <lb/> oder formirets wie <objectName ref="#weintrauben">Weintrauben</objectName>; legets in eine Pfannen mit heissem Schmaltz <lb/> und bachets heraus. </p>
             </div>
         </body>
     </text>

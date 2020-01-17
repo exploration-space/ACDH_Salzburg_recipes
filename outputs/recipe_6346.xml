@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WEnn sich ein <objectName ref="bier">Bier</objectName> verkehrt hat <lb/> so nim ( m ) heiß <objectName ref="gerstenbrot">Gerstenbrot</objectName> auß dem <objectName ref="ofen">Ofen</objectName> <lb/> vnd brichs voneinander <lb/> vnd leg es auff den Spundten <lb/> vnd das offt <lb/> biß es wider kompt. </p>
+        <p> WEnn sich ein <objectName ref="#bier">Bier</objectName> verkehrt hat <lb/> so nim ( m ) heiß <objectName ref="#gerstenbrot">Gerstenbrot</objectName> auß dem <objectName ref="#ofen">Ofen</objectName> <lb/> vnd brichs voneinander <lb/> vnd leg es auff den Spundten <lb/> vnd das offt <lb/> biß es wider kompt. </p>
             </div>
         </body>
     </text>

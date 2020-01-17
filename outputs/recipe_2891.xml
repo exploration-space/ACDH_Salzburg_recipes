@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WEiß= <objectName ref="fisch">Fisch</objectName> geschuppt <lb/> und wie andere <objectName ref="fisch">Fisch</objectName> zerstuckt <lb/> gesaltzen <lb/> eingemeelbt und gebachen <lb/> trucken zugeben; oder warmer mit einer von erstbemeldten <objectName ref="bruehe">Brühen</objectName> <lb/> oder kalt <lb/> mit Eßig und Oel <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName> und Saltz bestreut. </p>
+        <p> WEiß= <objectName ref="#fisch">Fisch</objectName> geschuppt <lb/> und wie andere <objectName ref="#fisch">Fisch</objectName> zerstuckt <lb/> gesaltzen <lb/> eingemeelbt und gebachen <lb/> trucken zugeben; oder warmer mit einer von erstbemeldten <objectName ref="#bruehe">Brühen</objectName> <lb/> oder kalt <lb/> mit Eßig und Oel <lb/> mit <objectName ref="#pfeffer">Pfeffer</objectName> und Saltz bestreut. </p>
             </div>
         </body>
     </text>

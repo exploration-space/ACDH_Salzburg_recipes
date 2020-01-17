@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm einen Schnitten gebähtes rocken Brods <lb/> hacke <objectName ref="oliven">Oliven</objectName> <lb/> gieß <objectName ref="wein">Wein</objectName> daran <lb/> laß sieden <lb/> zwings durch <lb/> wüftze es mit Cardamomen <lb/> Muscaten = Blüh und <objectName ref="pfeffer">Pfeffer</objectName> <lb/> gieß ein wenig <objectName ref="rosen">Rosen</objectName> = <objectName ref="essig">Essig</objectName> hinzu <lb/> zuckers <lb/> misch noch mehr gehackte <objectName ref="oliven">Oliven</objectName> darunter <lb/> laß aufsieden <lb/> und richte dann diese Brüh über das <lb/> auf zuvor besagte Art <lb/> gebeitzt = und abgesottene Wildpret. </p>
+        <p> NImm einen Schnitten gebähtes rocken Brods <lb/> hacke <objectName ref="#oliven">Oliven</objectName> <lb/> gieß <objectName ref="#wein">Wein</objectName> daran <lb/> laß sieden <lb/> zwings durch <lb/> wüftze es mit Cardamomen <lb/> Muscaten = Blüh und <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> gieß ein wenig <objectName ref="#rosen">Rosen</objectName> = <objectName ref="#essig">Essig</objectName> hinzu <lb/> zuckers <lb/> misch noch mehr gehackte <objectName ref="#oliven">Oliven</objectName> darunter <lb/> laß aufsieden <lb/> und richte dann diese Brüh über das <lb/> auf zuvor besagte Art <lb/> gebeitzt = und abgesottene Wildpret. </p>
             </div>
         </body>
     </text>

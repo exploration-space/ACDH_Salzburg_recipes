@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Richt den höchten in das <objectName ref="salz">Salz</objectName>, Wie oben, mach ein brüe, rest ein Zwifl <lb/> im <objectName ref="schmalz">Schmalz</objectName>, auch souill geribne Sembl fein liechtbraun, gieß darein <lb/> gueten <objectName ref="essig">Essig</objectName>, gewürz ohne <objectName ref="naegel">Nägel</objectName>, ein Wenig Puter, laß sieden, <lb/> richt den eingesalznen <objectName ref="fisch">fisch</objectName> in ein Reindl, die brüe dran, laß sieden, <lb/> biß er genueg Zum anrichten, leg Wider Puter drein, laß nit <lb/> mehr sieden. <lb/> </p>
+        <p> Richt den höchten in das <objectName ref="#salz">Salz</objectName>, Wie oben, mach ein brüe, rest ein Zwifl <lb/> im <objectName ref="#schmalz">Schmalz</objectName>, auch souill geribne Sembl fein liechtbraun, gieß darein <lb/> gueten <objectName ref="#essig">Essig</objectName>, gewürz ohne <objectName ref="#naegel">Nägel</objectName>, ein Wenig Puter, laß sieden, <lb/> richt den eingesalznen <objectName ref="#fisch">fisch</objectName> in ein Reindl, die brüe dran, laß sieden, <lb/> biß er genueg Zum anrichten, leg Wider Puter drein, laß nit <lb/> mehr sieden. <lb/> </p>
             </div>
         </body>
     </text>

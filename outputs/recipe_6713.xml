@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ein stück <objectName ref="hecht">Hecht</objectName> <lb/> vnd hack jn klein <lb/> thu jn in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> vnd geuß ein wenig Erbsbrüh darüber <lb/> thu vngeschmältzte <objectName ref="butter">Butter</objectName> <lb/> die frisch ist <lb/> darein <lb/> vnd ein wenig <objectName ref="pfeffer">Pfeffer</objectName> <lb/> druck sauren Limoniensafft darein <lb/> vnnd laß miteinander auffsieden <lb/> gibs von stundan auff ein <objectName ref="tisch">Tisch</objectName> <lb/> dieweil es warm ist <lb/> so ist es gut vnd wolgeschmack. </p>
+        <p> Nim ein stück <objectName ref="#hecht">Hecht</objectName> <lb/> vnd hack jn klein <lb/> thu jn in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> vnd geuß ein wenig Erbsbrüh darüber <lb/> thu vngeschmältzte <objectName ref="#butter">Butter</objectName> <lb/> die frisch ist <lb/> darein <lb/> vnd ein wenig <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> druck sauren Limoniensafft darein <lb/> vnnd laß miteinander auffsieden <lb/> gibs von stundan auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> dieweil es warm ist <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

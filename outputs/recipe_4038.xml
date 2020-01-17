@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> VOn Lachsen <lb/> oder Rhein= Salmen wird das Brät gehackt <lb/> mit Saltz <lb/> Zwibeln und Gewürtz im <objectName ref="butter">Butter</objectName> geröst <lb/> mit <objectName ref="wein">Wein</objectName> angefeucht <lb/> gibt gut= gefüllte <objectName ref="semmeln">Semmeln</objectName>. </p>
+        <p> VOn Lachsen <lb/> oder Rhein= Salmen wird das Brät gehackt <lb/> mit Saltz <lb/> Zwibeln und Gewürtz im <objectName ref="#butter">Butter</objectName> geröst <lb/> mit <objectName ref="#wein">Wein</objectName> angefeucht <lb/> gibt gut= gefüllte <objectName ref="#semmeln">Semmeln</objectName>. </p>
             </div>
         </body>
     </text>

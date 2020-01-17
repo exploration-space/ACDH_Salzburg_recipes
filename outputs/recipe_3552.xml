@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SCheele frische Aepffel <lb/> und koche sie <lb/> mit <objectName ref="zucker">Zucker</objectName> und Zimmet <lb/> aber nicht zu naß <lb/> so seynd sie gut in allerhand Dorten zu füllen. </p>
+        <p> SCheele frische Aepffel <lb/> und koche sie <lb/> mit <objectName ref="#zucker">Zucker</objectName> und Zimmet <lb/> aber nicht zu naß <lb/> so seynd sie gut in allerhand Dorten zu füllen. </p>
             </div>
         </body>
     </text>

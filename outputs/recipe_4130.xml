@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn das Tractament nicht darnach geschaffen; so wird er zertheilt <lb/> oder gespalten <lb/> und auf obige Weiß gesaltzen <lb/> gepaitzt <lb/> gespickt <lb/> und am Spiß <lb/> oder in den <objectName ref="ofen">Ofen</objectName> <lb/> mit seiner Paitz <lb/> und wohl <objectName ref="butter">Butter</objectName> <lb/> oder <objectName ref="speck">Speck</objectName> gebraten. </p>
+        <p> WAnn das Tractament nicht darnach geschaffen; so wird er zertheilt <lb/> oder gespalten <lb/> und auf obige Weiß gesaltzen <lb/> gepaitzt <lb/> gespickt <lb/> und am Spiß <lb/> oder in den <objectName ref="#ofen">Ofen</objectName> <lb/> mit seiner Paitz <lb/> und wohl <objectName ref="#butter">Butter</objectName> <lb/> oder <objectName ref="#speck">Speck</objectName> gebraten. </p>
             </div>
         </body>
     </text>

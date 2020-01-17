@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim 2. Pfundt guten Zucker/ leutere ihn in lauter Rosenwasser/ darnach nim schöne quitten/ wasche sie sauber/ vnnd schele sie rein/ schneide sie zu Schnizen/ seynd die <objectName ref="quitten">Quitten</objectName> groß/ so mache fünff Schniz auß einer/ vnnd mache die gleich/ daß sie einer grösse seyn/ schneide die Kern und <objectName ref="stein">Stein</objectName> in der mitte sauber her= ausser/ vnnd nim der Schnitz auch 2. pfund/ thus in den geläuterten Zucker/ laß sieden biß sie weich wer= den/ darnach zerrühre sie wol mit einen hölzernen Löffel/ thu es über ein Kolfewr/ und laß sie gehlingen absieden/ biß sich die Materi von der Pfannen schelt/ so hat es genug. Sieß dann in ein Geschirr/ wie du weist. </p>
+        <p> Nim 2. Pfundt guten Zucker/ leutere ihn in lauter Rosenwasser/ darnach nim schöne quitten/ wasche sie sauber/ vnnd schele sie rein/ schneide sie zu Schnizen/ seynd die <objectName ref="#quitten">Quitten</objectName> groß/ so mache fünff Schniz auß einer/ vnnd mache die gleich/ daß sie einer grösse seyn/ schneide die Kern und <objectName ref="#stein">Stein</objectName> in der mitte sauber her= ausser/ vnnd nim der Schnitz auch 2. pfund/ thus in den geläuterten Zucker/ laß sieden biß sie weich wer= den/ darnach zerrühre sie wol mit einen hölzernen Löffel/ thu es über ein Kolfewr/ und laß sie gehlingen absieden/ biß sich die Materi von der Pfannen schelt/ so hat es genug. Sieß dann in ein Geschirr/ wie du weist. </p>
             </div>
         </body>
     </text>

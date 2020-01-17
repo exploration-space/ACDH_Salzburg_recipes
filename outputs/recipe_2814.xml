@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet aus schönen grossen Hieffen <lb/> oder <objectName ref="hagebutten">Hagebutten</objectName> <lb/> die Kerne heraus <lb/> lassets im <objectName ref="wasser">Wasser</objectName> sieden <lb/> biß sie weich werden; treibets dann durch ein <objectName ref="sieb">Sieb</objectName> <lb/> machet sie allerdings mit <lb/> oder ohne Gewürtz <lb/> wie die Quitten= Zelten <lb/> Num. 116. und druckets in die Mödel. </p>
+        <p> NEhmet aus schönen grossen Hieffen <lb/> oder <objectName ref="#hagebutten">Hagebutten</objectName> <lb/> die Kerne heraus <lb/> lassets im <objectName ref="#wasser">Wasser</objectName> sieden <lb/> biß sie weich werden; treibets dann durch ein <objectName ref="#sieb">Sieb</objectName> <lb/> machet sie allerdings mit <lb/> oder ohne Gewürtz <lb/> wie die Quitten= Zelten <lb/> Num. 116. und druckets in die Mödel. </p>
             </div>
         </body>
     </text>

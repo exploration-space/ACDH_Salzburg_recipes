@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Take the Rind of two or three Oranges, and boil them very tender; then beat them very fine in a Mortar, and rub them thro ’ an Hair Sieve; then take a <objectName ref="quart">Quart</objectName> of Cream, boil it, and put in the Yolks of ten Eggs, and the Whites of two; beat the Eggs very well before you put them to the boiling Cream; stir it all one Way, ’ till it is a Curd; then whey it in a Strainer; when it is cold, mix in as much of the Orange as you think will make it taste as you wou ’ d have it; then sweeten it as you like it. </p>
+        <p> Take the Rind of two or three Oranges, and boil them very tender; then beat them very fine in a Mortar, and rub them thro ’ an Hair Sieve; then take a <objectName ref="#quart">Quart</objectName> of Cream, boil it, and put in the Yolks of ten Eggs, and the Whites of two; beat the Eggs very well before you put them to the boiling Cream; stir it all one Way, ’ till it is a Curd; then whey it in a Strainer; when it is cold, mix in as much of the Orange as you think will make it taste as you wou ’ d have it; then sweeten it as you like it. </p>
             </div>
         </body>
     </text>

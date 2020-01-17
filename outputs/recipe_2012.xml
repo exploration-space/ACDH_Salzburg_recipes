@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Weiß eingemacht mit Petersill Wurzl, vnd mit Arbeiß= <lb/> brüe, vnd Buter, Mußcatblie vnd Imber, vnd ein Wenig <lb/> eingebrent Mell, laß darmit Sieden, oder gibs truhken <lb/> auf ein <objectName ref="tisch">tisch</objectName>, besträs mit geschnitnen Petersill vnd <lb/> Imber. <lb/> Wen die Plateiß dür vnd Wollaußgewässert sein, <lb/> So sez sie auf das <objectName ref="feuer">Feuer</objectName> mit <objectName ref="wasser">Wasser</objectName> vnd laß auf sieden, <lb/> khiel sie auß, vnd leg sie vom gräd hinwekh, so Werden <lb/> sie Weiß, Zeuch die schwarz haut auch daruon, thue sie <lb/> in ein Schißl, geuß ein Arbeßbrüe dran, vnd brenn ein <lb/> Wenig mell ein, vnd leg ein khim dran, Pfeffers vnd <lb/> gilbs, gibs Warmb auf ein <objectName ref="tisch">tisch</objectName>. </p>
+        <p> Weiß eingemacht mit Petersill Wurzl, vnd mit Arbeiß= <lb/> brüe, vnd Buter, Mußcatblie vnd Imber, vnd ein Wenig <lb/> eingebrent Mell, laß darmit Sieden, oder gibs truhken <lb/> auf ein <objectName ref="#tisch">tisch</objectName>, besträs mit geschnitnen Petersill vnd <lb/> Imber. <lb/> Wen die Plateiß dür vnd Wollaußgewässert sein, <lb/> So sez sie auf das <objectName ref="#feuer">Feuer</objectName> mit <objectName ref="#wasser">Wasser</objectName> vnd laß auf sieden, <lb/> khiel sie auß, vnd leg sie vom gräd hinwekh, so Werden <lb/> sie Weiß, Zeuch die schwarz haut auch daruon, thue sie <lb/> in ein Schißl, geuß ein Arbeßbrüe dran, vnd brenn ein <lb/> Wenig mell ein, vnd leg ein khim dran, Pfeffers vnd <lb/> gilbs, gibs Warmb auf ein <objectName ref="#tisch">tisch</objectName>. </p>
             </div>
         </body>
     </text>

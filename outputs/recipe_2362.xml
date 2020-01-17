@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChneidet die Saurach oder Wein= Lägelein mit einem subtilen Messerlein auf <lb/> nehmet die Kern heraus <lb/> überstreuets mit Canarien= <objectName ref="zucker">Zucker</objectName> <lb/> schlichtets in ein <objectName ref="glas">Glas</objectName> oder Tiegelein <lb/> ( man kan auch wohl en wenig geläuterten <objectName ref="zucker">Zucker</objectName> <lb/> wann er zuvor erkaltet <lb/> darüber giessen <lb/> so bekommen sie mehr Brüh ) lassets fünff oder sechs Tage lang in einer Stuben <lb/> oder auch in der Sonnen stehen <lb/> damit der <objectName ref="zucker">Zucker</objectName> recht zergehet. </p>
+        <p> SChneidet die Saurach oder Wein= Lägelein mit einem subtilen Messerlein auf <lb/> nehmet die Kern heraus <lb/> überstreuets mit Canarien= <objectName ref="#zucker">Zucker</objectName> <lb/> schlichtets in ein <objectName ref="#glas">Glas</objectName> oder Tiegelein <lb/> ( man kan auch wohl en wenig geläuterten <objectName ref="#zucker">Zucker</objectName> <lb/> wann er zuvor erkaltet <lb/> darüber giessen <lb/> so bekommen sie mehr Brüh ) lassets fünff oder sechs Tage lang in einer Stuben <lb/> oder auch in der Sonnen stehen <lb/> damit der <objectName ref="#zucker">Zucker</objectName> recht zergehet. </p>
             </div>
         </body>
     </text>

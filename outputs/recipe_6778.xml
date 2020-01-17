@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Trucken Kramatsvögel abgebraten fein im Safft <lb/> vnnd saure Limonien geschnitten fein breit <lb/> vnd vber die <objectName ref="voegel">Vögel</objectName> gelegt. </p>
+        <p> Trucken Kramatsvögel abgebraten fein im Safft <lb/> vnnd saure Limonien geschnitten fein breit <lb/> vnd vber die <objectName ref="#voegel">Vögel</objectName> gelegt. </p>
             </div>
         </body>
     </text>

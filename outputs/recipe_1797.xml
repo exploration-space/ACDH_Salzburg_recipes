@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Stosß weinpör klein in ainen <lb/> <objectName ref="moerser">Mörser</objectName>, Pär etlich Semel darunter, Nimb <lb/> ain gueten <objectName ref="wein">wein</objectName>, treibs alß fein durch, <lb/> thues in ain Saubers höfen, thue darunter <lb/> zugger, lints gewürz, stosß Confect dar= <lb/> =unter, stosß oben darauf, wan du eß <lb/> anrichtest, du magst d ( a ) s gmüeß v̈ber= <lb/> =bratne Capaun geben Khalt. <lb/> </p>
+        <p> Stosß weinpör klein in ainen <lb/> <objectName ref="#moerser">Mörser</objectName>, Pär etlich Semel darunter, Nimb <lb/> ain gueten <objectName ref="#wein">wein</objectName>, treibs alß fein durch, <lb/> thues in ain Saubers höfen, thue darunter <lb/> zugger, lints gewürz, stosß Confect dar= <lb/> =unter, stosß oben darauf, wan du eß <lb/> anrichtest, du magst d ( a ) s gmüeß v̈ber= <lb/> =bratne Capaun geben Khalt. <lb/> </p>
             </div>
         </body>
     </text>

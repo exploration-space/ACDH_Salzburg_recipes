@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb dem Pratfisch, mach in auf, nimb den <lb/> Grät herauß, gieß öll vnd <objectName ref="essig">Essig</objectName> darauf, <lb/> vnd ain wennig arbes supen, vnd ain hant <lb/><lb/> ( 22v ) voll Cäpri darzue, gewürz es, sez in auf <lb/> ein gluet, laß in Sieden, solang man ain par ayr hört Sied, gib in auf die tafel. <lb/> </p>
+        <p> Nimb dem Pratfisch, mach in auf, nimb den <lb/> Grät herauß, gieß öll vnd <objectName ref="#essig">Essig</objectName> darauf, <lb/> vnd ain wennig arbes supen, vnd ain hant <lb/><lb/> ( 22v ) voll Cäpri darzue, gewürz es, sez in auf <lb/> ein gluet, laß in Sieden, solang man ain par ayr hört Sied, gib in auf die tafel. <lb/> </p>
             </div>
         </body>
     </text>

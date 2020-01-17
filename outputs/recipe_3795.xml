@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn der Waller eingesaltzen <lb/> so wird er mit <lb/> oder ohne Meel ausgebachen <lb/> in die <objectName ref="pastete">Pasteten</objectName> mit Gewürtz <lb/> <objectName ref="butter">Butter</objectName> und andrer Zugehör eingericht und gebachen <lb/> hernach mit einer braunen und sauren Sardellen= <objectName ref="bruehe">Brühe</objectName> versehen <lb/> und zur Tafel gegeben. </p>
+        <p> WAnn der Waller eingesaltzen <lb/> so wird er mit <lb/> oder ohne Meel ausgebachen <lb/> in die <objectName ref="#pastete">Pasteten</objectName> mit Gewürtz <lb/> <objectName ref="#butter">Butter</objectName> und andrer Zugehör eingericht und gebachen <lb/> hernach mit einer braunen und sauren Sardellen= <objectName ref="#bruehe">Brühe</objectName> versehen <lb/> und zur Tafel gegeben. </p>
             </div>
         </body>
     </text>

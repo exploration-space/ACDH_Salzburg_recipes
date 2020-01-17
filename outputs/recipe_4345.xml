@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Das <objectName ref="hirn">Hirn</objectName> muß auch gesotten <lb/> gesäubert <lb/> und gleich denen Brüßlein <lb/> mit <objectName ref="wein">Wein</objectName> oder Lemoni= Safft gesäuert werden <lb/> in gelber <objectName ref="bruehe">Brühe</objectName> <lb/> oder in einer Zwibel= <objectName ref="bruehe">Brühe</objectName> <lb/> oder mit Petersil= Würtzelein; oder zu einer Fricasse, wie erst bey den <objectName ref="augen">Augen</objectName> gemeldt worden. </p>
+        <p> Das <objectName ref="#hirn">Hirn</objectName> muß auch gesotten <lb/> gesäubert <lb/> und gleich denen Brüßlein <lb/> mit <objectName ref="#wein">Wein</objectName> oder Lemoni= Safft gesäuert werden <lb/> in gelber <objectName ref="#bruehe">Brühe</objectName> <lb/> oder in einer Zwibel= <objectName ref="#bruehe">Brühe</objectName> <lb/> oder mit Petersil= Würtzelein; oder zu einer Fricasse, wie erst bey den <objectName ref="#augen">Augen</objectName> gemeldt worden. </p>
             </div>
         </body>
     </text>

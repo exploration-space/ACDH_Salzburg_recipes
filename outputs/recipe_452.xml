@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimbe ein seitl<gap/> Guettes siess obers<gap/> <lb/> vnnd ein löffl voll Gar schönes <lb/> Nudl mell<gap/> Dreibe<gap/> es mit Den siessen <lb/> obers<gap/> Gar glat ab, schlage.4. Ayr<gap/> <lb/> darein Zuckhers Das siess<gap/> Genug ist <lb/> sprigl<gap/> es alles vntereinander ab <lb/> wer will der Kan auch <objectName ref="rosen">Rosen</objectName> <objectName ref="wasser">Wasser</objectName> <lb/> Darzur Giessen<gap/>, seiche<gap/> es durch ein <lb/> enges sibl<gap/> in die schisßl<gap/> söze einen <lb/> Raift<gap/> Darauf Gib ihn vntersich<gap/> vnd <lb/> ybersich<gap/> ein Gluet<gap/> doch nit Gar Zu <lb/> Vill Wan es ybersich schön Praun <lb/><lb/> ( ve 240 ) ist Zuckhers gibs Geschwind, olso ist <lb/> es schön vnnd Guett <lb/> </p>
+        <p> Nimbe ein seitl<gap/> Guettes siess obers<gap/> <lb/> vnnd ein löffl voll Gar schönes <lb/> Nudl mell<gap/> Dreibe<gap/> es mit Den siessen <lb/> obers<gap/> Gar glat ab, schlage.4. Ayr<gap/> <lb/> darein Zuckhers Das siess<gap/> Genug ist <lb/> sprigl<gap/> es alles vntereinander ab <lb/> wer will der Kan auch <objectName ref="#rosen">Rosen</objectName> <objectName ref="#wasser">Wasser</objectName> <lb/> Darzur Giessen<gap/>, seiche<gap/> es durch ein <lb/> enges sibl<gap/> in die schisßl<gap/> söze einen <lb/> Raift<gap/> Darauf Gib ihn vntersich<gap/> vnd <lb/> ybersich<gap/> ein Gluet<gap/> doch nit Gar Zu <lb/> Vill Wan es ybersich schön Praun <lb/><lb/> ( ve 240 ) ist Zuckhers gibs Geschwind, olso ist <lb/> es schön vnnd Guett <lb/> </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein lablets <objectName ref="wasser">Wasser</objectName>, vnd ein Wenig <objectName ref="rosenwasser">Rosenwasser</objectName>, ein löfl voll <lb/> <objectName ref="wein">Wein</objectName>, mach den taig damit an, nimb aÿr, Zukher vnd Puter, ein <lb/> Wenig Mußcatblue stup drein, machs nit gar Zu dikh an, nimb ein <lb/> khlains <objectName ref="straubenloeffel">Straubenlöffel</objectName>, bachs im <objectName ref="schmalz">schmalz</objectName> Zu 2. Aÿr doter nimbt man <lb/> auch ein khlar. <lb/> </p>
+        <p> Nimb ein lablets <objectName ref="#wasser">Wasser</objectName>, vnd ein Wenig <objectName ref="#rosenwasser">Rosenwasser</objectName>, ein löfl voll <lb/> <objectName ref="#wein">Wein</objectName>, mach den taig damit an, nimb aÿr, Zukher vnd Puter, ein <lb/> Wenig Mußcatblue stup drein, machs nit gar Zu dikh an, nimb ein <lb/> khlains <objectName ref="#straubenloeffel">Straubenlöffel</objectName>, bachs im <objectName ref="#schmalz">schmalz</objectName> Zu 2. Aÿr doter nimbt man <lb/> auch ein khlar. <lb/> </p>
             </div>
         </body>
     </text>

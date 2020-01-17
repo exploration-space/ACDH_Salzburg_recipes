@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Gebradtne<gap/> Vögl Gebradtne <objectName ref="fisch">fisch</objectName> <lb/> löber vnnd ein Gebädtes<gap/> sembl Schnidl<gap/> <lb/> stoss<gap/> alles in ein Merscher<gap/> darnach <lb/> durch dreibs<gap/> mit <objectName ref="wein">Wein</objectName> gis<gap/> <objectName ref="fleisch">Fleisch</objectName> brie<gap/> <lb/> daran Gewirz<gap/> mit Nägl<gap/> Imber<gap/> <lb/> <objectName ref="pfeffer">Pfeffer</objectName> vnnd Musgablie<gap/> lass vnder= <lb/> einander siedten<gap/> Nimb Gebradtne <lb/> Vögl oder Henner thus in ein <lb/> schissl<gap/> Gies<gap/> die Prie<gap/> daryber. <lb/> </p>
+        <p> Nimb Gebradtne<gap/> Vögl Gebradtne <objectName ref="#fisch">fisch</objectName> <lb/> löber vnnd ein Gebädtes<gap/> sembl Schnidl<gap/> <lb/> stoss<gap/> alles in ein Merscher<gap/> darnach <lb/> durch dreibs<gap/> mit <objectName ref="#wein">Wein</objectName> gis<gap/> <objectName ref="#fleisch">Fleisch</objectName> brie<gap/> <lb/> daran Gewirz<gap/> mit Nägl<gap/> Imber<gap/> <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> vnnd Musgablie<gap/> lass vnder= <lb/> einander siedten<gap/> Nimb Gebradtne <lb/> Vögl oder Henner thus in ein <lb/> schissl<gap/> Gies<gap/> die Prie<gap/> daryber. <lb/> </p>
             </div>
         </body>
     </text>

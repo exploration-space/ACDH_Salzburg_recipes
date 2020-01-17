@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Zum Braten <lb/> vnd zum eynmachen in <objectName ref="pastete">Pasteten</objectName> <lb/> auff allerley art vnd manier. </p>
+        <p> Zum Braten <lb/> vnd zum eynmachen in <objectName ref="#pastete">Pasteten</objectName> <lb/> auff allerley art vnd manier. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Seihe sie ab vom <objectName ref="zucker">Zucker</objectName> oder Syrup <lb/> wasche die Beer in scharffem Wein=Eßig ab <lb/> daß sie recent werden <lb/> gib den vorigen <objectName ref="zucker">Zucker</objectName> oder Syrup nach Proportion wieder daran <lb/> laß kurz kochen <lb/> und gibs vor ein süsse Speiß <lb/> Dorten= oder Kräpfflein=Füll <lb/> in Schmaltz zu bachen. </p>
+        <p> Seihe sie ab vom <objectName ref="#zucker">Zucker</objectName> oder Syrup <lb/> wasche die Beer in scharffem Wein=Eßig ab <lb/> daß sie recent werden <lb/> gib den vorigen <objectName ref="#zucker">Zucker</objectName> oder Syrup nach Proportion wieder daran <lb/> laß kurz kochen <lb/> und gibs vor ein süsse Speiß <lb/> Dorten= oder Kräpfflein=Füll <lb/> in Schmaltz zu bachen. </p>
             </div>
         </body>
     </text>

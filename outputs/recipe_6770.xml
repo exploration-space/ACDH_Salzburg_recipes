@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Quell die <objectName ref="wachtel">Wachteln</objectName> wol <lb/> daß sie schier gesotten seyn <lb/> vnnd seig ein gute Rindtfleischbrüh darüber <lb/> Nim ( m ) Spenat <lb/> der gequellt ist <lb/> thu jn an die <objectName ref="wachtel">Wachteln</objectName> <lb/> Nim ( m ) auch eyngebrennt <objectName ref="mehl">Mehl</objectName> darein <lb/> vnd frische vngeschmältzte <objectName ref="butter">Butter</objectName> <lb/> auch Muscatenblüt vnd gantzen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> laß es starck miteinander auffsieden <lb/> so wirt es gut vnd wolgeschmack. </p>
+        <p> Quell die <objectName ref="#wachtel">Wachteln</objectName> wol <lb/> daß sie schier gesotten seyn <lb/> vnnd seig ein gute Rindtfleischbrüh darüber <lb/> Nim ( m ) Spenat <lb/> der gequellt ist <lb/> thu jn an die <objectName ref="#wachtel">Wachteln</objectName> <lb/> Nim ( m ) auch eyngebrennt <objectName ref="#mehl">Mehl</objectName> darein <lb/> vnd frische vngeschmältzte <objectName ref="#butter">Butter</objectName> <lb/> auch Muscatenblüt vnd gantzen <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> laß es starck miteinander auffsieden <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

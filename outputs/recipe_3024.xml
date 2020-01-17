@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> GElbe Ruben oder Mehrn gebutzt <lb/> zu <objectName ref="raedlein">Rädlein</objectName> geschnitten <lb/> gebrüht <lb/> und dann mit Gewürtz <lb/> Zwibel und Petersil <lb/> mit <objectName ref="butter">Butter</objectName> <lb/> auch Fleisch= oder Erbes= <objectName ref="bruehe">Brühe</objectName> <lb/> schön gelb eingebrennt <lb/> und gar gekocht. </p>
+        <p> GElbe Ruben oder Mehrn gebutzt <lb/> zu <objectName ref="#raedlein">Rädlein</objectName> geschnitten <lb/> gebrüht <lb/> und dann mit Gewürtz <lb/> Zwibel und Petersil <lb/> mit <objectName ref="#butter">Butter</objectName> <lb/> auch Fleisch= oder Erbes= <objectName ref="#bruehe">Brühe</objectName> <lb/> schön gelb eingebrennt <lb/> und gar gekocht. </p>
             </div>
         </body>
     </text>

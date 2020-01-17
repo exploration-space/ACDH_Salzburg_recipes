@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Eß ist Zuwissen, das ein <objectName ref="pastete">Pasteten</objectName>, darein man die khitten, <lb/> anderst legen mueß, nit leicht machen khan, dan es sechens am <lb/> ersten, Wie mans mueß außtreiben, es fiegt ein starkhes <lb/> Mensch darzue, dan es mueß starkh sein, man mag für das <lb/> <objectName ref="schmalz">Schmalz</objectName> ein faisten Supen nemmen, seÿ Rinder : oder schöfferer, <lb/> Wan die faisten beÿein ander bleibt, so ist es starkh. <lb/> </p>
+        <p> Eß ist Zuwissen, das ein <objectName ref="#pastete">Pasteten</objectName>, darein man die khitten, <lb/> anderst legen mueß, nit leicht machen khan, dan es sechens am <lb/> ersten, Wie mans mueß außtreiben, es fiegt ein starkhes <lb/> Mensch darzue, dan es mueß starkh sein, man mag für das <lb/> <objectName ref="#schmalz">Schmalz</objectName> ein faisten Supen nemmen, seÿ Rinder : oder schöfferer, <lb/> Wan die faisten beÿein ander bleibt, so ist es starkh. <lb/> </p>
             </div>
         </body>
     </text>

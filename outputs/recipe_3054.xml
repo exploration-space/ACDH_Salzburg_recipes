@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Zu diesem nimm 3. Löffelvoll schönes Meel <lb/> in ein <objectName ref="haefelein">Häfelein</objectName> 3. Eyer und 3. Dotter <lb/> rührs glatt ab <lb/> nimm eine blaue <objectName ref="milch">Milch</objectName> <lb/> mach den Taig damit an <lb/> aber nicht zu dick <lb/> nimm ein Schmaltz oder <objectName ref="butter">Butter</objectName> <lb/> laß siedig <lb/> doch nicht zuviel heiß werden <lb/> gieß den Taig darein schön kleim <lb/> machs als wie subtile Farfel <lb/> und gibs wohl abgesiehner <lb/> drucken zu <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> Zu diesem nimm 3. Löffelvoll schönes Meel <lb/> in ein <objectName ref="#haefelein">Häfelein</objectName> 3. Eyer und 3. Dotter <lb/> rührs glatt ab <lb/> nimm eine blaue <objectName ref="#milch">Milch</objectName> <lb/> mach den Taig damit an <lb/> aber nicht zu dick <lb/> nimm ein Schmaltz oder <objectName ref="#butter">Butter</objectName> <lb/> laß siedig <lb/> doch nicht zuviel heiß werden <lb/> gieß den Taig darein schön kleim <lb/> machs als wie subtile Farfel <lb/> und gibs wohl abgesiehner <lb/> drucken zu <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

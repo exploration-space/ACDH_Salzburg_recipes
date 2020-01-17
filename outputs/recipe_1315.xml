@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Hackhe<gap/> erst : ein hänner Löberl<gap/> gar <lb/> klein, thue es in ein häferl<gap/>, gieß<gap/> milch<gap/> <lb/> darein, und schlag ayr<gap/> dran, <objectName ref="salz">salz</objectName>, sprigle<gap/> <lb/> es ab, seich<gap/> es durch ein enges sib<gap/>, thue in <lb/> ein Kupfernes pfändl<gap/> ein wenig Butter<gap/>, <lb/> gieß<gap/> daß schödl<gap/> hinein, rihrs<gap/> auf einer gluet<gap/> <lb/> herab, thues in ein enges sib<gap/>, daß es ab : <lb/> seicht<gap/>, thues in ein schüsßl<gap/> mach Butter<gap/> <lb/> suppen<gap/> dariber, ist guet. <lb/> </p>
+        <p> Hackhe<gap/> erst : ein hänner Löberl<gap/> gar <lb/> klein, thue es in ein häferl<gap/>, gieß<gap/> milch<gap/> <lb/> darein, und schlag ayr<gap/> dran, <objectName ref="#salz">salz</objectName>, sprigle<gap/> <lb/> es ab, seich<gap/> es durch ein enges sib<gap/>, thue in <lb/> ein Kupfernes pfändl<gap/> ein wenig Butter<gap/>, <lb/> gieß<gap/> daß schödl<gap/> hinein, rihrs<gap/> auf einer gluet<gap/> <lb/> herab, thues in ein enges sib<gap/>, daß es ab : <lb/> seicht<gap/>, thues in ein schüsßl<gap/> mach Butter<gap/> <lb/> suppen<gap/> dariber, ist guet. <lb/> </p>
             </div>
         </body>
     </text>

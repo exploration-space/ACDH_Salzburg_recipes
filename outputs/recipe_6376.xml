@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Brenn <objectName ref="griess">Grieß</objectName> eyn in lauter <objectName ref="butter">Butter</objectName> <lb/> die warm ist <lb/> wenn die <objectName ref="milch">Milch</objectName> seudt <lb/> so rür es eyn <lb/> daß nicht knollicht wirt <lb/> laß darnach sieden. Vnd ist wenig <objectName ref="griess">Grieß</objectName> eyngebrennt <lb/> daß dünn ist <lb/> so nim ( m ) Eyer <lb/> vnnd zerschlag sie wol <lb/> gelbs ein wenig <lb/> vnd laß durch ein Härin <objectName ref="tuch">Tuch</objectName> lauffen <lb/> rür die Eyer in das Muß <lb/> so wirt es fein dick <lb/> saltz es darnach ab <lb/> vnnd machs braun mit einer heissen Hafendeck <lb/> sträw Driet darüber <lb/> so wirdt es gut vnd auch wolgeschmack. </p>
+        <p> Brenn <objectName ref="#griess">Grieß</objectName> eyn in lauter <objectName ref="#butter">Butter</objectName> <lb/> die warm ist <lb/> wenn die <objectName ref="#milch">Milch</objectName> seudt <lb/> so rür es eyn <lb/> daß nicht knollicht wirt <lb/> laß darnach sieden. Vnd ist wenig <objectName ref="#griess">Grieß</objectName> eyngebrennt <lb/> daß dünn ist <lb/> so nim ( m ) Eyer <lb/> vnnd zerschlag sie wol <lb/> gelbs ein wenig <lb/> vnd laß durch ein Härin <objectName ref="#tuch">Tuch</objectName> lauffen <lb/> rür die Eyer in das Muß <lb/> so wirt es fein dick <lb/> saltz es darnach ab <lb/> vnnd machs braun mit einer heissen Hafendeck <lb/> sträw Driet darüber <lb/> so wirdt es gut vnd auch wolgeschmack. </p>
             </div>
         </body>
     </text>

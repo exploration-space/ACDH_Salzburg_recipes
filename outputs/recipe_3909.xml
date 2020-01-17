@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Diser kann verkocht werden <lb/> wie der <objectName ref="adler">Adler</objectName> <lb/> gebraten <lb/> in die <objectName ref="pastete">Pasteten</objectName> <lb/> oder kalter Allaboda, ec. </p>
+        <p> Diser kann verkocht werden <lb/> wie der <objectName ref="#adler">Adler</objectName> <lb/> gebraten <lb/> in die <objectName ref="#pastete">Pasteten</objectName> <lb/> oder kalter Allaboda, ec. </p>
             </div>
         </body>
     </text>

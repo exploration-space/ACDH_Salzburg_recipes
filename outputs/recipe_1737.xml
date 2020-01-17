@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Seud haiß vnd schölß, wan du geschölt hast, <lb/> so hakhs klain, schlag.6. ayr darunter, <lb/> Nimb weinpör, gilbs mit linden gewürz, <lb/> Imber vnd <objectName ref="pfeffer">Pfeffer</objectName>, <objectName ref="salz">Salz</objectName> linnt, thues in <lb/> ain Pfannen, d ( a ) s wennig <objectName ref="schmalz">schmalz</objectName> darinnen <lb/> sey, döckh oben auf ain haiß blöch, laß <lb/> schön bachen <lb/> </p>
+        <p> Seud haiß vnd schölß, wan du geschölt hast, <lb/> so hakhs klain, schlag.6. ayr darunter, <lb/> Nimb weinpör, gilbs mit linden gewürz, <lb/> Imber vnd <objectName ref="#pfeffer">Pfeffer</objectName>, <objectName ref="#salz">Salz</objectName> linnt, thues in <lb/> ain Pfannen, d ( a ) s wennig <objectName ref="#schmalz">schmalz</objectName> darinnen <lb/> sey, döckh oben auf ain haiß blöch, laß <lb/> schön bachen <lb/> </p>
             </div>
         </body>
     </text>

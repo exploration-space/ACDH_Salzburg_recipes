@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Pomeränzen schelln, britt die Woll, das nit händtig Werden, <lb/> daran nimb Arbesbrüe, thue die Pomeränzen scheln drein, Pfeffer= <lb/> stup, Imer, Mußcatblüe, ein Wenig <objectName ref="zibeben">Zibeben</objectName>, Weinpörl Zukher dran, <lb/> gilbs, laß sieden durcheinander, thue den Wallerkhopf darein, Richt <lb/> ihn an, so ist er beraith. <lb/> </p>
+        <p> Nimb Pomeränzen schelln, britt die Woll, das nit händtig Werden, <lb/> daran nimb Arbesbrüe, thue die Pomeränzen scheln drein, Pfeffer= <lb/> stup, Imer, Mußcatblüe, ein Wenig <objectName ref="#zibeben">Zibeben</objectName>, Weinpörl Zukher dran, <lb/> gilbs, laß sieden durcheinander, thue den Wallerkhopf darein, Richt <lb/> ihn an, so ist er beraith. <lb/> </p>
             </div>
         </body>
     </text>

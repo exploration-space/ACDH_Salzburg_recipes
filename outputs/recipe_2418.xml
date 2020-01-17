@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEn <objectName ref="ampfer">Ampfer</objectName> soll man <lb/> wie allbereit in denen beeden kurz= vorhergehenden <objectName ref="suppe">Suppen</objectName> gemeldet worden <lb/> stossen und durchzwingen <lb/> in ein <objectName ref="haefelein">Häfelein</objectName> thun <lb/> mit Ingber und Muscatblüh würtzen <lb/> und ein wenig saltzen : alsdann mit einem Stücklein <objectName ref="butter">Butter</objectName> aufsieden lassen <lb/> in eine <objectName ref="schuessel">Schüssel</objectName> anrichten <lb/> auf <objectName ref="kohlen">Kohlen</objectName> setzen <lb/> und frische Eyer darein verliehren. Es muß aber deß Ampfers viel seyn <lb/> daß sie dick wird wie ein Brey oder Mus. </p>
+        <p> DEn <objectName ref="#ampfer">Ampfer</objectName> soll man <lb/> wie allbereit in denen beeden kurz= vorhergehenden <objectName ref="#suppe">Suppen</objectName> gemeldet worden <lb/> stossen und durchzwingen <lb/> in ein <objectName ref="#haefelein">Häfelein</objectName> thun <lb/> mit Ingber und Muscatblüh würtzen <lb/> und ein wenig saltzen : alsdann mit einem Stücklein <objectName ref="#butter">Butter</objectName> aufsieden lassen <lb/> in eine <objectName ref="#schuessel">Schüssel</objectName> anrichten <lb/> auf <objectName ref="#kohlen">Kohlen</objectName> setzen <lb/> und frische Eyer darein verliehren. Es muß aber deß Ampfers viel seyn <lb/> daß sie dick wird wie ein Brey oder Mus. </p>
             </div>
         </body>
     </text>

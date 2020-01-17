@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Man solle ein schmalz<gap/> lassen hais <lb/> werden auch Sembl Gewirflet<gap/> <lb/> schneiden vnnd Darinnen Resten<gap/>, Gies<gap/> <lb/> <objectName ref="essig">essig</objectName> vnnd <objectName ref="wasser">wasser</objectName> Daran, auch <lb/> Zimmet<gap/> vnnd Muhcatblie<gap/> Dar Zue <lb/> lass also vntereinander Sieden<gap/> <lb/> aber nit Zu lang lege auch ein <lb/> putter Daran, lege Die <objectName ref="fisch">Fisch</objectName> in <lb/> ein schißl<gap/> Gies Das Sippl<gap/> Daryber <lb/> Gibs also ist sie recht vnd Guett <lb/> </p>
+        <p> Man solle ein schmalz<gap/> lassen hais <lb/> werden auch Sembl Gewirflet<gap/> <lb/> schneiden vnnd Darinnen Resten<gap/>, Gies<gap/> <lb/> <objectName ref="#essig">essig</objectName> vnnd <objectName ref="#wasser">wasser</objectName> Daran, auch <lb/> Zimmet<gap/> vnnd Muhcatblie<gap/> Dar Zue <lb/> lass also vntereinander Sieden<gap/> <lb/> aber nit Zu lang lege auch ein <lb/> putter Daran, lege Die <objectName ref="#fisch">Fisch</objectName> in <lb/> ein schißl<gap/> Gies Das Sippl<gap/> Daryber <lb/> Gibs also ist sie recht vnd Guett <lb/> </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChneide viel Zwibel etwas grob <lb/> dann nimme ein Casserol mit ebenfalls zimlich viel von dem <objectName ref="rindfleisch">Rindfleisch</objectName> abgeschöpfften Fetten <lb/> röste erstlich den Zwibel <lb/> und hernach auch das aufgeschnittene Commiss= Brod zugleich darmit <lb/> gewürtz mit Muscatnuß und <objectName ref="pfeffer">Pfeffer</objectName> <lb/> gieß gute <objectName ref="fleischbruehe">Fleischbrühe</objectName> daran <lb/> laß es auf einer <objectName ref="glut">Glut</objectName> einsieden <lb/> und gibs warmer zu <objectName ref="tisch">Tisch</objectName>. Also hab ich zu Griechischweissenburg vielmal vor den Printzen von Sultzbach gemacht. </p>
+        <p> SChneide viel Zwibel etwas grob <lb/> dann nimme ein Casserol mit ebenfalls zimlich viel von dem <objectName ref="#rindfleisch">Rindfleisch</objectName> abgeschöpfften Fetten <lb/> röste erstlich den Zwibel <lb/> und hernach auch das aufgeschnittene Commiss= Brod zugleich darmit <lb/> gewürtz mit Muscatnuß und <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> gieß gute <objectName ref="#fleischbruehe">Fleischbrühe</objectName> daran <lb/> laß es auf einer <objectName ref="#glut">Glut</objectName> einsieden <lb/> und gibs warmer zu <objectName ref="#tisch">Tisch</objectName>. Also hab ich zu Griechischweissenburg vielmal vor den Printzen von Sultzbach gemacht. </p>
             </div>
         </body>
     </text>

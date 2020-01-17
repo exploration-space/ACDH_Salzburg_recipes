@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr Reh= <objectName ref="schlegel">Schlegel</objectName> ist auch köchlich <lb/> in die <objectName ref="pastete">Pasteten</objectName> <lb/> auch sonst mit gewürtztem <objectName ref="speck">Speck</objectName> durchzogen; gewürtzt <lb/> und gleich einer <objectName ref="pastete">Pasteten</objectName> gedämpfft <lb/> also ist er kalt und warm gut. </p>
+        <p> DEr Reh= <objectName ref="#schlegel">Schlegel</objectName> ist auch köchlich <lb/> in die <objectName ref="#pastete">Pasteten</objectName> <lb/> auch sonst mit gewürtztem <objectName ref="#speck">Speck</objectName> durchzogen; gewürtzt <lb/> und gleich einer <objectName ref="#pastete">Pasteten</objectName> gedämpfft <lb/> also ist er kalt und warm gut. </p>
             </div>
         </body>
     </text>

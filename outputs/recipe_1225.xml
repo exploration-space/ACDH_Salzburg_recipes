@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schiepp<gap/> die <objectName ref="fisch">fisch</objectName>, schneide<gap/> khrindl<gap/> darein, vnd Mach <lb/> Stuckh<gap/> darauß, <objectName ref="salz">Salz</objectName>, lögs<gap/> in ain Rein<gap/>, gieß<gap/> öhl <lb/> daran, vnd khlein geschnitnen<gap/> zwifl<gap/>, auch Petersill<gap/> <lb/> wurzl<gap/>, döckhs<gap/> zue vnd laß sieden<gap/> vnd preglen<gap/>, <lb/> wanß genueg, so schitte<gap/> ain gläßl <objectName ref="wein">Wein</objectName> darauf, vnd <lb/> gewierz<gap/>, laß sieden<gap/> vnd gibs, <lb/><lb/> ( 28v ) </p>
+        <p> Schiepp<gap/> die <objectName ref="#fisch">fisch</objectName>, schneide<gap/> khrindl<gap/> darein, vnd Mach <lb/> Stuckh<gap/> darauß, <objectName ref="#salz">Salz</objectName>, lögs<gap/> in ain Rein<gap/>, gieß<gap/> öhl <lb/> daran, vnd khlein geschnitnen<gap/> zwifl<gap/>, auch Petersill<gap/> <lb/> wurzl<gap/>, döckhs<gap/> zue vnd laß sieden<gap/> vnd preglen<gap/>, <lb/> wanß genueg, so schitte<gap/> ain gläßl <objectName ref="#wein">Wein</objectName> darauf, vnd <lb/> gewierz<gap/>, laß sieden<gap/> vnd gibs, <lb/><lb/> ( 28v ) </p>
             </div>
         </body>
     </text>

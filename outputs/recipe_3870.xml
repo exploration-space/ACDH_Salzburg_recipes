@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn die Salbling und <objectName ref="forelle">Forellen</objectName> schön mit Meel aus Schmaltz gebachen <lb/> so seynd sie gut in allerhand süß und saurer <objectName ref="bruehe">Brühe</objectName> <lb/> oder Marginat <lb/> etc. zu geben. </p>
+        <p> WAnn die Salbling und <objectName ref="#forelle">Forellen</objectName> schön mit Meel aus Schmaltz gebachen <lb/> so seynd sie gut in allerhand süß und saurer <objectName ref="#bruehe">Brühe</objectName> <lb/> oder Marginat <lb/> etc. zu geben. </p>
             </div>
         </body>
     </text>

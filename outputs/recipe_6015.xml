@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Brüßlein werden zu Blättlein geschnitten <lb/> und mit angemacht= geriebenem Brod <lb/> gleich denen Presolen <lb/> in <objectName ref="papier">Papier</objectName> <lb/> oder in ein mit <objectName ref="butter">Butter</objectName> bestrichenes <objectName ref="geschirr">Geschirr</objectName> gelegt <lb/> gib unten und oben <objectName ref="glut">Glut</objectName> <lb/> und gibs geschwind warm in Safft; Auf obige Weiß mit gutem Oel und <objectName ref="sardellen">Sardellen</objectName>. </p>
+        <p> DIe Brüßlein werden zu Blättlein geschnitten <lb/> und mit angemacht= geriebenem Brod <lb/> gleich denen Presolen <lb/> in <objectName ref="#papier">Papier</objectName> <lb/> oder in ein mit <objectName ref="#butter">Butter</objectName> bestrichenes <objectName ref="#geschirr">Geschirr</objectName> gelegt <lb/> gib unten und oben <objectName ref="#glut">Glut</objectName> <lb/> und gibs geschwind warm in Safft; Auf obige Weiß mit gutem Oel und <objectName ref="#sardellen">Sardellen</objectName>. </p>
             </div>
         </body>
     </text>

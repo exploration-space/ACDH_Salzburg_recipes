@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wasche den Hirsch=Bräun aus etlich <objectName ref="wasser">Wassern</objectName> <lb/> biß er schön gelb wird <lb/> siede ihn in gantz guter <objectName ref="milch">Milch</objectName> <lb/> schön stet und wol <lb/> hernach saltz ihn <lb/> aber nicht zu starck <lb/> lege <objectName ref="butter">Butter</objectName> darein <lb/> gib ihn beym Anrichten mit <objectName ref="zucker">Zucker</objectName> und Zimmet bestreuter. Der Hirsch=Bräun wol gewaschen <lb/> wird auch in der Erbesbrühe gekocht <lb/> wie der Reiß <lb/> und mit <objectName ref="butter">Butter</objectName> <lb/> Saltz und Gewürtz abgemacht. </p>
+        <p> Wasche den Hirsch=Bräun aus etlich <objectName ref="#wasser">Wassern</objectName> <lb/> biß er schön gelb wird <lb/> siede ihn in gantz guter <objectName ref="#milch">Milch</objectName> <lb/> schön stet und wol <lb/> hernach saltz ihn <lb/> aber nicht zu starck <lb/> lege <objectName ref="#butter">Butter</objectName> darein <lb/> gib ihn beym Anrichten mit <objectName ref="#zucker">Zucker</objectName> und Zimmet bestreuter. Der Hirsch=Bräun wol gewaschen <lb/> wird auch in der Erbesbrühe gekocht <lb/> wie der Reiß <lb/> und mit <objectName ref="#butter">Butter</objectName> <lb/> Saltz und Gewürtz abgemacht. </p>
             </div>
         </body>
     </text>

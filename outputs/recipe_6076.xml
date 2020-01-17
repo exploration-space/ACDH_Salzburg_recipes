@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Römische Wicken quell wol mit den Hülsen <lb/> kül sie auß <lb/> vnd mach sie ab mit <objectName ref="essig">Essig</objectName> <lb/> Saltz vnd Oel. </p>
+        <p> Römische Wicken quell wol mit den Hülsen <lb/> kül sie auß <lb/> vnd mach sie ab mit <objectName ref="#essig">Essig</objectName> <lb/> Saltz vnd Oel. </p>
             </div>
         </body>
     </text>

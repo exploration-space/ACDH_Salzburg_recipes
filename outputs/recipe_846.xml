@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Braunbeer mit wenig <objectName ref="wein">Wein</objectName> <lb/> und wol <objectName ref="zucker">Zucker</objectName> <lb/> auch gantzen Zimmet kurtz gesotten <lb/> und bey dem Anrichten das Gewürtz zuzuck behalten. </p>
+        <p> Braunbeer mit wenig <objectName ref="#wein">Wein</objectName> <lb/> und wol <objectName ref="#zucker">Zucker</objectName> <lb/> auch gantzen Zimmet kurtz gesotten <lb/> und bey dem Anrichten das Gewürtz zuzuck behalten. </p>
             </div>
         </body>
     </text>

@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> LInguadale gebachner <lb/> in einer braunen durchgetriebenen Gummeri= <objectName ref="bruehe">Brühe</objectName>. </p>
+        <p> LInguadale gebachner <lb/> in einer braunen durchgetriebenen Gummeri= <objectName ref="#bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

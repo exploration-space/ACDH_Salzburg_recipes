@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Epffel <lb/> schel vnnd hack sie klein <lb/> schweiß sie in <objectName ref="butter">Butter</objectName> <lb/> gib gestossenen Zimmet <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> vnd schwartze Rosein <lb/> darvnter <lb/> rürs wol durcheinander <lb/> so wirt es ein gute Füll. </p>
+        <p> Nim ( m ) Epffel <lb/> schel vnnd hack sie klein <lb/> schweiß sie in <objectName ref="#butter">Butter</objectName> <lb/> gib gestossenen Zimmet <lb/> <objectName ref="#zucker">Zucker</objectName> <lb/> vnd schwartze Rosein <lb/> darvnter <lb/> rürs wol durcheinander <lb/> so wirt es ein gute Füll. </p>
             </div>
         </body>
     </text>

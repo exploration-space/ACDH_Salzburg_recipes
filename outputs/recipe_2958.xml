@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAn nimme Kohl= Köpff <lb/> die schön und etwas weich seynd <lb/> butze und übersiede sie in gesaltzen <objectName ref="wasser">Wasser</objectName> <lb/> dann lege sie aus auf ein <objectName ref="brett">Brett</objectName> <lb/> daß er ein wenig abkühlt <lb/> dann zieh die Blätter breit auseinander <lb/> gewürtze und fülle sie zwischen die Blätter mit einer selbst beliebigen guten Füll <lb/> binde und machs wieder zusammen <lb/> daß die Köpff wieder gantz werden <lb/> legs mit Gewürtz <lb/> Zwibel <lb/> mit Näglein besteckt <lb/> und fetter <objectName ref="bruehe">Brühe</objectName> <lb/> wieder nebeneinander in ein <objectName ref="rein">Rein</objectName> oder Casserol <lb/> und laß gemach sieden <lb/> biß genug ist <lb/> richts an wie den vorigen. </p>
+        <p> MAn nimme Kohl= Köpff <lb/> die schön und etwas weich seynd <lb/> butze und übersiede sie in gesaltzen <objectName ref="#wasser">Wasser</objectName> <lb/> dann lege sie aus auf ein <objectName ref="#brett">Brett</objectName> <lb/> daß er ein wenig abkühlt <lb/> dann zieh die Blätter breit auseinander <lb/> gewürtze und fülle sie zwischen die Blätter mit einer selbst beliebigen guten Füll <lb/> binde und machs wieder zusammen <lb/> daß die Köpff wieder gantz werden <lb/> legs mit Gewürtz <lb/> Zwibel <lb/> mit Näglein besteckt <lb/> und fetter <objectName ref="#bruehe">Brühe</objectName> <lb/> wieder nebeneinander in ein <objectName ref="#rein">Rein</objectName> oder Casserol <lb/> und laß gemach sieden <lb/> biß genug ist <lb/> richts an wie den vorigen. </p>
             </div>
         </body>
     </text>

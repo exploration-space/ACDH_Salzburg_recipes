@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BRüßlein in Fricasse, werden /nachdeme sie in <objectName ref="butter">Butter</objectName> geröst <lb/> ) mit <objectName ref="austern">Austern</objectName> <lb/> Müschelein <lb/> oder <objectName ref="sardellen">Sardellen</objectName> <lb/> und mit wenig <objectName ref="jus">jus</objectName>, Lemoni <lb/> Eyerdotter <lb/> etc. fricassirt. </p>
+        <p> BRüßlein in Fricasse, werden /nachdeme sie in <objectName ref="#butter">Butter</objectName> geröst <lb/> ) mit <objectName ref="#austern">Austern</objectName> <lb/> Müschelein <lb/> oder <objectName ref="#sardellen">Sardellen</objectName> <lb/> und mit wenig <objectName ref="#jus">jus</objectName>, Lemoni <lb/> Eyerdotter <lb/> etc. fricassirt. </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimm die zugerichte <lb/> geklopffte Presolen <lb/> wann sie gesaltzen <lb/> gemelbet <lb/> und ausgebräunt; bassiere sie in halb <objectName ref="butter">Butter</objectName> <lb/> Dardoffel und Oel <lb/> mit blättlet = geschnittnen Dardoffeln <lb/> Lemoni = Schelffen und Gewürtz <lb/> mit einer kurtzen <objectName ref="bruehe">Brühe</objectName>. </p>
+        <p> Nimm die zugerichte <lb/> geklopffte Presolen <lb/> wann sie gesaltzen <lb/> gemelbet <lb/> und ausgebräunt; bassiere sie in halb <objectName ref="#butter">Butter</objectName> <lb/> Dardoffel und Oel <lb/> mit blättlet = geschnittnen Dardoffeln <lb/> Lemoni = Schelffen und Gewürtz <lb/> mit einer kurtzen <objectName ref="#bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

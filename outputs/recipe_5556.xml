@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schneidt Epffel voneinander <lb/> wenn sie geschelet seyn <lb/> schneidt den butzen hinweg <lb/> vnd back sie mit einem solchen <objectName ref="teig">Teig</objectName> auß heisser <objectName ref="butter">Butter</objectName> <lb/> vnnd gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> besträw es mit weissem <objectName ref="zucker">Zucker</objectName>. Oder nim ( m ) die Epffel gantz <lb/> vnd stoß den butzen herauß mit einem holen Eysen <lb/> d ( aß ) der Apffel nichts desto weniger gantz bleibet <lb/> backs mit solchem <objectName ref="teig">Teig</objectName> auß <lb/> vnnd gibs warm auff ein <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> Schneidt Epffel voneinander <lb/> wenn sie geschelet seyn <lb/> schneidt den butzen hinweg <lb/> vnd back sie mit einem solchen <objectName ref="#teig">Teig</objectName> auß heisser <objectName ref="#butter">Butter</objectName> <lb/> vnnd gibs warm auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> besträw es mit weissem <objectName ref="#zucker">Zucker</objectName>. Oder nim ( m ) die Epffel gantz <lb/> vnd stoß den butzen herauß mit einem holen Eysen <lb/> d ( aß ) der Apffel nichts desto weniger gantz bleibet <lb/> backs mit solchem <objectName ref="#teig">Teig</objectName> auß <lb/> vnnd gibs warm auff ein <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Pirsinge werden geschuppt und aufgemacht <lb/> und bleiben wann man sie gesaltzen <lb/> eine weile im Saltz ligen; dann trocknet man sie mit einem <objectName ref="tuch">Tuch</objectName> wohl ab <lb/> läst sie auf dem <objectName ref="rost">Rost</objectName> braten <lb/> und bestreichts immerzu <lb/> vermittelst eines Federleins oder Pinsels <lb/> mit Oel : wann sie dann fertig <lb/> giesset man ein wenig Oel in ein Schüsselein <lb/> läst solches warm werden <lb/> leget die Fische darein <lb/> und streut frisch abgeklaubtes Petersilien= <objectName ref="kraut">Kraut</objectName> darauf. </p>
+        <p> DIe Pirsinge werden geschuppt und aufgemacht <lb/> und bleiben wann man sie gesaltzen <lb/> eine weile im Saltz ligen; dann trocknet man sie mit einem <objectName ref="#tuch">Tuch</objectName> wohl ab <lb/> läst sie auf dem <objectName ref="#rost">Rost</objectName> braten <lb/> und bestreichts immerzu <lb/> vermittelst eines Federleins oder Pinsels <lb/> mit Oel : wann sie dann fertig <lb/> giesset man ein wenig Oel in ein Schüsselein <lb/> läst solches warm werden <lb/> leget die Fische darein <lb/> und streut frisch abgeklaubtes Petersilien= <objectName ref="#kraut">Kraut</objectName> darauf. </p>
             </div>
         </body>
     </text>

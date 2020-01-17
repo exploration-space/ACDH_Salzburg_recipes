@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Take nine Eggs, and but four of the Whites, beat them very well, put to them eight Spoonfuls of Rose-Water, and eight of Orange-Flower-Water; beat the Eggs and Water a Quarter of an Hour; then put in a Pound of sifted Sugar, three Quarter of a Pound of fine Flower well dry ’ d, beat this altogether an Hour and Half; then put in two Ounces of Coriander-Seeds a little bruis ’ d : When the Oven is ready, put them in little round Tin-Pans <objectName ref="butter">butter</objectName> ’ d, and sift Sugar over them. A cool Oven will bake them. </p>
+        <p> Take nine Eggs, and but four of the Whites, beat them very well, put to them eight Spoonfuls of Rose-Water, and eight of Orange-Flower-Water; beat the Eggs and Water a Quarter of an Hour; then put in a Pound of sifted Sugar, three Quarter of a Pound of fine Flower well dry ’ d, beat this altogether an Hour and Half; then put in two Ounces of Coriander-Seeds a little bruis ’ d : When the Oven is ready, put them in little round Tin-Pans <objectName ref="#butter">butter</objectName> ’ d, and sift Sugar over them. A cool Oven will bake them. </p>
             </div>
         </body>
     </text>

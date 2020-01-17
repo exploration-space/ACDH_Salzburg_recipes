@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAchet ein Teiglein an wie zu Rafiolen <lb/> walchert selbiges aus <lb/> aber nicht gar dinn; schneidet das unterste von einem <objectName ref="federkiel">Federkiel</objectName> hinweg <lb/> und stechet damit in den <objectName ref="teig">Teig</objectName> <lb/> so werden kleine runde Kügelein daraus wie die <objectName ref="erbsen">Erbsen</objectName> <lb/> bachet selbige schön hell aus Schmaltz <lb/> und lasst sie darauf in einer Fleischbrüh wohl sieden <lb/> weil sie sonst zu hart sind : werffet zu letzt Cardamomen <lb/> Muscaten= Blüh und ein Stück <objectName ref="butter">Butter</objectName> in die <objectName ref="suppe">Suppe</objectName> <lb/> und richtets dann miteinander in eine <objectName ref="schuessel">Schüssel</objectName>. </p>
+        <p> MAchet ein Teiglein an wie zu Rafiolen <lb/> walchert selbiges aus <lb/> aber nicht gar dinn; schneidet das unterste von einem <objectName ref="#federkiel">Federkiel</objectName> hinweg <lb/> und stechet damit in den <objectName ref="#teig">Teig</objectName> <lb/> so werden kleine runde Kügelein daraus wie die <objectName ref="#erbsen">Erbsen</objectName> <lb/> bachet selbige schön hell aus Schmaltz <lb/> und lasst sie darauf in einer Fleischbrüh wohl sieden <lb/> weil sie sonst zu hart sind : werffet zu letzt Cardamomen <lb/> Muscaten= Blüh und ein Stück <objectName ref="#butter">Butter</objectName> in die <objectName ref="#suppe">Suppe</objectName> <lb/> und richtets dann miteinander in eine <objectName ref="#schuessel">Schüssel</objectName>. </p>
             </div>
         </body>
     </text>

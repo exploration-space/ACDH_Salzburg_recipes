@@ -171,7 +171,7 @@ Willst du ein gutes Mus haben, dann nimm einen guten Bratfisch und gute Rosinen 
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WIldu habn̄ ein guͤt gemuͤss So nȳ einē guͤtten pratvisch vn̄ guͤt weinᵱ dar czwͤ vn̄ stoss sÿ durich einander vn̄ nÿm dar czwͤ guͤtten <objectName ref="wein">wein</objectName> So wirt daz gemuͤss fein zuckkers Salcz uʾgis nicht dar an vn̄ muͤst auch guͤt gewuͤrcz han etc. </p>
+        <p> WIldu habn̄ ein guͤt gemuͤss So nȳ einē guͤtten pratvisch vn̄ guͤt weinᵱ dar czwͤ vn̄ stoss sÿ durich einander vn̄ nÿm dar czwͤ guͤtten <objectName ref="#wein">wein</objectName> So wirt daz gemuͤss fein zuckkers Salcz uʾgis nicht dar an vn̄ muͤst auch guͤt gewuͤrcz han etc. </p>
             </div>
         </body>
     </text>

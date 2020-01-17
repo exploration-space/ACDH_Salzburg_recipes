@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet schönen grossen <objectName ref="spargel">Spargel</objectName> <lb/> schneidet das Weisse ab <lb/> biß auf das Grüne <lb/> waschet und siedet ihn fein körnicht; darnach macht einen <objectName ref="teig">Teig</objectName> an <lb/> mit <objectName ref="mehl">Mehl</objectName> <lb/> Eyern und <objectName ref="milch">Milch</objectName> <lb/> oder aber an statt der <objectName ref="milch">milch</objectName> mit <objectName ref="wein">Wein</objectName>; ziehet den <objectName ref="spargel">Spargel</objectName> dadurch <lb/> und bachet ihn aus Schmaltz oder Oel heraus. </p>
+        <p> NEhmet schönen grossen <objectName ref="#spargel">Spargel</objectName> <lb/> schneidet das Weisse ab <lb/> biß auf das Grüne <lb/> waschet und siedet ihn fein körnicht; darnach macht einen <objectName ref="#teig">Teig</objectName> an <lb/> mit <objectName ref="#mehl">Mehl</objectName> <lb/> Eyern und <objectName ref="#milch">Milch</objectName> <lb/> oder aber an statt der <objectName ref="#milch">milch</objectName> mit <objectName ref="#wein">Wein</objectName>; ziehet den <objectName ref="#spargel">Spargel</objectName> dadurch <lb/> und bachet ihn aus Schmaltz oder Oel heraus. </p>
             </div>
         </body>
     </text>

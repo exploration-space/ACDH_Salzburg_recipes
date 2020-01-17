@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Du magst auch <objectName ref="knoedel">Knödel</objectName> oder Klöß darauß machen <lb/> so werden sie fein weiß. </p>
+        <p> Du magst auch <objectName ref="#knoedel">Knödel</objectName> oder Klöß darauß machen <lb/> so werden sie fein weiß. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Epffel <lb/> richt sie zu wie zu den Krapffen <lb/> bestreich ein Oblat damit <lb/> vnd leg ein ander Oblat darauff <lb/> d ( aß ) auffeinander bleibt <lb/> schneidt jn zu 2. oder 3. stücke ( n ) <lb/> vn ( d ) stoß die örter in den <objectName ref="teig">Teig</objectName> <lb/> de ( n ) du mit <objectName ref="wein">Wein</objectName> hast angemacht <lb/> wirffs in heisse <objectName ref="butter">Butter</objectName> <lb/> vnnd backs geschwindt hinweg <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> vnd besträw es mit weissem <objectName ref="zucker">Zucker</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
+        <p> Nim ( m ) Epffel <lb/> richt sie zu wie zu den Krapffen <lb/> bestreich ein Oblat damit <lb/> vnd leg ein ander Oblat darauff <lb/> d ( aß ) auffeinander bleibt <lb/> schneidt jn zu 2. oder 3. stücke ( n ) <lb/> vn ( d ) stoß die örter in den <objectName ref="#teig">Teig</objectName> <lb/> de ( n ) du mit <objectName ref="#wein">Wein</objectName> hast angemacht <lb/> wirffs in heisse <objectName ref="#butter">Butter</objectName> <lb/> vnnd backs geschwindt hinweg <lb/> gibs warm auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> vnd besträw es mit weissem <objectName ref="#zucker">Zucker</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

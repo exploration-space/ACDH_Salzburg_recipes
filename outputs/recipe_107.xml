@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb den Käruioll buz ihn sauber <lb/> vnnd ybersiedt<gap/> ihn schlag.2. oder <lb/> 3. Ayr<gap/> Auf Ker<gap/> den Käruioll <lb/> darin vmb vnnd leg ihn also <lb/> in ein rein<gap/> vnnd Gies<gap/> siessen <lb/> rämb<gap/> daran vnnd Zuckher daran <lb/> lass sieden<gap/> leg <objectName ref="butter">butter</objectName> Zimmet <lb/> stup<gap/> lass ihm auf der Gluet<gap/> <lb/> breglen<gap/> so ist er bereith <lb/> </p>
+        <p> Nimb den Käruioll buz ihn sauber <lb/> vnnd ybersiedt<gap/> ihn schlag.2. oder <lb/> 3. Ayr<gap/> Auf Ker<gap/> den Käruioll <lb/> darin vmb vnnd leg ihn also <lb/> in ein rein<gap/> vnnd Gies<gap/> siessen <lb/> rämb<gap/> daran vnnd Zuckher daran <lb/> lass sieden<gap/> leg <objectName ref="#butter">butter</objectName> Zimmet <lb/> stup<gap/> lass ihm auf der Gluet<gap/> <lb/> breglen<gap/> so ist er bereith <lb/> </p>
             </div>
         </body>
     </text>

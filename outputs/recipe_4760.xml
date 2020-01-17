@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChneide Rockenbrod in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> streue Ingber und <objectName ref="pfeffer">Pfeffer</objectName> darauf; giesse alsdann eine siedende Fleischbrüh darüber <lb/> schneide <objectName ref="zwiebel">Zwiebeln</objectName> länglicht <lb/> rösts schön gelb im Schmaltz <lb/> und brenne sie auf die <objectName ref="suppe">Suppen</objectName>; setze selbige hernach auf eine <objectName ref="glut">Glut</objectName> oder Kohlfeuer <lb/> laß ein wenig darauf stehen <lb/> und trags dann zu <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> SChneide Rockenbrod in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> streue Ingber und <objectName ref="#pfeffer">Pfeffer</objectName> darauf; giesse alsdann eine siedende Fleischbrüh darüber <lb/> schneide <objectName ref="#zwiebel">Zwiebeln</objectName> länglicht <lb/> rösts schön gelb im Schmaltz <lb/> und brenne sie auf die <objectName ref="#suppe">Suppen</objectName>; setze selbige hernach auf eine <objectName ref="#glut">Glut</objectName> oder Kohlfeuer <lb/> laß ein wenig darauf stehen <lb/> und trags dann zu <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

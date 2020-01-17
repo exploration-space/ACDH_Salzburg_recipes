@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schlag Eyer auff <lb/> thu grüne <objectName ref="kraeuter">Kräuter</objectName> darein <lb/> rürs in ein Erbeßbrüh <lb/> die gelb ist <lb/> biß auffseudt <lb/> so wirt es gut. </p>
+        <p> Schlag Eyer auff <lb/> thu grüne <objectName ref="#kraeuter">Kräuter</objectName> darein <lb/> rürs in ein Erbeßbrüh <lb/> die gelb ist <lb/> biß auffseudt <lb/> so wirt es gut. </p>
             </div>
         </body>
     </text>

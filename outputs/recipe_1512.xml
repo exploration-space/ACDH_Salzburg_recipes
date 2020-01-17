@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb haiß gsottne Krebs. hackhs Klain, waickhs ein Semmel schmollen <lb/> in ein guette syesse <objectName ref="milch">milch</objectName>, wans gar waich ist, hackh es auch dar unter, <lb/> Treib ein <objectName ref="viertung">Viertung</objectName> <objectName ref="butter">butter</objectName> in einer schisßl ab, thuee das gehackht dar= <lb/> ein, nimb ein wenig guetten dickhen milchrämb.2. ganze ayr vnd <lb/> ain dotter, souill das die rechte dickhen eines Todters bekhommbt, <lb/> <objectName ref="salz">Salz</objectName>, gewürz mit Mußcatblüe, <objectName ref="pfeffer">pfeffer</objectName>, vnd ein wenig <objectName ref="ingwer">Ingwer</objectName> bachs <lb/> in einer schißßl <lb/>. </p>
+        <p> Nimb haiß gsottne Krebs. hackhs Klain, waickhs ein Semmel schmollen <lb/> in ein guette syesse <objectName ref="#milch">milch</objectName>, wans gar waich ist, hackh es auch dar unter, <lb/> Treib ein <objectName ref="#viertung">Viertung</objectName> <objectName ref="#butter">butter</objectName> in einer schisßl ab, thuee das gehackht dar= <lb/> ein, nimb ein wenig guetten dickhen milchrämb.2. ganze ayr vnd <lb/> ain dotter, souill das die rechte dickhen eines Todters bekhommbt, <lb/> <objectName ref="#salz">Salz</objectName>, gewürz mit Mußcatblüe, <objectName ref="#pfeffer">pfeffer</objectName>, vnd ein wenig <objectName ref="#ingwer">Ingwer</objectName> bachs <lb/> in einer schißßl <lb/>. </p>
             </div>
         </body>
     </text>

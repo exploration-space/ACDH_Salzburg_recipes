@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Wildbrät, laß halb sieden, vnd seiche ein wenig <lb/> brüe daruon, nimb ein khlein Zerhakhten Zwifl, röst ihn <lb/> im <objectName ref="schmalz">Schmalz</objectName>, giesse die brüe, vnd ein wenig raifl vnd <objectName ref="essig">Essig</objectName> <lb/> an den Zwifl auch <objectName ref="pfeffer">pfeffer</objectName>, Ingber vnd nägelstup, laß <lb/> alles woll Sieden, Wan dus anrichst, so sträe Zimetstup <lb/> darauf, versalzs nit. <lb/> </p>
+        <p> Nimb Wildbrät, laß halb sieden, vnd seiche ein wenig <lb/> brüe daruon, nimb ein khlein Zerhakhten Zwifl, röst ihn <lb/> im <objectName ref="#schmalz">Schmalz</objectName>, giesse die brüe, vnd ein wenig raifl vnd <objectName ref="#essig">Essig</objectName> <lb/> an den Zwifl auch <objectName ref="#pfeffer">pfeffer</objectName>, Ingber vnd nägelstup, laß <lb/> alles woll Sieden, Wan dus anrichst, so sträe Zimetstup <lb/> darauf, versalzs nit. <lb/> </p>
             </div>
         </body>
     </text>

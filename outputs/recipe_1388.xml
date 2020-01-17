@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Lasße einen brockhen<gap/> schmalz<gap/> in einer milch<gap/> <lb/> warmb<gap/> werden, gieß<gap/> auch ein wenig warm<gap/> <lb/> gemachten <objectName ref="wein">weinn</objectName> daran, schlag 4 oder mehr <lb/> ayr<gap/> dran, darnach mache also den taig<gap/> an, <lb/> nit zu dünn<gap/>, noch zu faist<gap/>, nachdem walge<gap/> <lb/><lb/> ( 77r ) ein rundeß blätl<gap/> auß, rohl es zusam, bache<gap/> es <lb/> in einen heisßen<gap/> schmalz<gap/>, so kann man die hirsch<gap/> <lb/> gestiem<gap/> auch machen, zuckhers<gap/>, ist guet. <lb/> [ Anm. : Das Rezept ist unvollständig, so ist kein <objectName ref="mehl">Mehl</objectName> angegeben. ] </p>
+        <p> Lasße einen brockhen<gap/> schmalz<gap/> in einer milch<gap/> <lb/> warmb<gap/> werden, gieß<gap/> auch ein wenig warm<gap/> <lb/> gemachten <objectName ref="#wein">weinn</objectName> daran, schlag 4 oder mehr <lb/> ayr<gap/> dran, darnach mache also den taig<gap/> an, <lb/> nit zu dünn<gap/>, noch zu faist<gap/>, nachdem walge<gap/> <lb/><lb/> ( 77r ) ein rundeß blätl<gap/> auß, rohl es zusam, bache<gap/> es <lb/> in einen heisßen<gap/> schmalz<gap/>, so kann man die hirsch<gap/> <lb/> gestiem<gap/> auch machen, zuckhers<gap/>, ist guet. <lb/> [ Anm. : Das Rezept ist unvollständig, so ist kein <objectName ref="#mehl">Mehl</objectName> angegeben. ] </p>
             </div>
         </body>
     </text>

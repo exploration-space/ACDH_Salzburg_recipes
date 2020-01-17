@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein Khändl<gap/> Rämb<gap/>, der ein wenig Sauer, <lb/> ist, schlag.10. ayr<gap/> darein, vnd Mell<gap/> biß es schen <lb/> dickh<gap/> wirdt, gies<gap/> ein khleines schöpf löffel<gap/> voll <lb/> Schmalz<gap/> darein, daß nit zu hais<gap/> ist, <objectName ref="salz">Salz</objectName> recht <lb/> pachs<gap/> in Schmalz<gap/> nit zu Khiell<gap/>, <lb/> </p>
+        <p> Nimb ein Khändl<gap/> Rämb<gap/>, der ein wenig Sauer, <lb/> ist, schlag.10. ayr<gap/> darein, vnd Mell<gap/> biß es schen <lb/> dickh<gap/> wirdt, gies<gap/> ein khleines schöpf löffel<gap/> voll <lb/> Schmalz<gap/> darein, daß nit zu hais<gap/> ist, <objectName ref="#salz">Salz</objectName> recht <lb/> pachs<gap/> in Schmalz<gap/> nit zu Khiell<gap/>, <lb/> </p>
             </div>
         </body>
     </text>

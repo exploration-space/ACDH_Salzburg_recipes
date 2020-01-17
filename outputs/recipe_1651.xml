@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Die Bör mit Haißen <objectName ref="wasser">wasser</objectName> gewaschen, vnd dar= <lb/> =nach durch geschlagen, zuggert.12. ayr Clar <lb/> darunter, vnd durch ein Süb geschlagen, vnnd <lb/> 1 ½ stunt geriert, darnach in ainner schißl <lb/> gebachen. <lb/><lb/> ( 42v ) </p>
+        <p> Die Bör mit Haißen <objectName ref="#wasser">wasser</objectName> gewaschen, vnd dar= <lb/> =nach durch geschlagen, zuggert.12. ayr Clar <lb/> darunter, vnd durch ein Süb geschlagen, vnnd <lb/> 1 ½ stunt geriert, darnach in ainner schißl <lb/> gebachen. <lb/><lb/> ( 42v ) </p>
             </div>
         </body>
     </text>

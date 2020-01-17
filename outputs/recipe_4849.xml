@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> LEget die <objectName ref="bohnen">Bohnen</objectName> in ein <objectName ref="wasser">Wasser</objectName> <lb/> so gehet die Haut herab : macht hernach eine <objectName ref="butter">Butter</objectName> heiß <lb/> und röstets darinnen eine gute weile <lb/> schüttets in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> giesst Fleischbrüh daran <lb/> pfefferts <lb/> last es sieden <lb/> daß die Brüh etwas dicklicht wird <lb/> und die <objectName ref="bohnen">Bohnen</objectName> weich werden : Alsdann kan mans in eine <objectName ref="schuessel">Schüssel</objectName> richten. Wanns aber beliebt <lb/> mag man auch zuletzt ein wenig gehacktes Petersilien= <objectName ref="kraut">Kraut</objectName> daran thun <lb/> und also noch einen Sud mit aufthun lassen. </p>
+        <p> LEget die <objectName ref="#bohnen">Bohnen</objectName> in ein <objectName ref="#wasser">Wasser</objectName> <lb/> so gehet die Haut herab : macht hernach eine <objectName ref="#butter">Butter</objectName> heiß <lb/> und röstets darinnen eine gute weile <lb/> schüttets in einen stollichten <objectName ref="#hafen">Hafen</objectName> <lb/> giesst Fleischbrüh daran <lb/> pfefferts <lb/> last es sieden <lb/> daß die Brüh etwas dicklicht wird <lb/> und die <objectName ref="#bohnen">Bohnen</objectName> weich werden : Alsdann kan mans in eine <objectName ref="#schuessel">Schüssel</objectName> richten. Wanns aber beliebt <lb/> mag man auch zuletzt ein wenig gehacktes Petersilien= <objectName ref="#kraut">Kraut</objectName> daran thun <lb/> und also noch einen Sud mit aufthun lassen. </p>
             </div>
         </body>
     </text>

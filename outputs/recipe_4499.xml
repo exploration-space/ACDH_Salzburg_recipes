@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr gebachne <objectName ref="hecht">Hecht</objectName> wird mit wohl= gesottnem sauren <objectName ref="kraut">Kraut</objectName> <lb/> klein= gehackten und im Schmaltz <lb/> oder Oel gerösten Zwibeln gemacht <lb/> fein trucken auf eine <objectName ref="schuessel">Schüssel</objectName> angericht <lb/> und mit sauren dicken Ram aufgesotten <lb/> ist gut. </p>
+        <p> DEr gebachne <objectName ref="#hecht">Hecht</objectName> wird mit wohl= gesottnem sauren <objectName ref="#kraut">Kraut</objectName> <lb/> klein= gehackten und im Schmaltz <lb/> oder Oel gerösten Zwibeln gemacht <lb/> fein trucken auf eine <objectName ref="#schuessel">Schüssel</objectName> angericht <lb/> und mit sauren dicken Ram aufgesotten <lb/> ist gut. </p>
             </div>
         </body>
     </text>

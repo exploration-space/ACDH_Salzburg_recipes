@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn die Kalbs= Füsse gesotten seyn <lb/> zerschneidet sie <lb/> wie oben gedacht; schlaget Eyer in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> mischet ein klar= geriebenes Eyer= Brod darunter <lb/> rühret alles wohl durch einander <lb/> daß der <objectName ref="teig">Teig</objectName> so dinn werde <lb/> daß man die Kalbs= Füsse darein duncken könne : Leget sie dann in ein heisses Schmaltz <lb/> und bachets <lb/> nehmets hernach heraus <lb/> und duncket sie wieder in den <objectName ref="teig">Teig</objectName> <lb/> und bachets noch einmal. </p>
+        <p> WAnn die Kalbs= Füsse gesotten seyn <lb/> zerschneidet sie <lb/> wie oben gedacht; schlaget Eyer in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> mischet ein klar= geriebenes Eyer= Brod darunter <lb/> rühret alles wohl durch einander <lb/> daß der <objectName ref="#teig">Teig</objectName> so dinn werde <lb/> daß man die Kalbs= Füsse darein duncken könne : Leget sie dann in ein heisses Schmaltz <lb/> und bachets <lb/> nehmets hernach heraus <lb/> und duncket sie wieder in den <objectName ref="#teig">Teig</objectName> <lb/> und bachets noch einmal. </p>
             </div>
         </body>
     </text>

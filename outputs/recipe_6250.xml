@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim Weydasch ein theil <lb/> vnd thu es in ein <objectName ref="saecklein">Säcklein</objectName> <lb/> vnnd henck sie in ein Faß <lb/> das du wilt auffthun <lb/> so bleibt der <objectName ref="wein">Wein</objectName> bey seiner Farb vnnd Geschmack <lb/> vnd verwandelt sich nicht <lb/> als lang er weret. Item verspundt das Faß wol <lb/> vnd bor durch das Faß ein löchlein vnd mach ein Zäpfflein darfür <lb/> daß du es ziehen kanst <lb/> wenn du herauß lassen willt <lb/> so bleibt der <objectName ref="wein">Wein</objectName> schön vnd gut. </p>
+        <p> Nim Weydasch ein theil <lb/> vnd thu es in ein <objectName ref="#saecklein">Säcklein</objectName> <lb/> vnnd henck sie in ein Faß <lb/> das du wilt auffthun <lb/> so bleibt der <objectName ref="#wein">Wein</objectName> bey seiner Farb vnnd Geschmack <lb/> vnd verwandelt sich nicht <lb/> als lang er weret. Item verspundt das Faß wol <lb/> vnd bor durch das Faß ein löchlein vnd mach ein Zäpfflein darfür <lb/> daß du es ziehen kanst <lb/> wenn du herauß lassen willt <lb/> so bleibt der <objectName ref="#wein">Wein</objectName> schön vnd gut. </p>
             </div>
         </body>
     </text>

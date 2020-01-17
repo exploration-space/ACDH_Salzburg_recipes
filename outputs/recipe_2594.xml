@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAn nimmt kleine junge <objectName ref="bohnen">Bohnen</objectName> <lb/> ziehet von selbigen die Adern auf beyden Seiten herab <lb/> wäscht und siedet sie im <objectName ref="wasser">Wasser</objectName> biß sie weich werden <lb/> nimmt sie dann heraus <lb/> und giesst ein kaltes <objectName ref="wasser">Wasser</objectName> darüber <lb/> legts auf ein reines <objectName ref="tuch">Tuch</objectName> <lb/> um abzutrocknen <lb/> und so dann in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> giesst Oel und <objectName ref="essig">Essig</objectName> darüber <lb/> und streuet <objectName ref="pfeffer">Pfeffer</objectName> und Saltz darauf. </p>
+        <p> MAn nimmt kleine junge <objectName ref="#bohnen">Bohnen</objectName> <lb/> ziehet von selbigen die Adern auf beyden Seiten herab <lb/> wäscht und siedet sie im <objectName ref="#wasser">Wasser</objectName> biß sie weich werden <lb/> nimmt sie dann heraus <lb/> und giesst ein kaltes <objectName ref="#wasser">Wasser</objectName> darüber <lb/> legts auf ein reines <objectName ref="#tuch">Tuch</objectName> <lb/> um abzutrocknen <lb/> und so dann in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> giesst Oel und <objectName ref="#essig">Essig</objectName> darüber <lb/> und streuet <objectName ref="#pfeffer">Pfeffer</objectName> und Saltz darauf. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Welcherley Würtz du wilt <lb/> stoß gar wol <lb/> vnd etwa von <objectName ref="galgant">Galgant</objectName> <lb/> vnd als viel Zuckers deß andern Gewürtz alle <lb/> thus zusammen in ein <objectName ref="rein">rein</objectName> leinen <objectName ref="saecklein">Säcklein</objectName> <lb/> geuß den <objectName ref="wein">Wein</objectName> darein. Seige es also drey oder vier mal Materi in <objectName ref="saecklein">Säcklein</objectName> <lb/> biß der <objectName ref="wein">Wein</objectName> die gantze Krafft der Specerey in sich zeucht <lb/> behalt vnd vermach jn darnach wol in einem <objectName ref="saecklein">Säcklein</objectName>. </p>
+        <p> Welcherley Würtz du wilt <lb/> stoß gar wol <lb/> vnd etwa von <objectName ref="#galgant">Galgant</objectName> <lb/> vnd als viel Zuckers deß andern Gewürtz alle <lb/> thus zusammen in ein <objectName ref="#rein">rein</objectName> leinen <objectName ref="#saecklein">Säcklein</objectName> <lb/> geuß den <objectName ref="#wein">Wein</objectName> darein. Seige es also drey oder vier mal Materi in <objectName ref="#saecklein">Säcklein</objectName> <lb/> biß der <objectName ref="#wein">Wein</objectName> die gantze Krafft der Specerey in sich zeucht <lb/> behalt vnd vermach jn darnach wol in einem <objectName ref="#saecklein">Säcklein</objectName>. </p>
             </div>
         </body>
     </text>

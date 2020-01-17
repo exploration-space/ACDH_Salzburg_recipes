@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ZIehe denen Schleyen die Haut ab <lb/> wie einem <objectName ref="aal">Aal</objectName> <lb/> mache sie am Bauch auf <lb/> nimm das Eingeweid heraus <lb/> wasche <lb/> saltze und würtze es <lb/> binde sie in Salbey= Blätter <lb/> umwinds mit einem Zwirn= <objectName ref="faden">Faden</objectName> <lb/> daß sie nicht davon abfallen können; thue frisches Schmaltz oder Oel in ein Brat= <objectName ref="pfaennlein">Pfännlein</objectName> <lb/> lege die Fische darein <lb/> und brate sie auf einer <objectName ref="glut">Glut</objectName> schön ab. </p>
+        <p> ZIehe denen Schleyen die Haut ab <lb/> wie einem <objectName ref="#aal">Aal</objectName> <lb/> mache sie am Bauch auf <lb/> nimm das Eingeweid heraus <lb/> wasche <lb/> saltze und würtze es <lb/> binde sie in Salbey= Blätter <lb/> umwinds mit einem Zwirn= <objectName ref="#faden">Faden</objectName> <lb/> daß sie nicht davon abfallen können; thue frisches Schmaltz oder Oel in ein Brat= <objectName ref="#pfaennlein">Pfännlein</objectName> <lb/> lege die Fische darein <lb/> und brate sie auf einer <objectName ref="#glut">Glut</objectName> schön ab. </p>
             </div>
         </body>
     </text>

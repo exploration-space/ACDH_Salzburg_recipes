@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb sour öpfl, sez Zue in einem <objectName ref="wasser">Wasser</objectName>, laß ein wenig sieden, <lb/> Zeuch ihnen die haut ab, schneids in der mithe voneinander, holl <lb/> die khern herauß, laß khiel Werden, richts auf ein schißl, <lb/> geuß ein gueten <objectName ref="wein">Wein</objectName> darüber, gibs khalter auf den <objectName ref="tisch">tisch</objectName>. <lb/> </p>
+        <p> Nimb sour öpfl, sez Zue in einem <objectName ref="#wasser">Wasser</objectName>, laß ein wenig sieden, <lb/> Zeuch ihnen die haut ab, schneids in der mithe voneinander, holl <lb/> die khern herauß, laß khiel Werden, richts auf ein schißl, <lb/> geuß ein gueten <objectName ref="#wein">Wein</objectName> darüber, gibs khalter auf den <objectName ref="#tisch">tisch</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

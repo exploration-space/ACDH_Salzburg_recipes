@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SIede den <objectName ref="fisch">Fisch</objectName> <lb/> wie erst gemeldet <lb/> lege ihn hernach in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> brenn ein heisses Schmaltz darüber <lb/> und gieß ein wenig von der <objectName ref="bruehe">Brühe</objectName> <lb/> darinnen der <objectName ref="fisch">Fisch</objectName> gesotten worden <lb/> in die <objectName ref="schuessel">Schüssel</objectName> <lb/> streue geriebenen Meerrettig auf <lb/> und trage ihn also zugedeckt zu <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> SIede den <objectName ref="#fisch">Fisch</objectName> <lb/> wie erst gemeldet <lb/> lege ihn hernach in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> brenn ein heisses Schmaltz darüber <lb/> und gieß ein wenig von der <objectName ref="#bruehe">Brühe</objectName> <lb/> darinnen der <objectName ref="#fisch">Fisch</objectName> gesotten worden <lb/> in die <objectName ref="#schuessel">Schüssel</objectName> <lb/> streue geriebenen Meerrettig auf <lb/> und trage ihn also zugedeckt zu <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Sembl strüzl, Waichs in gezukherten <objectName ref="wein">Wein</objectName>, oder <lb/> <objectName ref="milch">milch</objectName>, das nit zu Waich wird, schlags ein aÿr ab, Zeuchs <lb/> darin umb, vnd bachs im <objectName ref="schmalz">schmalz</objectName>, mach ein süss Weinpöhr= <lb/> süppl drüber ein, ist guet. <lb/> </p>
+        <p> Nimb Sembl strüzl, Waichs in gezukherten <objectName ref="#wein">Wein</objectName>, oder <lb/> <objectName ref="#milch">milch</objectName>, das nit zu Waich wird, schlags ein aÿr ab, Zeuchs <lb/> darin umb, vnd bachs im <objectName ref="#schmalz">schmalz</objectName>, mach ein süss Weinpöhr= <lb/> süppl drüber ein, ist guet. <lb/> </p>
             </div>
         </body>
     </text>

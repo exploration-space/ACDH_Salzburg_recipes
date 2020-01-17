@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChabe Petersilien= Wurtzeln <lb/> siede sie in einer guten Fleischbrüh <lb/> brenn oder röst ein wenig <objectName ref="mehl">Mehl</objectName> darein <lb/> würtze sie mit Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Muscatblüh; wann dann die Fische <lb/> wie vielmal gedacht <lb/> zubereitet <lb/> und im <objectName ref="wasser">Wasser</objectName> abgesotten worden <lb/> so seihe selbiges wieder davon ab <lb/> und giessse diese jetzt= besagter massen zusamm= gemachte Brüh darüber <lb/> lasse sie <lb/> zusamt einem guten Stuck <objectName ref="butter">Butter</objectName> <lb/> eine weile sieden <lb/> daß ein dickes Brühlein daraus werde; richts hernach an <lb/> und lege die Petersilien= Wurtzeln oben darauf. </p>
+        <p> SChabe Petersilien= Wurtzeln <lb/> siede sie in einer guten Fleischbrüh <lb/> brenn oder röst ein wenig <objectName ref="#mehl">Mehl</objectName> darein <lb/> würtze sie mit Ingber <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> und Muscatblüh; wann dann die Fische <lb/> wie vielmal gedacht <lb/> zubereitet <lb/> und im <objectName ref="#wasser">Wasser</objectName> abgesotten worden <lb/> so seihe selbiges wieder davon ab <lb/> und giessse diese jetzt= besagter massen zusamm= gemachte Brüh darüber <lb/> lasse sie <lb/> zusamt einem guten Stuck <objectName ref="#butter">Butter</objectName> <lb/> eine weile sieden <lb/> daß ein dickes Brühlein daraus werde; richts hernach an <lb/> und lege die Petersilien= Wurtzeln oben darauf. </p>
             </div>
         </body>
     </text>

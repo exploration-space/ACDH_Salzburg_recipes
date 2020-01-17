@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Erstlich Nimb ein Reindl<gap/> vnnd <lb/> schmierbs<gap/> mit <objectName ref="butter">butter</objectName> hernach thue <lb/> Gewürz<gap/> Nägl<gap/> Zimmet<gap/> <objectName ref="pfeffer">pfeffer</objectName> stup<gap/> <lb/><lb/> ( re 26 ) hernach Nimb den stockhfisch<gap/> Gleich <lb/> von den Khraner<gap/> her vnd leg in <lb/> darauf Darnach wider ein leg<gap/> <lb/> Gewürz vnnd wider ein leg Stockh= <lb/> <objectName ref="fisch">fisch</objectName> vnnd also Vort bys du Kein <lb/> stockhfisch mer hast hernach dues auf <lb/> die Gluet<gap/> sezen vnnd lass Preglen<gap/> <lb/> aber nit Zu lang : <lb/> </p>
+        <p> Erstlich Nimb ein Reindl<gap/> vnnd <lb/> schmierbs<gap/> mit <objectName ref="#butter">butter</objectName> hernach thue <lb/> Gewürz<gap/> Nägl<gap/> Zimmet<gap/> <objectName ref="#pfeffer">pfeffer</objectName> stup<gap/> <lb/><lb/> ( re 26 ) hernach Nimb den stockhfisch<gap/> Gleich <lb/> von den Khraner<gap/> her vnd leg in <lb/> darauf Darnach wider ein leg<gap/> <lb/> Gewürz vnnd wider ein leg Stockh= <lb/> <objectName ref="#fisch">fisch</objectName> vnnd also Vort bys du Kein <lb/> stockhfisch mer hast hernach dues auf <lb/> die Gluet<gap/> sezen vnnd lass Preglen<gap/> <lb/> aber nit Zu lang : <lb/> </p>
             </div>
         </body>
     </text>

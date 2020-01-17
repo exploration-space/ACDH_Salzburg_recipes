@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Stosß die hart gesotne doter in eim Merser, vnd nimb ein gebähtes <lb/> Semblschnitl, Waikh oder trukhs in ein <objectName ref="wein">Wein</objectName>, stosß mit den <lb/> dotern, treibs durch ein Sib, nimb ein pfan oder Reindl, gueten <lb/> <objectName ref="wein">Wein</objectName>, ein Wenig saffran, Imber vnd Mußcatblüe, Zimet, Zukher, <lb/> thue darunder die durchtribne aÿr, laß Sieden, biß es gleich <lb/> Wird, gibs Warmb Zuessen. <lb/> </p>
+        <p> Stosß die hart gesotne doter in eim Merser, vnd nimb ein gebähtes <lb/> Semblschnitl, Waikh oder trukhs in ein <objectName ref="#wein">Wein</objectName>, stosß mit den <lb/> dotern, treibs durch ein Sib, nimb ein pfan oder Reindl, gueten <lb/> <objectName ref="#wein">Wein</objectName>, ein Wenig saffran, Imber vnd Mußcatblüe, Zimet, Zukher, <lb/> thue darunder die durchtribne aÿr, laß Sieden, biß es gleich <lb/> Wird, gibs Warmb Zuessen. <lb/> </p>
             </div>
         </body>
     </text>

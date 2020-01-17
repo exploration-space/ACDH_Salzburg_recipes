@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> nimb air Dotter vnd ein sauren Rämb<gap/> <lb/> nimb wönig mell schneidt <objectName ref="butter">butter</objectName> dran <lb/> machs an walgs<gap/> aus vnd drukhs mit <lb/> einen gläsel aus bachs<gap/> so laufen<gap/> sie schon auf <lb/><lb/> ( Z-U II ve 15 ) </p>
+        <p> nimb air Dotter vnd ein sauren Rämb<gap/> <lb/> nimb wönig mell schneidt <objectName ref="#butter">butter</objectName> dran <lb/> machs an walgs<gap/> aus vnd drukhs mit <lb/> einen gläsel aus bachs<gap/> so laufen<gap/> sie schon auf <lb/><lb/> ( Z-U II ve 15 ) </p>
             </div>
         </body>
     </text>

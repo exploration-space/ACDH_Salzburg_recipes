@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nehmet das Krösz <lb/> waschet es sauber <lb/> thut die Drüse heraus <lb/> setzets im <objectName ref="wasser">Wasser</objectName> zu <lb/> und saltzet es eine Stund zuvor; wann es nun weich gesotten hat <lb/> richtets in eine <objectName ref="schuessel">Schüssel</objectName> an <lb/> giesset von dieser Brüh <lb/> darinnen es gesotten hat <lb/> ein wenig darüber <lb/> und streuet Ingber darauf : Wer will <lb/> kan ein wenig heisses Schmaltz darüber brennen <lb/> oder einen Milchram mit einer Fleischbrüh anrühren <lb/> <objectName ref="essig">Essig</objectName> und Saffran dazu thun <lb/> und wann gegen die letzt ein wenig <objectName ref="butter">Butter</objectName> hinzu gethan worden <lb/> alles miteinander aufsieden lassen <lb/> und diese Brüh über das gesottene Kröß anrichten. </p>
+        <p> Nehmet das Krösz <lb/> waschet es sauber <lb/> thut die Drüse heraus <lb/> setzets im <objectName ref="#wasser">Wasser</objectName> zu <lb/> und saltzet es eine Stund zuvor; wann es nun weich gesotten hat <lb/> richtets in eine <objectName ref="#schuessel">Schüssel</objectName> an <lb/> giesset von dieser Brüh <lb/> darinnen es gesotten hat <lb/> ein wenig darüber <lb/> und streuet Ingber darauf : Wer will <lb/> kan ein wenig heisses Schmaltz darüber brennen <lb/> oder einen Milchram mit einer Fleischbrüh anrühren <lb/> <objectName ref="#essig">Essig</objectName> und Saffran dazu thun <lb/> und wann gegen die letzt ein wenig <objectName ref="#butter">Butter</objectName> hinzu gethan worden <lb/> alles miteinander aufsieden lassen <lb/> und diese Brüh über das gesottene Kröß anrichten. </p>
             </div>
         </body>
     </text>

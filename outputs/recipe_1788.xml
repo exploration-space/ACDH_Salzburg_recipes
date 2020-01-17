@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb <lb/> den Püberschwanz, leg in auf ein guets gluet, <lb/> schab in die haut mit einen <objectName ref="messer">Messer</objectName> hinwekh, die <lb/> füeß mach schön in haissen <objectName ref="wasser">wasser</objectName>, zerhackh den <lb/> Püberschwannz zu klainen Stukhen, sezen in ainen <lb/> haffen zu den feüer, lassen Sieden, geuß <lb/> zuuor Essich daran, biß der waich wierdt, <lb/> vnd Salzen, mach ein guets braunes gesiph <lb/> darüber, nimb ein wennig <objectName ref="pfeffer">Pfeffer</objectName>, schneit <lb/> Öpfl gewürflet darüber, od ( er ) ain Mandl ge= <lb/> =schärb darumb. <lb/> </p>
+        <p> Nimb <lb/> den Püberschwanz, leg in auf ein guets gluet, <lb/> schab in die haut mit einen <objectName ref="#messer">Messer</objectName> hinwekh, die <lb/> füeß mach schön in haissen <objectName ref="#wasser">wasser</objectName>, zerhackh den <lb/> Püberschwannz zu klainen Stukhen, sezen in ainen <lb/> haffen zu den feüer, lassen Sieden, geuß <lb/> zuuor Essich daran, biß der waich wierdt, <lb/> vnd Salzen, mach ein guets braunes gesiph <lb/> darüber, nimb ein wennig <objectName ref="#pfeffer">Pfeffer</objectName>, schneit <lb/> Öpfl gewürflet darüber, od ( er ) ain Mandl ge= <lb/> =schärb darumb. <lb/> </p>
             </div>
         </body>
     </text>

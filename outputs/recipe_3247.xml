@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr gantze Reh= Rucken wird gehäutlet <lb/> gepaitzt <lb/> gespickt <lb/> und im Safft gebraten <lb/> mit einer Sardellen= Capry= Lemoni= oder Pomerantzen = <objectName ref="bruehe">Brühe</objectName> <lb/> u. wie selbe bey den Dendeln <lb/> und kälbernen Braten in Uberzahl zu finden. </p>
+        <p> DEr gantze Reh= Rucken wird gehäutlet <lb/> gepaitzt <lb/> gespickt <lb/> und im Safft gebraten <lb/> mit einer Sardellen= Capry= Lemoni= oder Pomerantzen = <objectName ref="#bruehe">Brühe</objectName> <lb/> u. wie selbe bey den Dendeln <lb/> und kälbernen Braten in Uberzahl zu finden. </p>
             </div>
         </body>
     </text>

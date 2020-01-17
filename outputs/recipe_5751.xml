@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Von einem gebratenen Drappen die <objectName ref="brust">Brust</objectName> genommen <lb/> halb gehack darauß gemacht <lb/> ein sauren frischen Limoniensafft darein gedruckt <lb/> oder fein breit geschnitten <lb/> vnd darmit auffsieden lassen sampt der braunen Brüh <lb/> so ist es gut vnd wolgeschmack. Vnd ein solches gehack kanstu zurichten auff vielerley manier <lb/> es sey saur oder nicht. Auß der andern halben <objectName ref="brust">Brust</objectName> kanstu auch ein gestossens machen. </p>
+        <p> Von einem gebratenen Drappen die <objectName ref="#brust">Brust</objectName> genommen <lb/> halb gehack darauß gemacht <lb/> ein sauren frischen Limoniensafft darein gedruckt <lb/> oder fein breit geschnitten <lb/> vnd darmit auffsieden lassen sampt der braunen Brüh <lb/> so ist es gut vnd wolgeschmack. Vnd ein solches gehack kanstu zurichten auff vielerley manier <lb/> es sey saur oder nicht. Auß der andern halben <objectName ref="#brust">Brust</objectName> kanstu auch ein gestossens machen. </p>
             </div>
         </body>
     </text>

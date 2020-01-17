@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WIrd zum Einmachen der <objectName ref="stockfisch">Stockfisch</objectName> <lb/> Ranen= Ruben <lb/> Cucummeri <lb/> und anderwärtig viel gebraucht. </p>
+        <p> WIrd zum Einmachen der <objectName ref="#stockfisch">Stockfisch</objectName> <lb/> Ranen= Ruben <lb/> Cucummeri <lb/> und anderwärtig viel gebraucht. </p>
             </div>
         </body>
     </text>

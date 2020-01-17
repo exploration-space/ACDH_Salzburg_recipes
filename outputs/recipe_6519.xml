@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> LAß die zwey hintere Lämmleins=Büglein beysammen <lb/> gleich einem Haasen mit <objectName ref="speck">Speck</objectName> gespickt; wann er zuvor auf einer <objectName ref="glut">Glut</objectName> ist steiff gemacht worden <lb/> und wann es beliebt <lb/> ein wenig gepaitzt <lb/> oder auch mit Salbey angesteckt <lb/> und im Safft gebraten; oder auch ungepaitzter und ungespickter gebraten; etliche spicken es an statt des Specks <lb/> oder Salbey nur mit Petersil=Kräutern alleinig; deßgleichen auch die einfachen Büglein. </p>
+        <p> LAß die zwey hintere Lämmleins=Büglein beysammen <lb/> gleich einem Haasen mit <objectName ref="#speck">Speck</objectName> gespickt; wann er zuvor auf einer <objectName ref="#glut">Glut</objectName> ist steiff gemacht worden <lb/> und wann es beliebt <lb/> ein wenig gepaitzt <lb/> oder auch mit Salbey angesteckt <lb/> und im Safft gebraten; oder auch ungepaitzter und ungespickter gebraten; etliche spicken es an statt des Specks <lb/> oder Salbey nur mit Petersil=Kräutern alleinig; deßgleichen auch die einfachen Büglein. </p>
             </div>
         </body>
     </text>

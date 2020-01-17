@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Treib ein <objectName ref="pastete">Pasteten</objectName> auff von weissem <objectName ref="teig">Teig</objectName> <lb/> nim ( m ) Lambfleisch <lb/> wenns klein gehackt ist <lb/> quells vnd säubers auß <lb/> machs in die <objectName ref="pastete">Pasteten</objectName> eyn <lb/> sträw <objectName ref="ingwer">Ingwer</objectName> vn ( d ) Saltz darüber <lb/> thu frische <objectName ref="butter">Butter</objectName> <lb/> die vngeschmältzt ist <lb/> darein <lb/> auch Agrast oder Grosselbeer <lb/> machs zu <lb/> vnd scheubs in <objectName ref="ofen">Ofen</objectName> <lb/> laß backen <lb/> vnd schneidts auff <lb/> geuß ein saures Brühlein <lb/> das vo ( n ) Eyerdottern gemacht ist <lb/> darüber <lb/> vnd gibs warm auff ein <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> Treib ein <objectName ref="#pastete">Pasteten</objectName> auff von weissem <objectName ref="#teig">Teig</objectName> <lb/> nim ( m ) Lambfleisch <lb/> wenns klein gehackt ist <lb/> quells vnd säubers auß <lb/> machs in die <objectName ref="#pastete">Pasteten</objectName> eyn <lb/> sträw <objectName ref="#ingwer">Ingwer</objectName> vn ( d ) Saltz darüber <lb/> thu frische <objectName ref="#butter">Butter</objectName> <lb/> die vngeschmältzt ist <lb/> darein <lb/> auch Agrast oder Grosselbeer <lb/> machs zu <lb/> vnd scheubs in <objectName ref="#ofen">Ofen</objectName> <lb/> laß backen <lb/> vnd schneidts auff <lb/> geuß ein saures Brühlein <lb/> das vo ( n ) Eyerdottern gemacht ist <lb/> darüber <lb/> vnd gibs warm auff ein <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

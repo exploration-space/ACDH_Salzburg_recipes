@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Zum braten vnnd eynmachen <lb/> daß man jhn füllt mit Kitten <lb/> <objectName ref="bier">Biern</objectName> <lb/> Kästen <lb/> Ziweben <lb/> vnd schwartzen Rosein <lb/> darmit gebraten. Auch in <objectName ref="pastete">Pasteten</objectName> <lb/> es sey gelb <lb/> schwartz oder weiß eyngemacht. Man kan so viel Speiß darvon machen <lb/> als von einer Ganß. </p>
+        <p> Zum braten vnnd eynmachen <lb/> daß man jhn füllt mit Kitten <lb/> <objectName ref="#bier">Biern</objectName> <lb/> Kästen <lb/> Ziweben <lb/> vnd schwartzen Rosein <lb/> darmit gebraten. Auch in <objectName ref="#pastete">Pasteten</objectName> <lb/> es sey gelb <lb/> schwartz oder weiß eyngemacht. Man kan so viel Speiß darvon machen <lb/> als von einer Ganß. </p>
             </div>
         </body>
     </text>

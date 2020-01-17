@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Seudt die Foren fein trucken ab <lb/> daß sie fein blaw seind <lb/> zeuch sie auff eine <objectName ref="schuessel">Schüssel</objectName> <lb/> vnnd geuß ein lautere Erbsbrüh darüber <lb/> thu frische vngeschmältzte <objectName ref="butter">Butter</objectName> darauff <lb/> vnd laß miteinander auffsieden in der <objectName ref="schuessel">Schüssel</objectName>. Vnd wenn du es wilt auff ein <objectName ref="tisch">Tisch</objectName> geben <lb/> so geuß Senff <lb/> der mit <objectName ref="weinessig">Weinessig</objectName> ist angemacht <lb/> darüber <lb/> so wirdt es gut vnd wolgeschmack. </p>
+        <p> Seudt die Foren fein trucken ab <lb/> daß sie fein blaw seind <lb/> zeuch sie auff eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> vnnd geuß ein lautere Erbsbrüh darüber <lb/> thu frische vngeschmältzte <objectName ref="#butter">Butter</objectName> darauff <lb/> vnd laß miteinander auffsieden in der <objectName ref="#schuessel">Schüssel</objectName>. Vnd wenn du es wilt auff ein <objectName ref="#tisch">Tisch</objectName> geben <lb/> so geuß Senff <lb/> der mit <objectName ref="#weinessig">Weinessig</objectName> ist angemacht <lb/> darüber <lb/> so wirdt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

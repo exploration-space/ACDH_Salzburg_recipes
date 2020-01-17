@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Bretzel <lb/> vn ( d ) weich sie im Saltzwasser <lb/> thu sie auff eine <objectName ref="schuessel">Schüssel</objectName> <lb/> vnnd besträw sie mit schwartzen Rosein vnd <objectName ref="ingwer">Ingwer</objectName> <lb/> begeuß mit heisser <objectName ref="butter">Butter</objectName> <lb/> so ist es auch gut. Oder besträw es mit Parmesankäß <lb/> vnnd geuß heisse <objectName ref="butter">Butter</objectName> darüber. </p>
+        <p> Nim ( m ) Bretzel <lb/> vn ( d ) weich sie im Saltzwasser <lb/> thu sie auff eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> vnnd besträw sie mit schwartzen Rosein vnd <objectName ref="#ingwer">Ingwer</objectName> <lb/> begeuß mit heisser <objectName ref="#butter">Butter</objectName> <lb/> so ist es auch gut. Oder besträw es mit Parmesankäß <lb/> vnnd geuß heisse <objectName ref="#butter">Butter</objectName> darüber. </p>
             </div>
         </body>
     </text>

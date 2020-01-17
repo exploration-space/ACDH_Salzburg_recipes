@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimm viel <objectName ref="zucker">Zucker</objectName> <lb/> wenig <objectName ref="wein">Wein</objectName> <lb/> gantzen Zimmet <lb/> die Beer damit kurtz gekocht <lb/> und mit Absonderung des Gewürtzes angericht. </p>
+        <p> Nimm viel <objectName ref="#zucker">Zucker</objectName> <lb/> wenig <objectName ref="#wein">Wein</objectName> <lb/> gantzen Zimmet <lb/> die Beer damit kurtz gekocht <lb/> und mit Absonderung des Gewürtzes angericht. </p>
             </div>
         </body>
     </text>

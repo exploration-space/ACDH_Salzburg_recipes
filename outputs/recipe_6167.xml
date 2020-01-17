@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Pfauwen in <objectName ref="pastete">Pasteten</objectName> eyngemacht <lb/> vnnd kalt lassen werden. </p>
+        <p> Pfauwen in <objectName ref="#pastete">Pasteten</objectName> eyngemacht <lb/> vnnd kalt lassen werden. </p>
             </div>
         </body>
     </text>

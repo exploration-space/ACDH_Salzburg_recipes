@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm <objectName ref="zucker">Zucker</objectName> und Rosen= <objectName ref="wasser">Wasser</objectName> <lb/> siede Jullep daraus <lb/> rühre gestoßne <objectName ref="mandeln">Mandeln</objectName> darein <lb/> machs ob einer <objectName ref="glut">Glut</objectName> wol trucken <lb/> rühre ein wenig gestoßnen <objectName ref="zucker">Zucker</objectName> darein <lb/> machs auf Oblat <lb/> rund oder ablang <lb/> bachs im <objectName ref="ofen">Ofen</objectName> <lb/> oder Dorten= Pfann kühl <lb/> sie lauffen schön auf. </p>
+        <p> NImm <objectName ref="#zucker">Zucker</objectName> und Rosen= <objectName ref="#wasser">Wasser</objectName> <lb/> siede Jullep daraus <lb/> rühre gestoßne <objectName ref="#mandeln">Mandeln</objectName> darein <lb/> machs ob einer <objectName ref="#glut">Glut</objectName> wol trucken <lb/> rühre ein wenig gestoßnen <objectName ref="#zucker">Zucker</objectName> darein <lb/> machs auf Oblat <lb/> rund oder ablang <lb/> bachs im <objectName ref="#ofen">Ofen</objectName> <lb/> oder Dorten= Pfann kühl <lb/> sie lauffen schön auf. </p>
             </div>
         </body>
     </text>

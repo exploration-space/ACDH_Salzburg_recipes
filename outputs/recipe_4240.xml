@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn der gesaltzne <objectName ref="lachs">Lachs</objectName> <lb/> oder Rhein= Salm abgesotten <lb/> wird er in weisser Capry= <objectName ref="bruehe">Brühe</objectName> mit Lemoni gegeben. </p>
+        <p> WAnn der gesaltzne <objectName ref="#lachs">Lachs</objectName> <lb/> oder Rhein= Salm abgesotten <lb/> wird er in weisser Capry= <objectName ref="#bruehe">Brühe</objectName> mit Lemoni gegeben. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Die Öpfl Sauber geschölt, vnnd von d ( er ) Haußen= <lb/> =blater den 10ten. thaill darzue genomben, <lb/> vnnd in <objectName ref="wasser">wasser</objectName> Sieden lassen, vnd gezuggert, <lb/> darnach in ain Schißl gethan, vnd in seinen <lb/> aigenen Supen stehen lassen, so bestehet es. <lb/> </p>
+        <p> Die Öpfl Sauber geschölt, vnnd von d ( er ) Haußen= <lb/> =blater den 10ten. thaill darzue genomben, <lb/> vnnd in <objectName ref="#wasser">wasser</objectName> Sieden lassen, vnd gezuggert, <lb/> darnach in ain Schißl gethan, vnd in seinen <lb/> aigenen Supen stehen lassen, so bestehet es. <lb/> </p>
             </div>
         </body>
     </text>

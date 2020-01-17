@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb die hener seud es, aber nit gar an die stat, nimbs <lb/> alßdan, Wasch es sauber auß, gewürz es, thue ein Rind= <lb/> süppl dran giessen, vnd bren ein mell drein, geuß <lb/> auch ein <objectName ref="wein">Wein</objectName> daran, leg auch ein gesurten Lemonÿ <lb/> dran, richts an, vnd gibs. <lb/> </p>
+        <p> Nimb die hener seud es, aber nit gar an die stat, nimbs <lb/> alßdan, Wasch es sauber auß, gewürz es, thue ein Rind= <lb/> süppl dran giessen, vnd bren ein mell drein, geuß <lb/> auch ein <objectName ref="#wein">Wein</objectName> daran, leg auch ein gesurten Lemonÿ <lb/> dran, richts an, vnd gibs. <lb/> </p>
             </div>
         </body>
     </text>

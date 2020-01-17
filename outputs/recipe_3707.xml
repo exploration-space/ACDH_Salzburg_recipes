@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm das wohlgesottene <objectName ref="hirn">Hirn</objectName> <lb/> hack es klein mit Zwibel <lb/> Petersil= Kräutlein <lb/> Saltz <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Muscatnuß <lb/> auch Wein= Beerlein <lb/> dann rösts mit geriebner Semmel in <objectName ref="butter">Butter</objectName> <lb/> schlage Eyer mit wenig süssen Ram <lb/> oder <objectName ref="wein">Wein</objectName> und <objectName ref="zucker">Zucker</objectName> daran; mache Knödlein und Strützlein daraus <lb/> bachs aus heissem Schmaltz <lb/> und gibs trucken <lb/> oder mit einer süssen Wein= Beerlein= <objectName ref="bruehe">Brühe</objectName>. </p>
+        <p> NImm das wohlgesottene <objectName ref="#hirn">Hirn</objectName> <lb/> hack es klein mit Zwibel <lb/> Petersil= Kräutlein <lb/> Saltz <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> und Muscatnuß <lb/> auch Wein= Beerlein <lb/> dann rösts mit geriebner Semmel in <objectName ref="#butter">Butter</objectName> <lb/> schlage Eyer mit wenig süssen Ram <lb/> oder <objectName ref="#wein">Wein</objectName> und <objectName ref="#zucker">Zucker</objectName> daran; mache Knödlein und Strützlein daraus <lb/> bachs aus heissem Schmaltz <lb/> und gibs trucken <lb/> oder mit einer süssen Wein= Beerlein= <objectName ref="#bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

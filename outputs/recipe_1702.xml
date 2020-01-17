@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Seut den höchten in ainen Wasßer, v̈ber den <lb/> <objectName ref="spinat">Spinat</objectName>, leg im zum höchten, leg Erstlich buter <lb/> daran, Nembt gestosßen Mußcatblie, vnd et= <lb/> =lich Imber, ain wenig <objectName ref="pfeffer">Pfeffer</objectName>, <objectName ref="salz">Salz</objectName> in nit <lb/> hart, laß woll ein sieden, thue ain wenig Su= <lb/> =pen daran, leg d ( a ) s <objectName ref="kraut">Kraut</objectName> fein auf die Stukh. <lb/> </p>
+        <p> Seut den höchten in ainen Wasßer, v̈ber den <lb/> <objectName ref="#spinat">Spinat</objectName>, leg im zum höchten, leg Erstlich buter <lb/> daran, Nembt gestosßen Mußcatblie, vnd et= <lb/> =lich Imber, ain wenig <objectName ref="#pfeffer">Pfeffer</objectName>, <objectName ref="#salz">Salz</objectName> in nit <lb/> hart, laß woll ein sieden, thue ain wenig Su= <lb/> =pen daran, leg d ( a ) s <objectName ref="#kraut">Kraut</objectName> fein auf die Stukh. <lb/> </p>
             </div>
         </body>
     </text>

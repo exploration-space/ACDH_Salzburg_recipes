@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> der nembe ein gestädterl vnd maches voller <lb/> löcher vnd bindt es an ein <objectName ref="spagat">Spagat</objectName> hernach <lb/> den <objectName ref="amber">amber</objectName> oder bißam darein gethan vnd <lb/> ins segchert gehenckht aber frey mueß <lb/> es sein oder henckhen daß nit auf liget so <lb/> bekombt in einer stundt seinen geruch <lb/> widerumb zu keinen leingwandt muß <lb/> man ihn legen dan er verlihrt sein gruch. <lb/> </p>
+        <p> der nembe ein gestädterl vnd maches voller <lb/> löcher vnd bindt es an ein <objectName ref="#spagat">Spagat</objectName> hernach <lb/> den <objectName ref="#amber">amber</objectName> oder bißam darein gethan vnd <lb/> ins segchert gehenckht aber frey mueß <lb/> es sein oder henckhen daß nit auf liget so <lb/> bekombt in einer stundt seinen geruch <lb/> widerumb zu keinen leingwandt muß <lb/> man ihn legen dan er verlihrt sein gruch. <lb/> </p>
             </div>
         </body>
     </text>

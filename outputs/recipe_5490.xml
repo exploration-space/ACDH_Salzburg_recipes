@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) ein gesotten <objectName ref="hecht">Hecht</objectName> <lb/> vnd thu die Haut davon hinweg <lb/> vnd stoß mit abgezogenen <objectName ref="mandeln">Mandeln</objectName> <lb/> streichs mit weissem <objectName ref="wein">Wein</objectName> durch <lb/> machs mit weissem <objectName ref="zucker">Zucker</objectName> süß <lb/> vnd laß auffsieden mit frischer <objectName ref="butter">Butter</objectName> <lb/> so wirdt es gut vnd wolgeschmack. Also kocht man die weiß Hechtsuppen. </p>
+        <p> Nim ( m ) ein gesotten <objectName ref="#hecht">Hecht</objectName> <lb/> vnd thu die Haut davon hinweg <lb/> vnd stoß mit abgezogenen <objectName ref="#mandeln">Mandeln</objectName> <lb/> streichs mit weissem <objectName ref="#wein">Wein</objectName> durch <lb/> machs mit weissem <objectName ref="#zucker">Zucker</objectName> süß <lb/> vnd laß auffsieden mit frischer <objectName ref="#butter">Butter</objectName> <lb/> so wirdt es gut vnd wolgeschmack. Also kocht man die weiß Hechtsuppen. </p>
             </div>
         </body>
     </text>

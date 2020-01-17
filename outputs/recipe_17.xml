@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein hirsch oder Wilden schwein <lb/> Zemmer<gap/>, Wasch ihme sauber Aus, lass <lb/> ihme in <objectName ref="wasser">Wasser</objectName> Genueg siedten<gap/>, nimb <lb/> ihnne alsdan heraus, thue ihne in ein <lb/> saubers Geschier, nimb ein Wönig Es= <lb/> sig, Guette rindt suppen<gap/>, ein wenig <lb/> Knäfl<gap/>, frischen lemony Safft<gap/>, vnd schöllen<gap/>, <lb/> vnnd Gemeinen<gap/> leb Zelten<gap/>, riehrs<gap/> <lb/> durch einander schitte<gap/> es auf den Zemmer, <lb/> lass es darmit ein Weill sieden<gap/> <lb/> vnnd gewürz<gap/> es. <lb/> </p>
+        <p> Nimb ein hirsch oder Wilden schwein <lb/> Zemmer<gap/>, Wasch ihme sauber Aus, lass <lb/> ihme in <objectName ref="#wasser">Wasser</objectName> Genueg siedten<gap/>, nimb <lb/> ihnne alsdan heraus, thue ihne in ein <lb/> saubers Geschier, nimb ein Wönig Es= <lb/> sig, Guette rindt suppen<gap/>, ein wenig <lb/> Knäfl<gap/>, frischen lemony Safft<gap/>, vnd schöllen<gap/>, <lb/> vnnd Gemeinen<gap/> leb Zelten<gap/>, riehrs<gap/> <lb/> durch einander schitte<gap/> es auf den Zemmer, <lb/> lass es darmit ein Weill sieden<gap/> <lb/> vnnd gewürz<gap/> es. <lb/> </p>
             </div>
         </body>
     </text>

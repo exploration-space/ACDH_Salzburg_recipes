@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> HImbeer <lb/> so frisch und sauber geklaubt <lb/> gibt man auch mit <objectName ref="wein">Wein</objectName> angefeucht <lb/> und wol mit <objectName ref="zucker">Zucker</objectName> bestreut <lb/> an statt des süssen Salats <lb/> oder auch gleich ohne <objectName ref="wein">Wein</objectName> mit <objectName ref="zucker">Zucker</objectName>. </p>
+        <p> HImbeer <lb/> so frisch und sauber geklaubt <lb/> gibt man auch mit <objectName ref="#wein">Wein</objectName> angefeucht <lb/> und wol mit <objectName ref="#zucker">Zucker</objectName> bestreut <lb/> an statt des süssen Salats <lb/> oder auch gleich ohne <objectName ref="#wein">Wein</objectName> mit <objectName ref="#zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

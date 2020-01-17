@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schel vn ( d ) schneidt sie zu stücken <lb/> leg sie auff ein <objectName ref="schuessel">Schüssel</objectName> <lb/> vnd besträw sie mit vberzogenem Aniß <lb/> oder mit <objectName ref="fenchel">Fenchel</objectName> <lb/> sträw gestossenen <objectName ref="zucker">Zucker</objectName> darüber <lb/> so seind sie gut vnd wolgeschmack. </p>
+        <p> Schel vn ( d ) schneidt sie zu stücken <lb/> leg sie auff ein <objectName ref="#schuessel">Schüssel</objectName> <lb/> vnd besträw sie mit vberzogenem Aniß <lb/> oder mit <objectName ref="#fenchel">Fenchel</objectName> <lb/> sträw gestossenen <objectName ref="#zucker">Zucker</objectName> darüber <lb/> so seind sie gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Aepffel werden allerdings zugerichtet <lb/> wie die vorher beschriebene; die Füll aber dazu also angemacht : Stosset <objectName ref="mandeln">Mandeln</objectName> mit <objectName ref="rosenwasser">Rosenwasser</objectName> ab <lb/> zuckert <lb/> und rühret sie wohl durch einander <lb/> füllets dann in die Aepffel <lb/> und bachets <lb/> wie die gleich vorhergehende. </p>
+        <p> DIe Aepffel werden allerdings zugerichtet <lb/> wie die vorher beschriebene; die Füll aber dazu also angemacht : Stosset <objectName ref="#mandeln">Mandeln</objectName> mit <objectName ref="#rosenwasser">Rosenwasser</objectName> ab <lb/> zuckert <lb/> und rühret sie wohl durch einander <lb/> füllets dann in die Aepffel <lb/> und bachets <lb/> wie die gleich vorhergehende. </p>
             </div>
         </body>
     </text>

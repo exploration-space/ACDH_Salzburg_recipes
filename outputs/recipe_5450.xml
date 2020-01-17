@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) <objectName ref="linsen">Linsen</objectName> <lb/> setz sie im <objectName ref="wasser">Wasser</objectName> zu <lb/> vnnd laß sie sieden. Wenn sie gesotten seyn <lb/> so stoß sie halben theils <lb/> vnd streich sie mit der Brüh <lb/> darin ( n ) en sie gesotten haben <lb/> durch <lb/> machs mit <objectName ref="pfeffer">Pfeffer</objectName> ab <lb/> gelbs <lb/> saltzs vnnd schmältzs <lb/> thu die vbrigen <objectName ref="linsen">Linsen</objectName> auch darein <lb/> vnnd laß damit sieden <lb/> thu grüne wolschmeckende <objectName ref="kraeuter">Kräuter</objectName> darvnter <lb/> so wirt es auch gut. </p>
+        <p> Nim ( m ) <objectName ref="#linsen">Linsen</objectName> <lb/> setz sie im <objectName ref="#wasser">Wasser</objectName> zu <lb/> vnnd laß sie sieden. Wenn sie gesotten seyn <lb/> so stoß sie halben theils <lb/> vnd streich sie mit der Brüh <lb/> darin ( n ) en sie gesotten haben <lb/> durch <lb/> machs mit <objectName ref="#pfeffer">Pfeffer</objectName> ab <lb/> gelbs <lb/> saltzs vnnd schmältzs <lb/> thu die vbrigen <objectName ref="#linsen">Linsen</objectName> auch darein <lb/> vnnd laß damit sieden <lb/> thu grüne wolschmeckende <objectName ref="#kraeuter">Kräuter</objectName> darvnter <lb/> so wirt es auch gut. </p>
             </div>
         </body>
     </text>

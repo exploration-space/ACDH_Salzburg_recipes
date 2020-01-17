@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Die <objectName ref="latwerge">latwergen</objectName> vnd hackhs khlein <lb/> auch eingemachte<gap/> Johnes Perl<gap/> da= <lb/><lb/> ( re 174 ) runter Gemischt, Nimb ein Marben <lb/> taig<gap/> vnnd walze<gap/> ihn Ganz Dün <lb/> Aus, hernach fille<gap/> Die <objectName ref="latwerge">latwergen</objectName> <lb/> Darein, mache Ganz khleine Kräpfl<gap/> <lb/> Daraus vnnd Rädl<gap/> sye ab vnnd <lb/> Pachs<gap/> in schmalz<gap/> schen, also seindt sie <lb/> Recht Vnnd Zuckhers wanst Du es Zur <lb/> tafel bringst Dise Khräpfl Kanst <lb/> auch Ausandern sachen machen, von <lb/> was dir beliebt <lb/> </p>
+        <p> Nimb Die <objectName ref="#latwerge">latwergen</objectName> vnd hackhs khlein <lb/> auch eingemachte<gap/> Johnes Perl<gap/> da= <lb/><lb/> ( re 174 ) runter Gemischt, Nimb ein Marben <lb/> taig<gap/> vnnd walze<gap/> ihn Ganz Dün <lb/> Aus, hernach fille<gap/> Die <objectName ref="#latwerge">latwergen</objectName> <lb/> Darein, mache Ganz khleine Kräpfl<gap/> <lb/> Daraus vnnd Rädl<gap/> sye ab vnnd <lb/> Pachs<gap/> in schmalz<gap/> schen, also seindt sie <lb/> Recht Vnnd Zuckhers wanst Du es Zur <lb/> tafel bringst Dise Khräpfl Kanst <lb/> auch Ausandern sachen machen, von <lb/> was dir beliebt <lb/> </p>
             </div>
         </body>
     </text>

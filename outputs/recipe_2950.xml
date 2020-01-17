@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAchs von Eyerdottern <lb/> und geläuterten Hönig <lb/> oder <objectName ref="zucker">Zucker</objectName> <lb/> wenig Malvasier <lb/> und gestossenen Mandlen <lb/> in ein silberne <objectName ref="schuessel">Schüssel</objectName> <lb/> oder erdenen <objectName ref="rein">Rein</objectName> <lb/> zur Dortenfüll <lb/> oder Dortulet <lb/> wie die gelbe Krembt <lb/> mit gantzem Gewürtz. </p>
+        <p> MAchs von Eyerdottern <lb/> und geläuterten Hönig <lb/> oder <objectName ref="#zucker">Zucker</objectName> <lb/> wenig Malvasier <lb/> und gestossenen Mandlen <lb/> in ein silberne <objectName ref="#schuessel">Schüssel</objectName> <lb/> oder erdenen <objectName ref="#rein">Rein</objectName> <lb/> zur Dortenfüll <lb/> oder Dortulet <lb/> wie die gelbe Krembt <lb/> mit gantzem Gewürtz. </p>
             </div>
         </body>
     </text>

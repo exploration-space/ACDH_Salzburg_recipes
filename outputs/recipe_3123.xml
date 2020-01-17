@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> LEmoni <lb/> breit zu dünnen Blättlein geschnitten <lb/> und mit wol <objectName ref="zucker">Zucker</objectName> auf ein Schaalen gericht <lb/> ist ein guter süsser <objectName ref="salat">Salat</objectName> <lb/> und braucht wol <objectName ref="zucker">Zucker</objectName>. </p>
+        <p> LEmoni <lb/> breit zu dünnen Blättlein geschnitten <lb/> und mit wol <objectName ref="#zucker">Zucker</objectName> auf ein Schaalen gericht <lb/> ist ein guter süsser <objectName ref="#salat">Salat</objectName> <lb/> und braucht wol <objectName ref="#zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein Gries siede<gap/> ihn in der Milch<gap/> <lb/> Dickh<gap/> lass ihn Khalt<gap/> werdten, Nimb <lb/> ein Viertumb<gap/> Putter Treib<gap/> ihn ab, <lb/> in ein Weidling<gap/>, darnach thue den <lb/><lb/> ( ve 125 ) <objectName ref="griess">Grieß</objectName> Darein, Zuckhers, schlag ain <lb/> Ayr<gap/> Nach den andern Darein, Riehrs<gap/> <lb/> ein halbe stundt auf einer seiten <lb/> schmierb<gap/> ein schisßl<gap/> vnnd Raif<gap/> mit <lb/> Putter, schitt<gap/> Daß Mues<gap/> Darein, <lb/> Pach<gap/> es fein schön Khiell<gap/>, also ist es <lb/> Recht. <lb/> </p>
+        <p> Nimb ein Gries siede<gap/> ihn in der Milch<gap/> <lb/> Dickh<gap/> lass ihn Khalt<gap/> werdten, Nimb <lb/> ein Viertumb<gap/> Putter Treib<gap/> ihn ab, <lb/> in ein Weidling<gap/>, darnach thue den <lb/><lb/> ( ve 125 ) <objectName ref="#griess">Grieß</objectName> Darein, Zuckhers, schlag ain <lb/> Ayr<gap/> Nach den andern Darein, Riehrs<gap/> <lb/> ein halbe stundt auf einer seiten <lb/> schmierb<gap/> ein schisßl<gap/> vnnd Raif<gap/> mit <lb/> Putter, schitt<gap/> Daß Mues<gap/> Darein, <lb/> Pach<gap/> es fein schön Khiell<gap/>, also ist es <lb/> Recht. <lb/> </p>
             </div>
         </body>
     </text>

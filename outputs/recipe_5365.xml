@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Murmemendel seynd ordinarivon Natur feist; dahero <lb/> wann sie ausgezogen <lb/> auch das Eingeweyd sauber herausgenommen <lb/> so werden sie eingesaltzen <lb/> und gleich einem Kitz= <objectName ref="fleisch">Fleisch</objectName> <lb/> schnell hinweg gebraten. </p>
+        <p> DIe Murmemendel seynd ordinarivon Natur feist; dahero <lb/> wann sie ausgezogen <lb/> auch das Eingeweyd sauber herausgenommen <lb/> so werden sie eingesaltzen <lb/> und gleich einem Kitz= <objectName ref="#fleisch">Fleisch</objectName> <lb/> schnell hinweg gebraten. </p>
             </div>
         </body>
     </text>

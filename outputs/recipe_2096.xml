@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Mandl, stosß gor khlein vnd vest, tröpffle nur mit Rosen= <lb/> <objectName ref="wasser">wasser</objectName> Zue, mach dan ein aÿrkhäß, souill der geribnen <lb/> Mandl, rührs durcheinander, schlag aÿr dran, das in der <lb/> mithe Wird ein khugl taig, thue erstlich ein Zukher drein, <lb/> vnd Weinpörl, mach ein blat von aÿrn vnd mell, reibs mit <lb/> einem Welger aufeinander, schlag die obgeschribne fühl drauf, <lb/> vnd laß in einer <objectName ref="pastete">Pasteten</objectName> pfan bachen, oder in einem <lb/> Pachofen, nit gar Zu lang, Wan es sich aber ÿbersich Pömbte, <lb/> vnd hört Wird, so ist genueg. <lb/><lb/> ( 36r ) </p>
+        <p> Nimb Mandl, stosß gor khlein vnd vest, tröpffle nur mit Rosen= <lb/> <objectName ref="#wasser">wasser</objectName> Zue, mach dan ein aÿrkhäß, souill der geribnen <lb/> Mandl, rührs durcheinander, schlag aÿr dran, das in der <lb/> mithe Wird ein khugl taig, thue erstlich ein Zukher drein, <lb/> vnd Weinpörl, mach ein blat von aÿrn vnd mell, reibs mit <lb/> einem Welger aufeinander, schlag die obgeschribne fühl drauf, <lb/> vnd laß in einer <objectName ref="#pastete">Pasteten</objectName> pfan bachen, oder in einem <lb/> Pachofen, nit gar Zu lang, Wan es sich aber ÿbersich Pömbte, <lb/> vnd hört Wird, so ist genueg. <lb/><lb/> ( 36r ) </p>
             </div>
         </body>
     </text>

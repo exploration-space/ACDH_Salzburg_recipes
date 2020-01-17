@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ZUr Abwechslung <lb/> kan man unter diesen Schafmäuler= oder Feld= <objectName ref="salat">Salat</objectName> auch Rapuntzeln mengen <lb/> oder von selbigen nur das grüneste herab schneiden <lb/> und die grünen Hertzlein oben an dem weissen Würtzelein lassen <lb/> jedoch aber keine <objectName ref="zwiebel">Zwiebeln</objectName> und Citronen darunter mischen. <gap/> <gap/> Wem es beliebt <lb/> der kan auch von lauter Rapuntzeln einen <objectName ref="salat">Salat</objectName> machen <lb/> und neben herum andern grünen <objectName ref="salat">Salat</objectName> <lb/> nach gefallen <lb/> legen. </p>
+        <p> ZUr Abwechslung <lb/> kan man unter diesen Schafmäuler= oder Feld= <objectName ref="#salat">Salat</objectName> auch Rapuntzeln mengen <lb/> oder von selbigen nur das grüneste herab schneiden <lb/> und die grünen Hertzlein oben an dem weissen Würtzelein lassen <lb/> jedoch aber keine <objectName ref="#zwiebel">Zwiebeln</objectName> und Citronen darunter mischen. <gap/> <gap/> Wem es beliebt <lb/> der kan auch von lauter Rapuntzeln einen <objectName ref="#salat">Salat</objectName> machen <lb/> und neben herum andern grünen <objectName ref="#salat">Salat</objectName> <lb/> nach gefallen <lb/> legen. </p>
             </div>
         </body>
     </text>

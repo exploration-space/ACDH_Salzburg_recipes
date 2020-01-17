@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm so viel grosse <objectName ref="loeffel">Löffel</objectName> voll <objectName ref="mehl">Mehl</objectName> <lb/> als der Eyer seyn <lb/> und jedesmal zu zweyen Eyern ein wenig Brandwein; saltze den <objectName ref="teig">Teig</objectName> <lb/> walchere und bache die daraus formirte Küchlein <lb/> auf die zuvor bereits beschriebene Art. </p>
+        <p> NImm so viel grosse <objectName ref="#loeffel">Löffel</objectName> voll <objectName ref="#mehl">Mehl</objectName> <lb/> als der Eyer seyn <lb/> und jedesmal zu zweyen Eyern ein wenig Brandwein; saltze den <objectName ref="#teig">Teig</objectName> <lb/> walchere und bache die daraus formirte Küchlein <lb/> auf die zuvor bereits beschriebene Art. </p>
             </div>
         </body>
     </text>

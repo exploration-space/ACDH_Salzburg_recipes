@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein wenig vmbherthumb, riehr in mit <objectName ref="butter">butter</objectName> vnd obern <objectName ref="milch">milch</objectName>, <lb/> nimb ein handtuoll geschölte Mandlen, hackh sye Zümblich Klain, <lb/> vnd wan der Vmbherthumb vnd die <objectName ref="milch">milch</objectName> siedten, so riehr die <lb/> Mandlen auch Darein, Zuckhers woll ab, es mues nit lang siedten, <lb/> sondern resch herab gemacht werdten, vnd in Reindl auf den <objectName ref="tisch">tisch</objectName> <lb/> getragen, So ists recht. <lb/> </p>
+        <p> Nimb ein wenig vmbherthumb, riehr in mit <objectName ref="#butter">butter</objectName> vnd obern <objectName ref="#milch">milch</objectName>, <lb/> nimb ein handtuoll geschölte Mandlen, hackh sye Zümblich Klain, <lb/> vnd wan der Vmbherthumb vnd die <objectName ref="#milch">milch</objectName> siedten, so riehr die <lb/> Mandlen auch Darein, Zuckhers woll ab, es mues nit lang siedten, <lb/> sondern resch herab gemacht werdten, vnd in Reindl auf den <objectName ref="#tisch">tisch</objectName> <lb/> getragen, So ists recht. <lb/> </p>
             </div>
         </body>
     </text>

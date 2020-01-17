@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="augentrost">Augentrost</objectName> <lb/> zu Latein Eufrafia, Thu das <objectName ref="kraut">Kraut</objectName> in <objectName ref="most">Most</objectName> <lb/> der <objectName ref="wein">Wein</objectName> ist gut für vnsauberkeit der <objectName ref="augen">Augen</objectName> <lb/> vn tunckelheit deß Gesichts <lb/> ob sie gleich von Natur Phlegmatisch vnd feißt seind <lb/> Ob der <objectName ref="wein">Wein</objectName> zu viel starck were <lb/> so temperier man jn mit Fenchelwasser. </p>
+        <p> <objectName ref="#augentrost">Augentrost</objectName> <lb/> zu Latein Eufrafia, Thu das <objectName ref="#kraut">Kraut</objectName> in <objectName ref="#most">Most</objectName> <lb/> der <objectName ref="#wein">Wein</objectName> ist gut für vnsauberkeit der <objectName ref="#augen">Augen</objectName> <lb/> vn tunckelheit deß Gesichts <lb/> ob sie gleich von Natur Phlegmatisch vnd feißt seind <lb/> Ob der <objectName ref="#wein">Wein</objectName> zu viel starck were <lb/> so temperier man jn mit Fenchelwasser. </p>
             </div>
         </body>
     </text>

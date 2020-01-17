@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Maurachen <lb/> quell sie in einem <objectName ref="wasser">Wasser</objectName> <lb/> druck das <objectName ref="wasser">Wasser</objectName> widerumb davon <lb/> hack sie klein mit grünen wolschmeckenden <objectName ref="kraeuter">Kräutern</objectName> <lb/> thu sie in heisse <objectName ref="butter">Butter</objectName> <lb/> vnd rößt sie <lb/> nim ( m ) alsdenn Eyer <lb/> die auffgeschlagen seyn <lb/> saltzs <lb/> pfeffers <lb/> machs gelb <lb/> vnd rürs vnter die Maurachen <lb/> so wirdt es gut vnd wolgschmack. Also kocht man Lungenmuß von Maurachen. </p>
+        <p> Nim ( m ) Maurachen <lb/> quell sie in einem <objectName ref="#wasser">Wasser</objectName> <lb/> druck das <objectName ref="#wasser">Wasser</objectName> widerumb davon <lb/> hack sie klein mit grünen wolschmeckenden <objectName ref="#kraeuter">Kräutern</objectName> <lb/> thu sie in heisse <objectName ref="#butter">Butter</objectName> <lb/> vnd rößt sie <lb/> nim ( m ) alsdenn Eyer <lb/> die auffgeschlagen seyn <lb/> saltzs <lb/> pfeffers <lb/> machs gelb <lb/> vnd rürs vnter die Maurachen <lb/> so wirdt es gut vnd wolgschmack. Also kocht man Lungenmuß von Maurachen. </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ES wird der <objectName ref="hecht">Hecht</objectName> geschuppt <lb/> aufgemacht <lb/> gesaltzen und eingemelbt <lb/> gantzer <lb/> oder Stuckweiß gebachen <lb/> ist gut in einer sauren Knoblauch= <objectName ref="bruehe">Brühe</objectName> mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> Muscatnuß <lb/> <objectName ref="wein">Wein</objectName> <lb/> oder Eßig <lb/> in der <objectName ref="schuessel">Schüssel</objectName> zugedeckt aufdämpffen lassen <lb/> oder es werden an statt des Knoblauchs <lb/> <objectName ref="sardellen">Sardellen</objectName> genommen; so wird es auch gut. </p>
+        <p> ES wird der <objectName ref="#hecht">Hecht</objectName> geschuppt <lb/> aufgemacht <lb/> gesaltzen und eingemelbt <lb/> gantzer <lb/> oder Stuckweiß gebachen <lb/> ist gut in einer sauren Knoblauch= <objectName ref="#bruehe">Brühe</objectName> mit <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> Muscatnuß <lb/> <objectName ref="#wein">Wein</objectName> <lb/> oder Eßig <lb/> in der <objectName ref="#schuessel">Schüssel</objectName> zugedeckt aufdämpffen lassen <lb/> oder es werden an statt des Knoblauchs <lb/> <objectName ref="#sardellen">Sardellen</objectName> genommen; so wird es auch gut. </p>
             </div>
         </body>
     </text>

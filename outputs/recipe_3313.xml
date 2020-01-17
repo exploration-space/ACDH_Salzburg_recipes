@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn der <objectName ref="schlegel">Schlegel</objectName> gar wohl zerklopfft und abgebraten <lb/> wird das <objectName ref="fleisch">Fleisch</objectName> darvon abgeschnitten <lb/> und mit gutem gesottenen <objectName ref="speck">Speck</objectName> klein gehackt <lb/> mach es an mit klein= gehacktem Zwibel <lb/> geklaubten Wein= Beerlein <lb/> Wein= Eßig <lb/> <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> Zimmet <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> und wenig Nägelein <lb/> machs an in rechter Dicke; sobald es anfangt zu sieden <lb/> so ist es fertig. </p>
+        <p> WAnn der <objectName ref="#schlegel">Schlegel</objectName> gar wohl zerklopfft und abgebraten <lb/> wird das <objectName ref="#fleisch">Fleisch</objectName> darvon abgeschnitten <lb/> und mit gutem gesottenen <objectName ref="#speck">Speck</objectName> klein gehackt <lb/> mach es an mit klein= gehacktem Zwibel <lb/> geklaubten Wein= Beerlein <lb/> Wein= Eßig <lb/> <objectName ref="#fleischbruehe">Fleischbrühe</objectName> <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> Zimmet <lb/> <objectName ref="#zucker">Zucker</objectName> <lb/> und wenig Nägelein <lb/> machs an in rechter Dicke; sobald es anfangt zu sieden <lb/> so ist es fertig. </p>
             </div>
         </body>
     </text>

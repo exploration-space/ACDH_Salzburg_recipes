@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) ein gantze rohe <objectName ref="zunge">Zungen</objectName> <lb/> die außgeseubert ist <lb/> stoß sie in einen <objectName ref="darm">Darm</objectName> <lb/> sampt dem <objectName ref="fleisch">Fleisch</objectName> vom Ziewonada zugericht <lb/> hengs in <objectName ref="rauch">Rauch</objectName> <lb/> so wirt es alles miteinander schön rot <lb/> ist zierlich vnd gut. </p>
+        <p> Nim ( m ) ein gantze rohe <objectName ref="#zunge">Zungen</objectName> <lb/> die außgeseubert ist <lb/> stoß sie in einen <objectName ref="#darm">Darm</objectName> <lb/> sampt dem <objectName ref="#fleisch">Fleisch</objectName> vom Ziewonada zugericht <lb/> hengs in <objectName ref="#rauch">Rauch</objectName> <lb/> so wirt es alles miteinander schön rot <lb/> ist zierlich vnd gut. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SEtz eine <objectName ref="milch">Milch</objectName> in einem Topff oder <objectName ref="hafen">Hafen</objectName> zum <objectName ref="feuer">Feuer</objectName> <lb/> thue sie <lb/> so bald sie zu sieden anfängt <lb/> hinweg <lb/> nimm dann zu einer halben <objectName ref="maas">Maas</objectName> oder Seidlein <objectName ref="milch">Milch</objectName> zwey Eyerdottern <lb/> klopffe sie wohl <lb/> rührs darunter <lb/> und thue zwey oder drey <objectName ref="loeffel">Löffel</objectName> voll der zerriebenen Choccolata nach gefallen <lb/> nachdem du sie dick oder dinn haben wilt <lb/> dazu <lb/> richts dann über gebähtes <lb/> und in Stücke zerbrochenes Brod. </p>
+        <p> SEtz eine <objectName ref="#milch">Milch</objectName> in einem Topff oder <objectName ref="#hafen">Hafen</objectName> zum <objectName ref="#feuer">Feuer</objectName> <lb/> thue sie <lb/> so bald sie zu sieden anfängt <lb/> hinweg <lb/> nimm dann zu einer halben <objectName ref="#maas">Maas</objectName> oder Seidlein <objectName ref="#milch">Milch</objectName> zwey Eyerdottern <lb/> klopffe sie wohl <lb/> rührs darunter <lb/> und thue zwey oder drey <objectName ref="#loeffel">Löffel</objectName> voll der zerriebenen Choccolata nach gefallen <lb/> nachdem du sie dick oder dinn haben wilt <lb/> dazu <lb/> richts dann über gebähtes <lb/> und in Stücke zerbrochenes Brod. </p>
             </div>
         </body>
     </text>

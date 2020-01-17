@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIese <objectName ref="fisch">Fisch</objectName> betreffend <lb/> seynd hier eben bey den Kauffleuthen marinierter zu haben <lb/> wie die Linguadale <lb/> und obwol diese auch in allweg den vorigen gleich können zugericht werden <lb/> so gibt man sie doch meistens kalt <lb/> wie sie aus dem Faß herkommen <lb/> mit Lorbeer= Blättlein <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> Oel und Eßig <lb/> auch mit klein= gehackten grünen Kräutlein regaliert. </p>
+        <p> DIese <objectName ref="#fisch">Fisch</objectName> betreffend <lb/> seynd hier eben bey den Kauffleuthen marinierter zu haben <lb/> wie die Linguadale <lb/> und obwol diese auch in allweg den vorigen gleich können zugericht werden <lb/> so gibt man sie doch meistens kalt <lb/> wie sie aus dem Faß herkommen <lb/> mit Lorbeer= Blättlein <lb/> <objectName ref="#rosmarin">Rosmarin</objectName> <lb/> Oel und Eßig <lb/> auch mit klein= gehackten grünen Kräutlein regaliert. </p>
             </div>
         </body>
     </text>

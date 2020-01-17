@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> daß <lb/> der gradt waich wiert, alß brott, leg in ain <lb/> 3. stunt in gueten Essich, vnd schlag in darnach <lb/> ein in taig, Nimb darzue lemonny, Imber, <lb/> vnd <objectName ref="pfeffer">Pfeffer</objectName>, Nägl, vnd ain wennig buter, <lb/> vnd lassen bachen.6. stunt, wan er halb bachn <lb/> ist, so nimb ain löfl voll <objectName ref="essig">Essig</objectName> daran. <lb/><lb/> ( 71r ) </p>
+        <p> daß <lb/> der gradt waich wiert, alß brott, leg in ain <lb/> 3. stunt in gueten Essich, vnd schlag in darnach <lb/> ein in taig, Nimb darzue lemonny, Imber, <lb/> vnd <objectName ref="#pfeffer">Pfeffer</objectName>, Nägl, vnd ain wennig buter, <lb/> vnd lassen bachen.6. stunt, wan er halb bachn <lb/> ist, so nimb ain löfl voll <objectName ref="#essig">Essig</objectName> daran. <lb/><lb/> ( 71r ) </p>
             </div>
         </body>
     </text>

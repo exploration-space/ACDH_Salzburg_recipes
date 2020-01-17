@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wann das Kälber = Kröß gesotten <lb/> thut es in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> nehmet ein gut theil Milchram <lb/> und ein wenig Semmel = <objectName ref="mehl">Mehl</objectName> <lb/> würtzet es mit Cardamomen und <objectName ref="pfeffer">Pfeffer</objectName> <lb/> giesset eine Fleischbrüh und ein wenig <objectName ref="essig">Essig</objectName> daran <lb/> gilbet es auch; lasset es starck in einem Sud fort sieden <lb/> und werfft <lb/> kurtz vorher ehe ihr sie anrichten wollet <lb/> ein gut Stuck <objectName ref="butter">Butter</objectName> hinein. </p>
+        <p> Wann das Kälber = Kröß gesotten <lb/> thut es in einen stollichten <objectName ref="#hafen">Hafen</objectName> <lb/> nehmet ein gut theil Milchram <lb/> und ein wenig Semmel = <objectName ref="#mehl">Mehl</objectName> <lb/> würtzet es mit Cardamomen und <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> giesset eine Fleischbrüh und ein wenig <objectName ref="#essig">Essig</objectName> daran <lb/> gilbet es auch; lasset es starck in einem Sud fort sieden <lb/> und werfft <lb/> kurtz vorher ehe ihr sie anrichten wollet <lb/> ein gut Stuck <objectName ref="#butter">Butter</objectName> hinein. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr Schaafs= <objectName ref="kopf">Kopf</objectName> muß im Saltz= <objectName ref="wasser">Wasser</objectName> gesotten <lb/> die <objectName ref="augen">Augen</objectName> <lb/> Ohren <lb/> das Maul <lb/> und die <objectName ref="zunge">Zunge</objectName> wohlgebutzt <lb/> mit <objectName ref="butter">Butter</objectName> begossen <lb/> geschwind mit angemachten Semmel= Brosen bestreut <lb/> auf dem <objectName ref="rost">Rost</objectName> schnell hinweg gebraten <lb/> und mit fäumigem <objectName ref="butter">Butter</objectName> <lb/> oder mit wenig saurer <objectName ref="bruehe">Brühe</objectName> gegeben werden. </p>
+        <p> DEr Schaafs= <objectName ref="#kopf">Kopf</objectName> muß im Saltz= <objectName ref="#wasser">Wasser</objectName> gesotten <lb/> die <objectName ref="#augen">Augen</objectName> <lb/> Ohren <lb/> das Maul <lb/> und die <objectName ref="#zunge">Zunge</objectName> wohlgebutzt <lb/> mit <objectName ref="#butter">Butter</objectName> begossen <lb/> geschwind mit angemachten Semmel= Brosen bestreut <lb/> auf dem <objectName ref="#rost">Rost</objectName> schnell hinweg gebraten <lb/> und mit fäumigem <objectName ref="#butter">Butter</objectName> <lb/> oder mit wenig saurer <objectName ref="#bruehe">Brühe</objectName> gegeben werden. </p>
             </div>
         </body>
     </text>

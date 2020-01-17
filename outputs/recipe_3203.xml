@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIse findest du auch ordinari gut nach Genügen bey der <objectName ref="suppe">Suppen</objectName>. </p>
+        <p> DIse findest du auch ordinari gut nach Genügen bey der <objectName ref="#suppe">Suppen</objectName>. </p>
             </div>
         </body>
     </text>

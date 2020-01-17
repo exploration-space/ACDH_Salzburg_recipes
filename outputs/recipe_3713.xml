@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> OChsen=Maul gantz weich gesotten <lb/> schön gebutzt <lb/> und kalt werden lassen; wanns kalt ist <lb/> so schneids in feine Stücklein <lb/> legs in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> nimm Gewürtz <lb/> Saltz <lb/> Capry <lb/> gehackte <objectName ref="sardellen">Sardellen</objectName> <lb/> klein=gehackte Zwibel <lb/> Petersil <lb/> Scharlot <lb/> Oel und Eßig daran <lb/> schwings etlichmal herüber <lb/> richts wider in die Ordnung <lb/> und gibs; Es ist ein guter <objectName ref="salat">Salat</objectName>. </p>
+        <p> OChsen=Maul gantz weich gesotten <lb/> schön gebutzt <lb/> und kalt werden lassen; wanns kalt ist <lb/> so schneids in feine Stücklein <lb/> legs in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> nimm Gewürtz <lb/> Saltz <lb/> Capry <lb/> gehackte <objectName ref="#sardellen">Sardellen</objectName> <lb/> klein=gehackte Zwibel <lb/> Petersil <lb/> Scharlot <lb/> Oel und Eßig daran <lb/> schwings etlichmal herüber <lb/> richts wider in die Ordnung <lb/> und gibs; Es ist ein guter <objectName ref="#salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

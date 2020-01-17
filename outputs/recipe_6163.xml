@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Kalt abgesotten <objectName ref="brust">Brust</objectName> in Saltz <lb/> <objectName ref="essig">Essig</objectName> vnd Salbey. </p>
+        <p> Kalt abgesotten <objectName ref="#brust">Brust</objectName> in Saltz <lb/> <objectName ref="#essig">Essig</objectName> vnd Salbey. </p>
             </div>
         </body>
     </text>

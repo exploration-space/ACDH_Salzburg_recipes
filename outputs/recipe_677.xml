@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChählet die Birn <lb/> schneidets halb= oder Viertel=weiß <lb/> oder aber last sie gantz <lb/> röstets im Schmaltz <lb/> lassets wohl braun werden; thuts in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> giesset <objectName ref="wein">Wein</objectName> und ein wenig Birn=Safft daran <lb/> zuckerts <lb/> setzets auf eine <objectName ref="kohlen">Kohlen</objectName> <lb/> lassets fleissig kochen <lb/> sehet offt dazu <lb/> daß sie nicht anbrennen : Wann sie dann fertig sind <lb/> so richtets an <lb/> und streuet Zimmet darauf. </p>
+        <p> SChählet die Birn <lb/> schneidets halb= oder Viertel=weiß <lb/> oder aber last sie gantz <lb/> röstets im Schmaltz <lb/> lassets wohl braun werden; thuts in einen stollichten <objectName ref="#hafen">Hafen</objectName> <lb/> giesset <objectName ref="#wein">Wein</objectName> und ein wenig Birn=Safft daran <lb/> zuckerts <lb/> setzets auf eine <objectName ref="#kohlen">Kohlen</objectName> <lb/> lassets fleissig kochen <lb/> sehet offt dazu <lb/> daß sie nicht anbrennen : Wann sie dann fertig sind <lb/> so richtets an <lb/> und streuet Zimmet darauf. </p>
             </div>
         </body>
     </text>

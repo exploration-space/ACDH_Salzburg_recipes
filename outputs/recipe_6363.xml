@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Eyer <lb/> vnnd ein wenig Saffran <lb/> schlags wol durcheinander <lb/> laß durch ein Härin <objectName ref="tuch">Tuch</objectName> lauffen <lb/> vnd geuß <objectName ref="wasser">Wasser</objectName> darvnter <lb/> rürs in eyngebrennten <objectName ref="griess">Grieß</objectName> <lb/> wen ( n ) s auffgesotten ist <lb/> so saltz es ab <lb/> vn ( n ) machs obé braun <lb/> Also kocht man die Wassermuß <lb/> sonderlich wenn man kein <objectName ref="milch">Milch</objectName> hat. </p>
+        <p> Nim ( m ) Eyer <lb/> vnnd ein wenig Saffran <lb/> schlags wol durcheinander <lb/> laß durch ein Härin <objectName ref="#tuch">Tuch</objectName> lauffen <lb/> vnd geuß <objectName ref="#wasser">Wasser</objectName> darvnter <lb/> rürs in eyngebrennten <objectName ref="#griess">Grieß</objectName> <lb/> wen ( n ) s auffgesotten ist <lb/> so saltz es ab <lb/> vn ( n ) machs obé braun <lb/> Also kocht man die Wassermuß <lb/> sonderlich wenn man kein <objectName ref="#milch">Milch</objectName> hat. </p>
             </div>
         </body>
     </text>

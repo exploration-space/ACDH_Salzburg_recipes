@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Darzu nimm ein gar gute obere <objectName ref="milch">Milch</objectName> <lb/> laß sie sieden <lb/> hitz ein Schmaltz in einer <objectName ref="rein">Rein</objectName> <lb/> gieß die siedende <objectName ref="milch">Milch</objectName> darein <lb/> dann nimm ein schönes Meel <lb/> fünff oder sechs gantze Eyer <lb/> schlags wol ab <lb/> mit wenig <objectName ref="milch">Milch</objectName> <lb/> daß der Taig wie ein Strauben=Taig wird <lb/> laß ihn in der siedenden <objectName ref="milch">Milch</objectName> gemach sieden <lb/> rührs untereinander <lb/> gib oben und unten <objectName ref="glut">Glut</objectName> <lb/> es ist gar gut. </p>
+        <p> Darzu nimm ein gar gute obere <objectName ref="#milch">Milch</objectName> <lb/> laß sie sieden <lb/> hitz ein Schmaltz in einer <objectName ref="#rein">Rein</objectName> <lb/> gieß die siedende <objectName ref="#milch">Milch</objectName> darein <lb/> dann nimm ein schönes Meel <lb/> fünff oder sechs gantze Eyer <lb/> schlags wol ab <lb/> mit wenig <objectName ref="#milch">Milch</objectName> <lb/> daß der Taig wie ein Strauben=Taig wird <lb/> laß ihn in der siedenden <objectName ref="#milch">Milch</objectName> gemach sieden <lb/> rührs untereinander <lb/> gib oben und unten <objectName ref="#glut">Glut</objectName> <lb/> es ist gar gut. </p>
             </div>
         </body>
     </text>

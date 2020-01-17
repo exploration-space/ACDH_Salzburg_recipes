@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm zeitige <objectName ref="pflaumen">Pflaumen</objectName> <lb/> und dergleichen Zwetschgen <lb/> scheele sie <lb/> und nimm die Kern heraus; wann du Zeit hast <lb/> so sieds in <objectName ref="zucker">Zucker</objectName> <lb/> mit wenig Zimmet <lb/> und laß sie kalt werden <lb/> hernach fülle sie in die Dorten <lb/> aber nicht zu naß. </p>
+        <p> NImm zeitige <objectName ref="#pflaumen">Pflaumen</objectName> <lb/> und dergleichen Zwetschgen <lb/> scheele sie <lb/> und nimm die Kern heraus; wann du Zeit hast <lb/> so sieds in <objectName ref="#zucker">Zucker</objectName> <lb/> mit wenig Zimmet <lb/> und laß sie kalt werden <lb/> hernach fülle sie in die Dorten <lb/> aber nicht zu naß. </p>
             </div>
         </body>
     </text>

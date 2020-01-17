@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Die mach an Wie die gerbm khrapfen fein lehn, vnd laß auch gehn, Zer= <lb/> gong auch ein wenig <objectName ref="schmalz">schmalz</objectName>, oder Puter drein, vnd Wan sie gangen <lb/> sein, so nimb ein Eÿsen löfl, den schmalzig ein, vnd legs in ein Zerganges <lb/> Puter <objectName ref="schmalz">schmalz</objectName> fein khuglet, das auch das <objectName ref="schmalz">schmalz</objectName> nur nit Zu haiß seÿ, <lb/> Werden fein rogl, ist schier besser, als Wan mans auf dem Pret last <lb/> gehen, nimb ein wenig <objectName ref="schmalz">schmalz</objectName>, vnd Puter, seind bereith. <lb/> </p>
+        <p> Die mach an Wie die gerbm khrapfen fein lehn, vnd laß auch gehn, Zer= <lb/> gong auch ein wenig <objectName ref="#schmalz">schmalz</objectName>, oder Puter drein, vnd Wan sie gangen <lb/> sein, so nimb ein Eÿsen löfl, den schmalzig ein, vnd legs in ein Zerganges <lb/> Puter <objectName ref="#schmalz">schmalz</objectName> fein khuglet, das auch das <objectName ref="#schmalz">schmalz</objectName> nur nit Zu haiß seÿ, <lb/> Werden fein rogl, ist schier besser, als Wan mans auf dem Pret last <lb/> gehen, nimb ein wenig <objectName ref="#schmalz">schmalz</objectName>, vnd Puter, seind bereith. <lb/> </p>
             </div>
         </body>
     </text>

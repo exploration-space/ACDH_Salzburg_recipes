@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ain Bouch : d´aqu dern zirbißkern <lb/>.7. lott oder waß weniger. weickhe die <lb/> wasche sie Sauber auß thue selbe in <lb/> ein merscher zerstosßen schidte ein <lb/><lb/> wenig wasßer zue treib sie hernach durch <lb/> ein tuech in ein schuschl Schüsßel ein <lb/> wenig <objectName ref="pomeranze">Pomeranzen</objectName> plumen wasßer nimb <lb/> darzue.4. l. Zkher; vnd ein wenig zuckh= <lb/> Conserva accommodirt. man kan auch <lb/> ein tröpfl <objectName ref="quint">quint</objectName> essenza durch ein topelt,, <lb/> ter <objectName ref="haartuch">haartuch</objectName> gehen lasßen daß macht <lb/> guelt alß dan laß kalt oder gefrührn <lb/> NB geschölter miesßen sie sein wie oben. <lb/> </p>
+        <p> ain Bouch : d´aqu dern zirbißkern <lb/>.7. lott oder waß weniger. weickhe die <lb/> wasche sie Sauber auß thue selbe in <lb/> ein merscher zerstosßen schidte ein <lb/><lb/> wenig wasßer zue treib sie hernach durch <lb/> ein tuech in ein schuschl Schüsßel ein <lb/> wenig <objectName ref="#pomeranze">Pomeranzen</objectName> plumen wasßer nimb <lb/> darzue.4. l. Zkher; vnd ein wenig zuckh= <lb/> Conserva accommodirt. man kan auch <lb/> ein tröpfl <objectName ref="#quint">quint</objectName> essenza durch ein topelt,, <lb/> ter <objectName ref="#haartuch">haartuch</objectName> gehen lasßen daß macht <lb/> guelt alß dan laß kalt oder gefrührn <lb/> NB geschölter miesßen sie sein wie oben. <lb/> </p>
             </div>
         </body>
     </text>

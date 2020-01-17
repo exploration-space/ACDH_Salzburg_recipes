@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ES kann der <objectName ref="lachs">Lachs</objectName> <lb/> oder Rhein= Salm köstlich zurgericht werden <lb/> gleich einem Capaun <lb/> in weisse <objectName ref="pastete">Pasteten</objectName>. </p>
+        <p> ES kann der <objectName ref="#lachs">Lachs</objectName> <lb/> oder Rhein= Salm köstlich zurgericht werden <lb/> gleich einem Capaun <lb/> in weisse <objectName ref="#pastete">Pasteten</objectName>. </p>
             </div>
         </body>
     </text>

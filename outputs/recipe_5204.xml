@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BRate die <objectName ref="birnen">Birnen</objectName> auf einer <objectName ref="glut">Glut</objectName> <lb/> daß sie braun werden <lb/> darnach thue sie in ein kaltes <objectName ref="wasser">Wasser</objectName> <lb/> ziehe die Haut ab <lb/> und laß mit einem gebähten weissen Brod im <objectName ref="wein">Wein</objectName> sieden : alsdann treibs durch <lb/> zuckers <lb/> und wann es noch einmal gesotten hat <lb/> so richt es an. </p>
+        <p> BRate die <objectName ref="#birnen">Birnen</objectName> auf einer <objectName ref="#glut">Glut</objectName> <lb/> daß sie braun werden <lb/> darnach thue sie in ein kaltes <objectName ref="#wasser">Wasser</objectName> <lb/> ziehe die Haut ab <lb/> und laß mit einem gebähten weissen Brod im <objectName ref="#wein">Wein</objectName> sieden : alsdann treibs durch <lb/> zuckers <lb/> und wann es noch einmal gesotten hat <lb/> so richt es an. </p>
             </div>
         </body>
     </text>

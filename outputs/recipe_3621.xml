@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> LEge dergleichen verlohrne Eyer in die <objectName ref="schuessel">Schüssel</objectName> <lb/> dann gib den <objectName ref="butter">Butter</objectName> <lb/> und gute klein= gehackte <objectName ref="sardellen">Sardellen</objectName> untereinander zerlassen <lb/> warmer darüber <lb/> oder die <objectName ref="schuessel">Schüssel</objectName> mit solchen angemachten <objectName ref="butter">Butter</objectName> <lb/> von gehackten <objectName ref="sardellen">Sardellen</objectName> <lb/> und grünen Kräutlein vermischter bestrichen <lb/> die Eyer roher darein gesetzt <lb/> und auf der <objectName ref="glut">Glut</objectName> lassen anziehen <lb/> auch übersich mit einer glüenden Decken fertig gemacht <lb/> und zu <objectName ref="tisch">Tisch</objectName> getragen <lb/> seynd auch gut. </p>
+        <p> LEge dergleichen verlohrne Eyer in die <objectName ref="#schuessel">Schüssel</objectName> <lb/> dann gib den <objectName ref="#butter">Butter</objectName> <lb/> und gute klein= gehackte <objectName ref="#sardellen">Sardellen</objectName> untereinander zerlassen <lb/> warmer darüber <lb/> oder die <objectName ref="#schuessel">Schüssel</objectName> mit solchen angemachten <objectName ref="#butter">Butter</objectName> <lb/> von gehackten <objectName ref="#sardellen">Sardellen</objectName> <lb/> und grünen Kräutlein vermischter bestrichen <lb/> die Eyer roher darein gesetzt <lb/> und auf der <objectName ref="#glut">Glut</objectName> lassen anziehen <lb/> auch übersich mit einer glüenden Decken fertig gemacht <lb/> und zu <objectName ref="#tisch">Tisch</objectName> getragen <lb/> seynd auch gut. </p>
             </div>
         </body>
     </text>

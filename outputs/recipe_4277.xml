@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe <objectName ref="brust">Brust</objectName> wird in Stücklein gehackt <lb/> gewaschen <lb/> planschiert <lb/> und gleich den Hünlein <lb/> mit halb <objectName ref="wein">Wein</objectName> und halb <objectName ref="fleischbruehe">Fleischbrühe</objectName> gedämpfft <lb/> mit klein= gehackten Zwibel oder Lemoni <lb/> etc. schön gelb eingebrennt <lb/> oder gleich einer Fricasse mit Eierdotter <lb/> und klein= gehackten Petersil gemacht; hier können Brüßlein <lb/> Maurachen <lb/> <objectName ref="spargel">Spargel</objectName> <lb/> oder Carfiol darzu gemischt werden. </p>
+        <p> DIe <objectName ref="#brust">Brust</objectName> wird in Stücklein gehackt <lb/> gewaschen <lb/> planschiert <lb/> und gleich den Hünlein <lb/> mit halb <objectName ref="#wein">Wein</objectName> und halb <objectName ref="#fleischbruehe">Fleischbrühe</objectName> gedämpfft <lb/> mit klein= gehackten Zwibel oder Lemoni <lb/> etc. schön gelb eingebrennt <lb/> oder gleich einer Fricasse mit Eierdotter <lb/> und klein= gehackten Petersil gemacht; hier können Brüßlein <lb/> Maurachen <lb/> <objectName ref="#spargel">Spargel</objectName> <lb/> oder Carfiol darzu gemischt werden. </p>
             </div>
         </body>
     </text>

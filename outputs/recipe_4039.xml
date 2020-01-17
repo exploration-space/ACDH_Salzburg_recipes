@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> VOn einem <objectName ref="lachs">Lachs</objectName> <lb/> oder Rhein= Salm wird ein Stücklein gesottnes Brät gestossen <lb/> mit guter Erbsen= <objectName ref="bruehe">Brühe</objectName> durchgetrieben <lb/> ist gut vor Gesunde und Krancke <lb/> an statt der <objectName ref="suppe">Suppen</objectName>. </p>
+        <p> VOn einem <objectName ref="#lachs">Lachs</objectName> <lb/> oder Rhein= Salm wird ein Stücklein gesottnes Brät gestossen <lb/> mit guter Erbsen= <objectName ref="#bruehe">Brühe</objectName> durchgetrieben <lb/> ist gut vor Gesunde und Krancke <lb/> an statt der <objectName ref="#suppe">Suppen</objectName>. </p>
             </div>
         </body>
     </text>

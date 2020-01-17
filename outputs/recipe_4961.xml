@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SIedet das <objectName ref="fleisch">Fleisch</objectName> biß es bald weich ist; hernach legts in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> giesset Fleischbrüh daran <lb/> röstet ein Weitzen= <objectName ref="mehl">Mehl</objectName> im Schmaltz fein braun <lb/> und brennet es an die Brüh zum <objectName ref="fleisch">Fleisch</objectName>; thut <objectName ref="kuemmel">Kümmel</objectName> darein <lb/> würtzet es mit Ingber und <objectName ref="pfeffer">Pfeffer</objectName> <lb/> und lasset es sieden <lb/> biß es gar fertig ist. Oder man kan auch <lb/> an statt deß Mehls <lb/> ein gerieben rocken Brod nehmen. </p>
+        <p> SIedet das <objectName ref="#fleisch">Fleisch</objectName> biß es bald weich ist; hernach legts in einen stollichten <objectName ref="#hafen">Hafen</objectName> <lb/> giesset Fleischbrüh daran <lb/> röstet ein Weitzen= <objectName ref="#mehl">Mehl</objectName> im Schmaltz fein braun <lb/> und brennet es an die Brüh zum <objectName ref="#fleisch">Fleisch</objectName>; thut <objectName ref="#kuemmel">Kümmel</objectName> darein <lb/> würtzet es mit Ingber und <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> und lasset es sieden <lb/> biß es gar fertig ist. Oder man kan auch <lb/> an statt deß Mehls <lb/> ein gerieben rocken Brod nehmen. </p>
             </div>
         </body>
     </text>

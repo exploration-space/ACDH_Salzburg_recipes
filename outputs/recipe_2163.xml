@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein siedigs <objectName ref="wasser">Wasser</objectName>, schwaib den Waller ab, thue in darnach auf= <lb/> scheiden, den <objectName ref="kopf">kopf</objectName> daruon, laß den schwaif lang, schneid khrindl <lb/> drein, <objectName ref="salz">salz</objectName> ein, auf eim <objectName ref="rost">Rost</objectName> braten, mit buter gar schen, mit <lb/> <objectName ref="rosmarin">Rosmarin</objectName>, verbren du ihn nit, das er fein safftig bleibt. <lb/> </p>
+        <p> Nimb ein siedigs <objectName ref="#wasser">Wasser</objectName>, schwaib den Waller ab, thue in darnach auf= <lb/> scheiden, den <objectName ref="#kopf">kopf</objectName> daruon, laß den schwaif lang, schneid khrindl <lb/> drein, <objectName ref="#salz">salz</objectName> ein, auf eim <objectName ref="#rost">Rost</objectName> braten, mit buter gar schen, mit <lb/> <objectName ref="#rosmarin">Rosmarin</objectName>, verbren du ihn nit, das er fein safftig bleibt. <lb/> </p>
             </div>
         </body>
     </text>

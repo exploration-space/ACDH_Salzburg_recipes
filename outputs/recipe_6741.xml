@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim die <objectName ref="biscorn">Biscorn</objectName> <lb/> schneidt jhnen die Köpff ab <lb/> vnd wirff sie in <objectName ref="wein">Wein</objectName> <lb/> so kompt der Schweiß darvon <lb/> geuß ein wenig <objectName ref="essig">Essig</objectName> darvnter <lb/> mach es ab mit Gewürtz <lb/> gestossen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Negelein <lb/> vnd ein wenig Saffran. Nim darvnter ein wenig <objectName ref="pfefferkuchen">Pfefferkuchen</objectName> <lb/> vnd laß miteinander sieden <lb/> vnd schaw <lb/> versaltz die Brüh nicht <lb/> machs süß <lb/> daß der <objectName ref="essig">Essig</objectName> fein fürschlegt <lb/> so wirdt es gut vnd wolgeschmack. </p>
+        <p> Nim die <objectName ref="#biscorn">Biscorn</objectName> <lb/> schneidt jhnen die Köpff ab <lb/> vnd wirff sie in <objectName ref="#wein">Wein</objectName> <lb/> so kompt der Schweiß darvon <lb/> geuß ein wenig <objectName ref="#essig">Essig</objectName> darvnter <lb/> mach es ab mit Gewürtz <lb/> gestossen <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Negelein <lb/> vnd ein wenig Saffran. Nim darvnter ein wenig <objectName ref="#pfefferkuchen">Pfefferkuchen</objectName> <lb/> vnd laß miteinander sieden <lb/> vnd schaw <lb/> versaltz die Brüh nicht <lb/> machs süß <lb/> daß der <objectName ref="#essig">Essig</objectName> fein fürschlegt <lb/> so wirdt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

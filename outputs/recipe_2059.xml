@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wan die <objectName ref="pastete">Pasteten</objectName> gemacht ist, so nimb die henner, <lb/> schau das sie schön ausgemacht seind, so brich ihn die Glider, <lb/> Wie den Copaunen, leg darein 3. oder 4. nach dem die <lb/> <objectName ref="pastete">Pasteten</objectName> groß ist, <objectName ref="salz">salz</objectName> am Ersten, vnd gewürz mit Imber <lb/> ein gueten thaill, sonst mit khainem, ist es im Sommer, so <lb/> nimb Weinbörl vnd spëkh, Wie auf ein Copaun, vnd ein <lb/> frischen buter oder <objectName ref="schmalz">Schmalz</objectName>, so mäßlich drein, vnd mach ein <lb/> dekh drüber, Wie vor steht, Zum Copaun, vnd bestreich ihn <lb/> auch mit aÿrn, laß Zwo stundt bachen. <lb/> </p>
+        <p> Wan die <objectName ref="#pastete">Pasteten</objectName> gemacht ist, so nimb die henner, <lb/> schau das sie schön ausgemacht seind, so brich ihn die Glider, <lb/> Wie den Copaunen, leg darein 3. oder 4. nach dem die <lb/> <objectName ref="#pastete">Pasteten</objectName> groß ist, <objectName ref="#salz">salz</objectName> am Ersten, vnd gewürz mit Imber <lb/> ein gueten thaill, sonst mit khainem, ist es im Sommer, so <lb/> nimb Weinbörl vnd spëkh, Wie auf ein Copaun, vnd ein <lb/> frischen buter oder <objectName ref="#schmalz">Schmalz</objectName>, so mäßlich drein, vnd mach ein <lb/> dekh drüber, Wie vor steht, Zum Copaun, vnd bestreich ihn <lb/> auch mit aÿrn, laß Zwo stundt bachen. <lb/> </p>
             </div>
         </body>
     </text>

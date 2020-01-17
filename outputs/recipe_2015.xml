@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb gewässerte Plateiß, Zeuch ihnen die schwarz haut ab, <lb/> ÿberseuds ein Wenig, nimb gesoten grüen Arbes, die auß= <lb/> gehöplt sein, geuß drüber, leg ein Puter dran, stups <lb/> Woll mit <objectName ref="pfeffer">Pfeffer</objectName>, laß also sieden, gibs Warmb. <lb/> </p>
+        <p> Nimb gewässerte Plateiß, Zeuch ihnen die schwarz haut ab, <lb/> ÿberseuds ein Wenig, nimb gesoten grüen Arbes, die auß= <lb/> gehöplt sein, geuß drüber, leg ein Puter dran, stups <lb/> Woll mit <objectName ref="#pfeffer">Pfeffer</objectName>, laß also sieden, gibs Warmb. <lb/> </p>
             </div>
         </body>
     </text>

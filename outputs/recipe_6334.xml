@@ -170,7 +170,7 @@ Was ist nun bei Rumpolt mit "Borras" gemeint? Borax ist Bestandteil von Reinigun
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Item <lb/> nim ( m ) Borras <lb/> klein gestossen <lb/> vnd in den <objectName ref="wein">Wein</objectName> geworffen <lb/> oder drey Handt voll Saltz <lb/> wol gebrän ( n ) t in einer Pfannen <lb/> in den <objectName ref="wein">Wein</objectName> gethan <lb/> vnd zugespundt <lb/> vnd vber acht tag abgelassen <lb/> ist bewert. </p>
+        <p> Item <lb/> nim ( m ) Borras <lb/> klein gestossen <lb/> vnd in den <objectName ref="#wein">Wein</objectName> geworffen <lb/> oder drey Handt voll Saltz <lb/> wol gebrän ( n ) t in einer Pfannen <lb/> in den <objectName ref="#wein">Wein</objectName> gethan <lb/> vnd zugespundt <lb/> vnd vber acht tag abgelassen <lb/> ist bewert. </p>
             </div>
         </body>
     </text>

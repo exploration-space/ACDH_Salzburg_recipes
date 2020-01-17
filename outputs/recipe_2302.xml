@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> hakh das bräth von einer gesotnen henn khlain, nimb Puter in ein <lb/> Pfan, ein Wenig geribne Sembl, als du Zwischen zweÿen fingern haben <lb/> magst, Wirffs in Puter, das gehäkht auch darzue, kher es ein Wenig <lb/> umb, thues in ein Reindl, guete fleischbrüe dran, Wan man gern <lb/> Will, khan man das rösten vnd die sembl Woll underlassen, vnd gleich nach <lb/> dem hakhen die fleischbrüe dran, ein Wenig Mußcatblüe, Zimet, <lb/> Zitronÿ schnitlein, laß Sieden, Zum anrichten, leg frischen Puter dran, <lb/> also khan man auch von gebratnen <objectName ref="fleisch">fleisch</objectName> khochen, es seÿ khëlberer oder <lb/> Wildbrät, oder khlaine Weinpörl, soll man darein nemmen. <lb/> </p>
+        <p> hakh das bräth von einer gesotnen henn khlain, nimb Puter in ein <lb/> Pfan, ein Wenig geribne Sembl, als du Zwischen zweÿen fingern haben <lb/> magst, Wirffs in Puter, das gehäkht auch darzue, kher es ein Wenig <lb/> umb, thues in ein Reindl, guete fleischbrüe dran, Wan man gern <lb/> Will, khan man das rösten vnd die sembl Woll underlassen, vnd gleich nach <lb/> dem hakhen die fleischbrüe dran, ein Wenig Mußcatblüe, Zimet, <lb/> Zitronÿ schnitlein, laß Sieden, Zum anrichten, leg frischen Puter dran, <lb/> also khan man auch von gebratnen <objectName ref="#fleisch">fleisch</objectName> khochen, es seÿ khëlberer oder <lb/> Wildbrät, oder khlaine Weinpörl, soll man darein nemmen. <lb/> </p>
             </div>
         </body>
     </text>

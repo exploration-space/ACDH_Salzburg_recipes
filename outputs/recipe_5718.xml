@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SIede den <objectName ref="hecht">Hecht</objectName> auf vielfältige besagte Art blau <lb/> schähle und schneide hernach ein gut theil <objectName ref="zwiebel">Zwiebel</objectName> <lb/> gieß <objectName ref="wasser">Wasser</objectName> und ein wenig Fleischbrüh daran <lb/> laß sieden <lb/> biß sie weich werden; zwings alsdann durch <lb/> röste ein <objectName ref="mehl">Mehl</objectName> im Schmaltz <lb/> und brenne es an die Zwiebel= Brüh <lb/> streue Ingber und <objectName ref="pfeffer">Pfeffer</objectName> darein <lb/> gieß ein wenig <objectName ref="essig">Essig</objectName> dazu <lb/> laß eine kleine weil sieden <lb/> richte sie hernach über den <objectName ref="hecht">Hecht</objectName> <lb/> und laß noch einen Sud aufthun. </p>
+        <p> SIede den <objectName ref="#hecht">Hecht</objectName> auf vielfältige besagte Art blau <lb/> schähle und schneide hernach ein gut theil <objectName ref="#zwiebel">Zwiebel</objectName> <lb/> gieß <objectName ref="#wasser">Wasser</objectName> und ein wenig Fleischbrüh daran <lb/> laß sieden <lb/> biß sie weich werden; zwings alsdann durch <lb/> röste ein <objectName ref="#mehl">Mehl</objectName> im Schmaltz <lb/> und brenne es an die Zwiebel= Brüh <lb/> streue Ingber und <objectName ref="#pfeffer">Pfeffer</objectName> darein <lb/> gieß ein wenig <objectName ref="#essig">Essig</objectName> dazu <lb/> laß eine kleine weil sieden <lb/> richte sie hernach über den <objectName ref="#hecht">Hecht</objectName> <lb/> und laß noch einen Sud aufthun. </p>
             </div>
         </body>
     </text>

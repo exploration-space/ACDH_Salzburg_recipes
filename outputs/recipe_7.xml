@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ein <objectName ref="hecht">Hecht</objectName> <lb/> seudt jn gar trucken ab <lb/> zeuch jhn auff ein Bret <lb/> daß er kalt wirdt <lb/> zeuch die Schupen sampt der Haut ab <lb/> brich jhn voneinander <lb/> vnd klaub die Grädt herauß <lb/> thu jn in ein <objectName ref="silber">Silber</objectName> <lb/> oder in ein <objectName ref="schuessel">Schüssel</objectName> <lb/> geuß ein wenig Erbsbrüh darüber <lb/> vnnd thu frische vngeschmältzte <objectName ref="butter">Butter</objectName> darauff <lb/> vnd laß darmit auffsieden <lb/> thu ein wenig Senff darauff <lb/> vnnd gib jhn auff ein <objectName ref="tisch">Tisch</objectName>. Also richt man die <objectName ref="hecht">Hecht</objectName> im Senff zu. </p>
+        <p> Nim ein <objectName ref="#hecht">Hecht</objectName> <lb/> seudt jn gar trucken ab <lb/> zeuch jhn auff ein Bret <lb/> daß er kalt wirdt <lb/> zeuch die Schupen sampt der Haut ab <lb/> brich jhn voneinander <lb/> vnd klaub die Grädt herauß <lb/> thu jn in ein <objectName ref="#silber">Silber</objectName> <lb/> oder in ein <objectName ref="#schuessel">Schüssel</objectName> <lb/> geuß ein wenig Erbsbrüh darüber <lb/> vnnd thu frische vngeschmältzte <objectName ref="#butter">Butter</objectName> darauff <lb/> vnd laß darmit auffsieden <lb/> thu ein wenig Senff darauff <lb/> vnnd gib jhn auff ein <objectName ref="#tisch">Tisch</objectName>. Also richt man die <objectName ref="#hecht">Hecht</objectName> im Senff zu. </p>
             </div>
         </body>
     </text>

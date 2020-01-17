@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmt zwey Eyer und ein schönes <objectName ref="mehl">Mehl</objectName> <lb/> macht ein Teiglein an <lb/> wälgert es gleich den Plätzen <lb/> legt sechs oder sieben aufeinander <lb/> schneidet sie auf das allerdünnste wie die kleine <objectName ref="nudeln">Nudeln</objectName> <lb/> und bachts schön hell aus dem Schmaltz : thuts ferner in eine siedende <objectName ref="milch">Milch</objectName> <lb/> rührets daß es nicht anbrenne <lb/> lassts ein wenig sieden <lb/> richtets an <lb/> und streut <objectName ref="zucker">Zucker</objectName> und Zimmet darauf. </p>
+        <p> NEhmt zwey Eyer und ein schönes <objectName ref="#mehl">Mehl</objectName> <lb/> macht ein Teiglein an <lb/> wälgert es gleich den Plätzen <lb/> legt sechs oder sieben aufeinander <lb/> schneidet sie auf das allerdünnste wie die kleine <objectName ref="#nudeln">Nudeln</objectName> <lb/> und bachts schön hell aus dem Schmaltz : thuts ferner in eine siedende <objectName ref="#milch">Milch</objectName> <lb/> rührets daß es nicht anbrenne <lb/> lassts ein wenig sieden <lb/> richtets an <lb/> und streut <objectName ref="#zucker">Zucker</objectName> und Zimmet darauf. </p>
             </div>
         </body>
     </text>

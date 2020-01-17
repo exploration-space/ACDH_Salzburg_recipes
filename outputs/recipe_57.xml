@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb die <objectName ref="herz">Herz</objectName> fein schön frisch vnd <lb/> <objectName ref="salz">salz</objectName> es ein hernach so Spickhs<gap/> fein <lb/> schön mit Spöckh vnd in <objectName ref="essig">Essig</objectName> <lb/> Prads<gap/> an einen Spisßl vnnd <lb/> schneide sye in der Mitten schön Von <lb/> einander, magst hernach ein Lemoni <lb/> oder Nägl Prie<gap/> daryber Machen. <lb/> [ Anm. : Zwei unterschiedliche Zubereitungsarten von „ lemony brie “ finden sich in Rezept 97 und 98. ] </p>
+        <p> Nimb die <objectName ref="#herz">Herz</objectName> fein schön frisch vnd <lb/> <objectName ref="#salz">salz</objectName> es ein hernach so Spickhs<gap/> fein <lb/> schön mit Spöckh vnd in <objectName ref="#essig">Essig</objectName> <lb/> Prads<gap/> an einen Spisßl vnnd <lb/> schneide sye in der Mitten schön Von <lb/> einander, magst hernach ein Lemoni <lb/> oder Nägl Prie<gap/> daryber Machen. <lb/> [ Anm. : Zwei unterschiedliche Zubereitungsarten von „ lemony brie “ finden sich in Rezept 97 und 98. ] </p>
             </div>
         </body>
     </text>

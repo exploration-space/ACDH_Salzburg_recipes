@@ -180,7 +180,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimm von dem obigen Schmarren= Taig <lb/> und mische darunter soviel Zimmet <lb/> Muscatnuß <lb/> mit wenig Nägelein; biß der Taig darvon schön braun wird; oder wilst du ihn noch besser machen <lb/> so hacke entweders Citronen <lb/> oder Pomerantzen= Schelffen klein darunter; belege das <objectName ref="blech">Blech</objectName> mit Oblat <lb/> streich den Taig einen guten Fingers= dick darauf <lb/> und bache ihn gleich den vorigen. </p>
+        <p> Nimm von dem obigen Schmarren= Taig <lb/> und mische darunter soviel Zimmet <lb/> Muscatnuß <lb/> mit wenig Nägelein; biß der Taig darvon schön braun wird; oder wilst du ihn noch besser machen <lb/> so hacke entweders Citronen <lb/> oder Pomerantzen= Schelffen klein darunter; belege das <objectName ref="#blech">Blech</objectName> mit Oblat <lb/> streich den Taig einen guten Fingers= dick darauf <lb/> und bache ihn gleich den vorigen. </p>
             </div>
         </body>
     </text>

@@ -179,7 +179,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> RIchte die sauber= gebutzte Kronabet= <objectName ref="voegel">Vögel</objectName> <lb/> Droscheln <lb/> oder Ambseln mit <objectName ref="butter">Butter</objectName> <lb/> Speck= Schnitzlein <lb/> kleinen Zwibeln in ein Casserol <lb/> das sich verschliessen läßt <lb/> mit Semmel= Brosen <lb/> treib gestossne Wachholder= oder Kronabet= Beer mit wenig <objectName ref="wein">Wein</objectName> und <objectName ref="fleischbruehe">Fleischbrühe</objectName> durch <lb/> gibs zu den eingerichten <objectName ref="voegel">Vögeln</objectName> <lb/> mit Lemoni= Schelffen und guten Gewürtz <lb/> und Saltz <lb/> verschließ das Casserol <lb/> und laß also dämpffen; hernach richts ordentlich und sauber auf die <objectName ref="schuessel">Schüssel</objectName> <lb/> mit etlich Tropffen Eßig. </p>
+        <p> RIchte die sauber= gebutzte Kronabet= <objectName ref="#voegel">Vögel</objectName> <lb/> Droscheln <lb/> oder Ambseln mit <objectName ref="#butter">Butter</objectName> <lb/> Speck= Schnitzlein <lb/> kleinen Zwibeln in ein Casserol <lb/> das sich verschliessen läßt <lb/> mit Semmel= Brosen <lb/> treib gestossne Wachholder= oder Kronabet= Beer mit wenig <objectName ref="#wein">Wein</objectName> und <objectName ref="#fleischbruehe">Fleischbrühe</objectName> durch <lb/> gibs zu den eingerichten <objectName ref="#voegel">Vögeln</objectName> <lb/> mit Lemoni= Schelffen und guten Gewürtz <lb/> und Saltz <lb/> verschließ das Casserol <lb/> und laß also dämpffen; hernach richts ordentlich und sauber auf die <objectName ref="#schuessel">Schüssel</objectName> <lb/> mit etlich Tropffen Eßig. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> First broil them very brown; then have some White Wine ready made hot, with an Anchovy, a Blade of Mace, and a Bit of Onion, with a little Pepper, all stewed n the Wine; then cut off the Heads of the Fish, and bruise them in the Wine and Spice, and take them out again before you put in your Herrings. Let them stew over Coals, in a Dish where they may lie at Length; let them stew on both Sides till they are enough at the Bone; take them out, and shake up the <objectName ref="sauce">Sauce</objectName> with <objectName ref="butter">Butter</objectName> and Flour. </p>
+        <p> First broil them very brown; then have some White Wine ready made hot, with an Anchovy, a Blade of Mace, and a Bit of Onion, with a little Pepper, all stewed n the Wine; then cut off the Heads of the Fish, and bruise them in the Wine and Spice, and take them out again before you put in your Herrings. Let them stew over Coals, in a Dish where they may lie at Length; let them stew on both Sides till they are enough at the Bone; take them out, and shake up the <objectName ref="#sauce">Sauce</objectName> with <objectName ref="#butter">Butter</objectName> and Flour. </p>
             </div>
         </body>
     </text>

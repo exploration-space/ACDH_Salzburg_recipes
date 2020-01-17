@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> STosset ein <objectName ref="pfund">Pfund</objectName> <objectName ref="mandeln">Mandeln</objectName> ab <lb/> wie zu einem Mandel= Dorten <lb/> klopffet hernach von vier Eyern das Weisse <lb/> biß es gar dick wird; rühret fünff Achtel= <objectName ref="pfund">Pfund</objectName> <objectName ref="zucker">Zucker</objectName> unter das Weisse vom Ey <lb/> alsdann auch die <objectName ref="mandeln">Mandeln</objectName> <lb/> legets auf ein Oblat <lb/> und lassets bachen : Wer will <lb/> kan auch Gewürtz <lb/> als Zimmet <lb/> Cardamomen und Muscatnuß <lb/> darunter rühren. </p>
+        <p> STosset ein <objectName ref="#pfund">Pfund</objectName> <objectName ref="#mandeln">Mandeln</objectName> ab <lb/> wie zu einem Mandel= Dorten <lb/> klopffet hernach von vier Eyern das Weisse <lb/> biß es gar dick wird; rühret fünff Achtel= <objectName ref="#pfund">Pfund</objectName> <objectName ref="#zucker">Zucker</objectName> unter das Weisse vom Ey <lb/> alsdann auch die <objectName ref="#mandeln">Mandeln</objectName> <lb/> legets auf ein Oblat <lb/> und lassets bachen : Wer will <lb/> kan auch Gewürtz <lb/> als Zimmet <lb/> Cardamomen und Muscatnuß <lb/> darunter rühren. </p>
             </div>
         </body>
     </text>

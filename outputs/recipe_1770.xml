@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb <lb/> buter, ain wennig Esßig, nimb lints ge= <lb/> =würz, vnd Seits darinnen, nimb Peter= <lb/> =sill, hackh darzue Roßmarin, laß ain <lb/> wennig Sieden, wens gesoten ist, so fülß <lb/> wider in die schallen, gibs auf den <objectName ref="tisch">tisch</objectName>, wo <lb/> die pauern Süzen. <lb/> </p>
+        <p> Nimb <lb/> buter, ain wennig Esßig, nimb lints ge= <lb/> =würz, vnd Seits darinnen, nimb Peter= <lb/> =sill, hackh darzue Roßmarin, laß ain <lb/> wennig Sieden, wens gesoten ist, so fülß <lb/> wider in die schallen, gibs auf den <objectName ref="#tisch">tisch</objectName>, wo <lb/> die pauern Süzen. <lb/> </p>
             </div>
         </body>
     </text>

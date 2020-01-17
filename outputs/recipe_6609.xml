@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Vngerische Braten an einem häßlen <objectName ref="spiess">Spieß</objectName> gebraten <lb/> sonderlich die Ruckbraten <lb/> mit Saltz vnd Knobloch gerieben <lb/> darnach mit dem <objectName ref="spiess">Spieß</objectName> in <objectName ref="rauch">Rauch</objectName> gehenckt <lb/> vnnd ein stundt oder zwo hengen lassen <lb/> geschwindt hinweg gebraten <lb/> vnd zum ersten gang auff die Brüh gelegt. </p>
+        <p> Vngerische Braten an einem häßlen <objectName ref="#spiess">Spieß</objectName> gebraten <lb/> sonderlich die Ruckbraten <lb/> mit Saltz vnd Knobloch gerieben <lb/> darnach mit dem <objectName ref="#spiess">Spieß</objectName> in <objectName ref="#rauch">Rauch</objectName> gehenckt <lb/> vnnd ein stundt oder zwo hengen lassen <lb/> geschwindt hinweg gebraten <lb/> vnd zum ersten gang auff die Brüh gelegt. </p>
             </div>
         </body>
     </text>

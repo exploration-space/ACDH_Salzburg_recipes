@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein khalts <objectName ref="wasser">Wasser</objectName>, mach den taig darmit an, in der dikhe Wie ein <lb/> Prandtaig, brenn ein Mell drein, Wermb die aÿr, schlag ains nach dem <lb/> andern drein, biß es gar din Wird, bachs darnach fein haiß, so seins <lb/> beraith. <lb/> </p>
+        <p> Nimb ein khalts <objectName ref="#wasser">Wasser</objectName>, mach den taig darmit an, in der dikhe Wie ein <lb/> Prandtaig, brenn ein Mell drein, Wermb die aÿr, schlag ains nach dem <lb/> andern drein, biß es gar din Wird, bachs darnach fein haiß, so seins <lb/> beraith. <lb/> </p>
             </div>
         </body>
     </text>

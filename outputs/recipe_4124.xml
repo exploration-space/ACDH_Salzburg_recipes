@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm die frische Niern <lb/> sammt der Fette herauß <lb/> wirff sie in daß frische <objectName ref="wasser">Wasser</objectName> <lb/> schneid das Geäder= Werck darvon <lb/> saltze sie wohl <lb/> und pfeffers <lb/> steck sie an Spiß <lb/> laß sie braten <lb/> biß sie ein schöne Farb bekommen <lb/> und im Safft gebraten <lb/> und also vom Spiß zur Tafel getragen <lb/> mit Lemoni= Safft <lb/> und fäumenden <objectName ref="butter">Butter</objectName> <lb/> beobachte damit sie nicht kalt werden. NB. Man kann sie auch in <objectName ref="butter">Butter</objectName> und <objectName ref="sardellen">Sardellen</objectName> rösten <lb/> oder in ein Fricasse geben <lb/> oder in ein Rago. </p>
+        <p> NImm die frische Niern <lb/> sammt der Fette herauß <lb/> wirff sie in daß frische <objectName ref="#wasser">Wasser</objectName> <lb/> schneid das Geäder= Werck darvon <lb/> saltze sie wohl <lb/> und pfeffers <lb/> steck sie an Spiß <lb/> laß sie braten <lb/> biß sie ein schöne Farb bekommen <lb/> und im Safft gebraten <lb/> und also vom Spiß zur Tafel getragen <lb/> mit Lemoni= Safft <lb/> und fäumenden <objectName ref="#butter">Butter</objectName> <lb/> beobachte damit sie nicht kalt werden. NB. Man kann sie auch in <objectName ref="#butter">Butter</objectName> und <objectName ref="#sardellen">Sardellen</objectName> rösten <lb/> oder in ein Fricasse geben <lb/> oder in ein Rago. </p>
             </div>
         </body>
     </text>

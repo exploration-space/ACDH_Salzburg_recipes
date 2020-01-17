@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) die Förderkeul <lb/> vnd schlag sie in einen Ruckenteig <lb/> wenns gebacken ist <lb/> so laß es kalt werde ( n ) <lb/> so ist es ein gute Speiß. Du kanst auch klein schneiden <lb/> sonderlich von den Riben kleine stücklein gehackt <lb/> vnd in ein auffgetriebene <objectName ref="pastete">Pasteten</objectName> <lb/> es sey von weissem oder grobem <objectName ref="teig">Teig</objectName> eyngemacht <lb/> es sey mit Limonien oder Agrastbeern <lb/> oder Klosterbeer <lb/> gelb oder weiß <lb/> ist es auff beyde manier gut. </p>
+        <p> Nim ( m ) die Förderkeul <lb/> vnd schlag sie in einen Ruckenteig <lb/> wenns gebacken ist <lb/> so laß es kalt werde ( n ) <lb/> so ist es ein gute Speiß. Du kanst auch klein schneiden <lb/> sonderlich von den Riben kleine stücklein gehackt <lb/> vnd in ein auffgetriebene <objectName ref="#pastete">Pasteten</objectName> <lb/> es sey von weissem oder grobem <objectName ref="#teig">Teig</objectName> eyngemacht <lb/> es sey mit Limonien oder Agrastbeern <lb/> oder Klosterbeer <lb/> gelb oder weiß <lb/> ist es auff beyde manier gut. </p>
             </div>
         </body>
     </text>

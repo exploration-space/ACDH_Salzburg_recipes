@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Ganz Kleine hendl<gap/> Puz Sie <lb/> wie man Sonsten Die hendl Puzt, <lb/><lb/> ( ve 144 ) alsdan thue sye abgliten<gap/>, vnnd <lb/> thues salzen, Vnnd ein Gewierz<gap/>, <lb/> vnnd thue es Auch in Putter Resten<gap/>, <lb/> Richts hernach also in Die Wändl<gap/>, <lb/> also wie Die <objectName ref="fisch">Fisch</objectName> Pastödl, Pach<gap/> <lb/> es auch also, vnnd Giess<gap/> oben ein <lb/> solches Putter Sipl<gap/> Daran, Richts <lb/> auf ein schisßl<gap/>, vnnd Gibs auf <lb/> Die Tafel, also ist es Recht. <lb/> </p>
+        <p> Nimb Ganz Kleine hendl<gap/> Puz Sie <lb/> wie man Sonsten Die hendl Puzt, <lb/><lb/> ( ve 144 ) alsdan thue sye abgliten<gap/>, vnnd <lb/> thues salzen, Vnnd ein Gewierz<gap/>, <lb/> vnnd thue es Auch in Putter Resten<gap/>, <lb/> Richts hernach also in Die Wändl<gap/>, <lb/> also wie Die <objectName ref="#fisch">Fisch</objectName> Pastödl, Pach<gap/> <lb/> es auch also, vnnd Giess<gap/> oben ein <lb/> solches Putter Sipl<gap/> Daran, Richts <lb/> auf ein schisßl<gap/>, vnnd Gibs auf <lb/> Die Tafel, also ist es Recht. <lb/> </p>
             </div>
         </body>
     </text>

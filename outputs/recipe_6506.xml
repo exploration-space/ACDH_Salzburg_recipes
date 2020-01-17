@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Köpflein werden gesotten <lb/> und sammt der Zung gesäubert <lb/> dann mit wenig Eßig und <objectName ref="fleischbruehe">Fleischbrühe</objectName> auggesotten und mit klein=gehacktem Zwibel und Petersil=Kräutlein und frischen <objectName ref="butter">Butter</objectName> und Eyerdotter <lb/> wenig <objectName ref="pfeffer">Pfeffer</objectName> und wohl Mascatnuß glatt abgerührt <lb/> und geschwind zu Fricasse gemacht <lb/> so seynd sie gut; hast du keine Zwibel <lb/> oder Grünes <lb/> so gib den Geschmack mit Lemoni=Schaalen und Safft <lb/> an statt des Eßigs. </p>
+        <p> DIe Köpflein werden gesotten <lb/> und sammt der Zung gesäubert <lb/> dann mit wenig Eßig und <objectName ref="#fleischbruehe">Fleischbrühe</objectName> auggesotten und mit klein=gehacktem Zwibel und Petersil=Kräutlein und frischen <objectName ref="#butter">Butter</objectName> und Eyerdotter <lb/> wenig <objectName ref="#pfeffer">Pfeffer</objectName> und wohl Mascatnuß glatt abgerührt <lb/> und geschwind zu Fricasse gemacht <lb/> so seynd sie gut; hast du keine Zwibel <lb/> oder Grünes <lb/> so gib den Geschmack mit Lemoni=Schaalen und Safft <lb/> an statt des Eßigs. </p>
             </div>
         </body>
     </text>

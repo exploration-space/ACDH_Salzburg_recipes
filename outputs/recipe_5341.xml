@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ISt gut zum eynmache ( n ) <lb/> es sey schwartz oder gelb <lb/> oder auch zum Braten <lb/> vnd in <objectName ref="pastete">Pasteten</objectName> eyngemacht <lb/> warm mit Senff <lb/> vnd solch <objectName ref="fleisch">Fleisch</objectName> <lb/> was vom Meer ist <lb/> kan man in Faßt Tagen zurichten. Denn es ist gut vnd wolgeschmack <lb/> wenns ein Koch recht machen kan. </p>
+        <p> ISt gut zum eynmache ( n ) <lb/> es sey schwartz oder gelb <lb/> oder auch zum Braten <lb/> vnd in <objectName ref="#pastete">Pasteten</objectName> eyngemacht <lb/> warm mit Senff <lb/> vnd solch <objectName ref="#fleisch">Fleisch</objectName> <lb/> was vom Meer ist <lb/> kan man in Faßt Tagen zurichten. Denn es ist gut vnd wolgeschmack <lb/> wenns ein Koch recht machen kan. </p>
             </div>
         </body>
     </text>

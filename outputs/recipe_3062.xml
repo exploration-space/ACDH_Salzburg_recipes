@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn er geklaubt <lb/> gewaschen <lb/> gebrüht <lb/> und wieder abgesiehen ist <lb/> so wird er mit Muscatnuß <lb/> <objectName ref="butter">Butter</objectName> <lb/> Ram <lb/> und Parmesan- Käß gar fertig gemacht <lb/> und aufgetragen. </p>
+        <p> WAnn er geklaubt <lb/> gewaschen <lb/> gebrüht <lb/> und wieder abgesiehen ist <lb/> so wird er mit Muscatnuß <lb/> <objectName ref="#butter">Butter</objectName> <lb/> Ram <lb/> und Parmesan- Käß gar fertig gemacht <lb/> und aufgetragen. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Man soll Aepffel sieden <lb/> wie sonst zu einem Aepffel=Koch <lb/> und durchschlagen <lb/> darein soll man rühren 6. Eyerdotter <lb/> und einen Löffelvoll süssen Ram <lb/> und eine Handvoll geriebne Semmel <lb/> auch <objectName ref="zucker">Zucker</objectName> und Weinbeerlein <lb/> in ein Reinlein ein wenig Schmaltz lassen heiß werden <lb/> den Zeug darein giessen <lb/> unten und oben <objectName ref="glut">Glut</objectName> geben <lb/> daß braun wird <lb/> so geht ’ s gantz heraus. </p>
+        <p> Man soll Aepffel sieden <lb/> wie sonst zu einem Aepffel=Koch <lb/> und durchschlagen <lb/> darein soll man rühren 6. Eyerdotter <lb/> und einen Löffelvoll süssen Ram <lb/> und eine Handvoll geriebne Semmel <lb/> auch <objectName ref="#zucker">Zucker</objectName> und Weinbeerlein <lb/> in ein Reinlein ein wenig Schmaltz lassen heiß werden <lb/> den Zeug darein giessen <lb/> unten und oben <objectName ref="#glut">Glut</objectName> geben <lb/> daß braun wird <lb/> so geht ’ s gantz heraus. </p>
             </div>
         </body>
     </text>

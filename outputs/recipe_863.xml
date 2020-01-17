@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Die Zwetschgen gesotten <lb/> mit ausgerösten Brod=Schnitten und <objectName ref="zucker">Zucker</objectName> <lb/> oder Hönig durchgetrieben <lb/> mit geribenen <objectName ref="lebkuchen">Lebkuchen</objectName> <lb/> oder <objectName ref="lebzelten">Lebzelten</objectName> <lb/> und klein geschnittenen Lemoni=Schelffen gekocht <lb/> dienet über gekochtes oder gesottnes Wildprät <lb/> oder also angericht <lb/> und mit ausgerösten Semmel=Schnittlen besteckt <lb/> gezuckert aufgetragen <lb/> wer ihn hat <lb/> nimmt auch <objectName ref="wein">Wein</objectName> darzu. Item <lb/> kann man sie in oder also auf Semmel=Schnitten streichen <lb/> wie das Kalbs=Hirn <lb/> und durch abgeschlagne Eyer gezogen aus Schmaltz bachen. </p>
+        <p> Die Zwetschgen gesotten <lb/> mit ausgerösten Brod=Schnitten und <objectName ref="#zucker">Zucker</objectName> <lb/> oder Hönig durchgetrieben <lb/> mit geribenen <objectName ref="#lebkuchen">Lebkuchen</objectName> <lb/> oder <objectName ref="#lebzelten">Lebzelten</objectName> <lb/> und klein geschnittenen Lemoni=Schelffen gekocht <lb/> dienet über gekochtes oder gesottnes Wildprät <lb/> oder also angericht <lb/> und mit ausgerösten Semmel=Schnittlen besteckt <lb/> gezuckert aufgetragen <lb/> wer ihn hat <lb/> nimmt auch <objectName ref="#wein">Wein</objectName> darzu. Item <lb/> kann man sie in oder also auf Semmel=Schnitten streichen <lb/> wie das Kalbs=Hirn <lb/> und durch abgeschlagne Eyer gezogen aus Schmaltz bachen. </p>
             </div>
         </body>
     </text>

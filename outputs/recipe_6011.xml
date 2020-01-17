@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schwantz mit Agrastbeeren eyngemacht <lb/> wenn er gefüllt ist <lb/> es sey gelb <lb/> schwartz oder weiß <lb/> daß nur säurlich ist. Denn von einer Spensaw ist nicht gut zu essen <lb/> wenns nicht säurlich ist <lb/> weil es vorhin ein süß <objectName ref="fleisch">Fleisch</objectName> ist. </p>
+        <p> Schwantz mit Agrastbeeren eyngemacht <lb/> wenn er gefüllt ist <lb/> es sey gelb <lb/> schwartz oder weiß <lb/> daß nur säurlich ist. Denn von einer Spensaw ist nicht gut zu essen <lb/> wenns nicht säurlich ist <lb/> weil es vorhin ein süß <objectName ref="#fleisch">Fleisch</objectName> ist. </p>
             </div>
         </body>
     </text>

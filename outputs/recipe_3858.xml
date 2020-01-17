@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ES werden dise abgesotten und zugericht in einer weissen Butter= <objectName ref="bruehe">Brühe</objectName> <lb/> mit blättlet= geschnittnen weissen <lb/> oder braunen Dardoffeln. </p>
+        <p> ES werden dise abgesotten und zugericht in einer weissen Butter= <objectName ref="#bruehe">Brühe</objectName> <lb/> mit blättlet= geschnittnen weissen <lb/> oder braunen Dardoffeln. </p>
             </div>
         </body>
     </text>

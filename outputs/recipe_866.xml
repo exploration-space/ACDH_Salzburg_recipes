@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="zibeben">Zibeben</objectName> sauber abgezupfft <lb/> mit geklaubten Piniolen <lb/> wenig <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> und wenig Zimmet bedeckter lassen kurtz aufkochen <lb/> beym Anrichten mit <objectName ref="zucker">Zucker</objectName> bestreut. NB. Item <lb/> also kocht mans auch ausgekernter. </p>
+        <p> <objectName ref="#zibeben">Zibeben</objectName> sauber abgezupfft <lb/> mit geklaubten Piniolen <lb/> wenig <objectName ref="#wein">Wein</objectName> <lb/> <objectName ref="#zucker">Zucker</objectName> und wenig Zimmet bedeckter lassen kurtz aufkochen <lb/> beym Anrichten mit <objectName ref="#zucker">Zucker</objectName> bestreut. NB. Item <lb/> also kocht mans auch ausgekernter. </p>
             </div>
         </body>
     </text>

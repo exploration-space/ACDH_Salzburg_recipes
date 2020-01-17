@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein höchten, seud ihn blab ab, mit gueten <objectName ref="wein">Wein</objectName> <objectName ref="essig">Essig</objectName>, vnd Arbesbrüe, <lb/> laß sieden, vnd geuß an den <objectName ref="fisch">fisch</objectName>, nach dem nimb Petersill, straiff <lb/> ihn ab, vnd einen Puter, thue alles underein ander, laß Sieden biß <lb/> an die stat, alßdan richts an, gewürz Woll mit Imberstup. <lb/> </p>
+        <p> Nimb ein höchten, seud ihn blab ab, mit gueten <objectName ref="#wein">Wein</objectName> <objectName ref="#essig">Essig</objectName>, vnd Arbesbrüe, <lb/> laß sieden, vnd geuß an den <objectName ref="#fisch">fisch</objectName>, nach dem nimb Petersill, straiff <lb/> ihn ab, vnd einen Puter, thue alles underein ander, laß Sieden biß <lb/> an die stat, alßdan richts an, gewürz Woll mit Imberstup. <lb/> </p>
             </div>
         </body>
     </text>

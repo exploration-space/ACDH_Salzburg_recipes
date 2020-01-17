@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChlaget ein Ey aus <lb/> streuet ein wenig <objectName ref="mehl">Mehl</objectName> darauf <lb/> und bachets schön schnell heraus; dann schneidet oder hackets ein wenig und schüttets in eine siedende Feischbrüh <lb/> oder auch nur in ein siedend <objectName ref="wasser">Wasser</objectName>; zerrühret die Eyer <lb/> und lassts sieden <lb/> thut ein wenig Muscatblüh darein <lb/> seihets durch einen <objectName ref="seiher">Seiher</objectName> <lb/> und richtets über rocken= oder weisses Brod nach Belieben an. </p>
+        <p> SChlaget ein Ey aus <lb/> streuet ein wenig <objectName ref="#mehl">Mehl</objectName> darauf <lb/> und bachets schön schnell heraus; dann schneidet oder hackets ein wenig und schüttets in eine siedende Feischbrüh <lb/> oder auch nur in ein siedend <objectName ref="#wasser">Wasser</objectName>; zerrühret die Eyer <lb/> und lassts sieden <lb/> thut ein wenig Muscatblüh darein <lb/> seihets durch einen <objectName ref="#seiher">Seiher</objectName> <lb/> und richtets über rocken= oder weisses Brod nach Belieben an. </p>
             </div>
         </body>
     </text>

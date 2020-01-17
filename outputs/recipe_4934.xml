@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet die vördern Viertel von dem <objectName ref="hase">Hasen</objectName> <lb/> lasset sie etliche Tage im <objectName ref="essig">Essig</objectName> liegen <lb/> saltzt und pfefferts <lb/> last sie dann im frischen <objectName ref="essig">Essig</objectName> und <objectName ref="fleischbruehe">Fleischbrühe</objectName> sieden; nach diesen streuet ein geriebenes rocken Brod <lb/> ein wenig von einem dicken <objectName ref="pfefferkuchen">Pfefferkuchen</objectName> und Negelein darein <lb/> und lasset es also mit einander dämpffen : Werffet <lb/> wann ihr es anrichten wollet <lb/> ein Stücklein <objectName ref="butter">Butter</objectName> dazu <lb/> und tragets dann in einer <objectName ref="schuessel">Schüssel</objectName> zu <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> NEhmet die vördern Viertel von dem <objectName ref="#hase">Hasen</objectName> <lb/> lasset sie etliche Tage im <objectName ref="#essig">Essig</objectName> liegen <lb/> saltzt und pfefferts <lb/> last sie dann im frischen <objectName ref="#essig">Essig</objectName> und <objectName ref="#fleischbruehe">Fleischbrühe</objectName> sieden; nach diesen streuet ein geriebenes rocken Brod <lb/> ein wenig von einem dicken <objectName ref="#pfefferkuchen">Pfefferkuchen</objectName> und Negelein darein <lb/> und lasset es also mit einander dämpffen : Werffet <lb/> wann ihr es anrichten wollet <lb/> ein Stücklein <objectName ref="#butter">Butter</objectName> dazu <lb/> und tragets dann in einer <objectName ref="#schuessel">Schüssel</objectName> zu <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

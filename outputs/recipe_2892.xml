@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr Alten gleichet schier einem kleinen Karpffen <lb/> ist aber von Schuppen etwas weisser und kleiner <lb/> auch von Brät nicht so geschmack <lb/> doch grätiger; dahero werden sie meistens gebachen <lb/> oder gebraten <lb/> und etwan vor gemeine Leuth in der <objectName ref="bruehe">Brühe</objectName> gegeben : man gibts auch gesotten <lb/> kalt <lb/> mit Eßig <lb/> Oel <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Saltz <lb/> wie marginirt. </p>
+        <p> DEr Alten gleichet schier einem kleinen Karpffen <lb/> ist aber von Schuppen etwas weisser und kleiner <lb/> auch von Brät nicht so geschmack <lb/> doch grätiger; dahero werden sie meistens gebachen <lb/> oder gebraten <lb/> und etwan vor gemeine Leuth in der <objectName ref="#bruehe">Brühe</objectName> gegeben : man gibts auch gesotten <lb/> kalt <lb/> mit Eßig <lb/> Oel <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> und Saltz <lb/> wie marginirt. </p>
             </div>
         </body>
     </text>

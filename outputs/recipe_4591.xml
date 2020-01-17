@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SIedet schön geklaubten Reiß in einem guten Kern <lb/> wie man ihn sonst zu kochen pfleget <lb/> aber wohl dick; stosset ihn in einem Mörsel ab <lb/> und hernach klein= gestossener <objectName ref="mandeln">Mandeln</objectName> <lb/> ohngefehr so viel als deß Reisses ist <lb/> darunter <lb/> wie auch ein gutes Stück <objectName ref="butter">Butter</objectName> <lb/> und in <objectName ref="milch">Milch</objectName> eingeweichte Semmel= Schnitten; druckets dann wieder aus <lb/> und stosset es alles zusammen wohl darunter ab : Machet von Eyern einen <objectName ref="teig">Teig</objectName> an <lb/> wie sonst zu einem andern Mandel= Dorten; füllet diese Füll in den <objectName ref="teig">Teig</objectName> <lb/> und bachet ihn auf das schönste. </p>
+        <p> SIedet schön geklaubten Reiß in einem guten Kern <lb/> wie man ihn sonst zu kochen pfleget <lb/> aber wohl dick; stosset ihn in einem Mörsel ab <lb/> und hernach klein= gestossener <objectName ref="#mandeln">Mandeln</objectName> <lb/> ohngefehr so viel als deß Reisses ist <lb/> darunter <lb/> wie auch ein gutes Stück <objectName ref="#butter">Butter</objectName> <lb/> und in <objectName ref="#milch">Milch</objectName> eingeweichte Semmel= Schnitten; druckets dann wieder aus <lb/> und stosset es alles zusammen wohl darunter ab : Machet von Eyern einen <objectName ref="#teig">Teig</objectName> an <lb/> wie sonst zu einem andern Mandel= Dorten; füllet diese Füll in den <objectName ref="#teig">Teig</objectName> <lb/> und bachet ihn auf das schönste. </p>
             </div>
         </body>
     </text>

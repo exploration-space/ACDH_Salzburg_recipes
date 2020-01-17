@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BEy disem ist alles das zu machen <lb/> was bey dem Ochsen und <objectName ref="kalb">Kalb</objectName> darvon geschrieben worden. </p>
+        <p> BEy disem ist alles das zu machen <lb/> was bey dem Ochsen und <objectName ref="#kalb">Kalb</objectName> darvon geschrieben worden. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim der grünen <objectName ref="pflaumen">Pflaumen</objectName> die man Kriechen nennet <lb/> thu die Kern herauß <lb/> rucke das ander durch ein <objectName ref="tuch">tuch</objectName> <lb/> sieds biß dicklecht wirdt <lb/> wiegs ab <lb/> vnd nim zweymal so viel Zuckers darzu <lb/> temperiers mit Ro= senwasser <lb/> in 4. pfundt <objectName ref="zucker">Zucker</objectName> nim ein halb seidelein Rosenwassers <lb/> sieds ein wenig <lb/> vnd thus dann in die Kriechen <lb/> sieds vntereinander <lb/> biß es dick wird als ein Muß <lb/> vnd behalte es. </p>
+        <p> Nim der grünen <objectName ref="#pflaumen">Pflaumen</objectName> die man Kriechen nennet <lb/> thu die Kern herauß <lb/> rucke das ander durch ein <objectName ref="#tuch">tuch</objectName> <lb/> sieds biß dicklecht wirdt <lb/> wiegs ab <lb/> vnd nim zweymal so viel Zuckers darzu <lb/> temperiers mit Ro= senwasser <lb/> in 4. pfundt <objectName ref="#zucker">Zucker</objectName> nim ein halb seidelein Rosenwassers <lb/> sieds ein wenig <lb/> vnd thus dann in die Kriechen <lb/> sieds vntereinander <lb/> biß es dick wird als ein Muß <lb/> vnd behalte es. </p>
             </div>
         </body>
     </text>

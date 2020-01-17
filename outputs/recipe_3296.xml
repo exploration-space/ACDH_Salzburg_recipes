@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Siede wol=geklaubten und gewaschnen Reiß in guter <objectName ref="milch">Milch</objectName> <lb/> saltz <lb/> und wann er fertig <lb/> so wird er mit gehackten <objectName ref="mandeln">Mandeln</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> und Zimmet=Wasser abgemacht. Item <lb/> wird der in <objectName ref="milch">Milch</objectName> gesottne Reiß auch ohne <objectName ref="mandeln">Mandeln</objectName> <lb/> nur mit wenig Saltz und <objectName ref="butter">Butter</objectName> abgemacht <lb/> beym Anrichten mit <objectName ref="zucker">Zucker</objectName> und Zimmet=Stup bestreut. </p>
+        <p> Siede wol=geklaubten und gewaschnen Reiß in guter <objectName ref="#milch">Milch</objectName> <lb/> saltz <lb/> und wann er fertig <lb/> so wird er mit gehackten <objectName ref="#mandeln">Mandeln</objectName> <lb/> <objectName ref="#zucker">Zucker</objectName> <lb/> und Zimmet=Wasser abgemacht. Item <lb/> wird der in <objectName ref="#milch">Milch</objectName> gesottne Reiß auch ohne <objectName ref="#mandeln">Mandeln</objectName> <lb/> nur mit wenig Saltz und <objectName ref="#butter">Butter</objectName> abgemacht <lb/> beym Anrichten mit <objectName ref="#zucker">Zucker</objectName> und Zimmet=Stup bestreut. </p>
             </div>
         </body>
     </text>

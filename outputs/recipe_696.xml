@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> lege in ein Bouchal d´aqua.2. tt Wpr /trauben zertruckhe selbe woll im wasßer <lb/> laß ½ stundt stehen Seichs durch ein tuech <lb/> mische darunter 6. l. zuckher gieß ins <lb/> gschier vnd laß gefrührn mus : vnd <objectName ref="amber">amber</objectName> w : bl. <lb/> </p>
+        <p> lege in ein Bouchal d´aqua.2. tt Wpr /trauben zertruckhe selbe woll im wasßer <lb/> laß ½ stundt stehen Seichs durch ein tuech <lb/> mische darunter 6. l. zuckher gieß ins <lb/> gschier vnd laß gefrührn mus : vnd <objectName ref="#amber">amber</objectName> w : bl. <lb/> </p>
             </div>
         </body>
     </text>

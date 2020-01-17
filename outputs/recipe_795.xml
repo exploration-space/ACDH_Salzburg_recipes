@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wann die <objectName ref="feigen">Feigen</objectName> frischer gehackt <lb/> oder im Mörsel gestossen <lb/> mit <objectName ref="wein">Wein</objectName> durch das haarsieblein getrieben <lb/> mit abgezogenen und klein gestoßnen <objectName ref="mandeln">Mandeln</objectName> <lb/> in <objectName ref="wein">Wein</objectName> geweichter Semmel=Mollen <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> und wenigen Zimmet=Stup an gemacht <lb/> mit <objectName ref="butter">Butter</objectName> und Eyern abgetrieben <lb/> auch klein geschnittne Lemoni=Schelffen darzu gemischter <lb/> gibt ein gutes und gesundes Muß <lb/> im <objectName ref="ofen">Ofen</objectName> <lb/> oder mit doppelter <objectName ref="glut">Glut</objectName> gebachen. </p>
+        <p> Wann die <objectName ref="#feigen">Feigen</objectName> frischer gehackt <lb/> oder im Mörsel gestossen <lb/> mit <objectName ref="#wein">Wein</objectName> durch das haarsieblein getrieben <lb/> mit abgezogenen und klein gestoßnen <objectName ref="#mandeln">Mandeln</objectName> <lb/> in <objectName ref="#wein">Wein</objectName> geweichter Semmel=Mollen <lb/> <objectName ref="#zucker">Zucker</objectName> <lb/> und wenigen Zimmet=Stup an gemacht <lb/> mit <objectName ref="#butter">Butter</objectName> und Eyern abgetrieben <lb/> auch klein geschnittne Lemoni=Schelffen darzu gemischter <lb/> gibt ein gutes und gesundes Muß <lb/> im <objectName ref="#ofen">Ofen</objectName> <lb/> oder mit doppelter <objectName ref="#glut">Glut</objectName> gebachen. </p>
             </div>
         </body>
     </text>

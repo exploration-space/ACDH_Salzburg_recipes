@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ybersiede<gap/> daß <objectName ref="fleisch">Fleisch</objectName> ein weinig, vnd wasch wider <lb/> auß, thues in ein Rein<gap/>, <objectName ref="salz">Salz</objectName> gewierz<gap/>, schitte<gap/> Fleisch<gap/> <lb/> prie daran, vnd thueß mit Putter<gap/> einprenen<gap/>, vnd <lb/> Mehl<gap/> schen Liecht<gap/> praun, lög<gap/> Ein Stickhl<gap/> Putter<gap/> zue, <lb/> Laß also khochen, khanst auch ein wenig <objectName ref="wein">Wein</objectName> darein <lb/> nemmben, vnd ein parr lemany<gap/> plätl<gap/>, wanst es an= <lb/> richten<gap/> thuest, so gilbs<gap/> mit ayr<gap/> dotter<gap/>. <lb/> [ Anm. : „ ein parr “ bedeutet ‚ein paar ‘, ‚einige ‘. ] </p>
+        <p> ybersiede<gap/> daß <objectName ref="#fleisch">Fleisch</objectName> ein weinig, vnd wasch wider <lb/> auß, thues in ein Rein<gap/>, <objectName ref="#salz">Salz</objectName> gewierz<gap/>, schitte<gap/> Fleisch<gap/> <lb/> prie daran, vnd thueß mit Putter<gap/> einprenen<gap/>, vnd <lb/> Mehl<gap/> schen Liecht<gap/> praun, lög<gap/> Ein Stickhl<gap/> Putter<gap/> zue, <lb/> Laß also khochen, khanst auch ein wenig <objectName ref="#wein">Wein</objectName> darein <lb/> nemmben, vnd ein parr lemany<gap/> plätl<gap/>, wanst es an= <lb/> richten<gap/> thuest, so gilbs<gap/> mit ayr<gap/> dotter<gap/>. <lb/> [ Anm. : „ ein parr “ bedeutet ‚ein paar ‘, ‚einige ‘. ] </p>
             </div>
         </body>
     </text>

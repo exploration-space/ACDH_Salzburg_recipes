@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Von grünen <objectName ref="kraeuter">Kräutern</objectName> <lb/> die fein klein gehackt seyn <lb/> kanstu ein eyngerürtes machen. Vnnd wenn du es anrichtest <lb/> so besträw es halb mit <objectName ref="ingwer">Ingwer</objectName> <lb/> vnd halb mit <objectName ref="pfeffer">Pfeffer</objectName>. </p>
+        <p> Von grünen <objectName ref="#kraeuter">Kräutern</objectName> <lb/> die fein klein gehackt seyn <lb/> kanstu ein eyngerürtes machen. Vnnd wenn du es anrichtest <lb/> so besträw es halb mit <objectName ref="#ingwer">Ingwer</objectName> <lb/> vnd halb mit <objectName ref="#pfeffer">Pfeffer</objectName>. </p>
             </div>
         </body>
     </text>

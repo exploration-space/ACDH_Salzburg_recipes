@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb das Pladteis<gap/> vnd thue es <lb/> auf den <objectName ref="rost">rost</objectName> vnnd Zieg<gap/> ihn die <lb/> heitl<gap/> ab hernach legs in ein sied= <lb/> ens<gap/> <objectName ref="wasser">Wasser</objectName> vnnd <objectName ref="salz">salz</objectName> hernach <lb/> Nimb das Pladteis vnnd thails <lb/> von einander vnnd schmierb<gap/> ein schissl<gap/> <lb/> mit <objectName ref="butter">butter</objectName> vnnd leg die Pladteis <lb/> darauf vnnd bren<gap/> ein schmalz<gap/> <lb/> darauf vnnd thue in boden ein <lb/> Arbes brüe<gap/> daran vnd sträh<gap/> <lb/> semel breßl<gap/> Darauf vnd Pfefer <lb/> sez auf ein Gluet<gap/> vnnd lass bregln<gap/> <lb/> Gibs also auf die Daffel. <lb/><lb/> ( re 56 ) </p>
+        <p> Nimb das Pladteis<gap/> vnd thue es <lb/> auf den <objectName ref="#rost">rost</objectName> vnnd Zieg<gap/> ihn die <lb/> heitl<gap/> ab hernach legs in ein sied= <lb/> ens<gap/> <objectName ref="#wasser">Wasser</objectName> vnnd <objectName ref="#salz">salz</objectName> hernach <lb/> Nimb das Pladteis vnnd thails <lb/> von einander vnnd schmierb<gap/> ein schissl<gap/> <lb/> mit <objectName ref="#butter">butter</objectName> vnnd leg die Pladteis <lb/> darauf vnnd bren<gap/> ein schmalz<gap/> <lb/> darauf vnnd thue in boden ein <lb/> Arbes brüe<gap/> daran vnd sträh<gap/> <lb/> semel breßl<gap/> Darauf vnd Pfefer <lb/> sez auf ein Gluet<gap/> vnnd lass bregln<gap/> <lb/> Gibs also auf die Daffel. <lb/><lb/> ( re 56 ) </p>
             </div>
         </body>
     </text>

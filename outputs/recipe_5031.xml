@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIeser <objectName ref="teig">Teig</objectName> zu den Bad= Hütlein wird allerdings gemacht wie zu denen Num. 66. biß 68. beschriebenen Schart= Küchlein; auch ebenfalls in eine dergleichen Bixe gegossen <lb/> in siedendes <objectName ref="wasser">Wasser</objectName> gesetzet und gesotten <lb/> biß er sich schneiden lässet <lb/> dann heraus gestürtzet <lb/> zu runden und eines Fingers dicken Plätzlein geschnitten : dann oben und unten mit einem scharffen <objectName ref="messer">Messer</objectName> hin und her Creutz= weiß wie ein Gitter geschnitten <lb/> und abgebachen. </p>
+        <p> DIeser <objectName ref="#teig">Teig</objectName> zu den Bad= Hütlein wird allerdings gemacht wie zu denen Num. 66. biß 68. beschriebenen Schart= Küchlein; auch ebenfalls in eine dergleichen Bixe gegossen <lb/> in siedendes <objectName ref="#wasser">Wasser</objectName> gesetzet und gesotten <lb/> biß er sich schneiden lässet <lb/> dann heraus gestürtzet <lb/> zu runden und eines Fingers dicken Plätzlein geschnitten : dann oben und unten mit einem scharffen <objectName ref="#messer">Messer</objectName> hin und her Creutz= weiß wie ein Gitter geschnitten <lb/> und abgebachen. </p>
             </div>
         </body>
     </text>

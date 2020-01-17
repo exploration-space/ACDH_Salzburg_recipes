@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb frischen Puter, Zergeng den mit souill <objectName ref="wasser">Wasser</objectName>, als Puter, <lb/> laß sieden, rühr ein schens mell drein, ein löffl voll Prandtwein, <lb/> Wërmb die aÿr Zu 2. khlar ein doter, nimb dan schene frische <lb/> Weixl, die nit naß, nimb ein khlaines tieffes Pfändl, hiz ein <objectName ref="schmalz">schmalz</objectName>, <lb/> dunkh die Weixl ins taigl, treibs fein umb, das nit abtrieffe, ge= <lb/> schwind ins haiß <objectName ref="schmalz">schmalz</objectName>, laß nit gleich Zu boden, muest allzeit nur <lb/> aine bachen, gibs, thue Zukher drauf. <lb/> </p>
+        <p> Nimb frischen Puter, Zergeng den mit souill <objectName ref="#wasser">Wasser</objectName>, als Puter, <lb/> laß sieden, rühr ein schens mell drein, ein löffl voll Prandtwein, <lb/> Wërmb die aÿr Zu 2. khlar ein doter, nimb dan schene frische <lb/> Weixl, die nit naß, nimb ein khlaines tieffes Pfändl, hiz ein <objectName ref="#schmalz">schmalz</objectName>, <lb/> dunkh die Weixl ins taigl, treibs fein umb, das nit abtrieffe, ge= <lb/> schwind ins haiß <objectName ref="#schmalz">schmalz</objectName>, laß nit gleich Zu boden, muest allzeit nur <lb/> aine bachen, gibs, thue Zukher drauf. <lb/> </p>
             </div>
         </body>
     </text>

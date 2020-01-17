@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim Margaranten Epffel <lb/> schneidt sie voneinander <lb/> vnnd klopff die Kern herauß <lb/> besträw sie mit weissem <objectName ref="zucker">Zucker</objectName> <lb/> so ist es gut vnnd wolgeschmack. </p>
+        <p> Nim Margaranten Epffel <lb/> schneidt sie voneinander <lb/> vnnd klopff die Kern herauß <lb/> besträw sie mit weissem <objectName ref="#zucker">Zucker</objectName> <lb/> so ist es gut vnnd wolgeschmack. </p>
             </div>
         </body>
     </text>

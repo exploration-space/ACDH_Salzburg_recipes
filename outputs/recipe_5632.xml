@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm einen halben <objectName ref="vierding">Vierding</objectName> <lb/> oder achtel <objectName ref="pfund">Pfund</objectName> <objectName ref="mandeln">Mandeln</objectName> <lb/> stosse sie <lb/> jedoch nicht zu klein; rühre Citronat <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> und ein wenig Zimmet durch einander; mache einen <objectName ref="teig">Teig</objectName> <lb/> wie oben gedacht <lb/> wälchere ihn dinn <lb/> schlag den Mandel= Zeig <lb/> wie Raffioln <lb/> darein <lb/> bachs im Schmaltz <lb/> und bestreichs <lb/> vermittelst eines Pinsels <lb/> mit einem zerklopfften Ey. </p>
+        <p> NImm einen halben <objectName ref="#vierding">Vierding</objectName> <lb/> oder achtel <objectName ref="#pfund">Pfund</objectName> <objectName ref="#mandeln">Mandeln</objectName> <lb/> stosse sie <lb/> jedoch nicht zu klein; rühre Citronat <lb/> <objectName ref="#zucker">Zucker</objectName> <lb/> <objectName ref="#rosenwasser">Rosenwasser</objectName> <lb/> und ein wenig Zimmet durch einander; mache einen <objectName ref="#teig">Teig</objectName> <lb/> wie oben gedacht <lb/> wälchere ihn dinn <lb/> schlag den Mandel= Zeig <lb/> wie Raffioln <lb/> darein <lb/> bachs im Schmaltz <lb/> und bestreichs <lb/> vermittelst eines Pinsels <lb/> mit einem zerklopfften Ey. </p>
             </div>
         </body>
     </text>

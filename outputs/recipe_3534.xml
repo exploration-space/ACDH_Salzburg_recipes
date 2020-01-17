@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm die Frösch <lb/> wann sie sauber <lb/> in ein Casserol <lb/> mit Gewürtz <lb/> klein= gehackten Zwibel <lb/> wenig Meel und <objectName ref="butter">Butter</objectName> <lb/> auch <objectName ref="knoblauch">Knoblauch</objectName> <lb/> und klein= geschnittenen <objectName ref="rosmarin">Rosmarin</objectName> <lb/> und Saltz <lb/> und laß auf der <objectName ref="glut">Glut</objectName> etlichmal herüber schwingen <lb/> mit etlich Tropffen Eßig dämpffen lassen <lb/> seynd gut <lb/> dann sie geben selbsten <objectName ref="bruehe">Brühe</objectName>. </p>
+        <p> NImm die Frösch <lb/> wann sie sauber <lb/> in ein Casserol <lb/> mit Gewürtz <lb/> klein= gehackten Zwibel <lb/> wenig Meel und <objectName ref="#butter">Butter</objectName> <lb/> auch <objectName ref="#knoblauch">Knoblauch</objectName> <lb/> und klein= geschnittenen <objectName ref="#rosmarin">Rosmarin</objectName> <lb/> und Saltz <lb/> und laß auf der <objectName ref="#glut">Glut</objectName> etlichmal herüber schwingen <lb/> mit etlich Tropffen Eßig dämpffen lassen <lb/> seynd gut <lb/> dann sie geben selbsten <objectName ref="#bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

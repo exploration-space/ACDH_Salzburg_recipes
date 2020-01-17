@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimm ausgeklaubte <lb/> und saubergebutzte Stachel=Beer <lb/> oder Agres <lb/> mit einer gantzen Lemoni=Schaalen <lb/> die mit mit Zimmet und Näglein besteckt ist/und wann der <objectName ref="zucker">Zucker</objectName> dicklecht gesotten <lb/> so schütte die Beer mit der Lemoni=Schelffen darein <lb/> laß kurtz kochen/dann sie seynd bald fertig <lb/> beym Anrichten nimm die Lemoni=Schaalen heraus <lb/> und gibs warmer mit <objectName ref="zucker">Zucker</objectName> bestreuter. NB. Wie die Agres zum Behalten in <objectName ref="zucker">Zucker</objectName> eingemacht werden <lb/> ist im II. Theil <lb/> 2.Buch <lb/> 4. Capitel <lb/> 61. Blat <lb/> N°. 62. zu finden. </p>
+        <p> Nimm ausgeklaubte <lb/> und saubergebutzte Stachel=Beer <lb/> oder Agres <lb/> mit einer gantzen Lemoni=Schaalen <lb/> die mit mit Zimmet und Näglein besteckt ist/und wann der <objectName ref="#zucker">Zucker</objectName> dicklecht gesotten <lb/> so schütte die Beer mit der Lemoni=Schelffen darein <lb/> laß kurtz kochen/dann sie seynd bald fertig <lb/> beym Anrichten nimm die Lemoni=Schaalen heraus <lb/> und gibs warmer mit <objectName ref="#zucker">Zucker</objectName> bestreuter. NB. Wie die Agres zum Behalten in <objectName ref="#zucker">Zucker</objectName> eingemacht werden <lb/> ist im II. Theil <lb/> 2.Buch <lb/> 4. Capitel <lb/> 61. Blat <lb/> N°. 62. zu finden. </p>
             </div>
         </body>
     </text>

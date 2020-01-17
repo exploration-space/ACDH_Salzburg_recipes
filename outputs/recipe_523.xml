@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb daß öhl, lass Sietten<gap/>, biß es ganz <lb/> still würdt, vnnd nit mehr Khracht, <lb/><lb/> ( Z- U II ve 07 ) Durch Dises mitl würdt ihm der geschmach <lb/> benommen Werdten. Kan Man auch et= <lb/> liche Rindten<gap/> brodt oder Zwifel<gap/> hinein Werffen. <lb/> Wan Daß öhl bereith ist, so thue ein <lb/> guetts mehl<gap/> auf den <objectName ref="tisch">tisch</objectName>, ein Wenig <lb/> <objectName ref="salz">Salz</objectName> öhl auch ein wenig <objectName ref="wasser">wasser</objectName>, arbeith<gap/> <lb/> Diss alles wol Durch ein ander daß es <lb/> Vest werde vnd schlags hipschs<gap/> Darein <lb/> was du wilst, so ist er Recht <lb/> </p>
+        <p> Nimb daß öhl, lass Sietten<gap/>, biß es ganz <lb/> still würdt, vnnd nit mehr Khracht, <lb/><lb/> ( Z- U II ve 07 ) Durch Dises mitl würdt ihm der geschmach <lb/> benommen Werdten. Kan Man auch et= <lb/> liche Rindten<gap/> brodt oder Zwifel<gap/> hinein Werffen. <lb/> Wan Daß öhl bereith ist, so thue ein <lb/> guetts mehl<gap/> auf den <objectName ref="#tisch">tisch</objectName>, ein Wenig <lb/> <objectName ref="#salz">Salz</objectName> öhl auch ein wenig <objectName ref="#wasser">wasser</objectName>, arbeith<gap/> <lb/> Diss alles wol Durch ein ander daß es <lb/> Vest werde vnd schlags hipschs<gap/> Darein <lb/> was du wilst, so ist er Recht <lb/> </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> REibe einen guten Käß <lb/> schlage Eyer daran; mische ein wenig gerieben Semmel= oder Oblat= <objectName ref="mehl">Mehl</objectName> darunter <lb/> mache einen <objectName ref="teig">Teig</objectName> daraus <lb/> als wie ein dickes Mus <lb/> streiche dann selbigen schön erhoben auf Semmel= Schnitten <lb/> und bachs aus Schmaltz : Wanns beliebt <lb/> kan man diese Semmel= Schnitten zuvor durch einen <objectName ref="teig">Teig</objectName> ziehen und bachen <lb/> oder aber <lb/> aus besagtem <objectName ref="teig">Teig</objectName> <lb/> Käß= Küchlein formiren. </p>
+        <p> REibe einen guten Käß <lb/> schlage Eyer daran; mische ein wenig gerieben Semmel= oder Oblat= <objectName ref="#mehl">Mehl</objectName> darunter <lb/> mache einen <objectName ref="#teig">Teig</objectName> daraus <lb/> als wie ein dickes Mus <lb/> streiche dann selbigen schön erhoben auf Semmel= Schnitten <lb/> und bachs aus Schmaltz : Wanns beliebt <lb/> kan man diese Semmel= Schnitten zuvor durch einen <objectName ref="#teig">Teig</objectName> ziehen und bachen <lb/> oder aber <lb/> aus besagtem <objectName ref="#teig">Teig</objectName> <lb/> Käß= Küchlein formiren. </p>
             </div>
         </body>
     </text>

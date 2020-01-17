@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Mach eine gute <objectName ref="milch">Milch</objectName> laulicht <lb/> leg darein einer Nuß= groß frischen <objectName ref="butter">Butter</objectName> <lb/> wärme die Eyer <lb/> und schlags auf <lb/> und sprittle es durcheinander ab <lb/> nimm ein schönes Meel <lb/> mache einen Taig an <lb/> wie zu einem dünnen Schmarren in der Dicke <lb/> hernach beschmiere die Bixen <lb/> und verfahre damit wie oben <lb/> etc. </p>
+        <p> Mach eine gute <objectName ref="#milch">Milch</objectName> laulicht <lb/> leg darein einer Nuß= groß frischen <objectName ref="#butter">Butter</objectName> <lb/> wärme die Eyer <lb/> und schlags auf <lb/> und sprittle es durcheinander ab <lb/> nimm ein schönes Meel <lb/> mache einen Taig an <lb/> wie zu einem dünnen Schmarren in der Dicke <lb/> hernach beschmiere die Bixen <lb/> und verfahre damit wie oben <lb/> etc. </p>
             </div>
         </body>
     </text>

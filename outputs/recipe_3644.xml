@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BEschaue den vorbeschriebenen Salpicon, da ist der Rago zu finden <lb/> mit welchem diser gefüllt muß werden <lb/> oder mach ein <objectName ref="gehaeck">Gehäck</objectName> von dem <objectName ref="fleisch">Fleisch</objectName> <lb/> so du herauß nimmst vor dem Braten und Spicken <lb/> mach es wohl und gut an <lb/> wie etliche Füllen bey den kälbernen Schlegeln mit denen Schloß= Brätlein schon beschrieben zu finden <lb/> und thue auch die Haut in dem Untergreiffen zimlich dick lassen; damit du es auch sauber und wohl spicken kanst : paniere, und garniere es mit gefüllten Brüßlein <lb/> oder Risolen <lb/> gebachenen <objectName ref="semmeln">Semmeln</objectName> <lb/> man kans auch mit Schallot spicken. </p>
+        <p> BEschaue den vorbeschriebenen Salpicon, da ist der Rago zu finden <lb/> mit welchem diser gefüllt muß werden <lb/> oder mach ein <objectName ref="#gehaeck">Gehäck</objectName> von dem <objectName ref="#fleisch">Fleisch</objectName> <lb/> so du herauß nimmst vor dem Braten und Spicken <lb/> mach es wohl und gut an <lb/> wie etliche Füllen bey den kälbernen Schlegeln mit denen Schloß= Brätlein schon beschrieben zu finden <lb/> und thue auch die Haut in dem Untergreiffen zimlich dick lassen; damit du es auch sauber und wohl spicken kanst : paniere, und garniere es mit gefüllten Brüßlein <lb/> oder Risolen <lb/> gebachenen <objectName ref="#semmeln">Semmeln</objectName> <lb/> man kans auch mit Schallot spicken. </p>
             </div>
         </body>
     </text>

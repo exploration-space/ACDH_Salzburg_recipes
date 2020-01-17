@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChählet die Birne <lb/> schneidet sie wie Ruben <lb/> doch nicht zu klein; röstets fein gemach im Schmaltz <lb/> daß sie gelblicht werden; wanns geröstet sind <lb/> giesst einen <objectName ref="wein">Wein</objectName> darüber <lb/> lassets über einem Kohlfeuer kochen <lb/> würtzets mit Zimmet <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> ein wenig Muscatenblüh und Saffran; thut Weinbeere und ausgeholete Rosin daran <lb/> lassets also mit einander sieden; und wann sie angerichtet worden <lb/> bestreuets mit <objectName ref="zucker">Zucker</objectName> und Zimmet. </p>
+        <p> SChählet die Birne <lb/> schneidet sie wie Ruben <lb/> doch nicht zu klein; röstets fein gemach im Schmaltz <lb/> daß sie gelblicht werden; wanns geröstet sind <lb/> giesst einen <objectName ref="#wein">Wein</objectName> darüber <lb/> lassets über einem Kohlfeuer kochen <lb/> würtzets mit Zimmet <lb/> <objectName ref="#zucker">Zucker</objectName> <lb/> ein wenig Muscatenblüh und Saffran; thut Weinbeere und ausgeholete Rosin daran <lb/> lassets also mit einander sieden; und wann sie angerichtet worden <lb/> bestreuets mit <objectName ref="#zucker">Zucker</objectName> und Zimmet. </p>
             </div>
         </body>
     </text>

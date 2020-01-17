@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> gieß<gap/> siediges<gap/> wasßer über den waller<gap/>, der noch <lb/> lebt, wasche ihn schen ab, waide<gap/> ihm auß, salze <lb/> ihn und schneidt<gap/> ihn zu Stickhl<gap/>, Loß ihn ein wenig <lb/> in <objectName ref="salz">Salz</objectName> liegen<gap/>, mach ein wasßer siedent<gap/>, Lege<gap/> die <lb/> Stuckh<gap/> darein, und ein wenig esßig dran, wann <lb/> sye nur halb verfeimt<gap/> sein, seiche<gap/> daß wosßer ab, <lb/> treibe<gap/> einen gueten Lebzahlten<gap/>, in einen gueten <objectName ref="wein">wein</objectName> <lb/> durch, reste<gap/> einen klein gehackhten<gap/> zwifl<gap/> in schmalz<gap/>, <lb/> thue gewirzt<gap/> drein, gilbs<gap/>, und laß sieden<gap/> so ist <lb/> er guet. <lb/> </p>
+        <p> gieß<gap/> siediges<gap/> wasßer über den waller<gap/>, der noch <lb/> lebt, wasche ihn schen ab, waide<gap/> ihm auß, salze <lb/> ihn und schneidt<gap/> ihn zu Stickhl<gap/>, Loß ihn ein wenig <lb/> in <objectName ref="#salz">Salz</objectName> liegen<gap/>, mach ein wasßer siedent<gap/>, Lege<gap/> die <lb/> Stuckh<gap/> darein, und ein wenig esßig dran, wann <lb/> sye nur halb verfeimt<gap/> sein, seiche<gap/> daß wosßer ab, <lb/> treibe<gap/> einen gueten Lebzahlten<gap/>, in einen gueten <objectName ref="#wein">wein</objectName> <lb/> durch, reste<gap/> einen klein gehackhten<gap/> zwifl<gap/> in schmalz<gap/>, <lb/> thue gewirzt<gap/> drein, gilbs<gap/>, und laß sieden<gap/> so ist <lb/> er guet. <lb/> </p>
             </div>
         </body>
     </text>

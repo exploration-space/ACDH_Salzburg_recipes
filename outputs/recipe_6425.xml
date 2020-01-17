@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Kürbes <lb/> die fein jung seyn <lb/> koch sie mit <objectName ref="speck">Speck</objectName> <lb/> oder mit <objectName ref="milch">Milch</objectName> <lb/> oder mit Rindtfleischbrüh. </p>
+        <p> Nim ( m ) Kürbes <lb/> die fein jung seyn <lb/> koch sie mit <objectName ref="#speck">Speck</objectName> <lb/> oder mit <objectName ref="#milch">Milch</objectName> <lb/> oder mit Rindtfleischbrüh. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Richt die flökh<gap/> her wie sunst hernach wans <lb/> Zum ein prenen<gap/> sein gericht so siedt<gap/> einen <lb/> spökh hakh in khlein waikh<gap/> ein semel <lb/> schmollon<gap/> in frisch <objectName ref="wasser">wasser</objectName> drukhs aus in <lb/> vnder den gehakhen spökh söz auf ein glut<gap/> <lb/> wänig mell darein lass siedten<gap/> so seindt <lb/> sie förtig <lb/> </p>
+        <p> Richt die flökh<gap/> her wie sunst hernach wans <lb/> Zum ein prenen<gap/> sein gericht so siedt<gap/> einen <lb/> spökh hakh in khlein waikh<gap/> ein semel <lb/> schmollon<gap/> in frisch <objectName ref="#wasser">wasser</objectName> drukhs aus in <lb/> vnder den gehakhen spökh söz auf ein glut<gap/> <lb/> wänig mell darein lass siedten<gap/> so seindt <lb/> sie förtig <lb/> </p>
             </div>
         </body>
     </text>

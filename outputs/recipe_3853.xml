@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> VOn dem schweinen Brät <lb/> und <objectName ref="lunge">Lungen</objectName> können allerley <objectName ref="suppe">Suppen</objectName> gemacht <lb/> und mit allerhand <objectName ref="kraeuter">Kräuter</objectName> <lb/> auch Wurtzeln <lb/> wie oben bey dem Kälbernen gehört <lb/> zugerichtet werden <lb/> insonderheit von Frischling. </p>
+        <p> VOn dem schweinen Brät <lb/> und <objectName ref="#lunge">Lungen</objectName> können allerley <objectName ref="#suppe">Suppen</objectName> gemacht <lb/> und mit allerhand <objectName ref="#kraeuter">Kräuter</objectName> <lb/> auch Wurtzeln <lb/> wie oben bey dem Kälbernen gehört <lb/> zugerichtet werden <lb/> insonderheit von Frischling. </p>
             </div>
         </body>
     </text>

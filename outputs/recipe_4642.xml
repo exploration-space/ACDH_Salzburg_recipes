@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm das Weisse von Eyern <lb/> gieß eine gute dicke <objectName ref="milch">Milch</objectName> und <objectName ref="rosenwasser">Rosenwasser</objectName> daran <lb/> zuckers <lb/> klopffs wohl durch einander <lb/> setz es in einer Pfannen übers <objectName ref="feuer">Feuer</objectName> <lb/> laß mit stetem Rühren aufsieden; giesse sie in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und wann sie bestanden <lb/> bestecks mit <objectName ref="mandeln">Mandeln</objectName>. </p>
+        <p> NImm das Weisse von Eyern <lb/> gieß eine gute dicke <objectName ref="#milch">Milch</objectName> und <objectName ref="#rosenwasser">Rosenwasser</objectName> daran <lb/> zuckers <lb/> klopffs wohl durch einander <lb/> setz es in einer Pfannen übers <objectName ref="#feuer">Feuer</objectName> <lb/> laß mit stetem Rühren aufsieden; giesse sie in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> und wann sie bestanden <lb/> bestecks mit <objectName ref="#mandeln">Mandeln</objectName>. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> THue <objectName ref="kuemmel">Kümmel</objectName> und ein Stück rocken= oder auch gebäht= Brod in ein <objectName ref="wasser">Wasser</objectName> <lb/> oder <lb/> so du wilt <lb/> in halb <objectName ref="wasser">Wasser</objectName> <lb/> halb Fleischbrüh <lb/> saltze und lasse es sieden <lb/> zwings durch <lb/> wirff Bach= Schmaltz <lb/> Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> und geriebene Muscat= Nuß und Saffran darein <lb/> laß es nochmal aufsieden <lb/> und richts dann über aufgeschnittenes Rocken= Brod. </p>
+        <p> THue <objectName ref="#kuemmel">Kümmel</objectName> und ein Stück rocken= oder auch gebäht= Brod in ein <objectName ref="#wasser">Wasser</objectName> <lb/> oder <lb/> so du wilt <lb/> in halb <objectName ref="#wasser">Wasser</objectName> <lb/> halb Fleischbrüh <lb/> saltze und lasse es sieden <lb/> zwings durch <lb/> wirff Bach= Schmaltz <lb/> Ingber <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> und geriebene Muscat= Nuß und Saffran darein <lb/> laß es nochmal aufsieden <lb/> und richts dann über aufgeschnittenes Rocken= Brod. </p>
             </div>
         </body>
     </text>

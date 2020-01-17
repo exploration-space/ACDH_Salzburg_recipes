@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr Aalfisch wird abgezogen <lb/> zerstuckt <lb/> und mit Saltz= <objectName ref="wasser">Wasser</objectName> und Eßig halb gesotten <lb/> worzu auch allerhand gute Kräutlein können geworfen werden <lb/> alsdann wieder abgesiehen <lb/> in ein <objectName ref="rein">Rein</objectName> <lb/> oder Casserol <lb/> mit hier oben beygesetzter <objectName ref="bruehe">Brühe</objectName> gar fertig gemacht <lb/> und warm geben. </p>
+        <p> DEr Aalfisch wird abgezogen <lb/> zerstuckt <lb/> und mit Saltz= <objectName ref="#wasser">Wasser</objectName> und Eßig halb gesotten <lb/> worzu auch allerhand gute Kräutlein können geworfen werden <lb/> alsdann wieder abgesiehen <lb/> in ein <objectName ref="#rein">Rein</objectName> <lb/> oder Casserol <lb/> mit hier oben beygesetzter <objectName ref="#bruehe">Brühe</objectName> gar fertig gemacht <lb/> und warm geben. </p>
             </div>
         </body>
     </text>

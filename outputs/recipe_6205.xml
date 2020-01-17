@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Item <lb/> so thu darein klein Rißlingstein auß einem kalten <objectName ref="wasser">Wasser</objectName> <lb/> auff zwey viertheil <lb/> vnd die sollen vorhin drey Tag indem kalten <objectName ref="wasser">Wasser</objectName> gelegen seyn <lb/> der <objectName ref="wein">Wein</objectName> setztet sich schier. </p>
+        <p> Item <lb/> so thu darein klein Rißlingstein auß einem kalten <objectName ref="#wasser">Wasser</objectName> <lb/> auff zwey viertheil <lb/> vnd die sollen vorhin drey Tag indem kalten <objectName ref="#wasser">Wasser</objectName> gelegen seyn <lb/> der <objectName ref="#wein">Wein</objectName> setztet sich schier. </p>
             </div>
         </body>
     </text>

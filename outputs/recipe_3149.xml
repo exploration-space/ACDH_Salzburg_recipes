@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Rothe Ruben seynd auch bekannt <lb/> und gut zum <objectName ref="salat">Salat</objectName>. </p>
+        <p> Rothe Ruben seynd auch bekannt <lb/> und gut zum <objectName ref="#salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

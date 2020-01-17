@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn das <objectName ref="euter">Euter</objectName> wohl verfäumt <lb/> und auch weich genug gesotten; so kan es der kälbernen <objectName ref="lunge">Lungen</objectName> gleich <lb/> langlecht <lb/> oder dünn geblättlet <lb/> oder zu einem <objectName ref="gehaeck">Gehäck</objectName> klein= geschnitten werden; mit kleinen Zwibel <lb/> gelb eingebrennt <lb/> mit seinem nothwendigen Gewürtz <lb/> und Saltz <lb/> auch nothwendigen Säure <lb/> mit klein= gehackten Petersil; Item <lb/> man kans mit Lemoni= Schelffen und Capry <lb/> mit <objectName ref="wein">Wein</objectName> und Lemoni= Schelffen; mit Pinioli und schwartzen Wein= Beerlein <lb/> oder auch lang= oder blättlet geschnitten <lb/> fricassirt werden. </p>
+        <p> WAnn das <objectName ref="#euter">Euter</objectName> wohl verfäumt <lb/> und auch weich genug gesotten; so kan es der kälbernen <objectName ref="#lunge">Lungen</objectName> gleich <lb/> langlecht <lb/> oder dünn geblättlet <lb/> oder zu einem <objectName ref="#gehaeck">Gehäck</objectName> klein= geschnitten werden; mit kleinen Zwibel <lb/> gelb eingebrennt <lb/> mit seinem nothwendigen Gewürtz <lb/> und Saltz <lb/> auch nothwendigen Säure <lb/> mit klein= gehackten Petersil; Item <lb/> man kans mit Lemoni= Schelffen und Capry <lb/> mit <objectName ref="#wein">Wein</objectName> und Lemoni= Schelffen; mit Pinioli und schwartzen Wein= Beerlein <lb/> oder auch lang= oder blättlet geschnitten <lb/> fricassirt werden. </p>
             </div>
         </body>
     </text>

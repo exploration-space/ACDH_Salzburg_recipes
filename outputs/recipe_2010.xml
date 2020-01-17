@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Zum Praten vnd einmachen, er seÿ frisch oder gesalzen, seind <lb/> sie auf baide Manier guet, gesalzne häring die außge= <lb/> wässert seind, schneid voneinander, leg sie in <objectName ref="milch">Milch</objectName>, vnd <lb/> laß darinen Waikhen ein stund oder Zwo, Wen sie waich <lb/> seind, so leg sie auf den <objectName ref="rost">Rost</objectName>, brats gschwind himwekh, <lb/> richt es in ein schißl, geuß Buter drüber oder Senff, <lb/> so ist es guet. <lb/> Nimb häring die fein gewässert seind, mach sie ein mit <lb/> Puter, Erbesbrüe, vnd mit grüenen Wollschmekheten khreittern, <lb/> die khlain gehakht seind, machs ab mit <objectName ref="pfeffer">Pfeffer</objectName>, Ingber, vnd <lb/> laß also Sieden, so ist es guet vnd Wolgeschmach. <lb/> </p>
+        <p> Zum Praten vnd einmachen, er seÿ frisch oder gesalzen, seind <lb/> sie auf baide Manier guet, gesalzne häring die außge= <lb/> wässert seind, schneid voneinander, leg sie in <objectName ref="#milch">Milch</objectName>, vnd <lb/> laß darinen Waikhen ein stund oder Zwo, Wen sie waich <lb/> seind, so leg sie auf den <objectName ref="#rost">Rost</objectName>, brats gschwind himwekh, <lb/> richt es in ein schißl, geuß Buter drüber oder Senff, <lb/> so ist es guet. <lb/> Nimb häring die fein gewässert seind, mach sie ein mit <lb/> Puter, Erbesbrüe, vnd mit grüenen Wollschmekheten khreittern, <lb/> die khlain gehakht seind, machs ab mit <objectName ref="#pfeffer">Pfeffer</objectName>, Ingber, vnd <lb/> laß also Sieden, so ist es guet vnd Wolgeschmach. <lb/> </p>
             </div>
         </body>
     </text>

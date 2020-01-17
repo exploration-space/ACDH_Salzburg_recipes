@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Khidten<gap/>, auf ein Disch.3. oder <lb/> 4. siedt<gap/> sye woll lindt<gap/>, thue das <lb/> ober heidtl<gap/> herab, Darnach dreibs<gap/> <lb/> in ein Degl<gap/> Riehrs<gap/> ein stundt auf <lb/> einer seidten, nimb das weiss <lb/> von den Ayrn<gap/>, Clopf<gap/> es mit einen <lb/> Hilzen<gap/> <objectName ref="messer">messer</objectName> ab bis faimbig<gap/> <lb/><lb/> ( re 123 ) würdt, Darnach thue den Faumb<gap/> <lb/> allweill vnter die Khiten<gap/>, Riehes<gap/> <lb/> aber das nit Zu Lindt<gap/> wierdt, <lb/> Alsdan thues Auf ein Plöchne<gap/> <lb/> schissl<gap/>, fein hoch auf, wie ein berg <lb/> lass fein Khiell<gap/> Pachen<gap/>, das es <lb/> fein schön Gelfflet<gap/> wierdt, also <lb/> ist es Recht, es Muess<gap/> aber Gleich <lb/> auf den Disch Geben werden : <lb/> </p>
+        <p> Nimb Khidten<gap/>, auf ein Disch.3. oder <lb/> 4. siedt<gap/> sye woll lindt<gap/>, thue das <lb/> ober heidtl<gap/> herab, Darnach dreibs<gap/> <lb/> in ein Degl<gap/> Riehrs<gap/> ein stundt auf <lb/> einer seidten, nimb das weiss <lb/> von den Ayrn<gap/>, Clopf<gap/> es mit einen <lb/> Hilzen<gap/> <objectName ref="#messer">messer</objectName> ab bis faimbig<gap/> <lb/><lb/> ( re 123 ) würdt, Darnach thue den Faumb<gap/> <lb/> allweill vnter die Khiten<gap/>, Riehes<gap/> <lb/> aber das nit Zu Lindt<gap/> wierdt, <lb/> Alsdan thues Auf ein Plöchne<gap/> <lb/> schissl<gap/>, fein hoch auf, wie ein berg <lb/> lass fein Khiell<gap/> Pachen<gap/>, das es <lb/> fein schön Gelfflet<gap/> wierdt, also <lb/> ist es Recht, es Muess<gap/> aber Gleich <lb/> auf den Disch Geben werden : <lb/> </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimm 1.Pf. schönen <objectName ref="zucker">Zucker</objectName> <lb/> läutere ihn <lb/> mit einem <objectName ref="maesslein">Mäßlein</objectName> <objectName ref="wasser">Wasser</objectName> <lb/> laß ihn sieden <lb/> biß er schön dick wird <lb/> hernach nimm 12.Pomerantzen <lb/> schabe an einem Riebeisen das gelbe herab <lb/> binde es in ein Tüchlein <lb/> und sied es im <objectName ref="wasser">Wasser</objectName> in einer meßingen Pfannen <lb/> daß da Bittere oder Häutige davon gehet <lb/> thue es in den <objectName ref="zucker">Zucker</objectName> <lb/> laß 3.Sud aufthun <lb/> laß kalt werden <lb/> und verwahr es in einer Schaalen <lb/> oder <objectName ref="glas">Glas</objectName>. </p>
+        <p> Nimm 1.Pf. schönen <objectName ref="#zucker">Zucker</objectName> <lb/> läutere ihn <lb/> mit einem <objectName ref="#maesslein">Mäßlein</objectName> <objectName ref="#wasser">Wasser</objectName> <lb/> laß ihn sieden <lb/> biß er schön dick wird <lb/> hernach nimm 12.Pomerantzen <lb/> schabe an einem Riebeisen das gelbe herab <lb/> binde es in ein Tüchlein <lb/> und sied es im <objectName ref="#wasser">Wasser</objectName> in einer meßingen Pfannen <lb/> daß da Bittere oder Häutige davon gehet <lb/> thue es in den <objectName ref="#zucker">Zucker</objectName> <lb/> laß 3.Sud aufthun <lb/> laß kalt werden <lb/> und verwahr es in einer Schaalen <lb/> oder <objectName ref="#glas">Glas</objectName>. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Weiß <objectName ref="rueben">Rüben</objectName> im Senff <lb/> mit neuwem <objectName ref="wein">Wein</objectName> <lb/> der süß ist <lb/> angemacht <lb/> wol dick gesotten <lb/> vnnd durch ein Härin <objectName ref="tuch">Tuch</objectName> gestrichen <lb/> die Ruben in <objectName ref="wasser">Wasser</objectName> erst gesotten <lb/> das fein steiff ist. Oder daß man die Ruben brät <lb/> vnd wenn sie gebraten seyn <lb/> so schelet man sie <lb/> vnd leßt sie kalt werden <lb/> schneidt sie zu vier stücken <lb/> vnd thu sie in Senff <lb/> laß darinnen ligen <lb/> so wirdt es gut vnd wolgeschmack. </p>
+        <p> Weiß <objectName ref="#rueben">Rüben</objectName> im Senff <lb/> mit neuwem <objectName ref="#wein">Wein</objectName> <lb/> der süß ist <lb/> angemacht <lb/> wol dick gesotten <lb/> vnnd durch ein Härin <objectName ref="#tuch">Tuch</objectName> gestrichen <lb/> die Ruben in <objectName ref="#wasser">Wasser</objectName> erst gesotten <lb/> das fein steiff ist. Oder daß man die Ruben brät <lb/> vnd wenn sie gebraten seyn <lb/> so schelet man sie <lb/> vnd leßt sie kalt werden <lb/> schneidt sie zu vier stücken <lb/> vnd thu sie in Senff <lb/> laß darinnen ligen <lb/> so wirdt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

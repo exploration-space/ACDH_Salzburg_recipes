@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) geriebene <objectName ref="mandeln">Mandeln</objectName> <lb/> streich sie mit <objectName ref="wasser">Wasser</objectName> durch <lb/> thu sie in ein vberzindten <objectName ref="fischkessel">Fischkessel</objectName> <lb/> zuckers <lb/> vnnd rürs vmb <lb/> biß auffseudt <lb/> geuß ein wenig <objectName ref="rosenwasser">Rosenwasser</objectName> darein <lb/> vn ( n ) gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> oder laß kalt werden <lb/> wie du wilt <lb/> so ist es gut vnd wolgeschmack. </p>
+        <p> Nim ( m ) geriebene <objectName ref="#mandeln">Mandeln</objectName> <lb/> streich sie mit <objectName ref="#wasser">Wasser</objectName> durch <lb/> thu sie in ein vberzindten <objectName ref="#fischkessel">Fischkessel</objectName> <lb/> zuckers <lb/> vnnd rürs vmb <lb/> biß auffseudt <lb/> geuß ein wenig <objectName ref="#rosenwasser">Rosenwasser</objectName> darein <lb/> vn ( n ) gibs warm auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> oder laß kalt werden <lb/> wie du wilt <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

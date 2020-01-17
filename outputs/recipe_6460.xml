@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Du kanst auch ein Setzkuchen backe ( n ) auß einem <objectName ref="teig">Teig</objectName> <lb/> darauß man das Steigleder bäckt. </p>
+        <p> Du kanst auch ein Setzkuchen backe ( n ) auß einem <objectName ref="#teig">Teig</objectName> <lb/> darauß man das Steigleder bäckt. </p>
             </div>
         </body>
     </text>

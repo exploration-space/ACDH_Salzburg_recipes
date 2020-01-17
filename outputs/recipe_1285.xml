@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim die Höchten<gap/> schneidt<gap/> sye zu Stickhl<gap/>, <objectName ref="salz">salz</objectName> <lb/> ein wenig, und lege<gap/> sye in ein Rein<gap/>, gieß<gap/> <lb/> ein arbeß<gap/> Brie<gap/> daran, Leg<gap/> Roßenmarin<gap/> Le : <lb/> =monj<gap/> schöllen<gap/>, und Butter<gap/> darein, mach<gap/> es mit <lb/> Butter<gap/> und semmel<gap/> Breßl<gap/> zueri, so ist es fertig. <lb/> </p>
+        <p> Nim die Höchten<gap/> schneidt<gap/> sye zu Stickhl<gap/>, <objectName ref="#salz">salz</objectName> <lb/> ein wenig, und lege<gap/> sye in ein Rein<gap/>, gieß<gap/> <lb/> ein arbeß<gap/> Brie<gap/> daran, Leg<gap/> Roßenmarin<gap/> Le : <lb/> =monj<gap/> schöllen<gap/>, und Butter<gap/> darein, mach<gap/> es mit <lb/> Butter<gap/> und semmel<gap/> Breßl<gap/> zueri, so ist es fertig. <lb/> </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChählet die <objectName ref="nuesse">Nüsse</objectName> <lb/> daß die Kerne gantz bleiben <lb/> feuchtets mit <objectName ref="rosenwasser">Rosenwasser</objectName> und <objectName ref="zucker">Zucker</objectName> an <lb/> als wie die gebachene <objectName ref="mandeln">Mandeln</objectName> <lb/> und bachets aus einem Schmaltz schön gelb heraus. </p>
+        <p> SChählet die <objectName ref="#nuesse">Nüsse</objectName> <lb/> daß die Kerne gantz bleiben <lb/> feuchtets mit <objectName ref="#rosenwasser">Rosenwasser</objectName> und <objectName ref="#zucker">Zucker</objectName> an <lb/> als wie die gebachene <objectName ref="#mandeln">Mandeln</objectName> <lb/> und bachets aus einem Schmaltz schön gelb heraus. </p>
             </div>
         </body>
     </text>

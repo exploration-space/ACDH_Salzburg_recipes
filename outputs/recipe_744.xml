@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> wan der <objectName ref="wein">wein</objectName> Esßig wolt werden auch schon ange,, <lb/> fangen hete sauer zu werden, nimb ½ tt von neuen <lb/> vnd gelben wax, mach ein kleines Schöchterl da,, /rauf auch ein döckhl thue hönig darein, heng <lb/> es an ein <objectName ref="spagat">Spagat</objectName>, aber nicht gar auf den Poden /deß faß gehe, vermache den Spundt oben hero <lb/> woll daß kein dampf heraus mag, wirst <lb/> sehen daß der <objectName ref="wein">wein</objectName> die Sauere verlihret vnd wi,, <lb/> derumb sein Nattirlich geruch vnd Siesße yber,, <lb/> kombt daß thue in alle vasßer welche abstehen <lb/> wollen. <lb/> </p>
+        <p> wan der <objectName ref="#wein">wein</objectName> Esßig wolt werden auch schon ange,, <lb/> fangen hete sauer zu werden, nimb ½ tt von neuen <lb/> vnd gelben wax, mach ein kleines Schöchterl da,, /rauf auch ein döckhl thue hönig darein, heng <lb/> es an ein <objectName ref="#spagat">Spagat</objectName>, aber nicht gar auf den Poden /deß faß gehe, vermache den Spundt oben hero <lb/> woll daß kein dampf heraus mag, wirst <lb/> sehen daß der <objectName ref="#wein">wein</objectName> die Sauere verlihret vnd wi,, <lb/> derumb sein Nattirlich geruch vnd Siesße yber,, <lb/> kombt daß thue in alle vasßer welche abstehen <lb/> wollen. <lb/> </p>
             </div>
         </body>
     </text>

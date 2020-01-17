@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) kleine Braten von dem <objectName ref="hammel">Hammel</objectName> <lb/> die innwendig seyn bey den <objectName ref="nieren">Nieren</objectName> <lb/> spick sie fein klein <lb/> vnd mach sie in ein <objectName ref="pastete">Pasteten</objectName> <lb/> die von weissem <objectName ref="teig">Teig</objectName> ist auffgetrieben <lb/> eyn <lb/> pfeffers vnnd saltzs <lb/> schneidt gesaltzen Limonien fein breit darüber/ machs zu <lb/> vnd backs <lb/> schneidts auff <lb/> vn ( d ) geuß ein saure Brüh <lb/> die mit Eyerdottern gemacht ist <lb/> darein <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
+        <p> Nim ( m ) kleine Braten von dem <objectName ref="#hammel">Hammel</objectName> <lb/> die innwendig seyn bey den <objectName ref="#nieren">Nieren</objectName> <lb/> spick sie fein klein <lb/> vnd mach sie in ein <objectName ref="#pastete">Pasteten</objectName> <lb/> die von weissem <objectName ref="#teig">Teig</objectName> ist auffgetrieben <lb/> eyn <lb/> pfeffers vnnd saltzs <lb/> schneidt gesaltzen Limonien fein breit darüber/ machs zu <lb/> vnd backs <lb/> schneidts auff <lb/> vn ( d ) geuß ein saure Brüh <lb/> die mit Eyerdottern gemacht ist <lb/> darein <lb/> gibs warm auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

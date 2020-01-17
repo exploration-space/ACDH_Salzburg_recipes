@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Hackh zwifel klain, stoß khiml klain, hackh <lb/> Petersill, gestosßen klain darein, laß die Supen <lb/> woll einsieden, Seut die Grundl fein haiß, <lb/> doch nit an die stoth, so werns fein hört vnd <lb/> fahens <objectName ref="salz">Salz</objectName>, wan die grundl haiß sein gesoten, <lb/> solegs in die Supen, laß Sieden, biß an die stodt, <lb/> gewürz mit Imber, <objectName ref="pfeffer">Pfeffer</objectName>, vnd zuggers <lb/> zimblich, so sein Sie guet, vnd gibs den bauer ( n ). <lb/> </p>
+        <p> Hackh zwifel klain, stoß khiml klain, hackh <lb/> Petersill, gestosßen klain darein, laß die Supen <lb/> woll einsieden, Seut die Grundl fein haiß, <lb/> doch nit an die stoth, so werns fein hört vnd <lb/> fahens <objectName ref="#salz">Salz</objectName>, wan die grundl haiß sein gesoten, <lb/> solegs in die Supen, laß Sieden, biß an die stodt, <lb/> gewürz mit Imber, <objectName ref="#pfeffer">Pfeffer</objectName>, vnd zuggers <lb/> zimblich, so sein Sie guet, vnd gibs den bauer ( n ). <lb/> </p>
             </div>
         </body>
     </text>

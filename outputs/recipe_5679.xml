@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAn nimmt entweder frische oder auch nur eingemachte Weixeln <lb/> läst sie im <objectName ref="wein">Wein</objectName> sieden <lb/> und zuckerts nach gefallen : indessen röstet man ein würfflicht= geschnittenes Eyer= oder anderes weisses Brod fein trocken im Schmaltz <lb/> thut es in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> richtet dann die gedünstete Weixeln zusamt der Brüh darüber <lb/> setzt es auf ein Kohlfeuer <lb/> und läst es noch einem Wall also zusammen aufthun. </p>
+        <p> MAn nimmt entweder frische oder auch nur eingemachte Weixeln <lb/> läst sie im <objectName ref="#wein">Wein</objectName> sieden <lb/> und zuckerts nach gefallen : indessen röstet man ein würfflicht= geschnittenes Eyer= oder anderes weisses Brod fein trocken im Schmaltz <lb/> thut es in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> richtet dann die gedünstete Weixeln zusamt der Brüh darüber <lb/> setzt es auf ein Kohlfeuer <lb/> und läst es noch einem Wall also zusammen aufthun. </p>
             </div>
         </body>
     </text>

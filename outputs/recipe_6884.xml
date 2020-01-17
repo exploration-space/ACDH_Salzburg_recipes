@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) schwartze Weinbeer <lb/> zerstoß sie <lb/> vn ( d ) thu etliche Eyerdotter darvnter <lb/> vnd ein wenig <objectName ref="zucker">Zucker</objectName> <lb/> rür es damit ab <lb/> so ist es ein gute Füll zu einer Turten. </p>
+        <p> Nim ( m ) schwartze Weinbeer <lb/> zerstoß sie <lb/> vn ( d ) thu etliche Eyerdotter darvnter <lb/> vnd ein wenig <objectName ref="#zucker">Zucker</objectName> <lb/> rür es damit ab <lb/> so ist es ein gute Füll zu einer Turten. </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SIede <lb/> oder bache die <objectName ref="fisch">Fisch</objectName> <lb/> und gibs mit folgender <objectName ref="bruehe">Brühe</objectName> <lb/> röste viel Zwibel mit Aepffel in gutem Schmaltz <lb/> oder <objectName ref="butter">Butter</objectName> <lb/> mit wenig Semmel= Brosen <lb/> gieß daran weissen <objectName ref="wein">Wein</objectName> <lb/> wenig Eßig <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> und süß Gewürtz; laß mit einander sieden <lb/> treibs duch <lb/> und gibs über die <objectName ref="fisch">Fisch</objectName>. </p>
+        <p> SIede <lb/> oder bache die <objectName ref="#fisch">Fisch</objectName> <lb/> und gibs mit folgender <objectName ref="#bruehe">Brühe</objectName> <lb/> röste viel Zwibel mit Aepffel in gutem Schmaltz <lb/> oder <objectName ref="#butter">Butter</objectName> <lb/> mit wenig Semmel= Brosen <lb/> gieß daran weissen <objectName ref="#wein">Wein</objectName> <lb/> wenig Eßig <lb/> <objectName ref="#zucker">Zucker</objectName> <lb/> und süß Gewürtz; laß mit einander sieden <lb/> treibs duch <lb/> und gibs über die <objectName ref="#fisch">Fisch</objectName>. </p>
             </div>
         </body>
     </text>

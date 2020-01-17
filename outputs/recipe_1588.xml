@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb frische Päßlbier, die gar zeitig sein, <lb/> 4. hannt voll, darnach nimbs in ain bökh od ( er ) <lb/> Rhein, vnnd Nimb ain <objectName ref="vierling">vierling</objectName> Zugger vnd <lb/> reste sie auf ainner gluet biß sie waich sein, <lb/> darnach nimbs auf ain Saubers Sibl, schlags <lb/> durch, Nimb.1 ½. vierlinng zugger darzue, <lb/> vnd nimb.5. ayr Clar, vnd brauche sie wie <lb/> oben stehet. <lb/> </p>
+        <p> Nimb frische Päßlbier, die gar zeitig sein, <lb/> 4. hannt voll, darnach nimbs in ain bökh od ( er ) <lb/> Rhein, vnnd Nimb ain <objectName ref="#vierling">vierling</objectName> Zugger vnd <lb/> reste sie auf ainner gluet biß sie waich sein, <lb/> darnach nimbs auf ain Saubers Sibl, schlags <lb/> durch, Nimb.1 ½. vierlinng zugger darzue, <lb/> vnd nimb.5. ayr Clar, vnd brauche sie wie <lb/> oben stehet. <lb/> </p>
             </div>
         </body>
     </text>

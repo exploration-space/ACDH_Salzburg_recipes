@@ -180,7 +180,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Take six Pounds of Currants, five Pounds of Flour, an Ounce of mace and Cloves, a little Cinnamon, Half an Ounce of Nutmegs, Half a Pound of blanched Almonds pounded, Half a Pound of Sugar, three Quarters of a Pound of sliced Citron, Lemon and Orange-peel, Half a Pint of <objectName ref="sack">Sack</objectName>, a little Honey-water, and a <objectName ref="quart">Quart</objectName> of Ale Yeast, a <objectName ref="quart">Quart</objectName> of Cream, a Pound and Half of <objectName ref="butter">Butter</objectName> melted; then strew a little Flour thereon, and lay it before the Fire to rise; then work it up till it is very smooth, and put it in a Hoop, with a Paper floured at the Bottom. </p>
+        <p> Take six Pounds of Currants, five Pounds of Flour, an Ounce of mace and Cloves, a little Cinnamon, Half an Ounce of Nutmegs, Half a Pound of blanched Almonds pounded, Half a Pound of Sugar, three Quarters of a Pound of sliced Citron, Lemon and Orange-peel, Half a Pint of <objectName ref="#sack">Sack</objectName>, a little Honey-water, and a <objectName ref="#quart">Quart</objectName> of Ale Yeast, a <objectName ref="#quart">Quart</objectName> of Cream, a Pound and Half of <objectName ref="#butter">Butter</objectName> melted; then strew a little Flour thereon, and lay it before the Fire to rise; then work it up till it is very smooth, and put it in a Hoop, with a Paper floured at the Bottom. </p>
             </div>
         </body>
     </text>

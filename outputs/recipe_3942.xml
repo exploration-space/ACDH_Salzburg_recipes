@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm einen guten frisch= geriebenen Parmasan= Käß <lb/> schlage Eyer daran <lb/> mische ein wenig gerieben Semmel= <objectName ref="mehl">Mehl</objectName> darunter <lb/> zuckere und gilbe ihn; mach also eine starcke Füll an <lb/> streichs auf eine <objectName ref="oblaten">Oblaten</objectName> <lb/> bedecke sie mit einer andern <objectName ref="oblaten">Oblaten</objectName> <lb/> schneide groß oder kleine Stücke daraus <lb/> duncke sie an den Seiten in ein zerklopfftes Ey <lb/> legs in ein Schmaltz <lb/> kehrs bald um <lb/> bachs schön heraus <lb/> und trags dann warm zu <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> NImm einen guten frisch= geriebenen Parmasan= Käß <lb/> schlage Eyer daran <lb/> mische ein wenig gerieben Semmel= <objectName ref="#mehl">Mehl</objectName> darunter <lb/> zuckere und gilbe ihn; mach also eine starcke Füll an <lb/> streichs auf eine <objectName ref="#oblaten">Oblaten</objectName> <lb/> bedecke sie mit einer andern <objectName ref="#oblaten">Oblaten</objectName> <lb/> schneide groß oder kleine Stücke daraus <lb/> duncke sie an den Seiten in ein zerklopfftes Ey <lb/> legs in ein Schmaltz <lb/> kehrs bald um <lb/> bachs schön heraus <lb/> und trags dann warm zu <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

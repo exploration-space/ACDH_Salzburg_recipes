@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Biersuppen mit Eyerdottern süß gemacht <lb/> vnnd mit <objectName ref="butter">Butter</objectName> auffsieden lassen <lb/> machs gelb oder nicht <lb/> vnnd wenns auffgesotten hat <lb/> so saltzs ein wenig. </p>
+        <p> Biersuppen mit Eyerdottern süß gemacht <lb/> vnnd mit <objectName ref="#butter">Butter</objectName> auffsieden lassen <lb/> machs gelb oder nicht <lb/> vnnd wenns auffgesotten hat <lb/> so saltzs ein wenig. </p>
             </div>
         </body>
     </text>

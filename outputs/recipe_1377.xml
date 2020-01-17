@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> zieche<gap/> erst : die mandl<gap/> ab Stosß<gap/> in einen <lb/> merser<gap/> so Klein alß du Kanst, gieß<gap/> ein rämb<gap/> <lb/> daran, treibs<gap/> bräf ab, gieß<gap/> in eine kupferne <lb/> pfann<gap/>, lög<gap/> ein zuckher<gap/> dran, daß es sieß wird, <lb/> söz auf daß feuer<gap/>, Klopfs<gap/> mit einen löfl ab, <lb/> daß nit anbrint<gap/>, <objectName ref="salz">salz</objectName> es, richts<gap/> über bäthe<gap/> <lb/> schnidl<gap/> an, gilbs<gap/>. ist guet. </p>
+        <p> zieche<gap/> erst : die mandl<gap/> ab Stosß<gap/> in einen <lb/> merser<gap/> so Klein alß du Kanst, gieß<gap/> ein rämb<gap/> <lb/> daran, treibs<gap/> bräf ab, gieß<gap/> in eine kupferne <lb/> pfann<gap/>, lög<gap/> ein zuckher<gap/> dran, daß es sieß wird, <lb/> söz auf daß feuer<gap/>, Klopfs<gap/> mit einen löfl ab, <lb/> daß nit anbrint<gap/>, <objectName ref="#salz">salz</objectName> es, richts<gap/> über bäthe<gap/> <lb/> schnidl<gap/> an, gilbs<gap/>. ist guet. </p>
             </div>
         </body>
     </text>

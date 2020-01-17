@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wann der Haussen frisch und sauber gewaschen <lb/> und von dem Schleim gereiniget <lb/> so wird er zu dünnen Stucken geschnitten <lb/> gesaltzen und eingemelbt <lb/> und wie andere <objectName ref="fisch">Fisch</objectName> <lb/> aus gutem heissen Schmatz <lb/> oder Oel gebachen <lb/> und dann mit Lorbeer=Laub <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> und Eßig <lb/> in ein erdenes <lb/> oder nach Beschaffenheit der Menge in höltzerne <objectName ref="geschirr">Geschirr</objectName> gericht <lb/> Oel und Eßig darüber gegossen <lb/> wohl zugedeckt <lb/> oder gar beschwehrt <lb/> und nach Belieben darvon gebraucht </p>
+        <p> Wann der Haussen frisch und sauber gewaschen <lb/> und von dem Schleim gereiniget <lb/> so wird er zu dünnen Stucken geschnitten <lb/> gesaltzen und eingemelbt <lb/> und wie andere <objectName ref="#fisch">Fisch</objectName> <lb/> aus gutem heissen Schmatz <lb/> oder Oel gebachen <lb/> und dann mit Lorbeer=Laub <lb/> <objectName ref="#rosmarin">Rosmarin</objectName> <lb/> <objectName ref="#knoblauch">Knoblauch</objectName> <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> und Eßig <lb/> in ein erdenes <lb/> oder nach Beschaffenheit der Menge in höltzerne <objectName ref="#geschirr">Geschirr</objectName> gericht <lb/> Oel und Eßig darüber gegossen <lb/> wohl zugedeckt <lb/> oder gar beschwehrt <lb/> und nach Belieben darvon gebraucht </p>
             </div>
         </body>
     </text>

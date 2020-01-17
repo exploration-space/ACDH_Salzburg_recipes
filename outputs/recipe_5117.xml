@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Sültzen <lb/> koch vnd schneidt sie gar klein <lb/> hack <objectName ref="speck">Speck</objectName> vn ( d ) Zwibel durcheinander <lb/> vnd laß mit Rindtfleischbrüh wol sieden <lb/> geuß alsdenn vber die klein geschnitten Sültzen <lb/> vnd machs ein wenig seurlich <lb/> thu frische vnzerlassene <objectName ref="butter">Butter</objectName> darein <lb/> vnd laß wider damit auffsieden <lb/> so wirt es weiß vnd wolgeschmack. Vnd wenn du es wilt anrichten <lb/> so schneidt grüne <objectName ref="kraeuter">Kräuter</objectName> klein darein <lb/> vn ( d ) laß ein Sodt darmit auffthun <lb/> daß die <objectName ref="kraeuter">Kräuter</objectName> die Farb nicht verlieren <lb/> so sihet es fein lieblich. </p>
+        <p> Nim ( m ) Sültzen <lb/> koch vnd schneidt sie gar klein <lb/> hack <objectName ref="#speck">Speck</objectName> vn ( d ) Zwibel durcheinander <lb/> vnd laß mit Rindtfleischbrüh wol sieden <lb/> geuß alsdenn vber die klein geschnitten Sültzen <lb/> vnd machs ein wenig seurlich <lb/> thu frische vnzerlassene <objectName ref="#butter">Butter</objectName> darein <lb/> vnd laß wider damit auffsieden <lb/> so wirt es weiß vnd wolgeschmack. Vnd wenn du es wilt anrichten <lb/> so schneidt grüne <objectName ref="#kraeuter">Kräuter</objectName> klein darein <lb/> vn ( d ) laß ein Sodt darmit auffthun <lb/> daß die <objectName ref="#kraeuter">Kräuter</objectName> die Farb nicht verlieren <lb/> so sihet es fein lieblich. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Karwenada vom Salm mit saur Limonien <lb/> fein breit geschnitten <lb/> vnnd darauff gelegt <lb/> oder nim ein wenig <objectName ref="weinessig">Weinessig</objectName> <lb/> auch <objectName ref="butter">Butter</objectName> <lb/> die frisch vnd vngeschmältzet ist <lb/> ein wenig gestossen <objectName ref="pfeffer">Pfeffer</objectName> vnd Saltz <lb/> laß es miteinander auffsieden <lb/> vnd wenn das Karwenada gebraten ist <lb/> so geußt man es obe darüber <lb/> oder schneidt ein wenig Knobloch darein <lb/> oder thu in die Brüh ein wenig Agrastbeer <lb/> vnd laß darmit auffsieden <lb/> so wirt es gut vnd wolgeschmack. </p>
+        <p> Karwenada vom Salm mit saur Limonien <lb/> fein breit geschnitten <lb/> vnnd darauff gelegt <lb/> oder nim ein wenig <objectName ref="#weinessig">Weinessig</objectName> <lb/> auch <objectName ref="#butter">Butter</objectName> <lb/> die frisch vnd vngeschmältzet ist <lb/> ein wenig gestossen <objectName ref="#pfeffer">Pfeffer</objectName> vnd Saltz <lb/> laß es miteinander auffsieden <lb/> vnd wenn das Karwenada gebraten ist <lb/> so geußt man es obe darüber <lb/> oder schneidt ein wenig Knobloch darein <lb/> oder thu in die Brüh ein wenig Agrastbeer <lb/> vnd laß darmit auffsieden <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

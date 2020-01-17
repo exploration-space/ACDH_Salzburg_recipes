@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> LAß eine halbe <objectName ref="maas">Maas</objectName> <objectName ref="fleischbruehe">Fleischbrühe</objectName> siedend werden <lb/> rühre halb so viel Milchram oder sauren Ram darein; thue Ingber <lb/> Saffran und ein wenig <objectName ref="essig">Essig</objectName> dazu <lb/> laß noch einmal aufsieden <lb/> und richts über weisses würfftlicht= geschnittenes Brod an. Wann man will <lb/> kan der Milchram auch nur mit kalter <objectName ref="fleischbruehe">Fleischbrühe</objectName> angerühret werden. </p>
+        <p> LAß eine halbe <objectName ref="#maas">Maas</objectName> <objectName ref="#fleischbruehe">Fleischbrühe</objectName> siedend werden <lb/> rühre halb so viel Milchram oder sauren Ram darein; thue Ingber <lb/> Saffran und ein wenig <objectName ref="#essig">Essig</objectName> dazu <lb/> laß noch einmal aufsieden <lb/> und richts über weisses würfftlicht= geschnittenes Brod an. Wann man will <lb/> kan der Milchram auch nur mit kalter <objectName ref="#fleischbruehe">Fleischbrühe</objectName> angerühret werden. </p>
             </div>
         </body>
     </text>

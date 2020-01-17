@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="gerste">Gersten</objectName> <lb/> die gesotten ist mit Rindtfleischbrüh <lb/> nicht gar zu dick <lb/> daß dünn vnd wolgeschmack ist. Nim ( m ) ein Hammelschlegel <lb/> der braun gebraten <lb/> vnd fein mürb ist <lb/> vnnd wenn du jhn anrichtest in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> so geuß die <objectName ref="gerste">Gersten</objectName> daüber <lb/> thu gestossen <objectName ref="pfeffer">Pfeffer</objectName> darvnter <lb/> so wirt die <objectName ref="gerste">Gersten</objectName> sampt dem Hammelschlegel fein braun. Du magst die <objectName ref="gerste">Gersten</objectName> saur machen oder nicht <lb/> so ist es gut vnd wolgeschmack <lb/> kost nicht viel <lb/> hat aber grosse müh. </p>
+        <p> <objectName ref="#gerste">Gersten</objectName> <lb/> die gesotten ist mit Rindtfleischbrüh <lb/> nicht gar zu dick <lb/> daß dünn vnd wolgeschmack ist. Nim ( m ) ein Hammelschlegel <lb/> der braun gebraten <lb/> vnd fein mürb ist <lb/> vnnd wenn du jhn anrichtest in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> so geuß die <objectName ref="#gerste">Gersten</objectName> daüber <lb/> thu gestossen <objectName ref="#pfeffer">Pfeffer</objectName> darvnter <lb/> so wirt die <objectName ref="#gerste">Gersten</objectName> sampt dem Hammelschlegel fein braun. Du magst die <objectName ref="#gerste">Gersten</objectName> saur machen oder nicht <lb/> so ist es gut vnd wolgeschmack <lb/> kost nicht viel <lb/> hat aber grosse müh. </p>
             </div>
         </body>
     </text>

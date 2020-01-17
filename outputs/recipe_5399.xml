@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> RÖstet das <objectName ref="mehl">Mehl</objectName> wohl trocken im Schmaltz <lb/> schüttet in einem <objectName ref="geschirr">Geschirr</objectName> einen kalten <objectName ref="wein">Wein</objectName> daran <lb/> doch nicht zu viel <lb/> sondern nur daß das <objectName ref="mehl">Mehl</objectName> damit eingenetzet werde; rühret ihn mit Eyer= weiß ab <lb/> setzt ihn auf ein heisses <objectName ref="wasser">Wasser</objectName> <lb/> daß er warm bleibt <lb/> ziehet die Weixeln dadurch <lb/> und bachets aus Schmaltz. </p>
+        <p> RÖstet das <objectName ref="#mehl">Mehl</objectName> wohl trocken im Schmaltz <lb/> schüttet in einem <objectName ref="#geschirr">Geschirr</objectName> einen kalten <objectName ref="#wein">Wein</objectName> daran <lb/> doch nicht zu viel <lb/> sondern nur daß das <objectName ref="#mehl">Mehl</objectName> damit eingenetzet werde; rühret ihn mit Eyer= weiß ab <lb/> setzt ihn auf ein heisses <objectName ref="#wasser">Wasser</objectName> <lb/> daß er warm bleibt <lb/> ziehet die Weixeln dadurch <lb/> und bachets aus Schmaltz. </p>
             </div>
         </body>
     </text>

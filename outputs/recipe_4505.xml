@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BAche den <objectName ref="hecht">Hecht</objectName> und lege ihn in die <objectName ref="schuessel">Schüssel</objectName> <lb/> dann nimm Cucummern <lb/> so groß du sie haben kanst <lb/> scheele sie <lb/> und mache sie zu Spalten <lb/> thue das weiche heraus <lb/> und schneide sie würfflet <lb/> saltz ein <lb/> schwings in Meel <lb/> und bachs aus heissem Schmaltz <lb/> legs zu dem <objectName ref="fisch">Fisch</objectName> <lb/> gieß gute Erbsen= <objectName ref="bruehe">Brühe</objectName> mit gar wenig Wein= Eßig <lb/> Gewütz <lb/> und kleingehackten Petersil= Kräutlein <lb/> auch wenig <objectName ref="butter">Butter</objectName> darzu <lb/> laß damit einen Sud aufthun <lb/> und gibs zu <objectName ref="tisch">Tisch</objectName>. Cucummern = <objectName ref="gurken">Gurken</objectName> </p>
+        <p> BAche den <objectName ref="#hecht">Hecht</objectName> und lege ihn in die <objectName ref="#schuessel">Schüssel</objectName> <lb/> dann nimm Cucummern <lb/> so groß du sie haben kanst <lb/> scheele sie <lb/> und mache sie zu Spalten <lb/> thue das weiche heraus <lb/> und schneide sie würfflet <lb/> saltz ein <lb/> schwings in Meel <lb/> und bachs aus heissem Schmaltz <lb/> legs zu dem <objectName ref="#fisch">Fisch</objectName> <lb/> gieß gute Erbsen= <objectName ref="#bruehe">Brühe</objectName> mit gar wenig Wein= Eßig <lb/> Gewütz <lb/> und kleingehackten Petersil= Kräutlein <lb/> auch wenig <objectName ref="#butter">Butter</objectName> darzu <lb/> laß damit einen Sud aufthun <lb/> und gibs zu <objectName ref="#tisch">Tisch</objectName>. Cucummern = <objectName ref="#gurken">Gurken</objectName> </p>
             </div>
         </body>
     </text>

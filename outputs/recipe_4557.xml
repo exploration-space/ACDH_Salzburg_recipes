@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> HAcke die <objectName ref="feigen">Feigen</objectName> und siede sie im <objectName ref="wein">Wein</objectName>; reibe alsdann Leb= oder Pfeffer= Kuchen und rocken Brod eines so viel als deß andern <lb/> röste es zusammen in <objectName ref="butter">Butter</objectName> <lb/> und gieß den <objectName ref="wein">Wein</objectName> zusamt denen <objectName ref="feigen">Feigen</objectName> darein <lb/> kochs alsdann zu einem Mus <lb/> streue Zimmet und <objectName ref="zucker">Zucker</objectName> darunter <lb/> und richt es an. </p>
+        <p> HAcke die <objectName ref="#feigen">Feigen</objectName> und siede sie im <objectName ref="#wein">Wein</objectName>; reibe alsdann Leb= oder Pfeffer= Kuchen und rocken Brod eines so viel als deß andern <lb/> röste es zusammen in <objectName ref="#butter">Butter</objectName> <lb/> und gieß den <objectName ref="#wein">Wein</objectName> zusamt denen <objectName ref="#feigen">Feigen</objectName> darein <lb/> kochs alsdann zu einem Mus <lb/> streue Zimmet und <objectName ref="#zucker">Zucker</objectName> darunter <lb/> und richt es an. </p>
             </div>
         </body>
     </text>

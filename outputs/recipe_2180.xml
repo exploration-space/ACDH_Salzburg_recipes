@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schiepp die schen, schneids Zu stükhlein, <objectName ref="salz">salz</objectName> es, rest es im <objectName ref="schmalz">schmalz</objectName> fein <lb/> braun, die brüe mach also, rest ein geribne Sembl im <objectName ref="schmalz">schmalz</objectName>, fein <lb/> braunlet, geuß <objectName ref="wein">Wein</objectName> darein, Arbesbrüe, gewürz, buz puz die <lb/> Wurzl von Petersill, vnd schneids fein gewürfflet, nimb auch von <lb/> dem khraut die gipfl, oder schene stämbl, Wirffs mit den Würzln <lb/> in das haisß <objectName ref="schmalz">schmalz</objectName>, so bleibt das khraut grüen, nimbs gschwind <lb/> Wider herauß, thue es mit der Prüe in den <objectName ref="fisch">fisch</objectName>, laß ein Weill <lb/> sieden, richts an. <lb/> </p>
+        <p> Schiepp die schen, schneids Zu stükhlein, <objectName ref="#salz">salz</objectName> es, rest es im <objectName ref="#schmalz">schmalz</objectName> fein <lb/> braun, die brüe mach also, rest ein geribne Sembl im <objectName ref="#schmalz">schmalz</objectName>, fein <lb/> braunlet, geuß <objectName ref="#wein">Wein</objectName> darein, Arbesbrüe, gewürz, buz puz die <lb/> Wurzl von Petersill, vnd schneids fein gewürfflet, nimb auch von <lb/> dem khraut die gipfl, oder schene stämbl, Wirffs mit den Würzln <lb/> in das haisß <objectName ref="#schmalz">schmalz</objectName>, so bleibt das khraut grüen, nimbs gschwind <lb/> Wider herauß, thue es mit der Prüe in den <objectName ref="#fisch">fisch</objectName>, laß ein Weill <lb/> sieden, richts an. <lb/> </p>
             </div>
         </body>
     </text>

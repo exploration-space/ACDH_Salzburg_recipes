@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SIe sey frisch <lb/> oder geselcht <lb/> so wird sie allweg andern <objectName ref="zunge">Zungen</objectName> gleich gesotten <lb/> und zugericht; wie bey der Ochsen= Zung vielfältig gemeldt worden <lb/> im Ersten Capitel dises Buchs <lb/> von N°. 29. biß N°. 48. </p>
+        <p> SIe sey frisch <lb/> oder geselcht <lb/> so wird sie allweg andern <objectName ref="#zunge">Zungen</objectName> gleich gesotten <lb/> und zugericht; wie bey der Ochsen= Zung vielfältig gemeldt worden <lb/> im Ersten Capitel dises Buchs <lb/> von N°. 29. biß N°. 48. </p>
             </div>
         </body>
     </text>

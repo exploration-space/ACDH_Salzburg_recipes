@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> POrzalack= <objectName ref="kraut">Kraut</objectName> geklaubt <lb/> gebrüht <lb/> ist gut in weisser Butter= <objectName ref="bruehe">Brühe</objectName> <lb/> mit oder ohne Käß. </p>
+        <p> POrzalack= <objectName ref="#kraut">Kraut</objectName> geklaubt <lb/> gebrüht <lb/> ist gut in weisser Butter= <objectName ref="#bruehe">Brühe</objectName> <lb/> mit oder ohne Käß. </p>
             </div>
         </body>
     </text>

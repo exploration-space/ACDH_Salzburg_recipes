@@ -180,7 +180,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Cut open a living Pike, gut it and scour the Outside and Inside very well with Salt; then wash it clean, and have a Pickle ready to boil it in, with Water, Vinegar, Mace, whole Pepper, a Bunch of sweet Herbs, and a small Onion. There must be Liquor enough to cover it; when it boils put in the Pike, and let it boil half an Hour. Make your <objectName ref="sauce">Sauce</objectName> with White Wine, a little of the Liquor, two Anchovies, some Shrimps, or Crab, or Lobster; beat and mix it with grated Nutmeg and <objectName ref="butter">Butter</objectName> flour 'd to thicken it. Pour your <objectName ref="sauce">Sauce</objectName> over the Fish, and garnish with Horse Radish and sliced Lemon. </p>
+        <p> Cut open a living Pike, gut it and scour the Outside and Inside very well with Salt; then wash it clean, and have a Pickle ready to boil it in, with Water, Vinegar, Mace, whole Pepper, a Bunch of sweet Herbs, and a small Onion. There must be Liquor enough to cover it; when it boils put in the Pike, and let it boil half an Hour. Make your <objectName ref="#sauce">Sauce</objectName> with White Wine, a little of the Liquor, two Anchovies, some Shrimps, or Crab, or Lobster; beat and mix it with grated Nutmeg and <objectName ref="#butter">Butter</objectName> flour 'd to thicken it. Pour your <objectName ref="#sauce">Sauce</objectName> over the Fish, and garnish with Horse Radish and sliced Lemon. </p>
             </div>
         </body>
     </text>

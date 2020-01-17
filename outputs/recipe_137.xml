@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Bratte<gap/> die <objectName ref="gans">Gans</objectName> oder Änten<gap/> schen <lb/> als wie man sye sonsten bradt<gap/> <lb/> Nimb ein schene frische wurzen <lb/> Khren<gap/> buz sye Sauber schneide <lb/> sye Zu blätl<gap/> so dann lass sye <lb/> schen Klein stossen<gap/> Nimb auch <lb/><lb/> ( ve 61 ) ein handt voll abgezogne<gap/> Mandl <lb/> stoss<gap/> sye auch schen Khlein Nimb <lb/> ein Guettes seitl<gap/> siess obers<gap/> <lb/> lass es siedten<gap/> thue die Mandl <lb/> vnnd den Khren darein Zuckhere <lb/> es woll siess<gap/> Gewierze<gap/> es mit <lb/> Muscätblie<gap/> löge noch ein stickhl<gap/> <lb/> <objectName ref="butter">butter</objectName> daran lass es noch ein <lb/> sittl<gap/> thuem richte ihn yber daß <lb/> Gebrattne<gap/> an gibs also ist es Guett <lb/> </p>
+        <p> Bratte<gap/> die <objectName ref="#gans">Gans</objectName> oder Änten<gap/> schen <lb/> als wie man sye sonsten bradt<gap/> <lb/> Nimb ein schene frische wurzen <lb/> Khren<gap/> buz sye Sauber schneide <lb/> sye Zu blätl<gap/> so dann lass sye <lb/> schen Klein stossen<gap/> Nimb auch <lb/><lb/> ( ve 61 ) ein handt voll abgezogne<gap/> Mandl <lb/> stoss<gap/> sye auch schen Khlein Nimb <lb/> ein Guettes seitl<gap/> siess obers<gap/> <lb/> lass es siedten<gap/> thue die Mandl <lb/> vnnd den Khren darein Zuckhere <lb/> es woll siess<gap/> Gewierze<gap/> es mit <lb/> Muscätblie<gap/> löge noch ein stickhl<gap/> <lb/> <objectName ref="#butter">butter</objectName> daran lass es noch ein <lb/> sittl<gap/> thuem richte ihn yber daß <lb/> Gebrattne<gap/> an gibs also ist es Guett <lb/> </p>
             </div>
         </body>
     </text>

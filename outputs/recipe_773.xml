@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Die Ammerellen werden mit Semmel=Brößlein in <objectName ref="butter">Butter</objectName> geröst <lb/> sammt wenig <objectName ref="zucker">Zucker</objectName> <lb/> Gewürtz <lb/> und so es beliebt <lb/> mit wenig <objectName ref="wein">Wein</objectName> <lb/> gemacht. NB. Ammerellen in die Dorten und Müsser <lb/> seynd so wol in dem 2. Theil <lb/> anderte Buch <lb/> bey denen Dorten <lb/> als auch im vierdten Theil <lb/> anderten Buch <lb/> im 3. und 4. Capitel <lb/> bey denen Früchten=Müssern schon beschriebner zu finden. </p>
+        <p> Die Ammerellen werden mit Semmel=Brößlein in <objectName ref="#butter">Butter</objectName> geröst <lb/> sammt wenig <objectName ref="#zucker">Zucker</objectName> <lb/> Gewürtz <lb/> und so es beliebt <lb/> mit wenig <objectName ref="#wein">Wein</objectName> <lb/> gemacht. NB. Ammerellen in die Dorten und Müsser <lb/> seynd so wol in dem 2. Theil <lb/> anderte Buch <lb/> bey denen Dorten <lb/> als auch im vierdten Theil <lb/> anderten Buch <lb/> im 3. und 4. Capitel <lb/> bey denen Früchten=Müssern schon beschriebner zu finden. </p>
             </div>
         </body>
     </text>

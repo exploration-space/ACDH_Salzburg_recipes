@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Du kanst auch auß der <objectName ref="brust">Brust</objectName> kleine <objectName ref="pastete">Pasteten</objectName> machen. </p>
+        <p> Du kanst auch auß der <objectName ref="#brust">Brust</objectName> kleine <objectName ref="#pastete">Pasteten</objectName> machen. </p>
             </div>
         </body>
     </text>

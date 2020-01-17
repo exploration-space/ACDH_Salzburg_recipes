@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Reiß vnd stosß ihn Woll vnd khlain, schlag ihn durch ein siblein, <lb/> nimb dan ein Mandlmilch, laß es sieden, in einem glasierten <lb/> <objectName ref="hafen">hafen</objectName>, so sie Wallt, so geuß : <lb/><lb/> ( 18v ) </p>
+        <p> Nimb Reiß vnd stosß ihn Woll vnd khlain, schlag ihn durch ein siblein, <lb/> nimb dan ein Mandlmilch, laß es sieden, in einem glasierten <lb/> <objectName ref="#hafen">hafen</objectName>, so sie Wallt, so geuß : <lb/><lb/> ( 18v ) </p>
             </div>
         </body>
     </text>

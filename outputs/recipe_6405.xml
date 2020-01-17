@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Item <lb/> nim ( m ) <objectName ref="asche">Aschen</objectName> von Beyfuß <lb/> zu einem Eymer ein Handt voll <lb/> vnd so viel Büchen <objectName ref="asche">Aschen</objectName> <lb/> vermisch wol ineinander mit <objectName ref="bier">Bier</objectName> <lb/> als ein Muß <lb/> vnd der Mixtur geuß in ein gantz <objectName ref="fuder">Fuder</objectName> <objectName ref="bier">Bier</objectName> anderthalben Quarten <lb/> vnd rür es wol mit einem Besem <lb/> laß darnach ruhen <lb/> so wirdt es gantz lustig zu trincken. </p>
+        <p> Item <lb/> nim ( m ) <objectName ref="#asche">Aschen</objectName> von Beyfuß <lb/> zu einem Eymer ein Handt voll <lb/> vnd so viel Büchen <objectName ref="#asche">Aschen</objectName> <lb/> vermisch wol ineinander mit <objectName ref="#bier">Bier</objectName> <lb/> als ein Muß <lb/> vnd der Mixtur geuß in ein gantz <objectName ref="#fuder">Fuder</objectName> <objectName ref="#bier">Bier</objectName> anderthalben Quarten <lb/> vnd rür es wol mit einem Besem <lb/> laß darnach ruhen <lb/> so wirdt es gantz lustig zu trincken. </p>
             </div>
         </body>
     </text>

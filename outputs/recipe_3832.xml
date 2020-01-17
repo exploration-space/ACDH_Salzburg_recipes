@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> GIbt gute <objectName ref="gehaeck">Gehäck</objectName> <lb/> mit Gewürtz <lb/> <objectName ref="butter">Butter</objectName> <lb/> und allen erstgemeldten Zusätzen <lb/> auch Capry <lb/> Pinioli, und schwartzen Weinbeerlein <lb/> in die Gehäck= Pastetlen <lb/> Kräpfflen <lb/> und in die Schüssel= Reiff <lb/> von gutem Butter= Taig anzurichten. </p>
+        <p> GIbt gute <objectName ref="#gehaeck">Gehäck</objectName> <lb/> mit Gewürtz <lb/> <objectName ref="#butter">Butter</objectName> <lb/> und allen erstgemeldten Zusätzen <lb/> auch Capry <lb/> Pinioli, und schwartzen Weinbeerlein <lb/> in die Gehäck= Pastetlen <lb/> Kräpfflen <lb/> und in die Schüssel= Reiff <lb/> von gutem Butter= Taig anzurichten. </p>
             </div>
         </body>
     </text>

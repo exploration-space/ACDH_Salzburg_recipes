@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="hering">HEring</objectName> <lb/> wol gewässert <lb/> und aufgehenckter getrücknet <lb/> in Meel umgekehrter <lb/> seynd in Oel <lb/> oder Schmaltz zu bachen <lb/> und entweders truckner <lb/> mit ausgebachenen Kräutlein <lb/> oder auf das <objectName ref="kraut">Kraut</objectName> zu legen <lb/> oder in einer braunen <objectName ref="bruehe">Brühe</objectName> <lb/> von gerösten Zwibel <lb/> Lemoni <lb/> Capry <lb/> Schwammen oder Maurachen <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> <objectName ref="wacholder">Wacholder</objectName> <lb/> etc. </p>
+        <p> <objectName ref="#hering">HEring</objectName> <lb/> wol gewässert <lb/> und aufgehenckter getrücknet <lb/> in Meel umgekehrter <lb/> seynd in Oel <lb/> oder Schmaltz zu bachen <lb/> und entweders truckner <lb/> mit ausgebachenen Kräutlein <lb/> oder auf das <objectName ref="#kraut">Kraut</objectName> zu legen <lb/> oder in einer braunen <objectName ref="#bruehe">Brühe</objectName> <lb/> von gerösten Zwibel <lb/> Lemoni <lb/> Capry <lb/> Schwammen oder Maurachen <lb/> <objectName ref="#knoblauch">Knoblauch</objectName> <lb/> <objectName ref="#rosmarin">Rosmarin</objectName> <lb/> <objectName ref="#wacholder">Wacholder</objectName> <lb/> etc. </p>
             </div>
         </body>
     </text>

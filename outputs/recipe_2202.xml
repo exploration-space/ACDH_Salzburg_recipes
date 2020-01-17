@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Erstlich guets semblmell, Wieuill du Wilt, nimb 5. 6. oder 7. Aÿr, <lb/> ungfehr halb mit khlar, oder Weniger, nimb gueten süssen Milchrämb, <lb/> rests souill als der Aÿr, oder mehr, Zerkhlopffs Woll, vnd mach das <lb/> mell auf das aller lindest an, schneids Wie groß du Wilt, vnd Wan der <lb/> Puter fein Zergangen, vnd außgelassen ist, das es gleich daher Premblet, <lb/> So leg sie hinein, vnd seuds gar schen auß, lauffen gar schen auf, vnd <lb/> Werden fein rogl, Wans auch Wider sizen, so seind sie genueg gsoten, <lb/> spreng fein oben aufs <objectName ref="schmalz">schmalz</objectName>, gleich ehe dus herauß nimbst, ein wenig <lb/> frisches <objectName ref="wasser">Wasser</objectName>. <lb/> </p>
+        <p> Nimb Erstlich guets semblmell, Wieuill du Wilt, nimb 5. 6. oder 7. Aÿr, <lb/> ungfehr halb mit khlar, oder Weniger, nimb gueten süssen Milchrämb, <lb/> rests souill als der Aÿr, oder mehr, Zerkhlopffs Woll, vnd mach das <lb/> mell auf das aller lindest an, schneids Wie groß du Wilt, vnd Wan der <lb/> Puter fein Zergangen, vnd außgelassen ist, das es gleich daher Premblet, <lb/> So leg sie hinein, vnd seuds gar schen auß, lauffen gar schen auf, vnd <lb/> Werden fein rogl, Wans auch Wider sizen, so seind sie genueg gsoten, <lb/> spreng fein oben aufs <objectName ref="#schmalz">schmalz</objectName>, gleich ehe dus herauß nimbst, ein wenig <lb/> frisches <objectName ref="#wasser">Wasser</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe frich= gemachte Krebs= Schöttel <lb/> gibt man <lb/> so es beliebt <lb/> in der <objectName ref="schuessel">Schüssel</objectName> <lb/> wenig zerschnitten <lb/> mit einer subtilen gelb oder rothen Butter= <objectName ref="bruehe">Brühe</objectName> <lb/> oder man laßts wol trucken abseihen <lb/> schneids zu Schnitz <lb/> kehrts in Meel um <lb/> und bachts <lb/> und gibts in einer süssen Weinbeerlein= <objectName ref="bruehe">Brühe</objectName> <lb/> mit <objectName ref="zucker">Zucker</objectName> und Zimmet bestreut. </p>
+        <p> DIe frich= gemachte Krebs= Schöttel <lb/> gibt man <lb/> so es beliebt <lb/> in der <objectName ref="#schuessel">Schüssel</objectName> <lb/> wenig zerschnitten <lb/> mit einer subtilen gelb oder rothen Butter= <objectName ref="#bruehe">Brühe</objectName> <lb/> oder man laßts wol trucken abseihen <lb/> schneids zu Schnitz <lb/> kehrts in Meel um <lb/> und bachts <lb/> und gibts in einer süssen Weinbeerlein= <objectName ref="#bruehe">Brühe</objectName> <lb/> mit <objectName ref="#zucker">Zucker</objectName> und Zimmet bestreut. </p>
             </div>
         </body>
     </text>

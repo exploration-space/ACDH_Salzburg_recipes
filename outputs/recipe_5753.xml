@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Du kanst auch den Drappen zurichten <lb/> wie von einem <objectName ref="schwan">Schwan</objectName> <lb/> in einer Gallrat <lb/> daß sie allerley farb hat <lb/> es sey gelb <lb/> grün <lb/> rot <lb/> weiß <lb/> braun oder Leibfarb <lb/> auch schwartz mit <objectName ref="mandeln">Mandeln</objectName> <lb/> die vberzogen seind von allerley farb <lb/> vnd die Gallrat damit belegt <lb/> ist es gut <lb/> vnd ein schön Schawessen. </p>
+        <p> Du kanst auch den Drappen zurichten <lb/> wie von einem <objectName ref="#schwan">Schwan</objectName> <lb/> in einer Gallrat <lb/> daß sie allerley farb hat <lb/> es sey gelb <lb/> grün <lb/> rot <lb/> weiß <lb/> braun oder Leibfarb <lb/> auch schwartz mit <objectName ref="#mandeln">Mandeln</objectName> <lb/> die vberzogen seind von allerley farb <lb/> vnd die Gallrat damit belegt <lb/> ist es gut <lb/> vnd ein schön Schawessen. </p>
             </div>
         </body>
     </text>

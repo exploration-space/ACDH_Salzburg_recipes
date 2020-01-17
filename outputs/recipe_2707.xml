@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> LAsst in einem <objectName ref="haefelein">Häfelein</objectName> ein roth oder braunes <objectName ref="bier">Bier</objectName> <lb/> samt ein wenig Kimmel <lb/> siedend werden; und thut zu letzt <lb/> ehe man sie anrichtet <lb/> ein gutes Stück <objectName ref="butter">Butter</objectName> darein : dann schneidet ein Rocken= Brod würfflicht auf <lb/> thut ein wenig dinn geschnittene <objectName ref="butter">Butter</objectName> darauf <lb/> und richtet die siedende <objectName ref="suppe">Suppe</objectName> darüber; setzt es auf eine <objectName ref="glut">Glut</objectName> oder <objectName ref="kohlen">Kohlen</objectName> <lb/> und lasts samt dem Brod noch ein wenig aufsieden. </p>
+        <p> LAsst in einem <objectName ref="#haefelein">Häfelein</objectName> ein roth oder braunes <objectName ref="#bier">Bier</objectName> <lb/> samt ein wenig Kimmel <lb/> siedend werden; und thut zu letzt <lb/> ehe man sie anrichtet <lb/> ein gutes Stück <objectName ref="#butter">Butter</objectName> darein : dann schneidet ein Rocken= Brod würfflicht auf <lb/> thut ein wenig dinn geschnittene <objectName ref="#butter">Butter</objectName> darauf <lb/> und richtet die siedende <objectName ref="#suppe">Suppe</objectName> darüber; setzt es auf eine <objectName ref="#glut">Glut</objectName> oder <objectName ref="#kohlen">Kohlen</objectName> <lb/> und lasts samt dem Brod noch ein wenig aufsieden. </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAch ein gutes <objectName ref="gehaeck">Gehäck</objectName> von gesottner <objectName ref="lunge">Lungen</objectName> <lb/> saltz <lb/> gewürtz <lb/> und röste es mit geriebenem Brod im <objectName ref="butter">Butter</objectName> <lb/> schlag Eyer daran <lb/> mit wenig fetter <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> rührs ab <lb/> wie einen andern Knödlein= Taig <lb/> mach die Strützlein von Nudeln= oder mürben Taig <lb/> über einen Koch= Löffel= Stiel <lb/> benetz den halben Stengel mit abgeschlagenen Eyern <lb/> mach die Maurachen vom <objectName ref="gehaeck">Gehäck</objectName> daran <lb/> eins nach dem andern <lb/> und schiebs in <objectName ref="ofen">Ofen</objectName> <lb/> oder bache es im Schmaltz. </p>
+        <p> MAch ein gutes <objectName ref="#gehaeck">Gehäck</objectName> von gesottner <objectName ref="#lunge">Lungen</objectName> <lb/> saltz <lb/> gewürtz <lb/> und röste es mit geriebenem Brod im <objectName ref="#butter">Butter</objectName> <lb/> schlag Eyer daran <lb/> mit wenig fetter <objectName ref="#fleischbruehe">Fleischbrühe</objectName> <lb/> rührs ab <lb/> wie einen andern Knödlein= Taig <lb/> mach die Strützlein von Nudeln= oder mürben Taig <lb/> über einen Koch= Löffel= Stiel <lb/> benetz den halben Stengel mit abgeschlagenen Eyern <lb/> mach die Maurachen vom <objectName ref="#gehaeck">Gehäck</objectName> daran <lb/> eins nach dem andern <lb/> und schiebs in <objectName ref="#ofen">Ofen</objectName> <lb/> oder bache es im Schmaltz. </p>
             </div>
         </body>
     </text>

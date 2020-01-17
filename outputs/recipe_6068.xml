@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="salat">Salat</objectName> von Margeranten Epffel Kern <lb/> besträw auch mit weissem <objectName ref="zucker">Zucker</objectName>. </p>
+        <p> <objectName ref="#salat">Salat</objectName> von Margeranten Epffel Kern <lb/> besträw auch mit weissem <objectName ref="#zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

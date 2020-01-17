@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Brüßlein werden gebrühet <lb/> zerschnitten <lb/> in <objectName ref="butter">Butter</objectName> geröst <lb/> und zu einem Rago von kleinen gebachenen Knödlein und fertigen Fricanto gemischt <lb/> in brauner Soß. </p>
+        <p> DIe Brüßlein werden gebrühet <lb/> zerschnitten <lb/> in <objectName ref="#butter">Butter</objectName> geröst <lb/> und zu einem Rago von kleinen gebachenen Knödlein und fertigen Fricanto gemischt <lb/> in brauner Soß. </p>
             </div>
         </body>
     </text>

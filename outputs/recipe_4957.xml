@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Bähet ein weisses <objectName ref="brot">Brot</objectName> <lb/> last es im <objectName ref="wein">Wein</objectName> sieden <lb/> zwingets durch <lb/> zuckerts <lb/> streuet Trisanet darauf <lb/> lassets mit <objectName ref="wein">Wein</objectName> sieden <lb/> und gilbt es ein wenig mit Saffran; richtets dann an <lb/> belegt und bestreuet es mit Plätzen oder Scheiben <lb/> und klein= geschnittenen Schelffen von Citronen <lb/> und traget es zu <objectName ref="tisch">Tisch</objectName> </p>
+        <p> Bähet ein weisses <objectName ref="#brot">Brot</objectName> <lb/> last es im <objectName ref="#wein">Wein</objectName> sieden <lb/> zwingets durch <lb/> zuckerts <lb/> streuet Trisanet darauf <lb/> lassets mit <objectName ref="#wein">Wein</objectName> sieden <lb/> und gilbt es ein wenig mit Saffran; richtets dann an <lb/> belegt und bestreuet es mit Plätzen oder Scheiben <lb/> und klein= geschnittenen Schelffen von Citronen <lb/> und traget es zu <objectName ref="#tisch">Tisch</objectName> </p>
             </div>
         </body>
     </text>

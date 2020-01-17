@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb die <objectName ref="rosen">rosen</objectName>, schneidt<gap/> klein schene blätl<gap/>, walg<gap/> wege<gap/> <lb/> ein firtung<gap/>, hackh<gap/> sye ganz klein, söz sye auf <lb/> ein gluet<gap/>, in einer mösßigenen pfann<gap/>, und wann <lb/> der zuckher<gap/> zergangen ist, so laß ihn sieden<gap/>, nimb <lb/> ein wasßer und thue ihm leideren<gap/>, thue die <lb/> <objectName ref="rosen">rosen</objectName> drein, lasß sieden<gap/>, thues in die glösßer, <lb/> so ist es guet. <lb/><lb/> ( 68v ) </p>
+        <p> Nimb die <objectName ref="#rosen">rosen</objectName>, schneidt<gap/> klein schene blätl<gap/>, walg<gap/> wege<gap/> <lb/> ein firtung<gap/>, hackh<gap/> sye ganz klein, söz sye auf <lb/> ein gluet<gap/>, in einer mösßigenen pfann<gap/>, und wann <lb/> der zuckher<gap/> zergangen ist, so laß ihn sieden<gap/>, nimb <lb/> ein wasßer und thue ihm leideren<gap/>, thue die <lb/> <objectName ref="#rosen">rosen</objectName> drein, lasß sieden<gap/>, thues in die glösßer, <lb/> so ist es guet. <lb/><lb/> ( 68v ) </p>
             </div>
         </body>
     </text>

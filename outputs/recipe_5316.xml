@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Hünlein werden in der <objectName ref="fleischbruehe">Fleischbrühe</objectName> mit zugehörigem Saltz und Gewürtz mit einem Lemoni= Blättlein <lb/> einem Zwibel mit Nägelein besteckt <lb/> gesotten <lb/> der Hopffen muß sauber gebutzt und überbrühet <lb/> und zu den Hünlein gelegt <lb/> und zuletzt mit Eyerdottern <lb/> Muscatnuß <lb/> frischen <objectName ref="butter">Butter</objectName> <lb/> und wenig klein= gehackten Petersil= Kräutlein fricassirt werden in Lemoni= Safft. </p>
+        <p> DIe Hünlein werden in der <objectName ref="#fleischbruehe">Fleischbrühe</objectName> mit zugehörigem Saltz und Gewürtz mit einem Lemoni= Blättlein <lb/> einem Zwibel mit Nägelein besteckt <lb/> gesotten <lb/> der Hopffen muß sauber gebutzt und überbrühet <lb/> und zu den Hünlein gelegt <lb/> und zuletzt mit Eyerdottern <lb/> Muscatnuß <lb/> frischen <objectName ref="#butter">Butter</objectName> <lb/> und wenig klein= gehackten Petersil= Kräutlein fricassirt werden in Lemoni= Safft. </p>
             </div>
         </body>
     </text>

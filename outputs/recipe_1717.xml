@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Mach ain taig von Ayrn, vnd ain Wennig <lb/> <objectName ref="wein">wein</objectName> darein, tikher dan andere <objectName ref="strauben">Strauben</objectName> <lb/> taig, mach ein loch in ain klaines höfelein, <lb/> thue vill <objectName ref="schmalz">schmalz</objectName> in ain Pfannen, zeuch die <lb/> <objectName ref="strauben">Strauben</objectName> in die Pfanen wie du wildt. <lb/> </p>
+        <p> Mach ain taig von Ayrn, vnd ain Wennig <lb/> <objectName ref="#wein">wein</objectName> darein, tikher dan andere <objectName ref="#strauben">Strauben</objectName> <lb/> taig, mach ein loch in ain klaines höfelein, <lb/> thue vill <objectName ref="#schmalz">schmalz</objectName> in ain Pfannen, zeuch die <lb/> <objectName ref="#strauben">Strauben</objectName> in die Pfanen wie du wildt. <lb/> </p>
             </div>
         </body>
     </text>

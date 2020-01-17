@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb gebratne hüener, geuß <objectName ref="wein">Wein</objectName> darüber, Zukhers. gewürzs, <lb/> vnd gilbs, laß Sieden, leg ein Puter dran probatum. <lb/> Prätl din geschniten, vnd im <objectName ref="schmalz">Schmalz</objectName> gerösst, ein <objectName ref="essig">Essig</objectName> vnd <lb/> <objectName ref="rindsuppe">Rindsuppen</objectName> darüber gossen, gewürzt, vnd ein Wenig Puter <lb/> daran gelegt, laß khurz ein sieden. <lb/> </p>
+        <p> Nimb gebratne hüener, geuß <objectName ref="#wein">Wein</objectName> darüber, Zukhers. gewürzs, <lb/> vnd gilbs, laß Sieden, leg ein Puter dran probatum. <lb/> Prätl din geschniten, vnd im <objectName ref="#schmalz">Schmalz</objectName> gerösst, ein <objectName ref="#essig">Essig</objectName> vnd <lb/> <objectName ref="#rindsuppe">Rindsuppen</objectName> darüber gossen, gewürzt, vnd ein Wenig Puter <lb/> daran gelegt, laß khurz ein sieden. <lb/> </p>
             </div>
         </body>
     </text>

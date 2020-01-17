@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Röstet einen Mehl= klaren <objectName ref="zucker">Zucker</objectName> <lb/> gantz trocken <lb/> über der <objectName ref="kohlen">Kohlen</objectName> <lb/> rühret ebenfalls gantz klar zu Mehl= zerstossene schöne lichte Zimmet darunter; giesset Rosen= <objectName ref="wasser">Wasser</objectName> daran <lb/> doch nicht zu viel <lb/> damit er seine rechte Dicke bekomme; rühret alles an= noch ferner wohl durcheinander <lb/> und bespiegelt das Zucker= Werck aufs allergeschwindeste damit <lb/> dann er wird gar bald hart; und lassts ertrocknen. </p>
+        <p> Röstet einen Mehl= klaren <objectName ref="#zucker">Zucker</objectName> <lb/> gantz trocken <lb/> über der <objectName ref="#kohlen">Kohlen</objectName> <lb/> rühret ebenfalls gantz klar zu Mehl= zerstossene schöne lichte Zimmet darunter; giesset Rosen= <objectName ref="#wasser">Wasser</objectName> daran <lb/> doch nicht zu viel <lb/> damit er seine rechte Dicke bekomme; rühret alles an= noch ferner wohl durcheinander <lb/> und bespiegelt das Zucker= Werck aufs allergeschwindeste damit <lb/> dann er wird gar bald hart; und lassts ertrocknen. </p>
             </div>
         </body>
     </text>

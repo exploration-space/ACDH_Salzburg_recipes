@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> HAcket ein halb <objectName ref="pfund">Pfund</objectName> <objectName ref="mandeln">Mandeln</objectName> klein <lb/> stosset ein viertel <objectName ref="pfund">Pfund</objectName> <objectName ref="zucker">Zucker</objectName> <lb/> Citronat <lb/> Citronen= und Pomerantzen= Schelffen <lb/> wie auch Zimmet <lb/> Cardamomen und Muscaten= Blüh <lb/> nach belieben <lb/> giesset ein wenig Zimmet= <objectName ref="wasser">Wasser</objectName> daran <lb/> rühret und vermischet alles wohl durch einander; formiret auf einem Oblat Kräntzlein daraus <lb/> lassets dann bachen <lb/> und überstreichets <lb/> wann sie erkaltet <lb/> mit einem Eiß. </p>
+        <p> HAcket ein halb <objectName ref="#pfund">Pfund</objectName> <objectName ref="#mandeln">Mandeln</objectName> klein <lb/> stosset ein viertel <objectName ref="#pfund">Pfund</objectName> <objectName ref="#zucker">Zucker</objectName> <lb/> Citronat <lb/> Citronen= und Pomerantzen= Schelffen <lb/> wie auch Zimmet <lb/> Cardamomen und Muscaten= Blüh <lb/> nach belieben <lb/> giesset ein wenig Zimmet= <objectName ref="#wasser">Wasser</objectName> daran <lb/> rühret und vermischet alles wohl durch einander; formiret auf einem Oblat Kräntzlein daraus <lb/> lassets dann bachen <lb/> und überstreichets <lb/> wann sie erkaltet <lb/> mit einem Eiß. </p>
             </div>
         </body>
     </text>

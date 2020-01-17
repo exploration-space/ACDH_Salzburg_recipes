@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Mandl, weichs in Warmen <objectName ref="wasser">Wasser</objectName>, Zeuch ihnen die haut <lb/> ab, stosß hernach khlein in einen merser, begeuß Ihmerdar <lb/> ein wenig mit <objectName ref="rosenwasser">Rosenwasser</objectName>, das nit öelig Werden, vnd Wens <lb/> khlein genueg sein, so thues auf ein schißl, nimb Souill Zukher, <lb/> als der Mandl sein, vnd ein wenig aÿrkhlar, die Woll abge= <lb/> spridlt seÿ, Rührs woll ab durcheinander, das es ein festes <lb/> taigl Wird, trukh ihn hernach in Modl, leg ein oblat drunder, <lb/> bachs in einer dortenpfan, oder in einem Pochofen, der <lb/> nit Zu haiß seÿ, es sein guet vnd Zierlich. <lb/> </p>
+        <p> Nimb Mandl, weichs in Warmen <objectName ref="#wasser">Wasser</objectName>, Zeuch ihnen die haut <lb/> ab, stosß hernach khlein in einen merser, begeuß Ihmerdar <lb/> ein wenig mit <objectName ref="#rosenwasser">Rosenwasser</objectName>, das nit öelig Werden, vnd Wens <lb/> khlein genueg sein, so thues auf ein schißl, nimb Souill Zukher, <lb/> als der Mandl sein, vnd ein wenig aÿrkhlar, die Woll abge= <lb/> spridlt seÿ, Rührs woll ab durcheinander, das es ein festes <lb/> taigl Wird, trukh ihn hernach in Modl, leg ein oblat drunder, <lb/> bachs in einer dortenpfan, oder in einem Pochofen, der <lb/> nit Zu haiß seÿ, es sein guet vnd Zierlich. <lb/> </p>
             </div>
         </body>
     </text>

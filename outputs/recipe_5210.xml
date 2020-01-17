@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm eingemachte ordinari <objectName ref="zitronen">Zitronen</objectName> <lb/> oder dergleichen Schaalen <lb/> und Safft nach Nothdurfft <lb/> wann es aber zu süß <lb/> so hülff mit Lemoni=Safft <lb/> und solches gehört in subtille Butter= oder andere süsse Dorten. </p>
+        <p> NImm eingemachte ordinari <objectName ref="#zitronen">Zitronen</objectName> <lb/> oder dergleichen Schaalen <lb/> und Safft nach Nothdurfft <lb/> wann es aber zu süß <lb/> so hülff mit Lemoni=Safft <lb/> und solches gehört in subtille Butter= oder andere süsse Dorten. </p>
             </div>
         </body>
     </text>

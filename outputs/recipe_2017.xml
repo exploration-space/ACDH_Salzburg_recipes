@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb die Pomeräntschen, schneid sie voneinander, den halben <lb/> thail Zu scheibln, vnd den halben thail gewürfflet, thues in <lb/> ein häferl, geuß ein wenig <objectName ref="wein">Wein</objectName> vnd Arbesbrüe dran, <lb/><lb/> ( 25r ) ein Wenig Zimet, <objectName ref="pfeffer">Pfeffer</objectName> vnd Imberstup, vnd Mußcatblüe, <lb/> ein Nuß schalen voll <objectName ref="essig">Essig</objectName>, ein halben löffl voll Zukher, ein wenig <lb/> Saffran, vnd ein Wenig gestossnen Mandl. laß Sieden, du <lb/> magst hernach giessen ÿber Wen du Wilst. </p>
+        <p> Nimb die Pomeräntschen, schneid sie voneinander, den halben <lb/> thail Zu scheibln, vnd den halben thail gewürfflet, thues in <lb/> ein häferl, geuß ein wenig <objectName ref="#wein">Wein</objectName> vnd Arbesbrüe dran, <lb/><lb/> ( 25r ) ein Wenig Zimet, <objectName ref="#pfeffer">Pfeffer</objectName> vnd Imberstup, vnd Mußcatblüe, <lb/> ein Nuß schalen voll <objectName ref="#essig">Essig</objectName>, ein halben löffl voll Zukher, ein wenig <lb/> Saffran, vnd ein Wenig gestossnen Mandl. laß Sieden, du <lb/> magst hernach giessen ÿber Wen du Wilst. </p>
             </div>
         </body>
     </text>

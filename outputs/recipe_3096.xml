@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> CItroni zu Blättlein geschnitten <lb/> mit <objectName ref="wein">Wein</objectName> und <objectName ref="zucker">Zucker</objectName> vor ein süssen <objectName ref="salat">Salat</objectName> auf die Schaalen zierlich aufgericht. </p>
+        <p> CItroni zu Blättlein geschnitten <lb/> mit <objectName ref="#wein">Wein</objectName> und <objectName ref="#zucker">Zucker</objectName> vor ein süssen <objectName ref="#salat">Salat</objectName> auf die Schaalen zierlich aufgericht. </p>
             </div>
         </body>
     </text>

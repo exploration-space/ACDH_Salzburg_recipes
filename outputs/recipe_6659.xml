@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Eyngemachte geräucherte Sälmling mit Pettersilgen Wurtzel <lb/> vnnd mit lauter Erbsbrüh <lb/> auch mit frischer vngeschmältzter <objectName ref="butter">Butter</objectName> <lb/> vnd Muscatenblüt <lb/> gantzem <objectName ref="pfeffer">Pfeffer</objectName> <lb/> vnd gestossenem <objectName ref="ingwer">Ingwer</objectName>. Ist aber die Erbsbrüh lauter <lb/> so brennt man <objectName ref="mehl">Mehl</objectName> darein <lb/> ist sie aber dick <lb/> so darsffstu kein <objectName ref="mehl">Mehl</objectName> eynbrennen <lb/> Laß es miteinander sieden <lb/> versuchs <lb/> ob es gut sey <lb/> ist es also nicht gut <lb/> so mach es saur. </p>
+        <p> Eyngemachte geräucherte Sälmling mit Pettersilgen Wurtzel <lb/> vnnd mit lauter Erbsbrüh <lb/> auch mit frischer vngeschmältzter <objectName ref="#butter">Butter</objectName> <lb/> vnd Muscatenblüt <lb/> gantzem <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> vnd gestossenem <objectName ref="#ingwer">Ingwer</objectName>. Ist aber die Erbsbrüh lauter <lb/> so brennt man <objectName ref="#mehl">Mehl</objectName> darein <lb/> ist sie aber dick <lb/> so darsffstu kein <objectName ref="#mehl">Mehl</objectName> eynbrennen <lb/> Laß es miteinander sieden <lb/> versuchs <lb/> ob es gut sey <lb/> ist es also nicht gut <lb/> so mach es saur. </p>
             </div>
         </body>
     </text>

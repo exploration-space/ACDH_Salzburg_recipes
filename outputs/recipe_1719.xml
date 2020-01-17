@@ -172,7 +172,7 @@ Dieses und ein weiteres Birnenrezept (<a href="http://gastrosophie.sbg.ac.at/kbf
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb guet Pegel <objectName ref="bier">biern</objectName>, oder lennz <objectName ref="bier">biern</objectName>, <lb/> schell sie, thue die Khern daruon, Seuts in <lb/> <objectName ref="wein">Wein</objectName>, d ( a ) s waich werden, vnd stosß darnach <lb/> in ainen Mörßer, streichs durch ain tuech, <lb/> thue Hennig vnd gewürz darein, Seuts in <lb/> ainner Pfannen. <lb/> </p>
+        <p> Nimb guet Pegel <objectName ref="#bier">biern</objectName>, oder lennz <objectName ref="#bier">biern</objectName>, <lb/> schell sie, thue die Khern daruon, Seuts in <lb/> <objectName ref="#wein">Wein</objectName>, d ( a ) s waich werden, vnd stosß darnach <lb/> in ainen Mörßer, streichs durch ain tuech, <lb/> thue Hennig vnd gewürz darein, Seuts in <lb/> ainner Pfannen. <lb/> </p>
             </div>
         </body>
     </text>

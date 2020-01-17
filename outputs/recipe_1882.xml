@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb das faist von dem Copaun herauß, <lb/> rest ein Zwifl drein, der lang geschniten ist, gar <lb/> Waich, giesß ein <objectName ref="rindsuppe">Rindsuppen</objectName> dran, <objectName ref="salz">salz</objectName> ein wenig, <lb/> thue auch ein Wenig Mußcatblüe, <objectName ref="pfeffer">Pfeffer</objectName>, dürrn <lb/> Margern darzue, laß alß durcheinander sieden, <lb/> geuß ÿber den Copaun so ist es recht p. <lb/> </p>
+        <p> Nimb das faist von dem Copaun herauß, <lb/> rest ein Zwifl drein, der lang geschniten ist, gar <lb/> Waich, giesß ein <objectName ref="#rindsuppe">Rindsuppen</objectName> dran, <objectName ref="#salz">salz</objectName> ein wenig, <lb/> thue auch ein Wenig Mußcatblüe, <objectName ref="#pfeffer">Pfeffer</objectName>, dürrn <lb/> Margern darzue, laß alß durcheinander sieden, <lb/> geuß ÿber den Copaun so ist es recht p. <lb/> </p>
             </div>
         </body>
     </text>

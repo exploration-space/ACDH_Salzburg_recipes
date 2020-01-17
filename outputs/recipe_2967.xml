@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="kohlrabi">KOhlrabi</objectName> gibt man auch gebrüht <lb/> zu Blatten oder Würffel geschnitten <lb/> gewürtzt <lb/> schön gelb eingebrennt <lb/> mit <objectName ref="butter">Butter</objectName> <lb/> Gewürtz <lb/> und guter gelber Erbes= und Petersil= <objectName ref="bruehe">Brühe</objectName>. </p>
+        <p> <objectName ref="#kohlrabi">KOhlrabi</objectName> gibt man auch gebrüht <lb/> zu Blatten oder Würffel geschnitten <lb/> gewürtzt <lb/> schön gelb eingebrennt <lb/> mit <objectName ref="#butter">Butter</objectName> <lb/> Gewürtz <lb/> und guter gelber Erbes= und Petersil= <objectName ref="#bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

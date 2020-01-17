@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DErgleichen gibt mans auch mit Gewürtz <lb/> süssen Ram <lb/> und Krebs= <objectName ref="butter">Butter</objectName>. </p>
+        <p> DErgleichen gibt mans auch mit Gewürtz <lb/> süssen Ram <lb/> und Krebs= <objectName ref="#butter">Butter</objectName>. </p>
             </div>
         </body>
     </text>

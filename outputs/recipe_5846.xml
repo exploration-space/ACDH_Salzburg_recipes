@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Du kanst auch den Aurhan braten <lb/> vnnd kalt lassen werden <lb/> in eine Gallrat zurichten mit seinen Federn <lb/> Kopff <lb/> Flügel vnd Schwantz. Vnd kanst auch allerley Speiß darvon machen <lb/> wie von vorbeschriebenen <objectName ref="voegel">Vögeln</objectName>. </p>
+        <p> Du kanst auch den Aurhan braten <lb/> vnnd kalt lassen werden <lb/> in eine Gallrat zurichten mit seinen Federn <lb/> Kopff <lb/> Flügel vnd Schwantz. Vnd kanst auch allerley Speiß darvon machen <lb/> wie von vorbeschriebenen <objectName ref="#voegel">Vögeln</objectName>. </p>
             </div>
         </body>
     </text>

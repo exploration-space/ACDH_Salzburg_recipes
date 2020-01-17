@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChneidet die <objectName ref="quitten">Quitten</objectName> zu dinnen Schnitten <lb/> das harte und steinigte aber alles hinweg; legets in ein warmes Schmaltz <lb/> so nicht zu heiß ist; setzets eine Stund lang in eine kleine <objectName ref="glut">Glut</objectName> <lb/> so werden sie weich : Machet dann einen <objectName ref="teig">Teig</objectName> mit <objectName ref="wein">Wein</objectName> und <objectName ref="zucker">Zucker</objectName> an <lb/> giesset ein klein wenig Brandwein darunter; ziehet die Quittenschnitten durch diesen <objectName ref="teig">Teig</objectName> <lb/> und bachets aus Schmaltz. </p>
+        <p> SChneidet die <objectName ref="#quitten">Quitten</objectName> zu dinnen Schnitten <lb/> das harte und steinigte aber alles hinweg; legets in ein warmes Schmaltz <lb/> so nicht zu heiß ist; setzets eine Stund lang in eine kleine <objectName ref="#glut">Glut</objectName> <lb/> so werden sie weich : Machet dann einen <objectName ref="#teig">Teig</objectName> mit <objectName ref="#wein">Wein</objectName> und <objectName ref="#zucker">Zucker</objectName> an <lb/> giesset ein klein wenig Brandwein darunter; ziehet die Quittenschnitten durch diesen <objectName ref="#teig">Teig</objectName> <lb/> und bachets aus Schmaltz. </p>
             </div>
         </body>
     </text>

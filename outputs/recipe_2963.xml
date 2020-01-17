@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> VOn diesem den Gipffel sammt den besten Blättern abgestreifft <lb/> gebutzt <lb/> und in gesaltzen <objectName ref="wasser">Wasser</objectName> mit <objectName ref="knoblauch">Knoblauch</objectName> gebrüht <lb/> so dann gehackt <lb/> oder gleich also gewürtzt <lb/> und mit <objectName ref="butter">Butter</objectName> <lb/> Oel oder <objectName ref="speck">Speck</objectName> wol feist gemacht und eingebrennt <lb/> und gar an die statt gekocht <lb/> ist gut; Andere geben auch gebratne und ausgescheelte <objectName ref="kastanien">Kastanien</objectName> darunter <lb/> und geriebnen Parmesan- Käß darüber. </p>
+        <p> VOn diesem den Gipffel sammt den besten Blättern abgestreifft <lb/> gebutzt <lb/> und in gesaltzen <objectName ref="#wasser">Wasser</objectName> mit <objectName ref="#knoblauch">Knoblauch</objectName> gebrüht <lb/> so dann gehackt <lb/> oder gleich also gewürtzt <lb/> und mit <objectName ref="#butter">Butter</objectName> <lb/> Oel oder <objectName ref="#speck">Speck</objectName> wol feist gemacht und eingebrennt <lb/> und gar an die statt gekocht <lb/> ist gut; Andere geben auch gebratne und ausgescheelte <objectName ref="#kastanien">Kastanien</objectName> darunter <lb/> und geriebnen Parmesan- Käß darüber. </p>
             </div>
         </body>
     </text>

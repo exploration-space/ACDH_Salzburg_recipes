@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Strötzel von Eyern in <objectName ref="pfeffer">Pfeffer</objectName> <lb/> wie man die <objectName ref="knoedel">Knödel</objectName> macht <lb/> es sey gelb <lb/> oder in einem Gescharb. </p>
+        <p> Strötzel von Eyern in <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> wie man die <objectName ref="#knoedel">Knödel</objectName> macht <lb/> es sey gelb <lb/> oder in einem Gescharb. </p>
             </div>
         </body>
     </text>

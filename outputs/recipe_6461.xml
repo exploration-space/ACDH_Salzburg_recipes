@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Mach ein <objectName ref="teig">Teig</objectName> an von lauter <objectName ref="wein">Wein</objectName> vnd <objectName ref="mehl">Mehl</objectName> <lb/> Nim ( m ) außgestochen Oblat <lb/> tauch sie in den <objectName ref="teig">Teig</objectName> eyn <lb/> vnd wirffs in heisse <objectName ref="butter">Butter</objectName> <lb/> so wirt der Oblat fein aufflauffen von dem <objectName ref="teig">Teig</objectName> <lb/> gibs warm oder kalt auff ein <objectName ref="tisch">Tisch</objectName> <lb/> besträw es mit <objectName ref="zucker">Zucker</objectName> <lb/> so ist es ein gut Gebackens. </p>
+        <p> Mach ein <objectName ref="#teig">Teig</objectName> an von lauter <objectName ref="#wein">Wein</objectName> vnd <objectName ref="#mehl">Mehl</objectName> <lb/> Nim ( m ) außgestochen Oblat <lb/> tauch sie in den <objectName ref="#teig">Teig</objectName> eyn <lb/> vnd wirffs in heisse <objectName ref="#butter">Butter</objectName> <lb/> so wirt der Oblat fein aufflauffen von dem <objectName ref="#teig">Teig</objectName> <lb/> gibs warm oder kalt auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> besträw es mit <objectName ref="#zucker">Zucker</objectName> <lb/> so ist es ein gut Gebackens. </p>
             </div>
         </body>
     </text>

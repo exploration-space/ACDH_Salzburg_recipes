@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet neugebachene <objectName ref="semmeln">Semmeln</objectName> <lb/> die nicht sehr braun sind <lb/> holet sie aus; weichet das ausgeholete in Kern <lb/> schlaget zuvor zwey Eyer daran <lb/> würtzets mit Muscatblüh <lb/> Zimmet und <objectName ref="zucker">Zucker</objectName> <lb/> oder thut ein Trisanet darunter : füllet sie wieder in die ausgeholete <objectName ref="semmeln">Semmeln</objectName> <lb/> und bachets im Schmaltz. </p>
+        <p> NEhmet neugebachene <objectName ref="#semmeln">Semmeln</objectName> <lb/> die nicht sehr braun sind <lb/> holet sie aus; weichet das ausgeholete in Kern <lb/> schlaget zuvor zwey Eyer daran <lb/> würtzets mit Muscatblüh <lb/> Zimmet und <objectName ref="#zucker">Zucker</objectName> <lb/> oder thut ein Trisanet darunter : füllet sie wieder in die ausgeholete <objectName ref="#semmeln">Semmeln</objectName> <lb/> und bachets im Schmaltz. </p>
             </div>
         </body>
     </text>

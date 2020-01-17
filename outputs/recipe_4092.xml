@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MIsche Holländischen Käß <lb/> Milchram und <objectName ref="fleischbruehe">Fleischbrühe</objectName> untereinander <lb/> laß solches sieden <lb/> treibs durch <lb/> und machs mit Muscatnuß <lb/> <objectName ref="butter">Butter</objectName> <lb/> auch Eyerdotter fertig <lb/> gibs über gebähtes Brod <lb/> und trag es warm auf. </p>
+        <p> MIsche Holländischen Käß <lb/> Milchram und <objectName ref="#fleischbruehe">Fleischbrühe</objectName> untereinander <lb/> laß solches sieden <lb/> treibs durch <lb/> und machs mit Muscatnuß <lb/> <objectName ref="#butter">Butter</objectName> <lb/> auch Eyerdotter fertig <lb/> gibs über gebähtes Brod <lb/> und trag es warm auf. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Der <objectName ref="auerhahn">Auerhahn</objectName> <lb/> wann er nicht zu alt <lb/> wird biß an den Kopff gerupfft <lb/> gesengt <lb/> gespält <lb/> dann auch gesaltzen <lb/> gepaitzt <lb/> gespickt und gebraten; mit einer sauren <lb/> oder süssen Soß versehen <lb/> mit Lemoni <lb/> und grünen Kräutlein regaliert <lb/> oder auch trucken mit andrem Bratens gegeben. </p>
+        <p> Der <objectName ref="#auerhahn">Auerhahn</objectName> <lb/> wann er nicht zu alt <lb/> wird biß an den Kopff gerupfft <lb/> gesengt <lb/> gespält <lb/> dann auch gesaltzen <lb/> gepaitzt <lb/> gespickt und gebraten; mit einer sauren <lb/> oder süssen Soß versehen <lb/> mit Lemoni <lb/> und grünen Kräutlein regaliert <lb/> oder auch trucken mit andrem Bratens gegeben. </p>
             </div>
         </body>
     </text>

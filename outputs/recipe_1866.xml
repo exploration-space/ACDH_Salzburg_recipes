@@ -171,7 +171,7 @@ Willst du eine Speise aus Eidottern machen, dann geht das so: Nimm dazu 100 Eier
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WIldu etwas han vō aÿrn̄ vō tuttʾn daz get ez an hundʾt aÿr nÿm dar czuͤ auch ein echterinn<gap/> weinss daz ist die recht mass vn̄ faistn̄ puttʾn muͤst auch han Ob du dez puttʾn nicht enhast So nÿ̄ Smalcz an die selbn̄ stat vn̄ wildu ein guͤcz gemuͤss han so nÿmb [ 330r ] Smalcz an die selbn̄ stat [ ! ] wellisch <objectName ref="wein">wein</objectName> dar an vn̄ ruͤres also gesotn̄s daz es slecht werd als ein glass vn̄ scholt czuckker darczw hā So wirt es dann wol getan </p>
+        <p> WIldu etwas han vō aÿrn̄ vō tuttʾn daz get ez an hundʾt aÿr nÿm dar czuͤ auch ein echterinn<gap/> weinss daz ist die recht mass vn̄ faistn̄ puttʾn muͤst auch han Ob du dez puttʾn nicht enhast So nÿ̄ Smalcz an die selbn̄ stat vn̄ wildu ein guͤcz gemuͤss han so nÿmb [ 330r ] Smalcz an die selbn̄ stat [ ! ] wellisch <objectName ref="#wein">wein</objectName> dar an vn̄ ruͤres also gesotn̄s daz es slecht werd als ein glass vn̄ scholt czuckker darczw hā So wirt es dann wol getan </p>
             </div>
         </body>
     </text>

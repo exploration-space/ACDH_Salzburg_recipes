@@ -179,7 +179,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Pritt aber die Lungl, hakhs khlein, rests im <objectName ref="schmalz">schmalz</objectName>, nimb geribne Sembl.3. <lb/> oder 4 thaill souill als der lungl, befeichtigs mit Puter, geuß ein <lb/> Wenig süssen Rämb dran, aÿr vnd gwürzt, Weinpörl, ein Wenig Peter= <lb/> sillkhreitl, machs an Wie ein khnödltaig, nimb ein Mell auf ein bretl, <lb/> machs also Zu Nudl, bachs also in haissen <objectName ref="schmalz">schmalz</objectName> gschwind herauß, sie derffen <lb/> nit außbachen, thue es in ein reindl, oder schißl, auf ein gluetpfan, geuß <lb/> ein wenig <objectName ref="wein">Wein</objectName> dran, guete fleischbrüe, Zum anrichten ein Wenig Puter <lb/> dran, laß recht sieden, gibs Warm. <lb/> </p>
+        <p> Pritt aber die Lungl, hakhs khlein, rests im <objectName ref="#schmalz">schmalz</objectName>, nimb geribne Sembl.3. <lb/> oder 4 thaill souill als der lungl, befeichtigs mit Puter, geuß ein <lb/> Wenig süssen Rämb dran, aÿr vnd gwürzt, Weinpörl, ein Wenig Peter= <lb/> sillkhreitl, machs an Wie ein khnödltaig, nimb ein Mell auf ein bretl, <lb/> machs also Zu Nudl, bachs also in haissen <objectName ref="#schmalz">schmalz</objectName> gschwind herauß, sie derffen <lb/> nit außbachen, thue es in ein reindl, oder schißl, auf ein gluetpfan, geuß <lb/> ein wenig <objectName ref="#wein">Wein</objectName> dran, guete fleischbrüe, Zum anrichten ein Wenig Puter <lb/> dran, laß recht sieden, gibs Warm. <lb/> </p>
             </div>
         </body>
     </text>

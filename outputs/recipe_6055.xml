@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn die <objectName ref="schuessel">Schüssel</objectName> klein <lb/> kan der halbe Theil des Bugs <lb/> oder der Schulter <lb/> also gefüllt und zugericht werden <lb/> und wanns gebräunt wird <lb/> so soll die Füll von Kälber=Gehäck <lb/> mit <objectName ref="speck">Speck</objectName> etwas dicker darein gemacht werden <lb/> sonst schliefft die Füll wieder herauß. </p>
+        <p> WAnn die <objectName ref="#schuessel">Schüssel</objectName> klein <lb/> kan der halbe Theil des Bugs <lb/> oder der Schulter <lb/> also gefüllt und zugericht werden <lb/> und wanns gebräunt wird <lb/> so soll die Füll von Kälber=Gehäck <lb/> mit <objectName ref="#speck">Speck</objectName> etwas dicker darein gemacht werden <lb/> sonst schliefft die Füll wieder herauß. </p>
             </div>
         </body>
     </text>

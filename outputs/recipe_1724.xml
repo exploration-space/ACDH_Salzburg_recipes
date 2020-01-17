@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> So nimb halbs <objectName ref="fleisch">fleisch</objectName>, vnd halbs faist, vnnd <lb/> nimb darunter.2. zwifl häpl, klain ge= <lb/> =hackht, nimb Imber, <objectName ref="pfeffer">Pfeffer</objectName>, vnd Muß= <lb/> =catblie, vnd guete Kreiter. <lb/> </p>
+        <p> So nimb halbs <objectName ref="#fleisch">fleisch</objectName>, vnd halbs faist, vnnd <lb/> nimb darunter.2. zwifl häpl, klain ge= <lb/> =hackht, nimb Imber, <objectName ref="#pfeffer">Pfeffer</objectName>, vnd Muß= <lb/> =catblie, vnd guete Kreiter. <lb/> </p>
             </div>
         </body>
     </text>

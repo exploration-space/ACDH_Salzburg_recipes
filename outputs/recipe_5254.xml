@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) gebackene <objectName ref="bier">Biern</objectName> oder Hutzeln <lb/> koch sie in einem <objectName ref="wasser">Wasser</objectName> <lb/> gib sie warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> vnd <objectName ref="zucker">zucker</objectName> sie. Oder wenn sie grün <lb/> weich vnnd zeitig seyn <lb/> so streich sie durch ein Härin <objectName ref="tuch">Tuch</objectName> <lb/> thu sie in ein <objectName ref="fischkessel">Fischkessel</objectName> <lb/> setz mit <objectName ref="butter">Butter</objectName> auff Kolen <lb/> vnd rürs vmb <lb/> biß daß auffseudt <lb/> richts alsdenn in eine <objectName ref="schuessel">Schüssel</objectName> an <lb/> zuckers <lb/> vnd gibs warm auff ein <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> Nim ( m ) gebackene <objectName ref="#bier">Biern</objectName> oder Hutzeln <lb/> koch sie in einem <objectName ref="#wasser">Wasser</objectName> <lb/> gib sie warm auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> vnd <objectName ref="#zucker">zucker</objectName> sie. Oder wenn sie grün <lb/> weich vnnd zeitig seyn <lb/> so streich sie durch ein Härin <objectName ref="#tuch">Tuch</objectName> <lb/> thu sie in ein <objectName ref="#fischkessel">Fischkessel</objectName> <lb/> setz mit <objectName ref="#butter">Butter</objectName> auff Kolen <lb/> vnd rürs vmb <lb/> biß daß auffseudt <lb/> richts alsdenn in eine <objectName ref="#schuessel">Schüssel</objectName> an <lb/> zuckers <lb/> vnd gibs warm auff ein <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

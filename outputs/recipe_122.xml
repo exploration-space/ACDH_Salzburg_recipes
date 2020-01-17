@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Thue den Kärpfen auf thue das <lb/> Ingewaidt<gap/> heraus vnnd sied<gap/> in <lb/> einen <objectName ref="wasser">Wasser</objectName> hernach hackh es gar <lb/> Klein Nimb abgezogne<gap/> Mandl hack <lb/> auch Klein vnnd thue es auch dar = <lb/><lb/> ( ve 52 ) vnder mach von.2. oder.3. Ayr<gap/> <lb/> ein Ayrn schmalz<gap/> hackhs auch darunter <lb/> vnnd Gewürz<gap/> mit allerley Gewürz <lb/> mach es an mit Ayr vnd siess obers<gap/> <lb/> aber nit Zu din thue auch einen <lb/> Guetten Prockhen<gap/> Putter darunter <lb/> alsdan fill<gap/> den Kärpfen darmit <lb/> ein Pradt<gap/> ihm fein schön auf den <lb/> <objectName ref="rost">Rost</objectName> schmirb<gap/> ihn mit schmalz<gap/> Gib <lb/> ihn her. <lb/> </p>
+        <p> Thue den Kärpfen auf thue das <lb/> Ingewaidt<gap/> heraus vnnd sied<gap/> in <lb/> einen <objectName ref="#wasser">Wasser</objectName> hernach hackh es gar <lb/> Klein Nimb abgezogne<gap/> Mandl hack <lb/> auch Klein vnnd thue es auch dar = <lb/><lb/> ( ve 52 ) vnder mach von.2. oder.3. Ayr<gap/> <lb/> ein Ayrn schmalz<gap/> hackhs auch darunter <lb/> vnnd Gewürz<gap/> mit allerley Gewürz <lb/> mach es an mit Ayr vnd siess obers<gap/> <lb/> aber nit Zu din thue auch einen <lb/> Guetten Prockhen<gap/> Putter darunter <lb/> alsdan fill<gap/> den Kärpfen darmit <lb/> ein Pradt<gap/> ihm fein schön auf den <lb/> <objectName ref="#rost">Rost</objectName> schmirb<gap/> ihn mit schmalz<gap/> Gib <lb/> ihn her. <lb/> </p>
             </div>
         </body>
     </text>

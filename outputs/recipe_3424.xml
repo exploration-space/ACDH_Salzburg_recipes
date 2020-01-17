@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> RIchte die Schnepffen <lb/> ( wie oben ) mit Fricanto, vom <objectName ref="kalbfleisch">Kalbfleisch</objectName> zu einem Ragu; röste auch das Gedärm vom Schnepffen <lb/> mit <objectName ref="butter">Butter</objectName> <lb/> Semmel= Brosen <lb/> und wenig <objectName ref="wein">Wein</objectName> <lb/> und wann das Ragu fertig <lb/> so gibt mans zusammen in die <objectName ref="schuessel">Schüssel</objectName>; gibs warm <lb/> es ist köstlich. </p>
+        <p> RIchte die Schnepffen <lb/> ( wie oben ) mit Fricanto, vom <objectName ref="#kalbfleisch">Kalbfleisch</objectName> zu einem Ragu; röste auch das Gedärm vom Schnepffen <lb/> mit <objectName ref="#butter">Butter</objectName> <lb/> Semmel= Brosen <lb/> und wenig <objectName ref="#wein">Wein</objectName> <lb/> und wann das Ragu fertig <lb/> so gibt mans zusammen in die <objectName ref="#schuessel">Schüssel</objectName>; gibs warm <lb/> es ist köstlich. </p>
             </div>
         </body>
     </text>

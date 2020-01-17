@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schlag 4. oder 5. Aÿr auf, spridls ab, geuß ein süssen Rämb dran, spridls <lb/> undereindander ab, gieß in ein pfan rührs ab dem <objectName ref="feuer">feuer</objectName> herab, das es <lb/> fein dikhlet Wird, <objectName ref="salz">Salz</objectName>, vnd richts an auf bähte Schniten, das die dopfen <lb/> fein oben seind, ist ein guets Essen. <lb/> </p>
+        <p> Schlag 4. oder 5. Aÿr auf, spridls ab, geuß ein süssen Rämb dran, spridls <lb/> undereindander ab, gieß in ein pfan rührs ab dem <objectName ref="#feuer">feuer</objectName> herab, das es <lb/> fein dikhlet Wird, <objectName ref="#salz">Salz</objectName>, vnd richts an auf bähte Schniten, das die dopfen <lb/> fein oben seind, ist ein guets Essen. <lb/> </p>
             </div>
         </body>
     </text>

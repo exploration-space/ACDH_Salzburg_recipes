@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ZWieret das <objectName ref="mehl">Mehl</objectName> mit einem laulichten <objectName ref="wasser">Wasser</objectName> an <lb/> wie zu einen Strauben= <objectName ref="teig">Teig</objectName> <lb/> saltzet es; lasset hernach ein Schmaltz <lb/> etwan einer Welschen Nuß groß <lb/> in einer Pfannen zergehen <lb/> und wieder kalt werden <lb/> giesset den <objectName ref="teig">Teig</objectName> darein <lb/> brennet ihn wohl <lb/> daß er nicht stinckend werde : leget selbigen nachmal in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> klopffet und machet ihn mit warmen Eyern zu einer rechten Dicken an <lb/> und bachet die Küchlein <lb/> wie schon gedacht. </p>
+        <p> ZWieret das <objectName ref="#mehl">Mehl</objectName> mit einem laulichten <objectName ref="#wasser">Wasser</objectName> an <lb/> wie zu einen Strauben= <objectName ref="#teig">Teig</objectName> <lb/> saltzet es; lasset hernach ein Schmaltz <lb/> etwan einer Welschen Nuß groß <lb/> in einer Pfannen zergehen <lb/> und wieder kalt werden <lb/> giesset den <objectName ref="#teig">Teig</objectName> darein <lb/> brennet ihn wohl <lb/> daß er nicht stinckend werde : leget selbigen nachmal in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> klopffet und machet ihn mit warmen Eyern zu einer rechten Dicken an <lb/> und bachet die Küchlein <lb/> wie schon gedacht. </p>
             </div>
         </body>
     </text>

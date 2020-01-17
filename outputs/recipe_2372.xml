@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet Senff= <objectName ref="mehl">Mehl</objectName> <lb/> so viel beliebt <lb/> machet einen Wein= <objectName ref="essig">Essig</objectName> siedend <lb/> giesst ihn auf das <objectName ref="mehl">Mehl</objectName> <lb/> und rührets also wohl ab; will man es herb haben <lb/> saltzt und pfeffert es noch ein wenig : oder man kan auch an statt deß Essigs einen <objectName ref="wein">Wein</objectName> nehmen <lb/> alsdann aber das Saltz und den <objectName ref="pfeffer">Pfeffer</objectName> davon lassen <lb/> so in eines jeden belieben stehet <lb/> decket oder verbindet ihn aber wohl <lb/> damit er nicht ausrieche. </p>
+        <p> NEhmet Senff= <objectName ref="#mehl">Mehl</objectName> <lb/> so viel beliebt <lb/> machet einen Wein= <objectName ref="#essig">Essig</objectName> siedend <lb/> giesst ihn auf das <objectName ref="#mehl">Mehl</objectName> <lb/> und rührets also wohl ab; will man es herb haben <lb/> saltzt und pfeffert es noch ein wenig : oder man kan auch an statt deß Essigs einen <objectName ref="#wein">Wein</objectName> nehmen <lb/> alsdann aber das Saltz und den <objectName ref="#pfeffer">Pfeffer</objectName> davon lassen <lb/> so in eines jeden belieben stehet <lb/> decket oder verbindet ihn aber wohl <lb/> damit er nicht ausrieche. </p>
             </div>
         </body>
     </text>

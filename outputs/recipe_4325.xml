@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimm gute grosse und kleine Weinbeerlein <lb/> wann selbe sauber geklaubt und gewaschen seynd <lb/> so sieds ein wenig <lb/> mit halb <objectName ref="wein">Wein</objectName> und halb <objectName ref="wasser">Wasser</objectName> <lb/> mit gantz wenig <objectName ref="bruehe">Brühe</objectName>; dann mach es an mit <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet und Lemoni= Schaalen <lb/> und fülls in ein aufgesetzte Dorten <lb/> oder auch in Butter= Taig <lb/> und dergleichen Schlangen; wer gern will <lb/> der nimmt auch gantze oder geschnittne <objectName ref="mandeln">Mandeln</objectName> oder Pinioli darein. </p>
+        <p> Nimm gute grosse und kleine Weinbeerlein <lb/> wann selbe sauber geklaubt und gewaschen seynd <lb/> so sieds ein wenig <lb/> mit halb <objectName ref="#wein">Wein</objectName> und halb <objectName ref="#wasser">Wasser</objectName> <lb/> mit gantz wenig <objectName ref="#bruehe">Brühe</objectName>; dann mach es an mit <objectName ref="#zucker">Zucker</objectName> <lb/> Zimmet und Lemoni= Schaalen <lb/> und fülls in ein aufgesetzte Dorten <lb/> oder auch in Butter= Taig <lb/> und dergleichen Schlangen; wer gern will <lb/> der nimmt auch gantze oder geschnittne <objectName ref="#mandeln">Mandeln</objectName> oder Pinioli darein. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein schönes Mell<gap/> Pren<gap/> ein <lb/> schmalz<gap/> drein, nimb halb <objectName ref="wasser">Wasser</objectName> vnd <lb/> österreicher <objectName ref="wein">Wein</objectName>, vnd woll Zuckher <lb/> alles lablet<gap/> vnnd ayr Clar, mach <lb/> Gar ein dines daigl<gap/> an, nimb <lb/><lb/> ( re 88 ) ein lefl der.3. rehrl hat, Gies<gap/> <lb/> den taig<gap/> darein, vnnd säch<gap/> es <lb/> in ein haiss <objectName ref="schmalz">schmalz</objectName> hinein, las <lb/> schön Gelflet<gap/> bachen<gap/>, hebs heraus <lb/> legs yber ein walger<gap/>, das Krumb <lb/> vmb werden, richts Auf ein schißl<gap/> <lb/> vnnd Zuckhers, so seindt sie schön <lb/> vnnd Gericht. <lb/> </p>
+        <p> Nimb ein schönes Mell<gap/> Pren<gap/> ein <lb/> schmalz<gap/> drein, nimb halb <objectName ref="#wasser">Wasser</objectName> vnd <lb/> österreicher <objectName ref="#wein">Wein</objectName>, vnd woll Zuckher <lb/> alles lablet<gap/> vnnd ayr Clar, mach <lb/> Gar ein dines daigl<gap/> an, nimb <lb/><lb/> ( re 88 ) ein lefl der.3. rehrl hat, Gies<gap/> <lb/> den taig<gap/> darein, vnnd säch<gap/> es <lb/> in ein haiss <objectName ref="#schmalz">schmalz</objectName> hinein, las <lb/> schön Gelflet<gap/> bachen<gap/>, hebs heraus <lb/> legs yber ein walger<gap/>, das Krumb <lb/> vmb werden, richts Auf ein schißl<gap/> <lb/> vnnd Zuckhers, so seindt sie schön <lb/> vnnd Gericht. <lb/> </p>
             </div>
         </body>
     </text>

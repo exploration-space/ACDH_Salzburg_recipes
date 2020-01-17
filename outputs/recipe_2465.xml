@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet ein Bratwurst= <objectName ref="gehaeck">Gehäck</objectName> <lb/> oder leeret etliche Bratwürste aus <lb/> hacket solches noch ein wenig kleiner <lb/> rühret etwas von geriebenen <objectName ref="semmelmehl">Semmelmehl</objectName> darunter <lb/> schlaget Eyer daran <lb/> und rühret also alles wohl durch einander; formiret alsdann die Knötlein daraus <lb/> und legets in eine siedende Fleischbrüh; dann zu diesen Knötlein darff man kein Schmaltz oder <objectName ref="butter">Butter</objectName> nehmen <lb/> weil sie der <objectName ref="speck">Speck</objectName> ohne dem schon <objectName ref="fett">fett</objectName> genug machet; man darff sie auch nicht mehrers würtzen : Wann man aber will <lb/> kan man ein wenig klein= geschnittene Citronen= Schelffen darunter mischen. </p>
+        <p> NEhmet ein Bratwurst= <objectName ref="#gehaeck">Gehäck</objectName> <lb/> oder leeret etliche Bratwürste aus <lb/> hacket solches noch ein wenig kleiner <lb/> rühret etwas von geriebenen <objectName ref="#semmelmehl">Semmelmehl</objectName> darunter <lb/> schlaget Eyer daran <lb/> und rühret also alles wohl durch einander; formiret alsdann die Knötlein daraus <lb/> und legets in eine siedende Fleischbrüh; dann zu diesen Knötlein darff man kein Schmaltz oder <objectName ref="#butter">Butter</objectName> nehmen <lb/> weil sie der <objectName ref="#speck">Speck</objectName> ohne dem schon <objectName ref="#fett">fett</objectName> genug machet; man darff sie auch nicht mehrers würtzen : Wann man aber will <lb/> kan man ein wenig klein= geschnittene Citronen= Schelffen darunter mischen. </p>
             </div>
         </body>
     </text>

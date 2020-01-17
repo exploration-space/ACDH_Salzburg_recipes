@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Du kanst auch von einem Indianischen Han ein lauter Brüh zurichten <lb/> vnd mehr als viertzig Speiß <lb/> die nicht klein seind <lb/> kochen. Du kanst dazu nemmen <objectName ref="magen">Magen</objectName> <lb/> <objectName ref="leber">Leber</objectName> <lb/> Därm vnd den Schweiß. Vnd du darffst nichts davon wegwerffen <lb/> kanst alles zu nutz machen. </p>
+        <p> Du kanst auch von einem Indianischen Han ein lauter Brüh zurichten <lb/> vnd mehr als viertzig Speiß <lb/> die nicht klein seind <lb/> kochen. Du kanst dazu nemmen <objectName ref="#magen">Magen</objectName> <lb/> <objectName ref="#leber">Leber</objectName> <lb/> Därm vnd den Schweiß. Vnd du darffst nichts davon wegwerffen <lb/> kanst alles zu nutz machen. </p>
             </div>
         </body>
     </text>

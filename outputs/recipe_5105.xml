@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> AAlenfisch <lb/> auf obige Weiß <lb/> mit der Haut <lb/> Stuck= weiß heiß abgesotten <lb/> und kalt werden lassen <lb/> alsdann mit zerlassenem <objectName ref="butter">Butter</objectName> <lb/> oder Oel begossen <lb/> mit angemachten Semmel= Brosen bestreut <lb/> in ein mit <objectName ref="butter">Butter</objectName> bestrichnes <objectName ref="geschirr">Geschirr</objectName> gelegt <lb/> und mit unten und oben gegebner <objectName ref="glut">Glut</objectName> schnell Farb gegeben <lb/> angericht <lb/> mit Lemoni= oder sauren Pomerantzen <lb/> Saft <lb/> in Ermanglung dessen <lb/> kann man etlich Tropfen Eßig geben. </p>
+        <p> AAlenfisch <lb/> auf obige Weiß <lb/> mit der Haut <lb/> Stuck= weiß heiß abgesotten <lb/> und kalt werden lassen <lb/> alsdann mit zerlassenem <objectName ref="#butter">Butter</objectName> <lb/> oder Oel begossen <lb/> mit angemachten Semmel= Brosen bestreut <lb/> in ein mit <objectName ref="#butter">Butter</objectName> bestrichnes <objectName ref="#geschirr">Geschirr</objectName> gelegt <lb/> und mit unten und oben gegebner <objectName ref="#glut">Glut</objectName> schnell Farb gegeben <lb/> angericht <lb/> mit Lemoni= oder sauren Pomerantzen <lb/> Saft <lb/> in Ermanglung dessen <lb/> kann man etlich Tropfen Eßig geben. </p>
             </div>
         </body>
     </text>

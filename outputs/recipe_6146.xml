@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim neuwe Nüß vnd <objectName ref="mandeln">Mandeln</objectName> <lb/> die sauber geschelet seyn <lb/> vnnd etwan ein halbe zeh Knobloch <lb/> sotß es durcheinander <lb/> vnd nim ein gute Kappaunenbrüh <lb/> die lauter vnd nicht feißt <lb/> nim die Brosamen von einem Weck <lb/> vnd weich sie in die Brüh eyn <lb/> stoß die Nüß darvnter <lb/> daß fein dick wirt <lb/> nim die Brüh darvnter <lb/> daß nicht gar zu dick wirt <lb/> gib es auff ein kleine <objectName ref="schuessel">Schüssel</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
+        <p> Nim neuwe Nüß vnd <objectName ref="#mandeln">Mandeln</objectName> <lb/> die sauber geschelet seyn <lb/> vnnd etwan ein halbe zeh Knobloch <lb/> sotß es durcheinander <lb/> vnd nim ein gute Kappaunenbrüh <lb/> die lauter vnd nicht feißt <lb/> nim die Brosamen von einem Weck <lb/> vnd weich sie in die Brüh eyn <lb/> stoß die Nüß darvnter <lb/> daß fein dick wirt <lb/> nim die Brüh darvnter <lb/> daß nicht gar zu dick wirt <lb/> gib es auff ein kleine <objectName ref="#schuessel">Schüssel</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Erstlich brit den Spinät, vnd ball ihn auß, darnach hakh ihn khlain, mach <lb/> ihn an mit geribner Sembl, aÿrn, nach dem du ihn Wilt groß machen 3 oder <lb/> 4 Aÿr in ein rämbl, vnd Zerlassnen Puter, rührs undereinander, darnach <lb/> thues in ein saubers diechl bindten, vnd nimb ein häferl, geuß <objectName ref="fleisch">fleisch</objectName> : oder <lb/> Arbes brüe dran, vnd Seuds drein, vnd wans genug gsoten ist, so thues auf <lb/> ein schißl, vnd mach ein Puter süppl drüber, es ist bereith. </p>
+        <p> Erstlich brit den Spinät, vnd ball ihn auß, darnach hakh ihn khlain, mach <lb/> ihn an mit geribner Sembl, aÿrn, nach dem du ihn Wilt groß machen 3 oder <lb/> 4 Aÿr in ein rämbl, vnd Zerlassnen Puter, rührs undereinander, darnach <lb/> thues in ein saubers diechl bindten, vnd nimb ein häferl, geuß <objectName ref="#fleisch">fleisch</objectName> : oder <lb/> Arbes brüe dran, vnd Seuds drein, vnd wans genug gsoten ist, so thues auf <lb/> ein schißl, vnd mach ein Puter süppl drüber, es ist bereith. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SCheel und stoß die <objectName ref="mandeln">Mandeln</objectName> mit etlich Tropffen <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> machs mit Eyern an <lb/> thue <objectName ref="zucker">Zucker</objectName> und wenig Gewürtz darunter <lb/> mach einen Affelmund= Taig <lb/> der N°. 40. beschrieben ist <lb/> an <lb/> walge ihn aus <lb/> füll die <objectName ref="mandeln">Mandeln</objectName> darein <lb/> wie die Schlück= Kräpfflein <lb/> bachs kühl. </p>
+        <p> SCheel und stoß die <objectName ref="#mandeln">Mandeln</objectName> mit etlich Tropffen <objectName ref="#rosenwasser">Rosenwasser</objectName> <lb/> machs mit Eyern an <lb/> thue <objectName ref="#zucker">Zucker</objectName> und wenig Gewürtz darunter <lb/> mach einen Affelmund= Taig <lb/> der N°. 40. beschrieben ist <lb/> an <lb/> walge ihn aus <lb/> füll die <objectName ref="#mandeln">Mandeln</objectName> darein <lb/> wie die Schlück= Kräpfflein <lb/> bachs kühl. </p>
             </div>
         </body>
     </text>

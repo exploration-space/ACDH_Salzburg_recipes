@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm klein= gehacktes <objectName ref="fleisch">Fleisch</objectName> <lb/> von gesottenen und ausgezopfften Hechten <lb/> Eyer= Käß <lb/> mit in süssen Ram geweichter <lb/> und wieder ausgedruckter Semmel <lb/> Gewürtz <lb/> Saltz <lb/> wenig <objectName ref="majoran">Majoran</objectName> <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Muscatnuß <lb/> auch so es beliebt <lb/> ein wenig ganz klein= gehackten Zwibel; dann nimm zerlassenen rothen Krebs= <objectName ref="butter">Butter</objectName> <lb/> rühre nach Nothdurft Eyer <lb/> oder nach Nothdurfft nur die Dotter darein <lb/> und dann all die Sachen untereinander wohl ab <lb/> so ist der Taig verfertiget. </p>
+        <p> NImm klein= gehacktes <objectName ref="#fleisch">Fleisch</objectName> <lb/> von gesottenen und ausgezopfften Hechten <lb/> Eyer= Käß <lb/> mit in süssen Ram geweichter <lb/> und wieder ausgedruckter Semmel <lb/> Gewürtz <lb/> Saltz <lb/> wenig <objectName ref="#majoran">Majoran</objectName> <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> und Muscatnuß <lb/> auch so es beliebt <lb/> ein wenig ganz klein= gehackten Zwibel; dann nimm zerlassenen rothen Krebs= <objectName ref="#butter">Butter</objectName> <lb/> rühre nach Nothdurft Eyer <lb/> oder nach Nothdurfft nur die Dotter darein <lb/> und dann all die Sachen untereinander wohl ab <lb/> so ist der Taig verfertiget. </p>
             </div>
         </body>
     </text>

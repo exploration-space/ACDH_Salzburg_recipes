@@ -177,7 +177,7 @@ Gras Blumen Saft = Gartennelke</note>
                 </listObject>
             </div>
         <div type="recipe">
-        <p> GIesset ein wenig Rosen= <objectName ref="essig">Essig</objectName> in <objectName ref="wein">Wein</objectName> <lb/> streuet <objectName ref="zucker">Zucker</objectName> <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Cardamomen <lb/> Zimmet <lb/> Muscatenblüh <lb/> und ein Trisanet darein <lb/> last es alles zusammen aufsieden; giesst zu letzt ein wenig braunen Negelein= oder Gras= Blumen= Safft dazu <lb/> richtet sie dann über die Rebhüner <lb/> und bezieret selbige mit eingemachten Saurach oder Wein= Lägelein </p>
+        <p> GIesset ein wenig Rosen= <objectName ref="#essig">Essig</objectName> in <objectName ref="#wein">Wein</objectName> <lb/> streuet <objectName ref="#zucker">Zucker</objectName> <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Cardamomen <lb/> Zimmet <lb/> Muscatenblüh <lb/> und ein Trisanet darein <lb/> last es alles zusammen aufsieden; giesst zu letzt ein wenig braunen Negelein= oder Gras= Blumen= Safft dazu <lb/> richtet sie dann über die Rebhüner <lb/> und bezieret selbige mit eingemachten Saurach oder Wein= Lägelein </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Mach ein <objectName ref="teig">Teig</objectName> mit <objectName ref="wein">Wein</objectName> vnnd Eyern an <lb/> oder mit lauter <objectName ref="milch">Milch</objectName>. Stoß den Messing <objectName ref="model">Model</objectName> in heisse <objectName ref="butter">Butter</objectName> <lb/> daß er warm wirt <lb/> truckne jhn wol ab <lb/> stoß das Eysen in <objectName ref="teig">Teig</objectName> <lb/> daß er nicht vber das Eysen gehet <lb/> halts gegen dem Feuwer <lb/> daß fein trucken wirt an dem Eysen <lb/> vnnd wenns trucken ist <lb/> so stoß flugs in heisse <objectName ref="butter">Butter</objectName> <lb/> so wirt der <objectName ref="teig">Teig</objectName> vom Eysen lassen <lb/> backs geschwindt auß <lb/> legs auff ein Bret oder Sib. </p>
+        <p> Mach ein <objectName ref="#teig">Teig</objectName> mit <objectName ref="#wein">Wein</objectName> vnnd Eyern an <lb/> oder mit lauter <objectName ref="#milch">Milch</objectName>. Stoß den Messing <objectName ref="#model">Model</objectName> in heisse <objectName ref="#butter">Butter</objectName> <lb/> daß er warm wirt <lb/> truckne jhn wol ab <lb/> stoß das Eysen in <objectName ref="#teig">Teig</objectName> <lb/> daß er nicht vber das Eysen gehet <lb/> halts gegen dem Feuwer <lb/> daß fein trucken wirt an dem Eysen <lb/> vnnd wenns trucken ist <lb/> so stoß flugs in heisse <objectName ref="#butter">Butter</objectName> <lb/> so wirt der <objectName ref="#teig">Teig</objectName> vom Eysen lassen <lb/> backs geschwindt auß <lb/> legs auff ein Bret oder Sib. </p>
             </div>
         </body>
     </text>

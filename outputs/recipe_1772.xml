@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schneit den stingl halb daruon, laß sonst ganz, <lb/> thue es in ain Pfannen, geuß gueten <objectName ref="wein">wein</objectName> <lb/> daran, nimb zugger, laß zimblich ein sieden, <lb/> richts auf die schißl, sez die stingl in die höch, <lb/> gibs Kalt. <lb/> </p>
+        <p> Schneit den stingl halb daruon, laß sonst ganz, <lb/> thue es in ain Pfannen, geuß gueten <objectName ref="#wein">wein</objectName> <lb/> daran, nimb zugger, laß zimblich ein sieden, <lb/> richts auf die schißl, sez die stingl in die höch, <lb/> gibs Kalt. <lb/> </p>
             </div>
         </body>
     </text>

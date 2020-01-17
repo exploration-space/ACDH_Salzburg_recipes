@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Streich die <objectName ref="mandeln">Mandeln</objectName> mit <objectName ref="hausenblase">Hausenblasen</objectName> vnd Weichselsalsen durcheinander <lb/> machs wol süß <lb/> setz es auff Kolen <lb/> vn rürs vmb <lb/> biß daß auffseudt <lb/> daß nicht anbrenet <lb/> wenns kalt ist <lb/> so geuß es in einen <objectName ref="model">Model</objectName> <lb/> den du mit <objectName ref="mandeloel">Mandelöl</objectName> geschmiert hast. </p>
+        <p> Streich die <objectName ref="#mandeln">Mandeln</objectName> mit <objectName ref="#hausenblase">Hausenblasen</objectName> vnd Weichselsalsen durcheinander <lb/> machs wol süß <lb/> setz es auff Kolen <lb/> vn rürs vmb <lb/> biß daß auffseudt <lb/> daß nicht anbrenet <lb/> wenns kalt ist <lb/> so geuß es in einen <objectName ref="#model">Model</objectName> <lb/> den du mit <objectName ref="#mandeloel">Mandelöl</objectName> geschmiert hast. </p>
             </div>
         </body>
     </text>

@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr <objectName ref="lachs">Lachs</objectName> <lb/> oder Rhein= Salm wird frischer zu Stucken zerschnitten <lb/> eingesaltzen <lb/> gewürtzt <lb/> und mit <objectName ref="butter">Butter</objectName> <lb/> Oel <lb/> <objectName ref="lorbeer-2">Lorbeer</objectName> <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> Zwibeln <lb/> u. Lemoni <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> auch wenig <objectName ref="wein">Wein</objectName> gut gedämpfft. </p>
+        <p> DEr <objectName ref="#lachs">Lachs</objectName> <lb/> oder Rhein= Salm wird frischer zu Stucken zerschnitten <lb/> eingesaltzen <lb/> gewürtzt <lb/> und mit <objectName ref="#butter">Butter</objectName> <lb/> Oel <lb/> <objectName ref="#lorbeer-2">Lorbeer</objectName> <lb/> <objectName ref="#knoblauch">Knoblauch</objectName> <lb/> Zwibeln <lb/> u. Lemoni <lb/> <objectName ref="#rosmarin">Rosmarin</objectName> <lb/> auch wenig <objectName ref="#wein">Wein</objectName> gut gedämpfft. </p>
             </div>
         </body>
     </text>

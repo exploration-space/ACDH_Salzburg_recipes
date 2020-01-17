@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb.1. tt feinen zkher vnd.1. tt wasßer auf <lb/> ein koll <objectName ref="feuer">feuer</objectName> wan es einen guten Sudt <lb/> gethan hat, heb es von <objectName ref="feuer">feuer</objectName> ab, es <lb/> muß zwar ab gefaimbt werden vnd <lb/> laß kalt werden, nimb.4. <objectName ref="loth">loth</objectName> gel,, <lb/> samin vnd thue selbe in gesodtnen <lb/> zukher rühr es woll durch einander, <lb/> thues hernach in ein kleines geschier <lb/> oder glaß oder meolicha bindt es woll <lb/> mit fließ <objectName ref="papier">Papier</objectName> vnd verhalt es fein <lb/> in druckhnen orth brauch es nach <lb/> deinen belieben. <lb/> </p>
+        <p> Nimb.1. tt feinen zkher vnd.1. tt wasßer auf <lb/> ein koll <objectName ref="#feuer">feuer</objectName> wan es einen guten Sudt <lb/> gethan hat, heb es von <objectName ref="#feuer">feuer</objectName> ab, es <lb/> muß zwar ab gefaimbt werden vnd <lb/> laß kalt werden, nimb.4. <objectName ref="#loth">loth</objectName> gel,, <lb/> samin vnd thue selbe in gesodtnen <lb/> zukher rühr es woll durch einander, <lb/> thues hernach in ein kleines geschier <lb/> oder glaß oder meolicha bindt es woll <lb/> mit fließ <objectName ref="#papier">Papier</objectName> vnd verhalt es fein <lb/> in druckhnen orth brauch es nach <lb/> deinen belieben. <lb/> </p>
             </div>
         </body>
     </text>

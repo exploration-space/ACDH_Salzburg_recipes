@@ -179,7 +179,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAn kan auch das klein=gehackte <lb/> und sauber ausgewaschene Fleischlein in wenig weiß Meel und <objectName ref="butter">Butter</objectName> <lb/> mit gehörigem Gewürtz <lb/> und benandten Agres= oder Stachel=Beeren <lb/> oder Wein=Trauben rösten <lb/> und mit kurtzer <objectName ref="bruehe">Brühe</objectName> abkochen lassen <lb/> oder mit dem durchgetriebenen Safft von disen Stachel=Beeren <lb/> oder Wein=Trauben zu fricassiren : Oder auch ohne Eyerdotter zu kochen; bey denen Schwammen und Maurachen <lb/> können etliche Tropffen <objectName ref="wein">Wein</objectName> nach dem Rösten zugesetzt werden. </p>
+        <p> MAn kan auch das klein=gehackte <lb/> und sauber ausgewaschene Fleischlein in wenig weiß Meel und <objectName ref="#butter">Butter</objectName> <lb/> mit gehörigem Gewürtz <lb/> und benandten Agres= oder Stachel=Beeren <lb/> oder Wein=Trauben rösten <lb/> und mit kurtzer <objectName ref="#bruehe">Brühe</objectName> abkochen lassen <lb/> oder mit dem durchgetriebenen Safft von disen Stachel=Beeren <lb/> oder Wein=Trauben zu fricassiren : Oder auch ohne Eyerdotter zu kochen; bey denen Schwammen und Maurachen <lb/> können etliche Tropffen <objectName ref="#wein">Wein</objectName> nach dem Rösten zugesetzt werden. </p>
             </div>
         </body>
     </text>

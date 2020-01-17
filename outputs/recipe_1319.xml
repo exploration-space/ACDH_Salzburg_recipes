@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Mache ainen taig<gap/> an, walge<gap/> ain dines<gap/> <lb/> Bladt<gap/> auß, hackhe<gap/> ainen khell<gap/> klein, rest<gap/> <lb/> im Butter<gap/> und semmel<gap/> Breßl<gap/>, schlage auch <lb/> 1 ayr<gap/> daran, Streiche<gap/> ihm auf daß Blätl<gap/>, <lb/> vorhero salzen, und <objectName ref="pfeffer">pfeffern</objectName>, rohl ihme zu= <lb/> =sammen, und siede<gap/> ihm in einen wasßer <lb/> herab, wann er gesoten<gap/> ist, so schneide<gap/> Stuckh<gap/> <lb/> darauß, und richt<gap/> ihm zue wie den spinäth<gap/> <lb/> Strudl<gap/>, ist guet. <lb/> </p>
+        <p> Mache ainen taig<gap/> an, walge<gap/> ain dines<gap/> <lb/> Bladt<gap/> auß, hackhe<gap/> ainen khell<gap/> klein, rest<gap/> <lb/> im Butter<gap/> und semmel<gap/> Breßl<gap/>, schlage auch <lb/> 1 ayr<gap/> daran, Streiche<gap/> ihm auf daß Blätl<gap/>, <lb/> vorhero salzen, und <objectName ref="#pfeffer">pfeffern</objectName>, rohl ihme zu= <lb/> =sammen, und siede<gap/> ihm in einen wasßer <lb/> herab, wann er gesoten<gap/> ist, so schneide<gap/> Stuckh<gap/> <lb/> darauß, und richt<gap/> ihm zue wie den spinäth<gap/> <lb/> Strudl<gap/>, ist guet. <lb/> </p>
             </div>
         </body>
     </text>

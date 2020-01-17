@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Heiß abgesotten fein blaw <lb/> machs wol säurlich mit <objectName ref="essig">Essig</objectName> <lb/> so wirt es desto steiffer <lb/> vnd schaw <lb/> daß du es nicht verseudest <lb/> denn ein Esch ist bald gesotten <lb/> wenn man sie zu stücken macht. Ist die Esch groß <lb/> so macht man stück darauß <lb/> ist sie klein <lb/> so leßt man sie gantz. </p>
+        <p> Heiß abgesotten fein blaw <lb/> machs wol säurlich mit <objectName ref="#essig">Essig</objectName> <lb/> so wirt es desto steiffer <lb/> vnd schaw <lb/> daß du es nicht verseudest <lb/> denn ein Esch ist bald gesotten <lb/> wenn man sie zu stücken macht. Ist die Esch groß <lb/> so macht man stück darauß <lb/> ist sie klein <lb/> so leßt man sie gantz. </p>
             </div>
         </body>
     </text>

@@ -179,7 +179,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb guete Piern 9. oder 10. vnd bräte sie, vnd seuds in einem <lb/> gesotnen <objectName ref="wein">Wein</objectName>, darnach treibs durch ein Sib, nimb die doter <lb/> von 14. Aÿrn, vnd ½.lt. Mandl, gestossen, vnd durch ein sib treiben, <lb/> Nimb souill Mandlmilch als doter sein, nimb ½.lt. khuchlzukher, <lb/> Mußcatnussen, vnd Mußcatblüe, Zimetröhrn, Imber, <objectName ref="naegel">Nägel</objectName>, <lb/> thue es alles undereinander, dan nimb ein Pfan mit einem <lb/> <objectName ref="schmalz">schmalz</objectName>, ein torden taig, gib ihm hiz, Zu zeiten Weniger oder <lb/> mehr, oben vnd unden mit einer haissen hafendëkh. </p>
+        <p> Nimb guete Piern 9. oder 10. vnd bräte sie, vnd seuds in einem <lb/> gesotnen <objectName ref="#wein">Wein</objectName>, darnach treibs durch ein Sib, nimb die doter <lb/> von 14. Aÿrn, vnd ½.lt. Mandl, gestossen, vnd durch ein sib treiben, <lb/> Nimb souill Mandlmilch als doter sein, nimb ½.lt. khuchlzukher, <lb/> Mußcatnussen, vnd Mußcatblüe, Zimetröhrn, Imber, <objectName ref="#naegel">Nägel</objectName>, <lb/> thue es alles undereinander, dan nimb ein Pfan mit einem <lb/> <objectName ref="#schmalz">schmalz</objectName>, ein torden taig, gib ihm hiz, Zu zeiten Weniger oder <lb/> mehr, oben vnd unden mit einer haissen hafendëkh. </p>
             </div>
         </body>
     </text>

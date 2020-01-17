@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet guten süssen <objectName ref="wein">Wein</objectName> <lb/> giesst einen Holunder= oder Rosen= <objectName ref="essig">Essig</objectName> dazu <lb/> zuckert ihn <lb/> streuet <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Cardamomen <lb/> Muscaten= Blüh <lb/> Zimmet und Trisanet darein <lb/> ingleichen auch Citronen= Marck <lb/> last alles zusammen aufsieden <lb/> zuckerts nach belieben <lb/> und richtets über das Gebratens; belegt aber selbiges mit Citronen= Plätzen <lb/> so zuvor im <objectName ref="zucker">Zucker</objectName> gelegen <lb/> und streuet dergleichen klein= und würfflicht= geschnittene Schelffen darauf. </p>
+        <p> NEhmet guten süssen <objectName ref="#wein">Wein</objectName> <lb/> giesst einen Holunder= oder Rosen= <objectName ref="#essig">Essig</objectName> dazu <lb/> zuckert ihn <lb/> streuet <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Cardamomen <lb/> Muscaten= Blüh <lb/> Zimmet und Trisanet darein <lb/> ingleichen auch Citronen= Marck <lb/> last alles zusammen aufsieden <lb/> zuckerts nach belieben <lb/> und richtets über das Gebratens; belegt aber selbiges mit Citronen= Plätzen <lb/> so zuvor im <objectName ref="#zucker">Zucker</objectName> gelegen <lb/> und streuet dergleichen klein= und würfflicht= geschnittene Schelffen darauf. </p>
             </div>
         </body>
     </text>

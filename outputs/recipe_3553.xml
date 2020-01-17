@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm halb= gebachene Aepffel <lb/> oder dergleichen Spalten <lb/> legs in eine aufgesetzte Dorten <lb/> mit <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet <lb/> kleine und grosse <objectName ref="rosinen">Rosinen</objectName> <lb/> und Lemoni= Schaalen <lb/> mache die Dorten zu <lb/> mit einem schönen Ausschnitt <lb/> bache sie also <lb/> bestreue sie hernach mit <objectName ref="zucker">Zucker</objectName> <lb/> und gibs. </p>
+        <p> NImm halb= gebachene Aepffel <lb/> oder dergleichen Spalten <lb/> legs in eine aufgesetzte Dorten <lb/> mit <objectName ref="#zucker">Zucker</objectName> <lb/> Zimmet <lb/> kleine und grosse <objectName ref="#rosinen">Rosinen</objectName> <lb/> und Lemoni= Schaalen <lb/> mache die Dorten zu <lb/> mit einem schönen Ausschnitt <lb/> bache sie also <lb/> bestreue sie hernach mit <objectName ref="#zucker">Zucker</objectName> <lb/> und gibs. </p>
             </div>
         </body>
     </text>

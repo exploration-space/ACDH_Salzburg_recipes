@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="spargel">SPargel</objectName> <lb/> ein Stengel nach dem andern so weit er weich <lb/> in Taig oder Eyerdotter gestossen <lb/> und gebachen <lb/> ist gut auf die <objectName ref="schuessel">Schüssel</objectName> ein gericht <lb/> und mit guter brauner <objectName ref="jus">Jus</objectName> aufgesotten <lb/> warm zu <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> <objectName ref="#spargel">SPargel</objectName> <lb/> ein Stengel nach dem andern so weit er weich <lb/> in Taig oder Eyerdotter gestossen <lb/> und gebachen <lb/> ist gut auf die <objectName ref="#schuessel">Schüssel</objectName> ein gericht <lb/> und mit guter brauner <objectName ref="#jus">Jus</objectName> aufgesotten <lb/> warm zu <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

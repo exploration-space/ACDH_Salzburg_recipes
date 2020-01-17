@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Mollbör<gap/> vnnd Zerriehrs<gap/> mit ein <lb/> löfel Druckh<gap/> den safft durch ein tuech<gap/> <lb/> das aber khein Kerlein Darin bleibt <lb/> Darnach thue in eine Mössene<gap/> Pfan<gap/> <lb/> vnd leg Zuckher Darein, das es syes <lb/> Genueg ist, las es Dickh<gap/> siedten<gap/> bis Du <lb/> maist Das er Dickh Genueg Gradten<gap/> <lb/> ist, so ist er Recht. <lb/> [ Anm. : „ Kerlein “ sind die Kerne der <objectName ref="beeren">Beeren</objectName> ] </p>
+        <p> Nimb Mollbör<gap/> vnnd Zerriehrs<gap/> mit ein <lb/> löfel Druckh<gap/> den safft durch ein tuech<gap/> <lb/> das aber khein Kerlein Darin bleibt <lb/> Darnach thue in eine Mössene<gap/> Pfan<gap/> <lb/> vnd leg Zuckher Darein, das es syes <lb/> Genueg ist, las es Dickh<gap/> siedten<gap/> bis Du <lb/> maist Das er Dickh Genueg Gradten<gap/> <lb/> ist, so ist er Recht. <lb/> [ Anm. : „ Kerlein “ sind die Kerne der <objectName ref="#beeren">Beeren</objectName> ] </p>
             </div>
         </body>
     </text>

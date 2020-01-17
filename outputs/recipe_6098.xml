@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> EIn dergleichen <objectName ref="gehaeck">Gehäck</objectName> mit gutem <objectName ref="butter">Butter</objectName> <lb/> oder Ochsen=Marck <lb/> Lemoni=Safft <lb/> und gutem Gewürtz <lb/> gibt eine gute Teller=Speiß </p>
+        <p> EIn dergleichen <objectName ref="#gehaeck">Gehäck</objectName> mit gutem <objectName ref="#butter">Butter</objectName> <lb/> oder Ochsen=Marck <lb/> Lemoni=Safft <lb/> und gutem Gewürtz <lb/> gibt eine gute Teller=Speiß </p>
             </div>
         </body>
     </text>

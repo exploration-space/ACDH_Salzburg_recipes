@@ -171,7 +171,7 @@ Willst du ein Mus aus Rindslunge machen, dann hack sie, nachdem du sie gekocht h
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WIldu machn̄ ein gemus von kuelūgēln wen di nu gesotn̄ ist So hakk seÿ klain̄ vnd tuͤ seÿ in ein gute fleischprue vnd secz auf ein gute <objectName ref="glut">glut</objectName> vnd laz mer siedn̄ vnd reib ein prot dar in [ 319v ] vnd stuppz wol ab vnd sneÿd dar in speckch klain vnd wurffellot vnd smelcz in ein pfann wen du das gemus an richtest So tuͤ den speckch dar an vnd vʾsalcz nicht so ist es gut </p>
+        <p> WIldu machn̄ ein gemus von kuelūgēln wen di nu gesotn̄ ist So hakk seÿ klain̄ vnd tuͤ seÿ in ein gute fleischprue vnd secz auf ein gute <objectName ref="#glut">glut</objectName> vnd laz mer siedn̄ vnd reib ein prot dar in [ 319v ] vnd stuppz wol ab vnd sneÿd dar in speckch klain vnd wurffellot vnd smelcz in ein pfann wen du das gemus an richtest So tuͤ den speckch dar an vnd vʾsalcz nicht so ist es gut </p>
             </div>
         </body>
     </text>

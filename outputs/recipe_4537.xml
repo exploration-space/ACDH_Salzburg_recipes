@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> STosset <objectName ref="mandeln">Mandeln</objectName> <lb/> nehmet eine gute süsse <objectName ref="milch">Milch</objectName> <lb/> und zu einer <objectName ref="maas">Maas</objectName> derselben das Weisse von sechs Eyern <lb/> zerklopfft die <objectName ref="milch">Milch</objectName> und Eyerweiß wohl zusammen <lb/> rührt die gestossene <objectName ref="mandeln">Mandeln</objectName> <lb/> wie auch <objectName ref="zucker">Zucker</objectName> und <objectName ref="rosenwasser">Rosenwasser</objectName> darunter <lb/> lassts einen Sud aufthun <lb/> und gebt es also kalt zu essen. </p>
+        <p> STosset <objectName ref="#mandeln">Mandeln</objectName> <lb/> nehmet eine gute süsse <objectName ref="#milch">Milch</objectName> <lb/> und zu einer <objectName ref="#maas">Maas</objectName> derselben das Weisse von sechs Eyern <lb/> zerklopfft die <objectName ref="#milch">Milch</objectName> und Eyerweiß wohl zusammen <lb/> rührt die gestossene <objectName ref="#mandeln">Mandeln</objectName> <lb/> wie auch <objectName ref="#zucker">Zucker</objectName> und <objectName ref="#rosenwasser">Rosenwasser</objectName> darunter <lb/> lassts einen Sud aufthun <lb/> und gebt es also kalt zu essen. </p>
             </div>
         </body>
     </text>

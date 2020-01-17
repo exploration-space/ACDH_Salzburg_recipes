@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DU magst das <objectName ref="fleisch">Fleisch</objectName> auch kochen <lb/> wie von einen Zamen Ochsen <lb/> hat auch gröber <objectName ref="fleisch">Fleisch</objectName>. Die Kälber darvon seind so gut <lb/> als von einer Kuh <lb/> vnd was du davon kanst zurichten <lb/> magstu auch von diesem <objectName ref="kalb">Kalb</objectName> zurichten. </p>
+        <p> DU magst das <objectName ref="#fleisch">Fleisch</objectName> auch kochen <lb/> wie von einen Zamen Ochsen <lb/> hat auch gröber <objectName ref="#fleisch">Fleisch</objectName>. Die Kälber darvon seind so gut <lb/> als von einer Kuh <lb/> vnd was du davon kanst zurichten <lb/> magstu auch von diesem <objectName ref="#kalb">Kalb</objectName> zurichten. </p>
             </div>
         </body>
     </text>

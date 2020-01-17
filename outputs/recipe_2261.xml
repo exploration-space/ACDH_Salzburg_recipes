@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb aÿr, <objectName ref="milch">milch</objectName>, vnd Semblschniten, Wie oben steht, nimb ein Wenig <objectName ref="schmalz">schmalz</objectName> <lb/> in ein Pfan, geuß darein, vnd rührs Zusammen Wie ein gemüeß, gibs auf <lb/> einer schißl, mueß nit lang Sieden. <lb/> </p>
+        <p> Nimb aÿr, <objectName ref="#milch">milch</objectName>, vnd Semblschniten, Wie oben steht, nimb ein Wenig <objectName ref="#schmalz">schmalz</objectName> <lb/> in ein Pfan, geuß darein, vnd rührs Zusammen Wie ein gemüeß, gibs auf <lb/> einer schißl, mueß nit lang Sieden. <lb/> </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> LEget die Nierlein ins <objectName ref="wasser">Wasser</objectName> <lb/> thut lange Schnittlein darein <lb/> ziehet die Häutlein davon ab <lb/> spicket <lb/> saltzet und pfeffert sie <lb/> steckts an den <objectName ref="spiess">Spieß</objectName> <lb/> und bratets schön ab; betreiffts zu erst mit heissem Schmaltz <lb/> und dann zu letzt mit <objectName ref="butter">Butter</objectName> <lb/> streuet geriebenes rocken Brod darauf <lb/> bratets noch etliche malen herum <lb/> betreiffts <lb/> wie gesagt <lb/> mit <objectName ref="butter">Butter</objectName> <lb/> daß sie schön gistig werden <lb/> giesst ein wenig von eben dieser <objectName ref="butter">Butter</objectName> in die <objectName ref="schuessel">Schüssel</objectName> <lb/> und leget die Nierlein darein. </p>
+        <p> LEget die Nierlein ins <objectName ref="#wasser">Wasser</objectName> <lb/> thut lange Schnittlein darein <lb/> ziehet die Häutlein davon ab <lb/> spicket <lb/> saltzet und pfeffert sie <lb/> steckts an den <objectName ref="#spiess">Spieß</objectName> <lb/> und bratets schön ab; betreiffts zu erst mit heissem Schmaltz <lb/> und dann zu letzt mit <objectName ref="#butter">Butter</objectName> <lb/> streuet geriebenes rocken Brod darauf <lb/> bratets noch etliche malen herum <lb/> betreiffts <lb/> wie gesagt <lb/> mit <objectName ref="#butter">Butter</objectName> <lb/> daß sie schön gistig werden <lb/> giesst ein wenig von eben dieser <objectName ref="#butter">Butter</objectName> in die <objectName ref="#schuessel">Schüssel</objectName> <lb/> und leget die Nierlein darein. </p>
             </div>
         </body>
     </text>

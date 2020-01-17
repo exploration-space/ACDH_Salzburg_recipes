@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> KLaubet von dem Brunnkreß die grössesten Stiele herab <lb/> und waschet selbigen wohl; dann kan man ihn mit Oel und gemeinen <lb/> oder aber noch besser mit Rosen= <objectName ref="essig">Essig</objectName> anmachen <lb/> und ein wenig <objectName ref="zucker">zuckern</objectName> : Wanns beliebt <lb/> kan man zu diesen <objectName ref="salat">Salat</objectName> auch einen Kraut= und Wegwarten= <objectName ref="salat">Salat</objectName> untermischen <lb/> und schön zierlich in eine <objectName ref="schuessel">Schüssel</objectName> legen. </p>
+        <p> KLaubet von dem Brunnkreß die grössesten Stiele herab <lb/> und waschet selbigen wohl; dann kan man ihn mit Oel und gemeinen <lb/> oder aber noch besser mit Rosen= <objectName ref="#essig">Essig</objectName> anmachen <lb/> und ein wenig <objectName ref="#zucker">zuckern</objectName> : Wanns beliebt <lb/> kan man zu diesen <objectName ref="#salat">Salat</objectName> auch einen Kraut= und Wegwarten= <objectName ref="#salat">Salat</objectName> untermischen <lb/> und schön zierlich in eine <objectName ref="#schuessel">Schüssel</objectName> legen. </p>
             </div>
         </body>
     </text>

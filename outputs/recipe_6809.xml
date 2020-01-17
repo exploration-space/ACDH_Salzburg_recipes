@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Mach auch von den klein <objectName ref="voegel">Vögeln</objectName> ein Gestossens <lb/> daß man die Bein vnd alles miteinander stößt <lb/> so wirdt es desto besser <lb/> sonderlich einem krancken Menschen. </p>
+        <p> Mach auch von den klein <objectName ref="#voegel">Vögeln</objectName> ein Gestossens <lb/> daß man die Bein vnd alles miteinander stößt <lb/> so wirdt es desto besser <lb/> sonderlich einem krancken Menschen. </p>
             </div>
         </body>
     </text>

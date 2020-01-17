@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Scheele und kerne sie aus <lb/> fülle abgezogne <objectName ref="mandeln">Mandeln</objectName> darein <lb/> richts mit sauber geklaubten Piniolen <lb/> wenig <objectName ref="wein">Wein</objectName> <lb/> und wol viel <objectName ref="zucker">Zucker</objectName> auf die <objectName ref="schuessel">Schüssel</objectName> <lb/> bedecks <lb/> und laß kurtz aufkochen <lb/> und gibs mit <objectName ref="zucker">Zucker</objectName> bestreuter. </p>
+        <p> Scheele und kerne sie aus <lb/> fülle abgezogne <objectName ref="#mandeln">Mandeln</objectName> darein <lb/> richts mit sauber geklaubten Piniolen <lb/> wenig <objectName ref="#wein">Wein</objectName> <lb/> und wol viel <objectName ref="#zucker">Zucker</objectName> auf die <objectName ref="#schuessel">Schüssel</objectName> <lb/> bedecks <lb/> und laß kurtz aufkochen <lb/> und gibs mit <objectName ref="#zucker">Zucker</objectName> bestreuter. </p>
             </div>
         </body>
     </text>

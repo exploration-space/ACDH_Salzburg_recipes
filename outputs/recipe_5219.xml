@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) neuwe Erbeß <lb/> thu sie auß den Hülsen in ein vberzindten <objectName ref="fischkessel">Fischkessel</objectName> <lb/> geuß ein gute Rindtfleischbrüh darüber <lb/> setz auff Kolen <lb/> vnd laß siede ( n ) <lb/> vnd wenn sie schier gesotten <lb/> so brenn ein wenig <objectName ref="mehl">Mehl</objectName> darein <lb/> vnd frische vngeschmältzte <objectName ref="butter">Butter</objectName> <lb/> grüne <objectName ref="kraeuter">Kräuter</objectName> <lb/> die klein gehackt seyn <lb/> laß damit sieden. Du magst <objectName ref="speck">Speck</objectName> darvnter thun oder nicht <lb/> so ist es gut vnd wolgeschmack. </p>
+        <p> Nim ( m ) neuwe Erbeß <lb/> thu sie auß den Hülsen in ein vberzindten <objectName ref="#fischkessel">Fischkessel</objectName> <lb/> geuß ein gute Rindtfleischbrüh darüber <lb/> setz auff Kolen <lb/> vnd laß siede ( n ) <lb/> vnd wenn sie schier gesotten <lb/> so brenn ein wenig <objectName ref="#mehl">Mehl</objectName> darein <lb/> vnd frische vngeschmältzte <objectName ref="#butter">Butter</objectName> <lb/> grüne <objectName ref="#kraeuter">Kräuter</objectName> <lb/> die klein gehackt seyn <lb/> laß damit sieden. Du magst <objectName ref="#speck">Speck</objectName> darvnter thun oder nicht <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

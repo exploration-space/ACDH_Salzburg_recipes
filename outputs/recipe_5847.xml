@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Gebraten mit seiner Lebersalsen. Nim ( m ) die <objectName ref="leber">Leber</objectName> <lb/> vnnd brat sie <lb/> nim ( m ) gebeht <objectName ref="brot">Brot</objectName> von einem Weck <lb/> vnnd kleine schwartze Rosein <lb/> stoß es miteinander <lb/> zerlaß es mit warmen <objectName ref="wein">Wein</objectName> <lb/> streich es damit durch <lb/> laß es damit auffsieden <lb/> vnd richt es darvnter <lb/> so ist es wolgeschmack. </p>
+        <p> Gebraten mit seiner Lebersalsen. Nim ( m ) die <objectName ref="#leber">Leber</objectName> <lb/> vnnd brat sie <lb/> nim ( m ) gebeht <objectName ref="#brot">Brot</objectName> von einem Weck <lb/> vnnd kleine schwartze Rosein <lb/> stoß es miteinander <lb/> zerlaß es mit warmen <objectName ref="#wein">Wein</objectName> <lb/> streich es damit durch <lb/> laß es damit auffsieden <lb/> vnd richt es darvnter <lb/> so ist es wolgeschmack. </p>
             </div>
         </body>
     </text>

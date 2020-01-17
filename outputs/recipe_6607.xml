@@ -171,7 +171,7 @@ Weidpraxen - gebundene Weidenruten</note>
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schneidt die Riben auß dem <objectName ref="fleisch">Fleisch</objectName> <lb/> zerklopffs mit einer Weidpraxn <lb/> saltz es <lb/> vnd pfeffers <lb/> legs auff ein Roßt <lb/> vnnd brats geschwindt hinweg <lb/> begeuß mit heissem <objectName ref="speck">Speck</objectName> <lb/> wenn du es wilt anrichten <lb/> so gibs trucken <lb/> oder in einer braunen sauren Brüh. </p>
+        <p> Schneidt die Riben auß dem <objectName ref="#fleisch">Fleisch</objectName> <lb/> zerklopffs mit einer Weidpraxn <lb/> saltz es <lb/> vnd pfeffers <lb/> legs auff ein Roßt <lb/> vnnd brats geschwindt hinweg <lb/> begeuß mit heissem <objectName ref="#speck">Speck</objectName> <lb/> wenn du es wilt anrichten <lb/> so gibs trucken <lb/> oder in einer braunen sauren Brüh. </p>
             </div>
         </body>
     </text>

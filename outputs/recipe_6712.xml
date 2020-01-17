@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Hechten <objectName ref="leber">Leber</objectName> geräuchert <lb/> in einem <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Mandelscharb <lb/> oder mit Spenat eyngemacht <lb/> seind auff allerley manier gut eynzumachen. </p>
+        <p> Hechten <objectName ref="#leber">Leber</objectName> geräuchert <lb/> in einem <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Mandelscharb <lb/> oder mit Spenat eyngemacht <lb/> seind auff allerley manier gut eynzumachen. </p>
             </div>
         </body>
     </text>

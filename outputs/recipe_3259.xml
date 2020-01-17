@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ES seynd alle dise Speisen zuzurichten <lb/> als wie von dem Reh selbsten <lb/> und wann sie <objectName ref="fett">fett</objectName> seynd <lb/> so seynd sie köstlich gut und geschmack; sie sollen auch gantz warmer verspeißt werden. NB. Wann die Gämbsen aber alt seyn <lb/> so haben sie ein starck und zähes <objectName ref="fleisch">Fleisch</objectName> <lb/> und dessentwegen haben sie auch lang zu kochen <lb/> und zu dämpffen <lb/> auch zu braten. </p>
+        <p> ES seynd alle dise Speisen zuzurichten <lb/> als wie von dem Reh selbsten <lb/> und wann sie <objectName ref="#fett">fett</objectName> seynd <lb/> so seynd sie köstlich gut und geschmack; sie sollen auch gantz warmer verspeißt werden. NB. Wann die Gämbsen aber alt seyn <lb/> so haben sie ein starck und zähes <objectName ref="#fleisch">Fleisch</objectName> <lb/> und dessentwegen haben sie auch lang zu kochen <lb/> und zu dämpffen <lb/> auch zu braten. </p>
             </div>
         </body>
     </text>

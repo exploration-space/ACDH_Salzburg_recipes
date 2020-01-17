@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> So nimb auf ain <objectName ref="tisch">tisch</objectName> 5. Aÿr, Zerschlags, vnd Zerrühr souill <lb/> süssen milchrämb, thue Zugger drein, nez ein schißl mit <lb/> Zerlassnen <objectName ref="schmalz">Schmalz</objectName>, geuß den khalten rämb vnd aÿr <lb/> drein, nimb in ein <objectName ref="hafen">hafen</objectName> ein <objectName ref="wasser">Wasser</objectName>, sez die schißl bedekht <lb/> auf den <objectName ref="hafen">hafen</objectName>, laß also Sieden, Wans vest ist wie ein <lb/> Sulz, so ists genueg. <lb/><lb/> ( 14r ) </p>
+        <p> So nimb auf ain <objectName ref="#tisch">tisch</objectName> 5. Aÿr, Zerschlags, vnd Zerrühr souill <lb/> süssen milchrämb, thue Zugger drein, nez ein schißl mit <lb/> Zerlassnen <objectName ref="#schmalz">Schmalz</objectName>, geuß den khalten rämb vnd aÿr <lb/> drein, nimb in ein <objectName ref="#hafen">hafen</objectName> ein <objectName ref="#wasser">Wasser</objectName>, sez die schißl bedekht <lb/> auf den <objectName ref="#hafen">hafen</objectName>, laß also Sieden, Wans vest ist wie ein <lb/> Sulz, so ists genueg. <lb/><lb/> ( 14r ) </p>
             </div>
         </body>
     </text>

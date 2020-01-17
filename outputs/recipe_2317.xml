@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> holl die öpffl auß, vnd rest sie im <objectName ref="schmalz">schmalz</objectName>, darnach fühl sie mit schwarzen <lb/> Weinpörl oder <objectName ref="zibeben">Zibeben</objectName> ein, vnd mach ein süsse Brüe drüber die Wein= <lb/> berl oder <objectName ref="zibeben">Zibeben</objectName> miessen Zuuor sauber khlaubt sein, vnd hernach ein= <lb/> fühlen, darnach bestekhs mit Mandl herumb, vnd aussen her ist ein guets <lb/> Essen. <lb/> </p>
+        <p> holl die öpffl auß, vnd rest sie im <objectName ref="#schmalz">schmalz</objectName>, darnach fühl sie mit schwarzen <lb/> Weinpörl oder <objectName ref="#zibeben">Zibeben</objectName> ein, vnd mach ein süsse Brüe drüber die Wein= <lb/> berl oder <objectName ref="#zibeben">Zibeben</objectName> miessen Zuuor sauber khlaubt sein, vnd hernach ein= <lb/> fühlen, darnach bestekhs mit Mandl herumb, vnd aussen her ist ein guets <lb/> Essen. <lb/> </p>
             </div>
         </body>
     </text>

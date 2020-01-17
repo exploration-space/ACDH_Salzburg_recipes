@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm gutes braunes <objectName ref="jus">jus</objectName>, oder gute Bratensbrühe <lb/> oder auch süssen Ram <lb/> rühre ein subtil= gestossenes Capaun= Brät <lb/> mit geweichter Semmel <lb/> Eyerdotter <lb/> und Gewürtz darein <lb/> machs recht im Saltz <lb/> oder mit <objectName ref="sardellen">Sardellen</objectName> <lb/> rührs wohl untereinander <lb/> bestreich die <objectName ref="schuessel">Schüssel</objectName> mit <objectName ref="butter">Butter</objectName> <lb/> gieß den Zeug darein <lb/> gib unten und oben <objectName ref="glut">Glut</objectName> <lb/> so ist es bald fertig. </p>
+        <p> NImm gutes braunes <objectName ref="#jus">jus</objectName>, oder gute Bratensbrühe <lb/> oder auch süssen Ram <lb/> rühre ein subtil= gestossenes Capaun= Brät <lb/> mit geweichter Semmel <lb/> Eyerdotter <lb/> und Gewürtz darein <lb/> machs recht im Saltz <lb/> oder mit <objectName ref="#sardellen">Sardellen</objectName> <lb/> rührs wohl untereinander <lb/> bestreich die <objectName ref="#schuessel">Schüssel</objectName> mit <objectName ref="#butter">Butter</objectName> <lb/> gieß den Zeug darein <lb/> gib unten und oben <objectName ref="#glut">Glut</objectName> <lb/> so ist es bald fertig. </p>
             </div>
         </body>
     </text>

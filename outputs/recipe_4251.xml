@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ZU den länglicht= gebrennten Küchlein kan man den <objectName ref="teig">Teig</objectName> allerdings anmachen <lb/> wie die zuvor beschriebene : Nur ist dabey zu mercken <lb/> daß <lb/> wann man selbige einlegen und bachen will <lb/> man zuvor einen zinnernen Deller mit warmen Schmaltz begiesse; dann von dem <objectName ref="teig">Teig</objectName> einen <objectName ref="loeffel">Löffel</objectName> voll darauf lege <lb/> selbigen mit einem <objectName ref="messer">Messer</objectName> länglicht forme <lb/> wie die Käß= Stritzeln <lb/> und so dann <lb/> besagter massen <lb/> gleich denen obigen ausbache. </p>
+        <p> ZU den länglicht= gebrennten Küchlein kan man den <objectName ref="#teig">Teig</objectName> allerdings anmachen <lb/> wie die zuvor beschriebene : Nur ist dabey zu mercken <lb/> daß <lb/> wann man selbige einlegen und bachen will <lb/> man zuvor einen zinnernen Deller mit warmen Schmaltz begiesse; dann von dem <objectName ref="#teig">Teig</objectName> einen <objectName ref="#loeffel">Löffel</objectName> voll darauf lege <lb/> selbigen mit einem <objectName ref="#messer">Messer</objectName> länglicht forme <lb/> wie die Käß= Stritzeln <lb/> und so dann <lb/> besagter massen <lb/> gleich denen obigen ausbache. </p>
             </div>
         </body>
     </text>

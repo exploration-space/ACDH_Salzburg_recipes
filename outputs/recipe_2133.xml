@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Reisch stoß den khlain, treib ihn durch ein sib, nimb ein <lb/> Mandlmilch, laß sieden in eim glasierten hefen, geuß an reisch, <lb/> vnd so er dikh wird am sieden, so gieß ihn auf ein nasse Schißl, <lb/> laß khalt Werden, gieß ein khalte Mandlmilch drüber, bestekhs <lb/> mit Zimetrindten, vnd magst die gerendte <objectName ref="milch">Milch</objectName> Woll färben mit <lb/> Saffran, oder Wie du sonst ein farb haben khanst, so legs fein <lb/> außthailt auf die schißl, so ists bereith. <lb/><lb/> ( 42v ) </p>
+        <p> Nimb Reisch stoß den khlain, treib ihn durch ein sib, nimb ein <lb/> Mandlmilch, laß sieden in eim glasierten hefen, geuß an reisch, <lb/> vnd so er dikh wird am sieden, so gieß ihn auf ein nasse Schißl, <lb/> laß khalt Werden, gieß ein khalte Mandlmilch drüber, bestekhs <lb/> mit Zimetrindten, vnd magst die gerendte <objectName ref="#milch">Milch</objectName> Woll färben mit <lb/> Saffran, oder Wie du sonst ein farb haben khanst, so legs fein <lb/> außthailt auf die schißl, so ists bereith. <lb/><lb/> ( 42v ) </p>
             </div>
         </body>
     </text>

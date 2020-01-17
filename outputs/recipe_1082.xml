@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Take three Pounds of fine Flour to one Pound of Sugar, a Nutmeg grated, some beaten Cinnamon; sift the Sugar and Spice into the Flour, and wet it with three Eggs and as much melted <objectName ref="butter">butter</objectName> as will make it of a good Thickness to roll into Paste; mould it well, roll it, and cut it into what Shape you please. Perfume and prick them before they go into the Oven. </p>
+        <p> Take three Pounds of fine Flour to one Pound of Sugar, a Nutmeg grated, some beaten Cinnamon; sift the Sugar and Spice into the Flour, and wet it with three Eggs and as much melted <objectName ref="#butter">butter</objectName> as will make it of a good Thickness to roll into Paste; mould it well, roll it, and cut it into what Shape you please. Perfume and prick them before they go into the Oven. </p>
             </div>
         </body>
     </text>

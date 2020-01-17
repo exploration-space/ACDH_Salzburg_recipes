@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> HAcket einen Kalbs= Niern zusamt ein wenig <objectName ref="fleisch">Fleisch</objectName> <lb/> röstet eine geriebene Semmel oder Eyerbrod im Schmaltz <lb/> oder aber weichet die Brosamen von einer Semmel in süssen Ram oder Kern <lb/> und mischt es unter das gehackte <lb/> saltzet und würtzets <lb/> schlaget Eyer daran <lb/> rühret alles unter einander <lb/> formiret runde kleine Knötlein daraus <lb/> legets in eine siedende Fleischbrüh <lb/> und lassets länger nicht <lb/> als etwan eine viertel Stund <lb/> sieden. </p>
+        <p> HAcket einen Kalbs= Niern zusamt ein wenig <objectName ref="#fleisch">Fleisch</objectName> <lb/> röstet eine geriebene Semmel oder Eyerbrod im Schmaltz <lb/> oder aber weichet die Brosamen von einer Semmel in süssen Ram oder Kern <lb/> und mischt es unter das gehackte <lb/> saltzet und würtzets <lb/> schlaget Eyer daran <lb/> rühret alles unter einander <lb/> formiret runde kleine Knötlein daraus <lb/> legets in eine siedende Fleischbrüh <lb/> und lassets länger nicht <lb/> als etwan eine viertel Stund <lb/> sieden. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm den frischen Karpffen= Rogen <lb/> scheide die Gall darvon <lb/> löse den Rogen von dem Bäuschlein <lb/> saltz ihn ein <lb/> und laß ihn eine Zeit also ligen; hernach wickle diesen in <objectName ref="papier">Papier</objectName> <lb/> und brat ihn in warmer <objectName ref="asche">Aschen</objectName> <lb/> gib ihn mit Oel und Eßig <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Saltz. </p>
+        <p> NImm den frischen Karpffen= Rogen <lb/> scheide die Gall darvon <lb/> löse den Rogen von dem Bäuschlein <lb/> saltz ihn ein <lb/> und laß ihn eine Zeit also ligen; hernach wickle diesen in <objectName ref="#papier">Papier</objectName> <lb/> und brat ihn in warmer <objectName ref="#asche">Aschen</objectName> <lb/> gib ihn mit Oel und Eßig <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> und Saltz. </p>
             </div>
         </body>
     </text>

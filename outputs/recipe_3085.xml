@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIese werden sauber gebutzt <lb/> und nach Belieben in Stück geschnitten <lb/> wol gewaschen <lb/> auch mit <objectName ref="pfeffer">Pfeffer</objectName> und Saltz gesprengt <lb/> und übereinander geschwungen <lb/> dann mit klein= gehacktem Zwibel <lb/> und grünen Petersil <lb/> in gutem <objectName ref="butter">Butter</objectName> oder Oel was wenig geröst <lb/> und zugedeckt auf kleiner <objectName ref="glut">Glut</objectName> genug dämpffen lassen <lb/> auf die Letzt mache ein kurtze <objectName ref="bruehe">Brühe</objectName> daran <lb/> es kan auch ein andere gute <objectName ref="jus">Jus</objectName> darzu gegeben <lb/> und warm angericht werden. </p>
+        <p> DIese werden sauber gebutzt <lb/> und nach Belieben in Stück geschnitten <lb/> wol gewaschen <lb/> auch mit <objectName ref="#pfeffer">Pfeffer</objectName> und Saltz gesprengt <lb/> und übereinander geschwungen <lb/> dann mit klein= gehacktem Zwibel <lb/> und grünen Petersil <lb/> in gutem <objectName ref="#butter">Butter</objectName> oder Oel was wenig geröst <lb/> und zugedeckt auf kleiner <objectName ref="#glut">Glut</objectName> genug dämpffen lassen <lb/> auf die Letzt mache ein kurtze <objectName ref="#bruehe">Brühe</objectName> daran <lb/> es kan auch ein andere gute <objectName ref="#jus">Jus</objectName> darzu gegeben <lb/> und warm angericht werden. </p>
             </div>
         </body>
     </text>

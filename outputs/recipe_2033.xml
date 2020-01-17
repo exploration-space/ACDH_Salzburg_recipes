@@ -179,7 +179,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein khelberes <objectName ref="fleisch">fleisch</objectName>, hakh khleine stükhl, die Rukhbrätl <lb/> sein gar guet darzue, <objectName ref="salz">salz</objectName> ein, legs hernach in haiß <objectName ref="schmalz">schmalz</objectName>, <lb/> laß darinen bachen, das schen braun Wird, nimbs herauß, <lb/> geuß ein <objectName ref="rindsuppe">Rindsuppen</objectName> drüber, gewürzt, brens mit Mell <lb/> ein, vnd seuers ein wenig, oder leg Agraßbör darzue, <lb/> oder gäbern, so darff mans nit seuren, es ist ungeseurt <lb/> auch guet. <lb/> Henner in Zigorÿ, oder Khell, oder Petersill eingemacht, <lb/> oder in Spinäth. <lb/> </p>
+        <p> Nimb ein khelberes <objectName ref="#fleisch">fleisch</objectName>, hakh khleine stükhl, die Rukhbrätl <lb/> sein gar guet darzue, <objectName ref="#salz">salz</objectName> ein, legs hernach in haiß <objectName ref="#schmalz">schmalz</objectName>, <lb/> laß darinen bachen, das schen braun Wird, nimbs herauß, <lb/> geuß ein <objectName ref="#rindsuppe">Rindsuppen</objectName> drüber, gewürzt, brens mit Mell <lb/> ein, vnd seuers ein wenig, oder leg Agraßbör darzue, <lb/> oder gäbern, so darff mans nit seuren, es ist ungeseurt <lb/> auch guet. <lb/> Henner in Zigorÿ, oder Khell, oder Petersill eingemacht, <lb/> oder in Spinäth. <lb/> </p>
             </div>
         </body>
     </text>

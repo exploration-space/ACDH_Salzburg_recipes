@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn die Neunaugen abgeschleimt <lb/> gestutzt und abgesotten <lb/> wie erstgemeldt <lb/> richte sie truckner auf <objectName ref="butter">Butter</objectName> in die <objectName ref="schuessel">Schüssel</objectName> <lb/> mit Gewürtz <lb/> klein= gehackten Petersil= Kräutlein und Lemoni= Schelffen <lb/> mit wenig gesaltzner Erbes= <objectName ref="bruehe">Brühe</objectName> <lb/> zugedeckter <lb/> einen kurtzen Sud thun lassen <lb/> in Geschmack geröst und warmer gegeben : gewürtzt mit <objectName ref="pfeffer">Pfeffer</objectName> und Muscatnuß; Item <lb/> in weisser Butter= <objectName ref="bruehe">Brühe</objectName>. Dito <lb/> auch also abgesottner <lb/> köstlich in der Fricasse. </p>
+        <p> WAnn die Neunaugen abgeschleimt <lb/> gestutzt und abgesotten <lb/> wie erstgemeldt <lb/> richte sie truckner auf <objectName ref="#butter">Butter</objectName> in die <objectName ref="#schuessel">Schüssel</objectName> <lb/> mit Gewürtz <lb/> klein= gehackten Petersil= Kräutlein und Lemoni= Schelffen <lb/> mit wenig gesaltzner Erbes= <objectName ref="#bruehe">Brühe</objectName> <lb/> zugedeckter <lb/> einen kurtzen Sud thun lassen <lb/> in Geschmack geröst und warmer gegeben : gewürtzt mit <objectName ref="#pfeffer">Pfeffer</objectName> und Muscatnuß; Item <lb/> in weisser Butter= <objectName ref="#bruehe">Brühe</objectName>. Dito <lb/> auch also abgesottner <lb/> köstlich in der Fricasse. </p>
             </div>
         </body>
     </text>

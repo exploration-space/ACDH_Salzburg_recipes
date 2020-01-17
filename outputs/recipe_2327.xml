@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Mach ein taig wie Zu den hasenörl, Welgs auß, vnd schneids Wie Maurachenstingl, <lb/> Wuzls umb ein khochlöfl die fihl, brit die lungl, hakhs khlain, machs <lb/> mit Aÿrn an, nimb ein Wenig sembl auch, schlag umb den stingl den khochlöfl, <lb/> gformiert wie ein Maurachen, sez ein <objectName ref="schmalz">schmalz</objectName> ÿber, bachs herauß, darnach <lb/> thues von dem khochlöfl still herab auf ein schißl, mach ein Puter süppl <lb/><lb/> ( 61r ) drüber, laß Sieden auf der gluet, dekhs Zue, es ist bereith. <lb/> </p>
+        <p> Mach ein taig wie Zu den hasenörl, Welgs auß, vnd schneids Wie Maurachenstingl, <lb/> Wuzls umb ein khochlöfl die fihl, brit die lungl, hakhs khlain, machs <lb/> mit Aÿrn an, nimb ein Wenig sembl auch, schlag umb den stingl den khochlöfl, <lb/> gformiert wie ein Maurachen, sez ein <objectName ref="#schmalz">schmalz</objectName> ÿber, bachs herauß, darnach <lb/> thues von dem khochlöfl still herab auf ein schißl, mach ein Puter süppl <lb/><lb/> ( 61r ) drüber, laß Sieden auf der gluet, dekhs Zue, es ist bereith. <lb/> </p>
             </div>
         </body>
     </text>

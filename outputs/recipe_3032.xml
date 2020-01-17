@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="spargel">SPargel</objectName> klein geschnitten <lb/> ein wenig gebrüht <lb/> gibt man auch mit Maurachen <lb/> Brüßlein <lb/> oder guten Schwammen <lb/> und andrer Zugehör vermischt in Ragu <lb/> oder fricassirt. </p>
+        <p> <objectName ref="#spargel">SPargel</objectName> klein geschnitten <lb/> ein wenig gebrüht <lb/> gibt man auch mit Maurachen <lb/> Brüßlein <lb/> oder guten Schwammen <lb/> und andrer Zugehör vermischt in Ragu <lb/> oder fricassirt. </p>
             </div>
         </body>
     </text>

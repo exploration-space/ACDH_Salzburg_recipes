@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ZErklopffe zwey Eyerdottern in einem <objectName ref="pfaennlein">Pfännlein</objectName> <lb/> gieß nicht gar eine halbe <objectName ref="maas">Maas</objectName> <objectName ref="reinfal-suesswein">Reinfal</objectName> daran <lb/> würtze es mit ein wenig Cardamomen und Muscaten= Blüh <lb/> zuckers und rühre es wohl miteinander ab; alsdann laß es auf einem gelinden <objectName ref="feuer">Feuer</objectName> <lb/> mit stetem rühren <lb/> gemach aufsieden : indessen röste weisses würfflicht= geschnittenes Brod in Schmaltz <lb/> oder nimm weiß gebähte Schnitten <lb/> und richte die siedende <objectName ref="suppe">Suppe</objectName> darüber. </p>
+        <p> ZErklopffe zwey Eyerdottern in einem <objectName ref="#pfaennlein">Pfännlein</objectName> <lb/> gieß nicht gar eine halbe <objectName ref="#maas">Maas</objectName> <objectName ref="#reinfal-suesswein">Reinfal</objectName> daran <lb/> würtze es mit ein wenig Cardamomen und Muscaten= Blüh <lb/> zuckers und rühre es wohl miteinander ab; alsdann laß es auf einem gelinden <objectName ref="#feuer">Feuer</objectName> <lb/> mit stetem rühren <lb/> gemach aufsieden : indessen röste weisses würfflicht= geschnittenes Brod in Schmaltz <lb/> oder nimm weiß gebähte Schnitten <lb/> und richte die siedende <objectName ref="#suppe">Suppe</objectName> darüber. </p>
             </div>
         </body>
     </text>

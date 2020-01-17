@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ZIehet denen frischen Zwetschgen die Haut auf das subtileste ab <lb/> drucket die Kern also heraus <lb/> daß sie kein grosses Loch bekommen; stecket abgezogene <objectName ref="mandeln">Mandeln</objectName> <lb/> oder Pinien= und Pistacien=Nüßlein <lb/> an statt der Kerne <lb/> darein; legts in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> giesset einen <objectName ref="wein">Wein</objectName> daran <lb/> zuckerts <lb/> und lassets sieden <lb/> daß sie eine dicke Brüh bekommen : Richtets an <lb/> und streuet Trisanet darauf. <gap/><gap/><gap/> Auf diese Weise kan man auch <lb/> ohne Abziehung der Haut <lb/> <objectName ref="zibeben">Zibeben</objectName> <lb/> Prinelln oder <objectName ref="rosinen">Rosinen</objectName> zubereiten und abdünsten. </p>
+        <p> ZIehet denen frischen Zwetschgen die Haut auf das subtileste ab <lb/> drucket die Kern also heraus <lb/> daß sie kein grosses Loch bekommen; stecket abgezogene <objectName ref="#mandeln">Mandeln</objectName> <lb/> oder Pinien= und Pistacien=Nüßlein <lb/> an statt der Kerne <lb/> darein; legts in einen stollichten <objectName ref="#hafen">Hafen</objectName> <lb/> giesset einen <objectName ref="#wein">Wein</objectName> daran <lb/> zuckerts <lb/> und lassets sieden <lb/> daß sie eine dicke Brüh bekommen : Richtets an <lb/> und streuet Trisanet darauf. <gap/><gap/><gap/> Auf diese Weise kan man auch <lb/> ohne Abziehung der Haut <lb/> <objectName ref="#zibeben">Zibeben</objectName> <lb/> Prinelln oder <objectName ref="#rosinen">Rosinen</objectName> zubereiten und abdünsten. </p>
             </div>
         </body>
     </text>

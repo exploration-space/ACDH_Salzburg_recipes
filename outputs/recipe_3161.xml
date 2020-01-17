@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Zu diesem nimm ein gutes süsses Obers <lb/> zwey <lb/> oder drey Löffelvoll gefädte Stärck <lb/> treibs mit der <objectName ref="milch">Milch</objectName> schön glat ab <lb/> ein Handvoll schön klein=gestoßne Mandel <lb/> treibs auch mit ab <lb/> und gieß in die Pfann <lb/> oder Reinlein <lb/> rührs auf einem reschen Feur gar glat ab <lb/> biß daß schön dick wird <lb/> nims herab <lb/> und zuckere es <lb/> daß süß genug wird <lb/> thue auch ein wenig Zimmetwasser darzu <lb/> setz auf ein Glütlein <lb/> leg ein Stücklein frischen <objectName ref="butter">Butter</objectName> darein <lb/> laß also ramleth sieden <lb/> also ists recht gut <lb/> und auch gesund. </p>
+        <p> Zu diesem nimm ein gutes süsses Obers <lb/> zwey <lb/> oder drey Löffelvoll gefädte Stärck <lb/> treibs mit der <objectName ref="#milch">Milch</objectName> schön glat ab <lb/> ein Handvoll schön klein=gestoßne Mandel <lb/> treibs auch mit ab <lb/> und gieß in die Pfann <lb/> oder Reinlein <lb/> rührs auf einem reschen Feur gar glat ab <lb/> biß daß schön dick wird <lb/> nims herab <lb/> und zuckere es <lb/> daß süß genug wird <lb/> thue auch ein wenig Zimmetwasser darzu <lb/> setz auf ein Glütlein <lb/> leg ein Stücklein frischen <objectName ref="#butter">Butter</objectName> darein <lb/> laß also ramleth sieden <lb/> also ists recht gut <lb/> und auch gesund. </p>
             </div>
         </body>
     </text>

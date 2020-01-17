@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ZErklopffet drey Eyer <lb/> rühret einen <objectName ref="vierding">Vierding</objectName> klar= durch= gesiebten <objectName ref="zucker">Zucker</objectName> nach und nach darein <lb/> wie auch folgends so viel <objectName ref="mehl">Mehl</objectName> <lb/> als man meynet nöthig zu seyn <lb/> damit der <objectName ref="teig">Teig</objectName> nicht viel mehr fliesse; klopfft ihn auch glatt ab <lb/> streuet gröblicht= gestossenen <objectName ref="fenchel">Fenchel</objectName> <lb/> Muscatenblüh <lb/> und ein wenig Cardamomen darein; streichet den <objectName ref="teig">Teig</objectName> auf rund= geschnittenen Oblat <lb/> setzet selbigen auf einem <objectName ref="blech">Blech</objectName> also in den <objectName ref="ofen">Ofen</objectName> <lb/> und lasset ihn bachen. </p>
+        <p> ZErklopffet drey Eyer <lb/> rühret einen <objectName ref="#vierding">Vierding</objectName> klar= durch= gesiebten <objectName ref="#zucker">Zucker</objectName> nach und nach darein <lb/> wie auch folgends so viel <objectName ref="#mehl">Mehl</objectName> <lb/> als man meynet nöthig zu seyn <lb/> damit der <objectName ref="#teig">Teig</objectName> nicht viel mehr fliesse; klopfft ihn auch glatt ab <lb/> streuet gröblicht= gestossenen <objectName ref="#fenchel">Fenchel</objectName> <lb/> Muscatenblüh <lb/> und ein wenig Cardamomen darein; streichet den <objectName ref="#teig">Teig</objectName> auf rund= geschnittenen Oblat <lb/> setzet selbigen auf einem <objectName ref="#blech">Blech</objectName> also in den <objectName ref="#ofen">Ofen</objectName> <lb/> und lasset ihn bachen. </p>
             </div>
         </body>
     </text>

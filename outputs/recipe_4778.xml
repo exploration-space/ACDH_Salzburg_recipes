@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn man etwan über= gebliebene Sträubelein hat <lb/> so schneide solche klein <lb/> gieß eine siedende Fleischbrüh daran <lb/> würtze sie mit ein wenig Muscatblüh; wirff auf die letzt ein Stücklein <objectName ref="butter">Butter</objectName> hinein <lb/> laß einen Sud mit aufthun <lb/> und richt es an : Oder giesse anstatt der Fleischbrüh einen süssen Ram oder gute <objectName ref="milch">Milch</objectName> daran <lb/> und zuckers ein wenig. Man kan auch <lb/> so es beliebt <lb/> an statt der <objectName ref="milch">Milch</objectName> oder Fleischbrüh <lb/> <objectName ref="wein">Wein</objectName> dran giessen <lb/> nach belieben <objectName ref="zucker">zuckern</objectName> <lb/> und Trisanet darauf streuen. </p>
+        <p> WAnn man etwan über= gebliebene Sträubelein hat <lb/> so schneide solche klein <lb/> gieß eine siedende Fleischbrüh daran <lb/> würtze sie mit ein wenig Muscatblüh; wirff auf die letzt ein Stücklein <objectName ref="#butter">Butter</objectName> hinein <lb/> laß einen Sud mit aufthun <lb/> und richt es an : Oder giesse anstatt der Fleischbrüh einen süssen Ram oder gute <objectName ref="#milch">Milch</objectName> daran <lb/> und zuckers ein wenig. Man kan auch <lb/> so es beliebt <lb/> an statt der <objectName ref="#milch">Milch</objectName> oder Fleischbrüh <lb/> <objectName ref="#wein">Wein</objectName> dran giessen <lb/> nach belieben <objectName ref="#zucker">zuckern</objectName> <lb/> und Trisanet darauf streuen. </p>
             </div>
         </body>
     </text>

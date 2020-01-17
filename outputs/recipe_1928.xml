@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb <objectName ref="wasser">Wasser</objectName> in ein pfan, thue ein Wenig <objectName ref="schmalz">schmalz</objectName> drunder, <lb/> <objectName ref="salz">Salz</objectName>, laß also Sieden, so es Seudt, khoch ein mell drein, das <lb/> es fest seÿ, vnd hört, nimb ihn dan in ein merser, stosß ihn <lb/> Woll daruon, schlag ihmerdar ein aÿr Zue, so er nun ist <lb/> wie ein Khuechen taig, so trag ihn ein mit einem löfl, so Werdens <lb/> groß, der taig mueß beÿ der Wermb sein, So dise gebachen <lb/> sein, khlaubs auf ein gewaschnes tuech, Zukhers, gibs Zu essen p ( robatum ). <lb/> </p>
+        <p> Nimb <objectName ref="#wasser">Wasser</objectName> in ein pfan, thue ein Wenig <objectName ref="#schmalz">schmalz</objectName> drunder, <lb/> <objectName ref="#salz">Salz</objectName>, laß also Sieden, so es Seudt, khoch ein mell drein, das <lb/> es fest seÿ, vnd hört, nimb ihn dan in ein merser, stosß ihn <lb/> Woll daruon, schlag ihmerdar ein aÿr Zue, so er nun ist <lb/> wie ein Khuechen taig, so trag ihn ein mit einem löfl, so Werdens <lb/> groß, der taig mueß beÿ der Wermb sein, So dise gebachen <lb/> sein, khlaubs auf ein gewaschnes tuech, Zukhers, gibs Zu essen p ( robatum ). <lb/> </p>
             </div>
         </body>
     </text>

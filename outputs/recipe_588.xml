@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Rösche Rosenbletter wol mit <objectName ref="zucker">Zucker</objectName> bey dem Fe= wer <lb/> setze darnach das Glaß an die Sonnen 30. tage <lb/> rührs alle tag wol mit einem <objectName ref="loeffel">Löffel</objectName> <lb/> vnnd mische es fast vntereinander <lb/> vermach das Glaß oben wol <lb/> wenn er recht praeparirt ist <lb/> so bleibt er gut 3. Jar. </p>
+        <p> Rösche Rosenbletter wol mit <objectName ref="#zucker">Zucker</objectName> bey dem Fe= wer <lb/> setze darnach das Glaß an die Sonnen 30. tage <lb/> rührs alle tag wol mit einem <objectName ref="#loeffel">Löffel</objectName> <lb/> vnnd mische es fast vntereinander <lb/> vermach das Glaß oben wol <lb/> wenn er recht praeparirt ist <lb/> so bleibt er gut 3. Jar. </p>
             </div>
         </body>
     </text>

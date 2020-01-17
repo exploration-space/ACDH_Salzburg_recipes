@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) ein Braten <lb/> vnd breun jn ab auff einem Roßt <lb/> vnd schaw <lb/> daß du jn nicht verbrennest <lb/> Vnnd wenn du jn hast abgebreunt <lb/> so thu jn in einen vberzinten <objectName ref="fischkessel">Fischkessel</objectName> <lb/> schneidt darein ein wenig Zwibeln <lb/> vnd reib ein Ruckenbrott darein <lb/> auch etlich geklopffte Wacholderbeer <lb/> laß darmit sieden <lb/> vnnd wenns habl gesotten ist <lb/> so mach es ab mit Gewürtz <lb/> mach es saur oder nicht <lb/> darnach laß es wider sieden <lb/> so ist es gut <lb/> es sey saur oder süß <lb/> vnnd wenn du es wilt saur machen <lb/> so nim ( m ) ein Limonien oder zwo darzu <lb/> so wirt es gut vnd wolgeschmack. </p>
+        <p> Nim ( m ) ein Braten <lb/> vnd breun jn ab auff einem Roßt <lb/> vnd schaw <lb/> daß du jn nicht verbrennest <lb/> Vnnd wenn du jn hast abgebreunt <lb/> so thu jn in einen vberzinten <objectName ref="#fischkessel">Fischkessel</objectName> <lb/> schneidt darein ein wenig Zwibeln <lb/> vnd reib ein Ruckenbrott darein <lb/> auch etlich geklopffte Wacholderbeer <lb/> laß darmit sieden <lb/> vnnd wenns habl gesotten ist <lb/> so mach es ab mit Gewürtz <lb/> mach es saur oder nicht <lb/> darnach laß es wider sieden <lb/> so ist es gut <lb/> es sey saur oder süß <lb/> vnnd wenn du es wilt saur machen <lb/> so nim ( m ) ein Limonien oder zwo darzu <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

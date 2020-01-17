@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIese werden gantz auf die gleich jetzt = beschriebene Art eingemacht <lb/> allein an statt der <objectName ref="austern">Austern</objectName> werden gute abgelöste und kleingehackte <objectName ref="sardellen">Sardellen</objectName> genommen <lb/> und an statt des eingebrennten Meels macht man die <objectName ref="bruehe">Brühe</objectName> mit schwartz = geriebenen <lb/> und mit der <objectName ref="bruehe">Brühe</objectName> durch das Haar = Sieblein getriebnen Brod <lb/> ist auch kräfftig und gut <lb/> oder auch braun Meel. </p>
+        <p> DIese werden gantz auf die gleich jetzt = beschriebene Art eingemacht <lb/> allein an statt der <objectName ref="#austern">Austern</objectName> werden gute abgelöste und kleingehackte <objectName ref="#sardellen">Sardellen</objectName> genommen <lb/> und an statt des eingebrennten Meels macht man die <objectName ref="#bruehe">Brühe</objectName> mit schwartz = geriebenen <lb/> und mit der <objectName ref="#bruehe">Brühe</objectName> durch das Haar = Sieblein getriebnen Brod <lb/> ist auch kräfftig und gut <lb/> oder auch braun Meel. </p>
             </div>
         </body>
     </text>

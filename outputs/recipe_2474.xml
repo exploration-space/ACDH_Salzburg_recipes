@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> HAcket die Aepffel klein <lb/> röstets im Schmaltz <lb/> thut halb so viel geriebener Semmel dazu <lb/> wie auch Weinbeerlein oder Corinthen <lb/> und klein gestossenen <objectName ref="zucker">Zucker</objectName> und Zimmet <lb/> schlagt Eyer daran so viel vonnöthen; formiret Knötlein daraus <lb/> waltzet sie im <objectName ref="mehl">Mehl</objectName> ein und andermal herum <lb/> bachets aus Schmaltz <lb/> und macht dann <lb/> nach belieben <lb/> eine süsse Brüh darüber. </p>
+        <p> HAcket die Aepffel klein <lb/> röstets im Schmaltz <lb/> thut halb so viel geriebener Semmel dazu <lb/> wie auch Weinbeerlein oder Corinthen <lb/> und klein gestossenen <objectName ref="#zucker">Zucker</objectName> und Zimmet <lb/> schlagt Eyer daran so viel vonnöthen; formiret Knötlein daraus <lb/> waltzet sie im <objectName ref="#mehl">Mehl</objectName> ein und andermal herum <lb/> bachets aus Schmaltz <lb/> und macht dann <lb/> nach belieben <lb/> eine süsse Brüh darüber. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NIm Krautbrüh <lb/> vnd thu die <objectName ref="biscorn">Biscorn</objectName> darein <lb/> thu es in einen <objectName ref="hafen">Hafen</objectName> <lb/> vnnd decks zu <lb/> setz zu einem Feuwer <lb/> vnnd laß fein gemach sieden <lb/> vnnd wenn es auffgesotten hat <lb/> so versuchs <lb/> obs gesaltzen genug ist <lb/> vnnd laß sie nicht versieden in der Krautbrüh <lb/> richt es fein trucken an <lb/> vnd geuß ein wenig <objectName ref="essig">Essig</objectName> darüber <lb/> so werden sie gut zu essen <lb/> vnd gewinnen fein ein blaw farb <lb/> werden gut vnd steiff in der Krautbrüh. </p>
+        <p> NIm Krautbrüh <lb/> vnd thu die <objectName ref="#biscorn">Biscorn</objectName> darein <lb/> thu es in einen <objectName ref="#hafen">Hafen</objectName> <lb/> vnnd decks zu <lb/> setz zu einem Feuwer <lb/> vnnd laß fein gemach sieden <lb/> vnnd wenn es auffgesotten hat <lb/> so versuchs <lb/> obs gesaltzen genug ist <lb/> vnnd laß sie nicht versieden in der Krautbrüh <lb/> richt es fein trucken an <lb/> vnd geuß ein wenig <objectName ref="#essig">Essig</objectName> darüber <lb/> so werden sie gut zu essen <lb/> vnd gewinnen fein ein blaw farb <lb/> werden gut vnd steiff in der Krautbrüh. </p>
             </div>
         </body>
     </text>

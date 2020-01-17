@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet aus den Citronen die Kern heraus <lb/> dann sie sind sonst gar bitter <lb/> schneidet die Schelffen davon <lb/> thut das safftige Marck alsdann in ein <objectName ref="glas">Glas</objectName> <lb/> giesst den besten Wein= <objectName ref="essig">Essig</objectName> daran <lb/> und setzt ihn an die Sonnen wie einen andern <objectName ref="essig">Essig</objectName>. </p>
+        <p> NEhmet aus den Citronen die Kern heraus <lb/> dann sie sind sonst gar bitter <lb/> schneidet die Schelffen davon <lb/> thut das safftige Marck alsdann in ein <objectName ref="#glas">Glas</objectName> <lb/> giesst den besten Wein= <objectName ref="#essig">Essig</objectName> daran <lb/> und setzt ihn an die Sonnen wie einen andern <objectName ref="#essig">Essig</objectName>. </p>
             </div>
         </body>
     </text>

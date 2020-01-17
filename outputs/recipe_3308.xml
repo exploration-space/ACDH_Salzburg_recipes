@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe schäfferne <objectName ref="schlegel">Schlegel</objectName> seynd auch gut geklopffter <lb/> mit wohlgewürtztem <objectName ref="speck">Speck</objectName> durchzogen <lb/> mit Saltz <lb/> Zwibel <lb/> Gewürtz und guten <objectName ref="kraeuter">Kräutern</objectName> <lb/> in ein <objectName ref="geschirr">Geschirr</objectName> wohl vermachter in dem <objectName ref="ofen">Ofen</objectName> wohl weich gedämpfft <lb/> dann muß mans vermachter also kalt werden lassen <lb/> zu dünnen Blättlein zerschneiden <lb/> mit Eßig und Oel geben; oder <lb/> wanns beliebt <lb/> nimm Capry und ausgelößte <lb/> klein= gehackte <objectName ref="sardellen">Sardellen</objectName> <lb/> mit klein= gehackten Petersil= Kräutlein und Lemoni= Schaalen darzu. </p>
+        <p> DIe schäfferne <objectName ref="#schlegel">Schlegel</objectName> seynd auch gut geklopffter <lb/> mit wohlgewürtztem <objectName ref="#speck">Speck</objectName> durchzogen <lb/> mit Saltz <lb/> Zwibel <lb/> Gewürtz und guten <objectName ref="#kraeuter">Kräutern</objectName> <lb/> in ein <objectName ref="#geschirr">Geschirr</objectName> wohl vermachter in dem <objectName ref="#ofen">Ofen</objectName> wohl weich gedämpfft <lb/> dann muß mans vermachter also kalt werden lassen <lb/> zu dünnen Blättlein zerschneiden <lb/> mit Eßig und Oel geben; oder <lb/> wanns beliebt <lb/> nimm Capry und ausgelößte <lb/> klein= gehackte <objectName ref="#sardellen">Sardellen</objectName> <lb/> mit klein= gehackten Petersil= Kräutlein und Lemoni= Schaalen darzu. </p>
             </div>
         </body>
     </text>

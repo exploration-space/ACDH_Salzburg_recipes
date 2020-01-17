@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Geräucherter Rencken. Seudt sie ab in <objectName ref="wasser">Wasser</objectName> <lb/> vnn laß sie kalt werden <lb/> gibs auff ein <objectName ref="schuessel">Schüssel</objectName> <lb/> geuß <objectName ref="essig">Essig</objectName> darüber <lb/> vnd besträw es mit grüner Petersilgen. </p>
+        <p> Geräucherter Rencken. Seudt sie ab in <objectName ref="#wasser">Wasser</objectName> <lb/> vnn laß sie kalt werden <lb/> gibs auff ein <objectName ref="#schuessel">Schüssel</objectName> <lb/> geuß <objectName ref="#essig">Essig</objectName> darüber <lb/> vnd besträw es mit grüner Petersilgen. </p>
             </div>
         </body>
     </text>

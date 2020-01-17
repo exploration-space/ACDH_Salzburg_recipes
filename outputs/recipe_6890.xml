@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimm schöne weisse Zwibeln <lb/> vnd schneidt sie gar klein <lb/> vnnd reib den Braten wol damit <lb/> auch mit Saltz <lb/> laß es miteinander ein stundt oder zwo ligen <lb/> oder gar vber Nacht <lb/> mach darnach ein höltzern <objectName ref="spiess">Spieß</objectName> vnd einer häßlen Stauden <lb/> steck die Braten daran <lb/> vnnd brat sie geschwindt hinweg <lb/> so werden sie gut vnnd wolgeschmack. Auff diese manier zugericht <lb/> essens die Türcken gern. </p>
+        <p> Nimm schöne weisse Zwibeln <lb/> vnd schneidt sie gar klein <lb/> vnnd reib den Braten wol damit <lb/> auch mit Saltz <lb/> laß es miteinander ein stundt oder zwo ligen <lb/> oder gar vber Nacht <lb/> mach darnach ein höltzern <objectName ref="#spiess">Spieß</objectName> vnd einer häßlen Stauden <lb/> steck die Braten daran <lb/> vnnd brat sie geschwindt hinweg <lb/> so werden sie gut vnnd wolgeschmack. Auff diese manier zugericht <lb/> essens die Türcken gern. </p>
             </div>
         </body>
     </text>

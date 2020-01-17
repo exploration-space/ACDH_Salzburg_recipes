@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) grüne Erbeß <lb/> thu sie auß den Hülsen <lb/> setz sie zu mit einer Rindtfleischbrüh <lb/> vnd laß sie wol sieden <lb/> streichs durch ein Härin <objectName ref="tuch">Tuch</objectName> <lb/> thu es in ein kleinen <objectName ref="fischkessel">Fischkessel</objectName> <lb/> vnd laß sieden mit frischer <objectName ref="butter">Butter</objectName> <lb/> die vnzerlassen ist <lb/> rür Eyerdotter darvnter eins oder zwey <lb/> laß darmit auffsieden <lb/> so ist es ein gut Essen. </p>
+        <p> Nim ( m ) grüne Erbeß <lb/> thu sie auß den Hülsen <lb/> setz sie zu mit einer Rindtfleischbrüh <lb/> vnd laß sie wol sieden <lb/> streichs durch ein Härin <objectName ref="#tuch">Tuch</objectName> <lb/> thu es in ein kleinen <objectName ref="#fischkessel">Fischkessel</objectName> <lb/> vnd laß sieden mit frischer <objectName ref="#butter">Butter</objectName> <lb/> die vnzerlassen ist <lb/> rür Eyerdotter darvnter eins oder zwey <lb/> laß darmit auffsieden <lb/> so ist es ein gut Essen. </p>
             </div>
         </body>
     </text>

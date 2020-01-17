@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Fünff schöne grosse Kütten nimm <lb/> siede sie gar weich <lb/> alsdann scheels fein sauber <lb/> schlag das Weiche durch ein Sieblein <lb/> auf ein <objectName ref="schuessel">Schüssel</objectName> <lb/> darnach schlag sechs Eyerklar zu Faum <lb/> eines dem andern darein <lb/> rührs ein gute Stund wol ab <lb/> darnach zuckers süß genug <lb/> und klein= geschnittne Lemoni= Schelffen darunter <lb/> schmirb ein <objectName ref="schuessel">Schüssel</objectName> <lb/> nicht zu groß <lb/> mit <objectName ref="butter">Butter</objectName> <lb/> thue es darein <lb/> und bachs im <objectName ref="ofen">Ofen</objectName> <lb/> oder einer Dorten= Pfann wol aus <lb/> alsdann mit <objectName ref="zucker">Zucker</objectName> bestreut <lb/> so ist es gut. </p>
+        <p> Fünff schöne grosse Kütten nimm <lb/> siede sie gar weich <lb/> alsdann scheels fein sauber <lb/> schlag das Weiche durch ein Sieblein <lb/> auf ein <objectName ref="#schuessel">Schüssel</objectName> <lb/> darnach schlag sechs Eyerklar zu Faum <lb/> eines dem andern darein <lb/> rührs ein gute Stund wol ab <lb/> darnach zuckers süß genug <lb/> und klein= geschnittne Lemoni= Schelffen darunter <lb/> schmirb ein <objectName ref="#schuessel">Schüssel</objectName> <lb/> nicht zu groß <lb/> mit <objectName ref="#butter">Butter</objectName> <lb/> thue es darein <lb/> und bachs im <objectName ref="#ofen">Ofen</objectName> <lb/> oder einer Dorten= Pfann wol aus <lb/> alsdann mit <objectName ref="#zucker">Zucker</objectName> bestreut <lb/> so ist es gut. </p>
             </div>
         </body>
     </text>

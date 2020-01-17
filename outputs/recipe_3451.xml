@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> HAlbiere die <objectName ref="wachtel">Wachteln</objectName> <lb/> oder laß gantzer; stecke die Füßlein ein <lb/> saltz und klopffs ein wenig <lb/> legs in Eßig mit <objectName ref="knoblauch">Knoblauch</objectName> <lb/> Lorbeer= Blätter <lb/> und Lemoni= Schelffen <lb/> etc. oder röste sie in <objectName ref="butter">Butter</objectName> und <objectName ref="speck">Speck</objectName> <lb/> und laß wieder abkühlen <lb/> oder gleich aus dem Eßig; trückne sie mit einem saubern <objectName ref="tuch">Tuch</objectName> <lb/> duncke sie in einen Salbey= oder Brand= Taig <lb/> und bachs aus Schmaltz <lb/> und gibs warm mit grün= gebachnen Petersil. </p>
+        <p> HAlbiere die <objectName ref="#wachtel">Wachteln</objectName> <lb/> oder laß gantzer; stecke die Füßlein ein <lb/> saltz und klopffs ein wenig <lb/> legs in Eßig mit <objectName ref="#knoblauch">Knoblauch</objectName> <lb/> Lorbeer= Blätter <lb/> und Lemoni= Schelffen <lb/> etc. oder röste sie in <objectName ref="#butter">Butter</objectName> und <objectName ref="#speck">Speck</objectName> <lb/> und laß wieder abkühlen <lb/> oder gleich aus dem Eßig; trückne sie mit einem saubern <objectName ref="#tuch">Tuch</objectName> <lb/> duncke sie in einen Salbey= oder Brand= Taig <lb/> und bachs aus Schmaltz <lb/> und gibs warm mit grün= gebachnen Petersil. </p>
             </div>
         </body>
     </text>

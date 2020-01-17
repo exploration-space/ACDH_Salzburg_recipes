@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm den Rucken frischer <lb/> oder gepaitzter <lb/> wann er wohl gesaltzen <lb/> kan er auch mit Salbey <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> Petersil <lb/> auch wohl mit <objectName ref="knoblauch">Knoblauch</objectName> und Schallot gespickt <lb/> und am Spiß <lb/> oder dem <objectName ref="ofen">Ofen</objectName> gebraten werden/ gibe ihn mit seiner selbst= eigener Paitz und Abträuff <lb/> aber durchgesiehen <lb/> und die mehriste Faisten darvon genommen; oder mit Capry <lb/> oder <objectName ref="sardellen">Sardellen</objectName>. </p>
+        <p> NImm den Rucken frischer <lb/> oder gepaitzter <lb/> wann er wohl gesaltzen <lb/> kan er auch mit Salbey <lb/> <objectName ref="#rosmarin">Rosmarin</objectName> <lb/> Petersil <lb/> auch wohl mit <objectName ref="#knoblauch">Knoblauch</objectName> und Schallot gespickt <lb/> und am Spiß <lb/> oder dem <objectName ref="#ofen">Ofen</objectName> gebraten werden/ gibe ihn mit seiner selbst= eigener Paitz und Abträuff <lb/> aber durchgesiehen <lb/> und die mehriste Faisten darvon genommen; oder mit Capry <lb/> oder <objectName ref="#sardellen">Sardellen</objectName>. </p>
             </div>
         </body>
     </text>

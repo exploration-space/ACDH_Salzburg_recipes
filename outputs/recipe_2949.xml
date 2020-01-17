@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAch einen Syrup mit <objectName ref="zucker">Zucker</objectName> und <objectName ref="wasser">Wasser</objectName> <lb/> wann er halb gesotten <lb/> so lege die Eyerdotter gantzer mit einem <objectName ref="silber">silbern</objectName> <objectName ref="loeffel">Löffel</objectName> <lb/> eins nach dem andern darein <lb/> laß sieden <lb/> und legs in die <objectName ref="schuessel">Schüssel</objectName> <lb/> Schaalen <lb/> oder <objectName ref="teller">Teller</objectName> <lb/> mit gehackten <objectName ref="pistazien">Pistazien</objectName> <lb/> regaliers mit gantzen <objectName ref="pistazien">Pistazien</objectName> <lb/> und eingemachten Pomerantzen= Schelffen <lb/> oder dergleichen Blühe <lb/> auch mit Lemoni= und dergleichen Safft. </p>
+        <p> MAch einen Syrup mit <objectName ref="#zucker">Zucker</objectName> und <objectName ref="#wasser">Wasser</objectName> <lb/> wann er halb gesotten <lb/> so lege die Eyerdotter gantzer mit einem <objectName ref="#silber">silbern</objectName> <objectName ref="#loeffel">Löffel</objectName> <lb/> eins nach dem andern darein <lb/> laß sieden <lb/> und legs in die <objectName ref="#schuessel">Schüssel</objectName> <lb/> Schaalen <lb/> oder <objectName ref="#teller">Teller</objectName> <lb/> mit gehackten <objectName ref="#pistazien">Pistazien</objectName> <lb/> regaliers mit gantzen <objectName ref="#pistazien">Pistazien</objectName> <lb/> und eingemachten Pomerantzen= Schelffen <lb/> oder dergleichen Blühe <lb/> auch mit Lemoni= und dergleichen Safft. </p>
             </div>
         </body>
     </text>

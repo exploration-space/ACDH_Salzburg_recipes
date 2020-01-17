@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Füllet die <objectName ref="haeher">Häher</objectName> mit gutem <objectName ref="essig">Essig</objectName> und <objectName ref="pfeffer">Pfeffer</objectName> <lb/> biindet ihnen den Hals zu <lb/> schlaget ein sauberes Tüchlein darum <lb/> hanget sie also einen Tag und eine nacht in einen <objectName ref="keller">Keller</objectName>; dann rupffet und nehmet sie aus <lb/> steckets an einen <objectName ref="spiess">Spieß</objectName> <lb/> lasts gemach abbraten <lb/> und tragt sie entweder trocken zu <objectName ref="tisch">Tisch</objectName> <lb/> oder aber macht eine Brüh darüber <lb/> und zieret sie nach belieben. </p>
+        <p> Füllet die <objectName ref="#haeher">Häher</objectName> mit gutem <objectName ref="#essig">Essig</objectName> und <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> biindet ihnen den Hals zu <lb/> schlaget ein sauberes Tüchlein darum <lb/> hanget sie also einen Tag und eine nacht in einen <objectName ref="#keller">Keller</objectName>; dann rupffet und nehmet sie aus <lb/> steckets an einen <objectName ref="#spiess">Spieß</objectName> <lb/> lasts gemach abbraten <lb/> und tragt sie entweder trocken zu <objectName ref="#tisch">Tisch</objectName> <lb/> oder aber macht eine Brüh darüber <lb/> und zieret sie nach belieben. </p>
             </div>
         </body>
     </text>

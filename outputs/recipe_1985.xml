@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein pfundt schen Weiß Semblmell, ein halb pfundt Zukher, <lb/> <objectName ref="rosen">Rosen</objectName> <objectName ref="wasser">Wasser</objectName> Zween löfl voll. 4. weiß von aÿrn, mach ein <lb/> laibl draus, bochs in <objectName ref="ofen">ofen</objectName>, darnach schneids Zu schniten, vnd <lb/> laß wider ein Wenig bachen, Zu den gelben nimb die <lb/> aÿrdoter. <lb/> </p>
+        <p> Nimb ein pfundt schen Weiß Semblmell, ein halb pfundt Zukher, <lb/> <objectName ref="#rosen">Rosen</objectName> <objectName ref="#wasser">Wasser</objectName> Zween löfl voll. 4. weiß von aÿrn, mach ein <lb/> laibl draus, bochs in <objectName ref="#ofen">ofen</objectName>, darnach schneids Zu schniten, vnd <lb/> laß wider ein Wenig bachen, Zu den gelben nimb die <lb/> aÿrdoter. <lb/> </p>
             </div>
         </body>
     </text>

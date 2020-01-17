@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIses <objectName ref="fleisch">Fleisch</objectName> ist auch gut <lb/> wie das Lamm= <objectName ref="fleisch">Fleisch</objectName> einzumachen <lb/> in Fricasse, in gelber Zwibel= oder Lemoni= <objectName ref="bruehe">Brühe</objectName> <lb/> mit <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> wenig <objectName ref="wein">Wein</objectName> <lb/> oder Eßig <lb/> und gut Gewürtz; Insonderheit <lb/> wann sie nicht gar alt seynd. </p>
+        <p> DIses <objectName ref="#fleisch">Fleisch</objectName> ist auch gut <lb/> wie das Lamm= <objectName ref="#fleisch">Fleisch</objectName> einzumachen <lb/> in Fricasse, in gelber Zwibel= oder Lemoni= <objectName ref="#bruehe">Brühe</objectName> <lb/> mit <objectName ref="#fleischbruehe">Fleischbrühe</objectName> <lb/> wenig <objectName ref="#wein">Wein</objectName> <lb/> oder Eßig <lb/> und gut Gewürtz; Insonderheit <lb/> wann sie nicht gar alt seynd. </p>
             </div>
         </body>
     </text>

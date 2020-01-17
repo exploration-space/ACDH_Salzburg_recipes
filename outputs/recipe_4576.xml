@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet ein <objectName ref="pfund">Pfund</objectName> mit <objectName ref="rosenwasser">Rosenwasser</objectName> klar abgeriebener <objectName ref="mandeln">Mandeln</objectName> <lb/> fünff Achtel= <objectName ref="pfund">Pfund</objectName> <objectName ref="zucker">Zucker</objectName> <lb/> und zwölff gantze Eyer <lb/> oder acht gantze Eyer <lb/> und vier Dottern : machet diesen <objectName ref="teig">Teig</objectName> an <lb/> wie den gleich vorher beschriebenen <lb/> rühret ihn aber eine gantze Stund lang <lb/> ohne still= halten <lb/> und zuletzt <lb/> wann er gleich in den <objectName ref="model">Model</objectName> eingefüllt werden soll <lb/> zwey <objectName ref="loth">Loth</objectName> klar= gestossen= oder geriebenes Semmel= <objectName ref="mehl">Mehl</objectName> darunter. </p>
+        <p> NEhmet ein <objectName ref="#pfund">Pfund</objectName> mit <objectName ref="#rosenwasser">Rosenwasser</objectName> klar abgeriebener <objectName ref="#mandeln">Mandeln</objectName> <lb/> fünff Achtel= <objectName ref="#pfund">Pfund</objectName> <objectName ref="#zucker">Zucker</objectName> <lb/> und zwölff gantze Eyer <lb/> oder acht gantze Eyer <lb/> und vier Dottern : machet diesen <objectName ref="#teig">Teig</objectName> an <lb/> wie den gleich vorher beschriebenen <lb/> rühret ihn aber eine gantze Stund lang <lb/> ohne still= halten <lb/> und zuletzt <lb/> wann er gleich in den <objectName ref="#model">Model</objectName> eingefüllt werden soll <lb/> zwey <objectName ref="#loth">Loth</objectName> klar= gestossen= oder geriebenes Semmel= <objectName ref="#mehl">Mehl</objectName> darunter. </p>
             </div>
         </body>
     </text>

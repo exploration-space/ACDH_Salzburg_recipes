@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb gehakht öpfl, vnd geribne Sembl, vnd ein <lb/> wenig mandl mell vnd 2. aÿr, vnd auch ein süsß Rämbl <lb/> mach also Würstl drauß, Walgs in aim mell umb, <lb/> vnd bachs im <objectName ref="schmalz">schmalz</objectName>, vnd mach ein süsß Süppl <lb/> drüber, die man im Merser macht, man auch <lb/> also, man khan Woll weinpörl darzue nemmen. <lb/> </p>
+        <p> Nimb gehakht öpfl, vnd geribne Sembl, vnd ein <lb/> wenig mandl mell vnd 2. aÿr, vnd auch ein süsß Rämbl <lb/> mach also Würstl drauß, Walgs in aim mell umb, <lb/> vnd bachs im <objectName ref="#schmalz">schmalz</objectName>, vnd mach ein süsß Süppl <lb/> drüber, die man im Merser macht, man auch <lb/> also, man khan Woll weinpörl darzue nemmen. <lb/> </p>
             </div>
         </body>
     </text>

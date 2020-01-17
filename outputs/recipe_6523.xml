@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm schöne wohlzeitige Spitzbeer <lb/> reibe sie in einem höltzernen oder steinernen Mörsel <lb/> und treibs mit wenig <objectName ref="wasser">Wasser</objectName> durch <lb/> dann siede das Durchgetribene mit viel <objectName ref="zucker">Zucker</objectName> <lb/> daß es dick und süß genug ist <lb/> dann weiche ein wenig geriebne Semmel darein <lb/> und gibs in die Dorten <lb/> aber nicht zu trucken. Dergleichen gute Säfft seynd bey den eingemachten <objectName ref="fruechte">Früchten</objectName> mehr und ausführlicher beschrieben <lb/> welche man zu allerhand Dörtlein <lb/> Schau= Dorten und Kräpfflein gantz bequem gebrauchen und einfüllen kan. </p>
+        <p> NImm schöne wohlzeitige Spitzbeer <lb/> reibe sie in einem höltzernen oder steinernen Mörsel <lb/> und treibs mit wenig <objectName ref="#wasser">Wasser</objectName> durch <lb/> dann siede das Durchgetribene mit viel <objectName ref="#zucker">Zucker</objectName> <lb/> daß es dick und süß genug ist <lb/> dann weiche ein wenig geriebne Semmel darein <lb/> und gibs in die Dorten <lb/> aber nicht zu trucken. Dergleichen gute Säfft seynd bey den eingemachten <objectName ref="#fruechte">Früchten</objectName> mehr und ausführlicher beschrieben <lb/> welche man zu allerhand Dörtlein <lb/> Schau= Dorten und Kräpfflein gantz bequem gebrauchen und einfüllen kan. </p>
             </div>
         </body>
     </text>

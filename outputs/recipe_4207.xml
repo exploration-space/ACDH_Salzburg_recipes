@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SO man etwa in den Fässern mit Meer= Saltz hieher bringt <lb/> zu verkochen; Dieser wird sauber gewaschen <lb/> gesotten <lb/> und meistens mit einer weiß abgegossenen Butter= Dotter= Capry= Dardoffel= Maurachen= und dergleichen <objectName ref="bruehe">Brühen</objectName>; wol mit Lemoni= Schelffen <lb/> und Gewürtz versehen und aufgetragen <lb/> und wird an diesem <objectName ref="fisch">Fisch</objectName> das Schweiff= Stuck vor köstlich gehalten. </p>
+        <p> SO man etwa in den Fässern mit Meer= Saltz hieher bringt <lb/> zu verkochen; Dieser wird sauber gewaschen <lb/> gesotten <lb/> und meistens mit einer weiß abgegossenen Butter= Dotter= Capry= Dardoffel= Maurachen= und dergleichen <objectName ref="#bruehe">Brühen</objectName>; wol mit Lemoni= Schelffen <lb/> und Gewürtz versehen und aufgetragen <lb/> und wird an diesem <objectName ref="#fisch">Fisch</objectName> das Schweiff= Stuck vor köstlich gehalten. </p>
             </div>
         </body>
     </text>

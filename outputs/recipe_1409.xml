@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim den khell<gap/> daß schen herzl<gap/>, schneits<gap/> zu 4 <lb/> thail<gap/>, Bire<gap/> ihm fein wohl, schaue daß du die <lb/> herzl<gap/> nit brichest, rests<gap/> schen Braun, <objectName ref="salz">salz</objectName>, Lögs<gap/> <lb/> in ein schüsßel<gap/>, so offt ein herz<gap/> khell<gap/>, so offt <lb/> schlag ein ayr<gap/> darneben. söz die schisßel<gap/> in ein <lb/> warmmen oschen<gap/>, so ist es guet. <lb/> </p>
+        <p> Nim den khell<gap/> daß schen herzl<gap/>, schneits<gap/> zu 4 <lb/> thail<gap/>, Bire<gap/> ihm fein wohl, schaue daß du die <lb/> herzl<gap/> nit brichest, rests<gap/> schen Braun, <objectName ref="#salz">salz</objectName>, Lögs<gap/> <lb/> in ein schüsßel<gap/>, so offt ein herz<gap/> khell<gap/>, so offt <lb/> schlag ein ayr<gap/> darneben. söz die schisßel<gap/> in ein <lb/> warmmen oschen<gap/>, so ist es guet. <lb/> </p>
             </div>
         </body>
     </text>

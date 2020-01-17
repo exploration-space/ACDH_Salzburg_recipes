@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim <objectName ref="forelle">Forellen</objectName> <lb/> vnd mach Kölhecht darauß <lb/> saltz vnnd rößt es auß der Pettersilgen <lb/> nim Senff <lb/> <objectName ref="butter">Butter</objectName> <lb/> vnd ein wenig Erbsbrüh <lb/> laß miteinander nur ein Sudt auffthun <lb/> geuß vber die gebackene Foren <lb/> so ist es gut vnd wolgeschmack. </p>
+        <p> Nim <objectName ref="#forelle">Forellen</objectName> <lb/> vnd mach Kölhecht darauß <lb/> saltz vnnd rößt es auß der Pettersilgen <lb/> nim Senff <lb/> <objectName ref="#butter">Butter</objectName> <lb/> vnd ein wenig Erbsbrüh <lb/> laß miteinander nur ein Sudt auffthun <lb/> geuß vber die gebackene Foren <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

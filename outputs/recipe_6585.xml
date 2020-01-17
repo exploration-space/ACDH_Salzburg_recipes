@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Eyerdotter <lb/> ein wenig <objectName ref="essig">Essig</objectName> <lb/> vnd ein gute Rindtfleischbrüh <lb/> streich es durch ein Härin <objectName ref="tuch">Tuch</objectName> <lb/> thu es in einen <objectName ref="fischkessel">Fischkessel</objectName> <lb/> vnd thu ein vngesaltzene <objectName ref="butter">Butter</objectName> <lb/> die vngeschmältzt ist <lb/> darein <lb/> rürs vmb <lb/> vnd laß damit auffsieden <lb/> wen ( n ) s auffgesotten hat <lb/> so thu grüne wolschmeckende <objectName ref="kraeuter">Kräuter</objectName> <lb/> die klein gehackt seyn <lb/> darein <lb/> geuß vber den Kappaunen <lb/> so ist es zierlich vnd gut. </p>
+        <p> Nim ( m ) Eyerdotter <lb/> ein wenig <objectName ref="#essig">Essig</objectName> <lb/> vnd ein gute Rindtfleischbrüh <lb/> streich es durch ein Härin <objectName ref="#tuch">Tuch</objectName> <lb/> thu es in einen <objectName ref="#fischkessel">Fischkessel</objectName> <lb/> vnd thu ein vngesaltzene <objectName ref="#butter">Butter</objectName> <lb/> die vngeschmältzt ist <lb/> darein <lb/> rürs vmb <lb/> vnd laß damit auffsieden <lb/> wen ( n ) s auffgesotten hat <lb/> so thu grüne wolschmeckende <objectName ref="#kraeuter">Kräuter</objectName> <lb/> die klein gehackt seyn <lb/> darein <lb/> geuß vber den Kappaunen <lb/> so ist es zierlich vnd gut. </p>
             </div>
         </body>
     </text>

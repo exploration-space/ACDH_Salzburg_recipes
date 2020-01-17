@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm die zerschnittene Hünlein <lb/> laß mit gehörigem Saltz und Gewürtz <lb/> <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> mit wenig Eßig <lb/> oder <objectName ref="wein">Wein</objectName> vermischt sieden; schneide einen guten Theil Zwibel klein <lb/> röste ihn in gutem <objectName ref="butter">Butter</objectName> liecht= gelb <lb/> auf die Letzt ein wenig weiss Meel darein <lb/> hernach gieß die <objectName ref="bruehe">Brühe</objectName> von denen Hünlein daran <lb/> machs gut am Geschmack <lb/> und sobalds aufsiedt <lb/> so treibs durch das Haar= Sieblein <lb/> und gibs wieder an die Hünlein <lb/> machs gar fertig <lb/> auch ein wenig gelb <lb/> und richts an. </p>
+        <p> NImm die zerschnittene Hünlein <lb/> laß mit gehörigem Saltz und Gewürtz <lb/> <objectName ref="#fleischbruehe">Fleischbrühe</objectName> <lb/> mit wenig Eßig <lb/> oder <objectName ref="#wein">Wein</objectName> vermischt sieden; schneide einen guten Theil Zwibel klein <lb/> röste ihn in gutem <objectName ref="#butter">Butter</objectName> liecht= gelb <lb/> auf die Letzt ein wenig weiss Meel darein <lb/> hernach gieß die <objectName ref="#bruehe">Brühe</objectName> von denen Hünlein daran <lb/> machs gut am Geschmack <lb/> und sobalds aufsiedt <lb/> so treibs durch das Haar= Sieblein <lb/> und gibs wieder an die Hünlein <lb/> machs gar fertig <lb/> auch ein wenig gelb <lb/> und richts an. </p>
             </div>
         </body>
     </text>

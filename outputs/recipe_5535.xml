@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Mach ein <objectName ref="teig">Teig</objectName> an von lauter Dottern <lb/> geuß ein wenig süssen Rahm darvnter <lb/> vnd mach den <objectName ref="teig">Teig</objectName> darmit an <lb/> vnd mach Strützel darauß <lb/> etwan eines Fingers lang <lb/> vnd eines Fingers dick <lb/> vnd schaw <lb/> daß du es nicht versaltzest <lb/> wirffs in <objectName ref="butter">Butter</objectName> <lb/> die nicht gar heiß ist <lb/> backs fein kül auß <lb/> vnnd gibs warm oder kalt auff ein <objectName ref="tisch">Tisch</objectName> <lb/> besträw es mit <objectName ref="zucker">Zucker</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
+        <p> Mach ein <objectName ref="#teig">Teig</objectName> an von lauter Dottern <lb/> geuß ein wenig süssen Rahm darvnter <lb/> vnd mach den <objectName ref="#teig">Teig</objectName> darmit an <lb/> vnd mach Strützel darauß <lb/> etwan eines Fingers lang <lb/> vnd eines Fingers dick <lb/> vnd schaw <lb/> daß du es nicht versaltzest <lb/> wirffs in <objectName ref="#butter">Butter</objectName> <lb/> die nicht gar heiß ist <lb/> backs fein kül auß <lb/> vnnd gibs warm oder kalt auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> besträw es mit <objectName ref="#zucker">Zucker</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

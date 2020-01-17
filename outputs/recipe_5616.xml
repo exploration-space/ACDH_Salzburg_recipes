@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAche einen <objectName ref="teig">Teig</objectName> an <lb/> wie den weissen Num. 36. oder die gleich darauf beschriebene Strauben= Teige; laß ein Schmaltz in einen <objectName ref="pfaennlein">Pfännlein</objectName> heiß werden <lb/> und zettle den <objectName ref="teig">Teig</objectName> durch ein Triechterlein darein <lb/> bach schön heraus : stelle ein Wälcherholtz übersich auf <lb/> in die Höhe <lb/> und biege die Küchlein oben über das runde Theil deß Wälcherholtzes <lb/> daß das Küchlein oder Gebachens einwendig <lb/> wie ein Hut <lb/> hol wird <lb/> neben herum aber breit und gantz bleibet; legs dann in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und bestreus mit <objectName ref="zucker">Zucker</objectName>. </p>
+        <p> MAche einen <objectName ref="#teig">Teig</objectName> an <lb/> wie den weissen Num. 36. oder die gleich darauf beschriebene Strauben= Teige; laß ein Schmaltz in einen <objectName ref="#pfaennlein">Pfännlein</objectName> heiß werden <lb/> und zettle den <objectName ref="#teig">Teig</objectName> durch ein Triechterlein darein <lb/> bach schön heraus : stelle ein Wälcherholtz übersich auf <lb/> in die Höhe <lb/> und biege die Küchlein oben über das runde Theil deß Wälcherholtzes <lb/> daß das Küchlein oder Gebachens einwendig <lb/> wie ein Hut <lb/> hol wird <lb/> neben herum aber breit und gantz bleibet; legs dann in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> und bestreus mit <objectName ref="#zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

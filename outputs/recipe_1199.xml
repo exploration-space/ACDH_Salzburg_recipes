@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> thue die Neün augen<gap/> lebentig in ein höffen<gap/> gies<gap/> <lb/> ein siedentes<gap/> <objectName ref="wasser">wasser</objectName> daran, schneite<gap/> Ihnen die <lb/> Khöpf, vnd schwaif<gap/> daruon, hernach khanst es absieden<gap/> <lb/><lb/> ( 21v ) wie Einen anderen <objectName ref="fisch">Fisch</objectName>, allein lang miessen <lb/> sie sieden<gap/>, vnd gibs also in arbes<gap/> prie, <lb/> </p>
+        <p> thue die Neün augen<gap/> lebentig in ein höffen<gap/> gies<gap/> <lb/> ein siedentes<gap/> <objectName ref="#wasser">wasser</objectName> daran, schneite<gap/> Ihnen die <lb/> Khöpf, vnd schwaif<gap/> daruon, hernach khanst es absieden<gap/> <lb/><lb/> ( 21v ) wie Einen anderen <objectName ref="#fisch">Fisch</objectName>, allein lang miessen <lb/> sie sieden<gap/>, vnd gibs also in arbes<gap/> prie, <lb/> </p>
             </div>
         </body>
     </text>

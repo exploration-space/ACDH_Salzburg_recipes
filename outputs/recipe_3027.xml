@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="spargel">SPargel</objectName> von hinden schön eben abgeschnitten <lb/> im <objectName ref="wasser">Wasser</objectName> <lb/> biß es sich von den <objectName ref="spargel">Spargeln</objectName> ein wenig grün färbt <lb/> doch nicht zu viel <lb/> gebrüht <lb/> abgesiehen <lb/> und mit kalt <objectName ref="wasser">Wasser</objectName> abgekühlt <lb/> und zugleich gesaltzen <lb/> gibs auf die <objectName ref="schuessel">Schüssel</objectName> schön aufgericht <lb/> entweder mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Eßig und Oel kalt <lb/> oder mit einer wolgemachten guten weissen oder gelben Butter= <objectName ref="bruehe">Brühe</objectName> warm zu <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> <objectName ref="#spargel">SPargel</objectName> von hinden schön eben abgeschnitten <lb/> im <objectName ref="#wasser">Wasser</objectName> <lb/> biß es sich von den <objectName ref="#spargel">Spargeln</objectName> ein wenig grün färbt <lb/> doch nicht zu viel <lb/> gebrüht <lb/> abgesiehen <lb/> und mit kalt <objectName ref="#wasser">Wasser</objectName> abgekühlt <lb/> und zugleich gesaltzen <lb/> gibs auf die <objectName ref="#schuessel">Schüssel</objectName> schön aufgericht <lb/> entweder mit <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Eßig und Oel kalt <lb/> oder mit einer wolgemachten guten weissen oder gelben Butter= <objectName ref="#bruehe">Brühe</objectName> warm zu <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

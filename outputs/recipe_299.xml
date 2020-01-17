@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Den Reisch, Wasch ihn sauber vnd <lb/> Koch ihn in siessen Rämb<gap/>, das er <lb/><lb/> ( ve 145 ) Schön Lindt<gap/> Wierdt, Nimb abgezogne<gap/> <lb/> Mandl, Schneidts langlet<gap/> Misch es vnder <lb/> den Reisch, Zuckhers auch Dan Nimb <lb/> eine schöne Schallen<gap/> oder schissl<gap/>, Richts <lb/> in die Mitt fein hoch Auf, besträh<gap/> es <lb/> mit Zuckher, vnnd machem von <objectName ref="butter">butter</objectName> <lb/> vnnd eingestöckhten Waxliechtlein <lb/> einen Schönnen, Zaun herumb, thue <lb/> oben her Die Kirzel<gap/> Vergulten<gap/>, so ist <lb/> es gar ein Schönnes vnd Guettes <lb/> Essen, ist auch also fertig. <lb/> </p>
+        <p> Nimb Den Reisch, Wasch ihn sauber vnd <lb/> Koch ihn in siessen Rämb<gap/>, das er <lb/><lb/> ( ve 145 ) Schön Lindt<gap/> Wierdt, Nimb abgezogne<gap/> <lb/> Mandl, Schneidts langlet<gap/> Misch es vnder <lb/> den Reisch, Zuckhers auch Dan Nimb <lb/> eine schöne Schallen<gap/> oder schissl<gap/>, Richts <lb/> in die Mitt fein hoch Auf, besträh<gap/> es <lb/> mit Zuckher, vnnd machem von <objectName ref="#butter">butter</objectName> <lb/> vnnd eingestöckhten Waxliechtlein <lb/> einen Schönnen, Zaun herumb, thue <lb/> oben her Die Kirzel<gap/> Vergulten<gap/>, so ist <lb/> es gar ein Schönnes vnd Guettes <lb/> Essen, ist auch also fertig. <lb/> </p>
             </div>
         </body>
     </text>

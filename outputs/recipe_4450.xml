@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> THut die Körner von einem Granat= Apffel in ein <objectName ref="haefelein">Häfelein</objectName> <lb/> giesst ein wenig <objectName ref="wein">Wein</objectName> und Rosen= <objectName ref="essig">Essig</objectName> daran <lb/> streuet <objectName ref="pfeffer">Pfeffer</objectName> darein <lb/> und lasts eine gute weile sieden; seihet dann die Brüh herab <lb/> werfft <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet <lb/> Cardamomen und Muscaten= Blüh darein <lb/> körnet einen andern Granat= Apffel aus <lb/> leget diese frische Körner in <objectName ref="zucker">Zucker</objectName> <lb/> und streuet sie auf das Gebratene und den Rand der <objectName ref="schuessel">Schüssel</objectName>. </p>
+        <p> THut die Körner von einem Granat= Apffel in ein <objectName ref="#haefelein">Häfelein</objectName> <lb/> giesst ein wenig <objectName ref="#wein">Wein</objectName> und Rosen= <objectName ref="#essig">Essig</objectName> daran <lb/> streuet <objectName ref="#pfeffer">Pfeffer</objectName> darein <lb/> und lasts eine gute weile sieden; seihet dann die Brüh herab <lb/> werfft <objectName ref="#zucker">Zucker</objectName> <lb/> Zimmet <lb/> Cardamomen und Muscaten= Blüh darein <lb/> körnet einen andern Granat= Apffel aus <lb/> leget diese frische Körner in <objectName ref="#zucker">Zucker</objectName> <lb/> und streuet sie auf das Gebratene und den Rand der <objectName ref="#schuessel">Schüssel</objectName>. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb die khelbere Priels, vnd ein Wenig Lungl, <lb/> ÿber brenß ein Wenig, nimbs hernach, vnd hackhs <lb/> khlein, schlag aÿr dran, vnd rühr geribne Sembl drein, <lb/> stups Woll, magst auch Woll ein faisten vnd Wein= <lb/> bör drunder thuen, vnd hackhen, machs nit Zu lehn, <lb/> Pinds in ein saubers tiechl ein, legs in ein Warmes <lb/> <objectName ref="wasser">Wasser</objectName>, laß Woll Sieden, vnd Wens gnug gsoten ist, so <lb/> nimbs herauß, vnd schneid schnidl drauß, so mach <lb/> ein süsß Süppl drüber, laß gmach sieden, es ist guet. <lb/> </p>
+        <p> Nimb die khelbere Priels, vnd ein Wenig Lungl, <lb/> ÿber brenß ein Wenig, nimbs hernach, vnd hackhs <lb/> khlein, schlag aÿr dran, vnd rühr geribne Sembl drein, <lb/> stups Woll, magst auch Woll ein faisten vnd Wein= <lb/> bör drunder thuen, vnd hackhen, machs nit Zu lehn, <lb/> Pinds in ein saubers tiechl ein, legs in ein Warmes <lb/> <objectName ref="#wasser">Wasser</objectName>, laß Woll Sieden, vnd Wens gnug gsoten ist, so <lb/> nimbs herauß, vnd schneid schnidl drauß, so mach <lb/> ein süsß Süppl drüber, laß gmach sieden, es ist guet. <lb/> </p>
             </div>
         </body>
     </text>

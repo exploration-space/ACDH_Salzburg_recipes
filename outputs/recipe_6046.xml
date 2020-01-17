@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Weiß Rapuntzel <objectName ref="salat">Salat</objectName> <lb/> die Wurzel gequellt <lb/> vnnd eins theils roh mit dem grünen <objectName ref="kraut">Kraut</objectName> geben <lb/> ist auff beyde manier gut zu zurichten. </p>
+        <p> Weiß Rapuntzel <objectName ref="#salat">Salat</objectName> <lb/> die Wurzel gequellt <lb/> vnnd eins theils roh mit dem grünen <objectName ref="#kraut">Kraut</objectName> geben <lb/> ist auff beyde manier gut zu zurichten. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Ein fein hübsches lauters grüns Gläßlein gibt dem <objectName ref="wein">Wein</objectName> ein hübsche Farb zu besichtigen <lb/> vnd das sol gesschehen <lb/> wenn der Himmel hell vnnd klar ist <lb/> so ist der <objectName ref="wein">Wein</objectName> an Farb vnd Geschmack desto besser. Wenn man <objectName ref="wein">Wein</objectName> kauffen vnnd probiren wil <lb/> soltu ein wenig Brots auß einem <objectName ref="brunnen">Brunnen</objectName> essen <lb/> darauff den <objectName ref="wein">Wein</objectName> versuchen <lb/> denn zu gantz nüchtern <lb/> oder satt <lb/> benimpt einem Menschen den Geschmack. Etliche essen zuvor auch von einem Apffel <lb/> damit sie den <objectName ref="wein">Wein</objectName> desto baß schmäcken vnnd prüffen können. </p>
+        <p> Ein fein hübsches lauters grüns Gläßlein gibt dem <objectName ref="#wein">Wein</objectName> ein hübsche Farb zu besichtigen <lb/> vnd das sol gesschehen <lb/> wenn der Himmel hell vnnd klar ist <lb/> so ist der <objectName ref="#wein">Wein</objectName> an Farb vnd Geschmack desto besser. Wenn man <objectName ref="#wein">Wein</objectName> kauffen vnnd probiren wil <lb/> soltu ein wenig Brots auß einem <objectName ref="#brunnen">Brunnen</objectName> essen <lb/> darauff den <objectName ref="#wein">Wein</objectName> versuchen <lb/> denn zu gantz nüchtern <lb/> oder satt <lb/> benimpt einem Menschen den Geschmack. Etliche essen zuvor auch von einem Apffel <lb/> damit sie den <objectName ref="#wein">Wein</objectName> desto baß schmäcken vnnd prüffen können. </p>
             </div>
         </body>
     </text>

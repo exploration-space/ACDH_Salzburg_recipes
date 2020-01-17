@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Erstlich Nimb schönne Erdtöpfel<gap/> schöll<gap/> <lb/> sye, hernach schneidts Rundt als wie <lb/> Die Räthig<gap/>, aber Ganz Dün, Richts <lb/> auf ein schissl<gap/>, Giess<gap/> öll Daryber, <lb/> vnnd dräpf<gap/> es mit Lemoni safft<gap/>, <lb/> aber nit Zu Vill, Dan Die Erdt= <lb/> öpfel seindt sunst siesse<gap/> Giess <lb/> ein wenig <objectName ref="wasser">wasser</objectName> Daran, deckhs <lb/> Zue, lass auf einer Gluet<gap/> Preglen<gap/> <lb/> Gibs warmb vnter Die speissen herr, <lb/> Kanst sye auch Kalt<gap/> hergeben vor <lb/> ein sallat, aber an stadt des <lb/> wassers muest ein wenig <objectName ref="essig">essig</objectName> <lb/> Daran giessen<gap/> so seindts Recht <lb/> </p>
+        <p> Erstlich Nimb schönne Erdtöpfel<gap/> schöll<gap/> <lb/> sye, hernach schneidts Rundt als wie <lb/> Die Räthig<gap/>, aber Ganz Dün, Richts <lb/> auf ein schissl<gap/>, Giess<gap/> öll Daryber, <lb/> vnnd dräpf<gap/> es mit Lemoni safft<gap/>, <lb/> aber nit Zu Vill, Dan Die Erdt= <lb/> öpfel seindt sunst siesse<gap/> Giess <lb/> ein wenig <objectName ref="#wasser">wasser</objectName> Daran, deckhs <lb/> Zue, lass auf einer Gluet<gap/> Preglen<gap/> <lb/> Gibs warmb vnter Die speissen herr, <lb/> Kanst sye auch Kalt<gap/> hergeben vor <lb/> ein sallat, aber an stadt des <lb/> wassers muest ein wenig <objectName ref="#essig">essig</objectName> <lb/> Daran giessen<gap/> so seindts Recht <lb/> </p>
             </div>
         </body>
     </text>

@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Die Spänling gescheelt und gedörrter <lb/> seynd noch edler also zu kochen <lb/> brauchen aber wol <objectName ref="zucker">Zucker</objectName>. </p>
+        <p> Die Spänling gescheelt und gedörrter <lb/> seynd noch edler also zu kochen <lb/> brauchen aber wol <objectName ref="#zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

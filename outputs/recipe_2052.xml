@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein sembl, schneid die Rindten daruon, Zerschrepff <lb/> die Sembl, das dannoch beÿeinander bleibt, Zergeng ein <lb/> süssen Puter, leg die Sembl auf ein schißl, geuß den <lb/> Puter dran, sez auf ein glietl, biß der Puter die <lb/> Sembl durchgeht, seich ihn hernach ab, Wöhl ein Rämbl <lb/> darüber, Zukhers, laß Sieden, biß das schier ein seudt, <lb/> gibs fein ganzer auf ein <objectName ref="tisch">tisch</objectName>, es ist guet. <lb/> </p>
+        <p> Nimb ein sembl, schneid die Rindten daruon, Zerschrepff <lb/> die Sembl, das dannoch beÿeinander bleibt, Zergeng ein <lb/> süssen Puter, leg die Sembl auf ein schißl, geuß den <lb/> Puter dran, sez auf ein glietl, biß der Puter die <lb/> Sembl durchgeht, seich ihn hernach ab, Wöhl ein Rämbl <lb/> darüber, Zukhers, laß Sieden, biß das schier ein seudt, <lb/> gibs fein ganzer auf ein <objectName ref="#tisch">tisch</objectName>, es ist guet. <lb/> </p>
             </div>
         </body>
     </text>

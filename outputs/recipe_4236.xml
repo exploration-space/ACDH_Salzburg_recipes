@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr <objectName ref="biber">Biber</objectName> und <objectName ref="otter">Otter</objectName> gehäutet <lb/> gesaltzen <lb/> wol gepaitzt <lb/> und vor dem Einschlagen mit gewürtzten Aalen= <objectName ref="fleisch">Fleisch</objectName> grob gespickt <lb/> gibt gute Pasteten= Füll <lb/> mit Gewürtz <lb/> Lemoni <lb/> Capry <lb/> Zwibel <lb/> Lorbeerblättlein <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> und wol <objectName ref="butter">Butter</objectName> eingericht <lb/> mit <lb/> oder ohne Fisch= <objectName ref="gehaeck">Gehäck</objectName> <lb/> oder Faisch; ausgenommen den Biber= Schweiff <lb/> dieser solle allezeit allein <lb/> und à parte verkocht werden <lb/> oder in ein Pastetlein geschlagen <lb/> mit der erst= gemeldten Einrichtung. </p>
+        <p> DEr <objectName ref="#biber">Biber</objectName> und <objectName ref="#otter">Otter</objectName> gehäutet <lb/> gesaltzen <lb/> wol gepaitzt <lb/> und vor dem Einschlagen mit gewürtzten Aalen= <objectName ref="#fleisch">Fleisch</objectName> grob gespickt <lb/> gibt gute Pasteten= Füll <lb/> mit Gewürtz <lb/> Lemoni <lb/> Capry <lb/> Zwibel <lb/> Lorbeerblättlein <lb/> <objectName ref="#rosmarin">Rosmarin</objectName> <lb/> und wol <objectName ref="#butter">Butter</objectName> eingericht <lb/> mit <lb/> oder ohne Fisch= <objectName ref="#gehaeck">Gehäck</objectName> <lb/> oder Faisch; ausgenommen den Biber= Schweiff <lb/> dieser solle allezeit allein <lb/> und à parte verkocht werden <lb/> oder in ein Pastetlein geschlagen <lb/> mit der erst= gemeldten Einrichtung. </p>
             </div>
         </body>
     </text>

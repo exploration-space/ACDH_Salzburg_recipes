@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> So mach den taig ab, mit <objectName ref="salz">Salz</objectName> vnd <objectName ref="wasser">wasser</objectName>, <lb/> vnd mach darnach auß den taig.40. blat, <lb/> vnd legs alle aufeinannd ( er ), vnd als offt du ainß <lb/> auf d ( a ) s andere legst, so schmiers mit guetn spöckh. <lb/><lb/> ( 61v ) </p>
+        <p> So mach den taig ab, mit <objectName ref="#salz">Salz</objectName> vnd <objectName ref="#wasser">wasser</objectName>, <lb/> vnd mach darnach auß den taig.40. blat, <lb/> vnd legs alle aufeinannd ( er ), vnd als offt du ainß <lb/> auf d ( a ) s andere legst, so schmiers mit guetn spöckh. <lb/><lb/> ( 61v ) </p>
             </div>
         </body>
     </text>

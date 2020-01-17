@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SIede die Fisch= <objectName ref="milch">Milch</objectName> im <objectName ref="weinessig">Weinessig</objectName> ab <lb/> saltze sie ein wenig <lb/> schneids hernach zu kleinen Stücklein <lb/> legs in die Austern= Schalen <lb/> pfeffers und gieß Baum= Oel darüber <lb/> laß sie auf einem <objectName ref="rost">Rost</objectName> bratzeln oder sieden <lb/> drucke Citronen= Safft darein <lb/> streue auch klein= geschnittene dergleichen Schelffen darauf <lb/> und trage sie zu <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> SIede die Fisch= <objectName ref="#milch">Milch</objectName> im <objectName ref="#weinessig">Weinessig</objectName> ab <lb/> saltze sie ein wenig <lb/> schneids hernach zu kleinen Stücklein <lb/> legs in die Austern= Schalen <lb/> pfeffers und gieß Baum= Oel darüber <lb/> laß sie auf einem <objectName ref="#rost">Rost</objectName> bratzeln oder sieden <lb/> drucke Citronen= Safft darein <lb/> streue auch klein= geschnittene dergleichen Schelffen darauf <lb/> und trage sie zu <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> schelß vnnd schneits zu.4. taillen, vnd brens <lb/> in ainen <objectName ref="schmalz">schmalz</objectName>, legs in die Postedten, Nimb <lb/> Khanußln vnnd lints gewürz, Imber, <objectName ref="pfeffer">Pfeffer</objectName>, <lb/> etlich ganze Nägelein, nimb ain Wennig buter. <lb/> </p>
+        <p> schelß vnnd schneits zu.4. taillen, vnd brens <lb/> in ainen <objectName ref="#schmalz">schmalz</objectName>, legs in die Postedten, Nimb <lb/> Khanußln vnnd lints gewürz, Imber, <objectName ref="#pfeffer">Pfeffer</objectName>, <lb/> etlich ganze Nägelein, nimb ain Wennig buter. <lb/> </p>
             </div>
         </body>
     </text>

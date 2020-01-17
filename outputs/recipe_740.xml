@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> auf.2. viertl Prandtwein nimb 1. quintl /zimmet Rindten.13. nagl.½ <objectName ref="loth">loth</objectName> zukher Gandl <lb/> alß dan thues in ein Sauber glaß, Woll <lb/> vermacht sez es ohn die sohn.3. teg Es <lb/> mag winter oder Sommer sein vnd der Prandt,, <lb/> <objectName ref="wein">wein</objectName> wirdt roth alß wie ein tyroller ist an,, <lb/> nemblich jeder meniglich er wird gut thuen. <lb/> </p>
+        <p> auf.2. viertl Prandtwein nimb 1. quintl /zimmet Rindten.13. nagl.½ <objectName ref="#loth">loth</objectName> zukher Gandl <lb/> alß dan thues in ein Sauber glaß, Woll <lb/> vermacht sez es ohn die sohn.3. teg Es <lb/> mag winter oder Sommer sein vnd der Prandt,, <lb/> <objectName ref="#wein">wein</objectName> wirdt roth alß wie ein tyroller ist an,, <lb/> nemblich jeder meniglich er wird gut thuen. <lb/> </p>
             </div>
         </body>
     </text>

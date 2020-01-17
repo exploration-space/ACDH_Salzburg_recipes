@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wann man einen <objectName ref="schwan">Schwan</objectName> verkochen will <lb/> so haut man ihm anfangs den Halß <lb/> sammt dem Kopff <lb/> die Flügel <lb/> und den Schweiff gantzer <lb/> sammt den schönen Federn herab <lb/> rupffet den Leib <lb/> und zieht ihm die schwartze und grobe Haut ab; dann wird er ausgenommen <lb/> gepaitzt <lb/> gespickt und gebraten <lb/> oder in eine <objectName ref="pastete">Pasteten</objectName> kalt <lb/> oder warmer mit ausgestecktem Kopff <lb/> Flügel und Schweiff aufgetragen; Er wird auch sonst in allweg der <objectName ref="gans">Gans</objectName> gleich verkocht <lb/> sauer und süß eingemacht. </p>
+        <p> Wann man einen <objectName ref="#schwan">Schwan</objectName> verkochen will <lb/> so haut man ihm anfangs den Halß <lb/> sammt dem Kopff <lb/> die Flügel <lb/> und den Schweiff gantzer <lb/> sammt den schönen Federn herab <lb/> rupffet den Leib <lb/> und zieht ihm die schwartze und grobe Haut ab; dann wird er ausgenommen <lb/> gepaitzt <lb/> gespickt und gebraten <lb/> oder in eine <objectName ref="#pastete">Pasteten</objectName> kalt <lb/> oder warmer mit ausgestecktem Kopff <lb/> Flügel und Schweiff aufgetragen; Er wird auch sonst in allweg der <objectName ref="#gans">Gans</objectName> gleich verkocht <lb/> sauer und süß eingemacht. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet ein <objectName ref="pfund">Pfund</objectName> abgeriebener <objectName ref="mandeln">Mandeln</objectName> <lb/> ein halb <objectName ref="pfund">Pfund</objectName> <objectName ref="zucker">Zucker</objectName> <lb/> zerklopffet von zwölff Eyern das weisse <lb/> zuckerts <lb/> mischets unter einander <lb/> setzets auf eine doppelte Oblat <lb/> formirets <lb/> nach belieben <lb/> zu Mackaronen; setzets ins Oefelein <lb/> und lassets bachen. </p>
+        <p> NEhmet ein <objectName ref="#pfund">Pfund</objectName> abgeriebener <objectName ref="#mandeln">Mandeln</objectName> <lb/> ein halb <objectName ref="#pfund">Pfund</objectName> <objectName ref="#zucker">Zucker</objectName> <lb/> zerklopffet von zwölff Eyern das weisse <lb/> zuckerts <lb/> mischets unter einander <lb/> setzets auf eine doppelte Oblat <lb/> formirets <lb/> nach belieben <lb/> zu Mackaronen; setzets ins Oefelein <lb/> und lassets bachen. </p>
             </div>
         </body>
     </text>

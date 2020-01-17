@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> HAck und siede das <objectName ref="fleisch">Fleisch</objectName> <lb/> wie vor <lb/> wann es bald gar ist <lb/> so gieß einen Theil <objectName ref="bruehe">Brühe</objectName> herab <lb/> gieß Eßig mit <objectName ref="pfeffer">Pfeffer</objectName> und Imber daran <lb/> brenns ein mit klein= gehackten Zwibel <lb/> gerieben Brod <lb/> und zerdruckten Wachholder= <objectName ref="beeren">Beeren</objectName> <lb/> laß zusammen kurz einsieden <lb/> so hast Du gut <objectName ref="suppe">Suppen</objectName> und <objectName ref="fleisch">Fleisch</objectName> beysammen. </p>
+        <p> HAck und siede das <objectName ref="#fleisch">Fleisch</objectName> <lb/> wie vor <lb/> wann es bald gar ist <lb/> so gieß einen Theil <objectName ref="#bruehe">Brühe</objectName> herab <lb/> gieß Eßig mit <objectName ref="#pfeffer">Pfeffer</objectName> und Imber daran <lb/> brenns ein mit klein= gehackten Zwibel <lb/> gerieben Brod <lb/> und zerdruckten Wachholder= <objectName ref="#beeren">Beeren</objectName> <lb/> laß zusammen kurz einsieden <lb/> so hast Du gut <objectName ref="#suppe">Suppen</objectName> und <objectName ref="#fleisch">Fleisch</objectName> beysammen. </p>
             </div>
         </body>
     </text>

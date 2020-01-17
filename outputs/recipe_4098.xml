@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm gute <lb/> süsse <lb/> und gantz kleingestossene Mandel <lb/> treib sie mit siediger <objectName ref="fleischbruehe">Fleischbrühe</objectName> durch ein <objectName ref="tuch">Tuch</objectName> oder Sieblein <lb/> und machs fertig mit Eyerdotter. Gib den Geruch mit gantzen Zimmet <lb/> zwey Näglein <lb/> Lemoni= Schaalen : aber vor dem Durchtreiben süß oder sauer mit Lemoni= oder Pomerantzen= Safft. </p>
+        <p> NImm gute <lb/> süsse <lb/> und gantz kleingestossene Mandel <lb/> treib sie mit siediger <objectName ref="#fleischbruehe">Fleischbrühe</objectName> durch ein <objectName ref="#tuch">Tuch</objectName> oder Sieblein <lb/> und machs fertig mit Eyerdotter. Gib den Geruch mit gantzen Zimmet <lb/> zwey Näglein <lb/> Lemoni= Schaalen : aber vor dem Durchtreiben süß oder sauer mit Lemoni= oder Pomerantzen= Safft. </p>
             </div>
         </body>
     </text>

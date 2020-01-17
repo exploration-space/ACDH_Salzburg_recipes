@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Erstlichen so nimb Weixl, sauber gewaschen, thue es in ein <lb/> Neues hefen, nimb halbs <objectName ref="wein">Wein</objectName> vnd halbs <objectName ref="wasser">Wasser</objectName> dran, <lb/> vnd laß Sieden, vnd lind Werden, seich die brüe von den <lb/> Weixln, in ein saubers hefen, nimb mußcatblüe drein, <lb/> ein haußn blater, so es Warm ist, ist es aber an der, <lb/> Zeit so khalt, darffst nit souill haußn blater, Zukher es <lb/><lb/> ( 12r ) gar Woll, laß alles Sieden, darnach nimb die Weixl, leg es <lb/> in ein schißl, geuß die Sulz drüber. <lb/> </p>
+        <p> Erstlichen so nimb Weixl, sauber gewaschen, thue es in ein <lb/> Neues hefen, nimb halbs <objectName ref="#wein">Wein</objectName> vnd halbs <objectName ref="#wasser">Wasser</objectName> dran, <lb/> vnd laß Sieden, vnd lind Werden, seich die brüe von den <lb/> Weixln, in ein saubers hefen, nimb mußcatblüe drein, <lb/> ein haußn blater, so es Warm ist, ist es aber an der, <lb/> Zeit so khalt, darffst nit souill haußn blater, Zukher es <lb/><lb/> ( 12r ) gar Woll, laß alles Sieden, darnach nimb die Weixl, leg es <lb/> in ein schißl, geuß die Sulz drüber. <lb/> </p>
             </div>
         </body>
     </text>

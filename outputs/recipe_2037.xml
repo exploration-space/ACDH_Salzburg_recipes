@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb gewässerten häring, schneid ihnen die khöpf vnd <lb/> schwanz ab, schneids in stükhl, sez Zue in <objectName ref="wasser">Wasser</objectName>, laß <lb/> ein sud thuen, seichs ab, vnd geuß ein Arbes Prüe dran, <lb/> vnd <objectName ref="wein">Wein</objectName>, gewürz vnd gilbs, brens mit eim Wenig <lb/> Mell ein, laß also Sieden, vnd Wen dus schier Wilst <lb/> anrichten, so leg ein Puter darzue, du magst die hausen <lb/> vnd Reinsalben auch also khochen. <lb/> </p>
+        <p> Nimb gewässerten häring, schneid ihnen die khöpf vnd <lb/> schwanz ab, schneids in stükhl, sez Zue in <objectName ref="#wasser">Wasser</objectName>, laß <lb/> ein sud thuen, seichs ab, vnd geuß ein Arbes Prüe dran, <lb/> vnd <objectName ref="#wein">Wein</objectName>, gewürz vnd gilbs, brens mit eim Wenig <lb/> Mell ein, laß also Sieden, vnd Wen dus schier Wilst <lb/> anrichten, so leg ein Puter darzue, du magst die hausen <lb/> vnd Reinsalben auch also khochen. <lb/> </p>
             </div>
         </body>
     </text>

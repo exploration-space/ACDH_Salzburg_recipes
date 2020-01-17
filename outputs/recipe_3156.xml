@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="zunge">ZUngen</objectName> <lb/> und allerhand geräuchte Würst <lb/> zu dünnen Blättlein geschnitten <lb/> seynd gut mit Eßig und Oel. </p>
+        <p> <objectName ref="#zunge">ZUngen</objectName> <lb/> und allerhand geräuchte Würst <lb/> zu dünnen Blättlein geschnitten <lb/> seynd gut mit Eßig und Oel. </p>
             </div>
         </body>
     </text>

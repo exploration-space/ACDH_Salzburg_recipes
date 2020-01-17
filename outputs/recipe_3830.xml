@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> PRaxen gebachner <lb/> seynd auch gut in der Oel= oder Butter= <objectName ref="bruehe">Brühe</objectName> <lb/> mit klein= gehackten und gerösten Zwibel <lb/> Capry <lb/> <objectName ref="sardellen">Sardellen</objectName> <lb/> oder Gummeri= <objectName ref="bruehe">Brühe</objectName> <lb/> auch mit ausgelößten <objectName ref="austern">Austern</objectName> <lb/> Müschelen <lb/> Dardoffeln <lb/> oder Schwammen <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> Lemoni <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> <objectName ref="wein">Wein</objectName> <lb/> oder süssen Pomerantzen <lb/> oder Weixelbrühe. </p>
+        <p> PRaxen gebachner <lb/> seynd auch gut in der Oel= oder Butter= <objectName ref="#bruehe">Brühe</objectName> <lb/> mit klein= gehackten und gerösten Zwibel <lb/> Capry <lb/> <objectName ref="#sardellen">Sardellen</objectName> <lb/> oder Gummeri= <objectName ref="#bruehe">Brühe</objectName> <lb/> auch mit ausgelößten <objectName ref="#austern">Austern</objectName> <lb/> Müschelen <lb/> Dardoffeln <lb/> oder Schwammen <lb/> <objectName ref="#rosmarin">Rosmarin</objectName> <lb/> Lemoni <lb/> <objectName ref="#knoblauch">Knoblauch</objectName> <lb/> <objectName ref="#wein">Wein</objectName> <lb/> oder süssen Pomerantzen <lb/> oder Weixelbrühe. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb spinnäth<gap/> Pridt<gap/> ihn, vnd hackh ihn <lb/> khlein hernach Rest<gap/> ihn Putter vnnd <lb/> Gewierz<gap/> sodan mache Ayr Flädln<gap/> <lb/> vnnd streich Den Gerichten spinnäth <lb/> Darein, vnnd schlags Zu samben, Richts <lb/> Auf ein schissl<gap/>, vnnd Giess<gap/> brie<gap/> Daran <lb/> wehr eine <objectName ref="fleisch">Fleisch</objectName> brie<gap/> Darauf nemben <lb/> will Kans thuen Wanst thus an <lb/> <objectName ref="fleisch">Fleisch</objectName> tag Magst brauche Darzur <lb/> frischen Putter vnnd Gewirzt<gap/> vnd las <lb/> sye auf einer Gluet<gap/> Fein schen breglen<gap/> <lb/> also khanst Du es mit allerhandt <lb/> sachen machen, sie seindt Guett, von <lb/> Fischen, Khrepen oder <objectName ref="fleisch">Fleisch</objectName> werckh<gap/>. <lb/><lb/> ( re 166 ) </p>
+        <p> Nimb spinnäth<gap/> Pridt<gap/> ihn, vnd hackh ihn <lb/> khlein hernach Rest<gap/> ihn Putter vnnd <lb/> Gewierz<gap/> sodan mache Ayr Flädln<gap/> <lb/> vnnd streich Den Gerichten spinnäth <lb/> Darein, vnnd schlags Zu samben, Richts <lb/> Auf ein schissl<gap/>, vnnd Giess<gap/> brie<gap/> Daran <lb/> wehr eine <objectName ref="#fleisch">Fleisch</objectName> brie<gap/> Darauf nemben <lb/> will Kans thuen Wanst thus an <lb/> <objectName ref="#fleisch">Fleisch</objectName> tag Magst brauche Darzur <lb/> frischen Putter vnnd Gewirzt<gap/> vnd las <lb/> sye auf einer Gluet<gap/> Fein schen breglen<gap/> <lb/> also khanst Du es mit allerhandt <lb/> sachen machen, sie seindt Guett, von <lb/> Fischen, Khrepen oder <objectName ref="#fleisch">Fleisch</objectName> werckh<gap/>. <lb/><lb/> ( re 166 ) </p>
             </div>
         </body>
     </text>

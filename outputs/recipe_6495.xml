@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Nüß <lb/> die sauber geschelet seyn <lb/> auch so viel <objectName ref="zucker">Zucker</objectName> <lb/> vnnd stoß mit <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> biß zu einem <objectName ref="teig">Teig</objectName> wirt <lb/> thu es auff ein Oblat <lb/> vnd treibs fein rundt auß <lb/> scheubs in <objectName ref="ofen">Ofen</objectName> <lb/> vnd backs geschwindt hinweg <lb/> dz fein weiß bleibt <lb/> so werden sie schön aufflauffen <lb/> laß kalt werden <lb/> vnnd gibs frisch auff ein <objectName ref="tisch">Tisch</objectName>. Du magst auch wol ein Marcipan darauß mache ( n ) <lb/> wie von <objectName ref="mandeln">Mandeln</objectName> <lb/> die gerieben vnnd wol getrucknet seyn mit einem Sirup vnnd <objectName ref="rosenwasser">Rosenwasser</objectName>. </p>
+        <p> Nim ( m ) Nüß <lb/> die sauber geschelet seyn <lb/> auch so viel <objectName ref="#zucker">Zucker</objectName> <lb/> vnnd stoß mit <objectName ref="#rosenwasser">Rosenwasser</objectName> <lb/> biß zu einem <objectName ref="#teig">Teig</objectName> wirt <lb/> thu es auff ein Oblat <lb/> vnd treibs fein rundt auß <lb/> scheubs in <objectName ref="#ofen">Ofen</objectName> <lb/> vnd backs geschwindt hinweg <lb/> dz fein weiß bleibt <lb/> so werden sie schön aufflauffen <lb/> laß kalt werden <lb/> vnnd gibs frisch auff ein <objectName ref="#tisch">Tisch</objectName>. Du magst auch wol ein Marcipan darauß mache ( n ) <lb/> wie von <objectName ref="#mandeln">Mandeln</objectName> <lb/> die gerieben vnnd wol getrucknet seyn mit einem Sirup vnnd <objectName ref="#rosenwasser">Rosenwasser</objectName>. </p>
             </div>
         </body>
     </text>

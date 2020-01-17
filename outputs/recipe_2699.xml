@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> HAcket eine grosse <objectName ref="zwiebel">Zwiebel</objectName> klein <lb/> röstet sie mit einem geriebenen Rocken= Brod wohl braun im Schmaltz; hacket dann ebenfalls einen bey uns so genannte Bürg= oder sonst etwas säuerlichten Apffel <lb/> röstet ihn aber nicht <lb/> last alles zusammen im <objectName ref="wein">Wein</objectName> und etwas Fleischbrüh <lb/> so zuvor gezuckert und gewürtzet worden <lb/> sieden <lb/> giesst nach gefallen ein wenig Rosen= oder andern <objectName ref="essig">Essig</objectName> daran <lb/> und richtet dann diese Brüh über den Lendbraten. </p>
+        <p> HAcket eine grosse <objectName ref="#zwiebel">Zwiebel</objectName> klein <lb/> röstet sie mit einem geriebenen Rocken= Brod wohl braun im Schmaltz; hacket dann ebenfalls einen bey uns so genannte Bürg= oder sonst etwas säuerlichten Apffel <lb/> röstet ihn aber nicht <lb/> last alles zusammen im <objectName ref="#wein">Wein</objectName> und etwas Fleischbrüh <lb/> so zuvor gezuckert und gewürtzet worden <lb/> sieden <lb/> giesst nach gefallen ein wenig Rosen= oder andern <objectName ref="#essig">Essig</objectName> daran <lb/> und richtet dann diese Brüh über den Lendbraten. </p>
             </div>
         </body>
     </text>

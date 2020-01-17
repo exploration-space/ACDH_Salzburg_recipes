@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIto gebrüht wie der <objectName ref="spargel">Spargel</objectName> <lb/> in <objectName ref="butter">Butter</objectName> oder Butter= <objectName ref="bruehe">Brühe</objectName> gemacht. Dito gebrüht <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Oel und Eßig kalt. </p>
+        <p> DIto gebrüht wie der <objectName ref="#spargel">Spargel</objectName> <lb/> in <objectName ref="#butter">Butter</objectName> oder Butter= <objectName ref="#bruehe">Brühe</objectName> gemacht. Dito gebrüht <lb/> mit <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Oel und Eßig kalt. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ERbes <lb/> so weich und nicht versotten <lb/> abgesiehen <lb/> und kalt werden lassen <lb/> dann mit klein= gehacktem Zwibel <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Eßig und Oel abgemacht <lb/> ist ein guter <objectName ref="salat">Salat</objectName>. Dito <lb/> von Erbes ist bey der <objectName ref="suppe">Suppen</objectName> und andern Speisen noch viel zuersehen. </p>
+        <p> ERbes <lb/> so weich und nicht versotten <lb/> abgesiehen <lb/> und kalt werden lassen <lb/> dann mit klein= gehacktem Zwibel <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Eßig und Oel abgemacht <lb/> ist ein guter <objectName ref="#salat">Salat</objectName>. Dito <lb/> von Erbes ist bey der <objectName ref="#suppe">Suppen</objectName> und andern Speisen noch viel zuersehen. </p>
             </div>
         </body>
     </text>

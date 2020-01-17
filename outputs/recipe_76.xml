@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein Guette Fleischbrie<gap/> vnd schneidte <lb/> 2. Prisl<gap/> Plädtlet<gap/> vnnd siete<gap/> Ge= <lb/> schnidtne Pettersill besonder in ein <lb/> Reindl<gap/> fein lindt<gap/> siete auch die Prisl <lb/> Zuuor Rests<gap/> ein wenig in <objectName ref="butter">butter</objectName> her= <lb/> nach thue das Kreitl<gap/> Zu lözt auch <lb/> Darein lögen Richts auf gebätte<gap/> <lb/> sembl schnidl<gap/> an. <lb/> </p>
+        <p> Nimb ein Guette Fleischbrie<gap/> vnd schneidte <lb/> 2. Prisl<gap/> Plädtlet<gap/> vnnd siete<gap/> Ge= <lb/> schnidtne Pettersill besonder in ein <lb/> Reindl<gap/> fein lindt<gap/> siete auch die Prisl <lb/> Zuuor Rests<gap/> ein wenig in <objectName ref="#butter">butter</objectName> her= <lb/> nach thue das Kreitl<gap/> Zu lözt auch <lb/> Darein lögen Richts auf gebätte<gap/> <lb/> sembl schnidl<gap/> an. <lb/> </p>
             </div>
         </body>
     </text>

@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> AUf diese und vorige Manier <lb/> kan man auch gestalten : <objectName ref="adler">Adler</objectName> <lb/> Margerändten <lb/> Schildkrotten <lb/> Tullipan <lb/> einen Bischoffs= Hut <lb/> zierliche Wappen <lb/> Pabsten= Cron <lb/> Jäger= Horn <lb/> eine Abbildung eines Haupts etc. mit mürben Taig aus= oder inwendig <lb/> wie es erfordert. </p>
+        <p> AUf diese und vorige Manier <lb/> kan man auch gestalten : <objectName ref="#adler">Adler</objectName> <lb/> Margerändten <lb/> Schildkrotten <lb/> Tullipan <lb/> einen Bischoffs= Hut <lb/> zierliche Wappen <lb/> Pabsten= Cron <lb/> Jäger= Horn <lb/> eine Abbildung eines Haupts etc. mit mürben Taig aus= oder inwendig <lb/> wie es erfordert. </p>
             </div>
         </body>
     </text>

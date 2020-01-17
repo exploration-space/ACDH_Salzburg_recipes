@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> PLateis <lb/> so gebrüht <lb/> gibt man auch ( wann sie mit Saltz besprengt worden ) mit Senff in zerlassenem <objectName ref="butter">Butter</objectName>. </p>
+        <p> PLateis <lb/> so gebrüht <lb/> gibt man auch ( wann sie mit Saltz besprengt worden ) mit Senff in zerlassenem <objectName ref="#butter">Butter</objectName>. </p>
             </div>
         </body>
     </text>

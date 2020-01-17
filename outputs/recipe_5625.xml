@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChneidet dinne Schnittlein von einem Mandel= Dorten <lb/> zerklopffet so viel Eyer als man vermeint daß man dazu bedarff; ziehet den geschnittenen Dorten zuvor aus den Eyer heraus : machet ein Schmaltz in einem <objectName ref="pfaennlein">Pfännlein</objectName> heiß <lb/> bachets also schön gelb heraus <lb/> und tragets entweder also trocken gebacken <lb/> oder aber inen süssen Brüh zu <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> SChneidet dinne Schnittlein von einem Mandel= Dorten <lb/> zerklopffet so viel Eyer als man vermeint daß man dazu bedarff; ziehet den geschnittenen Dorten zuvor aus den Eyer heraus : machet ein Schmaltz in einem <objectName ref="#pfaennlein">Pfännlein</objectName> heiß <lb/> bachets also schön gelb heraus <lb/> und tragets entweder also trocken gebacken <lb/> oder aber inen süssen Brüh zu <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

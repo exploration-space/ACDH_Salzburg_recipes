@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Erdtbeer <lb/> vnd wasch auß <lb/> setz sie auff mit <objectName ref="wein">Wein</objectName> <lb/> vnd reib ein weissen Weck darvnter <lb/> laß darmit auffsieden <lb/> vn ( d ) geuß nur ein wenig <objectName ref="wein">Wein</objectName> daran <lb/> denn die Erdtbeer haben vorhin viel feuchtigkeit. Wenn sie auffgesotten haben <lb/> so streichs durch <lb/> daß dick wirt <lb/> thu es in ein vberzindten <objectName ref="fischkessel">Fischkessel</objectName> <lb/> machs süß <lb/> vnnd setzs auff Kolen <lb/> vnnd rürs vmb <lb/> biß daß auffseudt <lb/> wenns auffgesotten hat <lb/> so richt es in ein <objectName ref="schuessel">Schüssel</objectName> an. Du magsts kalt oder warm geben <lb/> so ist es gut vnd wolgeschmack. </p>
+        <p> Nim ( m ) Erdtbeer <lb/> vnd wasch auß <lb/> setz sie auff mit <objectName ref="#wein">Wein</objectName> <lb/> vnd reib ein weissen Weck darvnter <lb/> laß darmit auffsieden <lb/> vn ( d ) geuß nur ein wenig <objectName ref="#wein">Wein</objectName> daran <lb/> denn die Erdtbeer haben vorhin viel feuchtigkeit. Wenn sie auffgesotten haben <lb/> so streichs durch <lb/> daß dick wirt <lb/> thu es in ein vberzindten <objectName ref="#fischkessel">Fischkessel</objectName> <lb/> machs süß <lb/> vnnd setzs auff Kolen <lb/> vnnd rürs vmb <lb/> biß daß auffseudt <lb/> wenns auffgesotten hat <lb/> so richt es in ein <objectName ref="#schuessel">Schüssel</objectName> an. Du magsts kalt oder warm geben <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

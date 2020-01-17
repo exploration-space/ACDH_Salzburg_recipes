@@ -171,7 +171,7 @@ Willst du eingemachtes Kraut zubereiten, dann koch Weißkrautköpfe. Nimm zwei T
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wildu machn̄ ein gemachtz krawt So seud weisse <objectName ref="kraut">kraut</objectName> hawbtʾ vnd nÿm czwaÿ tail seniff vnd ain drittail honigs vnd die selbig prue mach durch ein andʾ mit <objectName ref="wein">wein</objectName> vnd dar ein kumÿ vnd <objectName ref="anis">anis</objectName> genug vnd leg daz gesotn̄ krawt dar ein vnd gib es also kaltes Also magstu piessn̄ auch wol machn̄ Nur daz du dÿe piessn̄ siedn̄ scholt mit der wurcz [ 326r ] vnd mit dem krawt vnd gib ez auch dan also kaltes hin </p>
+        <p> Wildu machn̄ ein gemachtz krawt So seud weisse <objectName ref="#kraut">kraut</objectName> hawbtʾ vnd nÿm czwaÿ tail seniff vnd ain drittail honigs vnd die selbig prue mach durch ein andʾ mit <objectName ref="#wein">wein</objectName> vnd dar ein kumÿ vnd <objectName ref="#anis">anis</objectName> genug vnd leg daz gesotn̄ krawt dar ein vnd gib es also kaltes Also magstu piessn̄ auch wol machn̄ Nur daz du dÿe piessn̄ siedn̄ scholt mit der wurcz [ 326r ] vnd mit dem krawt vnd gib ez auch dan also kaltes hin </p>
             </div>
         </body>
     </text>

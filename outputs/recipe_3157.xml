@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Von gar klein=gestoßnen Mandlen <lb/> und guter <objectName ref="milch">Milch</objectName> soll man eine gute dicke Mandel=Milch anmachen <lb/> und das Grießmeel darein zertreiben <lb/> und auf einer <objectName ref="glut">Glut</objectName> sieden lassen wie andere Koch <lb/> man mags <objectName ref="zucker">zuckern</objectName> <lb/> und ein wenig saltzen <lb/> ist ein vortreffliches Koch in der Ruhr <lb/> und für Kinder <lb/> wann sie gar zu flüßig im Leib seyn <lb/> und sehr abnehmen. </p>
+        <p> Von gar klein=gestoßnen Mandlen <lb/> und guter <objectName ref="#milch">Milch</objectName> soll man eine gute dicke Mandel=Milch anmachen <lb/> und das Grießmeel darein zertreiben <lb/> und auf einer <objectName ref="#glut">Glut</objectName> sieden lassen wie andere Koch <lb/> man mags <objectName ref="#zucker">zuckern</objectName> <lb/> und ein wenig saltzen <lb/> ist ein vortreffliches Koch in der Ruhr <lb/> und für Kinder <lb/> wann sie gar zu flüßig im Leib seyn <lb/> und sehr abnehmen. </p>
             </div>
         </body>
     </text>

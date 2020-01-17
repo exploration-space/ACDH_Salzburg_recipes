@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb.1 ½. lb. zugger, 1. lb : Meell, 10. ayr, <lb/> wan Ir aber d ( a ) s gelb allein wolt nemben, so <lb/> nembt.20. gelb von den Ayrn, schlogt es <lb/> woll, vnd giests auf ain <objectName ref="papier">papier</objectName>, wan Irs <lb/> aber schlechter wolt machen, so nembt nur <lb/> gleich.11. ayr. <lb/> </p>
+        <p> Nimb.1 ½. lb. zugger, 1. lb : Meell, 10. ayr, <lb/> wan Ir aber d ( a ) s gelb allein wolt nemben, so <lb/> nembt.20. gelb von den Ayrn, schlogt es <lb/> woll, vnd giests auf ain <objectName ref="#papier">papier</objectName>, wan Irs <lb/> aber schlechter wolt machen, so nembt nur <lb/> gleich.11. ayr. <lb/> </p>
             </div>
         </body>
     </text>

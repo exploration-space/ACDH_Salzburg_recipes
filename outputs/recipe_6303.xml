@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Seudt Ampffer ein groß Handt voll in einer <objectName ref="mass">Maß</objectName> <objectName ref="wasser">Wasser</objectName> <lb/> laß es erkalten <lb/> vnd trincks <lb/> stillt alle Hitz <lb/> so von Feber vnd Pestilentzen kommen. </p>
+        <p> Seudt Ampffer ein groß Handt voll in einer <objectName ref="#mass">Maß</objectName> <objectName ref="#wasser">Wasser</objectName> <lb/> laß es erkalten <lb/> vnd trincks <lb/> stillt alle Hitz <lb/> so von Feber vnd Pestilentzen kommen. </p>
             </div>
         </body>
     </text>

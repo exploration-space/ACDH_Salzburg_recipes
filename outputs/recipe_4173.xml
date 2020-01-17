@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ES ist der Aeschen= <objectName ref="fisch">Fisch</objectName> ein trefflicher Bachfisch <lb/> warm <lb/> oder kalt <lb/> trucken <lb/> oder mit Eßig und Oel zu geben. </p>
+        <p> ES ist der Aeschen= <objectName ref="#fisch">Fisch</objectName> ein trefflicher Bachfisch <lb/> warm <lb/> oder kalt <lb/> trucken <lb/> oder mit Eßig und Oel zu geben. </p>
             </div>
         </body>
     </text>

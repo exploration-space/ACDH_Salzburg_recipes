@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Mache auf ein halbs mösßl<gap/> mehl<gap/> ½ lb butter<gap/> vnd <lb/> 6 ayr<gap/> doter<gap/>, und wasßer so vill du nöthig hast. <lb/> <objectName ref="salz">salz</objectName> und mach ihn an, aber nit zu fösst<gap/> und <lb/> nit zu lindt<gap/>, schneide<gap/> auch den taig<gap/> von einander <lb/> wölge<gap/> ihm auß, lög<gap/> ihm 2 mahl nach lengs <lb/> über ein ander, wölge<gap/> ihm wider auß, mach waß <lb/> du wilst. <lb/> [ Anm. : „ lb “ : Zeichen für <objectName ref="pfund">Pfund</objectName>. ] </p>
+        <p> Mache auf ein halbs mösßl<gap/> mehl<gap/> ½ lb butter<gap/> vnd <lb/> 6 ayr<gap/> doter<gap/>, und wasßer so vill du nöthig hast. <lb/> <objectName ref="#salz">salz</objectName> und mach ihn an, aber nit zu fösst<gap/> und <lb/> nit zu lindt<gap/>, schneide<gap/> auch den taig<gap/> von einander <lb/> wölge<gap/> ihm auß, lög<gap/> ihm 2 mahl nach lengs <lb/> über ein ander, wölge<gap/> ihm wider auß, mach waß <lb/> du wilst. <lb/> [ Anm. : „ lb “ : Zeichen für <objectName ref="#pfund">Pfund</objectName>. ] </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="schnecken">SChnecken</objectName> <lb/> so wol gesotten <lb/> und sauber gebutzt <lb/> seynd auch gut mit klein= gehackten Zwibel <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Petersil= Kräutlein <lb/> mit Eßig und Oel <lb/> wie man das kalt aufgeschnittene Bratl gibt. NB. Hier können auch gebrühte Zelleri= und eingemachte Ranen= Ruben <lb/> auch zu Zeiten Capry <lb/> und ausgelößte <objectName ref="sardellen">Sardellen</objectName> darzu gericht und beygelegt werden. </p>
+        <p> <objectName ref="#schnecken">SChnecken</objectName> <lb/> so wol gesotten <lb/> und sauber gebutzt <lb/> seynd auch gut mit klein= gehackten Zwibel <lb/> <objectName ref="#knoblauch">Knoblauch</objectName> <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> und Petersil= Kräutlein <lb/> mit Eßig und Oel <lb/> wie man das kalt aufgeschnittene Bratl gibt. NB. Hier können auch gebrühte Zelleri= und eingemachte Ranen= Ruben <lb/> auch zu Zeiten Capry <lb/> und ausgelößte <objectName ref="#sardellen">Sardellen</objectName> darzu gericht und beygelegt werden. </p>
             </div>
         </body>
     </text>

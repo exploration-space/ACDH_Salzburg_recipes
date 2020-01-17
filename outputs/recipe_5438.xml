@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChneidet das <objectName ref="fleisch">Fleisch</objectName> zu Stücklein <lb/> legt es in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> bestreuets mit Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und <objectName ref="zucker">Zucker</objectName>; giesset <objectName ref="wein">Wein</objectName> = und <objectName ref="rosen">Rosen</objectName> = <objectName ref="essig">Essig</objectName> daran <lb/> last es auf eine <objectName ref="kohlen">Kohlen</objectName> zugedeckt sieden <lb/> und tragt es dann zu <objectName ref="tisch">Tisch</objectName>. <gap/> <gap/> Auf solche Weise kan man auch einen kalten Braten einschneiden <lb/> wie hernechst folgen wird. </p>
+        <p> SChneidet das <objectName ref="#fleisch">Fleisch</objectName> zu Stücklein <lb/> legt es in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> bestreuets mit Ingber <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> und <objectName ref="#zucker">Zucker</objectName>; giesset <objectName ref="#wein">Wein</objectName> = und <objectName ref="#rosen">Rosen</objectName> = <objectName ref="#essig">Essig</objectName> daran <lb/> last es auf eine <objectName ref="#kohlen">Kohlen</objectName> zugedeckt sieden <lb/> und tragt es dann zu <objectName ref="#tisch">Tisch</objectName>. <gap/> <gap/> Auf solche Weise kan man auch einen kalten Braten einschneiden <lb/> wie hernechst folgen wird. </p>
             </div>
         </body>
     </text>

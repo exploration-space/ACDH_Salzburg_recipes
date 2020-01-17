@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> PErschling geschuppt <lb/> die Gall ausgenommen <lb/> gewaschen <lb/> und sammt dem Rogen eingesaltzen; dann wie die Rutten in <objectName ref="wein">Wein</objectName> und <objectName ref="wasser">Wasser</objectName> <lb/> oder <objectName ref="wasser">Wasser</objectName> und Eßig <lb/> mit klein= gehackten Zwibel <lb/> und wenig Meel eingebrennt <lb/> ein Stück <objectName ref="butter">Butter</objectName> <lb/> mit wenig Lemoni <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> und Muscatnuß gewürtzter übergesetzt werden; die Perschling damit glatt abgesotten <lb/> und mit der <objectName ref="bruehe">Brühe</objectName> etwas gelb gemacht gegeben. </p>
+        <p> PErschling geschuppt <lb/> die Gall ausgenommen <lb/> gewaschen <lb/> und sammt dem Rogen eingesaltzen; dann wie die Rutten in <objectName ref="#wein">Wein</objectName> und <objectName ref="#wasser">Wasser</objectName> <lb/> oder <objectName ref="#wasser">Wasser</objectName> und Eßig <lb/> mit klein= gehackten Zwibel <lb/> und wenig Meel eingebrennt <lb/> ein Stück <objectName ref="#butter">Butter</objectName> <lb/> mit wenig Lemoni <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> und Muscatnuß gewürtzter übergesetzt werden; die Perschling damit glatt abgesotten <lb/> und mit der <objectName ref="#bruehe">Brühe</objectName> etwas gelb gemacht gegeben. </p>
             </div>
         </body>
     </text>

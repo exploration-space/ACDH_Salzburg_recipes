@@ -179,7 +179,7 @@ Der Fischhandel dieser Meeresfische für das gesamte Einflussgebiet des Heiligen
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Seud den <objectName ref="fisch">fisch</objectName> haiß, nimb.4. stukh daruon, <lb/> zupfs klain, zeuch gräten herauß, thue es <lb/><lb/> ( 57r ) in ain Saubere Pfannen, leg buter daran, laß <lb/> den buter auf ain irden ain wennig, thue Muß= <lb/> =cat darauf bey.2. löfel, machs nit zu dickh, <lb/> <objectName ref="salz">Salz</objectName> nit, dan der <objectName ref="fisch">fisch</objectName> ist an Im selbst gesalzn. <lb/> </p>
+        <p> Seud den <objectName ref="#fisch">fisch</objectName> haiß, nimb.4. stukh daruon, <lb/> zupfs klain, zeuch gräten herauß, thue es <lb/><lb/> ( 57r ) in ain Saubere Pfannen, leg buter daran, laß <lb/> den buter auf ain irden ain wennig, thue Muß= <lb/> =cat darauf bey.2. löfel, machs nit zu dickh, <lb/> <objectName ref="#salz">Salz</objectName> nit, dan der <objectName ref="#fisch">fisch</objectName> ist an Im selbst gesalzn. <lb/> </p>
             </div>
         </body>
     </text>

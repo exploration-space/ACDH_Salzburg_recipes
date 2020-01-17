@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) geriebene <objectName ref="mandeln">Mandeln</objectName> <lb/> mach sie an mit <objectName ref="zucker">Zucker</objectName> vnd <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> vnd bestreich den Oblat damit <lb/> leg den andern Oblat darüber <lb/> backs auch auß wie vorhin vermeldt ist <lb/> wie man den gefüllten Oblat backen sol. </p>
+        <p> Nim ( m ) geriebene <objectName ref="#mandeln">Mandeln</objectName> <lb/> mach sie an mit <objectName ref="#zucker">Zucker</objectName> vnd <objectName ref="#rosenwasser">Rosenwasser</objectName> <lb/> vnd bestreich den Oblat damit <lb/> leg den andern Oblat darüber <lb/> backs auch auß wie vorhin vermeldt ist <lb/> wie man den gefüllten Oblat backen sol. </p>
             </div>
         </body>
     </text>

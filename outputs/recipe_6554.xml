@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Hattele vom Hausen <lb/> es sey zum Braten <lb/> zum eynmachen <lb/> in <objectName ref="pastete">Pasteten</objectName> <lb/> oder zum eyndämpffen mit Wacholderbeer. </p>
+        <p> Hattele vom Hausen <lb/> es sey zum Braten <lb/> zum eynmachen <lb/> in <objectName ref="#pastete">Pasteten</objectName> <lb/> oder zum eyndämpffen mit Wacholderbeer. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ein <objectName ref="hecht">Hecht</objectName> Rogen <lb/> thu jn in einen Mörsel <lb/> vnd stoß jn wol <lb/> thu jn in ein saures <objectName ref="kraut">Kraut</objectName> <lb/> das schön gesotten hat <lb/> vnd rürs wol vmb <lb/> so wirt es weiß sehen <lb/> als wenn man ein sauren Rahm darein gegossen hett <lb/> laß es sieden mit dem <objectName ref="kraut">Kraut</objectName> ein stundt oder mehr <lb/> vnd schmältz es mit <objectName ref="butter">Butter</objectName> <lb/> so wirt es gut bnd wolgeschmack. </p>
+        <p> Nim ein <objectName ref="#hecht">Hecht</objectName> Rogen <lb/> thu jn in einen Mörsel <lb/> vnd stoß jn wol <lb/> thu jn in ein saures <objectName ref="#kraut">Kraut</objectName> <lb/> das schön gesotten hat <lb/> vnd rürs wol vmb <lb/> so wirt es weiß sehen <lb/> als wenn man ein sauren Rahm darein gegossen hett <lb/> laß es sieden mit dem <objectName ref="#kraut">Kraut</objectName> ein stundt oder mehr <lb/> vnd schmältz es mit <objectName ref="#butter">Butter</objectName> <lb/> so wirt es gut bnd wolgeschmack. </p>
             </div>
         </body>
     </text>

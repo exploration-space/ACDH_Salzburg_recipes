@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Gereucherte <objectName ref="zunge">Zungen</objectName> vom Ochsen ist auch nicht böß <lb/> es sey warm oder kalt. </p>
+        <p> Gereucherte <objectName ref="#zunge">Zungen</objectName> vom Ochsen ist auch nicht böß <lb/> es sey warm oder kalt. </p>
             </div>
         </body>
     </text>

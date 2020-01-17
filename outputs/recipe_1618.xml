@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ¼. <objectName ref="schmalz">Schmalz</objectName>, d ( a ) s sieß ist, vnd treibs ab, <lb/> d ( a ) s fämbig wierdt, vnd nimb.1. <objectName ref="vierling">vierling</objectName> Mandl <lb/> stoß Sie klein, begieß die Mandl mit ain frischen <lb/> <objectName ref="wasser">wasser</objectName>, d ( a ) s sie gar weiß werden, vnnd nimb die <lb/> Mandl vndter d ( a ) s <objectName ref="schmalz">schmalz</objectName>, rier sie ab, schlag.4. <lb/> ganze ayr darzue, vnd.1. <objectName ref="vierling">vierling</objectName> zugger, riers <lb/> durcheinander ob, Nimb darzue ein Meell, souil <lb/> Meell, d ( a ) s man khan läblein machen vnd bach, <lb/> als wie ein bruner apfel, bach Sie wie die Piß= <lb/> =coten in ainer Turten Pfan. <lb/><lb/> ( 29r ) </p>
+        <p> Nimb ¼. <objectName ref="#schmalz">Schmalz</objectName>, d ( a ) s sieß ist, vnd treibs ab, <lb/> d ( a ) s fämbig wierdt, vnd nimb.1. <objectName ref="#vierling">vierling</objectName> Mandl <lb/> stoß Sie klein, begieß die Mandl mit ain frischen <lb/> <objectName ref="#wasser">wasser</objectName>, d ( a ) s sie gar weiß werden, vnnd nimb die <lb/> Mandl vndter d ( a ) s <objectName ref="#schmalz">schmalz</objectName>, rier sie ab, schlag.4. <lb/> ganze ayr darzue, vnd.1. <objectName ref="#vierling">vierling</objectName> zugger, riers <lb/> durcheinander ob, Nimb darzue ein Meell, souil <lb/> Meell, d ( a ) s man khan läblein machen vnd bach, <lb/> als wie ein bruner apfel, bach Sie wie die Piß= <lb/> =coten in ainer Turten Pfan. <lb/><lb/> ( 29r ) </p>
             </div>
         </body>
     </text>

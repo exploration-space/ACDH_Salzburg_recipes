@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIese werden nur gleich sauber gebutzt und gantz gelassen <lb/> gewaschen <lb/> gesaltzen <lb/> gewürtzt <lb/> dann gefüllt <lb/> oder ohne Füll mit <objectName ref="butter">Butter</objectName> oder Oel auf dem <objectName ref="rost">Rost</objectName> <lb/> oder in dem <objectName ref="ofen">Ofen</objectName> gebraten <lb/> und alsdann trucken <lb/> oder mit einer guten <objectName ref="jus">Jus</objectName> zu <objectName ref="tisch">Tisch</objectName> geben. </p>
+        <p> DIese werden nur gleich sauber gebutzt und gantz gelassen <lb/> gewaschen <lb/> gesaltzen <lb/> gewürtzt <lb/> dann gefüllt <lb/> oder ohne Füll mit <objectName ref="#butter">Butter</objectName> oder Oel auf dem <objectName ref="#rost">Rost</objectName> <lb/> oder in dem <objectName ref="#ofen">Ofen</objectName> gebraten <lb/> und alsdann trucken <lb/> oder mit einer guten <objectName ref="#jus">Jus</objectName> zu <objectName ref="#tisch">Tisch</objectName> geben. </p>
             </div>
         </body>
     </text>

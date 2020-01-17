@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Take a Quarter of a Pound of bitter or sweet Almonds, which you like best, blanch and beat them very fine, mix them with a <objectName ref="quart">Quart</objectName> of Cream and the Juice of three or four Lemmons; sweeten it as you like it, and whip it in a Tray with a Whisk; as the Froth rises, put it in a Hair Sieve to grow stiff; then fill your Bason or Glasses. </p>
+        <p> Take a Quarter of a Pound of bitter or sweet Almonds, which you like best, blanch and beat them very fine, mix them with a <objectName ref="#quart">Quart</objectName> of Cream and the Juice of three or four Lemmons; sweeten it as you like it, and whip it in a Tray with a Whisk; as the Froth rises, put it in a Hair Sieve to grow stiff; then fill your Bason or Glasses. </p>
             </div>
         </body>
     </text>

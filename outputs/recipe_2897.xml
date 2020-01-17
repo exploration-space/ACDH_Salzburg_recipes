@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn dieser geschuppt ist <lb/> so wird er mit Eßig <lb/> Oel <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Saltz <lb/> oder mit Capry <lb/> und hart= gesottenen gehackten Eyern zugericht. </p>
+        <p> WAnn dieser geschuppt ist <lb/> so wird er mit Eßig <lb/> Oel <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> und Saltz <lb/> oder mit Capry <lb/> und hart= gesottenen gehackten Eyern zugericht. </p>
             </div>
         </body>
     </text>

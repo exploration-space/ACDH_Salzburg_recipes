@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein frische Khölberne Leber<gap/> <lb/> Wasch sye Auß salze es ein spickhe<gap/> <lb/> ein mit speckh steckhe<gap/> es an ein <lb/> spißl begies<gap/> es mit <objectName ref="butter">butter</objectName> vnnd <lb/> Lemony safft<gap/> brate<gap/> sye also schön ge= <lb/> mach<gap/> wan sye also schön Gebraten<gap/> <lb/> ist so begies sye wider mit <objectName ref="butter">butter</objectName> <lb/> vnnd Lemony safft besträhe<gap/> es mit <lb/> sembl preßl<gap/> Ziege<gap/> sye ab gibs <lb/> also ist es recht vnnd Guett. <lb/><lb/> ( re 60 ) </p>
+        <p> Nimb ein frische Khölberne Leber<gap/> <lb/> Wasch sye Auß salze es ein spickhe<gap/> <lb/> ein mit speckh steckhe<gap/> es an ein <lb/> spißl begies<gap/> es mit <objectName ref="#butter">butter</objectName> vnnd <lb/> Lemony safft<gap/> brate<gap/> sye also schön ge= <lb/> mach<gap/> wan sye also schön Gebraten<gap/> <lb/> ist so begies sye wider mit <objectName ref="#butter">butter</objectName> <lb/> vnnd Lemony safft besträhe<gap/> es mit <lb/> sembl preßl<gap/> Ziege<gap/> sye ab gibs <lb/> also ist es recht vnnd Guett. <lb/><lb/> ( re 60 ) </p>
             </div>
         </body>
     </text>

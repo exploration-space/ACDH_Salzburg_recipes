@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> When they are nicely cleaned, put them into a Pan with a Bay Leaf and a large Onion, and as much Water as will cover them; season them with Salt and a little Pepper; and bake them with houshold Bread; keep them in this Pickle till you want them; then take them out and, cuting them handsome Pieces, fry them; and take for <objectName ref="sauce">Sauce</objectName>, Three Spoonfuls of the Pickle; shake in some Flower, a Piece of <objectName ref="butter">Butter</objectName>, and a Spoonful of Mustard; lay the Ears in the Middle, the Feet round, and pour the <objectName ref="sauce">Sauce</objectName> over. </p>
+        <p> When they are nicely cleaned, put them into a Pan with a Bay Leaf and a large Onion, and as much Water as will cover them; season them with Salt and a little Pepper; and bake them with houshold Bread; keep them in this Pickle till you want them; then take them out and, cuting them handsome Pieces, fry them; and take for <objectName ref="#sauce">Sauce</objectName>, Three Spoonfuls of the Pickle; shake in some Flower, a Piece of <objectName ref="#butter">Butter</objectName>, and a Spoonful of Mustard; lay the Ears in the Middle, the Feet round, and pour the <objectName ref="#sauce">Sauce</objectName> over. </p>
             </div>
         </body>
     </text>

@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ZErschneide die Indianen frischer <lb/> oder schon gebratner <lb/> in beliebige Stücklein; richts mit einem guten Stuck <objectName ref="butter">Butter</objectName> <lb/> wenig Meel <lb/> und einen gespickten Zwibel in ein <objectName ref="rein">Rein</objectName> <lb/> oder Casserol <lb/> mit Lemoni und gutem Gewürtz; hernach röste solches mit öffteren Überschwingen <lb/> gib wenig Eßig und <objectName ref="fleischbruehe">Fleischbrühe</objectName> darein <lb/> laß darmit kochen <lb/> und vor dem Anrichten treibs mit Eyerdottern <lb/> Lemoni= Safft <lb/> <objectName ref="butter">Butter</objectName> <lb/> und klein= gehackten Petersil= Kräutlein ab <lb/> laß ein wenig anziehen <lb/> aber nicht zu starck zusammen lauffen. </p>
+        <p> ZErschneide die Indianen frischer <lb/> oder schon gebratner <lb/> in beliebige Stücklein; richts mit einem guten Stuck <objectName ref="#butter">Butter</objectName> <lb/> wenig Meel <lb/> und einen gespickten Zwibel in ein <objectName ref="#rein">Rein</objectName> <lb/> oder Casserol <lb/> mit Lemoni und gutem Gewürtz; hernach röste solches mit öffteren Überschwingen <lb/> gib wenig Eßig und <objectName ref="#fleischbruehe">Fleischbrühe</objectName> darein <lb/> laß darmit kochen <lb/> und vor dem Anrichten treibs mit Eyerdottern <lb/> Lemoni= Safft <lb/> <objectName ref="#butter">Butter</objectName> <lb/> und klein= gehackten Petersil= Kräutlein ab <lb/> laß ein wenig anziehen <lb/> aber nicht zu starck zusammen lauffen. </p>
             </div>
         </body>
     </text>

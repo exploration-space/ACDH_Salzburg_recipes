@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Gebratene <objectName ref="leber">Leber</objectName> mit heissem <objectName ref="speck">Speck</objectName> gegossen <lb/> vnd geschwindt hinweg gebraten <lb/> daß nicht sper wirdt <lb/> vnnd wenn du es wilst anrichten <lb/> so nim ( m ) <objectName ref="pfeffer">Pfeffer</objectName> und Saltz <lb/> sträw es oben darüber <lb/> vnnd gibs flugs warm auff ein <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> Gebratene <objectName ref="#leber">Leber</objectName> mit heissem <objectName ref="#speck">Speck</objectName> gegossen <lb/> vnd geschwindt hinweg gebraten <lb/> daß nicht sper wirdt <lb/> vnnd wenn du es wilst anrichten <lb/> so nim ( m ) <objectName ref="#pfeffer">Pfeffer</objectName> und Saltz <lb/> sträw es oben darüber <lb/> vnnd gibs flugs warm auff ein <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

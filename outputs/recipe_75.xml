@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein öhl in ein Pfann<gap/>, las hais <lb/> werden, dan so schneidte Pettersill <lb/> Khraut<gap/> Darein, vnnd spinäth<gap/> der <lb/> Gebriet<gap/> ist, schneidte auch Khnoflach<gap/> <lb/> souill man Gern Will Reste<gap/> alles <lb/> in öhl, Gies <objectName ref="fleisch">Fleisch</objectName> brie<gap/> oder arbes brie<gap/> <lb/> daran, las ein Zeit sieten<gap/> hernach <lb/> Prens<gap/> mit ein wönig <objectName ref="mehl">mehl</objectName> ein, <lb/> Wan du Wilst die <objectName ref="suppe">Suppen</objectName> anrichten <lb/> so schneite mehr spinäth<gap/> darein, Wan <lb/> er lang siedt<gap/> so Verliehrt er die Farb, <lb/><lb/> ( ve 29 ) Disse suppen<gap/> ist fertig so richts auf <lb/> Gebätte<gap/> schnidl<gap/> an. <lb/> </p>
+        <p> Nimb ein öhl in ein Pfann<gap/>, las hais <lb/> werden, dan so schneidte Pettersill <lb/> Khraut<gap/> Darein, vnnd spinäth<gap/> der <lb/> Gebriet<gap/> ist, schneidte auch Khnoflach<gap/> <lb/> souill man Gern Will Reste<gap/> alles <lb/> in öhl, Gies <objectName ref="#fleisch">Fleisch</objectName> brie<gap/> oder arbes brie<gap/> <lb/> daran, las ein Zeit sieten<gap/> hernach <lb/> Prens<gap/> mit ein wönig <objectName ref="#mehl">mehl</objectName> ein, <lb/> Wan du Wilst die <objectName ref="#suppe">Suppen</objectName> anrichten <lb/> so schneite mehr spinäth<gap/> darein, Wan <lb/> er lang siedt<gap/> so Verliehrt er die Farb, <lb/><lb/> ( ve 29 ) Disse suppen<gap/> ist fertig so richts auf <lb/> Gebätte<gap/> schnidl<gap/> an. <lb/> </p>
             </div>
         </body>
     </text>

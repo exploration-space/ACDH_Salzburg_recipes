@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Item nim ( m ) Habern mit eim stro <lb/> wann der haber ist in der gilb <lb/> so nim ( m ) vnd schneid büschelein <lb/> vnd hencks dörein <lb/> so stösset das <objectName ref="bier">Bier</objectName> wider auff <lb/> vnd thut wie ein <objectName ref="bier">Bier</objectName> <lb/> das noch jung ist. </p>
+        <p> Item nim ( m ) Habern mit eim stro <lb/> wann der haber ist in der gilb <lb/> so nim ( m ) vnd schneid büschelein <lb/> vnd hencks dörein <lb/> so stösset das <objectName ref="#bier">Bier</objectName> wider auff <lb/> vnd thut wie ein <objectName ref="#bier">Bier</objectName> <lb/> das noch jung ist. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Rote Ruben eyngemacht mit klein geschnittenen Merrettich <lb/> Aniß <lb/> Coriander <lb/> vnd ein wenig Kümel <lb/> sonderlich wenn die Ruben geschnitten <lb/> gesotten mit halb <objectName ref="wein">Wein</objectName> und halb <objectName ref="essig">Essig</objectName>. </p>
+        <p> Rote Ruben eyngemacht mit klein geschnittenen Merrettich <lb/> Aniß <lb/> Coriander <lb/> vnd ein wenig Kümel <lb/> sonderlich wenn die Ruben geschnitten <lb/> gesotten mit halb <objectName ref="#wein">Wein</objectName> und halb <objectName ref="#essig">Essig</objectName>. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Item <lb/> nim ( m ) <objectName ref="weinstein">Weinstein</objectName> <lb/> vnd leg den neun oder zehen tag in ein guten <objectName ref="essig">Essig</objectName> <lb/> darnach wenn du jn herauß hast gethan <lb/> so dürr jn an der Sonnen <lb/> vnd wenn er wol dürr ist <lb/> so leg jn wider zehen tag in guten <objectName ref="essig">Essig</objectName> <lb/> darnach trückne jhn aber <lb/> vnd stoß jn aber klein zu <objectName ref="mehl">Mehl</objectName> <lb/> vnnd thu ein wenig in ein Glaß voll <objectName ref="wein">Wein</objectName> <lb/> so hastu guten <objectName ref="essig">Essig</objectName>. Wenn man gedörrten Merrettichwurtzeln puluerisiert in <objectName ref="essig">Essig</objectName> thut <lb/> macht jn bald scharpff. </p>
+        <p> Item <lb/> nim ( m ) <objectName ref="#weinstein">Weinstein</objectName> <lb/> vnd leg den neun oder zehen tag in ein guten <objectName ref="#essig">Essig</objectName> <lb/> darnach wenn du jn herauß hast gethan <lb/> so dürr jn an der Sonnen <lb/> vnd wenn er wol dürr ist <lb/> so leg jn wider zehen tag in guten <objectName ref="#essig">Essig</objectName> <lb/> darnach trückne jhn aber <lb/> vnd stoß jn aber klein zu <objectName ref="#mehl">Mehl</objectName> <lb/> vnnd thu ein wenig in ein Glaß voll <objectName ref="#wein">Wein</objectName> <lb/> so hastu guten <objectName ref="#essig">Essig</objectName>. Wenn man gedörrten Merrettichwurtzeln puluerisiert in <objectName ref="#essig">Essig</objectName> thut <lb/> macht jn bald scharpff. </p>
             </div>
         </body>
     </text>

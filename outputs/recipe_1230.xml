@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> hackhe<gap/> auß<gap/> gelestes rohes höchten<gap/> präth<gap/>, vnd <lb/> ein geriertes<gap/>, darzue, gewierz<gap/> wohl, vnd <lb/> Reib<gap/> Lemany<gap/> schöllen<gap/> darein, <objectName ref="salz">Salz</objectName> nimb Semmbl<gap/> <lb/> Prosen<gap/>, vnd siesen<gap/> Rämb<gap/> darzue, <lb/><lb/> ( 30r ) </p>
+        <p> hackhe<gap/> auß<gap/> gelestes rohes höchten<gap/> präth<gap/>, vnd <lb/> ein geriertes<gap/>, darzue, gewierz<gap/> wohl, vnd <lb/> Reib<gap/> Lemany<gap/> schöllen<gap/> darein, <objectName ref="#salz">Salz</objectName> nimb Semmbl<gap/> <lb/> Prosen<gap/>, vnd siesen<gap/> Rämb<gap/> darzue, <lb/><lb/> ( 30r ) </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Mach eine braune dù-jùs von Kalb=oder <objectName ref="rindfleisch">Rindfleisch</objectName> <lb/> und bräune die <objectName ref="taube">Tauben</objectName> auch gleich darmit; dann nimm sauber=gebutzte Schwammen <lb/> so groß du sie haben kanst <lb/> fülle sie mit gutem <objectName ref="gehaeck">Gehäck</objectName> und wenig Dardoffel, legs in ein <objectName ref="geschirr">Geschirr</objectName> <lb/> gib unten und oben <objectName ref="glut">Glut</objectName> <lb/> lege die <objectName ref="taube">Tauben</objectName> auf die Mitte <lb/> und die Schwammen herum. </p>
+        <p> Mach eine braune dù-jùs von Kalb=oder <objectName ref="#rindfleisch">Rindfleisch</objectName> <lb/> und bräune die <objectName ref="#taube">Tauben</objectName> auch gleich darmit; dann nimm sauber=gebutzte Schwammen <lb/> so groß du sie haben kanst <lb/> fülle sie mit gutem <objectName ref="#gehaeck">Gehäck</objectName> und wenig Dardoffel, legs in ein <objectName ref="#geschirr">Geschirr</objectName> <lb/> gib unten und oben <objectName ref="#glut">Glut</objectName> <lb/> lege die <objectName ref="#taube">Tauben</objectName> auf die Mitte <lb/> und die Schwammen herum. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim rutten<gap/> und thue ihnen die gaall<gap/> her= <lb/> =auß, und über die mitten mache mit dem <lb/> mesßer<gap/> ein Creüz, gieß<gap/> ein esßig dar= <lb/> =über, und Laß in wasßer sieden<gap/>, seiche<gap/> von <lb/> den fischen den esßig herab, in daß waßer, Laß <lb/> noch einmahl sieden<gap/>, Legs<gap/> in ein Rein<gap/>, mache <lb/> ein Butter<gap/> <objectName ref="suppe">Suppen</objectName> dariber, Lege<gap/> Lemonj<gap/> <lb/> darzue, Laß auf der gluet<gap/> Breglen<gap/>. so ist es <lb/> recht. <lb/> </p>
+        <p> Nim rutten<gap/> und thue ihnen die gaall<gap/> her= <lb/> =auß, und über die mitten mache mit dem <lb/> mesßer<gap/> ein Creüz, gieß<gap/> ein esßig dar= <lb/> =über, und Laß in wasßer sieden<gap/>, seiche<gap/> von <lb/> den fischen den esßig herab, in daß waßer, Laß <lb/> noch einmahl sieden<gap/>, Legs<gap/> in ein Rein<gap/>, mache <lb/> ein Butter<gap/> <objectName ref="#suppe">Suppen</objectName> dariber, Lege<gap/> Lemonj<gap/> <lb/> darzue, Laß auf der gluet<gap/> Breglen<gap/>. so ist es <lb/> recht. <lb/> </p>
             </div>
         </body>
     </text>

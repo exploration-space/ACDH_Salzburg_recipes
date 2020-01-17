@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Den Sawmagen kan man auch füllen mit <objectName ref="speck">Speck</objectName> <lb/> grüne ( n ) <objectName ref="kraeuter">Kräutern</objectName> <lb/> vnd mit Eyern die Füll angemacht <lb/> den <objectName ref="magen">Magen</objectName> damit gefüllt <lb/> wol gekocht mit Pettersilgen Wurtzel <lb/> vnnd mit grünen wolschmeckenden <objectName ref="kraeuter">Kräutern</objectName> <lb/> die klein gehackt seind <lb/> Vnd der Sawmagen muß ein stundt vier oder fünff kochen <lb/> ehe er gar ist. </p>
+        <p> Den Sawmagen kan man auch füllen mit <objectName ref="#speck">Speck</objectName> <lb/> grüne ( n ) <objectName ref="#kraeuter">Kräutern</objectName> <lb/> vnd mit Eyern die Füll angemacht <lb/> den <objectName ref="#magen">Magen</objectName> damit gefüllt <lb/> wol gekocht mit Pettersilgen Wurtzel <lb/> vnnd mit grünen wolschmeckenden <objectName ref="#kraeuter">Kräutern</objectName> <lb/> die klein gehackt seind <lb/> Vnd der Sawmagen muß ein stundt vier oder fünff kochen <lb/> ehe er gar ist. </p>
             </div>
         </body>
     </text>

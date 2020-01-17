@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm frische Kütten <lb/> scheele und schneide sie klein <lb/> legs in ein <objectName ref="rein">Rein</objectName> <lb/> oder verzinntes <objectName ref="geschirr">Geschirr</objectName> <lb/> wohl gezuckert <lb/> mit ein wenig <objectName ref="wasser">Wasser</objectName> <lb/> gantzen Zimmet <lb/> Lemoni= Schaalen <lb/> mit ein paar Nägelein; laß zugedeckt auf einer <objectName ref="glut">Glut</objectName> weich <lb/> und zimlich einsieden <lb/> und wieder kalt werden <lb/> und fülls in die Dorten <lb/> nach Belieben. </p>
+        <p> NImm frische Kütten <lb/> scheele und schneide sie klein <lb/> legs in ein <objectName ref="#rein">Rein</objectName> <lb/> oder verzinntes <objectName ref="#geschirr">Geschirr</objectName> <lb/> wohl gezuckert <lb/> mit ein wenig <objectName ref="#wasser">Wasser</objectName> <lb/> gantzen Zimmet <lb/> Lemoni= Schaalen <lb/> mit ein paar Nägelein; laß zugedeckt auf einer <objectName ref="#glut">Glut</objectName> weich <lb/> und zimlich einsieden <lb/> und wieder kalt werden <lb/> und fülls in die Dorten <lb/> nach Belieben. </p>
             </div>
         </body>
     </text>

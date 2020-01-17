@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> RIchte die <objectName ref="taube">Tauben</objectName> zum Braten <lb/> hacke die <objectName ref="leber">Leber</objectName> mit Ochsen = Marck und viel eingemachten Citronen <lb/> oder Pomerantzen = Schelffen <lb/> mit gutem Gewürtz <lb/> und wenig Semmel = Brosen <lb/> Zimmet = <objectName ref="wasser">Wasser</objectName> und Eyerdotter <lb/> mische eine Hand = voll Pinioli darunter <lb/> fülle und brate die <objectName ref="taube">Tauben</objectName> darmit; wann sie fertig <lb/> so gibs auf den <objectName ref="tisch">Tisch</objectName> mit gantzen Lemonien <lb/> und deren Safft. </p>
+        <p> RIchte die <objectName ref="#taube">Tauben</objectName> zum Braten <lb/> hacke die <objectName ref="#leber">Leber</objectName> mit Ochsen = Marck und viel eingemachten Citronen <lb/> oder Pomerantzen = Schelffen <lb/> mit gutem Gewürtz <lb/> und wenig Semmel = Brosen <lb/> Zimmet = <objectName ref="#wasser">Wasser</objectName> und Eyerdotter <lb/> mische eine Hand = voll Pinioli darunter <lb/> fülle und brate die <objectName ref="#taube">Tauben</objectName> darmit; wann sie fertig <lb/> so gibs auf den <objectName ref="#tisch">Tisch</objectName> mit gantzen Lemonien <lb/> und deren Safft. </p>
             </div>
         </body>
     </text>

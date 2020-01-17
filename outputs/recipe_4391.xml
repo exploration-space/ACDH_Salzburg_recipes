@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Die Wamme wird gesotten <lb/> wie bekandt <lb/> alsdann in Stücklein zerschnitten <lb/> in einen stollichten <objectName ref="hafen">Hafen</objectName> gelegt <lb/> warme Fleischbrüh daran gegossen <lb/> mit Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Muscatnüssen gewürtzet <lb/> und ferner gesotten; auch <lb/> wann sie fast fertig <lb/> gesaltzen : Indessen reibet oder schneidet man ein weisses Brod würfflicht <lb/> röstet es im Schmaltz <lb/> richtet die Wammen in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> giesst die Brüh darüber <lb/> und brennet das geröstete Brod oben darauf. </p>
+        <p> Die Wamme wird gesotten <lb/> wie bekandt <lb/> alsdann in Stücklein zerschnitten <lb/> in einen stollichten <objectName ref="#hafen">Hafen</objectName> gelegt <lb/> warme Fleischbrüh daran gegossen <lb/> mit Ingber <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> und Muscatnüssen gewürtzet <lb/> und ferner gesotten; auch <lb/> wann sie fast fertig <lb/> gesaltzen : Indessen reibet oder schneidet man ein weisses Brod würfflicht <lb/> röstet es im Schmaltz <lb/> richtet die Wammen in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> giesst die Brüh darüber <lb/> und brennet das geröstete Brod oben darauf. </p>
             </div>
         </body>
     </text>

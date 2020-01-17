@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> PErschling <lb/> oder Schratzen <lb/> geschuppt <lb/> und aufgemacht <lb/> die Gall hinweg <lb/> gesaltzen <lb/> dann sammt dem Rogen in Gewürtz <lb/> <objectName ref="butter">Butter</objectName> und guter Erbes= <objectName ref="bruehe">Brühe</objectName> <lb/> gelb eingemacht <lb/> mit etlich Tropffen Wein= Eßig <lb/> oder Lemoni= Safft gegeben. </p>
+        <p> PErschling <lb/> oder Schratzen <lb/> geschuppt <lb/> und aufgemacht <lb/> die Gall hinweg <lb/> gesaltzen <lb/> dann sammt dem Rogen in Gewürtz <lb/> <objectName ref="#butter">Butter</objectName> und guter Erbes= <objectName ref="#bruehe">Brühe</objectName> <lb/> gelb eingemacht <lb/> mit etlich Tropffen Wein= Eßig <lb/> oder Lemoni= Safft gegeben. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) auch Manscho Blancko <lb/> wenns kalt ist <lb/> wasch die Händ fein sauber <lb/> nim ( m ) ein schönes <objectName ref="mehl">Mehl</objectName> <lb/> vnnd von dem weissen Muß <lb/> mach <objectName ref="knoedel">Knödel</objectName> darauß <lb/> vnd walger sie wol in <objectName ref="mehl">Mehl</objectName> <lb/> mach <objectName ref="butter">Butter</objectName> heiß <lb/> vn ( d ) backs geschwindt herauß <lb/> wenn du es anrichtest <lb/> so sträw darüber schön weissen <objectName ref="zucker">Zucker</objectName> <lb/> so ist es ein herrlich gut Essen. </p>
+        <p> Nim ( m ) auch Manscho Blancko <lb/> wenns kalt ist <lb/> wasch die Händ fein sauber <lb/> nim ( m ) ein schönes <objectName ref="#mehl">Mehl</objectName> <lb/> vnnd von dem weissen Muß <lb/> mach <objectName ref="#knoedel">Knödel</objectName> darauß <lb/> vnd walger sie wol in <objectName ref="#mehl">Mehl</objectName> <lb/> mach <objectName ref="#butter">Butter</objectName> heiß <lb/> vn ( d ) backs geschwindt herauß <lb/> wenn du es anrichtest <lb/> so sträw darüber schön weissen <objectName ref="#zucker">Zucker</objectName> <lb/> so ist es ein herrlich gut Essen. </p>
             </div>
         </body>
     </text>

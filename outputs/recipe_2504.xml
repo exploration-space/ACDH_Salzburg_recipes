@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm etliche Eyer <lb/> mache an jeder Spitzen derselben ein Löchlein <lb/> und <objectName ref="blase">blase</objectName> zugleich das Gelbe und Weisse dadurch heraus <lb/> rühre es wohl unter einander; hacke Salbey <lb/> <objectName ref="petersilie">Petersilien</objectName> <lb/> oder andere beliebige grüne <objectName ref="kraeuter">Kräuter</objectName> <lb/> darunter <lb/> würtze es mit Ingber <lb/> geriebenen Muscaten <lb/> und ein wenig <objectName ref="pfeffer">Pfeffer</objectName> und Saltz : fülle es dann wiederum in die Schalen <lb/> vermache die Löchlein mit <objectName ref="teig">Teig</objectName>; lege die Eyer in heisses Schmaltz <lb/> bachs langsam heraus <lb/> und rühre sie offt um <lb/> daß sie nicht anbrennen. </p>
+        <p> NImm etliche Eyer <lb/> mache an jeder Spitzen derselben ein Löchlein <lb/> und <objectName ref="#blase">blase</objectName> zugleich das Gelbe und Weisse dadurch heraus <lb/> rühre es wohl unter einander; hacke Salbey <lb/> <objectName ref="#petersilie">Petersilien</objectName> <lb/> oder andere beliebige grüne <objectName ref="#kraeuter">Kräuter</objectName> <lb/> darunter <lb/> würtze es mit Ingber <lb/> geriebenen Muscaten <lb/> und ein wenig <objectName ref="#pfeffer">Pfeffer</objectName> und Saltz : fülle es dann wiederum in die Schalen <lb/> vermache die Löchlein mit <objectName ref="#teig">Teig</objectName>; lege die Eyer in heisses Schmaltz <lb/> bachs langsam heraus <lb/> und rühre sie offt um <lb/> daß sie nicht anbrennen. </p>
             </div>
         </body>
     </text>

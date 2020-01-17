@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DAs obige <objectName ref="geschirr">Geschirr</objectName> kann auch <lb/> nachdeme es wohl mit <objectName ref="butter">Butter</objectName> bestrichen <lb/> mit dünn geschnittenen Flecken oder Fricanto von grossen Hechten= <objectName ref="fleisch">Fleisch</objectName> <lb/> wann solche ein wenig gesaltzen <lb/> und mit dem Messerrucken geklopfft <lb/> an den Boden und rings herum ausgefüttert werden <lb/> etc. Und also macht man auch die Pulpedon von Fleisch= und Fisch= Werck. </p>
+        <p> DAs obige <objectName ref="#geschirr">Geschirr</objectName> kann auch <lb/> nachdeme es wohl mit <objectName ref="#butter">Butter</objectName> bestrichen <lb/> mit dünn geschnittenen Flecken oder Fricanto von grossen Hechten= <objectName ref="#fleisch">Fleisch</objectName> <lb/> wann solche ein wenig gesaltzen <lb/> und mit dem Messerrucken geklopfft <lb/> an den Boden und rings herum ausgefüttert werden <lb/> etc. Und also macht man auch die Pulpedon von Fleisch= und Fisch= Werck. </p>
             </div>
         </body>
     </text>

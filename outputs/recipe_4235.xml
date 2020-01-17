@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BIber= und Otter= Viertel seynd auch gut wie ein Stuffada gedämpfft <lb/> oder ausgebrennt <lb/> mit brauner <objectName ref="bruehe">Brühe</objectName> oder kan wie das schwartze Wildprät gegeben werden; die vordere Theil vom <objectName ref="biber">Biber</objectName> und <objectName ref="otter">Otter</objectName> <lb/> werden gemeiniglich zerhackt <lb/> und in allweg <lb/> wie das vordere Theil vom Reh <lb/> in allerhand <objectName ref="bruehe">Brühen</objectName> eingemacht. </p>
+        <p> BIber= und Otter= Viertel seynd auch gut wie ein Stuffada gedämpfft <lb/> oder ausgebrennt <lb/> mit brauner <objectName ref="#bruehe">Brühe</objectName> oder kan wie das schwartze Wildprät gegeben werden; die vordere Theil vom <objectName ref="#biber">Biber</objectName> und <objectName ref="#otter">Otter</objectName> <lb/> werden gemeiniglich zerhackt <lb/> und in allweg <lb/> wie das vordere Theil vom Reh <lb/> in allerhand <objectName ref="#bruehe">Brühen</objectName> eingemacht. </p>
             </div>
         </body>
     </text>

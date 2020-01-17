@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> HAcket einen blau= gesottenen <objectName ref="hecht">Hecht</objectName> <lb/> der übergeblieben und kalt ist <lb/> auf das kleinest; reibt ein wenig Eyer= Brod <lb/> röstets im Schmaltz <lb/> reibt auch ein wenig dürren <objectName ref="majoran">Majoran</objectName> daran <lb/> würtzets mit gestossener Muscatblüh <lb/> Ingber <lb/> Cardamomen <lb/> machets ferner mit Eyern an <lb/> gilbets ein wenig <lb/> legets in eine Fleischbrüh <lb/> und lassets so lang sieden als weiche Eyer. </p>
+        <p> HAcket einen blau= gesottenen <objectName ref="#hecht">Hecht</objectName> <lb/> der übergeblieben und kalt ist <lb/> auf das kleinest; reibt ein wenig Eyer= Brod <lb/> röstets im Schmaltz <lb/> reibt auch ein wenig dürren <objectName ref="#majoran">Majoran</objectName> daran <lb/> würtzets mit gestossener Muscatblüh <lb/> Ingber <lb/> Cardamomen <lb/> machets ferner mit Eyern an <lb/> gilbets ein wenig <lb/> legets in eine Fleischbrüh <lb/> und lassets so lang sieden als weiche Eyer. </p>
             </div>
         </body>
     </text>

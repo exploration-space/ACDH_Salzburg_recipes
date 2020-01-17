@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SElleri= Wurtzen gebutzt <lb/> zerschnitten <lb/> gebrüht <lb/> seynd gut mit Gewürtz <lb/> wenig Fleisch= oder Erbes= <objectName ref="bruehe">Brühe</objectName> <lb/> warm <lb/> oder auch mit Oel <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> und geriebnen Parmesan- Käß. NB. Selleri seynd gut gebutzt <lb/> gescheelt <lb/> und dünn geschnitten <lb/> gleich frisch <lb/> oder gebrühter zum <objectName ref="salat">Salat</objectName>. </p>
+        <p> SElleri= Wurtzen gebutzt <lb/> zerschnitten <lb/> gebrüht <lb/> seynd gut mit Gewürtz <lb/> wenig Fleisch= oder Erbes= <objectName ref="#bruehe">Brühe</objectName> <lb/> warm <lb/> oder auch mit Oel <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> und geriebnen Parmesan- Käß. NB. Selleri seynd gut gebutzt <lb/> gescheelt <lb/> und dünn geschnitten <lb/> gleich frisch <lb/> oder gebrühter zum <objectName ref="#salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

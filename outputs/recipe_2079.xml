@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein guets mell, <objectName ref="salz">Salz</objectName> dasselbe recht, nimb Puter vnd aÿr= <lb/> doter drein, machs also an, Wan dir der taig Zu faistig Wird, <lb/> das du ihn nit Zusammen bringen magst, so nimb ein <objectName ref="wasser">Wasser</objectName> <lb/> drein, magstu es formieren Wie du wilst. <lb/> </p>
+        <p> Nimb ein guets mell, <objectName ref="#salz">Salz</objectName> dasselbe recht, nimb Puter vnd aÿr= <lb/> doter drein, machs also an, Wan dir der taig Zu faistig Wird, <lb/> das du ihn nit Zusammen bringen magst, so nimb ein <objectName ref="#wasser">Wasser</objectName> <lb/> drein, magstu es formieren Wie du wilst. <lb/> </p>
             </div>
         </body>
     </text>

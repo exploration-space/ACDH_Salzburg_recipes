@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Du kanst auch auß dem Gänßdarm Würst machen <lb/> daß du das <objectName ref="fleisch">Fleisch</objectName> nimmest von der <objectName ref="brust">Brust</objectName> <lb/> vnd hackest es mit <objectName ref="speck">Speck</objectName>. Du kansts zum eynmachen nemmen <lb/> oder zum Braten. </p>
+        <p> Du kanst auch auß dem Gänßdarm Würst machen <lb/> daß du das <objectName ref="#fleisch">Fleisch</objectName> nimmest von der <objectName ref="#brust">Brust</objectName> <lb/> vnd hackest es mit <objectName ref="#speck">Speck</objectName>. Du kansts zum eynmachen nemmen <lb/> oder zum Braten. </p>
             </div>
         </body>
     </text>

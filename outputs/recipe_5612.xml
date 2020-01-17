@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SIedet ein gutes Stuck <objectName ref="rindfleisch">Rindfleisch</objectName> ab <lb/> hernach schneidets zu dinnen Stücklein <lb/> legts auf einen <objectName ref="rost">Rost</objectName> <lb/> bestreichet es mit <objectName ref="butter">Butter</objectName> <lb/> und last es über einer <objectName ref="glut">Glut</objectName> auf beyden Seiten fein bräunlicht werden; leget es hernach in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> giesst obbeschriebene Brüh darüber <lb/> und tragets auf einer <objectName ref="glut">Glut</objectName> zugedeckt zu <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> SIedet ein gutes Stuck <objectName ref="#rindfleisch">Rindfleisch</objectName> ab <lb/> hernach schneidets zu dinnen Stücklein <lb/> legts auf einen <objectName ref="#rost">Rost</objectName> <lb/> bestreichet es mit <objectName ref="#butter">Butter</objectName> <lb/> und last es über einer <objectName ref="#glut">Glut</objectName> auf beyden Seiten fein bräunlicht werden; leget es hernach in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> giesst obbeschriebene Brüh darüber <lb/> und tragets auf einer <objectName ref="#glut">Glut</objectName> zugedeckt zu <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Eyer <lb/> schlag sie auff <lb/> vn ( n ) rür sie wol durcheinander mit Saltz <lb/> laß durch ein Sib oder durch ein Härin <objectName ref="tuch">Tuch</objectName> lauffen/schneidtSchnittenvon einem Weck <lb/> leg sie am ersten in <objectName ref="milch">Milch</objectName> <lb/> weich sie darnach in die auffgeschlagene Eyer <lb/> wirffs flugs in heisse <objectName ref="butter">Butter</objectName> <lb/> vnnd backs geschwindt auß <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> vnnd besträw es mit weissem <objectName ref="zucker">Zucker</objectName>. Vnnd man nennet es güldene Schnitten. </p>
+        <p> Nim ( m ) Eyer <lb/> schlag sie auff <lb/> vn ( n ) rür sie wol durcheinander mit Saltz <lb/> laß durch ein Sib oder durch ein Härin <objectName ref="#tuch">Tuch</objectName> lauffen/schneidtSchnittenvon einem Weck <lb/> leg sie am ersten in <objectName ref="#milch">Milch</objectName> <lb/> weich sie darnach in die auffgeschlagene Eyer <lb/> wirffs flugs in heisse <objectName ref="#butter">Butter</objectName> <lb/> vnnd backs geschwindt auß <lb/> gibs warm auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> vnnd besträw es mit weissem <objectName ref="#zucker">Zucker</objectName>. Vnnd man nennet es güldene Schnitten. </p>
             </div>
         </body>
     </text>

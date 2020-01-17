@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Schweins= Füß kanst du einmachen <lb/> in einem schwartzen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> unter grünen Köhl <lb/> oder unter sauren <objectName ref="kraut">Kraut</objectName>. Item <lb/> nimm die Schwein= Füß <lb/> und säubere sie aus <lb/> schneide Zwibel fein breit <lb/> und thue sie auf die Füß <lb/> sieds in <objectName ref="wasser">Wasser</objectName> <lb/> und wanns wohl gesotten <lb/> so mach es gelb <lb/> und pfeffers <lb/> machs süß <lb/> oder sauer <lb/> so ist es auf beyde Manier gut. </p>
+        <p> DIe Schweins= Füß kanst du einmachen <lb/> in einem schwartzen <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> unter grünen Köhl <lb/> oder unter sauren <objectName ref="#kraut">Kraut</objectName>. Item <lb/> nimm die Schwein= Füß <lb/> und säubere sie aus <lb/> schneide Zwibel fein breit <lb/> und thue sie auf die Füß <lb/> sieds in <objectName ref="#wasser">Wasser</objectName> <lb/> und wanns wohl gesotten <lb/> so mach es gelb <lb/> und pfeffers <lb/> machs süß <lb/> oder sauer <lb/> so ist es auf beyde Manier gut. </p>
             </div>
         </body>
     </text>

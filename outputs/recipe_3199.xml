@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm grosse frische Cucummern <lb/> scheele und schneide sie nach der Läng in zwey Theil <lb/> und höhle sie aus <lb/> laß sie in gesaltznem <objectName ref="wasser">Wasser</objectName> ein wenig sieden <lb/> nimms heraus <lb/> gewürtz <lb/> saltz und fülle sie mit gut= angemachtem <objectName ref="gehaeck">Gehäck</objectName> vom Hechten= Brät <lb/> legs in eine mit <objectName ref="butter">Butter</objectName> bestrichene <objectName ref="schuessel">Schüssel</objectName> <lb/> mit Ram <lb/> oder guten gelben Butter= <objectName ref="bruehe">Brühe</objectName> <lb/> die Füll übersich mit Gewürtz <lb/> und klein= gehackten Petersil aufgesotten; regaliers mit dergleichen gefüllt= und in <objectName ref="ofen">Ofen</objectName> gesetzten Cucummern. </p>
+        <p> NImm grosse frische Cucummern <lb/> scheele und schneide sie nach der Läng in zwey Theil <lb/> und höhle sie aus <lb/> laß sie in gesaltznem <objectName ref="#wasser">Wasser</objectName> ein wenig sieden <lb/> nimms heraus <lb/> gewürtz <lb/> saltz und fülle sie mit gut= angemachtem <objectName ref="#gehaeck">Gehäck</objectName> vom Hechten= Brät <lb/> legs in eine mit <objectName ref="#butter">Butter</objectName> bestrichene <objectName ref="#schuessel">Schüssel</objectName> <lb/> mit Ram <lb/> oder guten gelben Butter= <objectName ref="#bruehe">Brühe</objectName> <lb/> die Füll übersich mit Gewürtz <lb/> und klein= gehackten Petersil aufgesotten; regaliers mit dergleichen gefüllt= und in <objectName ref="#ofen">Ofen</objectName> gesetzten Cucummern. </p>
             </div>
         </body>
     </text>

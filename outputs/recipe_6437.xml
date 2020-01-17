@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Du kanst auch Maurachen auff ein ander manier machen. Wen ( n ) sie sauber gewaschen <lb/> so thut man sie in eine Pfannen <lb/> oder in ein <objectName ref="kessel">Kessel</objectName> <lb/> thu <objectName ref="butter">Butter</objectName> <lb/> <objectName ref="pfeffer">Pfeffer</objectName> vnd Saltz darein <lb/> laß damit auffsieden <lb/> so geben sie gnugsam feuchtigkeit von jnen <lb/> laß sie kurtz eynsieden. Vnnd wenn du schier wilt anrichten <lb/> so thu darein grüne wolschmeckende <objectName ref="kraeuter">Kräuter</objectName> <lb/> die klein gehackt seyn <lb/> so werden sie gut vnd wolgeschmack. </p>
+        <p> Du kanst auch Maurachen auff ein ander manier machen. Wen ( n ) sie sauber gewaschen <lb/> so thut man sie in eine Pfannen <lb/> oder in ein <objectName ref="#kessel">Kessel</objectName> <lb/> thu <objectName ref="#butter">Butter</objectName> <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> vnd Saltz darein <lb/> laß damit auffsieden <lb/> so geben sie gnugsam feuchtigkeit von jnen <lb/> laß sie kurtz eynsieden. Vnnd wenn du schier wilt anrichten <lb/> so thu darein grüne wolschmeckende <objectName ref="#kraeuter">Kräuter</objectName> <lb/> die klein gehackt seyn <lb/> so werden sie gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein Kändl<gap/> Milch<gap/> vnnd ein <lb/><lb/> ( ve 84 ) schönes mell<gap/>, mach ein dickhs<gap/> Koch <lb/> lass Kalt<gap/> werden, nimb ein holben <lb/> Virtung<gap/> <objectName ref="butter">butter</objectName>, treib<gap/> ihne ab, in <lb/> ein degl<gap/> schitt<gap/> das Koch drein, vnd <lb/> Zuckhers nach deinen belieben, vnnd <lb/> lemoni<gap/> safft vnnd scheln<gap/> schlag ein <lb/> Ayr<gap/> nach dem andern drein, merer <lb/> Dotter als Ganze, riehr<gap/> es ein <lb/> stundt auf einer seiten schmirb<gap/> <lb/> die schisßl<gap/> vnnd rinig<gap/> mit Putter <lb/> schidt<gap/> Das Mues<gap/> darein bach<gap/> es schön <lb/> </p>
+        <p> Nimb ein Kändl<gap/> Milch<gap/> vnnd ein <lb/><lb/> ( ve 84 ) schönes mell<gap/>, mach ein dickhs<gap/> Koch <lb/> lass Kalt<gap/> werden, nimb ein holben <lb/> Virtung<gap/> <objectName ref="#butter">butter</objectName>, treib<gap/> ihne ab, in <lb/> ein degl<gap/> schitt<gap/> das Koch drein, vnd <lb/> Zuckhers nach deinen belieben, vnnd <lb/> lemoni<gap/> safft vnnd scheln<gap/> schlag ein <lb/> Ayr<gap/> nach dem andern drein, merer <lb/> Dotter als Ganze, riehr<gap/> es ein <lb/> stundt auf einer seiten schmirb<gap/> <lb/> die schisßl<gap/> vnnd rinig<gap/> mit Putter <lb/> schidt<gap/> Das Mues<gap/> darein bach<gap/> es schön <lb/> </p>
             </div>
         </body>
     </text>

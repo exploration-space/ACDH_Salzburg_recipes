@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> RUben weiß <lb/> oder Wasser= Ruben am Fasttag <lb/> nach Belieben geschnitten <lb/> mit Zwibel wol <objectName ref="fett">fett</objectName> weiß= gelb eingebrennt <lb/> und mit wenig <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Saltz <lb/> und kleingehacktem grünen Petersil fertig gemacht. </p>
+        <p> RUben weiß <lb/> oder Wasser= Ruben am Fasttag <lb/> nach Belieben geschnitten <lb/> mit Zwibel wol <objectName ref="#fett">fett</objectName> weiß= gelb eingebrennt <lb/> und mit wenig <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Saltz <lb/> und kleingehacktem grünen Petersil fertig gemacht. </p>
             </div>
         </body>
     </text>

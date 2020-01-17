@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Königlein <objectName ref="pastete">Pasteten</objectName> warm <lb/> besonder das Hintertheil mit Limonien eyngemacht <lb/> vnd in ein weissen <objectName ref="teig">Teig</objectName> eyngeschlagen <lb/> oder in ein Ruckenteig <lb/> vnd kalt lassen werden. </p>
+        <p> Königlein <objectName ref="#pastete">Pasteten</objectName> warm <lb/> besonder das Hintertheil mit Limonien eyngemacht <lb/> vnd in ein weissen <objectName ref="#teig">Teig</objectName> eyngeschlagen <lb/> oder in ein Ruckenteig <lb/> vnd kalt lassen werden. </p>
             </div>
         </body>
     </text>

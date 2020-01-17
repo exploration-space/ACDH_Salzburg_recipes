@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Epffelmuß mit Zimmet vnd klein Rosein in <objectName ref="butter">Butter</objectName> gekocht <lb/> vnnd wenn du es anrichtest <lb/> so schneidt ein Weck fein länglicht <lb/> rößts auß der <objectName ref="butter">Butter</objectName> <lb/> daß er resch ist <lb/> stecks in das Epffelmuß <lb/> vnd besträw es mit <objectName ref="zucker">Zucker</objectName> <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
+        <p> Epffelmuß mit Zimmet vnd klein Rosein in <objectName ref="#butter">Butter</objectName> gekocht <lb/> vnnd wenn du es anrichtest <lb/> so schneidt ein Weck fein länglicht <lb/> rößts auß der <objectName ref="#butter">Butter</objectName> <lb/> daß er resch ist <lb/> stecks in das Epffelmuß <lb/> vnd besträw es mit <objectName ref="#zucker">Zucker</objectName> <lb/> gibs warm auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein viertl gueten süssen Rämb, schlag 6. Aÿr drein, <lb/> nimb ein löfl voll <objectName ref="rosenwasser">Rosenwasser</objectName>, vnd Zugger, das gnueg <lb/> ist, vnd ein hand voll Weinbörl, <objectName ref="salz">salz</objectName> ein Wenig, nimb ein <lb/> saubere pfan, gieß darein, rührs Woll ab, laß ein Sud <lb/> thuen, seichs in die mödl, es ist guet. <lb/> </p>
+        <p> Nimb ein viertl gueten süssen Rämb, schlag 6. Aÿr drein, <lb/> nimb ein löfl voll <objectName ref="#rosenwasser">Rosenwasser</objectName>, vnd Zugger, das gnueg <lb/> ist, vnd ein hand voll Weinbörl, <objectName ref="#salz">salz</objectName> ein Wenig, nimb ein <lb/> saubere pfan, gieß darein, rührs Woll ab, laß ein Sud <lb/> thuen, seichs in die mödl, es ist guet. <lb/> </p>
             </div>
         </body>
     </text>

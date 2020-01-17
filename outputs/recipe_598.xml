@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim Benzoi auß der Apotecken ein loht <lb/> Para= dißholtz ein halb <objectName ref="quint">quint</objectName>. <objectName ref="bisam">Bisam</objectName> 3. gran <lb/> deß weissesten <objectName ref="zucker">zucker</objectName> 7. loht <lb/> stoß die stück jedes besonder <lb/> vnd siede den <objectName ref="zucker">zucker</objectName> mit <objectName ref="lavendelwasser">Lavendelwasser</objectName> <lb/> vnd gieß zeltlein dar= auß <lb/> wie du weist. </p>
+        <p> Nim Benzoi auß der Apotecken ein loht <lb/> Para= dißholtz ein halb <objectName ref="#quint">quint</objectName>. <objectName ref="#bisam">Bisam</objectName> 3. gran <lb/> deß weissesten <objectName ref="#zucker">zucker</objectName> 7. loht <lb/> stoß die stück jedes besonder <lb/> vnd siede den <objectName ref="#zucker">zucker</objectName> mit <objectName ref="#lavendelwasser">Lavendelwasser</objectName> <lb/> vnd gieß zeltlein dar= auß <lb/> wie du weist. </p>
             </div>
         </body>
     </text>

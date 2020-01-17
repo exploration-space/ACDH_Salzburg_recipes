@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb zwifel vnd spökh, Seuts durcheinander, <lb/> vnd Petersill, Salue, wenß durcheinander <lb/> gesoten ist, hakhs klain, fülß darnach hinein <lb/> mit Imber vnd <objectName ref="pfeffer">Pfeffer</objectName>, Mußcatblüe, Sez <lb/> die <objectName ref="brust">brust</objectName> zue in Rindt Supen, nimb buter <lb/> darein, schneit Petersillwurz daran, Roß= <lb/> =marin, Perchtramb, <objectName ref="salz">Salz</objectName> nit hart. <lb/><lb/> ( 68r ) </p>
+        <p> Nimb zwifel vnd spökh, Seuts durcheinander, <lb/> vnd Petersill, Salue, wenß durcheinander <lb/> gesoten ist, hakhs klain, fülß darnach hinein <lb/> mit Imber vnd <objectName ref="#pfeffer">Pfeffer</objectName>, Mußcatblüe, Sez <lb/> die <objectName ref="#brust">brust</objectName> zue in Rindt Supen, nimb buter <lb/> darein, schneit Petersillwurz daran, Roß= <lb/> =marin, Perchtramb, <objectName ref="#salz">Salz</objectName> nit hart. <lb/><lb/> ( 68r ) </p>
             </div>
         </body>
     </text>

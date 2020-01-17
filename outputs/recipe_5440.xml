@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) ein <objectName ref="hecht">Hecht</objectName> <lb/> vnnd mach ein Kölhecht darauß <lb/> bespreng jn mit Saltz <lb/> vnd leg jn auff ein Roßt <lb/> vnd brat jhn <lb/> thu jn in einen Mörsel <lb/> vnd stoß jn <lb/> nim ( m ) etliche Schnitten von einem Weck <lb/> die fein abgebeht seyn <lb/> darvnter <lb/> streich es durch mit guter wolgeschmackter Erbeßbrüh <lb/> pfeffers <lb/> gelbs vnd saltzs <lb/> vnd thu <objectName ref="butter">Butter</objectName> darein <lb/> laß sieden <lb/> so wirt es gut vnd wolgeschmack. Also macht man die Hechtsuppen. </p>
+        <p> Nim ( m ) ein <objectName ref="#hecht">Hecht</objectName> <lb/> vnnd mach ein Kölhecht darauß <lb/> bespreng jn mit Saltz <lb/> vnd leg jn auff ein Roßt <lb/> vnd brat jhn <lb/> thu jn in einen Mörsel <lb/> vnd stoß jn <lb/> nim ( m ) etliche Schnitten von einem Weck <lb/> die fein abgebeht seyn <lb/> darvnter <lb/> streich es durch mit guter wolgeschmackter Erbeßbrüh <lb/> pfeffers <lb/> gelbs vnd saltzs <lb/> vnd thu <objectName ref="#butter">Butter</objectName> darein <lb/> laß sieden <lb/> so wirt es gut vnd wolgeschmack. Also macht man die Hechtsuppen. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAachet den <objectName ref="pfeffer">Pfeffer</objectName> allerdings <lb/> wie selbiger bey den Wildpret Num. 64. 65. 66. und 67. zu finden ist; wann nun das <objectName ref="fleisch">Fleisch</objectName> vorher in halb <objectName ref="essig">Essig</objectName> und halb <objectName ref="wasser">Wasser</objectName> abgesotten worden <lb/> seihet es herab <lb/> richtet den <objectName ref="pfeffer">Pfeffer</objectName> darüber <lb/> und last es noch einen guten Sud mit aufthun. </p>
+        <p> MAachet den <objectName ref="#pfeffer">Pfeffer</objectName> allerdings <lb/> wie selbiger bey den Wildpret Num. 64. 65. 66. und 67. zu finden ist; wann nun das <objectName ref="#fleisch">Fleisch</objectName> vorher in halb <objectName ref="#essig">Essig</objectName> und halb <objectName ref="#wasser">Wasser</objectName> abgesotten worden <lb/> seihet es herab <lb/> richtet den <objectName ref="#pfeffer">Pfeffer</objectName> darüber <lb/> und last es noch einen guten Sud mit aufthun. </p>
             </div>
         </body>
     </text>

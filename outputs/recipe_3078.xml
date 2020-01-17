@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Maurachen werden auch gebutzt <lb/> geklaubt <lb/> und gar wol ausgewaschen <lb/> dann gesaltzen <lb/> gewürtzt <lb/> und so es beliebt <lb/> mit kleingehacktem Petersil und <objectName ref="rosmarin">Rosmarin</objectName> herüber geschwungen <lb/> dann mit <lb/> oder ohne Salbey= Blättlein <lb/> oder Speck= Schnitzlein Wechsel= weiß an die Spißlein gesteckt <lb/> mit <objectName ref="butter">Butter</objectName> wol begossen <lb/> und auf dem <objectName ref="rost">Rost</objectName> gebraten <lb/> gibs an den Spißlein fein warm und safftig zu <objectName ref="tisch">Tisch</objectName>; Andere feuchten auch die Maurachen zu Zeiten mit <objectName ref="wein">Wein</objectName> an. </p>
+        <p> DIe Maurachen werden auch gebutzt <lb/> geklaubt <lb/> und gar wol ausgewaschen <lb/> dann gesaltzen <lb/> gewürtzt <lb/> und so es beliebt <lb/> mit kleingehacktem Petersil und <objectName ref="#rosmarin">Rosmarin</objectName> herüber geschwungen <lb/> dann mit <lb/> oder ohne Salbey= Blättlein <lb/> oder Speck= Schnitzlein Wechsel= weiß an die Spißlein gesteckt <lb/> mit <objectName ref="#butter">Butter</objectName> wol begossen <lb/> und auf dem <objectName ref="#rost">Rost</objectName> gebraten <lb/> gibs an den Spißlein fein warm und safftig zu <objectName ref="#tisch">Tisch</objectName>; Andere feuchten auch die Maurachen zu Zeiten mit <objectName ref="#wein">Wein</objectName> an. </p>
             </div>
         </body>
     </text>

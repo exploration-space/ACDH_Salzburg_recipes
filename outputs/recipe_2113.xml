@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb khelberes <objectName ref="fleisch">fleisch</objectName> das taugt Zum hakhen, laß auf ein stukh <lb/> beÿeinander, stëkh es an ein <objectName ref="fleisch">fleisch</objectName> spiß, hebs in ein fleischbrüe, <lb/> laß ein Wenig erstarrn, hakhs wie ein gehäkht von bratnem <lb/> <objectName ref="fleisch">Fleisch</objectName>, hakh auch, oder schneid darunder rinderne Faisten, <lb/> oder march, nit Zu wenig gewürz vnd Weinpörl.2. Aÿr, ein <lb/> Löffl voll Rämb, vnd ein Wenig Fleischbrüe, mueß nit lehn an= <lb/> gemacht Werden, richts also ein, ein gar Warmbs taigl an, in <lb/> einem dorten bëkhl, schidt die fühl drein, mach ein lukh von <lb/> Puter oder Zerkhlopfften Aÿr. <lb/> </p>
+        <p> Nimb khelberes <objectName ref="#fleisch">fleisch</objectName> das taugt Zum hakhen, laß auf ein stukh <lb/> beÿeinander, stëkh es an ein <objectName ref="#fleisch">fleisch</objectName> spiß, hebs in ein fleischbrüe, <lb/> laß ein Wenig erstarrn, hakhs wie ein gehäkht von bratnem <lb/> <objectName ref="#fleisch">Fleisch</objectName>, hakh auch, oder schneid darunder rinderne Faisten, <lb/> oder march, nit Zu wenig gewürz vnd Weinpörl.2. Aÿr, ein <lb/> Löffl voll Rämb, vnd ein Wenig Fleischbrüe, mueß nit lehn an= <lb/> gemacht Werden, richts also ein, ein gar Warmbs taigl an, in <lb/> einem dorten bëkhl, schidt die fühl drein, mach ein lukh von <lb/> Puter oder Zerkhlopfften Aÿr. <lb/> </p>
             </div>
         </body>
     </text>

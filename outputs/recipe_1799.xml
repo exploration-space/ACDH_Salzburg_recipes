@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schneit de ( n ) <lb/> stinngl halb daruon, laß sonst ganz, nimb <lb/> Semel vnd schneits, vndter die weixl, wens <lb/> gesoten seint, streichs durch ain Tuech, nimb <lb/> <objectName ref="wein">wein</objectName> vnd zugger, laß sieden, <objectName ref="salz">salz</objectName> nit, machs <lb/> nit zu starckh oder zu dickh laß ain stundt <lb/> sieden, gibs Kalt oder Warmber. <lb/> </p>
+        <p> Schneit de ( n ) <lb/> stinngl halb daruon, laß sonst ganz, nimb <lb/> Semel vnd schneits, vndter die weixl, wens <lb/> gesoten seint, streichs durch ain Tuech, nimb <lb/> <objectName ref="#wein">wein</objectName> vnd zugger, laß sieden, <objectName ref="#salz">salz</objectName> nit, machs <lb/> nit zu starckh oder zu dickh laß ain stundt <lb/> sieden, gibs Kalt oder Warmber. <lb/> </p>
             </div>
         </body>
     </text>

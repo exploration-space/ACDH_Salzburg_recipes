@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIese werden gesotten <lb/> gebutzt <lb/> halbiert <lb/> und gefüllt wie jetzt gedacht <lb/> dann eingemeelbt <lb/> und aus heissem Schmaltz <lb/> oder Oel gebachen <lb/> gibs trucken <lb/> oder mit einer guten <objectName ref="bruehe">Brühe</objectName> zu <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> DIese werden gesotten <lb/> gebutzt <lb/> halbiert <lb/> und gefüllt wie jetzt gedacht <lb/> dann eingemeelbt <lb/> und aus heissem Schmaltz <lb/> oder Oel gebachen <lb/> gibs trucken <lb/> oder mit einer guten <objectName ref="#bruehe">Brühe</objectName> zu <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

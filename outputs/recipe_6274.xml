@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> HAcke dises <objectName ref="fleisch">Fleisch</objectName> zu Stucken <lb/> wasche und setze es zu im <objectName ref="wasser">Wasser</objectName> <lb/> wann es verfäumt <lb/> so wirff gehöriges Saltz darein <lb/> und laß es etwas kurz einsieden <lb/> dann wirff weisse Ruben in Scheiben oder Stücker zerschnitten <lb/> mit gehackten Petersil= Kräutlein <lb/> sammt einem Brocken <objectName ref="speck">Speck</objectName> mit Nägelein besteckt darein <lb/> laß mit einander gar sieden <lb/> so wird es gut <lb/> und hat man <objectName ref="suppe">Suppen</objectName> <lb/> <objectName ref="fleisch">Fleisch</objectName> und Gemüs beysammen; also auch mit Pastinacker= Petersil= gelben oder weissen Ruben <lb/> und andern Wurzeln. </p>
+        <p> HAcke dises <objectName ref="#fleisch">Fleisch</objectName> zu Stucken <lb/> wasche und setze es zu im <objectName ref="#wasser">Wasser</objectName> <lb/> wann es verfäumt <lb/> so wirff gehöriges Saltz darein <lb/> und laß es etwas kurz einsieden <lb/> dann wirff weisse Ruben in Scheiben oder Stücker zerschnitten <lb/> mit gehackten Petersil= Kräutlein <lb/> sammt einem Brocken <objectName ref="#speck">Speck</objectName> mit Nägelein besteckt darein <lb/> laß mit einander gar sieden <lb/> so wird es gut <lb/> und hat man <objectName ref="#suppe">Suppen</objectName> <lb/> <objectName ref="#fleisch">Fleisch</objectName> und Gemüs beysammen; also auch mit Pastinacker= Petersil= gelben oder weissen Ruben <lb/> und andern Wurzeln. </p>
             </div>
         </body>
     </text>

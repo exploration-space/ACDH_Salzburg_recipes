@@ -179,7 +179,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Röste klein= gehackten Zwibel <lb/> mit weiß Meel <lb/> in <objectName ref="butter">Butter</objectName> Liecht= gelb <lb/> schütt ein wenig Erbes= <objectName ref="bruehe">Brühe</objectName> <lb/> Eßig und <objectName ref="wein">Wein</objectName> darein <lb/> nimm Citroni= Kräutlein <lb/> oder andern klein= gehackten Citronat <lb/> mit wenig <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> Zimmet <lb/> ein wenig Näglein und <objectName ref="zucker">Zucker</objectName> <lb/> mit Lemoni= Schelffen <lb/> und wenig Saltz <lb/> laß mit den gebachnen Schlein= Fischen kurtz aufkochen <lb/> und richts sauber an <lb/> gibs warm. </p>
+        <p> Röste klein= gehackten Zwibel <lb/> mit weiß Meel <lb/> in <objectName ref="#butter">Butter</objectName> Liecht= gelb <lb/> schütt ein wenig Erbes= <objectName ref="#bruehe">Brühe</objectName> <lb/> Eßig und <objectName ref="#wein">Wein</objectName> darein <lb/> nimm Citroni= Kräutlein <lb/> oder andern klein= gehackten Citronat <lb/> mit wenig <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> Zimmet <lb/> ein wenig Näglein und <objectName ref="#zucker">Zucker</objectName> <lb/> mit Lemoni= Schelffen <lb/> und wenig Saltz <lb/> laß mit den gebachnen Schlein= Fischen kurtz aufkochen <lb/> und richts sauber an <lb/> gibs warm. </p>
             </div>
         </body>
     </text>

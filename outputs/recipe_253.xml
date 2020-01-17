@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb.3. löfel voll stierckh<gap/>, ain <lb/> löfel Voll anders Mell, löfel voll <lb/> Gefäten<gap/> Zuckher, ein wenig Ge= <lb/> waickhten<gap/> tragant<gap/>, waickh<gap/> ein <lb/> Pisamb<gap/> in ein <objectName ref="wasser">wasser</objectName>, Zöch<gap/> in <lb/> Guetting ab thue ihn Darunter, <lb/> walg<gap/> ein blat<gap/> auß, schneidt sye <lb/> schön Vieröckhet<gap/>bach<gap/> es in einen <lb/> <objectName ref="mehl">Mehl</objectName> gar Kiell<gap/> heraus so seindts <lb/> Recht. <lb/><lb/> ( ve 121 ) </p>
+        <p> Nimb.3. löfel voll stierckh<gap/>, ain <lb/> löfel Voll anders Mell, löfel voll <lb/> Gefäten<gap/> Zuckher, ein wenig Ge= <lb/> waickhten<gap/> tragant<gap/>, waickh<gap/> ein <lb/> Pisamb<gap/> in ein <objectName ref="#wasser">wasser</objectName>, Zöch<gap/> in <lb/> Guetting ab thue ihn Darunter, <lb/> walg<gap/> ein blat<gap/> auß, schneidt sye <lb/> schön Vieröckhet<gap/>bach<gap/> es in einen <lb/> <objectName ref="#mehl">Mehl</objectName> gar Kiell<gap/> heraus so seindts <lb/> Recht. <lb/><lb/> ( ve 121 ) </p>
             </div>
         </body>
     </text>

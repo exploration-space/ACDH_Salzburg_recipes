@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Item <lb/> so preß vnzeitige Weinbeer auß <lb/> vnd seige sie schön <lb/> vnnd schüt andern <objectName ref="essig">Essig</objectName> darvnter <lb/> vnnd so der drey tag gestehet <lb/> so seige jn von dem Läger <lb/> das thu offt <lb/> so hastu guten <objectName ref="essig">Essig</objectName> zu aller zeit. </p>
+        <p> Item <lb/> so preß vnzeitige Weinbeer auß <lb/> vnd seige sie schön <lb/> vnnd schüt andern <objectName ref="#essig">Essig</objectName> darvnter <lb/> vnnd so der drey tag gestehet <lb/> so seige jn von dem Läger <lb/> das thu offt <lb/> so hastu guten <objectName ref="#essig">Essig</objectName> zu aller zeit. </p>
             </div>
         </body>
     </text>

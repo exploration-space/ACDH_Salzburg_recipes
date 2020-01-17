@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wässere die Zung yber nacht<gap/> ein, <lb/> siedt<gap/> sie schön Marb<gap/> schölle<gap/> sye <lb/><lb/> ( re 58 ) schneidte mösser ruckhen Dickhe<gap/> Plädl<gap/> <lb/> daraus löge es auf ein schisßl<gap/> <lb/> besträhe<gap/> es mit sembl Preßl<gap/> vnd <lb/> Muscablie<gap/> truckhe von einen <lb/> halben lemony<gap/> den safft darauf <lb/> Nimbe ein schöpf löffel<gap/> voll Guette <lb/> rindt suppen<gap/> auch etlich <objectName ref="loeffel">löffel</objectName> voll <lb/> frisches Pämöll<gap/> auch ein wenig <lb/> frischen <objectName ref="butter">butter</objectName> döckhe sye Zue lass <lb/> es Auf einer Gluet<gap/> woll sieten<gap/> <lb/> Gibs Also Warmb also ist sye recht <lb/> vnnd Guett. <lb/> </p>
+        <p> Wässere die Zung yber nacht<gap/> ein, <lb/> siedt<gap/> sie schön Marb<gap/> schölle<gap/> sye <lb/><lb/> ( re 58 ) schneidte mösser ruckhen Dickhe<gap/> Plädl<gap/> <lb/> daraus löge es auf ein schisßl<gap/> <lb/> besträhe<gap/> es mit sembl Preßl<gap/> vnd <lb/> Muscablie<gap/> truckhe von einen <lb/> halben lemony<gap/> den safft darauf <lb/> Nimbe ein schöpf löffel<gap/> voll Guette <lb/> rindt suppen<gap/> auch etlich <objectName ref="#loeffel">löffel</objectName> voll <lb/> frisches Pämöll<gap/> auch ein wenig <lb/> frischen <objectName ref="#butter">butter</objectName> döckhe sye Zue lass <lb/> es Auf einer Gluet<gap/> woll sieten<gap/> <lb/> Gibs Also Warmb also ist sye recht <lb/> vnnd Guett. <lb/> </p>
             </div>
         </body>
     </text>

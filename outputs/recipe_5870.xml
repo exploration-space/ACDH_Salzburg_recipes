@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChneide die Hünlein zu vier Viertheil <lb/> setz es zu <lb/> saltze es <lb/> wanns wohl übersotten seyn <lb/> so nimm Semmel= Mollen <lb/> weichs im kalten <objectName ref="wasser">Wasser</objectName> <lb/> drucks zwischen zwey <objectName ref="teller">Teller</objectName> aus <lb/> linde dieselbe in <objectName ref="butter">Butter</objectName> <lb/> und thus an die Hünlein <lb/> lege klein= geschnittene <lb/> und nicht gestossene Muscatblühe darzu <lb/> daß es gar wohl darvon rieche <lb/> laß wohl sieden <lb/> wann du es wilt anrichten <lb/> so leg <objectName ref="butter">Butter</objectName> darzu. </p>
+        <p> SChneide die Hünlein zu vier Viertheil <lb/> setz es zu <lb/> saltze es <lb/> wanns wohl übersotten seyn <lb/> so nimm Semmel= Mollen <lb/> weichs im kalten <objectName ref="#wasser">Wasser</objectName> <lb/> drucks zwischen zwey <objectName ref="#teller">Teller</objectName> aus <lb/> linde dieselbe in <objectName ref="#butter">Butter</objectName> <lb/> und thus an die Hünlein <lb/> lege klein= geschnittene <lb/> und nicht gestossene Muscatblühe darzu <lb/> daß es gar wohl darvon rieche <lb/> laß wohl sieden <lb/> wann du es wilt anrichten <lb/> so leg <objectName ref="#butter">Butter</objectName> darzu. </p>
             </div>
         </body>
     </text>

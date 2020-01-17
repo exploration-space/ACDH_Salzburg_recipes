@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> VOn disem Safft mach die Semmel nicht zu naß <lb/> und treib in einem <objectName ref="geschirr">Geschirr</objectName> guten <objectName ref="butter">Butter</objectName> ab <lb/> schlag nach Nothdurfft Eyer oder nur die Dotter nach und nach darein <lb/> und endlich wenig Saltz <lb/> auch die Semmel <lb/> wer viel macht <lb/> nimmt auch Mandel darein <lb/> bestreicht ein Schüsselein mit <objectName ref="butter">Butter</objectName> <lb/> und gießt dises Koch darein <lb/> und bachts <lb/> wie andere aufgangene Müser. </p>
+        <p> VOn disem Safft mach die Semmel nicht zu naß <lb/> und treib in einem <objectName ref="#geschirr">Geschirr</objectName> guten <objectName ref="#butter">Butter</objectName> ab <lb/> schlag nach Nothdurfft Eyer oder nur die Dotter nach und nach darein <lb/> und endlich wenig Saltz <lb/> auch die Semmel <lb/> wer viel macht <lb/> nimmt auch Mandel darein <lb/> bestreicht ein Schüsselein mit <objectName ref="#butter">Butter</objectName> <lb/> und gießt dises Koch darein <lb/> und bachts <lb/> wie andere aufgangene Müser. </p>
             </div>
         </body>
     </text>

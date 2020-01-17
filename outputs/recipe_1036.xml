@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Take Claret, Gravy, Oyster Liquor, two or three Anchovies, a Faggot of sweet Herbs, and an Onion; boil it up and thicken it with brown <objectName ref="butter">Butter</objectName>, then pour it into your Pies when called for. </p>
+        <p> Take Claret, Gravy, Oyster Liquor, two or three Anchovies, a Faggot of sweet Herbs, and an Onion; boil it up and thicken it with brown <objectName ref="#butter">Butter</objectName>, then pour it into your Pies when called for. </p>
             </div>
         </body>
     </text>

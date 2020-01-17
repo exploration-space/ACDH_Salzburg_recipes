@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAn nimmt Schweins= <objectName ref="leber">Leber</objectName> <lb/> laßts ein wenig anlauffen <lb/> oder überbrühen <lb/> stosset dieselbe im <objectName ref="moerser">Mörser</objectName> <lb/> hernach mische man darunter klein= gehacktes Schwein= oder Rinds= <objectName ref="fett">Fett</objectName> <lb/> und Eyerdottern <lb/> bestreue sie mit Saltz <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Nägelein <lb/> Muscaten= <objectName ref="blumen">Blumen</objectName> <lb/> zertruckten <objectName ref="knoblauch">Knoblauch</objectName> <lb/> aber nicht viel <lb/> zerstossenen Coriander <lb/> fülle die Därm <lb/> und siede sie nicht zuviel <lb/> wie die Rosen= Würst <lb/> hernach werden sie in <objectName ref="butter">Butter</objectName> gebraten. </p>
+        <p> MAn nimmt Schweins= <objectName ref="#leber">Leber</objectName> <lb/> laßts ein wenig anlauffen <lb/> oder überbrühen <lb/> stosset dieselbe im <objectName ref="#moerser">Mörser</objectName> <lb/> hernach mische man darunter klein= gehacktes Schwein= oder Rinds= <objectName ref="#fett">Fett</objectName> <lb/> und Eyerdottern <lb/> bestreue sie mit Saltz <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Nägelein <lb/> Muscaten= <objectName ref="#blumen">Blumen</objectName> <lb/> zertruckten <objectName ref="#knoblauch">Knoblauch</objectName> <lb/> aber nicht viel <lb/> zerstossenen Coriander <lb/> fülle die Därm <lb/> und siede sie nicht zuviel <lb/> wie die Rosen= Würst <lb/> hernach werden sie in <objectName ref="#butter">Butter</objectName> gebraten. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Grundeln müssen zuvor sauber gewaschen <lb/> dann ein wenig mit einem <objectName ref="tuch">Tuch</objectName> abgetrocknet <lb/> und auf einen grossen höltzernen <objectName ref="teller">Teller</objectName> <lb/> mit <objectName ref="mehl">Mehl</objectName> bestreuet <lb/> gelegt <lb/> und wohl darinnen geschwungen werden; indessen macht man ein Oel in einer Pfannen heiß <lb/> und bächt die Grundel schön gelb heraus : dann legt man sie in die <objectName ref="schuessel">Schüssel</objectName> <lb/> und streuet Saltz darauf : ehe man sie bächt <lb/> darff man sie nicht saltzen; dann auf diese Art bleiben sie röscher <lb/> als wann man sie zuvor mit Saltz bestreuet. <gap/> <gap/> Auf diese Art kan man auch Erlitzen und Sengelein bachen. </p>
+        <p> DIe Grundeln müssen zuvor sauber gewaschen <lb/> dann ein wenig mit einem <objectName ref="#tuch">Tuch</objectName> abgetrocknet <lb/> und auf einen grossen höltzernen <objectName ref="#teller">Teller</objectName> <lb/> mit <objectName ref="#mehl">Mehl</objectName> bestreuet <lb/> gelegt <lb/> und wohl darinnen geschwungen werden; indessen macht man ein Oel in einer Pfannen heiß <lb/> und bächt die Grundel schön gelb heraus : dann legt man sie in die <objectName ref="#schuessel">Schüssel</objectName> <lb/> und streuet Saltz darauf : ehe man sie bächt <lb/> darff man sie nicht saltzen; dann auf diese Art bleiben sie röscher <lb/> als wann man sie zuvor mit Saltz bestreuet. <gap/> <gap/> Auf diese Art kan man auch Erlitzen und Sengelein bachen. </p>
             </div>
         </body>
     </text>

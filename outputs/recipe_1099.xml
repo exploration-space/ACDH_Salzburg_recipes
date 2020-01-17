@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Take your Pease, and in Shelling separate the young from the old; then boil the old Ones soft enough to strain through a Culander; then put the Liquor and what you strain 'd together. To the young Pease whole, add some whole Pepper, two or three Blades of Mace, and some Cloves. When the last Pease are near enough, take some Spinage, a little Mint, and a little green Onion cut small, a Fagot of Thyme and sweet Marjoram; put these into a little Sauce-pan with near a Pound of <objectName ref="butter">Butter</objectName>; and as they boil up shake in some Flour to boil with it; then put a Loaf of French Bread into the Broth to boil; mix the Broth and Herbs together. When you have season 'd it with Salt to your Taste, add some small white Toast, and the young Pease. </p>
+        <p> Take your Pease, and in Shelling separate the young from the old; then boil the old Ones soft enough to strain through a Culander; then put the Liquor and what you strain 'd together. To the young Pease whole, add some whole Pepper, two or three Blades of Mace, and some Cloves. When the last Pease are near enough, take some Spinage, a little Mint, and a little green Onion cut small, a Fagot of Thyme and sweet Marjoram; put these into a little Sauce-pan with near a Pound of <objectName ref="#butter">Butter</objectName>; and as they boil up shake in some Flour to boil with it; then put a Loaf of French Bread into the Broth to boil; mix the Broth and Herbs together. When you have season 'd it with Salt to your Taste, add some small white Toast, and the young Pease. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAn laßt die <objectName ref="hering">Hering</objectName> im <objectName ref="wasser">Wasser</objectName> einen kurtzen Sud thun <lb/> hernach abgesiehen <lb/> und mit <objectName ref="butter">Butter</objectName> <lb/> oder Oel <lb/> ein wenig Meel <lb/> mit klein= gehackten Zwibel schön Liecht= gelb geröst <lb/> mit wenig Erbes= <objectName ref="bruehe">Brühe</objectName> <lb/> klein= gehacktesn Petersil= Kräutlein <lb/> und Gewürtz <lb/> die <objectName ref="hering">Hering</objectName> lassen mit aufkochen <lb/> anrichten <lb/> und wol warm zur Tafel gegeben. </p>
+        <p> MAn laßt die <objectName ref="#hering">Hering</objectName> im <objectName ref="#wasser">Wasser</objectName> einen kurtzen Sud thun <lb/> hernach abgesiehen <lb/> und mit <objectName ref="#butter">Butter</objectName> <lb/> oder Oel <lb/> ein wenig Meel <lb/> mit klein= gehackten Zwibel schön Liecht= gelb geröst <lb/> mit wenig Erbes= <objectName ref="#bruehe">Brühe</objectName> <lb/> klein= gehacktesn Petersil= Kräutlein <lb/> und Gewürtz <lb/> die <objectName ref="#hering">Hering</objectName> lassen mit aufkochen <lb/> anrichten <lb/> und wol warm zur Tafel gegeben. </p>
             </div>
         </body>
     </text>

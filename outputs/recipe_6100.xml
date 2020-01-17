@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DErgleichen Kräpfflein <lb/> aus dem Schmaltz gebachen <lb/> und mit Ram auf der <objectName ref="schuessel">Schüssel</objectName> aufsieden lassen; wer will <lb/> färbt sie mit Krebs=Butter. </p>
+        <p> DErgleichen Kräpfflein <lb/> aus dem Schmaltz gebachen <lb/> und mit Ram auf der <objectName ref="#schuessel">Schüssel</objectName> aufsieden lassen; wer will <lb/> färbt sie mit Krebs=Butter. </p>
             </div>
         </body>
     </text>

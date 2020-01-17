@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Item nim ( m ) ein handtvoll saltz oder zwo <lb/> vnd so vil äschen <lb/> vnd ein <objectName ref="mass">maß</objectName> oder drey <objectName ref="wasser">wasser</objectName> <lb/> vnd das darvnder rüren <lb/> vnd bald ein <objectName ref="tuch">tuch</objectName> mit eim spundt dafür <lb/> sonst lieffs alles herauß <lb/> vnd laß also versausen. </p>
+        <p> Item nim ( m ) ein handtvoll saltz oder zwo <lb/> vnd so vil äschen <lb/> vnd ein <objectName ref="#mass">maß</objectName> oder drey <objectName ref="#wasser">wasser</objectName> <lb/> vnd das darvnder rüren <lb/> vnd bald ein <objectName ref="#tuch">tuch</objectName> mit eim spundt dafür <lb/> sonst lieffs alles herauß <lb/> vnd laß also versausen. </p>
             </div>
         </body>
     </text>

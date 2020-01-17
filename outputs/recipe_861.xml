@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wann sie noch frisch seynd <lb/> oder gedörrter <lb/> wie auch <objectName ref="pflaumen">Pflaumen</objectName> <lb/> Fortäschen <lb/> u. können denen Spänlingen gleich verkocht werden <lb/> wie in diesem Capitel zu sehen. </p>
+        <p> Wann sie noch frisch seynd <lb/> oder gedörrter <lb/> wie auch <objectName ref="#pflaumen">Pflaumen</objectName> <lb/> Fortäschen <lb/> u. können denen Spänlingen gleich verkocht werden <lb/> wie in diesem Capitel zu sehen. </p>
             </div>
         </body>
     </text>

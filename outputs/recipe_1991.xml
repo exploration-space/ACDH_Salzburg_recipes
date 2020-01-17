@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein schen Mell, vnd brens mit einem haissen <objectName ref="schmalz">schmalz</objectName> ab, rührs <lb/> glat ab, nimb aÿr doter, vnd gar ein Wenig frischen Rämb dar= <lb/> undter, mach den taig fest an, Wie ein Schneebalntaig, khanstu <lb/> drein fühlen Was du Wilt, gehackhte brätl oder ÿberbrents <objectName ref="fleisch">fleisch</objectName> <lb/> khlein gehackht, vnd in Buter gerösst, Weinböhr vnd stup darunder <lb/> gerührt, vnd in taig eingefühlt, leg Lemonÿ darzue, mit gehackhten <lb/> vischen khanstus auch also machen, vormiers wie ein <objectName ref="herz">herz</objectName>. <lb/><lb/> ( 20v ) </p>
+        <p> Nimb ein schen Mell, vnd brens mit einem haissen <objectName ref="#schmalz">schmalz</objectName> ab, rührs <lb/> glat ab, nimb aÿr doter, vnd gar ein Wenig frischen Rämb dar= <lb/> undter, mach den taig fest an, Wie ein Schneebalntaig, khanstu <lb/> drein fühlen Was du Wilt, gehackhte brätl oder ÿberbrents <objectName ref="#fleisch">fleisch</objectName> <lb/> khlein gehackht, vnd in Buter gerösst, Weinböhr vnd stup darunder <lb/> gerührt, vnd in taig eingefühlt, leg Lemonÿ darzue, mit gehackhten <lb/> vischen khanstus auch also machen, vormiers wie ein <objectName ref="#herz">herz</objectName>. <lb/><lb/> ( 20v ) </p>
             </div>
         </body>
     </text>

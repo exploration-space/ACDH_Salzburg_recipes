@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein doter in ein häferl, nach dem du vil machen Wilt, <lb/> geuß darein ein gueten <objectName ref="wein">Wein</objectName>, Zukher, ein wenig schens mell, vnd <lb/> <objectName ref="wasser">Wasser</objectName>, ein khlains wenig Saffran, sprigls als undereinander, <lb/> seiche es in ein Messingens pfändl, Puluers mit Zimetstup, leg <lb/> ein stükhlein Puter drein, khochs alles fein glat herab, Wie ein <lb/> khinds mießl, braucht auch schier so lang Sieden. <lb/> </p>
+        <p> Nimb ein doter in ein häferl, nach dem du vil machen Wilt, <lb/> geuß darein ein gueten <objectName ref="#wein">Wein</objectName>, Zukher, ein wenig schens mell, vnd <lb/> <objectName ref="#wasser">Wasser</objectName>, ein khlains wenig Saffran, sprigls als undereinander, <lb/> seiche es in ein Messingens pfändl, Puluers mit Zimetstup, leg <lb/> ein stükhlein Puter drein, khochs alles fein glat herab, Wie ein <lb/> khinds mießl, braucht auch schier so lang Sieden. <lb/> </p>
             </div>
         </body>
     </text>

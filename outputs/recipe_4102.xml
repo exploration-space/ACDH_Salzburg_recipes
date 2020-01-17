@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn du dergleichen bekommst <lb/> so schneid das Weiche herab <lb/> <objectName ref="bruehe">brühe</objectName> sie im heissen <objectName ref="wasser">Wasser</objectName> <lb/> so gehen die Haar herab; butze sie sauber <lb/> und siede sie sammt der Gail von Hirschen <lb/> in gesaltzenem <objectName ref="wasser">Wasser</objectName> und Eßig <lb/> wann sie gesotten <lb/> gebutzt <lb/> und wieder kalt seynd; so schneide sie geblättelt <lb/> gewürtz und rösts in <objectName ref="butter">Butter</objectName> <lb/> gibs mit Lemoni= Safft in der Fricasse, oder anderen guten <lb/> gelben Zwibel= <objectName ref="bruehe">Brühe</objectName>. </p>
+        <p> WAnn du dergleichen bekommst <lb/> so schneid das Weiche herab <lb/> <objectName ref="#bruehe">brühe</objectName> sie im heissen <objectName ref="#wasser">Wasser</objectName> <lb/> so gehen die Haar herab; butze sie sauber <lb/> und siede sie sammt der Gail von Hirschen <lb/> in gesaltzenem <objectName ref="#wasser">Wasser</objectName> und Eßig <lb/> wann sie gesotten <lb/> gebutzt <lb/> und wieder kalt seynd; so schneide sie geblättelt <lb/> gewürtz und rösts in <objectName ref="#butter">Butter</objectName> <lb/> gibs mit Lemoni= Safft in der Fricasse, oder anderen guten <lb/> gelben Zwibel= <objectName ref="#bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

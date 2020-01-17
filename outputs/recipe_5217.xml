@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Gerößt Erbeß mit <objectName ref="speck">Speck</objectName> in einer Turtenpfannen <lb/> daß sie vnten vnd oben braun seyn <lb/> daß man sie gantz auß der Turtenpfannen anricht <lb/> vn ( d ) warm auff ein <objectName ref="tisch">Tisch</objectName> gibt. </p>
+        <p> Gerößt Erbeß mit <objectName ref="#speck">Speck</objectName> in einer Turtenpfannen <lb/> daß sie vnten vnd oben braun seyn <lb/> daß man sie gantz auß der Turtenpfannen anricht <lb/> vn ( d ) warm auff ein <objectName ref="#tisch">Tisch</objectName> gibt. </p>
             </div>
         </body>
     </text>

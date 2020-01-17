@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Lämmernfüß eyngemacht in ein auffgetriebene <objectName ref="pastete">Pasteten</objectName> von weissem <objectName ref="teig">Teig</objectName> <lb/> thu <objectName ref="ingwer">Ingwer</objectName> <lb/> Saltz vnd vngeschmältzte <objectName ref="butter">Butter</objectName> <lb/> die frisch ist <lb/> darüber <lb/> machs zu <lb/> vnd scheubs in <objectName ref="ofen">Ofen</objectName> <lb/> wenns gebacken ist <lb/> so schneidt es auff <lb/> geuß ein saure Brüh von Eyerdottern gemacht <lb/> darüber <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
+        <p> Lämmernfüß eyngemacht in ein auffgetriebene <objectName ref="#pastete">Pasteten</objectName> von weissem <objectName ref="#teig">Teig</objectName> <lb/> thu <objectName ref="#ingwer">Ingwer</objectName> <lb/> Saltz vnd vngeschmältzte <objectName ref="#butter">Butter</objectName> <lb/> die frisch ist <lb/> darüber <lb/> machs zu <lb/> vnd scheubs in <objectName ref="#ofen">Ofen</objectName> <lb/> wenns gebacken ist <lb/> so schneidt es auff <lb/> geuß ein saure Brüh von Eyerdottern gemacht <lb/> darüber <lb/> gibs warm auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

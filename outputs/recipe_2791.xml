@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SO etwan vor einen Krancken nur ein wenig dergleichen Sultze verlangt würde <lb/> hacket ein halbes <objectName ref="huhn">Huhn</objectName> und einen Kalbes= Fuß beedes klein <lb/> leget eine Muscatblume darzu <lb/> siedets gleich denen vorigen in einer Flaschen <lb/> zwingets <lb/> wann sie fertig sind <lb/> durch <lb/> und gebet dem Kranken davon nach belieben. </p>
+        <p> SO etwan vor einen Krancken nur ein wenig dergleichen Sultze verlangt würde <lb/> hacket ein halbes <objectName ref="#huhn">Huhn</objectName> und einen Kalbes= Fuß beedes klein <lb/> leget eine Muscatblume darzu <lb/> siedets gleich denen vorigen in einer Flaschen <lb/> zwingets <lb/> wann sie fertig sind <lb/> durch <lb/> und gebet dem Kranken davon nach belieben. </p>
             </div>
         </body>
     </text>

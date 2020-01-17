@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BUtze die Pfifferlinge reinlich <lb/> legs in ein frisches <objectName ref="wasser">Wasser</objectName> <lb/> wasche und saltze sie <lb/> thue ein wenig <objectName ref="kuemmel">Kümmel</objectName> daran <lb/> schwings in der <objectName ref="schuessel">Schüssel</objectName> herum; legs in ein heisses Schmaltz oder <objectName ref="butter">Butter</objectName> <lb/> laß rösten <lb/> biß sie braun und rösch werden : seihe dann ein wenig <objectName ref="butter">Butter</objectName> oder Schmaltz davon herab <lb/> richte sie in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und streue ein wenig <objectName ref="pfeffer">Pfeffer</objectName> darauf. </p>
+        <p> BUtze die Pfifferlinge reinlich <lb/> legs in ein frisches <objectName ref="#wasser">Wasser</objectName> <lb/> wasche und saltze sie <lb/> thue ein wenig <objectName ref="#kuemmel">Kümmel</objectName> daran <lb/> schwings in der <objectName ref="#schuessel">Schüssel</objectName> herum; legs in ein heisses Schmaltz oder <objectName ref="#butter">Butter</objectName> <lb/> laß rösten <lb/> biß sie braun und rösch werden : seihe dann ein wenig <objectName ref="#butter">Butter</objectName> oder Schmaltz davon herab <lb/> richte sie in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> und streue ein wenig <objectName ref="#pfeffer">Pfeffer</objectName> darauf. </p>
             </div>
         </body>
     </text>

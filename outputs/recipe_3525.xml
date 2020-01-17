@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Krebs= Kräpfflein <lb/> in süssen Ram aufgesotten <lb/> oder mit Krebs= Schweifflein <lb/> abgeschlagenen Eyern <lb/> und klein= gehackten Petersil= Kräutlein <lb/> und wenig Saltz vermischt <lb/> gibt ein gute Fridada, in einer weiten Pfannen <lb/> mit <objectName ref="butter">Butter</objectName> <lb/> oder Oel : man kans auch mit doppelter <objectName ref="glut">Glut</objectName> trücknen. </p>
+        <p> DIe Krebs= Kräpfflein <lb/> in süssen Ram aufgesotten <lb/> oder mit Krebs= Schweifflein <lb/> abgeschlagenen Eyern <lb/> und klein= gehackten Petersil= Kräutlein <lb/> und wenig Saltz vermischt <lb/> gibt ein gute Fridada, in einer weiten Pfannen <lb/> mit <objectName ref="#butter">Butter</objectName> <lb/> oder Oel : man kans auch mit doppelter <objectName ref="#glut">Glut</objectName> trücknen. </p>
             </div>
         </body>
     </text>

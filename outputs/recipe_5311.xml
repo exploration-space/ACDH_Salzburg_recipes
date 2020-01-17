@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) verlorne Eyer <lb/> geuß ein wenig Erbeßbrüh vnd frische <objectName ref="butter">Butter</objectName> darüber <lb/> setz auff Kolen <lb/> vnd laß wol warm werden <lb/> wenn du es wilt auff ein <objectName ref="tisch">Tisch</objectName> geben <lb/> so thu sauren Senff <lb/> der mit <objectName ref="essig">Essig</objectName> ist angemacht <lb/> darüber <lb/> so ist es gut vnd wolgeschmack. </p>
+        <p> Nim ( m ) verlorne Eyer <lb/> geuß ein wenig Erbeßbrüh vnd frische <objectName ref="#butter">Butter</objectName> darüber <lb/> setz auff Kolen <lb/> vnd laß wol warm werden <lb/> wenn du es wilt auff ein <objectName ref="#tisch">Tisch</objectName> geben <lb/> so thu sauren Senff <lb/> der mit <objectName ref="#essig">Essig</objectName> ist angemacht <lb/> darüber <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

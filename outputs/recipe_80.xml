@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Erstlich Nimb die Heislen<gap/> von den <lb/> Krepsen so Gesodten<gap/> sein hackhs <lb/> khlein vnnd schlag Ayr<gap/> daran vnd <lb/> ein wenig semel bressl<gap/> vnnd <lb/> siess obers<gap/> Rieh<gap/> es alles durcheinder <lb/> vnnd Gies<gap/> in das Därmmel<gap/> vnd <lb/> Nimb ein Khreps butter<gap/> darzue <lb/> vnnd sietts<gap/> hernach brens<gap/> in <objectName ref="butter">butter</objectName> <lb/> ein Richts Auf ein schisßl<gap/> Gies arbes <lb/> brie<gap/> daran vnnd Khreps <objectName ref="butter">butter</objectName>. <lb/> </p>
+        <p> Erstlich Nimb die Heislen<gap/> von den <lb/> Krepsen so Gesodten<gap/> sein hackhs <lb/> khlein vnnd schlag Ayr<gap/> daran vnd <lb/> ein wenig semel bressl<gap/> vnnd <lb/> siess obers<gap/> Rieh<gap/> es alles durcheinder <lb/> vnnd Gies<gap/> in das Därmmel<gap/> vnd <lb/> Nimb ein Khreps butter<gap/> darzue <lb/> vnnd sietts<gap/> hernach brens<gap/> in <objectName ref="#butter">butter</objectName> <lb/> ein Richts Auf ein schisßl<gap/> Gies arbes <lb/> brie<gap/> daran vnnd Khreps <objectName ref="#butter">butter</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb der durchschlagnen khitten ½ lt. schneid darunder <lb/> Zitronÿ nur das gelb vnd khrefftigiste, rühr dieselben stethig, <lb/> nimb darunder khlein gestossen Zukher 8. <objectName ref="loth">loth</objectName>. vnd 6. Neugelegte <lb/> Aÿr, das khlar Welches abgespridlt sein mueß, das so dikh vnd <lb/> Weiß wird wie ein <objectName ref="milch">milch</objectName>, den Zukher vnd khlar also nach vnd <lb/> nach in die khitten gerührt, man mueß auch gar lang rühren, <lb/> 2. oder 3. stundt, so sehs Wie ein lautern schimmerb, alßdan <lb/> auf ein schißlring dar noch ein Wenig höcher, ein <objectName ref="papier">Papier</objectName> darüber, <lb/> oben vnd unden ein subtiles glietlein, so gehts noch mehr auf, <lb/> laß also gemach bachen ein halbe stundt. <lb/> </p>
+        <p> Nimb der durchschlagnen khitten ½ lt. schneid darunder <lb/> Zitronÿ nur das gelb vnd khrefftigiste, rühr dieselben stethig, <lb/> nimb darunder khlein gestossen Zukher 8. <objectName ref="#loth">loth</objectName>. vnd 6. Neugelegte <lb/> Aÿr, das khlar Welches abgespridlt sein mueß, das so dikh vnd <lb/> Weiß wird wie ein <objectName ref="#milch">milch</objectName>, den Zukher vnd khlar also nach vnd <lb/> nach in die khitten gerührt, man mueß auch gar lang rühren, <lb/> 2. oder 3. stundt, so sehs Wie ein lautern schimmerb, alßdan <lb/> auf ein schißlring dar noch ein Wenig höcher, ein <objectName ref="#papier">Papier</objectName> darüber, <lb/> oben vnd unden ein subtiles glietlein, so gehts noch mehr auf, <lb/> laß also gemach bachen ein halbe stundt. <lb/> </p>
             </div>
         </body>
     </text>

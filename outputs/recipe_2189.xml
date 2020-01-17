@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Sied den höchten, Wie er recht blab sein soll, schell den auß von den <lb/> gräden, hakh ihn khlain, Zerlasß ein Puter in einer Pfann, ein Wenig <lb/> Semblprasen Zwischen zween finger also gar ein Wenig, in der pfan, <lb/> geuß drein ein guete Arbesbrüe in ein Reindl an das gehäkh, <lb/><lb/> ( 48r ) Mußcatblüe vnd Zimet, Wan mans Will anrichten, leg frischen Buter <lb/> dran, hat mans gern gseürt, khan man ein Wenig <objectName ref="essig">Essig</objectName> daran thuen, <lb/> also Woll gesoten Warm geben, Wer gern khreitl hat, khan Peter= <lb/> sill darein geschniten Werden. <lb/> </p>
+        <p> Sied den höchten, Wie er recht blab sein soll, schell den auß von den <lb/> gräden, hakh ihn khlain, Zerlasß ein Puter in einer Pfann, ein Wenig <lb/> Semblprasen Zwischen zween finger also gar ein Wenig, in der pfan, <lb/> geuß drein ein guete Arbesbrüe in ein Reindl an das gehäkh, <lb/><lb/> ( 48r ) Mußcatblüe vnd Zimet, Wan mans Will anrichten, leg frischen Buter <lb/> dran, hat mans gern gseürt, khan man ein Wenig <objectName ref="#essig">Essig</objectName> daran thuen, <lb/> also Woll gesoten Warm geben, Wer gern khreitl hat, khan Peter= <lb/> sill darein geschniten Werden. <lb/> </p>
             </div>
         </body>
     </text>

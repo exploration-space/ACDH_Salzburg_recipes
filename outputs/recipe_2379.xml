@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAschet gute schwartze Weinbeer aus einem <objectName ref="wasser">Wasser</objectName> <lb/> trocknet sie auf einem <objectName ref="tuch">Tuch</objectName> wieder ab <lb/> setzet sie mit ein wenig <objectName ref="wein">Wein</objectName> in einem reinen <objectName ref="hafen">Hafen</objectName> zum <objectName ref="feuer">Feuer</objectName> <lb/> last selbige aber nicht sieden <lb/> sondern nur allein aufspringen; schlagets dann durch ein <objectName ref="sieb">Sieb</objectName> <lb/> last dieses durchgeschlagene ein klein wenig dünsten <lb/> und hebet es dann auf zu beliebigen Gebrauch <lb/> fürnemlich aber zu mancherley schwartzen <objectName ref="bruehe">Brühen</objectName>; wie wol man sie auch an statt einer Salsen zum Gebratens aufsetzen kan. </p>
+        <p> WAschet gute schwartze Weinbeer aus einem <objectName ref="#wasser">Wasser</objectName> <lb/> trocknet sie auf einem <objectName ref="#tuch">Tuch</objectName> wieder ab <lb/> setzet sie mit ein wenig <objectName ref="#wein">Wein</objectName> in einem reinen <objectName ref="#hafen">Hafen</objectName> zum <objectName ref="#feuer">Feuer</objectName> <lb/> last selbige aber nicht sieden <lb/> sondern nur allein aufspringen; schlagets dann durch ein <objectName ref="#sieb">Sieb</objectName> <lb/> last dieses durchgeschlagene ein klein wenig dünsten <lb/> und hebet es dann auf zu beliebigen Gebrauch <lb/> fürnemlich aber zu mancherley schwartzen <objectName ref="#bruehe">Brühen</objectName>; wie wol man sie auch an statt einer Salsen zum Gebratens aufsetzen kan. </p>
             </div>
         </body>
     </text>

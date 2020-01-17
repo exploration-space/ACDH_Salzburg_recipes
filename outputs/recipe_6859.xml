@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Kramatsvögel <lb/> quell vnd säuber sie auß <lb/> spick sie mit Zimmet <lb/> Neglein vnnd <objectName ref="speck">Speck</objectName> <lb/> pfeffers vnnd saltzs <lb/> schneidt gesaltzen Limonien fein breit darüber <lb/> auch klein gehackten <objectName ref="speck">Speck</objectName> <lb/> mach die <objectName ref="pastete">Pasteten</objectName> zu <lb/> vnnd scheubs in <objectName ref="ofen">Ofen</objectName> <lb/> vn ( d ) backs <lb/> schneidt sie auff <lb/> vn ( d ) geuß ein guten Vngerischen <objectName ref="pfeffer">Pfeffer</objectName> darein <lb/> laß damit auffsieden <lb/> vnd gibs warm auff ein <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> Nim ( m ) Kramatsvögel <lb/> quell vnd säuber sie auß <lb/> spick sie mit Zimmet <lb/> Neglein vnnd <objectName ref="#speck">Speck</objectName> <lb/> pfeffers vnnd saltzs <lb/> schneidt gesaltzen Limonien fein breit darüber <lb/> auch klein gehackten <objectName ref="#speck">Speck</objectName> <lb/> mach die <objectName ref="#pastete">Pasteten</objectName> zu <lb/> vnnd scheubs in <objectName ref="#ofen">Ofen</objectName> <lb/> vn ( d ) backs <lb/> schneidt sie auff <lb/> vn ( d ) geuß ein guten Vngerischen <objectName ref="#pfeffer">Pfeffer</objectName> darein <lb/> laß damit auffsieden <lb/> vnd gibs warm auff ein <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

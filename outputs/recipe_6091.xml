@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DAs Schloß=Brätlein wird eingemacht <lb/> und gedämpfft <lb/> mit Lemoni <lb/> Capry <lb/> oder <objectName ref="sardellen">Sardellen</objectName>. </p>
+        <p> DAs Schloß=Brätlein wird eingemacht <lb/> und gedämpfft <lb/> mit Lemoni <lb/> Capry <lb/> oder <objectName ref="#sardellen">Sardellen</objectName>. </p>
             </div>
         </body>
     </text>

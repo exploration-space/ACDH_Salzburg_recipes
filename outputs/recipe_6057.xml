@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm das beste Stuck von dem Bug oder von der Schulter <lb/> gleich frisch <lb/> sauber <lb/> aber ungewaschen <lb/> mach beliebige Stuck <lb/> oder Stücklein darauß <lb/> besprengs mit wenig Saltz <lb/> und kehrs in Meel um <lb/> und bachs <lb/> gleich denen Fischen <lb/> aus heissem Schmaltz <lb/> und dann mit einem Zusatz von dergleichen gebachenen Knödlein=Gehäck <lb/> Schwammen <lb/> Maurachen <lb/> wenig <objectName ref="wein">Wein</objectName> und <objectName ref="fleischbruehe">Fleischbrühe</objectName> ein gutes Rago gemacht. </p>
+        <p> NImm das beste Stuck von dem Bug oder von der Schulter <lb/> gleich frisch <lb/> sauber <lb/> aber ungewaschen <lb/> mach beliebige Stuck <lb/> oder Stücklein darauß <lb/> besprengs mit wenig Saltz <lb/> und kehrs in Meel um <lb/> und bachs <lb/> gleich denen Fischen <lb/> aus heissem Schmaltz <lb/> und dann mit einem Zusatz von dergleichen gebachenen Knödlein=Gehäck <lb/> Schwammen <lb/> Maurachen <lb/> wenig <objectName ref="#wein">Wein</objectName> und <objectName ref="#fleischbruehe">Fleischbrühe</objectName> ein gutes Rago gemacht. </p>
             </div>
         </body>
     </text>

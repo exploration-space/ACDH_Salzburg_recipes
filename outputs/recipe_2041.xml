@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein höchten, thue ihn auf dem Rukhen auf, vonein= <lb/> ander, <objectName ref="salz">salz</objectName> ihn ein, leg ihn hernach auf ein <objectName ref="rost">Rost</objectName>, vnd Prein <lb/> ihn schen ab, vnd Wen er Praun genueg ist, leg ihn in ein <lb/> Pratpfan, besträ ihn mit <objectName ref="naegel">Nägel</objectName> stup, geuß ein khitten= <lb/> safft drüber, laß ihn Sieden. <lb/> </p>
+        <p> Nimb ein höchten, thue ihn auf dem Rukhen auf, vonein= <lb/> ander, <objectName ref="#salz">salz</objectName> ihn ein, leg ihn hernach auf ein <objectName ref="#rost">Rost</objectName>, vnd Prein <lb/> ihn schen ab, vnd Wen er Praun genueg ist, leg ihn in ein <lb/> Pratpfan, besträ ihn mit <objectName ref="#naegel">Nägel</objectName> stup, geuß ein khitten= <lb/> safft drüber, laß ihn Sieden. <lb/> </p>
             </div>
         </body>
     </text>

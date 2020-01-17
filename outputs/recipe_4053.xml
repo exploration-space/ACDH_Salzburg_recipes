@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm abgesottnen Lachs= oder Rhein= Salm= Rogen <lb/> mit Petersil= Kräutlein <lb/> kleingehackten Zwibel <lb/> auch <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> Oel und Eßig angemacht <lb/> ist auch kalter gut zu essen. </p>
+        <p> NImm abgesottnen Lachs= oder Rhein= Salm= Rogen <lb/> mit Petersil= Kräutlein <lb/> kleingehackten Zwibel <lb/> auch <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> Oel und Eßig angemacht <lb/> ist auch kalter gut zu essen. </p>
             </div>
         </body>
     </text>

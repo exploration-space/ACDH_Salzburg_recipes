@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIse gibt man auch mit einem Uberguß von gelber Lemoni= <objectName ref="bruehe">Brühe</objectName>; wie bey den Hechten <lb/> Huchen <lb/> etc. gemeldt worden. </p>
+        <p> DIse gibt man auch mit einem Uberguß von gelber Lemoni= <objectName ref="#bruehe">Brühe</objectName>; wie bey den Hechten <lb/> Huchen <lb/> etc. gemeldt worden. </p>
             </div>
         </body>
     </text>

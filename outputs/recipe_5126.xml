@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wann der Brat gebraten ist <lb/> so nim ( m ) ein wenig Rindernbrüh <lb/> <objectName ref="essig">Essig</objectName> <lb/> gestossen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> vnd laß damit auffsieden. Vnd wenn du es wilt anrichten <lb/> so geuß die Brüh vber den Braten <lb/> so wirdt er braun vnnd wolgeschmack. </p>
+        <p> Wann der Brat gebraten ist <lb/> so nim ( m ) ein wenig Rindernbrüh <lb/> <objectName ref="#essig">Essig</objectName> <lb/> gestossen <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> vnd laß damit auffsieden. Vnd wenn du es wilt anrichten <lb/> so geuß die Brüh vber den Braten <lb/> so wirdt er braun vnnd wolgeschmack. </p>
             </div>
         </body>
     </text>

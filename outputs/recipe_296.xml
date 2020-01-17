@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb einen Gebachnen<gap/> Höchten<gap/> Fißl<gap/> <lb/> ihne Aus, Nimb Ausgefislete<gap/> Krepsen <lb/> Heissl<gap/> Gesodtne<gap/> Maurrachen<gap/>, Rest<gap/> <lb/> Die Maurachen. in Putter, olßdan <lb/> Gewierzes<gap/> vnd Misch alles vndereinander <lb/> ville es also ein als wie Die Kreps <lb/> Pastädtlen, Wan Diese Gebachen<gap/> sein, <lb/> So thues Aus den Wändln<gap/> heraus <lb/> vnnd Mach einen Kleines Löhel<gap/> <lb/> Darein, vnnd Gies<gap/> ein <objectName ref="butter">butter</objectName> Sipl<gap/> <lb/> Darein, Richts Auf ein schisßl<gap/>, <lb/> olso ist es Recht. <lb/> </p>
+        <p> Nimb einen Gebachnen<gap/> Höchten<gap/> Fißl<gap/> <lb/> ihne Aus, Nimb Ausgefislete<gap/> Krepsen <lb/> Heissl<gap/> Gesodtne<gap/> Maurrachen<gap/>, Rest<gap/> <lb/> Die Maurachen. in Putter, olßdan <lb/> Gewierzes<gap/> vnd Misch alles vndereinander <lb/> ville es also ein als wie Die Kreps <lb/> Pastädtlen, Wan Diese Gebachen<gap/> sein, <lb/> So thues Aus den Wändln<gap/> heraus <lb/> vnnd Mach einen Kleines Löhel<gap/> <lb/> Darein, vnnd Gies<gap/> ein <objectName ref="#butter">butter</objectName> Sipl<gap/> <lb/> Darein, Richts Auf ein schisßl<gap/>, <lb/> olso ist es Recht. <lb/> </p>
             </div>
         </body>
     </text>

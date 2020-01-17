@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Puter, spinnät v̈berbren vor ain Wenig, <lb/> nimb Weinpor, Imber, <objectName ref="pfeffer">Pfeffer</objectName>, vnd Mußcat= <lb/> =blüe. <lb/><lb/> ( 65v ) </p>
+        <p> Nimb Puter, spinnät v̈berbren vor ain Wenig, <lb/> nimb Weinpor, Imber, <objectName ref="#pfeffer">Pfeffer</objectName>, vnd Mußcat= <lb/> =blüe. <lb/><lb/> ( 65v ) </p>
             </div>
         </body>
     </text>

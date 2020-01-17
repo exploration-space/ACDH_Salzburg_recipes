@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> PLateis mit klein= gehackten <lb/> und in <objectName ref="butter">Butter</objectName> <lb/> mit wenig Meel Liecht= braun gerösten Zwibel <lb/> und weniger Erbes= <objectName ref="bruehe">Brühe</objectName> <lb/> mit Saltz und Gewürtz lassen kurtz aufkochen <lb/> wann sie zuvor seynd kurtz überbrennt worden. </p>
+        <p> PLateis mit klein= gehackten <lb/> und in <objectName ref="#butter">Butter</objectName> <lb/> mit wenig Meel Liecht= braun gerösten Zwibel <lb/> und weniger Erbes= <objectName ref="#bruehe">Brühe</objectName> <lb/> mit Saltz und Gewürtz lassen kurtz aufkochen <lb/> wann sie zuvor seynd kurtz überbrennt worden. </p>
             </div>
         </body>
     </text>

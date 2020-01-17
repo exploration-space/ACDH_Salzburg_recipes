@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ARtischocken= Kern gedörrter <lb/> in laulechtem <objectName ref="wasser">Wasser</objectName> <lb/> oder <objectName ref="bruehe">Brühe</objectName> wieder aufgeweicht <lb/> werden auch also gekocht <lb/> und gefüllt <lb/> andere aber schneiden sie zu stucken <lb/> und mischens unter allerhand Raguen. </p>
+        <p> ARtischocken= Kern gedörrter <lb/> in laulechtem <objectName ref="#wasser">Wasser</objectName> <lb/> oder <objectName ref="#bruehe">Brühe</objectName> wieder aufgeweicht <lb/> werden auch also gekocht <lb/> und gefüllt <lb/> andere aber schneiden sie zu stucken <lb/> und mischens unter allerhand Raguen. </p>
             </div>
         </body>
     </text>

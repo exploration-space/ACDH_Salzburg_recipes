@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb schen Weiß mell vnd Zukher, Ingber, <objectName ref="pfeffer">pfeffer</objectName>, <objectName ref="naegel">Nägel</objectName>, <lb/> Mußcatblüe, Mußcatnus, Zimet, alles gröblicht Zerstossen, <lb/><lb/> ( 19v ) Ein vierting Mandl grob gestossen, 6. Aÿr doter ein wenig <lb/> Saffran, mach es Zu einem Zelten, trukh es in einen <lb/> Modl, bachs in einem <objectName ref="ofen">ofen</objectName> fein khiel auß, verguldts <lb/> hernach schen. <lb/> </p>
+        <p> Nimb schen Weiß mell vnd Zukher, Ingber, <objectName ref="#pfeffer">pfeffer</objectName>, <objectName ref="#naegel">Nägel</objectName>, <lb/> Mußcatblüe, Mußcatnus, Zimet, alles gröblicht Zerstossen, <lb/><lb/> ( 19v ) Ein vierting Mandl grob gestossen, 6. Aÿr doter ein wenig <lb/> Saffran, mach es Zu einem Zelten, trukh es in einen <lb/> Modl, bachs in einem <objectName ref="#ofen">ofen</objectName> fein khiel auß, verguldts <lb/> hernach schen. <lb/> </p>
             </div>
         </body>
     </text>

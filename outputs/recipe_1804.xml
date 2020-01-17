@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Seuts in ainen <objectName ref="wasser">wasser</objectName>, vnd gieß dasselbige <lb/> <objectName ref="wasser">wasser</objectName> hinwegg, nimb.2. Semelschniten, <lb/> stosß in ain <objectName ref="moerser">Mörser</objectName>, treibs durch mit <objectName ref="wein">wein</objectName>, <lb/> zuggers woll, nimb Imber, <objectName ref="pfeffer">Pfeffer</objectName>, Nä= <lb/> =gel, thues in ain höffen, laß woll Sieden, <lb/> <objectName ref="salz">Salz</objectName> nit hart. <lb/> </p>
+        <p> Seuts in ainen <objectName ref="#wasser">wasser</objectName>, vnd gieß dasselbige <lb/> <objectName ref="#wasser">wasser</objectName> hinwegg, nimb.2. Semelschniten, <lb/> stosß in ain <objectName ref="#moerser">Mörser</objectName>, treibs durch mit <objectName ref="#wein">wein</objectName>, <lb/> zuggers woll, nimb Imber, <objectName ref="#pfeffer">Pfeffer</objectName>, Nä= <lb/> =gel, thues in ain höffen, laß woll Sieden, <lb/> <objectName ref="#salz">Salz</objectName> nit hart. <lb/> </p>
             </div>
         </body>
     </text>

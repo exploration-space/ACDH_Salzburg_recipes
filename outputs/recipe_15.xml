@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein löbzelten<gap/>, reib ihme vnd <lb/><lb/> ( ve 4 ) rest<gap/> ihme in schmalz<gap/>, ein Wönig, <lb/> Giese<gap/> ein Wenig <objectName ref="fleisch">Fleisch</objectName> brüe<gap/> daran, <lb/> nimb Mandl, vnnd Weinpörl<gap/>, <lb/> vnnd thue Gewürz<gap/> Daran lögen, <lb/> lasse es sieden<gap/>, so ists förtig. <lb/> </p>
+        <p> Nimb ein löbzelten<gap/>, reib ihme vnd <lb/><lb/> ( ve 4 ) rest<gap/> ihme in schmalz<gap/>, ein Wönig, <lb/> Giese<gap/> ein Wenig <objectName ref="#fleisch">Fleisch</objectName> brüe<gap/> daran, <lb/> nimb Mandl, vnnd Weinpörl<gap/>, <lb/> vnnd thue Gewürz<gap/> Daran lögen, <lb/> lasse es sieden<gap/>, so ists förtig. <lb/> </p>
             </div>
         </body>
     </text>

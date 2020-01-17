@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm das gantze hintere Viertel <lb/> klopffe dasselbig <lb/> so weit es am <objectName ref="schlegel">Schlegel</objectName> dick und brätig ist; dann spicke ihn mit <objectName ref="knoblauch">Knoblauch</objectName> <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> Salbey <lb/> oder auch nur mit <objectName ref="sardellen">Sardellen</objectName> <lb/> auch nur wohl mit Petersil= <objectName ref="kraut">Kraut</objectName> allein; stecke den Braten am Spiß <lb/> und brate ihn fein mit <objectName ref="butter">Butter</objectName> im Safft <lb/> mit schöner Farb; gibs mit seiner <objectName ref="bruehe">Brühe</objectName> aus der Bratpfannen <lb/> ohne das Fette <lb/> mit wenig Eßig <lb/> Lemoni= oder Pomerantzen= Safft <lb/> oder Schaalen. </p>
+        <p> NImm das gantze hintere Viertel <lb/> klopffe dasselbig <lb/> so weit es am <objectName ref="#schlegel">Schlegel</objectName> dick und brätig ist; dann spicke ihn mit <objectName ref="#knoblauch">Knoblauch</objectName> <lb/> <objectName ref="#rosmarin">Rosmarin</objectName> <lb/> Salbey <lb/> oder auch nur mit <objectName ref="#sardellen">Sardellen</objectName> <lb/> auch nur wohl mit Petersil= <objectName ref="#kraut">Kraut</objectName> allein; stecke den Braten am Spiß <lb/> und brate ihn fein mit <objectName ref="#butter">Butter</objectName> im Safft <lb/> mit schöner Farb; gibs mit seiner <objectName ref="#bruehe">Brühe</objectName> aus der Bratpfannen <lb/> ohne das Fette <lb/> mit wenig Eßig <lb/> Lemoni= oder Pomerantzen= Safft <lb/> oder Schaalen. </p>
             </div>
         </body>
     </text>

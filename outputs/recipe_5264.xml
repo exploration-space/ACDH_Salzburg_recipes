@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm das abgelöste Brät von den zwey Schleglein <lb/> mit zusatz von Kalb= oder Capaun= <objectName ref="fleisch">Fleisch</objectName> <lb/> saltz und gewürtz es; hacke es mit genugsamen <objectName ref="speck">Speck</objectName> <lb/> gar wenig Zwibel <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> Coriander <lb/> <objectName ref="rosmarin">Rosmarin</objectName> und Petersil= Kräutlein <lb/> machs an mit wenig <objectName ref="wasser">Wasser</objectName> <lb/> oder kalter Fleisch= <objectName ref="bruehe">Brühe</objectName> <lb/> fülls in die Därm <lb/> und brats <lb/> wie andere Bratwürst. </p>
+        <p> NImm das abgelöste Brät von den zwey Schleglein <lb/> mit zusatz von Kalb= oder Capaun= <objectName ref="#fleisch">Fleisch</objectName> <lb/> saltz und gewürtz es; hacke es mit genugsamen <objectName ref="#speck">Speck</objectName> <lb/> gar wenig Zwibel <lb/> <objectName ref="#knoblauch">Knoblauch</objectName> <lb/> Coriander <lb/> <objectName ref="#rosmarin">Rosmarin</objectName> und Petersil= Kräutlein <lb/> machs an mit wenig <objectName ref="#wasser">Wasser</objectName> <lb/> oder kalter Fleisch= <objectName ref="#bruehe">Brühe</objectName> <lb/> fülls in die Därm <lb/> und brats <lb/> wie andere Bratwürst. </p>
             </div>
         </body>
     </text>

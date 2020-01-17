@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) <objectName ref="bier">Biern</objectName> <lb/> schel sie <lb/> vnd schneidt sie voneinander zu vier theilen <lb/> wirff sie in heisse <objectName ref="butter">Butter</objectName> <lb/> vnnd breun sie auß <lb/> thu sie in ein <objectName ref="fischkessel">Fischkessel</objectName> <lb/> der vberzindt ist <lb/> thu auch darein Aniß <lb/> vnd ein wenig gestossenen Zimmet <lb/> geuß süssen <objectName ref="wein">Wein</objectName> <lb/> der gesotten ist <lb/> darüber <lb/> so darffstu kein <objectName ref="zucker">Zucker</objectName> darein <lb/> laß damit auffsieden <lb/> richt sie an <lb/> vnd besträw sie mit <objectName ref="zucker">Zucker</objectName>. </p>
+        <p> Nim ( m ) <objectName ref="#bier">Biern</objectName> <lb/> schel sie <lb/> vnd schneidt sie voneinander zu vier theilen <lb/> wirff sie in heisse <objectName ref="#butter">Butter</objectName> <lb/> vnnd breun sie auß <lb/> thu sie in ein <objectName ref="#fischkessel">Fischkessel</objectName> <lb/> der vberzindt ist <lb/> thu auch darein Aniß <lb/> vnd ein wenig gestossenen Zimmet <lb/> geuß süssen <objectName ref="#wein">Wein</objectName> <lb/> der gesotten ist <lb/> darüber <lb/> so darffstu kein <objectName ref="#zucker">Zucker</objectName> darein <lb/> laß damit auffsieden <lb/> richt sie an <lb/> vnd besträw sie mit <objectName ref="#zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

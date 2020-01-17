@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Richte die Carminatl Zu wie <lb/> sunsten breins<gap/> auf den <objectName ref="rost">Rost</objectName> nit <lb/> gar Zu braun, thue ein <objectName ref="essig">Essig</objectName> in ein schiesel<gap/> Gestessner<gap/> Rolchenpoll<gap/> oder <lb/> schärlotln<gap/> las ein wönig siedten<gap/> leg <lb/> hernach die Carminatl drein las <lb/> noch ein wönig bregln<gap/> so seindt <lb/> sie förtig <lb/><lb/> ( Z-U II 027 ) </p>
+        <p> Richte die Carminatl Zu wie <lb/> sunsten breins<gap/> auf den <objectName ref="#rost">Rost</objectName> nit <lb/> gar Zu braun, thue ein <objectName ref="#essig">Essig</objectName> in ein schiesel<gap/> Gestessner<gap/> Rolchenpoll<gap/> oder <lb/> schärlotln<gap/> las ein wönig siedten<gap/> leg <lb/> hernach die Carminatl drein las <lb/> noch ein wönig bregln<gap/> so seindt <lb/> sie förtig <lb/><lb/> ( Z-U II 027 ) </p>
             </div>
         </body>
     </text>

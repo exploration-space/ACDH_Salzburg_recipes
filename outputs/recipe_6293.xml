@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Lungenmuß von einem wilden Schwein. Du kanst auch die <objectName ref="lunge">Lungen</objectName> füllen. </p>
+        <p> Lungenmuß von einem wilden Schwein. Du kanst auch die <objectName ref="#lunge">Lungen</objectName> füllen. </p>
             </div>
         </body>
     </text>

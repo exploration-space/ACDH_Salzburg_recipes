@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm erstlich aufgeschnittnes Brod in die <objectName ref="schuessel">Schüssel</objectName> <lb/> mische darunter frisch= und klein= gehacktes Oschenmarck <lb/> gewürtz mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> und Muscatnuß <lb/> setz die <objectName ref="schuessel">Schüssel</objectName> damit auf eine Glut= Pfann <lb/> giesse solche mi guter <objectName ref="fleischbruehe">Fleischbrühe</objectName> voll an <lb/> bedecks <lb/> und wanns aufsiedet <lb/> so lege die verlohrne Eyer auf die Mitt : streue geriebnen Parmesan= Käß darauf <lb/> fahre mit dem Daum herum <lb/> und trags auf. </p>
+        <p> NImm erstlich aufgeschnittnes Brod in die <objectName ref="#schuessel">Schüssel</objectName> <lb/> mische darunter frisch= und klein= gehacktes Oschenmarck <lb/> gewürtz mit <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> und Muscatnuß <lb/> setz die <objectName ref="#schuessel">Schüssel</objectName> damit auf eine Glut= Pfann <lb/> giesse solche mi guter <objectName ref="#fleischbruehe">Fleischbrühe</objectName> voll an <lb/> bedecks <lb/> und wanns aufsiedet <lb/> so lege die verlohrne Eyer auf die Mitt : streue geriebnen Parmesan= Käß darauf <lb/> fahre mit dem Daum herum <lb/> und trags auf. </p>
             </div>
         </body>
     </text>

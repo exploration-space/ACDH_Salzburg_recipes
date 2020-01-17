@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Thue ihn auf, schiepp ihn, sein sie khlain, so mach Prezen <lb/> höchten, <objectName ref="salz">salz</objectName> ein, seud ein sauers khraut, brens mit <lb/> <objectName ref="schmalz">schmalz</objectName> vnd mell ein, laß Woll ein brüe dran, leg den <lb/> höchten darunder, gewürzt mit Mußcatblüe, <objectName ref="pfeffer">Pfeffer</objectName> vnd <lb/> Imberstup, und gilbs, laß also Sieden. <lb/><lb/> ( 27r ) </p>
+        <p> Thue ihn auf, schiepp ihn, sein sie khlain, so mach Prezen <lb/> höchten, <objectName ref="#salz">salz</objectName> ein, seud ein sauers khraut, brens mit <lb/> <objectName ref="#schmalz">schmalz</objectName> vnd mell ein, laß Woll ein brüe dran, leg den <lb/> höchten darunder, gewürzt mit Mußcatblüe, <objectName ref="#pfeffer">Pfeffer</objectName> vnd <lb/> Imberstup, und gilbs, laß also Sieden. <lb/><lb/> ( 27r ) </p>
             </div>
         </body>
     </text>

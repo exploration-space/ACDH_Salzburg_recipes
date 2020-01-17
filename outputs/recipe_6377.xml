@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) <objectName ref="griess">Grieß</objectName> <lb/> vnd brenn jn in einem <objectName ref="fischkessel">Fischkessel</objectName> <lb/> vnd schlag Eyer vnter die <objectName ref="milch">Milch</objectName> <lb/> vnd gelbs <lb/> laß durch ein Härin <objectName ref="tuch">Tuch</objectName> lauffen <lb/> rürs im eyngebrennten <objectName ref="griess">Grieß</objectName> <lb/> biß daß auffseudt <lb/> so wirt es fein dick. Wenns gesotten ist <lb/> so machs braun mit einer Küpffern Hafendeck <lb/> so wirt es zierlich vnd wolgeschmack. Vnd wenn du es warm anrichtest <lb/> magstu es zurichten wie du wilt. </p>
+        <p> Nim ( m ) <objectName ref="#griess">Grieß</objectName> <lb/> vnd brenn jn in einem <objectName ref="#fischkessel">Fischkessel</objectName> <lb/> vnd schlag Eyer vnter die <objectName ref="#milch">Milch</objectName> <lb/> vnd gelbs <lb/> laß durch ein Härin <objectName ref="#tuch">Tuch</objectName> lauffen <lb/> rürs im eyngebrennten <objectName ref="#griess">Grieß</objectName> <lb/> biß daß auffseudt <lb/> so wirt es fein dick. Wenns gesotten ist <lb/> so machs braun mit einer Küpffern Hafendeck <lb/> so wirt es zierlich vnd wolgeschmack. Vnd wenn du es warm anrichtest <lb/> magstu es zurichten wie du wilt. </p>
             </div>
         </body>
     </text>

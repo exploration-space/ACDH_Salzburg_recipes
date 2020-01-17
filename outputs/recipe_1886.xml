@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Mach von dreÿ oder 4. Aÿrn ein taiglein an, darnach <lb/> nimb ein guete süsse obere <objectName ref="milch">milch</objectName> in ein saubers häf= <lb/> erlein, leg ein khnolln lindes <objectName ref="schmalz">schmalz</objectName> drein, sez Zue, <lb/> das sie Warm Wird, wan sie dan Siedet, so gieß <lb/> das obgemelte taigl tröpflet fein langsamb drein, <lb/> laß also Sieden, Wiltus Süsß haben, so Zuggers, vnd <lb/> gibs Warmb. <lb/> </p>
+        <p> Mach von dreÿ oder 4. Aÿrn ein taiglein an, darnach <lb/> nimb ein guete süsse obere <objectName ref="#milch">milch</objectName> in ein saubers häf= <lb/> erlein, leg ein khnolln lindes <objectName ref="#schmalz">schmalz</objectName> drein, sez Zue, <lb/> das sie Warm Wird, wan sie dan Siedet, so gieß <lb/> das obgemelte taigl tröpflet fein langsamb drein, <lb/> laß also Sieden, Wiltus Süsß haben, so Zuggers, vnd <lb/> gibs Warmb. <lb/> </p>
             </div>
         </body>
     </text>

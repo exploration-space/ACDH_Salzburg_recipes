@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> EIn oder mehr Schaafs= Köpflein müssen wohl gesotten <lb/> die Zung und das <objectName ref="fleisch">Fleisch</objectName> darvon abgelößt <lb/> wohl gesäubert <lb/> zu feinen Schnitzlein geschnitten <lb/> und ein Fricasse daraus gemacht werden <lb/> mit Eyerdottern <lb/> <objectName ref="butter">Butter</objectName> und Eßig <lb/> und zuletzt wird klein= geschnittnes Petersil= Kräutl in darein gethan <lb/> mit sammt Gewürtz und nothwendigem Saltz <lb/> auch einen mit Näglein besteckten Zwibel <lb/> und Lemoni= Safft. </p>
+        <p> EIn oder mehr Schaafs= Köpflein müssen wohl gesotten <lb/> die Zung und das <objectName ref="#fleisch">Fleisch</objectName> darvon abgelößt <lb/> wohl gesäubert <lb/> zu feinen Schnitzlein geschnitten <lb/> und ein Fricasse daraus gemacht werden <lb/> mit Eyerdottern <lb/> <objectName ref="#butter">Butter</objectName> und Eßig <lb/> und zuletzt wird klein= geschnittnes Petersil= Kräutl in darein gethan <lb/> mit sammt Gewürtz und nothwendigem Saltz <lb/> auch einen mit Näglein besteckten Zwibel <lb/> und Lemoni= Safft. </p>
             </div>
         </body>
     </text>

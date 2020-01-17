@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Ruben sammt der Schelffen im <objectName ref="ofen">Ofen</objectName> <lb/> oder in der <objectName ref="glut">Glut</objectName> wol gebräunt <lb/> dann gescheelt <lb/> zu <objectName ref="raedlein">Rädlein</objectName> geschnitten <lb/> gibt man mit <objectName ref="zucker">Zucker</objectName> <lb/> Eßig und Oel. </p>
+        <p> DIe Ruben sammt der Schelffen im <objectName ref="#ofen">Ofen</objectName> <lb/> oder in der <objectName ref="#glut">Glut</objectName> wol gebräunt <lb/> dann gescheelt <lb/> zu <objectName ref="#raedlein">Rädlein</objectName> geschnitten <lb/> gibt man mit <objectName ref="#zucker">Zucker</objectName> <lb/> Eßig und Oel. </p>
             </div>
         </body>
     </text>

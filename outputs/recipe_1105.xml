@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Pull your Hare to Pieces, bruise the Bones, and put it into a Stew-pan with three Pints of strong Broth; at the same Time put in an Onion, and a Fagot of Sweet Herbs. Let it stew leisurely for four Hours; then put in a Pint of Claret, let it stew two or three Hours longer till it is tender; then take out what bones you can find, the Herbs and Onions. Put in an Anchovy or two with the Claret; shake it up with Half a Pound of <objectName ref="butter">Butter</objectName>, when ready for the Table. </p>
+        <p> Pull your Hare to Pieces, bruise the Bones, and put it into a Stew-pan with three Pints of strong Broth; at the same Time put in an Onion, and a Fagot of Sweet Herbs. Let it stew leisurely for four Hours; then put in a Pint of Claret, let it stew two or three Hours longer till it is tender; then take out what bones you can find, the Herbs and Onions. Put in an Anchovy or two with the Claret; shake it up with Half a Pound of <objectName ref="#butter">Butter</objectName>, when ready for the Table. </p>
             </div>
         </body>
     </text>

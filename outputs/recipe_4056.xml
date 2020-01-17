@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn der eingesaltzne <objectName ref="lachs">Lachs</objectName> <lb/> oder Rhein= Salm gesotten <lb/> kan er mit <objectName ref="butter">Butter</objectName> <lb/> Erbsen= <objectName ref="bruehe">Brühe</objectName> und Senff <lb/> oder Mostart zugericht <lb/> die Haut zuruck gethan <lb/> und gegeben werden. </p>
+        <p> WAnn der eingesaltzne <objectName ref="#lachs">Lachs</objectName> <lb/> oder Rhein= Salm gesotten <lb/> kan er mit <objectName ref="#butter">Butter</objectName> <lb/> Erbsen= <objectName ref="#bruehe">Brühe</objectName> und Senff <lb/> oder Mostart zugericht <lb/> die Haut zuruck gethan <lb/> und gegeben werden. </p>
             </div>
         </body>
     </text>

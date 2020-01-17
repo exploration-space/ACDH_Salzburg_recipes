@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> LEget gleich anfangs Eyer in ein warm <objectName ref="wasser">Wasser</objectName> <lb/> haltet ein ander <objectName ref="wasser">Wasser</objectName> über das <objectName ref="feuer">Feuer</objectName> <lb/> saltzt und lassets sieden <lb/> schüttets dann in ein <objectName ref="mehl">Mehl</objectName> <lb/> und brühet es wohl ab <lb/> schlaget die Eyer darein <lb/> und zertreibt den <objectName ref="teig">Teig</objectName> schön glatt; giesset selbigen in ein Triechterlein <lb/> und lasset ihn gemach hindurch in ein heisses Schmaltz lauffen <lb/> so wird der Straub ein oder zwey Elen lang <lb/> ohne daß er zusammen bächt : Nehmet dann ein Schifflein oder flachen <objectName ref="loeffel">Löffel</objectName> <lb/> zweyer Finger breit <lb/> kehrets damit um <lb/> und nehmets heraus. </p>
+        <p> LEget gleich anfangs Eyer in ein warm <objectName ref="#wasser">Wasser</objectName> <lb/> haltet ein ander <objectName ref="#wasser">Wasser</objectName> über das <objectName ref="#feuer">Feuer</objectName> <lb/> saltzt und lassets sieden <lb/> schüttets dann in ein <objectName ref="#mehl">Mehl</objectName> <lb/> und brühet es wohl ab <lb/> schlaget die Eyer darein <lb/> und zertreibt den <objectName ref="#teig">Teig</objectName> schön glatt; giesset selbigen in ein Triechterlein <lb/> und lasset ihn gemach hindurch in ein heisses Schmaltz lauffen <lb/> so wird der Straub ein oder zwey Elen lang <lb/> ohne daß er zusammen bächt : Nehmet dann ein Schifflein oder flachen <objectName ref="#loeffel">Löffel</objectName> <lb/> zweyer Finger breit <lb/> kehrets damit um <lb/> und nehmets heraus. </p>
             </div>
         </body>
     </text>

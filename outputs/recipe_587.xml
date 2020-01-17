@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim 6. loht roten Rosensafft <lb/> 7. loht Zuckermeel <lb/> rührs vnter den Rosensafft <lb/> nim darzu <objectName ref="esperodi">Esperodi</objectName> 1. <objectName ref="quint">quint</objectName>. Diagridii 1. loht <lb/> Fanffers ein pfennings schwer <lb/> Sandali albi, rubei vnd Citrini jedes 1. loht <lb/> stoß wol <lb/> vnd thus darunder <lb/> setze es 14. Tag an die Sonnen <lb/> mach oben löcher durch das Deckelein. </p>
+        <p> Nim 6. loht roten Rosensafft <lb/> 7. loht Zuckermeel <lb/> rührs vnter den Rosensafft <lb/> nim darzu <objectName ref="#esperodi">Esperodi</objectName> 1. <objectName ref="#quint">quint</objectName>. Diagridii 1. loht <lb/> Fanffers ein pfennings schwer <lb/> Sandali albi, rubei vnd Citrini jedes 1. loht <lb/> stoß wol <lb/> vnd thus darunder <lb/> setze es 14. Tag an die Sonnen <lb/> mach oben löcher durch das Deckelein. </p>
             </div>
         </body>
     </text>

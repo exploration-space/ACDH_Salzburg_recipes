@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb daß Bräth<gap/> von einer alten hänne <lb/><lb/> ( 49v ) Stosß<gap/> in ein märser<gap/>, nimb siesßen<gap/> Rämb<gap/> <lb/> und zuckher<gap/>, und seze es in einer mösßigenen <lb/> pfann<gap/> auf eine glueth<gap/>, riehrs<gap/> bestendig <lb/> daß es sich nit anlegt<gap/>. nime auch ein wenig <lb/> <objectName ref="rosen">rosen</objectName> wasßer. ist guet. <lb/> </p>
+        <p> Nimb daß Bräth<gap/> von einer alten hänne <lb/><lb/> ( 49v ) Stosß<gap/> in ein märser<gap/>, nimb siesßen<gap/> Rämb<gap/> <lb/> und zuckher<gap/>, und seze es in einer mösßigenen <lb/> pfann<gap/> auf eine glueth<gap/>, riehrs<gap/> bestendig <lb/> daß es sich nit anlegt<gap/>. nime auch ein wenig <lb/> <objectName ref="#rosen">rosen</objectName> wasßer. ist guet. <lb/> </p>
             </div>
         </body>
     </text>

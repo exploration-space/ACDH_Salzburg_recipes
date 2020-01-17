@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="kirschen">Kirschen</objectName> <lb/> die dürr seyn <lb/> setz zu mit halb <objectName ref="wasser">Wasser</objectName> vnnd halb <objectName ref="wein">Wein</objectName> <lb/> magst sie kalt oder warm geben. </p>
+        <p> <objectName ref="#kirschen">Kirschen</objectName> <lb/> die dürr seyn <lb/> setz zu mit halb <objectName ref="#wasser">Wasser</objectName> vnnd halb <objectName ref="#wein">Wein</objectName> <lb/> magst sie kalt oder warm geben. </p>
             </div>
         </body>
     </text>

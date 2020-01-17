@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Krebs= Strudel <lb/> seynd auch bey denen Fasten= <objectName ref="suppe">Suppen</objectName> <lb/> bey denen <objectName ref="krebse">Krebsen</objectName> zu finden <lb/> wie auch die gefüllte Krebs= Semmel. </p>
+        <p> DIe Krebs= Strudel <lb/> seynd auch bey denen Fasten= <objectName ref="#suppe">Suppen</objectName> <lb/> bey denen <objectName ref="#krebse">Krebsen</objectName> zu finden <lb/> wie auch die gefüllte Krebs= Semmel. </p>
             </div>
         </body>
     </text>

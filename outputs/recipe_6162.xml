@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Geräucherte <objectName ref="wild">wild</objectName> Schweinen <objectName ref="zunge">Zungen</objectName> kanstu warm oder kalt geben. </p>
+        <p> Geräucherte <objectName ref="#wild">wild</objectName> Schweinen <objectName ref="#zunge">Zungen</objectName> kanstu warm oder kalt geben. </p>
             </div>
         </body>
     </text>

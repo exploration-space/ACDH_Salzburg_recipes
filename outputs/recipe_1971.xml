@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb groß öpffl, alß Prunthaller, holl die stingl vnd Puzen <lb/> auß, geuß ein haiß <objectName ref="schmalz">schmalz</objectName> in ein fießlets Reindl, sez die öpffl drein, laß auf einem glietl prästlen, das fein <lb/> lind Werden, geuß hernach ein Wenig <objectName ref="wein">wein</objectName> dran, laß <lb/> gar Woll einsieden, Zuggers Woll, vnd laß also Woll Sieden <lb/> das gar schen braun Werden. <lb/><lb/> ( 16v ) </p>
+        <p> Nimb groß öpffl, alß Prunthaller, holl die stingl vnd Puzen <lb/> auß, geuß ein haiß <objectName ref="#schmalz">schmalz</objectName> in ein fießlets Reindl, sez die öpffl drein, laß auf einem glietl prästlen, das fein <lb/> lind Werden, geuß hernach ein Wenig <objectName ref="#wein">wein</objectName> dran, laß <lb/> gar Woll einsieden, Zuggers Woll, vnd laß also Woll Sieden <lb/> das gar schen braun Werden. <lb/><lb/> ( 16v ) </p>
             </div>
         </body>
     </text>

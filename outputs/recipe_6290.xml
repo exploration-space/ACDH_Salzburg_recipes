@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Solt jm also helffen <lb/> Nim <objectName ref="honigschaum">Honigschaum</objectName> <lb/> wol in einer Pfannen gerößt <lb/> vnd ein halb pfundt Pfersigkern <lb/> die zu Pulver gestossen <lb/> darnach seige sie mit <objectName ref="wein">Wein</objectName> durch ein leinen <objectName ref="tuch">Tuch</objectName> <lb/> thu deß Weins auch ein <objectName ref="becher">Becher</objectName> voll darvnter <lb/> geuß ins Faß <lb/> so gewinnt der <objectName ref="wein">Wein</objectName> ein gute Farb. Ist ein <objectName ref="wein">Wein</objectName> Wasserfarb <lb/> so henck drey tag Saffran <lb/> so dick als ein Ey <lb/> darein <lb/> so wirt er rechter Weinfarb. </p>
+        <p> Solt jm also helffen <lb/> Nim <objectName ref="#honigschaum">Honigschaum</objectName> <lb/> wol in einer Pfannen gerößt <lb/> vnd ein halb pfundt Pfersigkern <lb/> die zu Pulver gestossen <lb/> darnach seige sie mit <objectName ref="#wein">Wein</objectName> durch ein leinen <objectName ref="#tuch">Tuch</objectName> <lb/> thu deß Weins auch ein <objectName ref="#becher">Becher</objectName> voll darvnter <lb/> geuß ins Faß <lb/> so gewinnt der <objectName ref="#wein">Wein</objectName> ein gute Farb. Ist ein <objectName ref="#wein">Wein</objectName> Wasserfarb <lb/> so henck drey tag Saffran <lb/> so dick als ein Ey <lb/> darein <lb/> so wirt er rechter Weinfarb. </p>
             </div>
         </body>
     </text>

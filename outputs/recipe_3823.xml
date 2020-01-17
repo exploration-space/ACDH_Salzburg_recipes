@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChuppe den Praxen nicht <lb/> mache ihn an dem Bauch auf <lb/> nimm die Gallen darvon hinweg <lb/> saltz <lb/> gewürtz <lb/> und schiebe klein= gehackte <lb/> gute Kräutlein in den <objectName ref="fisch">Fisch</objectName>; saltze ihn auch auswendig <lb/> laß ihn eine Zeit ligen <lb/> bestreiche solchen mit Oel <lb/> oder zerlaßnen <objectName ref="butter">Butter</objectName> <lb/> lege ihn auf den gehitzten <objectName ref="rost">Rost</objectName> <lb/> und brate ihn in schöner Farb; gib ihn warm oder kalt mit Oel und Eßig <lb/> oder braunen <objectName ref="butter">Butter</objectName> mit Lemoni= Safft; Regalire ihn mit Lemoni und frischen Petersil <lb/> oder mit sauren Pomerantzen. </p>
+        <p> SChuppe den Praxen nicht <lb/> mache ihn an dem Bauch auf <lb/> nimm die Gallen darvon hinweg <lb/> saltz <lb/> gewürtz <lb/> und schiebe klein= gehackte <lb/> gute Kräutlein in den <objectName ref="#fisch">Fisch</objectName>; saltze ihn auch auswendig <lb/> laß ihn eine Zeit ligen <lb/> bestreiche solchen mit Oel <lb/> oder zerlaßnen <objectName ref="#butter">Butter</objectName> <lb/> lege ihn auf den gehitzten <objectName ref="#rost">Rost</objectName> <lb/> und brate ihn in schöner Farb; gib ihn warm oder kalt mit Oel und Eßig <lb/> oder braunen <objectName ref="#butter">Butter</objectName> mit Lemoni= Safft; Regalire ihn mit Lemoni und frischen Petersil <lb/> oder mit sauren Pomerantzen. </p>
             </div>
         </body>
     </text>

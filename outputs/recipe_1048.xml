@@ -181,7 +181,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Cut large Collops off from a Leg of Veal; spred them upon the Dresser and hack them with the Back of a Knife, and dip them in the Yolks of Eggs; season them with Cloves, Mace, Nutmeg, Pepper and Salt; then make forc 'd Meat with some of your Veal, Beef Suet and Oysters chop 'd, sweet Herbs shred fine, and some of the Spice; strew all these over your Collops, roll and tie them up, put them upon Skewers, tie them to the Spit and roast them. To the rest of your forced Meat add the Yolk of an Egg or two, make it up in Balls, fry them and put them in the Dish to your Meat when roasted. Make the <objectName ref="sauce">Sauce</objectName> with strong Broth, and Anchovy, an Eschallot, and a little White Wine and Spice; let it stew and thicken it up with <objectName ref="butter">Butter</objectName>. </p>
+        <p> Cut large Collops off from a Leg of Veal; spred them upon the Dresser and hack them with the Back of a Knife, and dip them in the Yolks of Eggs; season them with Cloves, Mace, Nutmeg, Pepper and Salt; then make forc 'd Meat with some of your Veal, Beef Suet and Oysters chop 'd, sweet Herbs shred fine, and some of the Spice; strew all these over your Collops, roll and tie them up, put them upon Skewers, tie them to the Spit and roast them. To the rest of your forced Meat add the Yolk of an Egg or two, make it up in Balls, fry them and put them in the Dish to your Meat when roasted. Make the <objectName ref="#sauce">Sauce</objectName> with strong Broth, and Anchovy, an Eschallot, and a little White Wine and Spice; let it stew and thicken it up with <objectName ref="#butter">Butter</objectName>. </p>
             </div>
         </body>
     </text>

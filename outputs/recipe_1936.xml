@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb die Mandl Ziech ihnen die haut ab, leg es in ein frisches <lb/> <objectName ref="wasser">Wasser</objectName>, wasch es sauber, trükhne es mit einem tuech ab, schit es <lb/> in ein Merser, zerstosß es gar khlain, du muest aber Ihmer= <lb/> Zue <objectName ref="rosenwasser">Rosenwasser</objectName> dran giessen, sie Werden sonst öellig, <lb/> darnach nimb aÿr, souill du bedarffst, nimb von halben <lb/> aÿrn nur den doter, Zugger es gar Woll, rühr ihn gar <lb/> Woll ab, schmirb den Modl überall gar Woll mit <objectName ref="schmalz">schmalz</objectName>, <lb/> alßdan geuß die mandl drein, sez in ein dorten pfan, oder Pachofen. <lb/> </p>
+        <p> Nimb die Mandl Ziech ihnen die haut ab, leg es in ein frisches <lb/> <objectName ref="#wasser">Wasser</objectName>, wasch es sauber, trükhne es mit einem tuech ab, schit es <lb/> in ein Merser, zerstosß es gar khlain, du muest aber Ihmer= <lb/> Zue <objectName ref="#rosenwasser">Rosenwasser</objectName> dran giessen, sie Werden sonst öellig, <lb/> darnach nimb aÿr, souill du bedarffst, nimb von halben <lb/> aÿrn nur den doter, Zugger es gar Woll, rühr ihn gar <lb/> Woll ab, schmirb den Modl überall gar Woll mit <objectName ref="#schmalz">schmalz</objectName>, <lb/> alßdan geuß die mandl drein, sez in ein dorten pfan, oder Pachofen. <lb/> </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Take a Flank of Beef, salt it with white Salt, and let it lie Forty-eight Hours; then take Pepper, Salt, Cloves, Mace, Nutmeg, and Salt Petre, all beat fine, and mix them together; rub it therewith all over the Inside, and roll it up hard, and tie it fast with a Tape; put it in a Pan with a few Bay Leaves, and four Pounds of <objectName ref="butter">Butter</objectName>; cover the Pot with Rye Paste, and bake it with houshold Bread. </p>
+        <p> Take a Flank of Beef, salt it with white Salt, and let it lie Forty-eight Hours; then take Pepper, Salt, Cloves, Mace, Nutmeg, and Salt Petre, all beat fine, and mix them together; rub it therewith all over the Inside, and roll it up hard, and tie it fast with a Tape; put it in a Pan with a few Bay Leaves, and four Pounds of <objectName ref="#butter">Butter</objectName>; cover the Pot with Rye Paste, and bake it with houshold Bread. </p>
             </div>
         </body>
     </text>

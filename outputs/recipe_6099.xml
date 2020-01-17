@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DErgleichen <objectName ref="gehaeck">Gehäck</objectName> in kleine Kräpfflein <lb/> in <objectName ref="fleischbruehe">Fleischbrühe</objectName> gesotten <lb/> wieder abgesiehen <lb/> auf eine <objectName ref="schuessel">Schüssel</objectName> mit <objectName ref="butter">Butter</objectName> und Semmel=Brosen geschmeltzt </p>
+        <p> DErgleichen <objectName ref="#gehaeck">Gehäck</objectName> in kleine Kräpfflein <lb/> in <objectName ref="#fleischbruehe">Fleischbrühe</objectName> gesotten <lb/> wieder abgesiehen <lb/> auf eine <objectName ref="#schuessel">Schüssel</objectName> mit <objectName ref="#butter">Butter</objectName> und Semmel=Brosen geschmeltzt </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Sez ein Mäßl <objectName ref="wasser">Wasser</objectName> ÿber, Nimb ½ lt : Puter drein, laß drucheinander <lb/> haiß Werden, nimb ein schens mell, machs mit dem <objectName ref="wasser">Wasser</objectName> vnd Puter <lb/> an, Nimb aÿr, legs in ein haiß <objectName ref="wasser">Wasser</objectName>, schlag ains nach dem anderen <lb/> drein in taig, biß er rechte dikhen hat, Alßdan nimb ein Weiten <lb/> <objectName ref="strauben">Strauben</objectName> löfl vnd Säe es ein. <lb/> </p>
+        <p> Sez ein Mäßl <objectName ref="#wasser">Wasser</objectName> ÿber, Nimb ½ lt : Puter drein, laß drucheinander <lb/> haiß Werden, nimb ein schens mell, machs mit dem <objectName ref="#wasser">Wasser</objectName> vnd Puter <lb/> an, Nimb aÿr, legs in ein haiß <objectName ref="#wasser">Wasser</objectName>, schlag ains nach dem anderen <lb/> drein in taig, biß er rechte dikhen hat, Alßdan nimb ein Weiten <lb/> <objectName ref="#strauben">Strauben</objectName> löfl vnd Säe es ein. <lb/> </p>
             </div>
         </body>
     </text>

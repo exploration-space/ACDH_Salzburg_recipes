@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Putter<gap/> in ein Rein<gap/>, prene<gap/> ain löffl <lb/> uoll mehl<gap/> ein ganz braun, thue eingemachte <lb/> Riebers<gap/> darein, vnd schitte<gap/> ain gläsl <objectName ref="wein">wein</objectName> <lb/> darauf, laß also ain Sutt<gap/> thuen, vnd gibs <lb/> ybers Rindt <objectName ref="fleisch">fleisch</objectName>. <lb/> </p>
+        <p> Nimb Putter<gap/> in ein Rein<gap/>, prene<gap/> ain löffl <lb/> uoll mehl<gap/> ein ganz braun, thue eingemachte <lb/> Riebers<gap/> darein, vnd schitte<gap/> ain gläsl <objectName ref="#wein">wein</objectName> <lb/> darauf, laß also ain Sutt<gap/> thuen, vnd gibs <lb/> ybers Rindt <objectName ref="#fleisch">fleisch</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

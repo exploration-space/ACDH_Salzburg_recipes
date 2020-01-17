@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Von Zugger, bachs also. waikh ihn in ein Warmes <objectName ref="wasser">Wasser</objectName> <lb/> ein, das er Zergehet, vnd mach ein taig mit demselben <lb/> <objectName ref="wasser">Wasser</objectName>, vnd mit Waizen mell Zäch ihn ab, geuß Rosen= <lb/> <objectName ref="wasser">Wasser</objectName> dran, mach ihn din wie ein Salue taig, nimb <lb/> dan ein : oder 2. Aÿr doter, vnd ein wenig Zerlassen <lb/> <objectName ref="schmalz">schmalz</objectName>, den so laß das Eÿsen erhizen, geuß mit einem <lb/> löfl drauf, stup den taig, vnd trukh das Eißn Zue, habs <lb/> ÿbers <objectName ref="feuer">feuer</objectName>, darnach du es haben hort haben Wilt, sich <lb/> das das Eÿsn nit Zu haiß Werde. <lb/> </p>
+        <p> Von Zugger, bachs also. waikh ihn in ein Warmes <objectName ref="#wasser">Wasser</objectName> <lb/> ein, das er Zergehet, vnd mach ein taig mit demselben <lb/> <objectName ref="#wasser">Wasser</objectName>, vnd mit Waizen mell Zäch ihn ab, geuß Rosen= <lb/> <objectName ref="#wasser">Wasser</objectName> dran, mach ihn din wie ein Salue taig, nimb <lb/> dan ein : oder 2. Aÿr doter, vnd ein wenig Zerlassen <lb/> <objectName ref="#schmalz">schmalz</objectName>, den so laß das Eÿsen erhizen, geuß mit einem <lb/> löfl drauf, stup den taig, vnd trukh das Eißn Zue, habs <lb/> ÿbers <objectName ref="#feuer">feuer</objectName>, darnach du es haben hort haben Wilt, sich <lb/> das das Eÿsn nit Zu haiß Werde. <lb/> </p>
             </div>
         </body>
     </text>

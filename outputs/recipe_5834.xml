@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm die Nothdurfft aufgeschlagene Eyer <lb/> mische darunter wenig Meel <lb/> Saltz <lb/> wenig <objectName ref="wein">Wein</objectName> <lb/> und Pomerantzen=Safft; auch dergleichen in <objectName ref="zucker">Zucker</objectName> eingesottene und kleingehackte Schelffen <lb/> mit Zimmet=Wasser <lb/> und <objectName ref="zucker">Zucker</objectName> süß genug <lb/> schlags mit einander wohl ab <lb/> und mache mit guten <objectName ref="butter">Butter</objectName> <lb/> ein glaten Kremb <lb/> oder ein Eingerührtes daraus; regaliers mit gebachenen Eyern <lb/> oder dergleichen Pafössen. </p>
+        <p> NImm die Nothdurfft aufgeschlagene Eyer <lb/> mische darunter wenig Meel <lb/> Saltz <lb/> wenig <objectName ref="#wein">Wein</objectName> <lb/> und Pomerantzen=Safft; auch dergleichen in <objectName ref="#zucker">Zucker</objectName> eingesottene und kleingehackte Schelffen <lb/> mit Zimmet=Wasser <lb/> und <objectName ref="#zucker">Zucker</objectName> süß genug <lb/> schlags mit einander wohl ab <lb/> und mache mit guten <objectName ref="#butter">Butter</objectName> <lb/> ein glaten Kremb <lb/> oder ein Eingerührtes daraus; regaliers mit gebachenen Eyern <lb/> oder dergleichen Pafössen. </p>
             </div>
         </body>
     </text>

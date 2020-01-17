@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm etlich gesottene Hertzen <lb/> vom Rind <lb/> <objectName ref="kalb">Kalb</objectName> <lb/> oder Schwein <lb/> spicke sie mit lang= geschnittenen <lb/> abgewürtzten und mit Kräutlein angemachten <objectName ref="speck">Speck</objectName> <lb/> ziehe die Hertzen zimlich offt damit durch <lb/> spicke sie mit Zimmet und Nägelein <lb/> richts in ein wohl= vermachtes <objectName ref="geschirr">Geschirr</objectName> <lb/> mit halb <objectName ref="wein">Wein</objectName> und soviel saurem Ram <lb/> und darnach die Hertzen starck synd <lb/> darnach laß sie lang dämpffen <lb/> gibs warmer <lb/> und koste sie im Saltz. </p>
+        <p> NImm etlich gesottene Hertzen <lb/> vom Rind <lb/> <objectName ref="#kalb">Kalb</objectName> <lb/> oder Schwein <lb/> spicke sie mit lang= geschnittenen <lb/> abgewürtzten und mit Kräutlein angemachten <objectName ref="#speck">Speck</objectName> <lb/> ziehe die Hertzen zimlich offt damit durch <lb/> spicke sie mit Zimmet und Nägelein <lb/> richts in ein wohl= vermachtes <objectName ref="#geschirr">Geschirr</objectName> <lb/> mit halb <objectName ref="#wein">Wein</objectName> und soviel saurem Ram <lb/> und darnach die Hertzen starck synd <lb/> darnach laß sie lang dämpffen <lb/> gibs warmer <lb/> und koste sie im Saltz. </p>
             </div>
         </body>
     </text>

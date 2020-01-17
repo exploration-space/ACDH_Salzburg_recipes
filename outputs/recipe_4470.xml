@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm die Hecht= <objectName ref="leber">Leber</objectName> frischer <lb/> oder gesottner <lb/> in <objectName ref="butter">Butter</objectName> gebraten <lb/> gibs mit Lemoni= Safft; regaliers mit dergleichen kleinen Hecht= Presolen <lb/> mit Lemoni= Safft und grünen Kräutlein. </p>
+        <p> NImm die Hecht= <objectName ref="#leber">Leber</objectName> frischer <lb/> oder gesottner <lb/> in <objectName ref="#butter">Butter</objectName> gebraten <lb/> gibs mit Lemoni= Safft; regaliers mit dergleichen kleinen Hecht= Presolen <lb/> mit Lemoni= Safft und grünen Kräutlein. </p>
             </div>
         </body>
     </text>

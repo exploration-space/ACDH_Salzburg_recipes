@@ -170,7 +170,7 @@ Unter <a href="http://gastrosophie.sbg.ac.at/kbforschung/r-datenbank/?rdb_rezept
                 </listObject>
             </div>
         <div type="recipe">
-        <p> stosß klain durcheinander, <lb/> streichs durch mit gueten <objectName ref="wein">Wein</objectName>, Nembt etlich <lb/> zugger darundter, last den driten thaill <lb/> einsieden. <lb/><lb/> ( 55r ) </p>
+        <p> stosß klain durcheinander, <lb/> streichs durch mit gueten <objectName ref="#wein">Wein</objectName>, Nembt etlich <lb/> zugger darundter, last den driten thaill <lb/> einsieden. <lb/><lb/> ( 55r ) </p>
             </div>
         </body>
     </text>

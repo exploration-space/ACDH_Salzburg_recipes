@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Dise zu machen <lb/> nimm die Beer <lb/> und dünste sie ohne <objectName ref="wasser">Wasser</objectName> <lb/> wanns wohl weich seynd <lb/> so treibs mit wenig <objectName ref="wein">Wein</objectName> oder <objectName ref="wasser">Wasser</objectName> durch <lb/> daß die <objectName ref="stein">Stein</objectName> und das Rauche darvon kommt <lb/> und wanns zu dünn wird <lb/> so laß mit <objectName ref="zucker">Zucker</objectName> dicker sieden <lb/> machts gut; hernach gibs in ein Dorten von dünnem Taig <lb/> mit einem schönen Ausschnitt. </p>
+        <p> Dise zu machen <lb/> nimm die Beer <lb/> und dünste sie ohne <objectName ref="#wasser">Wasser</objectName> <lb/> wanns wohl weich seynd <lb/> so treibs mit wenig <objectName ref="#wein">Wein</objectName> oder <objectName ref="#wasser">Wasser</objectName> durch <lb/> daß die <objectName ref="#stein">Stein</objectName> und das Rauche darvon kommt <lb/> und wanns zu dünn wird <lb/> so laß mit <objectName ref="#zucker">Zucker</objectName> dicker sieden <lb/> machts gut; hernach gibs in ein Dorten von dünnem Taig <lb/> mit einem schönen Ausschnitt. </p>
             </div>
         </body>
     </text>

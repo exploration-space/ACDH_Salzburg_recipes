@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Spick den <objectName ref="schlegel">Schlegel</objectName> mit <objectName ref="speck">Speck</objectName> <lb/> vnd brat jn fein im Safft <lb/> versaltz jn nicht <lb/> Vnd wenn er also gebraten ist <lb/> so mach von einem andern Braten ein wenig braune Brüh <lb/> vnd gieß ein wenig <objectName ref="essig">Essig</objectName> darein <lb/> vnd gestossenen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> auch ein wenig von einer Knoblochszehe <lb/> schneidt es gar klein <lb/> vnd laß es mit der Brüh sieden <lb/> vn ( n ) wenn der Braten gar ist <lb/> vnnd du schier wirst anrichten <lb/> so gieß die Brüh oben darüber <lb/> so wirt es wolgeschmack von dem Knobloch. </p>
+        <p> Spick den <objectName ref="#schlegel">Schlegel</objectName> mit <objectName ref="#speck">Speck</objectName> <lb/> vnd brat jn fein im Safft <lb/> versaltz jn nicht <lb/> Vnd wenn er also gebraten ist <lb/> so mach von einem andern Braten ein wenig braune Brüh <lb/> vnd gieß ein wenig <objectName ref="#essig">Essig</objectName> darein <lb/> vnd gestossenen <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> auch ein wenig von einer Knoblochszehe <lb/> schneidt es gar klein <lb/> vnd laß es mit der Brüh sieden <lb/> vn ( n ) wenn der Braten gar ist <lb/> vnnd du schier wirst anrichten <lb/> so gieß die Brüh oben darüber <lb/> so wirt es wolgeschmack von dem Knobloch. </p>
             </div>
         </body>
     </text>

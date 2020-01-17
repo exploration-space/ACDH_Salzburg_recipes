@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BUtze und klaube den <objectName ref="stockfisch">Stockfisch</objectName> von denen Häuten und Graten <lb/> laß ihn im <objectName ref="wasser">Wasser</objectName> einen kurzen Sud thun <lb/> setze ihn zugedeckter von dem <objectName ref="feuer">Feuer</objectName> <lb/> und laß ihn doch warm stehen <lb/> vor dem Anrichten sehe ihn ab <lb/> richte ihn wol warmer auf die <objectName ref="schuessel">Schüssel</objectName> <lb/> bestreue ihn mit Semmel= Brosen <lb/> klein= gehackten Zwibel <lb/> Petersil= Kräutlein <lb/> Gewürtz und Saltz; mache Schmaltz <lb/> oder Oel wol heiß <lb/> und schmeltz <lb/> oder brenne es darüber <lb/> und gibs schnell zur Tafel. </p>
+        <p> BUtze und klaube den <objectName ref="#stockfisch">Stockfisch</objectName> von denen Häuten und Graten <lb/> laß ihn im <objectName ref="#wasser">Wasser</objectName> einen kurzen Sud thun <lb/> setze ihn zugedeckter von dem <objectName ref="#feuer">Feuer</objectName> <lb/> und laß ihn doch warm stehen <lb/> vor dem Anrichten sehe ihn ab <lb/> richte ihn wol warmer auf die <objectName ref="#schuessel">Schüssel</objectName> <lb/> bestreue ihn mit Semmel= Brosen <lb/> klein= gehackten Zwibel <lb/> Petersil= Kräutlein <lb/> Gewürtz und Saltz; mache Schmaltz <lb/> oder Oel wol heiß <lb/> und schmeltz <lb/> oder brenne es darüber <lb/> und gibs schnell zur Tafel. </p>
             </div>
         </body>
     </text>

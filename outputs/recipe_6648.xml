@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Eyngemacht saur mit Limonien <lb/> Erbsbrüh <lb/> <objectName ref="essig">Essig</objectName> <lb/> vnd mit <objectName ref="butter">Butter</objectName> <lb/> thu ein wenig gestossen <objectName ref="ingwer">Ingwer</objectName> darein <lb/> laß es darmit sieden <lb/> so ist es gut vnd wolgeschmack. </p>
+        <p> Eyngemacht saur mit Limonien <lb/> Erbsbrüh <lb/> <objectName ref="#essig">Essig</objectName> <lb/> vnd mit <objectName ref="#butter">Butter</objectName> <lb/> thu ein wenig gestossen <objectName ref="#ingwer">Ingwer</objectName> darein <lb/> laß es darmit sieden <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

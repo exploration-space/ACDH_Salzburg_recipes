@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ERbes so gut und weiß <lb/> mit wirfflet= geschnittenem <objectName ref="speck">Speck</objectName> <lb/> Gewürtz und guten <objectName ref="kraeuter">Kräutern</objectName> dick und weich gesotten <lb/> also durchgetrieben <lb/> gibs in die <objectName ref="schuessel">Schüssel</objectName> <lb/> und wirfflet= geschnittenes Brod <lb/> mit klein= gehacktem Petersil in <objectName ref="butter">Butter</objectName> <lb/> Oel <lb/> oder <objectName ref="speck">Speck</objectName> geröst <lb/> darüber. </p>
+        <p> ERbes so gut und weiß <lb/> mit wirfflet= geschnittenem <objectName ref="#speck">Speck</objectName> <lb/> Gewürtz und guten <objectName ref="#kraeuter">Kräutern</objectName> dick und weich gesotten <lb/> also durchgetrieben <lb/> gibs in die <objectName ref="#schuessel">Schüssel</objectName> <lb/> und wirfflet= geschnittenes Brod <lb/> mit klein= gehacktem Petersil in <objectName ref="#butter">Butter</objectName> <lb/> Oel <lb/> oder <objectName ref="#speck">Speck</objectName> geröst <lb/> darüber. </p>
             </div>
         </body>
     </text>

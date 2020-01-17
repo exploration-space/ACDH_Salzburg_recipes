@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Puze die hendl<gap/> sauber, vnd Under Greif <lb/> es, nimb ein Spinnath<gap/>, Wasch ihne <lb/> sauber auß, vnnd stoss<gap/> ihne in ein <lb/> Mörscher<gap/>, truckh ihne Auß, nimb den <lb/> Safft, auch siess obers<gap/>, vnd schlag<gap/>.3. <lb/> oder.4. Ayr<gap/> daran, reste<gap/> Semel <lb/> Preßl<gap/> in <objectName ref="butter">butter</objectName>, riehrs<gap/> Durch einander, <lb/> stöckh ein brockhen<gap/> <objectName ref="butter">butter</objectName> darein, <lb/> Prade<gap/> es schön, oder sieds<gap/>, wie du <lb/> Wilst. <lb/> </p>
+        <p> Puze die hendl<gap/> sauber, vnd Under Greif <lb/> es, nimb ein Spinnath<gap/>, Wasch ihne <lb/> sauber auß, vnnd stoss<gap/> ihne in ein <lb/> Mörscher<gap/>, truckh ihne Auß, nimb den <lb/> Safft, auch siess obers<gap/>, vnd schlag<gap/>.3. <lb/> oder.4. Ayr<gap/> daran, reste<gap/> Semel <lb/> Preßl<gap/> in <objectName ref="#butter">butter</objectName>, riehrs<gap/> Durch einander, <lb/> stöckh ein brockhen<gap/> <objectName ref="#butter">butter</objectName> darein, <lb/> Prade<gap/> es schön, oder sieds<gap/>, wie du <lb/> Wilst. <lb/> </p>
             </div>
         </body>
     </text>

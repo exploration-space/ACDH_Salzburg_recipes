@@ -179,7 +179,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ZErschneide die Capaunen zu beliebigen Stücken <lb/> saltz und melbige sie ein <lb/> ( du kanst sie <lb/> doch nach Belieben <lb/> zuvor mit einem Messerrucken klopffen <lb/> wann sie groß und rüdisch seynd ) bache <lb/> oder röste sie aus Schmaltz <lb/> und machs in einer Weichsel= <objectName ref="bruehe">Brühe</objectName> <lb/> oder <objectName ref="pflaumen">Pflaumen</objectName> <lb/> Johannes= Beerlein <lb/> u. mit <objectName ref="wasser">Wasser</objectName> <lb/> <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet <lb/> Imber <lb/> Nägelein und Muscatnuß <lb/> regaliers mit süsser Bacherey <lb/> und gebachenen Mandlen. </p>
+        <p> ZErschneide die Capaunen zu beliebigen Stücken <lb/> saltz und melbige sie ein <lb/> ( du kanst sie <lb/> doch nach Belieben <lb/> zuvor mit einem Messerrucken klopffen <lb/> wann sie groß und rüdisch seynd ) bache <lb/> oder röste sie aus Schmaltz <lb/> und machs in einer Weichsel= <objectName ref="#bruehe">Brühe</objectName> <lb/> oder <objectName ref="#pflaumen">Pflaumen</objectName> <lb/> Johannes= Beerlein <lb/> u. mit <objectName ref="#wasser">Wasser</objectName> <lb/> <objectName ref="#wein">Wein</objectName> <lb/> <objectName ref="#zucker">Zucker</objectName> <lb/> Zimmet <lb/> Imber <lb/> Nägelein und Muscatnuß <lb/> regaliers mit süsser Bacherey <lb/> und gebachenen Mandlen. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Ain thaill Meell, vnd.3. taill buter, auf <lb/> ain taig.2. od ( er ).3. ayr, mit <objectName ref="wasser">Wasser</objectName> ange= <lb/> =macht. <lb/> </p>
+        <p> Ain thaill Meell, vnd.3. taill buter, auf <lb/> ain taig.2. od ( er ).3. ayr, mit <objectName ref="#wasser">Wasser</objectName> ange= <lb/> =macht. <lb/> </p>
             </div>
         </body>
     </text>

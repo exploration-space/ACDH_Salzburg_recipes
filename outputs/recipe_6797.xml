@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Kanstu nemmen zum Braten <lb/> oder zum eynmachen <lb/> es sey weiß <lb/> gelb oder schwartz <lb/> mit einem guten <objectName ref="pfeffer">Pfeffer</objectName> <lb/> wie vorhin vermeldt ist <lb/> wie man sie machen sol. </p>
+        <p> Kanstu nemmen zum Braten <lb/> oder zum eynmachen <lb/> es sey weiß <lb/> gelb oder schwartz <lb/> mit einem guten <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> wie vorhin vermeldt ist <lb/> wie man sie machen sol. </p>
             </div>
         </body>
     </text>

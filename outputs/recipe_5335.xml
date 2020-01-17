@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet <objectName ref="zwiebel">Zwiebeln</objectName> <lb/> hacket solche klein <lb/> röstets <lb/> und zugleich <lb/> so es beliebt <lb/> ein Stäublein <objectName ref="mehl">Mehl</objectName> im Schmaltz <lb/> daß sie schön licht= braun werden; seihet das Schmaltz davon <lb/> giesset eine gute Fleischbrüh und <objectName ref="essig">Essig</objectName> daran <lb/> dann diese Brüh muß ein wenig säuerlicht seyn <lb/> streuet gute Gewürtz darein <lb/> wiewol mans auch ohne Gewürtz geniessen kan <lb/> giesst etwas von dem trübsten aus der Bratpfannen dazu <lb/> und richtet dann diese Brüh über den <objectName ref="schlegel">Schlegel</objectName> <lb/> oder aber setzet selbige besonders auf. </p>
+        <p> NEhmet <objectName ref="#zwiebel">Zwiebeln</objectName> <lb/> hacket solche klein <lb/> röstets <lb/> und zugleich <lb/> so es beliebt <lb/> ein Stäublein <objectName ref="#mehl">Mehl</objectName> im Schmaltz <lb/> daß sie schön licht= braun werden; seihet das Schmaltz davon <lb/> giesset eine gute Fleischbrüh und <objectName ref="#essig">Essig</objectName> daran <lb/> dann diese Brüh muß ein wenig säuerlicht seyn <lb/> streuet gute Gewürtz darein <lb/> wiewol mans auch ohne Gewürtz geniessen kan <lb/> giesst etwas von dem trübsten aus der Bratpfannen dazu <lb/> und richtet dann diese Brüh über den <objectName ref="#schlegel">Schlegel</objectName> <lb/> oder aber setzet selbige besonders auf. </p>
             </div>
         </body>
     </text>

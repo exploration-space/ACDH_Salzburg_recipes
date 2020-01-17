@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schneid von der Sembl die Rindten, vnd Waikhs in süssen Rämb, nimb <lb/> aÿr dran, Mußcatblie, Zitronÿ strüzl, hernach nimb ein <objectName ref="wasser">Wasser</objectName> in <lb/> ein häferl, vnd laß Woll sieden, darnach thues alles drein, vnd rührs <lb/> mit dem löffl, das es sich nit anlegt, vnd Wan du vermainst, das gnueg <lb/> gsoten ist, so thues auf ein schißl herauß, vnd mach ein Prüe drüber, <lb/> mit Puter vnd gwürz. <lb/> </p>
+        <p> Schneid von der Sembl die Rindten, vnd Waikhs in süssen Rämb, nimb <lb/> aÿr dran, Mußcatblie, Zitronÿ strüzl, hernach nimb ein <objectName ref="#wasser">Wasser</objectName> in <lb/> ein häferl, vnd laß Woll sieden, darnach thues alles drein, vnd rührs <lb/> mit dem löffl, das es sich nit anlegt, vnd Wan du vermainst, das gnueg <lb/> gsoten ist, so thues auf ein schißl herauß, vnd mach ein Prüe drüber, <lb/> mit Puter vnd gwürz. <lb/> </p>
             </div>
         </body>
     </text>

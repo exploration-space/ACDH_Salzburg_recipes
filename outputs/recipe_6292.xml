@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Henck Brombeerlaub an einem <objectName ref="faden">Faden</objectName> in den <objectName ref="wein">Wein</objectName> <lb/> so wirt er in kurtzer zeit schön vnd klar. </p>
+        <p> Henck Brombeerlaub an einem <objectName ref="#faden">Faden</objectName> in den <objectName ref="#wein">Wein</objectName> <lb/> so wirt er in kurtzer zeit schön vnd klar. </p>
             </div>
         </body>
     </text>

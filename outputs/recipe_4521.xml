@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChlaget ein Ey aus <lb/> streuet schön <objectName ref="mehl">Mehl</objectName> darein <lb/> und hackts durch einander biß es klein wird; dann schlaget wieder ein Ey dazu <lb/> hackets noch mehr <lb/> und also ferner so viel ihr wollt : röstet es im Schmaltz <lb/> würtzets hernach mit guten Gewürtz <lb/> gilbts ein wenig <lb/> und rühret es mit einer siedenden <objectName ref="fleischbruehe">Fleischbrühe</objectName> an <lb/> thut auch viel <objectName ref="butter">Butter</objectName> darein <lb/> und lasst sie mit aufsieden. </p>
+        <p> SChlaget ein Ey aus <lb/> streuet schön <objectName ref="#mehl">Mehl</objectName> darein <lb/> und hackts durch einander biß es klein wird; dann schlaget wieder ein Ey dazu <lb/> hackets noch mehr <lb/> und also ferner so viel ihr wollt : röstet es im Schmaltz <lb/> würtzets hernach mit guten Gewürtz <lb/> gilbts ein wenig <lb/> und rühret es mit einer siedenden <objectName ref="#fleischbruehe">Fleischbrühe</objectName> an <lb/> thut auch viel <objectName ref="#butter">Butter</objectName> darein <lb/> und lasst sie mit aufsieden. </p>
             </div>
         </body>
     </text>

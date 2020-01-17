@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIto <lb/> also mit <objectName ref="zucker">Zucker</objectName> <lb/> Eßig und Oel kalt; andere nehmen auch Weinbeerlein darzu. </p>
+        <p> DIto <lb/> also mit <objectName ref="#zucker">Zucker</objectName> <lb/> Eßig und Oel kalt; andere nehmen auch Weinbeerlein darzu. </p>
             </div>
         </body>
     </text>

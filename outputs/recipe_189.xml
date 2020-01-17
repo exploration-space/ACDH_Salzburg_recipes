@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Erstlich nimb den schlögl, thue <lb/> ihn woll abbrinnen<gap/> auf den <objectName ref="rost">Rost</objectName> <lb/> wan er halben taill Gebraten<gap/> <lb/> hernach leg ihn ein Rein<gap/> vnd schneidt <lb/> Gewierflet<gap/> Rueben<gap/> rest<gap/> sye in spöckh <lb/> thue es Zu den schlögl nimb 1. Mass<gap/> <lb/> <objectName ref="wein">Wein</objectName>.1. oder.2. Mass <objectName ref="fleisch">Fleisch</objectName> brie<gap/> <lb/> Lemoni<gap/> safft vnnd Gewierz<gap/> sez <lb/> Zum Feur<gap/> lass.3. stundt siedten<gap/> <lb/> so würdt die brie<gap/> dückh vnd ein <lb/> Guete speis. <lb/> </p>
+        <p> Erstlich nimb den schlögl, thue <lb/> ihn woll abbrinnen<gap/> auf den <objectName ref="#rost">Rost</objectName> <lb/> wan er halben taill Gebraten<gap/> <lb/> hernach leg ihn ein Rein<gap/> vnd schneidt <lb/> Gewierflet<gap/> Rueben<gap/> rest<gap/> sye in spöckh <lb/> thue es Zu den schlögl nimb 1. Mass<gap/> <lb/> <objectName ref="#wein">Wein</objectName>.1. oder.2. Mass <objectName ref="#fleisch">Fleisch</objectName> brie<gap/> <lb/> Lemoni<gap/> safft vnnd Gewierz<gap/> sez <lb/> Zum Feur<gap/> lass.3. stundt siedten<gap/> <lb/> so würdt die brie<gap/> dückh vnd ein <lb/> Guete speis. <lb/> </p>
             </div>
         </body>
     </text>

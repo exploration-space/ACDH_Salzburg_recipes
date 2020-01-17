@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Mache den <objectName ref="fisch">fisch</objectName> Sauber auf, vnd frische in ab, <lb/> vnd wasche in auß, <objectName ref="salz">Salz</objectName> in ein, vnd Melbig in, <lb/> nimb halben taill öll, vnd halben tail <objectName ref="schmalz">schmalz</objectName>, <lb/> bache in herauß hibtsch gelblet, vnd leg in in <lb/><lb/> ( 21v ) ain Erdene schißl, vnd gieß.4. Eßlöfl voll <lb/> öll darzue, vnd gewürz im, leg lorberbleter <lb/> darzue, vnd Roßamarin, gieß darauf ain <lb/> Mäßl <objectName ref="wein">Wein</objectName>, vnd ½ Mäßl <objectName ref="wasser">wasser</objectName>, vnd <lb/> döckh den <objectName ref="fisch">fisch</objectName> mit einer Erdenen schißl, sez <lb/> im in ain bach offen, er mues so haiß sein, <lb/> als wie zum buter taig, er mues Kochen <lb/> 3/4. stunt. <lb/> </p>
+        <p> Mache den <objectName ref="#fisch">fisch</objectName> Sauber auf, vnd frische in ab, <lb/> vnd wasche in auß, <objectName ref="#salz">Salz</objectName> in ein, vnd Melbig in, <lb/> nimb halben taill öll, vnd halben tail <objectName ref="#schmalz">schmalz</objectName>, <lb/> bache in herauß hibtsch gelblet, vnd leg in in <lb/><lb/> ( 21v ) ain Erdene schißl, vnd gieß.4. Eßlöfl voll <lb/> öll darzue, vnd gewürz im, leg lorberbleter <lb/> darzue, vnd Roßamarin, gieß darauf ain <lb/> Mäßl <objectName ref="#wein">Wein</objectName>, vnd ½ Mäßl <objectName ref="#wasser">wasser</objectName>, vnd <lb/> döckh den <objectName ref="#fisch">fisch</objectName> mit einer Erdenen schißl, sez <lb/> im in ain bach offen, er mues so haiß sein, <lb/> als wie zum buter taig, er mues Kochen <lb/> 3/4. stunt. <lb/> </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) ein <objectName ref="aal">Aal</objectName> <lb/> zeuch jn nicht ab <lb/> sondern thu jn auff <lb/> vnnd weide jhn auß <lb/> schneidt jn zu vier stücken <lb/> seudt jn ab mit <objectName ref="wasser">Wasser</objectName> <lb/> <objectName ref="essig">Essig</objectName> vnd Saltz <lb/> laß jn gar an die statt sieden <lb/> richt jn trucken an also warm <lb/> vnd geuß ein guten <objectName ref="essig">Essig</objectName> darüber <lb/> so ist es ein gut Essen. </p>
+        <p> Nim ( m ) ein <objectName ref="#aal">Aal</objectName> <lb/> zeuch jn nicht ab <lb/> sondern thu jn auff <lb/> vnnd weide jhn auß <lb/> schneidt jn zu vier stücken <lb/> seudt jn ab mit <objectName ref="#wasser">Wasser</objectName> <lb/> <objectName ref="#essig">Essig</objectName> vnd Saltz <lb/> laß jn gar an die statt sieden <lb/> richt jn trucken an also warm <lb/> vnd geuß ein guten <objectName ref="#essig">Essig</objectName> darüber <lb/> so ist es ein gut Essen. </p>
             </div>
         </body>
     </text>

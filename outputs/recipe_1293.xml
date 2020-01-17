@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Erstlich schmirbe<gap/> die schüsßl<gap/> mit Butter<gap/>, schlage <lb/> die ayr<gap/> hinein, und <objectName ref="salz">salz</objectName>, Laß es auf der <lb/> gluet<gap/> pfann<gap/> zusammen gehen, aber daß nit <lb/> gar zu fösst<gap/> wird. gleich vor du es auf <lb/> die tafl<gap/> gibst, so thue es mit einen heisßen <lb/><lb/> ( 47r ) schmalz<gap/> aufbrennen<gap/>, aber daß Schmalz<gap/> thue <lb/> widerumen herab seichen<gap/>, so ist es recht. <lb/> </p>
+        <p> Erstlich schmirbe<gap/> die schüsßl<gap/> mit Butter<gap/>, schlage <lb/> die ayr<gap/> hinein, und <objectName ref="#salz">salz</objectName>, Laß es auf der <lb/> gluet<gap/> pfann<gap/> zusammen gehen, aber daß nit <lb/> gar zu fösst<gap/> wird. gleich vor du es auf <lb/> die tafl<gap/> gibst, so thue es mit einen heisßen <lb/><lb/> ( 47r ) schmalz<gap/> aufbrennen<gap/>, aber daß Schmalz<gap/> thue <lb/> widerumen herab seichen<gap/>, so ist es recht. <lb/> </p>
             </div>
         </body>
     </text>

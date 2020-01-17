@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb guets Semblmell, vnd blabe <objectName ref="milch">milch</objectName>, mach ein <objectName ref="strauben">strauben</objectName> taig an, ist das <lb/> mell guet, so machs geringer an, schlag aÿr dran, legs vor in Warmbs <objectName ref="wasser">Wasser</objectName>, <lb/> das im <objectName ref="schmalz">Schmalz</objectName>, in der pfan herumb lauffen, schidt den taig drein, thue <lb/> oben vnd unden gluet under die pfan, laß ihn fein trukhen bachen, schit ihn <lb/> herauß, schneid die ring umb vnd umb daruon, schneid die khrapfen Wie du <lb/> Wilt, stingl, gewürfflet, bachs fein langsamb vnd gar khiel. <lb/> </p>
+        <p> Nimb guets Semblmell, vnd blabe <objectName ref="#milch">milch</objectName>, mach ein <objectName ref="#strauben">strauben</objectName> taig an, ist das <lb/> mell guet, so machs geringer an, schlag aÿr dran, legs vor in Warmbs <objectName ref="#wasser">Wasser</objectName>, <lb/> das im <objectName ref="#schmalz">Schmalz</objectName>, in der pfan herumb lauffen, schidt den taig drein, thue <lb/> oben vnd unden gluet under die pfan, laß ihn fein trukhen bachen, schit ihn <lb/> herauß, schneid die ring umb vnd umb daruon, schneid die khrapfen Wie du <lb/> Wilt, stingl, gewürfflet, bachs fein langsamb vnd gar khiel. <lb/> </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAchet einen <objectName ref="teig">Teig</objectName> an wie zu den gewollenen Küchlein <lb/> nur daß er etwas dicker seye <lb/> auch kan man den Brandwein <lb/> so er nicht beliebt <lb/> davon lassen; walchert so dann kleine runde Kügelein <lb/> wie die <objectName ref="erbsen">Erbsen</objectName> <lb/> daraus <lb/> und bachets aus Schmaltz : schüttets in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und richtet eine Käß= Krebs= oder andere beliebige <objectName ref="suppe">Suppen</objectName> darüber; es muß aber solche <objectName ref="suppe">Suppen</objectName> alsobald zu <objectName ref="tisch">Tisch</objectName> getragen werden <lb/> daß die Küchlein nicht verweichen <lb/> sondern annoch rösch bleiben. </p>
+        <p> MAchet einen <objectName ref="#teig">Teig</objectName> an wie zu den gewollenen Küchlein <lb/> nur daß er etwas dicker seye <lb/> auch kan man den Brandwein <lb/> so er nicht beliebt <lb/> davon lassen; walchert so dann kleine runde Kügelein <lb/> wie die <objectName ref="#erbsen">Erbsen</objectName> <lb/> daraus <lb/> und bachets aus Schmaltz : schüttets in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> und richtet eine Käß= Krebs= oder andere beliebige <objectName ref="#suppe">Suppen</objectName> darüber; es muß aber solche <objectName ref="#suppe">Suppen</objectName> alsobald zu <objectName ref="#tisch">Tisch</objectName> getragen werden <lb/> daß die Küchlein nicht verweichen <lb/> sondern annoch rösch bleiben. </p>
             </div>
         </body>
     </text>

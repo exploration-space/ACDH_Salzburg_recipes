@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAsche die Prinelln <lb/> und setze sie im <objectName ref="wein">Wein</objectName> zu <lb/> laß eine weile sieden; streue <objectName ref="zucker">Zucker</objectName> <lb/> und wann man sie anrichtet <lb/> und solches beliebt <lb/> klein= geschnittene Citronen= Schelffen darauf. <gap/><gap/><gap/> Auf diese Weise kan man auch die <objectName ref="zibeben">Zibeben</objectName> <lb/> wann sie zuvor ausgekörnet werden <lb/> dünsten. </p>
+        <p> WAsche die Prinelln <lb/> und setze sie im <objectName ref="#wein">Wein</objectName> zu <lb/> laß eine weile sieden; streue <objectName ref="#zucker">Zucker</objectName> <lb/> und wann man sie anrichtet <lb/> und solches beliebt <lb/> klein= geschnittene Citronen= Schelffen darauf. <gap/><gap/><gap/> Auf diese Weise kan man auch die <objectName ref="#zibeben">Zibeben</objectName> <lb/> wann sie zuvor ausgekörnet werden <lb/> dünsten. </p>
             </div>
         </body>
     </text>

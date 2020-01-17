@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) die <objectName ref="brust">Brust</objectName> <lb/> vnd hack sie klein <lb/> thu sie in ein <objectName ref="schuessel">Schüssel</objectName> <lb/> oder in einem <objectName ref="silber">Silber</objectName> <lb/> thu ein braune Brüh darauff <lb/> die du von einem Braten hast abgegossen <lb/> der nicht gesaltzen ist <lb/> auch ein gute Brüh von einer Hen ( n ) en <lb/> oder von einer Rindtfleischbrüh <lb/> die lindt gesaltzen <lb/> geuß es vber d ( as ) gehackt <lb/> Nim ( m ) Safft von sauren Limonien <lb/> vn ( d ) laß auch damit auffsieden <lb/> so ist es gut vnd wolgeschmack <lb/> vor Krancke vnd Gesunde. </p>
+        <p> Nim ( m ) die <objectName ref="#brust">Brust</objectName> <lb/> vnd hack sie klein <lb/> thu sie in ein <objectName ref="#schuessel">Schüssel</objectName> <lb/> oder in einem <objectName ref="#silber">Silber</objectName> <lb/> thu ein braune Brüh darauff <lb/> die du von einem Braten hast abgegossen <lb/> der nicht gesaltzen ist <lb/> auch ein gute Brüh von einer Hen ( n ) en <lb/> oder von einer Rindtfleischbrüh <lb/> die lindt gesaltzen <lb/> geuß es vber d ( as ) gehackt <lb/> Nim ( m ) Safft von sauren Limonien <lb/> vn ( d ) laß auch damit auffsieden <lb/> so ist es gut vnd wolgeschmack <lb/> vor Krancke vnd Gesunde. </p>
             </div>
         </body>
     </text>

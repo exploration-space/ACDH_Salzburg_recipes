@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="artischocken">ARtischocken</objectName> halbierter zu füllen <lb/> wann sie in gesaltzen <objectName ref="wasser">Wasser</objectName> gesotten <lb/> dann werden sie der Länge nach entzwey geschnitten <lb/> das Rauhe heraus gebutzt <lb/> und mit einer guten Füll gefüllt <lb/> wie man die halbe harte Eyer <lb/> und die grosse Krebs füllt <lb/> dann zierlich in ein mit <objectName ref="butter">Butter</objectName> bestrichne <objectName ref="schuessel">Schüssel</objectName> gelegt <lb/> die Füll über sich <lb/> gewürtzt <lb/> und mit einer guten Butter= Erbes= oder andern guten <objectName ref="bruehe">Brühe</objectName> aufgesotten <lb/> und warm zu <objectName ref="tisch">Tisch</objectName> geben. </p>
+        <p> <objectName ref="#artischocken">ARtischocken</objectName> halbierter zu füllen <lb/> wann sie in gesaltzen <objectName ref="#wasser">Wasser</objectName> gesotten <lb/> dann werden sie der Länge nach entzwey geschnitten <lb/> das Rauhe heraus gebutzt <lb/> und mit einer guten Füll gefüllt <lb/> wie man die halbe harte Eyer <lb/> und die grosse Krebs füllt <lb/> dann zierlich in ein mit <objectName ref="#butter">Butter</objectName> bestrichne <objectName ref="#schuessel">Schüssel</objectName> gelegt <lb/> die Füll über sich <lb/> gewürtzt <lb/> und mit einer guten Butter= Erbes= oder andern guten <objectName ref="#bruehe">Brühe</objectName> aufgesotten <lb/> und warm zu <objectName ref="#tisch">Tisch</objectName> geben. </p>
             </div>
         </body>
     </text>

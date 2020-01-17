@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schele die <objectName ref="quitten">Quitten</objectName> sauber/ schneids fein dünn/ thu die Butzen vnd Kern sauber davon/ thus in ein Pfannen/ geuß frisch <objectName ref="brunnenwasser">Brunnenwasser</objectName> darein/ laß sieden/ biß sie weich werden/ thus in einen Sack/ trucke den Safft davon/ daß nichts gelbs darein kompt/ seyhe den Safft/ thu ihn in eine Pfannen/ vnd guten geläuterten <objectName ref="zucker">Zucker</objectName> darein/ biß du meinst/ daß es süß gnug sey/ sieds flugs ab/ biß auff dem Tel= ler gestehet/ gieß in ein <objectName ref="model">Model</objectName>. </p>
+        <p> Schele die <objectName ref="#quitten">Quitten</objectName> sauber/ schneids fein dünn/ thu die Butzen vnd Kern sauber davon/ thus in ein Pfannen/ geuß frisch <objectName ref="#brunnenwasser">Brunnenwasser</objectName> darein/ laß sieden/ biß sie weich werden/ thus in einen Sack/ trucke den Safft davon/ daß nichts gelbs darein kompt/ seyhe den Safft/ thu ihn in eine Pfannen/ vnd guten geläuterten <objectName ref="#zucker">Zucker</objectName> darein/ biß du meinst/ daß es süß gnug sey/ sieds flugs ab/ biß auff dem Tel= ler gestehet/ gieß in ein <objectName ref="#model">Model</objectName>. </p>
             </div>
         </body>
     </text>

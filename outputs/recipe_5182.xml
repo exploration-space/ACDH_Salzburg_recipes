@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> KLaube die Coppen <lb/> Dollen <lb/> oder Groppen sauber <lb/> setze gesaltzenes <objectName ref="wasser">Wasser</objectName> über das <objectName ref="feuer">Feuer</objectName> <lb/> gieß Wein= Eßig an die Coppen <lb/> und wirffs in den Sud <lb/> laß einen eintzigen Wall herüber thun <lb/> und wenig kalt <objectName ref="wasser">Wasser</objectName> abgeschröckt <lb/> vom <objectName ref="feuer">Feuer</objectName> gehoben <lb/> so werden sie schön blau und geschmack <lb/> gibs mit frischem Eßig gesprengter <lb/> und mit grünen Kräutlein bestreut auf das Serviete. </p>
+        <p> KLaube die Coppen <lb/> Dollen <lb/> oder Groppen sauber <lb/> setze gesaltzenes <objectName ref="#wasser">Wasser</objectName> über das <objectName ref="#feuer">Feuer</objectName> <lb/> gieß Wein= Eßig an die Coppen <lb/> und wirffs in den Sud <lb/> laß einen eintzigen Wall herüber thun <lb/> und wenig kalt <objectName ref="#wasser">Wasser</objectName> abgeschröckt <lb/> vom <objectName ref="#feuer">Feuer</objectName> gehoben <lb/> so werden sie schön blau und geschmack <lb/> gibs mit frischem Eßig gesprengter <lb/> und mit grünen Kräutlein bestreut auf das Serviete. </p>
             </div>
         </body>
     </text>

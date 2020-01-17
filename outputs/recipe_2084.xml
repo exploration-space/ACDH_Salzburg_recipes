@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Sied die Zwospen, thue die khern herauß, vnd hakhs khlein, dar= <lb/> nach machs mit Zukher vnd lableten <objectName ref="wasser">Wasser</objectName> an, ein Zimetstup <lb/> dran, mach ein taigl an Wie Zu einem <objectName ref="ofen">ofen</objectName>, Walg ein <lb/> dins blätl auß, sez auf Zu einem dorten, thue die fihl <lb/> drein, mach ein außgeschnitnes blat, streich ein Eÿß drauf, <lb/> bachs in der pfan, Wie andere, so ist er bereith. <lb/> </p>
+        <p> Sied die Zwospen, thue die khern herauß, vnd hakhs khlein, dar= <lb/> nach machs mit Zukher vnd lableten <objectName ref="#wasser">Wasser</objectName> an, ein Zimetstup <lb/> dran, mach ein taigl an Wie Zu einem <objectName ref="#ofen">ofen</objectName>, Walg ein <lb/> dins blätl auß, sez auf Zu einem dorten, thue die fihl <lb/> drein, mach ein außgeschnitnes blat, streich ein Eÿß drauf, <lb/> bachs in der pfan, Wie andere, so ist er bereith. <lb/> </p>
             </div>
         </body>
     </text>

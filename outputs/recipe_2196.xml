@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb der lebendigen khrebsen, schneid das händig von den <objectName ref="augen">Augen</objectName>, <lb/> vnd oben das schwarz äderl Wëkh, stosß die also roch khlain, treibs <lb/> mit einer gueten <objectName ref="milch">milch</objectName> durchs sib, schlag aÿr under dieselben <lb/> durchtribnen, spridls ab, schmierb ein schißl mit buter, seich die <lb/> Aÿr vnd <objectName ref="milch">milch</objectName> darein, unden vnd oben ein gluet, bachs, Wie ein <lb/> schießl mueß, so ists bereith. <lb/> </p>
+        <p> Nimb der lebendigen khrebsen, schneid das händig von den <objectName ref="#augen">Augen</objectName>, <lb/> vnd oben das schwarz äderl Wëkh, stosß die also roch khlain, treibs <lb/> mit einer gueten <objectName ref="#milch">milch</objectName> durchs sib, schlag aÿr under dieselben <lb/> durchtribnen, spridls ab, schmierb ein schißl mit buter, seich die <lb/> Aÿr vnd <objectName ref="#milch">milch</objectName> darein, unden vnd oben ein gluet, bachs, Wie ein <lb/> schießl mueß, so ists bereith. <lb/> </p>
             </div>
         </body>
     </text>

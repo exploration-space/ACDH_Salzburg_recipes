@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Lämmern viertheil in <objectName ref="pastete">Pasteten</objectName> <lb/> schlag sie in einen weissen <objectName ref="teig">Teig</objectName> <lb/> thu <objectName ref="ingwer">Ingwer</objectName> <lb/> Saltz vnnd vngeschmältzte <objectName ref="butter">Butter</objectName> <lb/> die frisch ist <lb/> darüber <lb/> scheubs in <objectName ref="ofen">Ofen</objectName> <lb/> vnd laß backen <lb/> schneidt es auff <lb/> vnd gibs warm auff ein <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> Lämmern viertheil in <objectName ref="#pastete">Pasteten</objectName> <lb/> schlag sie in einen weissen <objectName ref="#teig">Teig</objectName> <lb/> thu <objectName ref="#ingwer">Ingwer</objectName> <lb/> Saltz vnnd vngeschmältzte <objectName ref="#butter">Butter</objectName> <lb/> die frisch ist <lb/> darüber <lb/> scheubs in <objectName ref="#ofen">Ofen</objectName> <lb/> vnd laß backen <lb/> schneidt es auff <lb/> vnd gibs warm auff ein <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

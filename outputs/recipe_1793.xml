@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb <lb/> buter, ain wennig Esßig, vnd Seuts darine ( n ) <lb/><lb/> ( 74v ) nimb auch lints gewürz vnnd <objectName ref="pfeffer">Pfeffer</objectName>, Nimb <lb/> Petersill, hackh darzue Roßmarin, laß ain <lb/> wenig sieden, wans gesoten ist, so filß wid ( er ) <lb/> in die schall, gibs auf den <objectName ref="tisch">tisch</objectName>. <lb/> </p>
+        <p> Nimb <lb/> buter, ain wennig Esßig, vnd Seuts darine ( n ) <lb/><lb/> ( 74v ) nimb auch lints gewürz vnnd <objectName ref="#pfeffer">Pfeffer</objectName>, Nimb <lb/> Petersill, hackh darzue Roßmarin, laß ain <lb/> wenig sieden, wans gesoten ist, so filß wid ( er ) <lb/> in die schall, gibs auf den <objectName ref="#tisch">tisch</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

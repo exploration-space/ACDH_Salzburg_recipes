@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Marillen, schelß sauber ab, Nimb souil <lb/> Marillen, alß zugger, aber ain gestossenen zugg ( er ), <lb/> thue es auf ain bökh, od ( er ) zinnene Schißl, mit.4. <lb/> Eßlöfl voll <objectName ref="wasser">wasser</objectName>, laß ain wenig lenger <lb/><lb/> ( 7v ) Sieden alß man ain par ayr hört sieden thuet, <lb/> hast Zitron blie die in zugger ist eingemacht, <lb/> vnnd zier sie darmit, hast du aber kheine, so <lb/> Nimb eingemachten Zitronni vnd schneits gar <lb/> klain, alß wie ein <objectName ref="faden">faden</objectName>, besör es oben auf <lb/> damit, laß bestehen. <lb/> </p>
+        <p> Nimb Marillen, schelß sauber ab, Nimb souil <lb/> Marillen, alß zugger, aber ain gestossenen zugg ( er ), <lb/> thue es auf ain bökh, od ( er ) zinnene Schißl, mit.4. <lb/> Eßlöfl voll <objectName ref="#wasser">wasser</objectName>, laß ain wenig lenger <lb/><lb/> ( 7v ) Sieden alß man ain par ayr hört sieden thuet, <lb/> hast Zitron blie die in zugger ist eingemacht, <lb/> vnnd zier sie darmit, hast du aber kheine, so <lb/> Nimb eingemachten Zitronni vnd schneits gar <lb/> klain, alß wie ein <objectName ref="#faden">faden</objectName>, besör es oben auf <lb/> damit, laß bestehen. <lb/> </p>
             </div>
         </body>
     </text>

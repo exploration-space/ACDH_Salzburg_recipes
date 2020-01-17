@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Eyerdotter <lb/> zeuch sie in ein Erbeßbrüh <lb/> rürs umb biß auffseudt <lb/> vnd machs gelb <lb/> so wirt es ein gute <objectName ref="suppe">Suppen</objectName>. </p>
+        <p> Nim ( m ) Eyerdotter <lb/> zeuch sie in ein Erbeßbrüh <lb/> rürs umb biß auffseudt <lb/> vnd machs gelb <lb/> so wirt es ein gute <objectName ref="#suppe">Suppen</objectName>. </p>
             </div>
         </body>
     </text>

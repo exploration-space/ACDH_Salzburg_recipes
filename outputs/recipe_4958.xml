@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet einen Kalbs= Rucken oder so genanntes Schlößlein <lb/> wann es gewaschen <lb/> setzets im <objectName ref="wasser">Wasser</objectName> zu <lb/> saltzets <lb/> last es sieden <lb/> verfaumet es <lb/> streuet gröblicht= zerstossenen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Muscaten= Blüh <lb/> Cardamomen <lb/> auch <lb/> so es beliebt <lb/> ein wenig Saffran darein; last es ferner wohl einsieden <lb/> daß nicht viel Brüh an dem <objectName ref="fleisch">Fleisch</objectName> verbleibt; beliebts <lb/> so kan man zuletzt ein wenig <objectName ref="wein">Wein</objectName> daran giessen <lb/> und den Safft von Citronen darauf drucken : Zuletzt wird ein würfflicht= geschnittenes im Schmaltz geröstetes Brod <lb/> wann es angerichtet worden <lb/> darauf gebrennet. </p>
+        <p> NEhmet einen Kalbs= Rucken oder so genanntes Schlößlein <lb/> wann es gewaschen <lb/> setzets im <objectName ref="#wasser">Wasser</objectName> zu <lb/> saltzets <lb/> last es sieden <lb/> verfaumet es <lb/> streuet gröblicht= zerstossenen <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Muscaten= Blüh <lb/> Cardamomen <lb/> auch <lb/> so es beliebt <lb/> ein wenig Saffran darein; last es ferner wohl einsieden <lb/> daß nicht viel Brüh an dem <objectName ref="#fleisch">Fleisch</objectName> verbleibt; beliebts <lb/> so kan man zuletzt ein wenig <objectName ref="#wein">Wein</objectName> daran giessen <lb/> und den Safft von Citronen darauf drucken : Zuletzt wird ein würfflicht= geschnittenes im Schmaltz geröstetes Brod <lb/> wann es angerichtet worden <lb/> darauf gebrennet. </p>
             </div>
         </body>
     </text>

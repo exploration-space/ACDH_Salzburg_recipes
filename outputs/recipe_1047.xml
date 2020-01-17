@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Lard your Turkey with Bacon and half roast it; then take it off from the Spit and put it in as small a Pot as will boil it; put to it a <objectName ref="quart">Quart</objectName> of White Wine, strong Broth, a Pint of Vinegar, some whole Spice, Bay-Leaves, Sweet Marjoram, Winter Savoury, and green Onions. Let it stew in this Liquor, and when it is ready, lay it in the Dish. Make <objectName ref="sauce">Sauce</objectName> with some of the Liquor, Mushrooms, dic 'd Lemon, and two or three Anchovies; thicken it with brown <objectName ref="butter">Butter</objectName>, and garnish with sliced Lemon. </p>
+        <p> Lard your Turkey with Bacon and half roast it; then take it off from the Spit and put it in as small a Pot as will boil it; put to it a <objectName ref="#quart">Quart</objectName> of White Wine, strong Broth, a Pint of Vinegar, some whole Spice, Bay-Leaves, Sweet Marjoram, Winter Savoury, and green Onions. Let it stew in this Liquor, and when it is ready, lay it in the Dish. Make <objectName ref="#sauce">Sauce</objectName> with some of the Liquor, Mushrooms, dic 'd Lemon, and two or three Anchovies; thicken it with brown <objectName ref="#butter">Butter</objectName>, and garnish with sliced Lemon. </p>
             </div>
         </body>
     </text>

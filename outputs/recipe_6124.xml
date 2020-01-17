@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm von disem <objectName ref="gehaeck">Gehäck</objectName> <lb/> mit Semmel <lb/> Eyer und Ram <lb/> mach Strützlein draus <lb/> in eine <objectName ref="schuessel">Schüssel</objectName> mit Ram <lb/> laß bachen im <objectName ref="ofen">Ofen</objectName> <lb/> oder auf der <objectName ref="glut">Glut</objectName>; auf solche Weiß können auch die Strützlein gemacht werden. </p>
+        <p> NImm von disem <objectName ref="#gehaeck">Gehäck</objectName> <lb/> mit Semmel <lb/> Eyer und Ram <lb/> mach Strützlein draus <lb/> in eine <objectName ref="#schuessel">Schüssel</objectName> mit Ram <lb/> laß bachen im <objectName ref="#ofen">Ofen</objectName> <lb/> oder auf der <objectName ref="#glut">Glut</objectName>; auf solche Weiß können auch die Strützlein gemacht werden. </p>
             </div>
         </body>
     </text>

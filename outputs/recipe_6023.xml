@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ROthe Strützlein von Brüßlein= <objectName ref="gehaeck">Gehäck</objectName> <lb/> Eyern <lb/> Semmel und Ram <lb/> auch Eyer= Käß <lb/> werden unter einander gehackt <lb/> mach <objectName ref="nudeln">Nudeln</objectName> oder Strützelein darauß <lb/> mit Ram in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> mit Krebs= <objectName ref="butter">Butter</objectName>; vor <lb/> oder im Anrichten bestecks mit lang= geschittenen <objectName ref="mandeln">Mandeln</objectName> <lb/> Pisdazi, oder Piniolen <lb/> und ziers mit rothen in Krebs= <objectName ref="butter">Butter</objectName> gerösten Bröslein. </p>
+        <p> ROthe Strützlein von Brüßlein= <objectName ref="#gehaeck">Gehäck</objectName> <lb/> Eyern <lb/> Semmel und Ram <lb/> auch Eyer= Käß <lb/> werden unter einander gehackt <lb/> mach <objectName ref="#nudeln">Nudeln</objectName> oder Strützelein darauß <lb/> mit Ram in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> mit Krebs= <objectName ref="#butter">Butter</objectName>; vor <lb/> oder im Anrichten bestecks mit lang= geschittenen <objectName ref="#mandeln">Mandeln</objectName> <lb/> Pisdazi, oder Piniolen <lb/> und ziers mit rothen in Krebs= <objectName ref="#butter">Butter</objectName> gerösten Bröslein. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim Mandel vnd Quittensafft <lb/> streich jn durch mit <objectName ref="hausenblase">Hausenblasen</objectName> <lb/> vnd machs wol süß <lb/> setzts auff Kolen <lb/> vnd rürs vmb <lb/> biß auffseudt <lb/> vnnd laß kalt werden <lb/> geuß in einen <objectName ref="model">Model</objectName> <lb/> vnd laß gestehen <lb/> vnd wenn du es wilt an richten <lb/> so kanstu ein braune Brüh darvnter thun <lb/> es sey von Weichselsalsen <lb/> oder von Quittensafft <lb/> daß dick wirt <lb/> daß mans schneiden kan <lb/> so ist es lieblich vnd gut zu essen. </p>
+        <p> Nim Mandel vnd Quittensafft <lb/> streich jn durch mit <objectName ref="#hausenblase">Hausenblasen</objectName> <lb/> vnd machs wol süß <lb/> setzts auff Kolen <lb/> vnd rürs vmb <lb/> biß auffseudt <lb/> vnnd laß kalt werden <lb/> geuß in einen <objectName ref="#model">Model</objectName> <lb/> vnd laß gestehen <lb/> vnd wenn du es wilt an richten <lb/> so kanstu ein braune Brüh darvnter thun <lb/> es sey von Weichselsalsen <lb/> oder von Quittensafft <lb/> daß dick wirt <lb/> daß mans schneiden kan <lb/> so ist es lieblich vnd gut zu essen. </p>
             </div>
         </body>
     </text>

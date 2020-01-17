@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Erstlich siede<gap/> daß hirn<gap/> seich<gap/> es ab, hagß<gap/> <lb/> thues in ein häfferl<gap/> gieß<gap/> fleisch<gap/> supen<gap/> dar <lb/><lb/> ( 32r ) an spridl<gap/> ein odter 2 ayr<gap/> dodter<gap/> darein, vnd <lb/> reibe<gap/> ein Mußgatnus<gap/> darein <objectName ref="pfeffer">Pfeffer</objectName> vnd gilbß<gap/> <lb/> löge<gap/> auch butter<gap/> darein spridl<gap/> es ab vndtereinandter <lb/> laß ein khleines sidl<gap/> thuen Mach<gap/> es mit butter<gap/> <lb/> vnd Mehl<gap/> zury, laß nit lang siedten<gap/>, richts<gap/> <lb/> auf pätte<gap/> schnidl<gap/> an vnd gibs auf die daffl<gap/> <lb/> [ Anm. : „ Eyr <objectName ref="hirn">hirn</objectName> supen “ : „ <objectName ref="hirn">hirn</objectName> “ wurde nachträglich eingefügt. ] </p>
+        <p> Erstlich siede<gap/> daß hirn<gap/> seich<gap/> es ab, hagß<gap/> <lb/> thues in ein häfferl<gap/> gieß<gap/> fleisch<gap/> supen<gap/> dar <lb/><lb/> ( 32r ) an spridl<gap/> ein odter 2 ayr<gap/> dodter<gap/> darein, vnd <lb/> reibe<gap/> ein Mußgatnus<gap/> darein <objectName ref="#pfeffer">Pfeffer</objectName> vnd gilbß<gap/> <lb/> löge<gap/> auch butter<gap/> darein spridl<gap/> es ab vndtereinandter <lb/> laß ein khleines sidl<gap/> thuen Mach<gap/> es mit butter<gap/> <lb/> vnd Mehl<gap/> zury, laß nit lang siedten<gap/>, richts<gap/> <lb/> auf pätte<gap/> schnidl<gap/> an vnd gibs auf die daffl<gap/> <lb/> [ Anm. : „ Eyr <objectName ref="#hirn">hirn</objectName> supen “ : „ <objectName ref="#hirn">hirn</objectName> “ wurde nachträglich eingefügt. ] </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WElsche <objectName ref="nuesse">Nüsse</objectName> kan man auf eben diese Weise gefüllt machen <lb/> wie die obbemeldete gefüllte Aepffel und Birne <lb/> auch ebenfalls zweyerley Füll hinein füllen; dann in den <objectName ref="ofen">Ofen</objectName> schön licht= gelb bachen <lb/> und abtrocknen lassen : Oder man kan selbige wann sie zuvor wohl ertrocknet <lb/> auch aus einem heissen Schmaltz heraus bachen. </p>
+        <p> WElsche <objectName ref="#nuesse">Nüsse</objectName> kan man auf eben diese Weise gefüllt machen <lb/> wie die obbemeldete gefüllte Aepffel und Birne <lb/> auch ebenfalls zweyerley Füll hinein füllen; dann in den <objectName ref="#ofen">Ofen</objectName> schön licht= gelb bachen <lb/> und abtrocknen lassen : Oder man kan selbige wann sie zuvor wohl ertrocknet <lb/> auch aus einem heissen Schmaltz heraus bachen. </p>
             </div>
         </body>
     </text>

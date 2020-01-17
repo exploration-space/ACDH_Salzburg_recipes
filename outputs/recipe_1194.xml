@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb außgeleste<gap/> Khrebsen, Schwaifl<gap/>, hackh sie khlein <lb/> vnd waickh<gap/> ain stuckh<gap/> semmbl<gap/> in die Milch<gap/>, druckhs<gap/> auß <lb/> vnd hackhs<gap/> darein, <objectName ref="salz">Salz</objectName>, vnd gewierz<gap/>, woll, schlag <lb/> 2 ayr<gap/> daran, Nimb ein wenig Rothen<gap/> khrebs Putter<gap/> <lb/> darein, vnd fill<gap/> also die hiendl darmit, <lb/> </p>
+        <p> Nimb außgeleste<gap/> Khrebsen, Schwaifl<gap/>, hackh sie khlein <lb/> vnd waickh<gap/> ain stuckh<gap/> semmbl<gap/> in die Milch<gap/>, druckhs<gap/> auß <lb/> vnd hackhs<gap/> darein, <objectName ref="#salz">Salz</objectName>, vnd gewierz<gap/>, woll, schlag <lb/> 2 ayr<gap/> daran, Nimb ein wenig Rothen<gap/> khrebs Putter<gap/> <lb/> darein, vnd fill<gap/> also die hiendl darmit, <lb/> </p>
             </div>
         </body>
     </text>

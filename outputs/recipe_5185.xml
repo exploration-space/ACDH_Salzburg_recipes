@@ -170,7 +170,7 @@ Es sind auch die Coppen gebachner gut / in dem <em>Marginat</em>, mit Oel / Eßi
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="salz">SAlz</objectName> die Coppen <lb/> und laß ein Weil darinnen ligen <lb/> vor dem Bachen <lb/> dann trückne sie wol von dem Schleim ab <lb/> ledige die breiten Flößl <lb/> melbe die <objectName ref="koppe">Koppen</objectName> <lb/> und bachs in Schmaltz <lb/> oder Oel </p>
+        <p> <objectName ref="#salz">SAlz</objectName> die Coppen <lb/> und laß ein Weil darinnen ligen <lb/> vor dem Bachen <lb/> dann trückne sie wol von dem Schleim ab <lb/> ledige die breiten Flößl <lb/> melbe die <objectName ref="#koppe">Koppen</objectName> <lb/> und bachs in Schmaltz <lb/> oder Oel </p>
             </div>
         </body>
     </text>

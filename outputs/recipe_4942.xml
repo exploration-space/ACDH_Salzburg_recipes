@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet Aepffel <lb/> schählet und schneidet sie würfflicht <lb/> röstets im Schmaltz <lb/> giesset einen <objectName ref="wein">Wein</objectName> daran <lb/> thut Weinbeer <lb/> oder Corinthen <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> ein wenig <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Cardamomen und Saffran dazu <lb/> lassets eine weile sieden : Wann dann die also genannte Junge <objectName ref="gans">Gans</objectName> weich abgesotten ist <lb/> wie zuvor gedacht <lb/> leget sie in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und giesset diese jetzt= beschriebene Brüh darüber. </p>
+        <p> NEhmet Aepffel <lb/> schählet und schneidet sie würfflicht <lb/> röstets im Schmaltz <lb/> giesset einen <objectName ref="#wein">Wein</objectName> daran <lb/> thut Weinbeer <lb/> oder Corinthen <lb/> <objectName ref="#zucker">Zucker</objectName> <lb/> ein wenig <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Cardamomen und Saffran dazu <lb/> lassets eine weile sieden : Wann dann die also genannte Junge <objectName ref="#gans">Gans</objectName> weich abgesotten ist <lb/> wie zuvor gedacht <lb/> leget sie in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> und giesset diese jetzt= beschriebene Brüh darüber. </p>
             </div>
         </body>
     </text>

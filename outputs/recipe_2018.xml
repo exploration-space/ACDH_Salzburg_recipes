@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Saluel, stosß ihn im Merser, treibs durch mit halb <objectName ref="wein">Wein</objectName> <lb/> vnd <objectName ref="essig">Essig</objectName>, ein Wenig fleischbrüe, vnd Puter, ein Wenig Zukher, <lb/> vnd <objectName ref="salz">Salz</objectName>, stups mit <objectName ref="pfeffer">Pfeffer</objectName> vnd Imerstup, ein Wenig ge= <lb/> stossen Mandl, laß auf sieden, geuß ÿber Prätl, oder Wëe <lb/> du Wilt. <lb/> </p>
+        <p> Nimb Saluel, stosß ihn im Merser, treibs durch mit halb <objectName ref="#wein">Wein</objectName> <lb/> vnd <objectName ref="#essig">Essig</objectName>, ein Wenig fleischbrüe, vnd Puter, ein Wenig Zukher, <lb/> vnd <objectName ref="#salz">Salz</objectName>, stups mit <objectName ref="#pfeffer">Pfeffer</objectName> vnd Imerstup, ein Wenig ge= <lb/> stossen Mandl, laß auf sieden, geuß ÿber Prätl, oder Wëe <lb/> du Wilt. <lb/> </p>
             </div>
         </body>
     </text>

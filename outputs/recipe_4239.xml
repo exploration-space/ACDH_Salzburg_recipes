@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChildkrotten in Petersil= <objectName ref="bruehe">Brühe</objectName> <lb/> mit den gesottenen Petersil= Wurtzen <lb/> mit wenig <objectName ref="wein">Wein</objectName> gesäuert <lb/> mit <objectName ref="butter">Butter</objectName> <lb/> Gewürtz und gelben Eingebrenn <lb/> wenig Saltz <lb/> auch auf die letzt mit klein= gehackten Petersil= Kräutlein versehen. </p>
+        <p> SChildkrotten in Petersil= <objectName ref="#bruehe">Brühe</objectName> <lb/> mit den gesottenen Petersil= Wurtzen <lb/> mit wenig <objectName ref="#wein">Wein</objectName> gesäuert <lb/> mit <objectName ref="#butter">Butter</objectName> <lb/> Gewürtz und gelben Eingebrenn <lb/> wenig Saltz <lb/> auch auf die letzt mit klein= gehackten Petersil= Kräutlein versehen. </p>
             </div>
         </body>
     </text>

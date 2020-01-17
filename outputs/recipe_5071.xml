@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wann die Zung gesotten vnd außgeseubert ist <lb/> so laß sie kalt werden <lb/> spick sie mit kleinem geschnittenen <objectName ref="speck">Speck</objectName> <lb/> steck sie an <lb/> vnnd brat sie geschwindt hinweg <lb/> mach ein <objectName ref="suppe">Suppen</objectName> darvnter. Nim ( m ) Rindtfleischbrüh <lb/> vnd begeuß einen Rindern oder Ham ( m ) elbraten damit ab <lb/> fah sie wider auff <lb/> so wirdt sie fein braun <lb/> laß mit gestossenem <objectName ref="pfeffer">Pfeffer</objectName> vnnd <objectName ref="essig">Essig</objectName> auffsieden <lb/> vnnd wenn du anrichtest <lb/> so geuß die <objectName ref="suppe">Suppen</objectName> darvnter <lb/> so wirdt es braun vnd gut. </p>
+        <p> Wann die Zung gesotten vnd außgeseubert ist <lb/> so laß sie kalt werden <lb/> spick sie mit kleinem geschnittenen <objectName ref="#speck">Speck</objectName> <lb/> steck sie an <lb/> vnnd brat sie geschwindt hinweg <lb/> mach ein <objectName ref="#suppe">Suppen</objectName> darvnter. Nim ( m ) Rindtfleischbrüh <lb/> vnd begeuß einen Rindern oder Ham ( m ) elbraten damit ab <lb/> fah sie wider auff <lb/> so wirdt sie fein braun <lb/> laß mit gestossenem <objectName ref="#pfeffer">Pfeffer</objectName> vnnd <objectName ref="#essig">Essig</objectName> auffsieden <lb/> vnnd wenn du anrichtest <lb/> so geuß die <objectName ref="#suppe">Suppen</objectName> darvnter <lb/> so wirdt es braun vnd gut. </p>
             </div>
         </body>
     </text>

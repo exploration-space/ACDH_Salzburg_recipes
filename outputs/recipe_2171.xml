@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Thue die Ferchen auf, laß im <objectName ref="salz">Salz</objectName> ligen, hiz ein <objectName ref="schmalz">schmalz</objectName>, bren ge= <lb/> ribne Sembl drein, fein liechtbraun, geuß darein ein Wenig <lb/> gueten <objectName ref="essig">Essig</objectName>, ein Wenig Arbes brüe, öel, Mußcatblüe, Saffran, ge= <lb/> schnitnen Petersill, leg die eingesalzne <objectName ref="fisch">fisch</objectName> drein, laß sieden, <lb/> vnd gibs, man khans auch khlaue Weinpörlein ein hand voll in die <lb/> brüe legen, vnd beÿ dem <objectName ref="fisch">fisch</objectName> sieden. <lb/> </p>
+        <p> Thue die Ferchen auf, laß im <objectName ref="#salz">Salz</objectName> ligen, hiz ein <objectName ref="#schmalz">schmalz</objectName>, bren ge= <lb/> ribne Sembl drein, fein liechtbraun, geuß darein ein Wenig <lb/> gueten <objectName ref="#essig">Essig</objectName>, ein Wenig Arbes brüe, öel, Mußcatblüe, Saffran, ge= <lb/> schnitnen Petersill, leg die eingesalzne <objectName ref="#fisch">fisch</objectName> drein, laß sieden, <lb/> vnd gibs, man khans auch khlaue Weinpörlein ein hand voll in die <lb/> brüe legen, vnd beÿ dem <objectName ref="#fisch">fisch</objectName> sieden. <lb/> </p>
             </div>
         </body>
     </text>

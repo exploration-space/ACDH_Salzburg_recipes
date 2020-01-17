@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Cut a Hare in Pieces without washing it; season it with half an Onion cut very fine, a Sprig of Thyme, and a little Parsley, Pepper and Salt, half a Nutmeg, and a little Lemon Peel; strew all these over your Hare, and slice half a Pound of fat Bacon into thin Slices; then put your hare into a Jug, a Layer of Hare, and the Slices of fat Bacon upon it; do thus till all is in the Jug; stop the Jug very close that no Steam may get out; then put it in a Pot of cold Water, lay a Tile on the Top, and let it boil three Hours; then take the Jug out of the Kettle, put half a Pound of <objectName ref="butter">Butter</objectName> in it, and shake it about till the <objectName ref="butter">Butter</objectName> is melted, and put it into your Dish. </p>
+        <p> Cut a Hare in Pieces without washing it; season it with half an Onion cut very fine, a Sprig of Thyme, and a little Parsley, Pepper and Salt, half a Nutmeg, and a little Lemon Peel; strew all these over your Hare, and slice half a Pound of fat Bacon into thin Slices; then put your hare into a Jug, a Layer of Hare, and the Slices of fat Bacon upon it; do thus till all is in the Jug; stop the Jug very close that no Steam may get out; then put it in a Pot of cold Water, lay a Tile on the Top, and let it boil three Hours; then take the Jug out of the Kettle, put half a Pound of <objectName ref="#butter">Butter</objectName> in it, and shake it about till the <objectName ref="#butter">Butter</objectName> is melted, and put it into your Dish. </p>
             </div>
         </body>
     </text>

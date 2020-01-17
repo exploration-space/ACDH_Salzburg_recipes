@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Die Aenten <lb/> und das jùs werden gemachet <lb/> wie oben; dann nimm schön grosse Selleri= Wurtzen <lb/> schneid etliche zu Stucken <lb/> Blatten <lb/> oder Spalten <lb/> die andere aber gantz klein gewürfflet <lb/> überbrühe beede Theil ein wenig <lb/> und seige solche wieder ab <lb/> thue sie mit <objectName ref="pfeffer">Pfeffer</objectName> und Meel besprengen <lb/> schön gelb= braun aus heissem Schmaltz bachen <lb/> das durchtriebene jùs daran giessen <lb/> alsdann aufsetzen und anrichten <lb/> wie gleich jetzt vorhero gehört worden. Item. Wild= Aenten mit guten Bratwürst= <objectName ref="gehaeck">Gehäck</objectName> gefüllt <lb/> und mit braun jùs mit <objectName ref="linsen">Linsen</objectName> seynd gut <lb/> regalirs mit gebachnen Knödlein und Kälber jùs. </p>
+        <p> Die Aenten <lb/> und das jùs werden gemachet <lb/> wie oben; dann nimm schön grosse Selleri= Wurtzen <lb/> schneid etliche zu Stucken <lb/> Blatten <lb/> oder Spalten <lb/> die andere aber gantz klein gewürfflet <lb/> überbrühe beede Theil ein wenig <lb/> und seige solche wieder ab <lb/> thue sie mit <objectName ref="#pfeffer">Pfeffer</objectName> und Meel besprengen <lb/> schön gelb= braun aus heissem Schmaltz bachen <lb/> das durchtriebene jùs daran giessen <lb/> alsdann aufsetzen und anrichten <lb/> wie gleich jetzt vorhero gehört worden. Item. Wild= Aenten mit guten Bratwürst= <objectName ref="#gehaeck">Gehäck</objectName> gefüllt <lb/> und mit braun jùs mit <objectName ref="#linsen">Linsen</objectName> seynd gut <lb/> regalirs mit gebachnen Knödlein und Kälber jùs. </p>
             </div>
         </body>
     </text>

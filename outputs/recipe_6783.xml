@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Kramatsvögel gebraten <lb/> vnd kalt lassen werden <lb/> vnd wenn sie kalt seyn <lb/> spickt man sie mit saure ( n ) frischen Limonien oder Pomerantzen <lb/> thu darvnter klein gehackt Zitron <lb/> die mit weissem <objectName ref="zucker">Zucker</objectName> fein angemacht seind <lb/> so ist es ein herrlichs Essen vor einen grossen Herrn. </p>
+        <p> Kramatsvögel gebraten <lb/> vnd kalt lassen werden <lb/> vnd wenn sie kalt seyn <lb/> spickt man sie mit saure ( n ) frischen Limonien oder Pomerantzen <lb/> thu darvnter klein gehackt Zitron <lb/> die mit weissem <objectName ref="#zucker">Zucker</objectName> fein angemacht seind <lb/> so ist es ein herrlichs Essen vor einen grossen Herrn. </p>
             </div>
         </body>
     </text>

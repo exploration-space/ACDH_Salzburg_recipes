@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEmet blaue Korn= <objectName ref="blumen">Blumen</objectName> <lb/> pflicket die Blätter davon <lb/> darnach waschet und reibet sie in einem Reib= Topff klein <lb/> gieset Rosen= <objectName ref="wasser">Wasser</objectName> daran <lb/> und zwingts durch ein <objectName ref="tuch">Tuch</objectName>; nach dem zuckerts <lb/> und rührets unter abgeriebene <objectName ref="mandeln">Mandeln</objectName> : es darff aber nicht gesotten werden <lb/> so bleibt es schön blau. </p>
+        <p> NEmet blaue Korn= <objectName ref="#blumen">Blumen</objectName> <lb/> pflicket die Blätter davon <lb/> darnach waschet und reibet sie in einem Reib= Topff klein <lb/> gieset Rosen= <objectName ref="#wasser">Wasser</objectName> daran <lb/> und zwingts durch ein <objectName ref="#tuch">Tuch</objectName>; nach dem zuckerts <lb/> und rührets unter abgeriebene <objectName ref="#mandeln">Mandeln</objectName> : es darff aber nicht gesotten werden <lb/> so bleibt es schön blau. </p>
             </div>
         </body>
     </text>

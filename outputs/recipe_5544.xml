@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet die Häuptlein annoch ungebrühet <lb/> oder lasts nur ein wenig zuvor überbrühen <lb/> schneidet sie von einander <lb/> thuts in einen stollichten <objectName ref="hafen">hafen</objectName> <lb/> giesst ein wenig Fleischbrüh daran <lb/> setzt sie dann auf eine <objectName ref="glut">Glut</objectName> oder <objectName ref="kohlen">Kohlen</objectName> <lb/> und lasset sie sieden <lb/> doch also <lb/> daß sie nicht anbrennen; schählet dann einen <objectName ref="knoblauch">Knoblauch</objectName> <lb/> schneidet solchen würfflicht <lb/> streuet ihn zwischen die Häuptlein <lb/> giesset Oel daran <lb/> saltzt und pfeffert sie <lb/> setzt es hernach nochmal auf die <objectName ref="kohlen">Kohlen</objectName> <lb/> um ganz gemach zu sieden <lb/> damit sie nicht zu weich werden. </p>
+        <p> NEhmet die Häuptlein annoch ungebrühet <lb/> oder lasts nur ein wenig zuvor überbrühen <lb/> schneidet sie von einander <lb/> thuts in einen stollichten <objectName ref="#hafen">hafen</objectName> <lb/> giesst ein wenig Fleischbrüh daran <lb/> setzt sie dann auf eine <objectName ref="#glut">Glut</objectName> oder <objectName ref="#kohlen">Kohlen</objectName> <lb/> und lasset sie sieden <lb/> doch also <lb/> daß sie nicht anbrennen; schählet dann einen <objectName ref="#knoblauch">Knoblauch</objectName> <lb/> schneidet solchen würfflicht <lb/> streuet ihn zwischen die Häuptlein <lb/> giesset Oel daran <lb/> saltzt und pfeffert sie <lb/> setzt es hernach nochmal auf die <objectName ref="#kohlen">Kohlen</objectName> <lb/> um ganz gemach zu sieden <lb/> damit sie nicht zu weich werden. </p>
             </div>
         </body>
     </text>

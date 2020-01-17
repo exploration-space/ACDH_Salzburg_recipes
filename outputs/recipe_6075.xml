@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Von demselbigen <objectName ref="kraut">Kraut</objectName> den Stengel fein klein geschnitten <lb/> mit <objectName ref="essig">Essig</objectName> vnd Oel abgemacht. </p>
+        <p> Von demselbigen <objectName ref="#kraut">Kraut</objectName> den Stengel fein klein geschnitten <lb/> mit <objectName ref="#essig">Essig</objectName> vnd Oel abgemacht. </p>
             </div>
         </body>
     </text>

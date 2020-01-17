@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb schene Wolzeitige <objectName ref="quitten">Quitten</objectName>, die schen gelb sein geschelt, vnd <lb/> Zu spältl geschniten, schneid das stainig als daruon, das <lb/> nur das schen vnd Prätig bleibt, darnach nimb schenen <lb/> Zukher vnd leither ihn gar schen, Wan er geleithert Wird, <lb/> vnd sicht Wie ein schener Sÿrup, so laß fein khiel Werden, <lb/> darnach thue die <objectName ref="quitten">Quitten</objectName> spältl daran, laß fein sieden, <lb/> vnd Zerstosß die speitl gar khlein auf das khleinest so du <lb/> khanst. <lb/> </p>
+        <p> Nimb schene Wolzeitige <objectName ref="#quitten">Quitten</objectName>, die schen gelb sein geschelt, vnd <lb/> Zu spältl geschniten, schneid das stainig als daruon, das <lb/> nur das schen vnd Prätig bleibt, darnach nimb schenen <lb/> Zukher vnd leither ihn gar schen, Wan er geleithert Wird, <lb/> vnd sicht Wie ein schener Sÿrup, so laß fein khiel Werden, <lb/> darnach thue die <objectName ref="#quitten">Quitten</objectName> spältl daran, laß fein sieden, <lb/> vnd Zerstosß die speitl gar khlein auf das khleinest so du <lb/> khanst. <lb/> </p>
             </div>
         </body>
     </text>

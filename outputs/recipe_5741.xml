@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Oder in eine <objectName ref="pastete">Pasteten</objectName> eynmachen <lb/> daß man den Halß <lb/> Flügel vnd Schwantz darauff macht <lb/> daß man sihet <lb/> daß ein <objectName ref="adler">Adler</objectName> sey. </p>
+        <p> Oder in eine <objectName ref="#pastete">Pasteten</objectName> eynmachen <lb/> daß man den Halß <lb/> Flügel vnd Schwantz darauff macht <lb/> daß man sihet <lb/> daß ein <objectName ref="#adler">Adler</objectName> sey. </p>
             </div>
         </body>
     </text>

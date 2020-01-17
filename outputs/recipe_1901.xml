@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb 4. Zwifl haubt, schneids, vnd röst 2. Semblschniten, <lb/> im <objectName ref="schmalz">schmalz</objectName>, Sechs steidl Pertram, vnd etlich Petersill <lb/> Würzl, laß also Sieden, biß Zum durchtreiben, <lb/> gieß in ein reindl, vnd Zermahlnen <objectName ref="pfeffer">Pfeffer</objectName> dran, <lb/> Mußcatblüe, Zimmet stup, leg das hiendl Zu viertln <lb/> drein, Wan ihr wolt ein wenig <objectName ref="wein">Wein</objectName>, vnd Wan man <lb/> anricht, so legt ein frischen buter dran. <lb/> </p>
+        <p> Nimb 4. Zwifl haubt, schneids, vnd röst 2. Semblschniten, <lb/> im <objectName ref="#schmalz">schmalz</objectName>, Sechs steidl Pertram, vnd etlich Petersill <lb/> Würzl, laß also Sieden, biß Zum durchtreiben, <lb/> gieß in ein reindl, vnd Zermahlnen <objectName ref="#pfeffer">Pfeffer</objectName> dran, <lb/> Mußcatblüe, Zimmet stup, leg das hiendl Zu viertln <lb/> drein, Wan ihr wolt ein wenig <objectName ref="#wein">Wein</objectName>, vnd Wan man <lb/> anricht, so legt ein frischen buter dran. <lb/> </p>
             </div>
         </body>
     </text>

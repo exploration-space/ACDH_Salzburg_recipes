@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> laß daß Wiltpräth<gap/> halb sieden<gap/>, seiche<gap/> die <lb/> brye<gap/> halb hinwöckh, schneith<gap/> zwifl<gap/> schen Klein, <lb/> Rest<gap/> es in schmalz<gap/>, auch ein wenig Mehl<gap/> dar= <lb/> zue, gieß<gap/> die Wiltprie<gap/> daran, vnd ain Raifl<gap/>, <lb/> oder sonst siesen <objectName ref="wein">wein</objectName>, gewierz<gap/>, due Putter<gap/>, <lb/> darein, laß Sieden<gap/> oder Kochen, due Näglstupp<gap/>, <lb/> darein, vnd gibs also <lb/><lb/> ( 8v ) </p>
+        <p> laß daß Wiltpräth<gap/> halb sieden<gap/>, seiche<gap/> die <lb/> brye<gap/> halb hinwöckh, schneith<gap/> zwifl<gap/> schen Klein, <lb/> Rest<gap/> es in schmalz<gap/>, auch ein wenig Mehl<gap/> dar= <lb/> zue, gieß<gap/> die Wiltprie<gap/> daran, vnd ain Raifl<gap/>, <lb/> oder sonst siesen <objectName ref="#wein">wein</objectName>, gewierz<gap/>, due Putter<gap/>, <lb/> darein, laß Sieden<gap/> oder Kochen, due Näglstupp<gap/>, <lb/> darein, vnd gibs also <lb/><lb/> ( 8v ) </p>
             </div>
         </body>
     </text>

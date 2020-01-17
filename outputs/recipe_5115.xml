@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Eyer vnnd schlag sie durcheinander <lb/> laß sie durch ein Härin <objectName ref="tuch">Tuch</objectName> lauffen <lb/> vnnd thu ein gute süsse <objectName ref="milch">Milch</objectName> darvnter <lb/> auch klein geschnittenen <objectName ref="speck">Speck</objectName> <lb/> grüne <objectName ref="kraeuter">Kräuter</objectName> <lb/> vnd ein wenig Saffran. Nim ( m ) den <objectName ref="darm">Darm</objectName> <lb/> vnd bindt jn an einem Ort zu <lb/> thu die Füll durch einander darein <lb/> vnd bindt jn am andern ort auch zu <lb/> laß an die statt sieden wie die andern Därm. </p>
+        <p> Nim ( m ) Eyer vnnd schlag sie durcheinander <lb/> laß sie durch ein Härin <objectName ref="#tuch">Tuch</objectName> lauffen <lb/> vnnd thu ein gute süsse <objectName ref="#milch">Milch</objectName> darvnter <lb/> auch klein geschnittenen <objectName ref="#speck">Speck</objectName> <lb/> grüne <objectName ref="#kraeuter">Kräuter</objectName> <lb/> vnd ein wenig Saffran. Nim ( m ) den <objectName ref="#darm">Darm</objectName> <lb/> vnd bindt jn an einem Ort zu <lb/> thu die Füll durch einander darein <lb/> vnd bindt jn am andern ort auch zu <lb/> laß an die statt sieden wie die andern Därm. </p>
             </div>
         </body>
     </text>

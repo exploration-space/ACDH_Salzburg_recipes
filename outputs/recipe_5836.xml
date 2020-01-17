@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChlag Eyer auf <lb/> und behalt das Gelb besonders von dem Klar <lb/> gewürtz beederseits mit wenig <objectName ref="salz">Salz</objectName> <lb/> weiß Meel und Muscatnuß <lb/> gieß auch beyderseits wenig süssen Ram <lb/> mit Zimmet=Wasser zu <lb/> und mache mit guten <objectName ref="butter">Butter</objectName> zwey gleiche Eingerührts <lb/> richt das Gelbe in die <objectName ref="schuessel">Schüssel</objectName> <lb/> regaliers mit dem weissen Eingerühr und rothen Krebs und roten Krebs=Pafössen <lb/> wer es aber nicht gern süß haben will <lb/> lasse das Zimmet=Wasser mit dem <objectName ref="zucker">Zucker</objectName> aus. </p>
+        <p> SChlag Eyer auf <lb/> und behalt das Gelb besonders von dem Klar <lb/> gewürtz beederseits mit wenig <objectName ref="#salz">Salz</objectName> <lb/> weiß Meel und Muscatnuß <lb/> gieß auch beyderseits wenig süssen Ram <lb/> mit Zimmet=Wasser zu <lb/> und mache mit guten <objectName ref="#butter">Butter</objectName> zwey gleiche Eingerührts <lb/> richt das Gelbe in die <objectName ref="#schuessel">Schüssel</objectName> <lb/> regaliers mit dem weissen Eingerühr und rothen Krebs und roten Krebs=Pafössen <lb/> wer es aber nicht gern süß haben will <lb/> lasse das Zimmet=Wasser mit dem <objectName ref="#zucker">Zucker</objectName> aus. </p>
             </div>
         </body>
     </text>

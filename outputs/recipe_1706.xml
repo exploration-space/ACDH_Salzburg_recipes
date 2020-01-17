@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb den Väsch von fischen, nimb <objectName ref="wein">wein</objectName> dar= <lb/> =unter vnd Nägl stup, Imber, <objectName ref="pfeffer">Pfeffer</objectName>, <lb/> vnd ain scharpfen <objectName ref="essig">Essig</objectName>, d ( a ) s er für schlegt, <lb/> laß die <objectName ref="fisch">fisch</objectName> wol Sieden, vnd Seichs darnach <lb/><lb/> ( 58r ).ab, laß bestehen ain stunt, so wiert die fein <lb/> Schwarz vnd schön lauter, vnd <objectName ref="salz">Salz</objectName> nit zu <lb/> hart. <lb/> </p>
+        <p> Nimb den Väsch von fischen, nimb <objectName ref="#wein">wein</objectName> dar= <lb/> =unter vnd Nägl stup, Imber, <objectName ref="#pfeffer">Pfeffer</objectName>, <lb/> vnd ain scharpfen <objectName ref="#essig">Essig</objectName>, d ( a ) s er für schlegt, <lb/> laß die <objectName ref="#fisch">fisch</objectName> wol Sieden, vnd Seichs darnach <lb/><lb/> ( 58r ).ab, laß bestehen ain stunt, so wiert die fein <lb/> Schwarz vnd schön lauter, vnd <objectName ref="#salz">Salz</objectName> nit zu <lb/> hart. <lb/> </p>
             </div>
         </body>
     </text>

@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Grosse Holhippen von <objectName ref="teig">Teig</objectName> vber ein grossen Walger gemacht <lb/> vnd auch gar kleine Holhippen <lb/> die drey oder viermal vbereinander gewalgt seyn von einem <objectName ref="teig">Teig</objectName>. </p>
+        <p> Grosse Holhippen von <objectName ref="#teig">Teig</objectName> vber ein grossen Walger gemacht <lb/> vnd auch gar kleine Holhippen <lb/> die drey oder viermal vbereinander gewalgt seyn von einem <objectName ref="#teig">Teig</objectName>. </p>
             </div>
         </body>
     </text>

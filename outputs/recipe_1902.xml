@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Woll Zeitige Kherschen, oder Weixl, rösts gor Woll <lb/> in einem <objectName ref="schmalz">schmalz</objectName>, das gar waich Werden, khlaub dar= <lb/> nach die khern drauß, thue ein wenig geribne Sembl <lb/> drunder, Zuggers Woll, vnd ein wenig gestossnen <lb/> Zimmet, mach also ein dorten, bachs, vnd bestreichs so <lb/> ists guet. <lb/> </p>
+        <p> Nimb Woll Zeitige Kherschen, oder Weixl, rösts gor Woll <lb/> in einem <objectName ref="#schmalz">schmalz</objectName>, das gar waich Werden, khlaub dar= <lb/> nach die khern drauß, thue ein wenig geribne Sembl <lb/> drunder, Zuggers Woll, vnd ein wenig gestossnen <lb/> Zimmet, mach also ein dorten, bachs, vnd bestreichs so <lb/> ists guet. <lb/> </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> In einem <objectName ref="saecklein">Säcklein</objectName> hengt man Negelein in ein Faß mit <objectName ref="most">Most</objectName>. Der <objectName ref="wein">Wein</objectName> ist truckner Natur <lb/> ist gut für das Keichen <lb/> alten faulen Husten <lb/> Fallendesucht <lb/> kurtzen Athem <lb/> strärcket die däuwung. </p>
+        <p> In einem <objectName ref="#saecklein">Säcklein</objectName> hengt man Negelein in ein Faß mit <objectName ref="#most">Most</objectName>. Der <objectName ref="#wein">Wein</objectName> ist truckner Natur <lb/> ist gut für das Keichen <lb/> alten faulen Husten <lb/> Fallendesucht <lb/> kurtzen Athem <lb/> strärcket die däuwung. </p>
             </div>
         </body>
     </text>

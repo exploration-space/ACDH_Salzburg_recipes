@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn der <objectName ref="hecht">Hecht</objectName> im Saltzwasser genug gesotten hat <lb/> so blättre denselben <lb/> und thue die Gräte davon; leg ihn in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> gieß <objectName ref="wein">Wein</objectName> un ein wenig Fleischbrüh daran <lb/> drucke den Saft von Citronen darein <lb/> thue ein Stuck <objectName ref="butter">Butter</objectName> oder frisches Baum= Oel dazu <lb/> wie auch <objectName ref="pfeffer">Pfeffer</objectName> unMuscaten= Blüh <lb/> laß auf einer <objectName ref="glut">Glut</objectName> mit einander kochen <lb/> und trags dann zu <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> WAnn der <objectName ref="#hecht">Hecht</objectName> im Saltzwasser genug gesotten hat <lb/> so blättre denselben <lb/> und thue die Gräte davon; leg ihn in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> gieß <objectName ref="#wein">Wein</objectName> un ein wenig Fleischbrüh daran <lb/> drucke den Saft von Citronen darein <lb/> thue ein Stuck <objectName ref="#butter">Butter</objectName> oder frisches Baum= Oel dazu <lb/> wie auch <objectName ref="#pfeffer">Pfeffer</objectName> unMuscaten= Blüh <lb/> laß auf einer <objectName ref="#glut">Glut</objectName> mit einander kochen <lb/> und trags dann zu <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

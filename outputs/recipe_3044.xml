@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Siede die Kütten in süssen <objectName ref="wein">Wein</objectName> <lb/> und durchschlags <lb/> rühre 3. Eyerdotter darein <lb/> und ein wenig süssen Ram <lb/> <objectName ref="zucker">Zucker</objectName> und Zimmet <lb/> einen <objectName ref="butter">Butter</objectName> auf einer <objectName ref="schuessel">Schüssel</objectName> zerlassen <lb/> den Zeug darein giessen <lb/> und auf einer <objectName ref="glut">Glut</objectName> ein wenig sieden lassen <lb/> wie ein Schüssel=Muß; oder eine auch geweichte Semmel darunter. </p>
+        <p> Siede die Kütten in süssen <objectName ref="#wein">Wein</objectName> <lb/> und durchschlags <lb/> rühre 3. Eyerdotter darein <lb/> und ein wenig süssen Ram <lb/> <objectName ref="#zucker">Zucker</objectName> und Zimmet <lb/> einen <objectName ref="#butter">Butter</objectName> auf einer <objectName ref="#schuessel">Schüssel</objectName> zerlassen <lb/> den Zeug darein giessen <lb/> und auf einer <objectName ref="#glut">Glut</objectName> ein wenig sieden lassen <lb/> wie ein Schüssel=Muß; oder eine auch geweichte Semmel darunter. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ZIehet die <objectName ref="mandeln">Mandeln</objectName> im warmen <objectName ref="wasser">Wasser</objectName> ab <lb/> stosset sie klein <lb/> treibts mit <objectName ref="essig">Essig</objectName> oder <objectName ref="wein">Wein</objectName> durch <lb/> zuckerts ein wenig <lb/> und tragt sie also zu <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> ZIehet die <objectName ref="#mandeln">Mandeln</objectName> im warmen <objectName ref="#wasser">Wasser</objectName> ab <lb/> stosset sie klein <lb/> treibts mit <objectName ref="#essig">Essig</objectName> oder <objectName ref="#wein">Wein</objectName> durch <lb/> zuckerts ein wenig <lb/> und tragt sie also zu <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

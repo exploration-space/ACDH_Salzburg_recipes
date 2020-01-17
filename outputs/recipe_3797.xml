@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn dergleichen Stuck von Waller <lb/> in Saltz= <objectName ref="wasser">Wasser</objectName> oder sauren <objectName ref="wein">Wein</objectName> abgesotten wird <lb/> so taugt er zu allerhand <objectName ref="gehaeck">Gehäck</objectName> <lb/> gemischten Speisen <lb/> gezupffter <lb/> oder die Stuck gantzer <lb/> in grünen <objectName ref="erbsen">Erbsen</objectName> <lb/> Carfiol <lb/> oder Caulli, Dardoffeln <lb/> Schwammen <lb/> und <objectName ref="schnecken">Schnecken</objectName> <lb/> oder <objectName ref="austern">Austern</objectName> ausgelößter <lb/> Müschelein <lb/> oder <objectName ref="krebse">Krebsen</objectName> zu geben. </p>
+        <p> WAnn dergleichen Stuck von Waller <lb/> in Saltz= <objectName ref="#wasser">Wasser</objectName> oder sauren <objectName ref="#wein">Wein</objectName> abgesotten wird <lb/> so taugt er zu allerhand <objectName ref="#gehaeck">Gehäck</objectName> <lb/> gemischten Speisen <lb/> gezupffter <lb/> oder die Stuck gantzer <lb/> in grünen <objectName ref="#erbsen">Erbsen</objectName> <lb/> Carfiol <lb/> oder Caulli, Dardoffeln <lb/> Schwammen <lb/> und <objectName ref="#schnecken">Schnecken</objectName> <lb/> oder <objectName ref="#austern">Austern</objectName> ausgelößter <lb/> Müschelein <lb/> oder <objectName ref="#krebse">Krebsen</objectName> zu geben. </p>
             </div>
         </body>
     </text>

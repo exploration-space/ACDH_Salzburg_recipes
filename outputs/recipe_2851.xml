@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BEnetzet die bekannte und Num. 9. beschriebene Massam <lb/> zu denen Krafft= Marzepanen mit Citronen= Safft <lb/> daß sie ein wenig feucht werde; schlagets dann in einen <objectName ref="teig">Teig</objectName> <lb/> bestreichet selbigen mit <objectName ref="butter">Butter</objectName> <lb/> legt ihn auf ein <objectName ref="blech">Blech</objectName> <lb/> und lasset ihn bey steter Hitz bachen. </p>
+        <p> BEnetzet die bekannte und Num. 9. beschriebene Massam <lb/> zu denen Krafft= Marzepanen mit Citronen= Safft <lb/> daß sie ein wenig feucht werde; schlagets dann in einen <objectName ref="#teig">Teig</objectName> <lb/> bestreichet selbigen mit <objectName ref="#butter">Butter</objectName> <lb/> legt ihn auf ein <objectName ref="#blech">Blech</objectName> <lb/> und lasset ihn bey steter Hitz bachen. </p>
             </div>
         </body>
     </text>

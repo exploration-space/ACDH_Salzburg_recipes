@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Rür den <objectName ref="griess">Grieß</objectName> ab mit kalter <objectName ref="mandelmilch">Mandelmilch</objectName> <lb/> setz sie an der <objectName ref="mandelmilch">Mandelmilch</objectName> auff <lb/> vnnd laß auffsieden <lb/> rür den <objectName ref="griess">Grieß</objectName> darein <lb/> vnd laß darmit sieden <lb/> machs süß <lb/> vnd thu frische <objectName ref="butter">Butter</objectName> <lb/> die vngeschmältzt ist <lb/> darein <lb/> vnd schaw versaltz es nicht <lb/> den ( n ) es ist nit wolgeschmack <lb/> wenns sehr gesaltzen ist <lb/> wen ( n ) du es anrichtest <lb/> so besträw es mit weissem <objectName ref="zucker">Zucker</objectName> <lb/> so wirt es gut vnd wolgeschmack. </p>
+        <p> Rür den <objectName ref="#griess">Grieß</objectName> ab mit kalter <objectName ref="#mandelmilch">Mandelmilch</objectName> <lb/> setz sie an der <objectName ref="#mandelmilch">Mandelmilch</objectName> auff <lb/> vnnd laß auffsieden <lb/> rür den <objectName ref="#griess">Grieß</objectName> darein <lb/> vnd laß darmit sieden <lb/> machs süß <lb/> vnd thu frische <objectName ref="#butter">Butter</objectName> <lb/> die vngeschmältzt ist <lb/> darein <lb/> vnd schaw versaltz es nicht <lb/> den ( n ) es ist nit wolgeschmack <lb/> wenns sehr gesaltzen ist <lb/> wen ( n ) du es anrichtest <lb/> so besträw es mit weissem <objectName ref="#zucker">Zucker</objectName> <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

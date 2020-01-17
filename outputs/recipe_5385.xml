@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIese Knötlein werden allerdings verfertigt <lb/> wie oben gemeldt <lb/> nur daß man <objectName ref="schnittlauch">Schnittlauch</objectName> <lb/> klein gehackt oder geschnitten <lb/> darunter rühret <lb/> und die Knötlein ebenfalls aus dem Schmaltz heraus bächt. </p>
+        <p> DIese Knötlein werden allerdings verfertigt <lb/> wie oben gemeldt <lb/> nur daß man <objectName ref="#schnittlauch">Schnittlauch</objectName> <lb/> klein gehackt oder geschnitten <lb/> darunter rühret <lb/> und die Knötlein ebenfalls aus dem Schmaltz heraus bächt. </p>
             </div>
         </body>
     </text>

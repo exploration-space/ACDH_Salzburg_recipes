@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ain Bouch : d´aqua vnd ain händl voll <lb/> Saur ampffen die wurzen bey einen groben <lb/> oder garten vnd grabe sie auß vnd laß sie <lb/> thürn in der sohn oder auf einem <objectName ref="rost">rost</objectName>, dar,, <lb/> noch nimb die wurz vnd wirfs ins wasßer <lb/> vnd laß ein gutten sudt thuen so lang alß <lb/> ein risches Eyr tethe sieden auch.2. oder.3. <lb/> nagl darzue, vnd 2½ lo : zkher wans kalt ist so seuhs durch ein tuech daß macht <lb/> ein schene farb vnd macht hungerig, man <lb/> mochts auch mit zimmet wasßer miesß aber <lb/> Sauber auß gs gewaschen werden, nimb <objectName ref="quint">quint</objectName>,, <lb/> <objectName ref="essenz">essenz</objectName>. <lb/><lb/> </p>
+        <p> ain Bouch : d´aqua vnd ain händl voll <lb/> Saur ampffen die wurzen bey einen groben <lb/> oder garten vnd grabe sie auß vnd laß sie <lb/> thürn in der sohn oder auf einem <objectName ref="#rost">rost</objectName>, dar,, <lb/> noch nimb die wurz vnd wirfs ins wasßer <lb/> vnd laß ein gutten sudt thuen so lang alß <lb/> ein risches Eyr tethe sieden auch.2. oder.3. <lb/> nagl darzue, vnd 2½ lo : zkher wans kalt ist so seuhs durch ein tuech daß macht <lb/> ein schene farb vnd macht hungerig, man <lb/> mochts auch mit zimmet wasßer miesß aber <lb/> Sauber auß gs gewaschen werden, nimb <objectName ref="#quint">quint</objectName>,, <lb/> <objectName ref="#essenz">essenz</objectName>. <lb/><lb/> </p>
             </div>
         </body>
     </text>

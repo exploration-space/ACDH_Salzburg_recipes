@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Erstlich Nimb <objectName ref="wasser">Wasser</objectName> vnnd <objectName ref="wein">Wein</objectName>, <lb/> vnnd lemony safft<gap/>, das er woll fir <lb/> schlagt<gap/>, vnnd Zuckher vnnd Die Geleiterte<gap/> <lb/> Hausen bladern<gap/> vnnd von Margaranten <lb/> Die khern in die schisßl<gap/> hinein legen, <lb/> vnnd seiche<gap/> Die sulz Daran, vnd lass <lb/> Gestehen<gap/>, vnnd lass die sulz Gar ein <lb/> wönig Gestehen ist Recht vnd Guett. <lb/><lb/> ( ve 162 ) </p>
+        <p> Erstlich Nimb <objectName ref="#wasser">Wasser</objectName> vnnd <objectName ref="#wein">Wein</objectName>, <lb/> vnnd lemony safft<gap/>, das er woll fir <lb/> schlagt<gap/>, vnnd Zuckher vnnd Die Geleiterte<gap/> <lb/> Hausen bladern<gap/> vnnd von Margaranten <lb/> Die khern in die schisßl<gap/> hinein legen, <lb/> vnnd seiche<gap/> Die sulz Daran, vnd lass <lb/> Gestehen<gap/>, vnnd lass die sulz Gar ein <lb/> wönig Gestehen ist Recht vnd Guett. <lb/><lb/> ( ve 162 ) </p>
             </div>
         </body>
     </text>

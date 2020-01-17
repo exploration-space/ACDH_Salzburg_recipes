@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SIede kleine Krebs in Saltzwasser <lb/> mit wenig <objectName ref="kuemmel">Kümmel</objectName> <lb/> löse die Schweifflein aus <lb/> hacks klein <lb/> röste Semmel= Brosen in Krebs= <objectName ref="butter">Butter</objectName> <lb/> mische es unter die <objectName ref="krebse">Krebsen</objectName> <lb/> schlage ein <lb/> oder mehr Eyer darein <lb/> auch Weinbeerlein <lb/> <objectName ref="zucker">Zucker</objectName> und wenig Zimmet= Stup <lb/> machs wie ein Schlück= Kräpfflein= Füll <lb/> schlags ein in einen marben Taig <lb/> der wol dünn ausgewalgert ist <lb/> und bachs schön Liecht= gelb aus heissem Schmaltz <lb/> und gibs trucken <lb/> oder in süssem Ram <lb/> oder Wein= <objectName ref="bruehe">Brühe</objectName>. </p>
+        <p> SIede kleine Krebs in Saltzwasser <lb/> mit wenig <objectName ref="#kuemmel">Kümmel</objectName> <lb/> löse die Schweifflein aus <lb/> hacks klein <lb/> röste Semmel= Brosen in Krebs= <objectName ref="#butter">Butter</objectName> <lb/> mische es unter die <objectName ref="#krebse">Krebsen</objectName> <lb/> schlage ein <lb/> oder mehr Eyer darein <lb/> auch Weinbeerlein <lb/> <objectName ref="#zucker">Zucker</objectName> und wenig Zimmet= Stup <lb/> machs wie ein Schlück= Kräpfflein= Füll <lb/> schlags ein in einen marben Taig <lb/> der wol dünn ausgewalgert ist <lb/> und bachs schön Liecht= gelb aus heissem Schmaltz <lb/> und gibs trucken <lb/> oder in süssem Ram <lb/> oder Wein= <objectName ref="#bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

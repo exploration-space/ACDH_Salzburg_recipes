@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Seudt die <objectName ref="voegel">Vögel</objectName> an die statt <lb/> vnd nim ( m ) darzu ein Rindtfleischbrüh vn ( d ) <objectName ref="essig">Essig</objectName> <lb/> thu ein wenig eyngebrennt <objectName ref="mehl">Mehl</objectName> darein <lb/> schneidt <objectName ref="bier">Biern</objectName> viertheil weiß <lb/> nim ( m ) darvnter schwartze Rosein <lb/> die fein sauber außgewaschen seyn <lb/> vnd ein wenig <objectName ref="zucker">Zucker</objectName> <lb/> laß miteinander sieden sampt den <objectName ref="voegel">Vögeln</objectName> <lb/> so wirt es gut vnd wolgeschmack. Oder nim ( m ) die <objectName ref="bier">Biern</objectName> <lb/> vnd rößt sie auß <objectName ref="butter">Butter</objectName> <lb/> so seind sie auch gut zu den <objectName ref="voegel">Vögeln</objectName>. </p>
+        <p> Seudt die <objectName ref="#voegel">Vögel</objectName> an die statt <lb/> vnd nim ( m ) darzu ein Rindtfleischbrüh vn ( d ) <objectName ref="#essig">Essig</objectName> <lb/> thu ein wenig eyngebrennt <objectName ref="#mehl">Mehl</objectName> darein <lb/> schneidt <objectName ref="#bier">Biern</objectName> viertheil weiß <lb/> nim ( m ) darvnter schwartze Rosein <lb/> die fein sauber außgewaschen seyn <lb/> vnd ein wenig <objectName ref="#zucker">Zucker</objectName> <lb/> laß miteinander sieden sampt den <objectName ref="#voegel">Vögeln</objectName> <lb/> so wirt es gut vnd wolgeschmack. Oder nim ( m ) die <objectName ref="#bier">Biern</objectName> <lb/> vnd rößt sie auß <objectName ref="#butter">Butter</objectName> <lb/> so seind sie auch gut zu den <objectName ref="#voegel">Vögeln</objectName>. </p>
             </div>
         </body>
     </text>

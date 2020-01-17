@@ -184,7 +184,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Perschling werden ungeschuppter aufgemacht <lb/> von der Gall gereinigt <lb/> heiß abgesotten in dem ordinari Fisch= Sud <lb/> mit <objectName ref="wasser">Wasser</objectName> <lb/> Saltz <lb/> <objectName ref="wein">Wein</objectName> <lb/> Eßig <lb/> Lorbeer= Blättlein <lb/> Zwibel <lb/> <objectName ref="rosmarin">Rosmarin</objectName> und Lemoni= Schaalen <lb/> in allerhand Raguen <lb/> die Haut abgezogen <lb/> mit Dardoffeln <lb/> Maurachen <lb/> Schwammen <lb/> ausgelößten <objectName ref="austern">Austern</objectName> <lb/> Müschlen <lb/> auch in Pomerantzen <lb/> Lemonien <lb/> Capry <lb/> <objectName ref="sardellen">Sardellen</objectName> <lb/> Zwibel <lb/> Petersil <lb/> und allerhand andern <objectName ref="bruehe">Brühen</objectName> <lb/> etc. </p>
+        <p> DIe Perschling werden ungeschuppter aufgemacht <lb/> von der Gall gereinigt <lb/> heiß abgesotten in dem ordinari Fisch= Sud <lb/> mit <objectName ref="#wasser">Wasser</objectName> <lb/> Saltz <lb/> <objectName ref="#wein">Wein</objectName> <lb/> Eßig <lb/> Lorbeer= Blättlein <lb/> Zwibel <lb/> <objectName ref="#rosmarin">Rosmarin</objectName> und Lemoni= Schaalen <lb/> in allerhand Raguen <lb/> die Haut abgezogen <lb/> mit Dardoffeln <lb/> Maurachen <lb/> Schwammen <lb/> ausgelößten <objectName ref="#austern">Austern</objectName> <lb/> Müschlen <lb/> auch in Pomerantzen <lb/> Lemonien <lb/> Capry <lb/> <objectName ref="#sardellen">Sardellen</objectName> <lb/> Zwibel <lb/> Petersil <lb/> und allerhand andern <objectName ref="#bruehe">Brühen</objectName> <lb/> etc. </p>
             </div>
         </body>
     </text>

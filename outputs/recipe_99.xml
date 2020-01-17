@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Erstlich lesße<gap/> die gahl heraus, vnd <lb/> lasse es diehr<gap/> werden, aber die <lb/> löber vnnd das andere Ihnge= <lb/> waidt seibere es sauber mit <lb/><lb/> ( re 41 ) <objectName ref="salz">salz</objectName> <objectName ref="wasser">Wasser</objectName> hernach hackhs, Nimb <lb/> frischen <objectName ref="butter">butter</objectName>, darzue Lemony <lb/> saft<gap/>, auch wohl mit Gewürz<gap/>, <lb/> Impper<gap/> Musgatblie<gap/>, nur nit <lb/> Zu vill brie<gap/>, dariber Gemacht, <lb/> Es ist recht vnnd Guett. <lb/> </p>
+        <p> Erstlich lesße<gap/> die gahl heraus, vnd <lb/> lasse es diehr<gap/> werden, aber die <lb/> löber vnnd das andere Ihnge= <lb/> waidt seibere es sauber mit <lb/><lb/> ( re 41 ) <objectName ref="#salz">salz</objectName> <objectName ref="#wasser">Wasser</objectName> hernach hackhs, Nimb <lb/> frischen <objectName ref="#butter">butter</objectName>, darzue Lemony <lb/> saft<gap/>, auch wohl mit Gewürz<gap/>, <lb/> Impper<gap/> Musgatblie<gap/>, nur nit <lb/> Zu vill brie<gap/>, dariber Gemacht, <lb/> Es ist recht vnnd Guett. <lb/> </p>
             </div>
         </body>
     </text>

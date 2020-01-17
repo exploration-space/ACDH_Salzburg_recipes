@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Röste ein Semmel= <objectName ref="mehl">Mehl</objectName> im Schmaltz <lb/> hacke Petersilien= <objectName ref="kraut">Kraut</objectName> fein klein <lb/> röste es besonder im Schmaltz; thue es zusammen in ein Schüsselein <lb/> streue Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Muscaten= Blüh und Saffran darein <lb/> schlag Eyer daran <lb/> rührs wohl unter einander; setz eine Fleischbrüh zum <objectName ref="feuer">Feuer</objectName> <lb/> wann sie nun siedet <lb/> gilbs ein wenig <lb/> leg dann die Knötlein ein <lb/> und laß sie so lang sieden <lb/> als harte Eyer. </p>
+        <p> Röste ein Semmel= <objectName ref="#mehl">Mehl</objectName> im Schmaltz <lb/> hacke Petersilien= <objectName ref="#kraut">Kraut</objectName> fein klein <lb/> röste es besonder im Schmaltz; thue es zusammen in ein Schüsselein <lb/> streue Ingber <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Muscaten= Blüh und Saffran darein <lb/> schlag Eyer daran <lb/> rührs wohl unter einander; setz eine Fleischbrüh zum <objectName ref="#feuer">Feuer</objectName> <lb/> wann sie nun siedet <lb/> gilbs ein wenig <lb/> leg dann die Knötlein ein <lb/> und laß sie so lang sieden <lb/> als harte Eyer. </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn die <objectName ref="voegel">Vögel</objectName> <lb/> wie vor gedacht <lb/> zubereitet und gesaltzen sind <lb/> röste sie mit klein= geschnittenen Aepffeln und Weinbeerlein im Schmaltz; alsdann thue sie in ein <objectName ref="haefelein">Häfelein</objectName> <lb/> gieß <objectName ref="wein">Wein</objectName> daran <lb/> würtze es mit <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet <lb/> Cardamomen und Muscatblüh <lb/> laß eine viertel Stund dämpffen <lb/> richte sie an <lb/> und trags zu <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> WAnn die <objectName ref="#voegel">Vögel</objectName> <lb/> wie vor gedacht <lb/> zubereitet und gesaltzen sind <lb/> röste sie mit klein= geschnittenen Aepffeln und Weinbeerlein im Schmaltz; alsdann thue sie in ein <objectName ref="#haefelein">Häfelein</objectName> <lb/> gieß <objectName ref="#wein">Wein</objectName> daran <lb/> würtze es mit <objectName ref="#zucker">Zucker</objectName> <lb/> Zimmet <lb/> Cardamomen und Muscatblüh <lb/> laß eine viertel Stund dämpffen <lb/> richte sie an <lb/> und trags zu <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

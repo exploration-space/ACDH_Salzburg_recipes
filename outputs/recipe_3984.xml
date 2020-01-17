@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm weiche und gescheelte Marillen <lb/> treibs durch ein Sieblein <lb/> machs an mit <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet <lb/> gestossene <lb/> aber gar wenige Nägelein und Lemoni= Schaalen <lb/> oder laß gar im <objectName ref="zucker">Zucker</objectName> dick= oder einsieden <lb/> und gibs in die Dorten. </p>
+        <p> NImm weiche und gescheelte Marillen <lb/> treibs durch ein Sieblein <lb/> machs an mit <objectName ref="#zucker">Zucker</objectName> <lb/> Zimmet <lb/> gestossene <lb/> aber gar wenige Nägelein und Lemoni= Schaalen <lb/> oder laß gar im <objectName ref="#zucker">Zucker</objectName> dick= oder einsieden <lb/> und gibs in die Dorten. </p>
             </div>
         </body>
     </text>

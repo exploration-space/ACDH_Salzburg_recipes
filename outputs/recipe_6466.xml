@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Ziweben <lb/> die fein sauber außgewäschen seyn <lb/> stecks an ein höltzern <objectName ref="spiess">Spieß</objectName> <lb/> vnd mach ein <objectName ref="teig">Teig</objectName> darzu an von lauter <objectName ref="wein">Wein</objectName> vnnd <objectName ref="mehl">Mehl</objectName> <lb/> weltz darinnen vmb <lb/> vnd thu jn in heisse <objectName ref="butter">Butter</objectName> <lb/> vnnd backs fein resch auß <lb/> thu es herauß <lb/> vnd schneidt die Ziweben nach der läng auff <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> Nim ( m ) Ziweben <lb/> die fein sauber außgewäschen seyn <lb/> stecks an ein höltzern <objectName ref="#spiess">Spieß</objectName> <lb/> vnd mach ein <objectName ref="#teig">Teig</objectName> darzu an von lauter <objectName ref="#wein">Wein</objectName> vnnd <objectName ref="#mehl">Mehl</objectName> <lb/> weltz darinnen vmb <lb/> vnd thu jn in heisse <objectName ref="#butter">Butter</objectName> <lb/> vnnd backs fein resch auß <lb/> thu es herauß <lb/> vnd schneidt die Ziweben nach der läng auff <lb/> gibs warm auff ein <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

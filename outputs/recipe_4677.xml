@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAn nehme eine gantze dicke unabgenommene <objectName ref="milch">Milch</objectName> <lb/> lasse sie zusammen lauffen <lb/> und zertreibe sie wohl <lb/> daß sie glat wird; dann schlage man Eyer daran <lb/> und rührs damit ab <lb/> daß sie dick bleibt; streuet dann <objectName ref="mehl">Mehl</objectName> darein biß trocken wird <lb/> und machet Küchlein <lb/> so groß als ein Tauben= Ey <lb/> daraus; bachets aus Schmaltz <lb/> und legets wohl kühl ein <lb/> so springen sie schön auf. </p>
+        <p> MAn nehme eine gantze dicke unabgenommene <objectName ref="#milch">Milch</objectName> <lb/> lasse sie zusammen lauffen <lb/> und zertreibe sie wohl <lb/> daß sie glat wird; dann schlage man Eyer daran <lb/> und rührs damit ab <lb/> daß sie dick bleibt; streuet dann <objectName ref="#mehl">Mehl</objectName> darein biß trocken wird <lb/> und machet Küchlein <lb/> so groß als ein Tauben= Ey <lb/> daraus; bachets aus Schmaltz <lb/> und legets wohl kühl ein <lb/> so springen sie schön auf. </p>
             </div>
         </body>
     </text>

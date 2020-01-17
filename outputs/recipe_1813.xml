@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Geuß ain guete Millich darunter, sez <lb/> übers feüer, laß sie Sieden, aber nit lang, <lb/> alsbalt geriert, thue es herab in ain Süb, <lb/> laß daß <objectName ref="wasser">wasser</objectName> am ersten daruon Seichn, <lb/> streichs durch ain tuech, zuggers woll, <objectName ref="salz">Salz</objectName>, <lb/> schab schönne weinbörl darauf, gibs kalt. <lb/> </p>
+        <p> Geuß ain guete Millich darunter, sez <lb/> übers feüer, laß sie Sieden, aber nit lang, <lb/> alsbalt geriert, thue es herab in ain Süb, <lb/> laß daß <objectName ref="#wasser">wasser</objectName> am ersten daruon Seichn, <lb/> streichs durch ain tuech, zuggers woll, <objectName ref="#salz">Salz</objectName>, <lb/> schab schönne weinbörl darauf, gibs kalt. <lb/> </p>
             </div>
         </body>
     </text>

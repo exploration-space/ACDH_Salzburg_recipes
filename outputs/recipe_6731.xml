@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Zwibeln <lb/> vnd setz sie zu in einem <objectName ref="wasser">Wasser</objectName> <lb/> vnd laß sie gar sieden <lb/> biß sie weich werden <lb/> wenn sie gesotten <lb/> so schüt sie auff ein <objectName ref="durchschlag">Durchschlag</objectName> <lb/> hack sie darnach fein klein <lb/> nim ( m ) heisse <objectName ref="butter">Butter</objectName> <lb/> vnd schweiß sie darinnen <lb/> <objectName ref="pfeffer">pfeffer</objectName> vnd gelb sie <lb/> thu darein kleine schwartze Rosein <lb/> vnd ein wenig <objectName ref="essig">Essig</objectName> <lb/> vnnd laß ein wenig sieden <lb/> so wirt es gut vnnd wolgeschmack <lb/> geuß das Gescharb vnter oder vber die Backfisch <lb/> wie du es haben wilt <lb/> so ist es ein gut Essen. </p>
+        <p> Nim ( m ) Zwibeln <lb/> vnd setz sie zu in einem <objectName ref="#wasser">Wasser</objectName> <lb/> vnd laß sie gar sieden <lb/> biß sie weich werden <lb/> wenn sie gesotten <lb/> so schüt sie auff ein <objectName ref="#durchschlag">Durchschlag</objectName> <lb/> hack sie darnach fein klein <lb/> nim ( m ) heisse <objectName ref="#butter">Butter</objectName> <lb/> vnd schweiß sie darinnen <lb/> <objectName ref="#pfeffer">pfeffer</objectName> vnd gelb sie <lb/> thu darein kleine schwartze Rosein <lb/> vnd ein wenig <objectName ref="#essig">Essig</objectName> <lb/> vnnd laß ein wenig sieden <lb/> so wirt es gut vnnd wolgeschmack <lb/> geuß das Gescharb vnter oder vber die Backfisch <lb/> wie du es haben wilt <lb/> so ist es ein gut Essen. </p>
             </div>
         </body>
     </text>

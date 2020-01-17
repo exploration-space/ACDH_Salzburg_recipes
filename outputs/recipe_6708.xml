@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Seudt den <objectName ref="hecht">Hecht</objectName> fein blaw ab <lb/> vn laß nicht mehr als nur ein Sudt auffthun <lb/> küls darnach auß kaltem <objectName ref="wasser">Wasser</objectName> <lb/> zeuch die blaw herab <lb/> geuß darein eyngebrennt <objectName ref="mehl">Mehl</objectName> <lb/> frische Meyenbutter <lb/> die vngeschmaltzt ist <lb/> gantzen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> vnd gantz Muscatenblüt <lb/> auch geschnittene Pettersilgen Wurtzel <lb/> vnd laß miteinander auffsieden <lb/> so wirt es gut vnnd wolgeschmack. Vnnd wenn du es schier vom Feuwer wirst herab heben <lb/> so wirff kleine wolschmeckende <objectName ref="kraeuter">Kräuter</objectName> darein. </p>
+        <p> Seudt den <objectName ref="#hecht">Hecht</objectName> fein blaw ab <lb/> vn laß nicht mehr als nur ein Sudt auffthun <lb/> küls darnach auß kaltem <objectName ref="#wasser">Wasser</objectName> <lb/> zeuch die blaw herab <lb/> geuß darein eyngebrennt <objectName ref="#mehl">Mehl</objectName> <lb/> frische Meyenbutter <lb/> die vngeschmaltzt ist <lb/> gantzen <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> vnd gantz Muscatenblüt <lb/> auch geschnittene Pettersilgen Wurtzel <lb/> vnd laß miteinander auffsieden <lb/> so wirt es gut vnnd wolgeschmack. Vnnd wenn du es schier vom Feuwer wirst herab heben <lb/> so wirff kleine wolschmeckende <objectName ref="#kraeuter">Kräuter</objectName> darein. </p>
             </div>
         </body>
     </text>

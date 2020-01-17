@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Setz sie in <objectName ref="wasser">Wasser</objectName> zu <lb/> thu Saltz vnnd ein wenig <objectName ref="essig">Essig</objectName> darein <lb/> vnd laß wol an die statt sieden <lb/> thu es herauß <lb/> vnnd laß kalt werden <lb/> beschneidt es sauber vnd rundt <lb/> rößt es in lauter <objectName ref="butter">Butter</objectName> <lb/> vnnd wenn du es wol geröst hast <lb/> so seig die <objectName ref="butter">Butter</objectName> ab. Nim ( m ) vnzeitige Trauben <lb/> die hart seyn <lb/> brich sie von den Stielen ab <lb/> vnnd thu sie darein <lb/> auch ein wenig <objectName ref="ingwer">Ingwer</objectName> <lb/> vnd Rindtfleischbrüh die nicht versaltzen ist <lb/> laß miteinander auffsieden <lb/> so wirt es fein säurlich vnd wolgeschmack von den Trauben. </p>
+        <p> Setz sie in <objectName ref="#wasser">Wasser</objectName> zu <lb/> thu Saltz vnnd ein wenig <objectName ref="#essig">Essig</objectName> darein <lb/> vnd laß wol an die statt sieden <lb/> thu es herauß <lb/> vnnd laß kalt werden <lb/> beschneidt es sauber vnd rundt <lb/> rößt es in lauter <objectName ref="#butter">Butter</objectName> <lb/> vnnd wenn du es wol geröst hast <lb/> so seig die <objectName ref="#butter">Butter</objectName> ab. Nim ( m ) vnzeitige Trauben <lb/> die hart seyn <lb/> brich sie von den Stielen ab <lb/> vnnd thu sie darein <lb/> auch ein wenig <objectName ref="#ingwer">Ingwer</objectName> <lb/> vnd Rindtfleischbrüh die nicht versaltzen ist <lb/> laß miteinander auffsieden <lb/> so wirt es fein säurlich vnd wolgeschmack von den Trauben. </p>
             </div>
         </body>
     </text>

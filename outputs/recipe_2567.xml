@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> RIchtet die Blümlein allerdings zu <lb/> als ob ihr selbige zum aufdörren gebrauchen woltet <lb/> mischt nach belieben Ochsen= Zungen= Blümlein darunter <lb/> zupffet das <objectName ref="kraut">Kraut</objectName> von den Stielen/ waschts auf das schönste <lb/> schwingets wohl aus <lb/> saltzt und macht es mit Oel und <objectName ref="essig">Essig</objectName> <lb/> wie einen andern <objectName ref="salat">Salat</objectName>; oder wann man ihn gar gut und kräfftig haben will <lb/> kan man den einen halben Theil Malvasier <lb/> und den andern <objectName ref="essig">Essig</objectName> nehmen <lb/> den <objectName ref="salat">Salat</objectName> damit anmachen <lb/> und mit würfflicht= geschnittenen Citronen Schelffen bestreuen. </p>
+        <p> RIchtet die Blümlein allerdings zu <lb/> als ob ihr selbige zum aufdörren gebrauchen woltet <lb/> mischt nach belieben Ochsen= Zungen= Blümlein darunter <lb/> zupffet das <objectName ref="#kraut">Kraut</objectName> von den Stielen/ waschts auf das schönste <lb/> schwingets wohl aus <lb/> saltzt und macht es mit Oel und <objectName ref="#essig">Essig</objectName> <lb/> wie einen andern <objectName ref="#salat">Salat</objectName>; oder wann man ihn gar gut und kräfftig haben will <lb/> kan man den einen halben Theil Malvasier <lb/> und den andern <objectName ref="#essig">Essig</objectName> nehmen <lb/> den <objectName ref="#salat">Salat</objectName> damit anmachen <lb/> und mit würfflicht= geschnittenen Citronen Schelffen bestreuen. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein süsse <objectName ref="milch">Milch</objectName>, vnd ein Wenig <objectName ref="schmalz">schmalz</objectName> darein, <lb/> laß also Warm werden, nimb ein schönes Semblmell, <lb/> vnd gieß die <objectName ref="milch">milch</objectName> drein, schlag auch 2. oder 3. Aÿr <lb/> drein, <objectName ref="salz">salz</objectName> es auch ein Wenig, mach ein taig drauß, <lb/> treib ihn mit einem Walger auß Zu einem dinen <lb/> blätlein, darnach nimb süsse öpffl hakh sie khlain, <lb/> vnd röst sie in einem <objectName ref="schmalz">schmalz</objectName>, thue auch Weinbörl <lb/> drunder, stubs mit Zimmetstup, fühls darnach in <lb/> das außgewelgte taigl, wie man die gefühlten Nudl <lb/> machen Will. <lb/> </p>
+        <p> Nimb ein süsse <objectName ref="#milch">Milch</objectName>, vnd ein Wenig <objectName ref="#schmalz">schmalz</objectName> darein, <lb/> laß also Warm werden, nimb ein schönes Semblmell, <lb/> vnd gieß die <objectName ref="#milch">milch</objectName> drein, schlag auch 2. oder 3. Aÿr <lb/> drein, <objectName ref="#salz">salz</objectName> es auch ein Wenig, mach ein taig drauß, <lb/> treib ihn mit einem Walger auß Zu einem dinen <lb/> blätlein, darnach nimb süsse öpffl hakh sie khlain, <lb/> vnd röst sie in einem <objectName ref="#schmalz">schmalz</objectName>, thue auch Weinbörl <lb/> drunder, stubs mit Zimmetstup, fühls darnach in <lb/> das außgewelgte taigl, wie man die gefühlten Nudl <lb/> machen Will. <lb/> </p>
             </div>
         </body>
     </text>

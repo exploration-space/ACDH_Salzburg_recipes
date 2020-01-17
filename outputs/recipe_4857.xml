@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Scorzonera= Wurtzeln werden allerdings <lb/> wie die Num. 133. beschriebene Wegwarten <lb/> in Röhrenwasser gelegt <lb/> im <objectName ref="wasser">Wasser</objectName> ein wenig weich gesotten <lb/> daß sich die äussere schwartze Schelffen abziehen lässet <lb/> und wann sie abgeschählet <lb/> in Fingers lange Stücklein zerschnitten <lb/> nochmal in ein <objectName ref="wasser">Wasser</objectName> gelegt <lb/> alsdann in einer Fleischbrüh wohlgewürtzt abgesotten <lb/> und zuletzt ein Stuck <objectName ref="butter">Butter</objectName> darein gethan. </p>
+        <p> DIe Scorzonera= Wurtzeln werden allerdings <lb/> wie die Num. 133. beschriebene Wegwarten <lb/> in Röhrenwasser gelegt <lb/> im <objectName ref="#wasser">Wasser</objectName> ein wenig weich gesotten <lb/> daß sich die äussere schwartze Schelffen abziehen lässet <lb/> und wann sie abgeschählet <lb/> in Fingers lange Stücklein zerschnitten <lb/> nochmal in ein <objectName ref="#wasser">Wasser</objectName> gelegt <lb/> alsdann in einer Fleischbrüh wohlgewürtzt abgesotten <lb/> und zuletzt ein Stuck <objectName ref="#butter">Butter</objectName> darein gethan. </p>
             </div>
         </body>
     </text>

@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr Halß vom Reh <lb/> wird in kleine Stücker zerhackt <lb/> von den Haaren und aller Unsauberkeit gereiniget <lb/> und gleich andern dergleichen Vorschlägen von Wildprät mit Eßig <lb/> <objectName ref="wasser">Wasser</objectName> und Saltz zugesetzt <lb/> oder also mit <objectName ref="speck">Speck</objectName> <lb/> Lemoni und <objectName ref="rosmarin">Rosmarin</objectName> <lb/> auch Lorbeer= Blättlein <lb/> mit gehörigem Gewürtz gedämpfft <lb/> mit Zwibel gelb eingebrennt; oder mit Capry <lb/> <objectName ref="sardellen">Sardellen</objectName> <lb/> u. oder man machts mit seinem Faisch <lb/> und braunen eingebrennt schwartz <lb/> oder in Wachholder= <objectName ref="bruehe">Brühe</objectName>. </p>
+        <p> DEr Halß vom Reh <lb/> wird in kleine Stücker zerhackt <lb/> von den Haaren und aller Unsauberkeit gereiniget <lb/> und gleich andern dergleichen Vorschlägen von Wildprät mit Eßig <lb/> <objectName ref="#wasser">Wasser</objectName> und Saltz zugesetzt <lb/> oder also mit <objectName ref="#speck">Speck</objectName> <lb/> Lemoni und <objectName ref="#rosmarin">Rosmarin</objectName> <lb/> auch Lorbeer= Blättlein <lb/> mit gehörigem Gewürtz gedämpfft <lb/> mit Zwibel gelb eingebrennt; oder mit Capry <lb/> <objectName ref="#sardellen">Sardellen</objectName> <lb/> u. oder man machts mit seinem Faisch <lb/> und braunen eingebrennt schwartz <lb/> oder in Wachholder= <objectName ref="#bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

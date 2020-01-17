@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Huechen trucken abgesotten <lb/> daß man sie kalt leßt werden <lb/> richt es voneinander <lb/> vnd klaub die Gräden herauß <lb/> thu es in ein <objectName ref="schuessel">Schüssel</objectName> <lb/> vnd seig ein Erbsbrüh darüber <lb/> thu vngeschmältzte <objectName ref="butter">Butter</objectName> <lb/> die frisch ist <lb/> darein <lb/> laß darmit auffsieden in der <objectName ref="schuessel">Schüssel</objectName> <lb/> thu darüber ein sauren Senff <lb/> der mit <objectName ref="essig">Essig</objectName> angemacht ist <lb/> setz es auff ein <objectName ref="tisch">Tisch</objectName> also warm <lb/> so ist es gut. </p>
+        <p> Huechen trucken abgesotten <lb/> daß man sie kalt leßt werden <lb/> richt es voneinander <lb/> vnd klaub die Gräden herauß <lb/> thu es in ein <objectName ref="#schuessel">Schüssel</objectName> <lb/> vnd seig ein Erbsbrüh darüber <lb/> thu vngeschmältzte <objectName ref="#butter">Butter</objectName> <lb/> die frisch ist <lb/> darein <lb/> laß darmit auffsieden in der <objectName ref="#schuessel">Schüssel</objectName> <lb/> thu darüber ein sauren Senff <lb/> der mit <objectName ref="#essig">Essig</objectName> angemacht ist <lb/> setz es auff ein <objectName ref="#tisch">Tisch</objectName> also warm <lb/> so ist es gut. </p>
             </div>
         </body>
     </text>

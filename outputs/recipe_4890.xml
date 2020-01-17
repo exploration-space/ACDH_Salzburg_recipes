@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAchet einen <objectName ref="teig">Teig</objectName> mit <objectName ref="mehl">Mehl</objectName> und etwas Röhren= oder Brunnen= <objectName ref="wasser">Wasser</objectName> an; klopffet den <objectName ref="teig">Teig</objectName> auf das allerbeste <lb/> daß er Blattern oder Blasen bekommet <lb/> schlaget frische Eyer daran <lb/> saltzet und rühret den <objectName ref="teig">Teig</objectName> damit ab <lb/> gieset aber kein <objectName ref="wasser">Wasser</objectName> mehr daran <lb/> als nur gleich anfänglich bey dem anzwieren; machet ihn nicht zu dick <lb/> und nicht zu dinn <lb/> das Schmaltz dagegen wohl heiß; und bachet die Salbey= Blätter schön rösch ab. </p>
+        <p> MAchet einen <objectName ref="#teig">Teig</objectName> mit <objectName ref="#mehl">Mehl</objectName> und etwas Röhren= oder Brunnen= <objectName ref="#wasser">Wasser</objectName> an; klopffet den <objectName ref="#teig">Teig</objectName> auf das allerbeste <lb/> daß er Blattern oder Blasen bekommet <lb/> schlaget frische Eyer daran <lb/> saltzet und rühret den <objectName ref="#teig">Teig</objectName> damit ab <lb/> gieset aber kein <objectName ref="#wasser">Wasser</objectName> mehr daran <lb/> als nur gleich anfänglich bey dem anzwieren; machet ihn nicht zu dick <lb/> und nicht zu dinn <lb/> das Schmaltz dagegen wohl heiß; und bachet die Salbey= Blätter schön rösch ab. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ZIehet die stärckste Blut= Gefässe und Adern von dem Kalbs= <objectName ref="hirn">Hirn</objectName> heraus; saltzets <lb/> würtzets mit Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Muscaten= Blüh <lb/> thut ein wenig weiß= geriebenes Brod dazu <lb/> rühret alles wohl durch einander; streichets auf Semmel= Schnitten <lb/> und leget derselben jedes mal zwey auf einander : zerklopffet dann zwey Eyer <lb/> duncket die Schnitten darein <lb/> und bachets aus Schmaltz. </p>
+        <p> ZIehet die stärckste Blut= Gefässe und Adern von dem Kalbs= <objectName ref="#hirn">Hirn</objectName> heraus; saltzets <lb/> würtzets mit Ingber <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> und Muscaten= Blüh <lb/> thut ein wenig weiß= geriebenes Brod dazu <lb/> rühret alles wohl durch einander; streichets auf Semmel= Schnitten <lb/> und leget derselben jedes mal zwey auf einander : zerklopffet dann zwey Eyer <lb/> duncket die Schnitten darein <lb/> und bachets aus Schmaltz. </p>
             </div>
         </body>
     </text>

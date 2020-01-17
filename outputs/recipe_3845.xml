@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Schratzen <lb/> oder Perschling <lb/> werden geschuppt <lb/> die Gall ausgenommen <lb/> eingesaltzen <lb/> und ausgebachner <lb/> oder frischer eingepaitzt <lb/> geben ein köstliche Pasteten= Füll <lb/> mit <objectName ref="sardellen">Sardellen</objectName> <lb/> Capry <lb/> oder Dardoffeln <lb/> etc. </p>
+        <p> DIe Schratzen <lb/> oder Perschling <lb/> werden geschuppt <lb/> die Gall ausgenommen <lb/> eingesaltzen <lb/> und ausgebachner <lb/> oder frischer eingepaitzt <lb/> geben ein köstliche Pasteten= Füll <lb/> mit <objectName ref="#sardellen">Sardellen</objectName> <lb/> Capry <lb/> oder Dardoffeln <lb/> etc. </p>
             </div>
         </body>
     </text>

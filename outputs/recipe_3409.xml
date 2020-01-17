@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Röste die Haßel= oder Reb= Hünlein mit wenig Meel <lb/> und mit Nägelein besteckten Zwibel in <objectName ref="butter">Butter</objectName> <lb/> mit Blättlein= geschnittenen und zuvor gescheelten Dardoffeln <lb/> auch mit Gewürtz <lb/> <objectName ref="wein">Wein</objectName> und weniger <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> Saltz und Lorbeer= Blättlein versehen <lb/> und verschlossener dämpffen lassen. </p>
+        <p> Röste die Haßel= oder Reb= Hünlein mit wenig Meel <lb/> und mit Nägelein besteckten Zwibel in <objectName ref="#butter">Butter</objectName> <lb/> mit Blättlein= geschnittenen und zuvor gescheelten Dardoffeln <lb/> auch mit Gewürtz <lb/> <objectName ref="#wein">Wein</objectName> und weniger <objectName ref="#fleischbruehe">Fleischbrühe</objectName> <lb/> Saltz und Lorbeer= Blättlein versehen <lb/> und verschlossener dämpffen lassen. </p>
             </div>
         </body>
     </text>

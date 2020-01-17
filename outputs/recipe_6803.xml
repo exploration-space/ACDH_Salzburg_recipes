@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) <objectName ref="speck">Speck</objectName> <lb/> der vorhin gesotten ist <lb/> hack jn klein mit grünen <objectName ref="kraeuter">Kräutern</objectName> <lb/> laß mit den <objectName ref="voegel">Vögeln</objectName> sieden <lb/> vnnd mit guter Rindtfleischbrüh <lb/> so wirt es gut vnd wolgeschmack. </p>
+        <p> Nim ( m ) <objectName ref="#speck">Speck</objectName> <lb/> der vorhin gesotten ist <lb/> hack jn klein mit grünen <objectName ref="#kraeuter">Kräutern</objectName> <lb/> laß mit den <objectName ref="#voegel">Vögeln</objectName> sieden <lb/> vnnd mit guter Rindtfleischbrüh <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

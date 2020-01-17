@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim new Korn <lb/> wasch sauber <lb/> vnd schwings wol auß <lb/> daß dz <objectName ref="wasser">Wasser</objectName> wol davon kompt <lb/> thu es in einen Mörsel <lb/> vnd stoß <lb/> laß gebeht Ruckenbrot mit <objectName ref="weinessig">Weinessig</objectName> auffsieden <lb/> laß kalt werden <lb/> nim darnach grün Safft darvnter <lb/> streichs durch ein Härin <objectName ref="tuch">Tuch</objectName> <lb/> dz fein dick ist <lb/> machs ab mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> <objectName ref="ingwer">Ingwer</objectName> vnd Saltz. Vnd solche grüne Salsen gibt man gern zum Braten <lb/> es sey kalt oder warm. </p>
+        <p> Nim new Korn <lb/> wasch sauber <lb/> vnd schwings wol auß <lb/> daß dz <objectName ref="#wasser">Wasser</objectName> wol davon kompt <lb/> thu es in einen Mörsel <lb/> vnd stoß <lb/> laß gebeht Ruckenbrot mit <objectName ref="#weinessig">Weinessig</objectName> auffsieden <lb/> laß kalt werden <lb/> nim darnach grün Safft darvnter <lb/> streichs durch ein Härin <objectName ref="#tuch">Tuch</objectName> <lb/> dz fein dick ist <lb/> machs ab mit <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> <objectName ref="#ingwer">Ingwer</objectName> vnd Saltz. Vnd solche grüne Salsen gibt man gern zum Braten <lb/> es sey kalt oder warm. </p>
             </div>
         </body>
     </text>

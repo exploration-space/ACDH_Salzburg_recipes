@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein hirsch oder Pfenichgrieß, lasß in einer guetten siesßen obern <lb/> <objectName ref="milch">milch</objectName> woll sieden, alß dan schlags durch, riehr.3 ayrdotter darein, <lb/> auch ein wenig Rosßenwasßer, Zuckher, vnd ein pröckhl putter, darein <lb/> riehren, vnd in ein schißl ein wenig <objectName ref="schmalz">schmalz</objectName> oder putter Zergehen <lb/> lasßen, vnd also in einer schißl, wie ein schißl Koch, auf einer <lb/> gluett lasßen, auch oben auf ein gluett thuen, daß es oben auch ein <lb/> wenig praun wird. <lb/> </p>
+        <p> Nimb ein hirsch oder Pfenichgrieß, lasß in einer guetten siesßen obern <lb/> <objectName ref="#milch">milch</objectName> woll sieden, alß dan schlags durch, riehr.3 ayrdotter darein, <lb/> auch ein wenig Rosßenwasßer, Zuckher, vnd ein pröckhl putter, darein <lb/> riehren, vnd in ein schißl ein wenig <objectName ref="#schmalz">schmalz</objectName> oder putter Zergehen <lb/> lasßen, vnd also in einer schißl, wie ein schißl Koch, auf einer <lb/> gluett lasßen, auch oben auf ein gluett thuen, daß es oben auch ein <lb/> wenig praun wird. <lb/> </p>
             </div>
         </body>
     </text>

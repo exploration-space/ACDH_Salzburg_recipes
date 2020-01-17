@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein Mandlmilch, vnd seud ein Reiß in einem <objectName ref="wasser">Wasser</objectName>, hakh <lb/> den khlein, Wöhl die Mandl <objectName ref="milch">milch</objectName>, geuß an Reiß, vnd so es dikh <lb/> Wird am sieden, so geuß es an den Reiß, laß Sieden, Wie <lb/> sonst ein Reiß, Zukhers Woll, vnd gibs Warmb, Säe Weinpörl <lb/> drauf, vnd Zukhers. <lb/> </p>
+        <p> Nimb ein Mandlmilch, vnd seud ein Reiß in einem <objectName ref="#wasser">Wasser</objectName>, hakh <lb/> den khlein, Wöhl die Mandl <objectName ref="#milch">milch</objectName>, geuß an Reiß, vnd so es dikh <lb/> Wird am sieden, so geuß es an den Reiß, laß Sieden, Wie <lb/> sonst ein Reiß, Zukhers Woll, vnd gibs Warmb, Säe Weinpörl <lb/> drauf, vnd Zukhers. <lb/> </p>
             </div>
         </body>
     </text>

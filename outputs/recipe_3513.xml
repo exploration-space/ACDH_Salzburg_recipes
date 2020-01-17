@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> KRebs abgesottner <lb/> ausgelößt <lb/> mit Scheeren und Schweiff aus Eyern gebachen <lb/> in süsser <objectName ref="weinbruehe">Weinbrühe</objectName> <lb/> mit sauber geklaubten frischen Piniolen <lb/> und schwartzen Weinbeerlein. </p>
+        <p> KRebs abgesottner <lb/> ausgelößt <lb/> mit Scheeren und Schweiff aus Eyern gebachen <lb/> in süsser <objectName ref="#weinbruehe">Weinbrühe</objectName> <lb/> mit sauber geklaubten frischen Piniolen <lb/> und schwartzen Weinbeerlein. </p>
             </div>
         </body>
     </text>

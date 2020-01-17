@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn die <objectName ref="kraeuter">Kräuter</objectName> gestossen <lb/> und mit <objectName ref="milch">Milch</objectName> oder Ram durchgetrieben <lb/> so schlag nach Nothdurfft Eyer daran <lb/> saltz <lb/> zuckers <lb/> bestreich eine <objectName ref="schuessel">Schüssel</objectName> mit <objectName ref="butter">Butter</objectName> <lb/> und mach es gleich einem ordinari Schüssel=Mus. </p>
+        <p> WAnn die <objectName ref="#kraeuter">Kräuter</objectName> gestossen <lb/> und mit <objectName ref="#milch">Milch</objectName> oder Ram durchgetrieben <lb/> so schlag nach Nothdurfft Eyer daran <lb/> saltz <lb/> zuckers <lb/> bestreich eine <objectName ref="#schuessel">Schüssel</objectName> mit <objectName ref="#butter">Butter</objectName> <lb/> und mach es gleich einem ordinari Schüssel=Mus. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Diese ausgelößter und gescheelt <lb/> mit <objectName ref="wein">Wein</objectName> und wol <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet und Näglein <lb/> auch abgescheelter Semmel=Mollen wol weich gekocht <lb/> durchgetrieben <lb/> gibt ein wol geschmackes Schüssel=Koch. </p>
+        <p> Diese ausgelößter und gescheelt <lb/> mit <objectName ref="#wein">Wein</objectName> und wol <objectName ref="#zucker">Zucker</objectName> <lb/> Zimmet und Näglein <lb/> auch abgescheelter Semmel=Mollen wol weich gekocht <lb/> durchgetrieben <lb/> gibt ein wol geschmackes Schüssel=Koch. </p>
             </div>
         </body>
     </text>

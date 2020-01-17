@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ER wird auf solche Weiß <lb/> gespickter und gepaitzter <lb/> mit saurem Ram begossen <lb/> und hernach die abgeträuffte <objectName ref="bruehe">Brühe</objectName> <lb/> mit Lemoni= Schelffen <lb/> <objectName ref="knoblauch">Knoblauch</objectName> und <objectName ref="sardellen">Sardellen</objectName> <lb/> durch das Sieblein oder <objectName ref="tuch">Tuch</objectName> getrieben <lb/> in die <objectName ref="schuessel">Schüssel</objectName> gegeben <lb/> und das Bratens darauf gelegt; du kanst auch Capry in die Bratens= <objectName ref="bruehe">Brühe</objectName> mischen. </p>
+        <p> ER wird auf solche Weiß <lb/> gespickter und gepaitzter <lb/> mit saurem Ram begossen <lb/> und hernach die abgeträuffte <objectName ref="#bruehe">Brühe</objectName> <lb/> mit Lemoni= Schelffen <lb/> <objectName ref="#knoblauch">Knoblauch</objectName> und <objectName ref="#sardellen">Sardellen</objectName> <lb/> durch das Sieblein oder <objectName ref="#tuch">Tuch</objectName> getrieben <lb/> in die <objectName ref="#schuessel">Schüssel</objectName> gegeben <lb/> und das Bratens darauf gelegt; du kanst auch Capry in die Bratens= <objectName ref="#bruehe">Brühe</objectName> mischen. </p>
             </div>
         </body>
     </text>

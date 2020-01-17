@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Röste die <objectName ref="wachtel">Wachteln</objectName> mit wenig Meel in <objectName ref="butter">Butter</objectName> und <objectName ref="speck">Speck</objectName> schön gelb <lb/> mit wenig Gewürtz <lb/> Saltz und Lemoni= Safft gedämpfft <lb/> gibs auf alle <objectName ref="gehaeck">Gehäck</objectName> <lb/> oder auch in die <objectName ref="pastete">Pasteten</objectName>; wie in dem Bacherey= Buch bey denen <objectName ref="pastete">Pasteten</objectName> ausführlich zu finden; so seynd sie gut und wohlgeschmack. </p>
+        <p> Röste die <objectName ref="#wachtel">Wachteln</objectName> mit wenig Meel in <objectName ref="#butter">Butter</objectName> und <objectName ref="#speck">Speck</objectName> schön gelb <lb/> mit wenig Gewürtz <lb/> Saltz und Lemoni= Safft gedämpfft <lb/> gibs auf alle <objectName ref="#gehaeck">Gehäck</objectName> <lb/> oder auch in die <objectName ref="#pastete">Pasteten</objectName>; wie in dem Bacherey= Buch bey denen <objectName ref="#pastete">Pasteten</objectName> ausführlich zu finden; so seynd sie gut und wohlgeschmack. </p>
             </div>
         </body>
     </text>

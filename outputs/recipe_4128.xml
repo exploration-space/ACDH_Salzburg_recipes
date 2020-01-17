@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr Hirsch= Zemmer <lb/> der nicht gar zu <objectName ref="fett">fett</objectName> ist wird <lb/> gepaitzt <lb/> mit groben wohl= gewürtzten <lb/> und mit gehackten wohl= riechenden <objectName ref="kraeuter">Kräutern</objectName> <lb/> angemachten <objectName ref="speck">Speck</objectName> durchzogen <lb/> mit <objectName ref="sardellen">Sardellen</objectName> <lb/> Gewürtz <lb/> Saltz <lb/> gespickten Zwibel <lb/> Lemoni= Schelffen <lb/> <objectName ref="butter">Butter</objectName> und <objectName ref="speck">Speck</objectName> in einem verschlossenen <objectName ref="kessel">Kessel</objectName> mit der Paitz wohl gedämpfft <lb/> ist gut mit seiner eigenen <objectName ref="bruehe">Brühe</objectName> <lb/> durchgetrieben <lb/> und gelb eingebrennt <lb/> sauber regaliert. </p>
+        <p> DEr Hirsch= Zemmer <lb/> der nicht gar zu <objectName ref="#fett">fett</objectName> ist wird <lb/> gepaitzt <lb/> mit groben wohl= gewürtzten <lb/> und mit gehackten wohl= riechenden <objectName ref="#kraeuter">Kräutern</objectName> <lb/> angemachten <objectName ref="#speck">Speck</objectName> durchzogen <lb/> mit <objectName ref="#sardellen">Sardellen</objectName> <lb/> Gewürtz <lb/> Saltz <lb/> gespickten Zwibel <lb/> Lemoni= Schelffen <lb/> <objectName ref="#butter">Butter</objectName> und <objectName ref="#speck">Speck</objectName> in einem verschlossenen <objectName ref="#kessel">Kessel</objectName> mit der Paitz wohl gedämpfft <lb/> ist gut mit seiner eigenen <objectName ref="#bruehe">Brühe</objectName> <lb/> durchgetrieben <lb/> und gelb eingebrennt <lb/> sauber regaliert. </p>
             </div>
         </body>
     </text>

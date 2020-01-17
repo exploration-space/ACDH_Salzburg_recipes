@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schwarz farß <lb/> den <objectName ref="fisch">fisch</objectName>, Pär ain Semel schwarz, die Seud in <lb/> <objectName ref="wein">wein</objectName>, streichs durch ain tuech, durch ain Vasch <lb/> Tuech, nimb <objectName ref="wein">Wein</objectName> vnnd Essich biß genueg ist, <lb/> Sez aufs feüer, laß auf sieden, vnd Seich den <lb/> durch, lassen ain halbe stunt Sieden, Nimb <lb/> Imber, <objectName ref="pfeffer">Pfeffer</objectName>, vnnd Nägl, zuggers woll. <lb/> </p>
+        <p> Schwarz farß <lb/> den <objectName ref="#fisch">fisch</objectName>, Pär ain Semel schwarz, die Seud in <lb/> <objectName ref="#wein">wein</objectName>, streichs durch ain tuech, durch ain Vasch <lb/> Tuech, nimb <objectName ref="#wein">Wein</objectName> vnnd Essich biß genueg ist, <lb/> Sez aufs feüer, laß auf sieden, vnd Seich den <lb/> durch, lassen ain halbe stunt Sieden, Nimb <lb/> Imber, <objectName ref="#pfeffer">Pfeffer</objectName>, vnnd Nägl, zuggers woll. <lb/> </p>
             </div>
         </body>
     </text>

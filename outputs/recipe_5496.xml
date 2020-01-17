@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) ein Karpffenzung <lb/> setz sie im <objectName ref="wasser">Wasser</objectName> auff <lb/> vnnd laß sie sieden <lb/> butz vnnd mach sie sauber <lb/> geuß ein gute Erbeßbrüh darüber <lb/> vnnd schneidt Pettersilgen Wurtzel daran <lb/> auch frische vnzerlassene <objectName ref="butter">Butter</objectName> <lb/> Muscatenblüt <lb/> gestossen <objectName ref="ingwer">Ingwer</objectName> <lb/> ein wenig gestossen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> vn ( d ) ein wenig Saltz <lb/> laß damit sieden <lb/> vnd thu grüne wolschmeckende <objectName ref="kraeuter">Kräuter</objectName> <lb/> die klein gehackt seyn <lb/> darvnter <lb/> laß damit ein Sudt auffthun <lb/> so ist es auch ein gute <objectName ref="suppe">Suppen</objectName>. </p>
+        <p> Nim ( m ) ein Karpffenzung <lb/> setz sie im <objectName ref="#wasser">Wasser</objectName> auff <lb/> vnnd laß sie sieden <lb/> butz vnnd mach sie sauber <lb/> geuß ein gute Erbeßbrüh darüber <lb/> vnnd schneidt Pettersilgen Wurtzel daran <lb/> auch frische vnzerlassene <objectName ref="#butter">Butter</objectName> <lb/> Muscatenblüt <lb/> gestossen <objectName ref="#ingwer">Ingwer</objectName> <lb/> ein wenig gestossen <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> vn ( d ) ein wenig Saltz <lb/> laß damit sieden <lb/> vnd thu grüne wolschmeckende <objectName ref="#kraeuter">Kräuter</objectName> <lb/> die klein gehackt seyn <lb/> darvnter <lb/> laß damit ein Sudt auffthun <lb/> so ist es auch ein gute <objectName ref="#suppe">Suppen</objectName>. </p>
             </div>
         </body>
     </text>

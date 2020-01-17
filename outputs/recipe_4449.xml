@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> GIeß einen Malvasier oder andern guten <objectName ref="wein">Wein</objectName> in ein Häfelein/ drucke zimlich viel Citronen= Safft <lb/> oder aber gieß an dessen statt ein wenig Citronen= <objectName ref="essig">Essig</objectName> daran; streue <objectName ref="zucker">Zucker</objectName> und ein Trisanet <lb/> wie auch die Kern aus einem Granat= Apffel <lb/> darein <lb/> laß es aufsieden : lege dann die schön safftig abgebratene Hüner oder Capaunen <lb/> entweder gantz oder zerschnitten <lb/> in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> richte die Brüh darüber <lb/> und ziere sie mit Citronen= Plätzen <lb/> frischen Granat= Aepffel= Kernen und Saurach <lb/> oder Wein= Lägelein <lb/> aus. </p>
+        <p> GIeß einen Malvasier oder andern guten <objectName ref="#wein">Wein</objectName> in ein Häfelein/ drucke zimlich viel Citronen= Safft <lb/> oder aber gieß an dessen statt ein wenig Citronen= <objectName ref="#essig">Essig</objectName> daran; streue <objectName ref="#zucker">Zucker</objectName> und ein Trisanet <lb/> wie auch die Kern aus einem Granat= Apffel <lb/> darein <lb/> laß es aufsieden : lege dann die schön safftig abgebratene Hüner oder Capaunen <lb/> entweder gantz oder zerschnitten <lb/> in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> richte die Brüh darüber <lb/> und ziere sie mit Citronen= Plätzen <lb/> frischen Granat= Aepffel= Kernen und Saurach <lb/> oder Wein= Lägelein <lb/> aus. </p>
             </div>
         </body>
     </text>

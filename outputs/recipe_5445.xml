@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Milchsuppen vnd verlorne Eyer darein <lb/> oder schlag Eyer auff <lb/> vnd laß sie durch ein Härin <objectName ref="tuch">Tuch</objectName> lauffen <lb/> vnnd wenn die <objectName ref="milch">Milch</objectName> mit der <objectName ref="butter">Butter</objectName> seudt <lb/> so zeuch die Eyer fein langsam darein <lb/> vnnd laß nur ein wenig sieden <lb/> richts darnach in ein <objectName ref="schuessel">Schüssel</objectName> auff gebeht Schnitten von einem Weck <lb/> so ist sie gut. </p>
+        <p> Milchsuppen vnd verlorne Eyer darein <lb/> oder schlag Eyer auff <lb/> vnd laß sie durch ein Härin <objectName ref="#tuch">Tuch</objectName> lauffen <lb/> vnnd wenn die <objectName ref="#milch">Milch</objectName> mit der <objectName ref="#butter">Butter</objectName> seudt <lb/> so zeuch die Eyer fein langsam darein <lb/> vnnd laß nur ein wenig sieden <lb/> richts darnach in ein <objectName ref="#schuessel">Schüssel</objectName> auff gebeht Schnitten von einem Weck <lb/> so ist sie gut. </p>
             </div>
         </body>
     </text>

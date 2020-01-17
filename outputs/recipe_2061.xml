@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Junge <objectName ref="taube">Tauben</objectName> macht man auch allerdings also, Wilte henner, <lb/> doch das mans Spikht, als Wolt mans braten. <lb/> </p>
+        <p> Junge <objectName ref="#taube">Tauben</objectName> macht man auch allerdings also, Wilte henner, <lb/> doch das mans Spikht, als Wolt mans braten. <lb/> </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) ein versotten Hennenbrust <lb/> stoß sie mit Mandel vnd Weck <lb/> der geweicht ist in einer Hennenbrüh <lb/> streichs durch <lb/> ( daß ) dick wirt <lb/> oder thu schönen weissen <objectName ref="zucker">Zucker</objectName> darvnter <lb/> vnd machs süß <lb/> rürs vmb <lb/> vnd laß auffsieden <lb/> so ist es ein gut Muß vor einen Krancken. </p>
+        <p> Nim ( m ) ein versotten Hennenbrust <lb/> stoß sie mit Mandel vnd Weck <lb/> der geweicht ist in einer Hennenbrüh <lb/> streichs durch <lb/> ( daß ) dick wirt <lb/> oder thu schönen weissen <objectName ref="#zucker">Zucker</objectName> darvnter <lb/> vnd machs süß <lb/> rürs vmb <lb/> vnd laß auffsieden <lb/> so ist es ein gut Muß vor einen Krancken. </p>
             </div>
         </body>
     </text>

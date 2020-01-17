@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) <objectName ref="butter">Butter</objectName> <lb/> steck sie an ein <objectName ref="spiess">Spieß</objectName> <lb/> vnnd leg sie zum Feuwer <lb/> daß zu beyden theilen Hitz gehet <lb/> misch Zimmet <lb/> <objectName ref="zucker">Zucker</objectName> vnd Grießmehl <lb/> durcheinander <lb/> besträw den Butterweck damit <lb/> biß er gebraten <lb/> vnnd mußt nicht nachlassen mit sträuwen <lb/> biß du den <objectName ref="zucker">Zucker</objectName> vnd <objectName ref="griess">Grieß</objectName> hast eyngesträwt <lb/> so helt es den Butterweck fein beyeinander. Also brät man die Butterweck. </p>
+        <p> Nim ( m ) <objectName ref="#butter">Butter</objectName> <lb/> steck sie an ein <objectName ref="#spiess">Spieß</objectName> <lb/> vnnd leg sie zum Feuwer <lb/> daß zu beyden theilen Hitz gehet <lb/> misch Zimmet <lb/> <objectName ref="#zucker">Zucker</objectName> vnd Grießmehl <lb/> durcheinander <lb/> besträw den Butterweck damit <lb/> biß er gebraten <lb/> vnnd mußt nicht nachlassen mit sträuwen <lb/> biß du den <objectName ref="#zucker">Zucker</objectName> vnd <objectName ref="#griess">Grieß</objectName> hast eyngesträwt <lb/> so helt es den Butterweck fein beyeinander. Also brät man die Butterweck. </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Stoß Mandel gar klein <lb/> unter wehrendem Stossen gieß <objectName ref="rosenwasser">Rosenwasser</objectName> zu <lb/> darnach sied einen Reiß in einer guten <objectName ref="milch">Milch</objectName> <lb/> treib ihn durch <lb/> stoß ihn gar wohl <lb/> auch ein Schnittlein Semmel geweicht <lb/> samt ein wenig <objectName ref="butter">Butter</objectName> und 4. Eyerdotter mit <objectName ref="zucker">Zucker</objectName> <lb/> alles wohl gerührt <lb/> machs alsdann in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> gib unten und oben <objectName ref="glut">Glut</objectName>. </p>
+        <p> Stoß Mandel gar klein <lb/> unter wehrendem Stossen gieß <objectName ref="#rosenwasser">Rosenwasser</objectName> zu <lb/> darnach sied einen Reiß in einer guten <objectName ref="#milch">Milch</objectName> <lb/> treib ihn durch <lb/> stoß ihn gar wohl <lb/> auch ein Schnittlein Semmel geweicht <lb/> samt ein wenig <objectName ref="#butter">Butter</objectName> und 4. Eyerdotter mit <objectName ref="#zucker">Zucker</objectName> <lb/> alles wohl gerührt <lb/> machs alsdann in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> gib unten und oben <objectName ref="#glut">Glut</objectName>. </p>
             </div>
         </body>
     </text>

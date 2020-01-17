@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wann der <objectName ref="adler">Adler</objectName> an dem Leib <lb/> biß an den Halß <lb/> Flügel und Schweiff <lb/> ( welche sammt dem Kopff ganzer herab gehauen und aufgehebt werden ) grupfft <lb/> gesengt <lb/> ausgenommen <lb/> und gesäubert ist; dann kan er gepaitzt = oder ungepaitzter gesaltzen /gespickt und gebraten werden; und sodanon kan man die Flügel <lb/> sammt den Kopff und Schweiff wieder darauf stecken <lb/> mit andern gebratnen <objectName ref="gefluegel">Geflügel</objectName> wohl regalieren <lb/> mit Lemoni und Pomerantzen zieren und auftragen. </p>
+        <p> Wann der <objectName ref="#adler">Adler</objectName> an dem Leib <lb/> biß an den Halß <lb/> Flügel und Schweiff <lb/> ( welche sammt dem Kopff ganzer herab gehauen und aufgehebt werden ) grupfft <lb/> gesengt <lb/> ausgenommen <lb/> und gesäubert ist; dann kan er gepaitzt = oder ungepaitzter gesaltzen /gespickt und gebraten werden; und sodanon kan man die Flügel <lb/> sammt den Kopff und Schweiff wieder darauf stecken <lb/> mit andern gebratnen <objectName ref="#gefluegel">Geflügel</objectName> wohl regalieren <lb/> mit Lemoni und Pomerantzen zieren und auftragen. </p>
             </div>
         </body>
     </text>

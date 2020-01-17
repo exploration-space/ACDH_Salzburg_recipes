@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn es gesotten <lb/> und zu Paffössen <lb/> oder Hirn= Schnitten <lb/> aufgestrichen; das <objectName ref="hirn">Hirn</objectName> mit <objectName ref="pfeffer">Pfeffer</objectName> und Saltz <lb/> gerieben Brod <lb/> und klein= gehackten Petersil= Kräutlein und Eyern angemacht <lb/> auf die Schnitten gestrichen <lb/> und aus Schmaltz gebachen wird <lb/> ist es gut. </p>
+        <p> WAnn es gesotten <lb/> und zu Paffössen <lb/> oder Hirn= Schnitten <lb/> aufgestrichen; das <objectName ref="#hirn">Hirn</objectName> mit <objectName ref="#pfeffer">Pfeffer</objectName> und Saltz <lb/> gerieben Brod <lb/> und klein= gehackten Petersil= Kräutlein und Eyern angemacht <lb/> auf die Schnitten gestrichen <lb/> und aus Schmaltz gebachen wird <lb/> ist es gut. </p>
             </div>
         </body>
     </text>

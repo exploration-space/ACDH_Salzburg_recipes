@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wasche die ungescheelte Birn <lb/> oder scheele sie <lb/> bestecks mit Näglein und Zimmet <lb/> und bestreus mit grob gestossenem Zuckerkandel <lb/> verbinds mit <objectName ref="papier">Papier</objectName> <lb/> und brats in dem warmen <objectName ref="asche">Aschen</objectName> <lb/> biß sie genug seynd <lb/> vor dem Anrichten nimm das <objectName ref="papier">Papier</objectName> hinweg <lb/> und gibs wol warmer zu <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> Wasche die ungescheelte Birn <lb/> oder scheele sie <lb/> bestecks mit Näglein und Zimmet <lb/> und bestreus mit grob gestossenem Zuckerkandel <lb/> verbinds mit <objectName ref="#papier">Papier</objectName> <lb/> und brats in dem warmen <objectName ref="#asche">Aschen</objectName> <lb/> biß sie genug seynd <lb/> vor dem Anrichten nimm das <objectName ref="#papier">Papier</objectName> hinweg <lb/> und gibs wol warmer zu <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

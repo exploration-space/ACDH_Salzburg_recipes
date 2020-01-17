@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein Siedheises wasßer vnd wirff auf <lb/> ein masß wasßer souill <objectName ref="kraut">kraut</objectName> darein daß <lb/> man mit.3. finger halten kan, oder.2. finger <lb/> von selben <objectName ref="kraut">kraut</objectName> laß es in geschier stehen ein <lb/> 7. vater vnßer lang vnd döckhe ihn fleisßig <lb/> zue mit ein <objectName ref="tisch">tisch</objectName> Salviet gieß ihn hernach <lb/> ins Schallerl, wer ihn gern Sieß drünnkht <lb/> der thue zugger darein wer aber Sauer Sa,, <lb/> liter zeltl. <lb/> </p>
+        <p> Nimb ein Siedheises wasßer vnd wirff auf <lb/> ein masß wasßer souill <objectName ref="#kraut">kraut</objectName> darein daß <lb/> man mit.3. finger halten kan, oder.2. finger <lb/> von selben <objectName ref="#kraut">kraut</objectName> laß es in geschier stehen ein <lb/> 7. vater vnßer lang vnd döckhe ihn fleisßig <lb/> zue mit ein <objectName ref="#tisch">tisch</objectName> Salviet gieß ihn hernach <lb/> ins Schallerl, wer ihn gern Sieß drünnkht <lb/> der thue zugger darein wer aber Sauer Sa,, <lb/> liter zeltl. <lb/> </p>
             </div>
         </body>
     </text>

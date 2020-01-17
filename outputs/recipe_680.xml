@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SEtzet die Birn im <objectName ref="wasser">Wasser</objectName> zu und last sie biß zur helffte absieden; brennet dann ein wenig <objectName ref="mehl">Mehl</objectName> daran <lb/> erhaltet sie in dem Sud <lb/> und schwinget bißweilen den <objectName ref="hafen">Hafen</objectName> herum <lb/> daß sich die Birn nicht anlegen : So dann <lb/> kan man selbige über Schweinenes= oder aber Lamms=Fleisch anrichten. </p>
+        <p> SEtzet die Birn im <objectName ref="#wasser">Wasser</objectName> zu und last sie biß zur helffte absieden; brennet dann ein wenig <objectName ref="#mehl">Mehl</objectName> daran <lb/> erhaltet sie in dem Sud <lb/> und schwinget bißweilen den <objectName ref="#hafen">Hafen</objectName> herum <lb/> daß sich die Birn nicht anlegen : So dann <lb/> kan man selbige über Schweinenes= oder aber Lamms=Fleisch anrichten. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ERstlich wasche die dürre Aepffel sauber <lb/> darnach thue sie in einen <objectName ref="hafen">Hafen</objectName> <lb/> gieß <objectName ref="wasser">Wasser</objectName> daran <lb/> laß sieden <lb/> wanns wacker eingesotten <lb/> so rührs wohl daß es dicklicht werde; darnach schneide rocken Brod <lb/> wie in eine <objectName ref="suppe">Suppen</objectName> <lb/> und rösts im Schmaltz daß das Brod fein rösch wird : und wann man das Aepffel= Muß anrichten will <lb/> so rühre das geröstete Brod darunter <lb/> und richte es an. </p>
+        <p> ERstlich wasche die dürre Aepffel sauber <lb/> darnach thue sie in einen <objectName ref="#hafen">Hafen</objectName> <lb/> gieß <objectName ref="#wasser">Wasser</objectName> daran <lb/> laß sieden <lb/> wanns wacker eingesotten <lb/> so rührs wohl daß es dicklicht werde; darnach schneide rocken Brod <lb/> wie in eine <objectName ref="#suppe">Suppen</objectName> <lb/> und rösts im Schmaltz daß das Brod fein rösch wird : und wann man das Aepffel= Muß anrichten will <lb/> so rühre das geröstete Brod darunter <lb/> und richte es an. </p>
             </div>
         </body>
     </text>

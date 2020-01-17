@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn der Waller zimlich groß <lb/> können die mittlere Stück überzwerch in feine Stücklein geschnitten werden <lb/> mit dem Messerrucken etwas geklopfft <lb/> gesaltzen <lb/> durch zerlassenen <objectName ref="butter">Butter</objectName> gezogen <lb/> mit <lb/> oder ohne angemachte Semmel= Brosen bestreuter zu braten <lb/> und mit Lemoni= Safft und braunen <objectName ref="butter">Butter</objectName> gegeben <lb/> oder mit einer sauren Lemoni= oder Knoblauch= <objectName ref="bruehe">Brühe</objectName>. </p>
+        <p> WAnn der Waller zimlich groß <lb/> können die mittlere Stück überzwerch in feine Stücklein geschnitten werden <lb/> mit dem Messerrucken etwas geklopfft <lb/> gesaltzen <lb/> durch zerlassenen <objectName ref="#butter">Butter</objectName> gezogen <lb/> mit <lb/> oder ohne angemachte Semmel= Brosen bestreuter zu braten <lb/> und mit Lemoni= Safft und braunen <objectName ref="#butter">Butter</objectName> gegeben <lb/> oder mit einer sauren Lemoni= oder Knoblauch= <objectName ref="#bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

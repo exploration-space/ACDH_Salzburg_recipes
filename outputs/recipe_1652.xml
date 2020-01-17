@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Semel schmollen vmb.3. kr : vnd in <lb/> Millich Rämb gewaikht in einer Saubern <lb/> <objectName ref="rein">Rein</objectName>, nimb ain gueten Kochlöfl voll <objectName ref="schmalz">schmalz</objectName>, <lb/> abgeriert, so lang biß d ( a ) s es weiß wierdt, <lb/> die Semelschmollen, darnach nimb.6. ganze <lb/> ayr vnd darunter gethan, woll vnd genueg <lb/> abgeriert, vnd zuggert, darnach in ainer <lb/> schißl gebachen, <lb/> </p>
+        <p> Nimb Semel schmollen vmb.3. kr : vnd in <lb/> Millich Rämb gewaikht in einer Saubern <lb/> <objectName ref="#rein">Rein</objectName>, nimb ain gueten Kochlöfl voll <objectName ref="#schmalz">schmalz</objectName>, <lb/> abgeriert, so lang biß d ( a ) s es weiß wierdt, <lb/> die Semelschmollen, darnach nimb.6. ganze <lb/> ayr vnd darunter gethan, woll vnd genueg <lb/> abgeriert, vnd zuggert, darnach in ainer <lb/> schißl gebachen, <lb/> </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> LAß eine Fleischbrüh sieden <lb/> reibe ein wenig dürren <objectName ref="majoran">Majoran</objectName> klein <lb/> und thue denselben in die siedende <objectName ref="bruehe">Brühe</objectName> <lb/> würtze sie mit Ingber und Muscatenblühe <lb/> und brenn ein klein wenig <objectName ref="mehl">Mehl</objectName> darein <lb/> darnach laß es sieden; lege einen guten Theil <objectName ref="butter">Butter</objectName> in den Sud <lb/> und richt es alsdann über gewürffelt weiß Brod. </p>
+        <p> LAß eine Fleischbrüh sieden <lb/> reibe ein wenig dürren <objectName ref="#majoran">Majoran</objectName> klein <lb/> und thue denselben in die siedende <objectName ref="#bruehe">Brühe</objectName> <lb/> würtze sie mit Ingber und Muscatenblühe <lb/> und brenn ein klein wenig <objectName ref="#mehl">Mehl</objectName> darein <lb/> darnach laß es sieden; lege einen guten Theil <objectName ref="#butter">Butter</objectName> in den Sud <lb/> und richt es alsdann über gewürffelt weiß Brod. </p>
             </div>
         </body>
     </text>

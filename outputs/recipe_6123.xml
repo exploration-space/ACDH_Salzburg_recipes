@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe <objectName ref="lunge">Lunge</objectName> wird gebrühet <lb/> klein gehackt <lb/> gesaltzen und gewürtzt; hernach schlage Eyer daran <lb/> und rösts mit klein= gehacktem Zwibel und Petersil im <objectName ref="butter">Butter</objectName> <lb/> so ist es gut. </p>
+        <p> DIe <objectName ref="#lunge">Lunge</objectName> wird gebrühet <lb/> klein gehackt <lb/> gesaltzen und gewürtzt; hernach schlage Eyer daran <lb/> und rösts mit klein= gehacktem Zwibel und Petersil im <objectName ref="#butter">Butter</objectName> <lb/> so ist es gut. </p>
             </div>
         </body>
     </text>

@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Mach auch Priseindel auß der Fasanen <objectName ref="brust">Brust</objectName> <lb/> so ist es gut vnnd wolgeschmack. </p>
+        <p> Mach auch Priseindel auß der Fasanen <objectName ref="#brust">Brust</objectName> <lb/> so ist es gut vnnd wolgeschmack. </p>
             </div>
         </body>
     </text>

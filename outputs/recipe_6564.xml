@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) die <objectName ref="leber">Leber</objectName> <lb/> vnnd quell sie in heissem <objectName ref="wasser">Wasser</objectName> <lb/> butz sie fein sauber auß <lb/> vnd steck sie an ein höltzern <objectName ref="spiess">Spieß</objectName> <lb/> sampt dem <objectName ref="magen">Magen</objectName> <lb/> leg sie auff ein Roßt <lb/> vnd brat sie geschwindt hinweg. Wenn du sie wilt anrichten <lb/> so nim ( m ) gebehte Schnitten drey oder vier in die <objectName ref="schuessel">Schüssel</objectName> <lb/> geuß darein ein gute Hennenbrüh <lb/> mit Pettersilgen Wurtzel gesotten. Vnd wenn du hast angerichtet <lb/> so leg sie auff die Brüh <lb/> so ist es gut vnd zierlich. </p>
+        <p> Nim ( m ) die <objectName ref="#leber">Leber</objectName> <lb/> vnnd quell sie in heissem <objectName ref="#wasser">Wasser</objectName> <lb/> butz sie fein sauber auß <lb/> vnd steck sie an ein höltzern <objectName ref="#spiess">Spieß</objectName> <lb/> sampt dem <objectName ref="#magen">Magen</objectName> <lb/> leg sie auff ein Roßt <lb/> vnd brat sie geschwindt hinweg. Wenn du sie wilt anrichten <lb/> so nim ( m ) gebehte Schnitten drey oder vier in die <objectName ref="#schuessel">Schüssel</objectName> <lb/> geuß darein ein gute Hennenbrüh <lb/> mit Pettersilgen Wurtzel gesotten. Vnd wenn du hast angerichtet <lb/> so leg sie auff die Brüh <lb/> so ist es gut vnd zierlich. </p>
             </div>
         </body>
     </text>

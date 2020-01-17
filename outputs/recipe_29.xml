@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein Mäsßl<gap/> Guetten Rämb<gap/>, <lb/> oder Gar ein Guette Milch<gap/>, vnnd <lb/> ein ½. Vierttung<gap/> Mandl, Ziege<gap/> <lb/> es ab, vnnd Zuckhers, nach deinen <lb/> belieben, alsdann Nimb Krön<gap/>, vnd <lb/> ein handt voll Semell Presl<gap/>, lass <lb/> ein sidlein<gap/> thuen, yber das Rindt= <lb/> <objectName ref="fleisch">fleisch</objectName>. <lb/> </p>
+        <p> Nimb ein Mäsßl<gap/> Guetten Rämb<gap/>, <lb/> oder Gar ein Guette Milch<gap/>, vnnd <lb/> ein ½. Vierttung<gap/> Mandl, Ziege<gap/> <lb/> es ab, vnnd Zuckhers, nach deinen <lb/> belieben, alsdann Nimb Krön<gap/>, vnd <lb/> ein handt voll Semell Presl<gap/>, lass <lb/> ein sidlein<gap/> thuen, yber das Rindt= <lb/> <objectName ref="#fleisch">fleisch</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

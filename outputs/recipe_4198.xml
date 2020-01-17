@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ES wird die Rutten= <objectName ref="leber">Leber</objectName> gedämpfft <lb/> geröst <lb/> oder gebraten mit Dardoffeln <lb/> oder <objectName ref="austern">Austern</objectName> <lb/> mit kleingehackten <objectName ref="sardellen">Sardellen</objectName> <lb/> Zwibeln und Gewürtz <lb/> auch nicht zu frühe gesaltzen <lb/> damit sie nicht hartwird <lb/> und gibs mit Lemoni= Safft. </p>
+        <p> ES wird die Rutten= <objectName ref="#leber">Leber</objectName> gedämpfft <lb/> geröst <lb/> oder gebraten mit Dardoffeln <lb/> oder <objectName ref="#austern">Austern</objectName> <lb/> mit kleingehackten <objectName ref="#sardellen">Sardellen</objectName> <lb/> Zwibeln und Gewürtz <lb/> auch nicht zu frühe gesaltzen <lb/> damit sie nicht hartwird <lb/> und gibs mit Lemoni= Safft. </p>
             </div>
         </body>
     </text>

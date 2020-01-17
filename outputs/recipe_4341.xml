@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimm sauber geklaubte Erdbeer <lb/> feuchte sie mit wenig <objectName ref="wein">Wein</objectName> an <lb/> mache den Dorten= Boden fertig <lb/> streue geriebne Semmel= Brosen darein <lb/> die Erdbeer darauf <lb/> und viel <objectName ref="zucker">Zucker</objectName> darüber <lb/> bedecks mit dem Ausschnitt oder Oberblatt <lb/> bestreiche es <lb/> und bach es <lb/> und gibs hernach mit <objectName ref="zucker">Zucker</objectName> bestreuet zu <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> Nimm sauber geklaubte Erdbeer <lb/> feuchte sie mit wenig <objectName ref="#wein">Wein</objectName> an <lb/> mache den Dorten= Boden fertig <lb/> streue geriebne Semmel= Brosen darein <lb/> die Erdbeer darauf <lb/> und viel <objectName ref="#zucker">Zucker</objectName> darüber <lb/> bedecks mit dem Ausschnitt oder Oberblatt <lb/> bestreiche es <lb/> und bach es <lb/> und gibs hernach mit <objectName ref="#zucker">Zucker</objectName> bestreuet zu <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

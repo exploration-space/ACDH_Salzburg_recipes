@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> VOn dergleichen <objectName ref="gehaeck">Gehäck</objectName> und Füll macht man auch einen grossen Knopff <lb/> ein <objectName ref="tuch">Tuch</objectName> gebunden <lb/> in Erbsen= <objectName ref="bruehe">Brühe</objectName> mit Petersil gesotten; in eine <objectName ref="schuessel">Schüssel</objectName> zerlegt <lb/> mit <objectName ref="butter">Butter</objectName> und geriebnen Parmesan= Käß <lb/> oder mit einer <objectName ref="bruehe">Brühe</objectName> von <objectName ref="erbsen">Erbsen</objectName> <lb/> Gewürtz und <objectName ref="butter">Butter</objectName> <lb/> oder von Ram <lb/> oder etwas gelben und süssen Wein= <objectName ref="bruehe">Brühe</objectName> <lb/> mit Pinioli und schwartzen Weinbeerlein. </p>
+        <p> VOn dergleichen <objectName ref="#gehaeck">Gehäck</objectName> und Füll macht man auch einen grossen Knopff <lb/> ein <objectName ref="#tuch">Tuch</objectName> gebunden <lb/> in Erbsen= <objectName ref="#bruehe">Brühe</objectName> mit Petersil gesotten; in eine <objectName ref="#schuessel">Schüssel</objectName> zerlegt <lb/> mit <objectName ref="#butter">Butter</objectName> und geriebnen Parmesan= Käß <lb/> oder mit einer <objectName ref="#bruehe">Brühe</objectName> von <objectName ref="#erbsen">Erbsen</objectName> <lb/> Gewürtz und <objectName ref="#butter">Butter</objectName> <lb/> oder von Ram <lb/> oder etwas gelben und süssen Wein= <objectName ref="#bruehe">Brühe</objectName> <lb/> mit Pinioli und schwartzen Weinbeerlein. </p>
             </div>
         </body>
     </text>

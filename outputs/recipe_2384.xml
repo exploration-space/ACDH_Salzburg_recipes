@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> HAcket das <objectName ref="kraut">Kraut</objectName> klein <lb/> beitzet es über Nacht im <objectName ref="essig">Essig</objectName> <lb/> legts dann in einen geläuterten <objectName ref="zucker">Zucker</objectName> <lb/> und last es so lang sieden <lb/> biß dick wird : Wiewol auch etliche <lb/> an statt deß Zuckers <lb/> ein geläutertes <objectName ref="honig">Honig</objectName> gebrauchen <lb/> zuvor aber das <objectName ref="kraut">Kraut</objectName> mit eingeweichter Semmel= Brosam vermischen <lb/> und in einem <objectName ref="seiher">Seiher</objectName> oder <objectName ref="durchschlag">Durchschlag</objectName> durchtreiben. </p>
+        <p> HAcket das <objectName ref="#kraut">Kraut</objectName> klein <lb/> beitzet es über Nacht im <objectName ref="#essig">Essig</objectName> <lb/> legts dann in einen geläuterten <objectName ref="#zucker">Zucker</objectName> <lb/> und last es so lang sieden <lb/> biß dick wird : Wiewol auch etliche <lb/> an statt deß Zuckers <lb/> ein geläutertes <objectName ref="#honig">Honig</objectName> gebrauchen <lb/> zuvor aber das <objectName ref="#kraut">Kraut</objectName> mit eingeweichter Semmel= Brosam vermischen <lb/> und in einem <objectName ref="#seiher">Seiher</objectName> oder <objectName ref="#durchschlag">Durchschlag</objectName> durchtreiben. </p>
             </div>
         </body>
     </text>

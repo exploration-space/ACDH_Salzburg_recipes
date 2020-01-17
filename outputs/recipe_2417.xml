@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn der <objectName ref="sauerampfer">Sauerampfer</objectName> klein zerstossen oder gehackt <lb/> kan man solchen alsobald mit einer warmen Fleischbrüh durchzwingen <lb/> gute Gewürtz darein thun <lb/> und aufsieden lassen : indessen zerklopffe ein paar Eyerdottern <lb/> und rühre sie mit der siedenden Brüh an <lb/> wirff ein Stücklein <objectName ref="butter">Butter</objectName> dazu <lb/> und laß einen wall mit aufthun <lb/> richts dann über weiß= gebähtes Brod. </p>
+        <p> WAnn der <objectName ref="#sauerampfer">Sauerampfer</objectName> klein zerstossen oder gehackt <lb/> kan man solchen alsobald mit einer warmen Fleischbrüh durchzwingen <lb/> gute Gewürtz darein thun <lb/> und aufsieden lassen : indessen zerklopffe ein paar Eyerdottern <lb/> und rühre sie mit der siedenden Brüh an <lb/> wirff ein Stücklein <objectName ref="#butter">Butter</objectName> dazu <lb/> und laß einen wall mit aufthun <lb/> richts dann über weiß= gebähtes Brod. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="nieren">Nieren</objectName> vnd Miltz mit Zwibeln eyngemacht. Hastu viel <lb/> so machstu viel eyn <lb/> mach es gelb oder weiß <lb/> wie du es habe ( n ) wilst. Magst auch die Miltz vmbkehren <lb/> vnd braten auff einem Roßt <lb/> mit grünen <objectName ref="kraeuter">Kräutern</objectName> <lb/> <objectName ref="pfeffer">Pfeffer</objectName> vn ( n ) Saltz besträwt <lb/> sonderlich wenn du solcher Miltzen viel hast <lb/> denn eine oder zwo thun nichts <lb/> du mußt ir eine oder etliche auff eine <objectName ref="schuessel">Schüssel</objectName> haben. </p>
+        <p> <objectName ref="#nieren">Nieren</objectName> vnd Miltz mit Zwibeln eyngemacht. Hastu viel <lb/> so machstu viel eyn <lb/> mach es gelb oder weiß <lb/> wie du es habe ( n ) wilst. Magst auch die Miltz vmbkehren <lb/> vnd braten auff einem Roßt <lb/> mit grünen <objectName ref="#kraeuter">Kräutern</objectName> <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> vn ( n ) Saltz besträwt <lb/> sonderlich wenn du solcher Miltzen viel hast <lb/> denn eine oder zwo thun nichts <lb/> du mußt ir eine oder etliche auff eine <objectName ref="#schuessel">Schüssel</objectName> haben. </p>
             </div>
         </body>
     </text>

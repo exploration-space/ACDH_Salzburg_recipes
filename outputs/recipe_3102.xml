@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> CApry <lb/> mit saubern Pinioli und Weinbeerlein vermischt <lb/> dann mit <objectName ref="zucker">Zucker</objectName> <lb/> wenig Eßig und Oel angemacht <lb/> gibt man auch statt eines Salats. </p>
+        <p> CApry <lb/> mit saubern Pinioli und Weinbeerlein vermischt <lb/> dann mit <objectName ref="#zucker">Zucker</objectName> <lb/> wenig Eßig und Oel angemacht <lb/> gibt man auch statt eines Salats. </p>
             </div>
         </body>
     </text>

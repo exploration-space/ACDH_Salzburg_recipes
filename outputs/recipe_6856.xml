@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Haselhüner <objectName ref="pastete">Pasteten</objectName> kalt gespickt mit Zim ( m ) et vnd Neglein <lb/> treib ein <objectName ref="pastete">Pasteten</objectName> auff von Ruckenteig <lb/> vnd mach die Haselhüner darein <lb/> würtz vnd saltz sie <lb/> schneidt <objectName ref="speck">Speck</objectName> fein breit vnd dünn <lb/> machs zu <lb/> vnd scheubs in <objectName ref="ofen">Ofen</objectName> <lb/> backs <lb/> mach den Kopff <lb/> Flügel vn ( d ) Schwantz darüber <lb/> vnd laß kalt werden. </p>
+        <p> Haselhüner <objectName ref="#pastete">Pasteten</objectName> kalt gespickt mit Zim ( m ) et vnd Neglein <lb/> treib ein <objectName ref="#pastete">Pasteten</objectName> auff von Ruckenteig <lb/> vnd mach die Haselhüner darein <lb/> würtz vnd saltz sie <lb/> schneidt <objectName ref="#speck">Speck</objectName> fein breit vnd dünn <lb/> machs zu <lb/> vnd scheubs in <objectName ref="#ofen">Ofen</objectName> <lb/> backs <lb/> mach den Kopff <lb/> Flügel vn ( d ) Schwantz darüber <lb/> vnd laß kalt werden. </p>
             </div>
         </body>
     </text>

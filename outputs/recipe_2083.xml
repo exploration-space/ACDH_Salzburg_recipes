@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schwëll die Weinpörl in einem <objectName ref="wein">Wein</objectName>, laß darnach khiel werden, <lb/><lb/> ( 35v ) mach ein blat Wie ein andern dorten, strä die Weinpör drauf, <lb/> vnd Zimetstup, mach ein außgeschnitnes blat drüber, mach ein <lb/> Eÿß drauf, bachs in der Pfan, Wie andere dorten, so ists be= <lb/> reith, <lb/> </p>
+        <p> Schwëll die Weinpörl in einem <objectName ref="#wein">Wein</objectName>, laß darnach khiel werden, <lb/><lb/> ( 35v ) mach ein blat Wie ein andern dorten, strä die Weinpör drauf, <lb/> vnd Zimetstup, mach ein außgeschnitnes blat drüber, mach ein <lb/> Eÿß drauf, bachs in der Pfan, Wie andere dorten, so ists be= <lb/> reith, <lb/> </p>
             </div>
         </body>
     </text>

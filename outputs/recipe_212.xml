@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein Reindl<gap/>, vnd leg ein Stuckh<gap/> <lb/> Putter darein, laß in Zergehen, nimb <lb/> semel breßl<gap/> riehrs<gap/> darunter, daß <lb/> schön reslet<gap/> würdt, Gies<gap/> <objectName ref="wein">wein</objectName> daran <lb/> lasß siedten<gap/> daß dickhlet<gap/> wirdt, Zuckhers <lb/> das sies<gap/> Genueg ist, thue auch Zimmet<gap/> <lb/> vnnd <objectName ref="naegel">Nägel</objectName> stup<gap/> Darunter so ist es <lb/> recht. <lb/> </p>
+        <p> Nimb ein Reindl<gap/>, vnd leg ein Stuckh<gap/> <lb/> Putter darein, laß in Zergehen, nimb <lb/> semel breßl<gap/> riehrs<gap/> darunter, daß <lb/> schön reslet<gap/> würdt, Gies<gap/> <objectName ref="#wein">wein</objectName> daran <lb/> lasß siedten<gap/> daß dickhlet<gap/> wirdt, Zuckhers <lb/> das sies<gap/> Genueg ist, thue auch Zimmet<gap/> <lb/> vnnd <objectName ref="#naegel">Nägel</objectName> stup<gap/> Darunter so ist es <lb/> recht. <lb/> </p>
             </div>
         </body>
     </text>

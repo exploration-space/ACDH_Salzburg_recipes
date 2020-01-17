@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb <objectName ref="wein">Wein</objectName> <lb/> vnnd arbesbrüe, vnd Roßmarin, Weinbör, <lb/><lb/> ( 73r ) zuggern woll, nimb Imber, vnd <objectName ref="pfeffer">Pfeffer</objectName>, <lb/> lints gewürz, Pär ein schniten brott fein <lb/> schwarz, vnd treibs vndter die Supen, <objectName ref="salz">Salz</objectName> <lb/> nit hart. <lb/> </p>
+        <p> Nimb <objectName ref="#wein">Wein</objectName> <lb/> vnnd arbesbrüe, vnd Roßmarin, Weinbör, <lb/><lb/> ( 73r ) zuggern woll, nimb Imber, vnd <objectName ref="#pfeffer">Pfeffer</objectName>, <lb/> lints gewürz, Pär ein schniten brott fein <lb/> schwarz, vnd treibs vndter die Supen, <objectName ref="#salz">Salz</objectName> <lb/> nit hart. <lb/> </p>
             </div>
         </body>
     </text>

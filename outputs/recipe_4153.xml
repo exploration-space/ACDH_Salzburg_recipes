@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe <objectName ref="leber">Leber</objectName> wird mit <objectName ref="speck">Speck</objectName> <lb/> guter Fette <lb/> Gewürtz <lb/> wohlriechenden Kräutlein <lb/> gehackt <lb/> gibt gute Leber= Würstlein <lb/> oder gefüllte Mägen. </p>
+        <p> DIe <objectName ref="#leber">Leber</objectName> wird mit <objectName ref="#speck">Speck</objectName> <lb/> guter Fette <lb/> Gewürtz <lb/> wohlriechenden Kräutlein <lb/> gehackt <lb/> gibt gute Leber= Würstlein <lb/> oder gefüllte Mägen. </p>
             </div>
         </body>
     </text>

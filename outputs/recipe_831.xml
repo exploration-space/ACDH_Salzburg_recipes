@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Marillen mit <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> gantzer Lemoni=Schaalen und Zimmet lassen aufkochen; ist kräfftig vor Alte und Krancke; bey dem Anrichten nimm den Zimmet und die Lemoni=Schaalen davon. </p>
+        <p> Marillen mit <objectName ref="#wein">Wein</objectName> <lb/> <objectName ref="#zucker">Zucker</objectName> <lb/> gantzer Lemoni=Schaalen und Zimmet lassen aufkochen; ist kräfftig vor Alte und Krancke; bey dem Anrichten nimm den Zimmet und die Lemoni=Schaalen davon. </p>
             </div>
         </body>
     </text>

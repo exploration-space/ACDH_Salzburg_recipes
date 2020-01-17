@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schlag aÿr auf, hiz ein <objectName ref="schmalz">schmalz</objectName> in einer Pfan, laß gar langsamb ÿber= <lb/> lauffen, das es sich anlegt an die pfan, Wie dikhe khudl flëkh, Schneids <lb/> auch wie ein flëkh, nimb ein Zwifl, ein halben, oder nur ein spalten, <lb/> von eim öpffl, hakhe ihn khlain, rests im <objectName ref="schmalz">schmalz</objectName>, bren ein wenig mell <lb/> darzue, rests fein liechtbraun, geuß <objectName ref="essig">Essig</objectName> dran, vnd Arbesbrüe, <lb/> ein Wenig Saffran, vnd gewürzt, <objectName ref="salz">Salz</objectName>, laß Woll sieden, Wan du <lb/> Wilt anrichten, geuß dan die Aÿr flëkh, laß nur ein Sud thuen. <lb/> </p>
+        <p> Schlag aÿr auf, hiz ein <objectName ref="#schmalz">schmalz</objectName> in einer Pfan, laß gar langsamb ÿber= <lb/> lauffen, das es sich anlegt an die pfan, Wie dikhe khudl flëkh, Schneids <lb/> auch wie ein flëkh, nimb ein Zwifl, ein halben, oder nur ein spalten, <lb/> von eim öpffl, hakhe ihn khlain, rests im <objectName ref="#schmalz">schmalz</objectName>, bren ein wenig mell <lb/> darzue, rests fein liechtbraun, geuß <objectName ref="#essig">Essig</objectName> dran, vnd Arbesbrüe, <lb/> ein Wenig Saffran, vnd gewürzt, <objectName ref="#salz">Salz</objectName>, laß Woll sieden, Wan du <lb/> Wilt anrichten, geuß dan die Aÿr flëkh, laß nur ein Sud thuen. <lb/> </p>
             </div>
         </body>
     </text>

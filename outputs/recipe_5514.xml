@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) weissen Mon <lb/> zerstoß jn <lb/> vnd streich jhn mit warmen <objectName ref="wasser">Wasser</objectName> durch <lb/> laß mit <objectName ref="butter">Butter</objectName> sieden <lb/> oder machs saur <lb/> wie du wilt <lb/> so ist es gut. </p>
+        <p> Nim ( m ) weissen Mon <lb/> zerstoß jn <lb/> vnd streich jhn mit warmen <objectName ref="#wasser">Wasser</objectName> durch <lb/> laß mit <objectName ref="#butter">Butter</objectName> sieden <lb/> oder machs saur <lb/> wie du wilt <lb/> so ist es gut. </p>
             </div>
         </body>
     </text>

@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm das beste Brät von einem frischen Capaunen <lb/> hacke dasselbig mit genugsam guten Ochsen=Mark <lb/> oder dergleichen Niern=Fetten gantz klein <lb/> mische darunter ein wenig klein gehackten Zwibel <lb/> mit wenig Milchram <lb/> mit darein geweichter Semmel=Schmollen <lb/> Eyer <lb/> gewürtz es mit wenig <objectName ref="pfeffer">Pfeffer</objectName> <lb/> und Muscatnuß <lb/> machs recht im Saltz <lb/> und recht in der Dicken <lb/> mache von disem <objectName ref="gehaeck">Gehäck</objectName> kleine Knödlein <lb/> und sieds in sauberer <lb/> guten <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> machs mit Saffran gelb <lb/> aber nur soviel <lb/> das mans kan spüren; sie seynd gleich fertig <lb/> und köstlich gut. </p>
+        <p> NImm das beste Brät von einem frischen Capaunen <lb/> hacke dasselbig mit genugsam guten Ochsen=Mark <lb/> oder dergleichen Niern=Fetten gantz klein <lb/> mische darunter ein wenig klein gehackten Zwibel <lb/> mit wenig Milchram <lb/> mit darein geweichter Semmel=Schmollen <lb/> Eyer <lb/> gewürtz es mit wenig <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> und Muscatnuß <lb/> machs recht im Saltz <lb/> und recht in der Dicken <lb/> mache von disem <objectName ref="#gehaeck">Gehäck</objectName> kleine Knödlein <lb/> und sieds in sauberer <lb/> guten <objectName ref="#fleischbruehe">Fleischbrühe</objectName> <lb/> machs mit Saffran gelb <lb/> aber nur soviel <lb/> das mans kan spüren; sie seynd gleich fertig <lb/> und köstlich gut. </p>
             </div>
         </body>
     </text>

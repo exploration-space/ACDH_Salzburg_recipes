@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb gestossen<gap/> oder gerimbne<gap/> Mandl<gap/>,.2. thaill<gap/>, <lb/> vnd den dritten thaill<gap/> geribne<gap/> Sembl<gap/>, nöz<gap/> die= <lb/> =selbe mit Putter<gap/>, nimb ayr<gap/>, spridls<gap/> oder <lb/> Klopfs<gap/> starckh, einen guetten <objectName ref="loeffel">löffel</objectName> voll Rämb<gap/> <lb/> vnd zugar<gap/> darundter, Mach die Mandl<gap/> vnd sembl<gap/> <lb/> damit an, Riers<gap/> woll<gap/> vndter einander, pachs<gap/> <lb/> als wie die sembl<gap/> Kuechen<gap/> <lb/> </p>
+        <p> Nimb gestossen<gap/> oder gerimbne<gap/> Mandl<gap/>,.2. thaill<gap/>, <lb/> vnd den dritten thaill<gap/> geribne<gap/> Sembl<gap/>, nöz<gap/> die= <lb/> =selbe mit Putter<gap/>, nimb ayr<gap/>, spridls<gap/> oder <lb/> Klopfs<gap/> starckh, einen guetten <objectName ref="#loeffel">löffel</objectName> voll Rämb<gap/> <lb/> vnd zugar<gap/> darundter, Mach die Mandl<gap/> vnd sembl<gap/> <lb/> damit an, Riers<gap/> woll<gap/> vndter einander, pachs<gap/> <lb/> als wie die sembl<gap/> Kuechen<gap/> <lb/> </p>
             </div>
         </body>
     </text>

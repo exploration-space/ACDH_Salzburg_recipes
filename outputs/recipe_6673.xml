@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Du kannst auch vber ein gebratene Foren <lb/> die warm ist <lb/> ein Kapernbrüh machen. Nim ein wenig Erbsbrüh vnd frische <objectName ref="butter">Butter</objectName> <lb/> ein wenig gestossen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> vnnd ein wenig <objectName ref="essig">Essig</objectName> <lb/> seudt das miteinander sampt den <objectName ref="kapern">Kapern</objectName> <lb/> geuß darnach vber die gebratene Foren <lb/> daß fein warm auff eine <objectName ref="tisch">Tisch</objectName> kompt. </p>
+        <p> Du kannst auch vber ein gebratene Foren <lb/> die warm ist <lb/> ein Kapernbrüh machen. Nim ein wenig Erbsbrüh vnd frische <objectName ref="#butter">Butter</objectName> <lb/> ein wenig gestossen <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> vnnd ein wenig <objectName ref="#essig">Essig</objectName> <lb/> seudt das miteinander sampt den <objectName ref="#kapern">Kapern</objectName> <lb/> geuß darnach vber die gebratene Foren <lb/> daß fein warm auff eine <objectName ref="#tisch">Tisch</objectName> kompt. </p>
             </div>
         </body>
     </text>

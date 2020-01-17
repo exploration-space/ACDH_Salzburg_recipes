@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmt Eyerdottern <lb/> zerrühret sie mit einem <objectName ref="loeffel">Löffel</objectName> wohl glatt <lb/> darnach reibt von einer Citronen die Schelfen auf dem <objectName ref="reibeisen">Reibeisen</objectName> ab <lb/> thuts zu denen Eyerdötterlein <lb/> schneidet die Citronen von einander <lb/> trucket das Marck dazu <lb/> nehmt <objectName ref="wein">Wein</objectName> und <objectName ref="zucker">Zucker</objectName> <lb/> doch daß es nicht zu dünn wird <lb/> setzts auf <objectName ref="kohlen">Kohlen</objectName> <lb/> rührets mit einem <objectName ref="loeffel">Löffel</objectName> so lang um <lb/> biß es anfängt zu kochen <lb/> lassts aber nicht lang sieden <lb/> so ist es fertig. </p>
+        <p> NEhmt Eyerdottern <lb/> zerrühret sie mit einem <objectName ref="#loeffel">Löffel</objectName> wohl glatt <lb/> darnach reibt von einer Citronen die Schelfen auf dem <objectName ref="#reibeisen">Reibeisen</objectName> ab <lb/> thuts zu denen Eyerdötterlein <lb/> schneidet die Citronen von einander <lb/> trucket das Marck dazu <lb/> nehmt <objectName ref="#wein">Wein</objectName> und <objectName ref="#zucker">Zucker</objectName> <lb/> doch daß es nicht zu dünn wird <lb/> setzts auf <objectName ref="#kohlen">Kohlen</objectName> <lb/> rührets mit einem <objectName ref="#loeffel">Löffel</objectName> so lang um <lb/> biß es anfängt zu kochen <lb/> lassts aber nicht lang sieden <lb/> so ist es fertig. </p>
             </div>
         </body>
     </text>

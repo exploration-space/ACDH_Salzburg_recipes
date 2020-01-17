@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChuppe und bereite die Fische <lb/> wie vorgemeldt <lb/> wasche sie sauber aus <lb/> thue auf einer jeden Seiten überzwerch einen kleinen Schnitt hinein <lb/> saltze sie ein <lb/> und schwinge oder bestreue sie mit Erbis oder Weitzen= <objectName ref="mehl">Mehl</objectName> <lb/> bachs im Schmaltz oder Baum= Oel schön gelb; hebe die <objectName ref="pfanne">Pfanne</objectName> bißweilen vom <objectName ref="feuer">Feuer</objectName> hinweg <lb/> und halts dann wieder darüber <lb/> damit sie fein gemach ausbachen : trags dann also trocken auf <lb/> oder mach die Num. 34. und 94 bey den Hechten und Karpffen beschriebene Citronen= <objectName ref="bruehe">Brühe</objectName> darüber. </p>
+        <p> SChuppe und bereite die Fische <lb/> wie vorgemeldt <lb/> wasche sie sauber aus <lb/> thue auf einer jeden Seiten überzwerch einen kleinen Schnitt hinein <lb/> saltze sie ein <lb/> und schwinge oder bestreue sie mit Erbis oder Weitzen= <objectName ref="#mehl">Mehl</objectName> <lb/> bachs im Schmaltz oder Baum= Oel schön gelb; hebe die <objectName ref="#pfanne">Pfanne</objectName> bißweilen vom <objectName ref="#feuer">Feuer</objectName> hinweg <lb/> und halts dann wieder darüber <lb/> damit sie fein gemach ausbachen : trags dann also trocken auf <lb/> oder mach die Num. 34. und 94 bey den Hechten und Karpffen beschriebene Citronen= <objectName ref="#bruehe">Brühe</objectName> darüber. </p>
             </div>
         </body>
     </text>

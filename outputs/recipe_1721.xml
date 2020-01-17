@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Paiß in Esßig, vnd Imber vnd <objectName ref="pfeffer">Pfeffer</objectName>, spikh <lb/> sie woll, laß in.3. stunt Sieden od ( er ) bachen. <lb/> </p>
+        <p> Paiß in Esßig, vnd Imber vnd <objectName ref="#pfeffer">Pfeffer</objectName>, spikh <lb/> sie woll, laß in.3. stunt Sieden od ( er ) bachen. <lb/> </p>
             </div>
         </body>
     </text>

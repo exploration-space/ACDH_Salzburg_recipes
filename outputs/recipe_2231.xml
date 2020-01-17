@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein <objectName ref="wasser">Wasser</objectName> in ein pfan, thue gar ein Wenig <objectName ref="schmalz">schmalz</objectName> drein, <objectName ref="salz">salz</objectName>, <lb/> laß also Sieden, vnd Wan es seudt, so khoch ein Mell drein, vnd khochs, das <lb/> erstlich fest seÿ, nimb ihn dan in ein Merser, stosß ihn lang, das er sich <lb/><lb/> ( 52r ) gleich an der schißl schelt, darnach schlag mehr dan ein Aÿr Zue, so er nun ist, Wie <lb/> ein diner taig, so schlag ihn fein mit eim löfl ein, so Werdens groß, den taig <lb/> mueß man fein beÿ der Wermb behalten, etliche legen die aÿr in ein <lb/> Warmbs <objectName ref="wasser">Wasser</objectName>, das <objectName ref="lab">lab</objectName> Werden, so die khuechen bachen seind, gibs vnd <lb/> Zukher drauf. <lb/> </p>
+        <p> Nimb ein <objectName ref="#wasser">Wasser</objectName> in ein pfan, thue gar ein Wenig <objectName ref="#schmalz">schmalz</objectName> drein, <objectName ref="#salz">salz</objectName>, <lb/> laß also Sieden, vnd Wan es seudt, so khoch ein Mell drein, vnd khochs, das <lb/> erstlich fest seÿ, nimb ihn dan in ein Merser, stosß ihn lang, das er sich <lb/><lb/> ( 52r ) gleich an der schißl schelt, darnach schlag mehr dan ein Aÿr Zue, so er nun ist, Wie <lb/> ein diner taig, so schlag ihn fein mit eim löfl ein, so Werdens groß, den taig <lb/> mueß man fein beÿ der Wermb behalten, etliche legen die aÿr in ein <lb/> Warmbs <objectName ref="#wasser">Wasser</objectName>, das <objectName ref="#lab">lab</objectName> Werden, so die khuechen bachen seind, gibs vnd <lb/> Zukher drauf. <lb/> </p>
             </div>
         </body>
     </text>

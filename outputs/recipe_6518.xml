@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe lämmerne Presolen <lb/> oder Carbonädlein werden mit gutem <objectName ref="gehaeck">Gehäck</objectName> beyderseits dick belegt <lb/> mit Eyerklar benetzt <lb/> und mit angemachten Semmel=Brosen bestreut <lb/> und zu rechter Zeit aus Schmaltz gebachen <lb/> gibs trucken <lb/> mit gebachenen Petersil=Kräutlein <lb/> oder zur Garnitur. </p>
+        <p> DIe lämmerne Presolen <lb/> oder Carbonädlein werden mit gutem <objectName ref="#gehaeck">Gehäck</objectName> beyderseits dick belegt <lb/> mit Eyerklar benetzt <lb/> und mit angemachten Semmel=Brosen bestreut <lb/> und zu rechter Zeit aus Schmaltz gebachen <lb/> gibs trucken <lb/> mit gebachenen Petersil=Kräutlein <lb/> oder zur Garnitur. </p>
             </div>
         </body>
     </text>

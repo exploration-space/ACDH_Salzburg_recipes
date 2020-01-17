@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wenn der <objectName ref="most">Most</objectName> die vnreinigkeit nimer außwirfft <lb/> so nim guten starcken gebrännten <objectName ref="wein">Wein</objectName> <lb/> vnd geuß jhn in den <objectName ref="wein">Wein</objectName> <lb/> so wirdt er darnach gut <lb/> wenn er sein zeit außgeligt <lb/> darnach magstu jn behalten <lb/> so lang du wilt. </p>
+        <p> Wenn der <objectName ref="#most">Most</objectName> die vnreinigkeit nimer außwirfft <lb/> so nim guten starcken gebrännten <objectName ref="#wein">Wein</objectName> <lb/> vnd geuß jhn in den <objectName ref="#wein">Wein</objectName> <lb/> so wirdt er darnach gut <lb/> wenn er sein zeit außgeligt <lb/> darnach magstu jn behalten <lb/> so lang du wilt. </p>
             </div>
         </body>
     </text>

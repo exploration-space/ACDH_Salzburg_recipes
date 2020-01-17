@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schneidt jn voneinander <lb/> vnnd laß das Feißt darbey <lb/> leg jn auff ein Roßt <lb/> vnd breun jn ab <lb/> begeuß jhn mit frischer vnzerlassener <objectName ref="butter">Butter</objectName>. Vnd wenn du es anrichtest <lb/> so begeuß es widerumb mit frischer <objectName ref="butter">Butter</objectName> <lb/> strew ein Parmesankeß darüber <lb/> oder mach ein saure <objectName ref="suppe">Suppen</objectName> von Rindtfleisch vnnd <objectName ref="essig">Essig</objectName> darvnter <lb/> vnnd gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> so wirdt es wolgeschmack. </p>
+        <p> Schneidt jn voneinander <lb/> vnnd laß das Feißt darbey <lb/> leg jn auff ein Roßt <lb/> vnd breun jn ab <lb/> begeuß jhn mit frischer vnzerlassener <objectName ref="#butter">Butter</objectName>. Vnd wenn du es anrichtest <lb/> so begeuß es widerumb mit frischer <objectName ref="#butter">Butter</objectName> <lb/> strew ein Parmesankeß darüber <lb/> oder mach ein saure <objectName ref="#suppe">Suppen</objectName> von Rindtfleisch vnnd <objectName ref="#essig">Essig</objectName> darvnter <lb/> vnnd gibs warm auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> so wirdt es wolgeschmack. </p>
             </div>
         </body>
     </text>

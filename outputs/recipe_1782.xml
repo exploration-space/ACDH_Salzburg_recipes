@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> bor d ( a ) s <objectName ref="herz">herz</objectName> herauß, vnd legs in die Posteten, <lb/> nimb d ( a ) s March von Eyßpain, wasch auß in <lb/> ain lablen <objectName ref="wasser">wasser</objectName>, <objectName ref="salz">Salz</objectName> d ( a ) s march ain wenig, <lb/> legs in die außgebratne Khüten, Nimb zugger, <lb/> weinbör, lints gewürz, <objectName ref="salz">Salz</objectName> nit. <lb/><lb/> ( 72r ) </p>
+        <p> bor d ( a ) s <objectName ref="#herz">herz</objectName> herauß, vnd legs in die Posteten, <lb/> nimb d ( a ) s March von Eyßpain, wasch auß in <lb/> ain lablen <objectName ref="#wasser">wasser</objectName>, <objectName ref="#salz">Salz</objectName> d ( a ) s march ain wenig, <lb/> legs in die außgebratne Khüten, Nimb zugger, <lb/> weinbör, lints gewürz, <objectName ref="#salz">Salz</objectName> nit. <lb/><lb/> ( 72r ) </p>
             </div>
         </body>
     </text>

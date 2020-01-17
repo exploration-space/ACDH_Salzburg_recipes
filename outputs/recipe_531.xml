@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Auf ein ½ lt<gap/> mell ein ½ Viertung<gap/> mandl <lb/> gar klein gestossen<gap/> 1 <objectName ref="viertung">Viertung</objectName> Zukher auch <lb/> ein mäsel<gap/> österreicher <objectName ref="wein">wein</objectName> 2 air<gap/> Sprigles<gap/> <lb/> ab auch die mandl drunder mach den taig<gap/> an <lb/> so sein sie Recht die mandl misen nit genezt<gap/> <lb/> werden bach<gap/> es schön <lb/><lb/> ( Z U II ve 13 ) </p>
+        <p> Auf ein ½ lt<gap/> mell ein ½ Viertung<gap/> mandl <lb/> gar klein gestossen<gap/> 1 <objectName ref="#viertung">Viertung</objectName> Zukher auch <lb/> ein mäsel<gap/> österreicher <objectName ref="#wein">wein</objectName> 2 air<gap/> Sprigles<gap/> <lb/> ab auch die mandl drunder mach den taig<gap/> an <lb/> so sein sie Recht die mandl misen nit genezt<gap/> <lb/> werden bach<gap/> es schön <lb/><lb/> ( Z U II ve 13 ) </p>
             </div>
         </body>
     </text>

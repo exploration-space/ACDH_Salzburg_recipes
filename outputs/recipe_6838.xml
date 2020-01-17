@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Hirschen <objectName ref="knoedel">Knödel</objectName> <objectName ref="pastete">Pasteten</objectName> fein warm <lb/> ein <objectName ref="pastete">Pasteten</objectName> auffgetrieben von Ruckenteig <lb/> laß in einem <objectName ref="ofen">Ofen</objectName> backen <lb/> vnnd wenn es halb gebacken <lb/> so geuß Vngerischen <objectName ref="pfeffer">Pfeffer</objectName> durch das Lufftloch hinein <lb/> vnd laß backen <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
+        <p> Hirschen <objectName ref="#knoedel">Knödel</objectName> <objectName ref="#pastete">Pasteten</objectName> fein warm <lb/> ein <objectName ref="#pastete">Pasteten</objectName> auffgetrieben von Ruckenteig <lb/> laß in einem <objectName ref="#ofen">Ofen</objectName> backen <lb/> vnnd wenn es halb gebacken <lb/> so geuß Vngerischen <objectName ref="#pfeffer">Pfeffer</objectName> durch das Lufftloch hinein <lb/> vnd laß backen <lb/> gibs warm auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

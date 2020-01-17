@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) die <objectName ref="milch">Milch</objectName> <lb/> setz sie auff im <objectName ref="wasser">Wasser</objectName> <lb/> vn ( n ) saltz <lb/> laß sie gar an die statt siede <lb/> kül sie fein sauber auß. Nim ( m ) ein gerieben Weck darzu <lb/> vnd etliche Eyerdotter <lb/> vnd grüne wolschmeckende <objectName ref="kraeuter">Kräuter</objectName> <lb/> klein durcheinander gehackt <lb/> vnnd schaw <lb/> daß du es nicht versaltzest. Nim ( m ) darnach <objectName ref="butter">Butter</objectName> in ein Turtenpfannen <lb/> backs fein sauber auß <lb/> so ist es gut vnd wolgeschmack. </p>
+        <p> Nim ( m ) die <objectName ref="#milch">Milch</objectName> <lb/> setz sie auff im <objectName ref="#wasser">Wasser</objectName> <lb/> vn ( n ) saltz <lb/> laß sie gar an die statt siede <lb/> kül sie fein sauber auß. Nim ( m ) ein gerieben Weck darzu <lb/> vnd etliche Eyerdotter <lb/> vnd grüne wolschmeckende <objectName ref="#kraeuter">Kräuter</objectName> <lb/> klein durcheinander gehackt <lb/> vnnd schaw <lb/> daß du es nicht versaltzest. Nim ( m ) darnach <objectName ref="#butter">Butter</objectName> in ein Turtenpfannen <lb/> backs fein sauber auß <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

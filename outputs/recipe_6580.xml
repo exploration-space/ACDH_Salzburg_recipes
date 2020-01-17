@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) ein Kappaunen <lb/> setz jhn zu <lb/> vnnd laß jn gar an die statt sieden <lb/> setz auch Zwibeln zu in einem <objectName ref="wasser">Wasser</objectName> <lb/> die fein sauber geschelt <lb/> vnnd breit geschnitten seyn <lb/> laß sie gar an die statt siede ( n ) <lb/> streich sie durch ein Härin <objectName ref="tuch">Tuch</objectName> <lb/> daß sie fein dick werden <lb/> geuß die Zwibeln vber den Kappaunen <lb/> machs ab mit <objectName ref="pfeffer">Pfeffer</objectName> vnd Saffran <lb/> schaw verpfeffers nicht <lb/> denn ein solche Speiß ist bald verpfeffert. Laß widerumb sieden <lb/> biß daß dick wirt <lb/> Du magst es süß machen <lb/> oder also lassen <lb/> es ist auff beyde manier gut. Vnd diese Speiß nennet man auff Polisch gekocht. </p>
+        <p> Nim ( m ) ein Kappaunen <lb/> setz jhn zu <lb/> vnnd laß jn gar an die statt sieden <lb/> setz auch Zwibeln zu in einem <objectName ref="#wasser">Wasser</objectName> <lb/> die fein sauber geschelt <lb/> vnnd breit geschnitten seyn <lb/> laß sie gar an die statt siede ( n ) <lb/> streich sie durch ein Härin <objectName ref="#tuch">Tuch</objectName> <lb/> daß sie fein dick werden <lb/> geuß die Zwibeln vber den Kappaunen <lb/> machs ab mit <objectName ref="#pfeffer">Pfeffer</objectName> vnd Saffran <lb/> schaw verpfeffers nicht <lb/> denn ein solche Speiß ist bald verpfeffert. Laß widerumb sieden <lb/> biß daß dick wirt <lb/> Du magst es süß machen <lb/> oder also lassen <lb/> es ist auff beyde manier gut. Vnd diese Speiß nennet man auff Polisch gekocht. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Du magst auch von solchen Hattele eynmachen <lb/> fein weiß mit einer Hennenbrüh <lb/> mit Pettersilgen Wurtzel <lb/> Muscatenblüt <lb/> frischer <objectName ref="butter">Butter</objectName> <lb/> die vngeschmältzt ist <lb/> so wirt es weiß vnd wolgeschmack darvon. Oder mach solche Hattele mit frischen sauren Limonien <lb/> rundt <lb/> vnnd fein weiß geschnitten <lb/> mit frischer <objectName ref="butter">Butter</objectName> auffsieden lassen <lb/> vnnd nim ( m ) ein wenig eyngebrennt <objectName ref="mehl">Mehl</objectName> darein <lb/> so wirt es dick vnd wolgeschmack. </p>
+        <p> Du magst auch von solchen Hattele eynmachen <lb/> fein weiß mit einer Hennenbrüh <lb/> mit Pettersilgen Wurtzel <lb/> Muscatenblüt <lb/> frischer <objectName ref="#butter">Butter</objectName> <lb/> die vngeschmältzt ist <lb/> so wirt es weiß vnd wolgeschmack darvon. Oder mach solche Hattele mit frischen sauren Limonien <lb/> rundt <lb/> vnnd fein weiß geschnitten <lb/> mit frischer <objectName ref="#butter">Butter</objectName> auffsieden lassen <lb/> vnnd nim ( m ) ein wenig eyngebrennt <objectName ref="#mehl">Mehl</objectName> darein <lb/> so wirt es dick vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

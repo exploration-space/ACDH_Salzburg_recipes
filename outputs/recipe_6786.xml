@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Drosteln kanstu braten oder eynmachen <lb/> es sey schwartz <lb/> gelb <lb/> weiß <lb/> oder in einer lautern Brüh <lb/> oder in <objectName ref="pastete">Pasteten</objectName> eyngemacht <lb/> fein warm <lb/> ist es auff beyde manier gut zu zurichten. </p>
+        <p> DIe Drosteln kanstu braten oder eynmachen <lb/> es sey schwartz <lb/> gelb <lb/> weiß <lb/> oder in einer lautern Brüh <lb/> oder in <objectName ref="#pastete">Pasteten</objectName> eyngemacht <lb/> fein warm <lb/> ist es auff beyde manier gut zu zurichten. </p>
             </div>
         </body>
     </text>

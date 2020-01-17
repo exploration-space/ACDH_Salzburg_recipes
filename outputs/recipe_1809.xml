@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Streichs durch ain tuech, Nimb zugger, <objectName ref="salz">Salz</objectName> <lb/> nit, nimb lints gewürz, laß nit Siede ( n ). <lb/><lb/> ( 78r ) </p>
+        <p> Streichs durch ain tuech, Nimb zugger, <objectName ref="#salz">Salz</objectName> <lb/> nit, nimb lints gewürz, laß nit Siede ( n ). <lb/><lb/> ( 78r ) </p>
             </div>
         </body>
     </text>

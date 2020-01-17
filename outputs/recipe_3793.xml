@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr Waller wird aufgemacht <lb/> ausgenommen <lb/> in Zwerch= Stuck geschnitten <lb/> biß an den Kopff <lb/> und wann der Kopff groß <lb/> wird solcher in der Mitten voneinander getheilt <lb/> die Stück werden eingesaltzen <lb/> gemelbt und ausgebachen; hernach in <objectName ref="butter">Butter</objectName> <lb/> mit Gewürtz <objectName ref="wein">Wein</objectName> und in brauner durchgetriebener Karpffen= <objectName ref="jus">jus</objectName>, mit <lb/> oder ohne Schwammen kochen lassen <lb/> und warmer geben. </p>
+        <p> DEr Waller wird aufgemacht <lb/> ausgenommen <lb/> in Zwerch= Stuck geschnitten <lb/> biß an den Kopff <lb/> und wann der Kopff groß <lb/> wird solcher in der Mitten voneinander getheilt <lb/> die Stück werden eingesaltzen <lb/> gemelbt und ausgebachen; hernach in <objectName ref="#butter">Butter</objectName> <lb/> mit Gewürtz <objectName ref="#wein">Wein</objectName> und in brauner durchgetriebener Karpffen= <objectName ref="#jus">jus</objectName>, mit <lb/> oder ohne Schwammen kochen lassen <lb/> und warmer geben. </p>
             </div>
         </body>
     </text>

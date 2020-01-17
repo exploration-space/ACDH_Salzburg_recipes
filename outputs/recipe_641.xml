@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChählet und schraubet schöne grosse <objectName ref="quitten">Quitten</objectName> <lb/> holet sie aus <lb/> giesset Malvasier daran <lb/> zuckerts <lb/> und lassets dünsten; wann sie nun halb gedünstet seyn <lb/> hacket <objectName ref="mandeln">Mandeln</objectName> <lb/> Citronat <lb/> <objectName ref="zibeben">Zibeben</objectName> <lb/> Weinbeere oder Corinthen unter einander <lb/> füllet die <objectName ref="quitten">Quitten</objectName> damit <lb/> last sie ferner dünsten <lb/> und streuet Trisanet darauf. Man kan auch die <objectName ref="quitten">Quitten</objectName> <lb/> so es beliebt <lb/> halb von einander schneiden <lb/> nachmals besagter massen schrauben <lb/> füllen und dünsten. </p>
+        <p> SChählet und schraubet schöne grosse <objectName ref="#quitten">Quitten</objectName> <lb/> holet sie aus <lb/> giesset Malvasier daran <lb/> zuckerts <lb/> und lassets dünsten; wann sie nun halb gedünstet seyn <lb/> hacket <objectName ref="#mandeln">Mandeln</objectName> <lb/> Citronat <lb/> <objectName ref="#zibeben">Zibeben</objectName> <lb/> Weinbeere oder Corinthen unter einander <lb/> füllet die <objectName ref="#quitten">Quitten</objectName> damit <lb/> last sie ferner dünsten <lb/> und streuet Trisanet darauf. Man kan auch die <objectName ref="#quitten">Quitten</objectName> <lb/> so es beliebt <lb/> halb von einander schneiden <lb/> nachmals besagter massen schrauben <lb/> füllen und dünsten. </p>
             </div>
         </body>
     </text>

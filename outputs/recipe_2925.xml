@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ERbes mit gutem Gewürtz und Kräutlein gantz dick und weich gesotten <lb/> und also durchgetrieben <lb/> dann Schmaltz in einer Pfann <lb/> oder <objectName ref="rein">Rein</objectName> heiß gemacht <lb/> die dick= durchgetriebne Erbes darein geschütt <lb/> und im <objectName ref="ofen">Ofen</objectName> <lb/> oder auf der <objectName ref="glut">Glut</objectName> mit schöner Farb anziehen und bachen lasssen <lb/> dann kehrs auf ein <objectName ref="teller">Teller</objectName> um <lb/> so gehen sie gantzer heraus <lb/> wann die Erbes zu dünn wären <lb/> so wirff geröste Bröcklein Brod darein <lb/> so ziehen sie bälder an. </p>
+        <p> ERbes mit gutem Gewürtz und Kräutlein gantz dick und weich gesotten <lb/> und also durchgetrieben <lb/> dann Schmaltz in einer Pfann <lb/> oder <objectName ref="#rein">Rein</objectName> heiß gemacht <lb/> die dick= durchgetriebne Erbes darein geschütt <lb/> und im <objectName ref="#ofen">Ofen</objectName> <lb/> oder auf der <objectName ref="#glut">Glut</objectName> mit schöner Farb anziehen und bachen lasssen <lb/> dann kehrs auf ein <objectName ref="#teller">Teller</objectName> um <lb/> so gehen sie gantzer heraus <lb/> wann die Erbes zu dünn wären <lb/> so wirff geröste Bröcklein Brod darein <lb/> so ziehen sie bälder an. </p>
             </div>
         </body>
     </text>

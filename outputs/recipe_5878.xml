@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Gliedt den <objectName ref="fasan">Fasan</objectName> ab <lb/> vnd zeuch jm die Haut ab <lb/> zerklopffs wol mit einem Messerrück <lb/> pfeffers vnnd saltzs <lb/> begeuß mit heissem <objectName ref="speck">Speck</objectName> oder heissem Rindtfeißt. Wenns fertig ist <lb/> so richt es an zwischen zwo gebeht Schnitten <lb/> die von einem Weck abgeschnitten seyn. Begeuß mit Rindtfeißt <lb/> vnd sträw Saltz vnnd <objectName ref="pfeffer">Pfeffer</objectName> darüber <lb/> oder schneidt saur Limonien breit <lb/> vnd leg sie darüber an statt der gebehten Schnitten <lb/> so ist es auff beyde manier gut vnd wolgeschmack. </p>
+        <p> Gliedt den <objectName ref="#fasan">Fasan</objectName> ab <lb/> vnd zeuch jm die Haut ab <lb/> zerklopffs wol mit einem Messerrück <lb/> pfeffers vnnd saltzs <lb/> begeuß mit heissem <objectName ref="#speck">Speck</objectName> oder heissem Rindtfeißt. Wenns fertig ist <lb/> so richt es an zwischen zwo gebeht Schnitten <lb/> die von einem Weck abgeschnitten seyn. Begeuß mit Rindtfeißt <lb/> vnd sträw Saltz vnnd <objectName ref="#pfeffer">Pfeffer</objectName> darüber <lb/> oder schneidt saur Limonien breit <lb/> vnd leg sie darüber an statt der gebehten Schnitten <lb/> so ist es auff beyde manier gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

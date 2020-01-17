@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Marckh von Eyßpainen, wasch auß lablen <lb/> <objectName ref="wasser">wasser</objectName>, schneit.2. Öpfl klain gewürflet, <lb/> nimb Roßenwasser, Weinpör, zugger, <lb/> lints gewürz, <objectName ref="salz">Salz</objectName> nit. <lb/> </p>
+        <p> Marckh von Eyßpainen, wasch auß lablen <lb/> <objectName ref="#wasser">wasser</objectName>, schneit.2. Öpfl klain gewürflet, <lb/> nimb Roßenwasser, Weinpör, zugger, <lb/> lints gewürz, <objectName ref="#salz">Salz</objectName> nit. <lb/> </p>
             </div>
         </body>
     </text>

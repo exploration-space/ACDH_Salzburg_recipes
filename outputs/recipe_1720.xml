@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Mandl, stosß sie klain in ainen <objectName ref="moerser">Mörser</objectName>, <lb/> vnd leg ain wennig weiß brott darzue, <lb/><lb/> ( 61r ) vnd machs ain wennig gescheiblich, vnd legs in <lb/> ain Pfannen, geuß öll, oder <objectName ref="schmalz">schmalz</objectName> daran, <lb/> d ( a ) s wehre ayr in der fasten, od ( er ) schneit die <lb/> ayr voneinannder, vnd gib Sie nach d ( er ) lenng. <lb/> </p>
+        <p> Nimb Mandl, stosß sie klain in ainen <objectName ref="#moerser">Mörser</objectName>, <lb/> vnd leg ain wennig weiß brott darzue, <lb/><lb/> ( 61r ) vnd machs ain wennig gescheiblich, vnd legs in <lb/> ain Pfannen, geuß öll, oder <objectName ref="#schmalz">schmalz</objectName> daran, <lb/> d ( a ) s wehre ayr in der fasten, od ( er ) schneit die <lb/> ayr voneinannder, vnd gib Sie nach d ( er ) lenng. <lb/> </p>
             </div>
         </body>
     </text>

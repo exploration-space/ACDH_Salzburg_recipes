@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> FOrmier die Pupeton, wie die ordinari, und ehe du ihn mit seiner Farce zudeckest <lb/> thue 2. oder 3. Handvoll bassierte <objectName ref="erbsen">Erbsen</objectName> darein <lb/> und mache es zu <lb/> mit deinem Godiueau, man siedts a la braise oder gedämpffter hernach muß man ihn aufdecken <lb/> und in die <objectName ref="schuessel">Schüssel</objectName> legen; kanst auch wohl etliche <objectName ref="loeffel">Löffel</objectName> voll <objectName ref="erbsen">Erbsen</objectName> darüber thun <lb/> gibs warm. </p>
+        <p> FOrmier die Pupeton, wie die ordinari, und ehe du ihn mit seiner Farce zudeckest <lb/> thue 2. oder 3. Handvoll bassierte <objectName ref="#erbsen">Erbsen</objectName> darein <lb/> und mache es zu <lb/> mit deinem Godiueau, man siedts a la braise oder gedämpffter hernach muß man ihn aufdecken <lb/> und in die <objectName ref="#schuessel">Schüssel</objectName> legen; kanst auch wohl etliche <objectName ref="#loeffel">Löffel</objectName> voll <objectName ref="#erbsen">Erbsen</objectName> darüber thun <lb/> gibs warm. </p>
             </div>
         </body>
     </text>

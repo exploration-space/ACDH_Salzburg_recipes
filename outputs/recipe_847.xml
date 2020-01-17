@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Gescheelte und halbierte Pfersich <lb/> mit wenig <objectName ref="wein">Wein</objectName> <lb/> oder Kütten=Safft <lb/> wol <objectName ref="zucker">Zucker</objectName> <lb/> auch gantzen Zimmet und etlich Näglen zugedeckter kurtz gesotten <lb/> seynd zum Abkühlen gesund <lb/> auch wolgeschmack kalter zu geben. NB. Also gibt man auch gedörrte Pfersich gekocht <lb/> kalt und warm; Item in die Dorten <lb/> auch mit <objectName ref="zucker">Zucker</objectName> in <objectName ref="wasser">Wasser</objectName> oder <objectName ref="wein">Wein</objectName> gekocht. </p>
+        <p> Gescheelte und halbierte Pfersich <lb/> mit wenig <objectName ref="#wein">Wein</objectName> <lb/> oder Kütten=Safft <lb/> wol <objectName ref="#zucker">Zucker</objectName> <lb/> auch gantzen Zimmet und etlich Näglen zugedeckter kurtz gesotten <lb/> seynd zum Abkühlen gesund <lb/> auch wolgeschmack kalter zu geben. NB. Also gibt man auch gedörrte Pfersich gekocht <lb/> kalt und warm; Item in die Dorten <lb/> auch mit <objectName ref="#zucker">Zucker</objectName> in <objectName ref="#wasser">Wasser</objectName> oder <objectName ref="#wein">Wein</objectName> gekocht. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schneide die Kösten an <lb/> und brats in einer löcherigen Pfannen <lb/> mit stetem Rittlen und Uberschwingen <lb/> scheele sie <lb/> und wann sie von allem Ruß gesäubert <lb/> gibs mit Serviet bedeckter warm <lb/> gleich den weich gesottenen Eyern <lb/> oder besprengs vorher mit <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> Lemoni=Safft <lb/> und <objectName ref="zucker">Zucker</objectName>. </p>
+        <p> Schneide die Kösten an <lb/> und brats in einer löcherigen Pfannen <lb/> mit stetem Rittlen und Uberschwingen <lb/> scheele sie <lb/> und wann sie von allem Ruß gesäubert <lb/> gibs mit Serviet bedeckter warm <lb/> gleich den weich gesottenen Eyern <lb/> oder besprengs vorher mit <objectName ref="#rosenwasser">Rosenwasser</objectName> <lb/> Lemoni=Safft <lb/> und <objectName ref="#zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

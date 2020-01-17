@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="bruehe">Brühe</objectName> den Schaiden <lb/> vnd mach jn sauaber <lb/> saltz jhn eyn wie ein Hausen <lb/> so ist es besser zu essen als ein Hausen. Man kan jhn auch grün eynmachen <lb/> wie man jn haben wil. </p>
+        <p> <objectName ref="#bruehe">Brühe</objectName> den Schaiden <lb/> vnd mach jn sauaber <lb/> saltz jhn eyn wie ein Hausen <lb/> so ist es besser zu essen als ein Hausen. Man kan jhn auch grün eynmachen <lb/> wie man jn haben wil. </p>
             </div>
         </body>
     </text>

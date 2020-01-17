@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm frische oder zeitige Spenling <lb/> scheele sie <lb/> und nimm die Kern heraus <lb/> legs in die Dorten mit vil <objectName ref="zucker">Zucker</objectName> <lb/> geriebenen Lemoni= Schaalen <lb/> und Zimmet <lb/> wann sie aber vorhero in <objectName ref="zucker">Zucker</objectName> dick gesotten <lb/> und wieder abgekühlt <lb/> seynd sie besser in allerhand Dorten zu gebrauchen. </p>
+        <p> NImm frische oder zeitige Spenling <lb/> scheele sie <lb/> und nimm die Kern heraus <lb/> legs in die Dorten mit vil <objectName ref="#zucker">Zucker</objectName> <lb/> geriebenen Lemoni= Schaalen <lb/> und Zimmet <lb/> wann sie aber vorhero in <objectName ref="#zucker">Zucker</objectName> dick gesotten <lb/> und wieder abgekühlt <lb/> seynd sie besser in allerhand Dorten zu gebrauchen. </p>
             </div>
         </body>
     </text>

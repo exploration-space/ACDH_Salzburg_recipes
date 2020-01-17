@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wasch die Weinpörl sauber auß, vnd hakhs khlain, so thue die in <lb/> ein Merser, vnd Waich Semblschnitl in ein Raifl, oder sonst süssen <lb/> <objectName ref="wein">Wein</objectName>, die stosß damit, schlag es durch mit süssen <objectName ref="wein">Wein</objectName>, thues in <lb/> ein gueten saubern <objectName ref="hafen">hafen</objectName>, laß Sieden so lang, das der <objectName ref="wein">Wein</objectName> <lb/> drein Woll gesoten seÿ, thue Zukher vnd ein Wenig Zimetstup <lb/> darunder, gibs Warmb oder khalt, man mag es auch Woll <lb/> mit Arbesbrüe machen, an stat des raifl. <lb/> </p>
+        <p> Wasch die Weinpörl sauber auß, vnd hakhs khlain, so thue die in <lb/> ein Merser, vnd Waich Semblschnitl in ein Raifl, oder sonst süssen <lb/> <objectName ref="#wein">Wein</objectName>, die stosß damit, schlag es durch mit süssen <objectName ref="#wein">Wein</objectName>, thues in <lb/> ein gueten saubern <objectName ref="#hafen">hafen</objectName>, laß Sieden so lang, das der <objectName ref="#wein">Wein</objectName> <lb/> drein Woll gesoten seÿ, thue Zukher vnd ein Wenig Zimetstup <lb/> darunder, gibs Warmb oder khalt, man mag es auch Woll <lb/> mit Arbesbrüe machen, an stat des raifl. <lb/> </p>
             </div>
         </body>
     </text>

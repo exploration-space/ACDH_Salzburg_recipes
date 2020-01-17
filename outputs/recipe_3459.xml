@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm die <objectName ref="voegel">Vögel</objectName> <lb/> laß sie einen Sud in dem <objectName ref="wasser">Wasser</objectName> thun <lb/> wasche sie hernach wieder sauber aus <lb/> thue sie in einen <objectName ref="hafen">Hafen</objectName> <lb/> mit Lemoni zu den Vögelein gelegt <lb/> mache ein wenig Schmaltz heiß <lb/> thue ein geriebene Semmel darein <lb/> röste es <lb/> gieß ein Fleisch= <objectName ref="bruehe">Brühe</objectName> <lb/> und ein wenig <objectName ref="wein">Wein</objectName> daran <lb/> gewürtz es <lb/> laß sieden <lb/> schütts darnach an die <objectName ref="voegel">Vögel</objectName> <lb/> und laß noch ein Weil sieden; mache aber ein kurtz Brühlein <lb/> mit noch wenig <objectName ref="butter">Butter</objectName>. </p>
+        <p> NImm die <objectName ref="#voegel">Vögel</objectName> <lb/> laß sie einen Sud in dem <objectName ref="#wasser">Wasser</objectName> thun <lb/> wasche sie hernach wieder sauber aus <lb/> thue sie in einen <objectName ref="#hafen">Hafen</objectName> <lb/> mit Lemoni zu den Vögelein gelegt <lb/> mache ein wenig Schmaltz heiß <lb/> thue ein geriebene Semmel darein <lb/> röste es <lb/> gieß ein Fleisch= <objectName ref="#bruehe">Brühe</objectName> <lb/> und ein wenig <objectName ref="#wein">Wein</objectName> daran <lb/> gewürtz es <lb/> laß sieden <lb/> schütts darnach an die <objectName ref="#voegel">Vögel</objectName> <lb/> und laß noch ein Weil sieden; mache aber ein kurtz Brühlein <lb/> mit noch wenig <objectName ref="#butter">Butter</objectName>. </p>
             </div>
         </body>
     </text>

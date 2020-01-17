@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Du kanst auch ein Schwartzes machen von dem Küniglein <lb/> laß den Schweiß mit <objectName ref="lunge">Lungen</objectName> vn ( n ) <objectName ref="leber">Leber</objectName> siede ( n ) <lb/> machs an mit gelindem Gewürtz <lb/> fein süß <lb/> so ist es gut vnd lieblich zu essen. </p>
+        <p> Du kanst auch ein Schwartzes machen von dem Küniglein <lb/> laß den Schweiß mit <objectName ref="#lunge">Lungen</objectName> vn ( n ) <objectName ref="#leber">Leber</objectName> siede ( n ) <lb/> machs an mit gelindem Gewürtz <lb/> fein süß <lb/> so ist es gut vnd lieblich zu essen. </p>
             </div>
         </body>
     </text>

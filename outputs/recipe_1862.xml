@@ -173,7 +173,7 @@ Noch einmal reden wir von einem Mus: Willst du ein Hirschmus machen, dann koche 
                 </listObject>
             </div>
         <div type="recipe">
-        <p> VOn gemuͤss heb wir wider an wildu ein hirssen̄ gemuͤss han dass wildpraͤt [ 329r ] seud an die stat vn̄ gesotn̄ lass werdn̄ kalt vn̄ daz wildpraͤt Sol sein rain vn̄ hack ess chlain die farib muͤss vō einē <objectName ref="kalb">kalb</objectName> sein vn̄ lass die farib in ein <objectName ref="wein">wein</objectName> So wirt dass gemuͤss fein vn̄ lass den̄ swaiss in ein <objectName ref="wein">wein</objectName> ut sup͂ vn̄ guͤt gewuͤrcz muͤst du dar czwͤ han vn̄ den czuͤcckkʾ muͤstu auch nicht lan Ob ainer dez czuckkʾ nicht enhat Der nemb hoenig an die stat etc. </p>
+        <p> VOn gemuͤss heb wir wider an wildu ein hirssen̄ gemuͤss han dass wildpraͤt [ 329r ] seud an die stat vn̄ gesotn̄ lass werdn̄ kalt vn̄ daz wildpraͤt Sol sein rain vn̄ hack ess chlain die farib muͤss vō einē <objectName ref="#kalb">kalb</objectName> sein vn̄ lass die farib in ein <objectName ref="#wein">wein</objectName> So wirt dass gemuͤss fein vn̄ lass den̄ swaiss in ein <objectName ref="#wein">wein</objectName> ut sup͂ vn̄ guͤt gewuͤrcz muͤst du dar czwͤ han vn̄ den czuͤcckkʾ muͤstu auch nicht lan Ob ainer dez czuckkʾ nicht enhat Der nemb hoenig an die stat etc. </p>
             </div>
         </body>
     </text>

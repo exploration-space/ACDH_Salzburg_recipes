@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wiltu aber ein solchs Gebackens geben <lb/> das fein warm ist <lb/> so nim ( m ) kleine <objectName ref="krueglein">Krüglein</objectName> oder Töpfflein eins Fingers hoch <lb/> scheubs darmit in <objectName ref="ofen">Ofen</objectName> <lb/> vnd backs <lb/> zerschlag die Kruglein vnd Töpfflein <lb/> daß dz Gebacken fein gantz bleibt. Nim ( m ) frische Meybutter <lb/> vnd zerlaß <lb/> walg das Gebacken darin ( n ) vmb <lb/> vnd besträw es wol mit weissem <objectName ref="zucker">Zucker</objectName> <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> so ist es ein gutes warmes Gebackens. </p>
+        <p> Wiltu aber ein solchs Gebackens geben <lb/> das fein warm ist <lb/> so nim ( m ) kleine <objectName ref="#krueglein">Krüglein</objectName> oder Töpfflein eins Fingers hoch <lb/> scheubs darmit in <objectName ref="#ofen">Ofen</objectName> <lb/> vnd backs <lb/> zerschlag die Kruglein vnd Töpfflein <lb/> daß dz Gebacken fein gantz bleibt. Nim ( m ) frische Meybutter <lb/> vnd zerlaß <lb/> walg das Gebacken darin ( n ) vmb <lb/> vnd besträw es wol mit weissem <objectName ref="#zucker">Zucker</objectName> <lb/> gibs warm auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> so ist es ein gutes warmes Gebackens. </p>
             </div>
         </body>
     </text>

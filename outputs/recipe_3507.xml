@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChildkrotten mit <objectName ref="schnecken">Schnecken</objectName> <lb/> in einer Schnecken= <objectName ref="bruehe">Brühe</objectName> <lb/> mit wenig <objectName ref="knoblauch">Knoblauch</objectName> <lb/> Gewürtz <lb/> Erbesbrühe <lb/> Kräutlein <lb/> mit <objectName ref="butter">Butter</objectName> <lb/> oder Oel <lb/> mit wenig Meel <lb/> oder Semmel= Brosen Liecht= gelb eingebrennt <lb/> und mit rechten Saltz versehen. </p>
+        <p> SChildkrotten mit <objectName ref="#schnecken">Schnecken</objectName> <lb/> in einer Schnecken= <objectName ref="#bruehe">Brühe</objectName> <lb/> mit wenig <objectName ref="#knoblauch">Knoblauch</objectName> <lb/> Gewürtz <lb/> Erbesbrühe <lb/> Kräutlein <lb/> mit <objectName ref="#butter">Butter</objectName> <lb/> oder Oel <lb/> mit wenig Meel <lb/> oder Semmel= Brosen Liecht= gelb eingebrennt <lb/> und mit rechten Saltz versehen. </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Cut your Cod in thin Slices, and lay them one by one at the Bottom of a Dish; put in a Pint of White Wine, half a Pound of <objectName ref="butter">Butter</objectName>, some oysters and their Liquor, two or three Blades of Mace, a few Crumbs of Bread, some Pepper and Salt, and let it stew till it is enough. Garnish the Dish with Lemon. </p>
+        <p> Cut your Cod in thin Slices, and lay them one by one at the Bottom of a Dish; put in a Pint of White Wine, half a Pound of <objectName ref="#butter">Butter</objectName>, some oysters and their Liquor, two or three Blades of Mace, a few Crumbs of Bread, some Pepper and Salt, and let it stew till it is enough. Garnish the Dish with Lemon. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BRenne heisses Schmaltz über rocken aufgeschnittenes Brod in einer <objectName ref="schuessel">Schüssel</objectName> <lb/> streue Ingber und <objectName ref="pfeffer">Pfeffer</objectName> darauf : laß indessen ein <objectName ref="wasser">Wasser</objectName> siedend werden <lb/> saltze und giesse es über das Brod <lb/> <objectName ref="decke">decke</objectName> es zu <lb/> und setz es auf eine <objectName ref="kohlen">Kohlen</objectName> <lb/> laß eine gute Weil darauf sieden <lb/> und trags dann zu <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> BRenne heisses Schmaltz über rocken aufgeschnittenes Brod in einer <objectName ref="#schuessel">Schüssel</objectName> <lb/> streue Ingber und <objectName ref="#pfeffer">Pfeffer</objectName> darauf : laß indessen ein <objectName ref="#wasser">Wasser</objectName> siedend werden <lb/> saltze und giesse es über das Brod <lb/> <objectName ref="#decke">decke</objectName> es zu <lb/> und setz es auf eine <objectName ref="#kohlen">Kohlen</objectName> <lb/> laß eine gute Weil darauf sieden <lb/> und trags dann zu <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

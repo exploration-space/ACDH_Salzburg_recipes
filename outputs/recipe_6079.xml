@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim Römische Bonen <lb/> quells vnnd küls auß <lb/> machs an mit Oel <lb/> <objectName ref="essig">Essig</objectName> vnd Saltz. </p>
+        <p> Nim Römische Bonen <lb/> quells vnnd küls auß <lb/> machs an mit Oel <lb/> <objectName ref="#essig">Essig</objectName> vnd Saltz. </p>
             </div>
         </body>
     </text>

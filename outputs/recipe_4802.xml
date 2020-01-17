@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChlaget mit einem Besemlein zehen oder eilff ausgeschlagene Eyer wohl ab <lb/> rühret anderthalb <objectName ref="pfund">Pfund</objectName> <objectName ref="zucker">Zucker</objectName> <lb/> drey viertel <objectName ref="pfund">Pfund</objectName> Stärck <lb/> und eben so viel anders schönes <objectName ref="mehl">Mehl</objectName> darein; wolte es zu dick werden <lb/> kan man mit einem Ey helffen : legets dann <lb/> vermittelst eines Löffels <lb/> auf ein <objectName ref="papier">Papier</objectName> <lb/> und bachets gleich den obigen. </p>
+        <p> SChlaget mit einem Besemlein zehen oder eilff ausgeschlagene Eyer wohl ab <lb/> rühret anderthalb <objectName ref="#pfund">Pfund</objectName> <objectName ref="#zucker">Zucker</objectName> <lb/> drey viertel <objectName ref="#pfund">Pfund</objectName> Stärck <lb/> und eben so viel anders schönes <objectName ref="#mehl">Mehl</objectName> darein; wolte es zu dick werden <lb/> kan man mit einem Ey helffen : legets dann <lb/> vermittelst eines Löffels <lb/> auf ein <objectName ref="#papier">Papier</objectName> <lb/> und bachets gleich den obigen. </p>
             </div>
         </body>
     </text>

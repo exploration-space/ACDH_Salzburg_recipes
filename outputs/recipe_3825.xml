@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> PRaxen ist auch ein guter Bachfisch <lb/> in Oel <lb/> oder Schmaltz mit Meel gebachen <lb/> und trucken mit braunem <objectName ref="butter">Butter</objectName> <lb/> und klein= gehackten <objectName ref="sardellen">Sardellen</objectName> gegeben <lb/> mit gebachnen grünen Kräutlein. </p>
+        <p> PRaxen ist auch ein guter Bachfisch <lb/> in Oel <lb/> oder Schmaltz mit Meel gebachen <lb/> und trucken mit braunem <objectName ref="#butter">Butter</objectName> <lb/> und klein= gehackten <objectName ref="#sardellen">Sardellen</objectName> gegeben <lb/> mit gebachnen grünen Kräutlein. </p>
             </div>
         </body>
     </text>

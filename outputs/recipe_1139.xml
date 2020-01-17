@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb guette Piern<gap/> Schöls<gap/> prats<gap/>, yber<gap/> siede<gap/> Sie <lb/> daß waich seindt, in Schwarz gesothenen<gap/> <objectName ref="wein">Wein</objectName>, <lb/> darnach dreibs<gap/> durch Ein sib<gap/> vnd nimb.15. ayr<gap/>= <lb/> doter<gap/> vnd ain pfundt<gap/> Mandl<gap/>, nimb souill milch<gap/> <lb/> als ayr<gap/>, vnd gewierz<gap/> woll<gap/> mit zimmet<gap/>, vnd Nägl<gap/> <lb/> stupp, Musgeblie<gap/>, vnd zugger<gap/>, bestreich<gap/> ein <lb/> Modl<gap/> mit Putter<gap/>, schitts<gap/> darein; vnd las Khiell<gap/> <lb/> bachen<gap/>, <lb/><lb/> ( 5v ) [ Anm. : „ Mandl, nimb “ : bei ‚nimb ‘ ist die Lesart unsicher. „ nimb souill <objectName ref="milch">milch</objectName> “ : bedeutet ‚nim so viel <objectName ref="milch">Milch</objectName> ‘. ] </p>
+        <p> Nimb guette Piern<gap/> Schöls<gap/> prats<gap/>, yber<gap/> siede<gap/> Sie <lb/> daß waich seindt, in Schwarz gesothenen<gap/> <objectName ref="#wein">Wein</objectName>, <lb/> darnach dreibs<gap/> durch Ein sib<gap/> vnd nimb.15. ayr<gap/>= <lb/> doter<gap/> vnd ain pfundt<gap/> Mandl<gap/>, nimb souill milch<gap/> <lb/> als ayr<gap/>, vnd gewierz<gap/> woll<gap/> mit zimmet<gap/>, vnd Nägl<gap/> <lb/> stupp, Musgeblie<gap/>, vnd zugger<gap/>, bestreich<gap/> ein <lb/> Modl<gap/> mit Putter<gap/>, schitts<gap/> darein; vnd las Khiell<gap/> <lb/> bachen<gap/>, <lb/><lb/> ( 5v ) [ Anm. : „ Mandl, nimb “ : bei ‚nimb ‘ ist die Lesart unsicher. „ nimb souill <objectName ref="#milch">milch</objectName> “ : bedeutet ‚nim so viel <objectName ref="#milch">Milch</objectName> ‘. ] </p>
             </div>
         </body>
     </text>

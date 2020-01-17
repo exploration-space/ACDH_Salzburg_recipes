@@ -174,7 +174,7 @@ Willst du einen (falschen) Wildbraten machen, dann nimm mageres Rindfleisch und 
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WIldu machn̄ wilpraͤt So nÿm mag͗s rintfleisch vnd hack es klain̄ vnd nȳ ein <objectName ref="wein">wein</objectName> vnd vah ein swais von einē <objectName ref="kalb">kalb</objectName> vnd tuͤ den <objectName ref="wein">wein</objectName> dar ein vn̄ secz auf einē koln̄ vnd ruͤr es pis es sidn̄ wird vnd geuss es dan auf daz <objectName ref="fleisch">fleisch</objectName> So veͣht es die stalt als wilprat vnd hack dar vndʾ aÿr vnd geribn̄s prot vnd stupps wol vnd mach dan paln̄ dar aus als die fawͤst vnd seuͤd es in einʾ fleischpruͤe vnd sneid es dan̄ klain als daz wilprat vnd mach ein gutn̄ pfeffrn͗ dar zw vnd stupp in wol ab mit gutn̄ gewurczn̄ vnd leg daz wilpraͤt dar ein vnd vʾsalcz sein nicht so ist es gut </p>
+        <p> WIldu machn̄ wilpraͤt So nÿm mag͗s rintfleisch vnd hack es klain̄ vnd nȳ ein <objectName ref="#wein">wein</objectName> vnd vah ein swais von einē <objectName ref="#kalb">kalb</objectName> vnd tuͤ den <objectName ref="#wein">wein</objectName> dar ein vn̄ secz auf einē koln̄ vnd ruͤr es pis es sidn̄ wird vnd geuss es dan auf daz <objectName ref="#fleisch">fleisch</objectName> So veͣht es die stalt als wilprat vnd hack dar vndʾ aÿr vnd geribn̄s prot vnd stupps wol vnd mach dan paln̄ dar aus als die fawͤst vnd seuͤd es in einʾ fleischpruͤe vnd sneid es dan̄ klain als daz wilprat vnd mach ein gutn̄ pfeffrn͗ dar zw vnd stupp in wol ab mit gutn̄ gewurczn̄ vnd leg daz wilpraͤt dar ein vnd vʾsalcz sein nicht so ist es gut </p>
             </div>
         </body>
     </text>

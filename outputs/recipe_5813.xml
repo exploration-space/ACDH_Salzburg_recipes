@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Mach auß der andern halben <objectName ref="brust">Brust</objectName> <lb/> die gesotten ist <lb/> ein gestossens <lb/> magsts weiß lassen <lb/> oder grün machen <lb/> mit grüner Pettersilgen <lb/> die gesotte ( n ) <lb/> vnd mit guter Hennenbrüh durchgestrichen ist <lb/> auch mit gebeht Schnitten <lb/> so ist es gut vnd wolgeschmack. </p>
+        <p> Mach auß der andern halben <objectName ref="#brust">Brust</objectName> <lb/> die gesotten ist <lb/> ein gestossens <lb/> magsts weiß lassen <lb/> oder grün machen <lb/> mit grüner Pettersilgen <lb/> die gesotte ( n ) <lb/> vnd mit guter Hennenbrüh durchgestrichen ist <lb/> auch mit gebeht Schnitten <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

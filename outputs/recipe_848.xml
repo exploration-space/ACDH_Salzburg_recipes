@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Scheele wol zeitige Pfersich <lb/> schneid sie zu Spalten <lb/> richt sie sauber auf ein <objectName ref="teller">Teller</objectName> <lb/> wol mit <objectName ref="zucker">Zucker</objectName> bestreut. </p>
+        <p> Scheele wol zeitige Pfersich <lb/> schneid sie zu Spalten <lb/> richt sie sauber auf ein <objectName ref="#teller">Teller</objectName> <lb/> wol mit <objectName ref="#zucker">Zucker</objectName> bestreut. </p>
             </div>
         </body>
     </text>

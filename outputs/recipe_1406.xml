@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein schens<gap/> mehl<gap/>, einen guetten germb<gap/>, nimb <lb/> ein Lablete<gap/> milch<gap/> ein Butter<gap/> drein, auf ein <lb/> halbs mösßel<gap/> mehl<gap/> 3 ayr<gap/> doter<gap/>, mach ihn recht an, <lb/> <objectName ref="salz">salz</objectName> ihm, hernach mach ihm auf ein Bräth<gap/> auß, und <lb/> druckhe<gap/> runde Laubl<gap/> auß, Laß<gap/> auf den Bräth<gap/>. <lb/> gehen<gap/>. schmirbe<gap/> ein Böckh<gap/> mit Butter<gap/>, Löge<gap/> sye <lb/> darein, wann die erste Leg<gap/> voll ist, so schmirb<gap/> <lb/> sye in der höche mit Butter<gap/>. so ists guet. <lb/><lb/> ( 81v ) </p>
+        <p> Nimb ein schens<gap/> mehl<gap/>, einen guetten germb<gap/>, nimb <lb/> ein Lablete<gap/> milch<gap/> ein Butter<gap/> drein, auf ein <lb/> halbs mösßel<gap/> mehl<gap/> 3 ayr<gap/> doter<gap/>, mach ihn recht an, <lb/> <objectName ref="#salz">salz</objectName> ihm, hernach mach ihm auf ein Bräth<gap/> auß, und <lb/> druckhe<gap/> runde Laubl<gap/> auß, Laß<gap/> auf den Bräth<gap/>. <lb/> gehen<gap/>. schmirbe<gap/> ein Böckh<gap/> mit Butter<gap/>, Löge<gap/> sye <lb/> darein, wann die erste Leg<gap/> voll ist, so schmirb<gap/> <lb/> sye in der höche mit Butter<gap/>. so ists guet. <lb/><lb/> ( 81v ) </p>
             </div>
         </body>
     </text>

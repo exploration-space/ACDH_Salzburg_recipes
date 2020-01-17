@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChlag ein frisches Ey aus in ein Schüsselein <lb/> daß der Dottern gantz bleibt <lb/> saltze es ein wenig <lb/> und streue Weitzen= <objectName ref="mehl">Mehl</objectName> darauf; mache indessen ein Schmaltz in einem tieffen <objectName ref="pfaennlein">Pfännlein</objectName> heiß <lb/> schütte das Ey hinein <lb/> wende es mit einem breiten löcherichten <objectName ref="loeffel">Löffel</objectName> um <lb/> und bache es fein geschwind heraus <lb/> daß der Dotter nicht hart werde : Legs in ein warmes Schüsselein <lb/> und bache auf diese weise die andern alle <lb/> so viel man verlanget. </p>
+        <p> SChlag ein frisches Ey aus in ein Schüsselein <lb/> daß der Dottern gantz bleibt <lb/> saltze es ein wenig <lb/> und streue Weitzen= <objectName ref="#mehl">Mehl</objectName> darauf; mache indessen ein Schmaltz in einem tieffen <objectName ref="#pfaennlein">Pfännlein</objectName> heiß <lb/> schütte das Ey hinein <lb/> wende es mit einem breiten löcherichten <objectName ref="#loeffel">Löffel</objectName> um <lb/> und bache es fein geschwind heraus <lb/> daß der Dotter nicht hart werde : Legs in ein warmes Schüsselein <lb/> und bache auf diese weise die andern alle <lb/> so viel man verlanget. </p>
             </div>
         </body>
     </text>

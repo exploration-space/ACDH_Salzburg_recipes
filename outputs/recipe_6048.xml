@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Cichorij Wurtzel <objectName ref="salat">Salat</objectName> <lb/> der fein sauber geschelet ist <lb/> schneidt den Kern herauß <lb/> quell jn wol <lb/> doch daß du es nicht versiedest <lb/> kül jn auß <lb/> mach jn süß oder saur <lb/> so ist es auff beyde manier gut. </p>
+        <p> Cichorij Wurtzel <objectName ref="#salat">Salat</objectName> <lb/> der fein sauber geschelet ist <lb/> schneidt den Kern herauß <lb/> quell jn wol <lb/> doch daß du es nicht versiedest <lb/> kül jn auß <lb/> mach jn süß oder saur <lb/> so ist es auff beyde manier gut. </p>
             </div>
         </body>
     </text>

@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAschet die Zwetschgen <lb/> last sie wieder abseihen; thut ein klein wenig Schmaltz in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> lassets herum lauffen <lb/> schüttet die Zwetschgen darein <lb/> deckets zu setzets in eine <objectName ref="kohlen">Kohlen</objectName> <lb/> dünstets <lb/> schwingets offt umher <lb/> sie geben selbst eine Brüh <lb/> und dünsten gar bald. </p>
+        <p> WAschet die Zwetschgen <lb/> last sie wieder abseihen; thut ein klein wenig Schmaltz in einen stollichten <objectName ref="#hafen">Hafen</objectName> <lb/> lassets herum lauffen <lb/> schüttet die Zwetschgen darein <lb/> deckets zu setzets in eine <objectName ref="#kohlen">Kohlen</objectName> <lb/> dünstets <lb/> schwingets offt umher <lb/> sie geben selbst eine Brüh <lb/> und dünsten gar bald. </p>
             </div>
         </body>
     </text>

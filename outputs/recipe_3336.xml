@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Geiß und dero <objectName ref="fleisch">Fleisch</objectName> betreffend <lb/> will ich die Zeit <lb/> das <objectName ref="papier">Papier</objectName> <lb/> und die Mühe ersparen; massen dieselbe ( wann sie gut ) in allweg denen Schaafen kan gleich verkocht werden : Als nemlich gepaitzt <lb/> gebraten <lb/> zum Einmachen und in die <objectName ref="pastete">Pasteten</objectName>. </p>
+        <p> Geiß und dero <objectName ref="#fleisch">Fleisch</objectName> betreffend <lb/> will ich die Zeit <lb/> das <objectName ref="#papier">Papier</objectName> <lb/> und die Mühe ersparen; massen dieselbe ( wann sie gut ) in allweg denen Schaafen kan gleich verkocht werden : Als nemlich gepaitzt <lb/> gebraten <lb/> zum Einmachen und in die <objectName ref="#pastete">Pasteten</objectName>. </p>
             </div>
         </body>
     </text>

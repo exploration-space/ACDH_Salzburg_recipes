@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ain wennig <objectName ref="wasser">wasser</objectName> vnd <objectName ref="wein">wein</objectName>, Peter= <lb/> =sill, schneid den khlain, Nimb Imber, Muß= <lb/> =catblie, <objectName ref="salz">Salz</objectName> nit hart. <lb/><lb/> ( 62r ) </p>
+        <p> Nimb ain wennig <objectName ref="#wasser">wasser</objectName> vnd <objectName ref="#wein">wein</objectName>, Peter= <lb/> =sill, schneid den khlain, Nimb Imber, Muß= <lb/> =catblie, <objectName ref="#salz">Salz</objectName> nit hart. <lb/><lb/> ( 62r ) </p>
             </div>
         </body>
     </text>

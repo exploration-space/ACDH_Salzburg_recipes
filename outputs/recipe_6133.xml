@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm dergleichen <objectName ref="gehaeck">Gehäck</objectName> <lb/> rösts mit klein= gehacktem Zwi= und Semmel= Bröslein in Schmaltz oder <objectName ref="butter">Butter</objectName> <lb/> Saltz und gewürtz es <lb/> schlag Eyer daran <lb/> mit ein wenig <objectName ref="zucker">Zucker</objectName> <lb/> und Wein= Beerlein <lb/> rührs unter einander <lb/> und mach ein Pfäutzlein daraus. Dergleichen macht man mit allerhand grünen <objectName ref="kraeuter">Kräutern</objectName>. </p>
+        <p> NImm dergleichen <objectName ref="#gehaeck">Gehäck</objectName> <lb/> rösts mit klein= gehacktem Zwi= und Semmel= Bröslein in Schmaltz oder <objectName ref="#butter">Butter</objectName> <lb/> Saltz und gewürtz es <lb/> schlag Eyer daran <lb/> mit ein wenig <objectName ref="#zucker">Zucker</objectName> <lb/> und Wein= Beerlein <lb/> rührs unter einander <lb/> und mach ein Pfäutzlein daraus. Dergleichen macht man mit allerhand grünen <objectName ref="#kraeuter">Kräutern</objectName>. </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimm klein= gestossene Mandel/ gar wenig weisses Meel/süssen Ram/ Eyerklar/ Zucker/ ganzen Zimmet/ ein Lemoñi= Schaalen mit Rosen= oder Zimmet= Wasser/ we=nig Salz/ mach daraus ein Köchlein/ wie oben/ treibs durch einen feinen Durchschlag/ und gibs also auf eine Schüs=sel/ kalt oder warm; Es ist auch gut in die dorten/ groß oder klein/ doch ohne <objectName ref="deckel">Deckel</objectName> oder Ausschnitt </p>
+        <p> Nimm klein= gestossene Mandel/ gar wenig weisses Meel/süssen Ram/ Eyerklar/ Zucker/ ganzen Zimmet/ ein Lemoñi= Schaalen mit Rosen= oder Zimmet= Wasser/ we=nig Salz/ mach daraus ein Köchlein/ wie oben/ treibs durch einen feinen Durchschlag/ und gibs also auf eine Schüs=sel/ kalt oder warm; Es ist auch gut in die dorten/ groß oder klein/ doch ohne <objectName ref="#deckel">Deckel</objectName> oder Ausschnitt </p>
             </div>
         </body>
     </text>

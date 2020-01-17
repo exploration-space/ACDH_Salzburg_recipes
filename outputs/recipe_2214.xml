@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein <objectName ref="milch">milch</objectName>, laß Sieden, auch ein stükhlein Buter, so groß als ein Nuß in <lb/> die <objectName ref="milch">milch</objectName>, rühr das mell drein, böhrs Woll ab, Wermb die aÿr, Rühr ains <lb/> nach dem andern drein, biß er recht Wird. <lb/> </p>
+        <p> Nimb ein <objectName ref="#milch">milch</objectName>, laß Sieden, auch ein stükhlein Buter, so groß als ein Nuß in <lb/> die <objectName ref="#milch">milch</objectName>, rühr das mell drein, böhrs Woll ab, Wermb die aÿr, Rühr ains <lb/> nach dem andern drein, biß er recht Wird. <lb/> </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wirf ihn Zu boden, das er dot ligt, Zeuch ihm die haut ab, schneid <lb/> den khopf vnd schwaif dauon, vnd die Ader auß, thues Wekh, vnd <lb/> machs Zu stükhlein, vnd spreng ihn mit <objectName ref="salz">salz</objectName> ein, vnd geuß ein <objectName ref="wein">Wein</objectName> <lb/> dran, Pfefferstup vnd Mußcatblüe, vnd laß einpaissen, darnach <lb/> stekh ihn an ein Spißl vnd Lorberbleter entzwischen, vnd brat ihn mit <lb/> Puter gor schen ob, thues auf ein schißl, spreng Roßmarin drauf, <lb/> so ist er bereith. <lb/> </p>
+        <p> Wirf ihn Zu boden, das er dot ligt, Zeuch ihm die haut ab, schneid <lb/> den khopf vnd schwaif dauon, vnd die Ader auß, thues Wekh, vnd <lb/> machs Zu stükhlein, vnd spreng ihn mit <objectName ref="#salz">salz</objectName> ein, vnd geuß ein <objectName ref="#wein">Wein</objectName> <lb/> dran, Pfefferstup vnd Mußcatblüe, vnd laß einpaissen, darnach <lb/> stekh ihn an ein Spißl vnd Lorberbleter entzwischen, vnd brat ihn mit <lb/> Puter gor schen ob, thues auf ein schißl, spreng Roßmarin drauf, <lb/> so ist er bereith. <lb/> </p>
             </div>
         </body>
     </text>

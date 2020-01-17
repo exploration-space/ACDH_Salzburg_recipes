@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) ein gesotten <objectName ref="brust">Brust</objectName> von einem Kappaunen <lb/> hack sie klein mit Kälbernfeiß <lb/> das im <objectName ref="nierenbraten">Nierenbraten</objectName> ligt <lb/> mach es ab mit schwartzen Rosein <lb/> vnnd schaw <lb/> versaltz es nicht. Mach darnach kleine <objectName ref="pastete">Pasteten</objectName> <lb/> thu die Füll darein <lb/> oder mach ein Turten darauß <lb/> so ist es ein gute linde Speiß für einen Krancken. </p>
+        <p> Nim ( m ) ein gesotten <objectName ref="#brust">Brust</objectName> von einem Kappaunen <lb/> hack sie klein mit Kälbernfeiß <lb/> das im <objectName ref="#nierenbraten">Nierenbraten</objectName> ligt <lb/> mach es ab mit schwartzen Rosein <lb/> vnnd schaw <lb/> versaltz es nicht. Mach darnach kleine <objectName ref="#pastete">Pasteten</objectName> <lb/> thu die Füll darein <lb/> oder mach ein Turten darauß <lb/> so ist es ein gute linde Speiß für einen Krancken. </p>
             </div>
         </body>
     </text>

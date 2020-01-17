@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet aus denen aufgeschnittenen <objectName ref="datteln">Datteln</objectName> die Kerne heraus <lb/> röstets ein wenig im Schmaltz <lb/> legets in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> giesst <objectName ref="reinfal-suesswein">Reinfal</objectName> oder Malvasier daran <lb/> würtzets mit gestossenen <objectName ref="zucker">Zucker</objectName> und Zimmet <lb/> lassets auf einer <objectName ref="kohlen">Kohlen</objectName> dünsten <lb/> und streuet <lb/> wann man sie anrichtet <lb/> nochmal Zimmet und <objectName ref="zucker">Zucker</objectName> darauf. </p>
+        <p> NEhmet aus denen aufgeschnittenen <objectName ref="#datteln">Datteln</objectName> die Kerne heraus <lb/> röstets ein wenig im Schmaltz <lb/> legets in einen stollichten <objectName ref="#hafen">Hafen</objectName> <lb/> giesst <objectName ref="#reinfal-suesswein">Reinfal</objectName> oder Malvasier daran <lb/> würtzets mit gestossenen <objectName ref="#zucker">Zucker</objectName> und Zimmet <lb/> lassets auf einer <objectName ref="#kohlen">Kohlen</objectName> dünsten <lb/> und streuet <lb/> wann man sie anrichtet <lb/> nochmal Zimmet und <objectName ref="#zucker">Zucker</objectName> darauf. </p>
             </div>
         </body>
     </text>

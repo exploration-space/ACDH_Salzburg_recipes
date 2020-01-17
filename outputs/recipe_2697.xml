@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChneidet die <objectName ref="schalotten">Schalotten</objectName> klein <lb/> röstet sie samt ein wenig geriebenen Eyer= Brod schön licht im Schmaltz <lb/> seihet selbiges davon ab <lb/> giesset gute Fleischbrüh <lb/> und ein wenig Holbeer= oder Rosen= <objectName ref="essig">Essig</objectName> <lb/> welcher letzere der beste ist <lb/> daran <lb/> würtzet sie mit guter Gewürtz <lb/> last es aufsieden <lb/> und richtet dann diese Brüh über den <objectName ref="schlegel">Schlegel</objectName> <lb/> oder aber setzt sie in einem besondern Schüsselein auf den <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> SChneidet die <objectName ref="#schalotten">Schalotten</objectName> klein <lb/> röstet sie samt ein wenig geriebenen Eyer= Brod schön licht im Schmaltz <lb/> seihet selbiges davon ab <lb/> giesset gute Fleischbrüh <lb/> und ein wenig Holbeer= oder Rosen= <objectName ref="#essig">Essig</objectName> <lb/> welcher letzere der beste ist <lb/> daran <lb/> würtzet sie mit guter Gewürtz <lb/> last es aufsieden <lb/> und richtet dann diese Brüh über den <objectName ref="#schlegel">Schlegel</objectName> <lb/> oder aber setzt sie in einem besondern Schüsselein auf den <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

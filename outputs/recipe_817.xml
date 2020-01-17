@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Dämpffe die Kösten <lb/> wie erst gedacht <lb/> scheele sie sauber <lb/> dann brats in <objectName ref="butter">Butter</objectName> <lb/> und wann sie gebraten <lb/> so seihe den <objectName ref="butter">Butter</objectName> <lb/> so viel möglich herab <lb/> bestreue die Kösten mit <objectName ref="zucker">Zucker</objectName> und Zimmet <lb/> schwings etlichmal herüber <lb/> und richts auf ein wol warme <objectName ref="schuessel">Schüssel</objectName> an <lb/> und gibs bedeckter zur Tafel. NB. Etliche legen die gescheelte Kösten über nacht in den <objectName ref="wein">Wein</objectName> <lb/> und dämpffens hernach wol getrückneter mit <objectName ref="zucker">Zucker</objectName>. </p>
+        <p> Dämpffe die Kösten <lb/> wie erst gedacht <lb/> scheele sie sauber <lb/> dann brats in <objectName ref="#butter">Butter</objectName> <lb/> und wann sie gebraten <lb/> so seihe den <objectName ref="#butter">Butter</objectName> <lb/> so viel möglich herab <lb/> bestreue die Kösten mit <objectName ref="#zucker">Zucker</objectName> und Zimmet <lb/> schwings etlichmal herüber <lb/> und richts auf ein wol warme <objectName ref="#schuessel">Schüssel</objectName> an <lb/> und gibs bedeckter zur Tafel. NB. Etliche legen die gescheelte Kösten über nacht in den <objectName ref="#wein">Wein</objectName> <lb/> und dämpffens hernach wol getrückneter mit <objectName ref="#zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

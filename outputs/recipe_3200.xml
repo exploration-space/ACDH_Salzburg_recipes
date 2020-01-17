@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIse werden sauber von allem Schleim gewaschen <lb/> oder wann es vonnöthen <lb/> gar ein Zeit= lang frisch abgewässert <lb/> dann in <objectName ref="wasser">Wasser</objectName> ein wenig überbrühet; wieder abgesiehen <lb/> und in einem andern <objectName ref="wasser">Wasser</objectName> <lb/> auch so es beliebt <lb/> mit <objectName ref="wein">Wein</objectName> <lb/> Zwibel <lb/> und andern guten <objectName ref="kraeuter">Kräutern</objectName> gemischt <lb/> gesotten; sodann wird der <objectName ref="fisch">Fisch</objectName> heraus in die <objectName ref="schuessel">Schüssel</objectName> gelegt <lb/> und mit einer guten Ram= Erbsen= oder Butter= <objectName ref="bruehe">Brühe</objectName> gegeben; dergleichen man biß dato viel gehört. </p>
+        <p> DIse werden sauber von allem Schleim gewaschen <lb/> oder wann es vonnöthen <lb/> gar ein Zeit= lang frisch abgewässert <lb/> dann in <objectName ref="#wasser">Wasser</objectName> ein wenig überbrühet; wieder abgesiehen <lb/> und in einem andern <objectName ref="#wasser">Wasser</objectName> <lb/> auch so es beliebt <lb/> mit <objectName ref="#wein">Wein</objectName> <lb/> Zwibel <lb/> und andern guten <objectName ref="#kraeuter">Kräutern</objectName> gemischt <lb/> gesotten; sodann wird der <objectName ref="#fisch">Fisch</objectName> heraus in die <objectName ref="#schuessel">Schüssel</objectName> gelegt <lb/> und mit einer guten Ram= Erbsen= oder Butter= <objectName ref="#bruehe">Brühe</objectName> gegeben; dergleichen man biß dato viel gehört. </p>
             </div>
         </body>
     </text>

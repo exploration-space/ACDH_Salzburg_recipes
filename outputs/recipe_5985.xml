@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe <objectName ref="taube">Tauben</objectName> in <objectName ref="wein">Wein</objectName> und gutem Gewürtz mit <objectName ref="zucker">Zucker</objectName> gesotten <lb/> die <objectName ref="bruehe">Brühe</objectName> mit Eyerdottern <lb/> und Biscaten <lb/> oder geweichter Semmel durchgetrieben; dann mit Zimmet = <objectName ref="wasser">Wasser</objectName> <lb/> eingemachten Citronen und Lemoni = Safft angemacht; regaliers mit süsser Bacherey und aufgeschnittnen halben Pomerantzen <lb/> u. </p>
+        <p> DIe <objectName ref="#taube">Tauben</objectName> in <objectName ref="#wein">Wein</objectName> und gutem Gewürtz mit <objectName ref="#zucker">Zucker</objectName> gesotten <lb/> die <objectName ref="#bruehe">Brühe</objectName> mit Eyerdottern <lb/> und Biscaten <lb/> oder geweichter Semmel durchgetrieben; dann mit Zimmet = <objectName ref="#wasser">Wasser</objectName> <lb/> eingemachten Citronen und Lemoni = Safft angemacht; regaliers mit süsser Bacherey und aufgeschnittnen halben Pomerantzen <lb/> u. </p>
             </div>
         </body>
     </text>

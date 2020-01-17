@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Weinpörl<gap/> vnnd Wasch, hacks <lb/> Klein, thue es in ein Reindl<gap/> Giess<gap/> <lb/> halb <objectName ref="wein">Wein</objectName> vnnd halb <objectName ref="wasser">Wasser</objectName> Daran <lb/><lb/> ( ve 153 ) Rest<gap/> sembl Preßl<gap/> Darein hernach <lb/> Zuckhers, vnnd Nimb auch Zimet stup<gap/> <lb/> Darzur söz auf ein Glueth<gap/>, lass es <lb/> fein Preglen<gap/> Richts also an, so ist <lb/> es Recht. <lb/> </p>
+        <p> Nimb Weinpörl<gap/> vnnd Wasch, hacks <lb/> Klein, thue es in ein Reindl<gap/> Giess<gap/> <lb/> halb <objectName ref="#wein">Wein</objectName> vnnd halb <objectName ref="#wasser">Wasser</objectName> Daran <lb/><lb/> ( ve 153 ) Rest<gap/> sembl Preßl<gap/> Darein hernach <lb/> Zuckhers, vnnd Nimb auch Zimet stup<gap/> <lb/> Darzur söz auf ein Glueth<gap/>, lass es <lb/> fein Preglen<gap/> Richts also an, so ist <lb/> es Recht. <lb/> </p>
             </div>
         </body>
     </text>

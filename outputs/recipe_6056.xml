@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIser wird in Stücklein zerhackt <lb/> ausgewaschen <lb/> schön weiß in Saltz <objectName ref="wasser">Wasser</objectName> anlauffen gelassen <lb/> aber bey dem ersten Sud geschwind abgefäumt <lb/> das <objectName ref="fleisch">Fleisch</objectName> heraußgenommen <lb/> oder abgesiehen <lb/> frisch <objectName ref="wasser">Wasser</objectName> darüber gegossen <lb/> aber nicht darinnen ligen gelassen <lb/> und sodann den Hünern gleich <lb/> in Petersil <lb/> in gelber saurer Zwibel=oder Lemoni=Brühe <lb/> mit zugehörigem Gewürtz und Saltz eingemacht <lb/> und endlich schön gelb eingebrennt <lb/> oder fricassirt <lb/> oder in eine <objectName ref="pastete">Pasteten</objectName> gegeben </p>
+        <p> DIser wird in Stücklein zerhackt <lb/> ausgewaschen <lb/> schön weiß in Saltz <objectName ref="#wasser">Wasser</objectName> anlauffen gelassen <lb/> aber bey dem ersten Sud geschwind abgefäumt <lb/> das <objectName ref="#fleisch">Fleisch</objectName> heraußgenommen <lb/> oder abgesiehen <lb/> frisch <objectName ref="#wasser">Wasser</objectName> darüber gegossen <lb/> aber nicht darinnen ligen gelassen <lb/> und sodann den Hünern gleich <lb/> in Petersil <lb/> in gelber saurer Zwibel=oder Lemoni=Brühe <lb/> mit zugehörigem Gewürtz und Saltz eingemacht <lb/> und endlich schön gelb eingebrennt <lb/> oder fricassirt <lb/> oder in eine <objectName ref="#pastete">Pasteten</objectName> gegeben </p>
             </div>
         </body>
     </text>

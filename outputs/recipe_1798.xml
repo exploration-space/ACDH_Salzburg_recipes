@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Seud woll, Pär Semelschnite ( n ) <lb/> oder brodt, <objectName ref="schmalz">schmalz</objectName>, stosß darunter, Nimb <lb/> gueten <objectName ref="wein">wein</objectName>, treibs durch ain tuech, thues <lb/> in ain Saubern <objectName ref="hafen">hafen</objectName>, thue darunter zugger <lb/> vnd lints gewürz, stosß Confect darunter, <lb/> strör es oben darauff, wan du anrichst, <lb/> du magst d ( a ) s gemieß v̈ber bratene Capaun <lb/> geben Kalt. <lb/><lb/> ( 76r ) </p>
+        <p> Seud woll, Pär Semelschnite ( n ) <lb/> oder brodt, <objectName ref="#schmalz">schmalz</objectName>, stosß darunter, Nimb <lb/> gueten <objectName ref="#wein">wein</objectName>, treibs durch ain tuech, thues <lb/> in ain Saubern <objectName ref="#hafen">hafen</objectName>, thue darunter zugger <lb/> vnd lints gewürz, stosß Confect darunter, <lb/> strör es oben darauff, wan du anrichst, <lb/> du magst d ( a ) s gemieß v̈ber bratene Capaun <lb/> geben Kalt. <lb/><lb/> ( 76r ) </p>
             </div>
         </body>
     </text>

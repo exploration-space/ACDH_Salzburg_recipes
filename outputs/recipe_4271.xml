@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DAs <objectName ref="hirn">Hirn</objectName> muss gesotten <lb/> zerschnitten <lb/> und gleich den Brüßlein in gelber Butter= Zwibel= oder Petersil= <objectName ref="bruehe">Brühe</objectName> eingemacht <lb/> oder auch fricaffirt werden. </p>
+        <p> DAs <objectName ref="#hirn">Hirn</objectName> muss gesotten <lb/> zerschnitten <lb/> und gleich den Brüßlein in gelber Butter= Zwibel= oder Petersil= <objectName ref="#bruehe">Brühe</objectName> eingemacht <lb/> oder auch fricaffirt werden. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Khroissen khan man nemben souil alß aiener will, <lb/> gesoten d ( a ) s <objectName ref="fleisch">fleisch</objectName> sambt ainer Semel schmollen, <lb/> vngefer ainers kr : werth, vnd klain zerhackht, <lb/> die schallen, darnach zerstossen in ain Mörßer, <lb/><lb/> ( 44r ).darnach mit ainner gueten millich durch ge= <lb/> =schlagen, vnd nimb in ain Rhein ain löfel Voll <lb/> <objectName ref="schmalz">schmalz</objectName>, laß es haiß werden, vnd schite dar= <lb/> =nach alles darein, vnd riers so lanng biß <lb/> es dickh wierdt. <lb/> </p>
+        <p> Khroissen khan man nemben souil alß aiener will, <lb/> gesoten d ( a ) s <objectName ref="#fleisch">fleisch</objectName> sambt ainer Semel schmollen, <lb/> vngefer ainers kr : werth, vnd klain zerhackht, <lb/> die schallen, darnach zerstossen in ain Mörßer, <lb/><lb/> ( 44r ).darnach mit ainner gueten millich durch ge= <lb/> =schlagen, vnd nimb in ain Rhein ain löfel Voll <lb/> <objectName ref="#schmalz">schmalz</objectName>, laß es haiß werden, vnd schite dar= <lb/> =nach alles darein, vnd riers so lanng biß <lb/> es dickh wierdt. <lb/> </p>
             </div>
         </body>
     </text>

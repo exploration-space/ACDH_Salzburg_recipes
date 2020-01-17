@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Die Amssel kanstu braten vnd eynmachen <lb/> es sey schwartz <lb/> gelb <lb/> weiß <lb/> in seiner lautern Brüh <lb/> oder fein warm in <objectName ref="pastete">Pasteten</objectName> <lb/> wie man es haben wil. </p>
+        <p> Die Amssel kanstu braten vnd eynmachen <lb/> es sey schwartz <lb/> gelb <lb/> weiß <lb/> in seiner lautern Brüh <lb/> oder fein warm in <objectName ref="#pastete">Pasteten</objectName> <lb/> wie man es haben wil. </p>
             </div>
         </body>
     </text>

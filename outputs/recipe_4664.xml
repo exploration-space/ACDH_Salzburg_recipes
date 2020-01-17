@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet das Fette gantz allein <lb/> von einem Kalbs= Niern <lb/> hackets klein; rühret in einem Näpfflein nur das Gelbe von Eyern <lb/> wie auch <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet <lb/> und ein wenig gestossene Muscatnuß darunter <lb/> saltzets <lb/> streichets auf weisse Brod= Schnitten <lb/> wie man sonsten das <objectName ref="hirn">Hirn</objectName> aufzustreichen pfleget <lb/> und bestreuets dann auf einem Deller mit <objectName ref="zucker">Zucker</objectName> und Zimmet <lb/> ( wer will <lb/> kan auch Weinbeerlein dazu nehmen ) und bachet solche allgemach aus einem Schmaltz heraus. </p>
+        <p> NEhmet das Fette gantz allein <lb/> von einem Kalbs= Niern <lb/> hackets klein; rühret in einem Näpfflein nur das Gelbe von Eyern <lb/> wie auch <objectName ref="#zucker">Zucker</objectName> <lb/> Zimmet <lb/> und ein wenig gestossene Muscatnuß darunter <lb/> saltzets <lb/> streichets auf weisse Brod= Schnitten <lb/> wie man sonsten das <objectName ref="#hirn">Hirn</objectName> aufzustreichen pfleget <lb/> und bestreuets dann auf einem Deller mit <objectName ref="#zucker">Zucker</objectName> und Zimmet <lb/> ( wer will <lb/> kan auch Weinbeerlein dazu nehmen ) und bachet solche allgemach aus einem Schmaltz heraus. </p>
             </div>
         </body>
     </text>

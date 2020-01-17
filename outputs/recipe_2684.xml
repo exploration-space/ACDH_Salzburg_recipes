@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet ein gut theil Agrest <lb/> zwey Citronen oder unzeitige Weinbeer <lb/> siedet solche in Malvasier oder andern süssen <objectName ref="wein">Wein</objectName> <lb/> biß sie weich werden; zwinget sie durch <lb/> drucket zimlich viel sauern Pomerantzen= auch wol Citronen= Safft darein <lb/> würtzet es mit <objectName ref="zucker">Zucker</objectName> <lb/> Trisanet <lb/> und anderer guter Gewürtz <lb/> lassets noch ein wenig mit einander aufsieden <lb/> und richtets dann über das Gebratens. </p>
+        <p> NEhmet ein gut theil Agrest <lb/> zwey Citronen oder unzeitige Weinbeer <lb/> siedet solche in Malvasier oder andern süssen <objectName ref="#wein">Wein</objectName> <lb/> biß sie weich werden; zwinget sie durch <lb/> drucket zimlich viel sauern Pomerantzen= auch wol Citronen= Safft darein <lb/> würtzet es mit <objectName ref="#zucker">Zucker</objectName> <lb/> Trisanet <lb/> und anderer guter Gewürtz <lb/> lassets noch ein wenig mit einander aufsieden <lb/> und richtets dann über das Gebratens. </p>
             </div>
         </body>
     </text>

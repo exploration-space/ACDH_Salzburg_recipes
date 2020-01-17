@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ES ist der Aesch auch ein köstlicher <objectName ref="bratfisch">Bratfisch</objectName> <lb/> wann er geschuppt <lb/> oder ungeschuppt aufgemacht <lb/> geritzt und eingesaltzen <lb/> hernach auf dem heissen <objectName ref="rost">Rost</objectName> <lb/> mit <objectName ref="butter">Butter</objectName> <lb/> oder Oel gebraten <lb/> warmer <lb/> oder kalter gegeben wird. </p>
+        <p> ES ist der Aesch auch ein köstlicher <objectName ref="#bratfisch">Bratfisch</objectName> <lb/> wann er geschuppt <lb/> oder ungeschuppt aufgemacht <lb/> geritzt und eingesaltzen <lb/> hernach auf dem heissen <objectName ref="#rost">Rost</objectName> <lb/> mit <objectName ref="#butter">Butter</objectName> <lb/> oder Oel gebraten <lb/> warmer <lb/> oder kalter gegeben wird. </p>
             </div>
         </body>
     </text>

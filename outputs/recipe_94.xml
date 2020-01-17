@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Erstlich schiepp<gap/> den Khärpfen<gap/>, thue <lb/> ihn auf, thue das Ingewaidt<gap/> <lb/> heraus, <objectName ref="salz">salz</objectName> ihn ein, Zerschneidt <lb/> ihn, Zu stickhl<gap/>, thue ihn in ein <lb/> Rein<gap/>, Nimb ein Rockhes brodt<gap/>, oder <lb/> lebzeltern<gap/>, vnnd ein Klein Ge= <lb/> schnidtnen Zwifel<gap/>, rest<gap/> Dise Ding <lb/> in ein schmalz<gap/>, alßdan Gies<gap/>, halb <lb/><lb/> ( re 38 ) <objectName ref="wein">wein</objectName> vnnd halb arbes brie<gap/> darein, <lb/> vnnd <objectName ref="pfeffer">Pfeffer</objectName> stup<gap/>, Imber<gap/>, vnnd <lb/> Nägl<gap/>, lass ihn also Kochen, so <lb/> ist er bereith. <lb/> </p>
+        <p> Erstlich schiepp<gap/> den Khärpfen<gap/>, thue <lb/> ihn auf, thue das Ingewaidt<gap/> <lb/> heraus, <objectName ref="#salz">salz</objectName> ihn ein, Zerschneidt <lb/> ihn, Zu stickhl<gap/>, thue ihn in ein <lb/> Rein<gap/>, Nimb ein Rockhes brodt<gap/>, oder <lb/> lebzeltern<gap/>, vnnd ein Klein Ge= <lb/> schnidtnen Zwifel<gap/>, rest<gap/> Dise Ding <lb/> in ein schmalz<gap/>, alßdan Gies<gap/>, halb <lb/><lb/> ( re 38 ) <objectName ref="#wein">wein</objectName> vnnd halb arbes brie<gap/> darein, <lb/> vnnd <objectName ref="#pfeffer">Pfeffer</objectName> stup<gap/>, Imber<gap/>, vnnd <lb/> Nägl<gap/>, lass ihn also Kochen, so <lb/> ist er bereith. <lb/> </p>
             </div>
         </body>
     </text>

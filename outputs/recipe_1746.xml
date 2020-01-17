@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Würfs in ain <lb/> brinents <objectName ref="feuer">feuer</objectName>, laß woll schwarz werden, <lb/> legs in ain Kaltes <objectName ref="wasser">wasser</objectName>, schöll die schwarz <lb/> Haut daruon, vnd thues in ain schenß höfen, <lb/> geuß <objectName ref="wein">wein</objectName> daran, Nimb hennig, od ( er ) zugger, <lb/> schlag Confect darauf, gibs warm oder <lb/> Khalt. <lb/><lb/> ( 66r ) </p>
+        <p> Würfs in ain <lb/> brinents <objectName ref="#feuer">feuer</objectName>, laß woll schwarz werden, <lb/> legs in ain Kaltes <objectName ref="#wasser">wasser</objectName>, schöll die schwarz <lb/> Haut daruon, vnd thues in ain schenß höfen, <lb/> geuß <objectName ref="#wein">wein</objectName> daran, Nimb hennig, od ( er ) zugger, <lb/> schlag Confect darauf, gibs warm oder <lb/> Khalt. <lb/><lb/> ( 66r ) </p>
             </div>
         </body>
     </text>

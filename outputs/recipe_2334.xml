@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb neue oder alte Maurachen, Wasch sie mit einem <objectName ref="wein">Wein</objectName> sauber, schneids <lb/> oder hakhs khlain, Wie lunkhmueß, Salzs, vnd stups mit <objectName ref="pfeffer">Pfeffer</objectName>, vnd <lb/> Zimetstup, schlag aÿr 2. oder 3. dran, darnach du vill machen thuest, in die <lb/> osterÿ scherben thue fleischbrüe oder Arbesbrüe, vnd ein Puter, laß auf <lb/> ein glietl breglen, Wie khrebsen oder osterÿ, sie seind guet. <lb/><lb/> ( 62v ) </p>
+        <p> Nimb neue oder alte Maurachen, Wasch sie mit einem <objectName ref="#wein">Wein</objectName> sauber, schneids <lb/> oder hakhs khlain, Wie lunkhmueß, Salzs, vnd stups mit <objectName ref="#pfeffer">Pfeffer</objectName>, vnd <lb/> Zimetstup, schlag aÿr 2. oder 3. dran, darnach du vill machen thuest, in die <lb/> osterÿ scherben thue fleischbrüe oder Arbesbrüe, vnd ein Puter, laß auf <lb/> ein glietl breglen, Wie khrebsen oder osterÿ, sie seind guet. <lb/><lb/> ( 62v ) </p>
             </div>
         </body>
     </text>

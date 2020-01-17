@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAch ein Schnittlein in die Geil <lb/> zieh die grobe Häut darvon; oder sied sie in gesaltzenem <objectName ref="wasser">Wasser</objectName> <lb/> so lassen sie sich recht butzen <lb/> abscheelen und auswaschen; dann schneidt mans zu dünnen Schnitzlein <lb/> oder Blättlein <lb/> und werden sie mit Saltz <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Meel herüber geschwungen <lb/> und gleich denen Fischen aus wohl= heissen Schmaltz gebachen : regaliers mit gebachenen <objectName ref="kraeuter">Kräutern</objectName>. </p>
+        <p> MAch ein Schnittlein in die Geil <lb/> zieh die grobe Häut darvon; oder sied sie in gesaltzenem <objectName ref="#wasser">Wasser</objectName> <lb/> so lassen sie sich recht butzen <lb/> abscheelen und auswaschen; dann schneidt mans zu dünnen Schnitzlein <lb/> oder Blättlein <lb/> und werden sie mit Saltz <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> und Meel herüber geschwungen <lb/> und gleich denen Fischen aus wohl= heissen Schmaltz gebachen : regaliers mit gebachenen <objectName ref="#kraeuter">Kräutern</objectName>. </p>
             </div>
         </body>
     </text>

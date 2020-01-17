@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb.1. Bouch : d´aqa lege darein ein Stauden <lb/> grien finochio vnd auf die 70 korn anneis <lb/> laß stehen.1. Stundt rüehr es woll durcheinander/ Seihs mische darunter.4. lott Zuckher <objectName ref="amber">amber</objectName> <lb/> vnd mus : w : bl. gieß in die gschier vnd <lb/> laß kalt werden. </p>
+        <p> Nimb.1. Bouch : d´aqa lege darein ein Stauden <lb/> grien finochio vnd auf die 70 korn anneis <lb/> laß stehen.1. Stundt rüehr es woll durcheinander/ Seihs mische darunter.4. lott Zuckher <objectName ref="#amber">amber</objectName> <lb/> vnd mus : w : bl. gieß in die gschier vnd <lb/> laß kalt werden. </p>
             </div>
         </body>
     </text>

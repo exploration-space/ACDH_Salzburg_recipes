@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Item so henck Centaurien vnd <objectName ref="bertram">Bertram</objectName> darein <lb/> die zwey <objectName ref="kraeuter">Kräuter</objectName> verhüten allen zufall. Du magst auch <objectName ref="lorbeer-2">Lorbeer</objectName> darein thun <lb/> gibt jm ein köstlichen geschmack. </p>
+        <p> Item so henck Centaurien vnd <objectName ref="#bertram">Bertram</objectName> darein <lb/> die zwey <objectName ref="#kraeuter">Kräuter</objectName> verhüten allen zufall. Du magst auch <objectName ref="#lorbeer-2">Lorbeer</objectName> darein thun <lb/> gibt jm ein köstlichen geschmack. </p>
             </div>
         </body>
     </text>

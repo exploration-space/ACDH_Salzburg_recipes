@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Diese seynd gleich denen frischen Zwetschgen zu scheelen <lb/> vom Kern zu säubern <lb/> und durch einen <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="milch">Milch</objectName> oder Brand=Taig gezogen <lb/> und aus wol heissem Schmaltz zu bachen. </p>
+        <p> Diese seynd gleich denen frischen Zwetschgen zu scheelen <lb/> vom Kern zu säubern <lb/> und durch einen <objectName ref="#wein">Wein</objectName> <lb/> <objectName ref="#milch">Milch</objectName> oder Brand=Taig gezogen <lb/> und aus wol heissem Schmaltz zu bachen. </p>
             </div>
         </body>
     </text>

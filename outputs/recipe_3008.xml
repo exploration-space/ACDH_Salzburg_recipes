@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> RApünzelein dienen zum <objectName ref="salat">Salat</objectName> <lb/> gebutzt wie die kleinen <objectName ref="rettich">Rettich</objectName>. </p>
+        <p> RApünzelein dienen zum <objectName ref="#salat">Salat</objectName> <lb/> gebutzt wie die kleinen <objectName ref="#rettich">Rettich</objectName>. </p>
             </div>
         </body>
     </text>

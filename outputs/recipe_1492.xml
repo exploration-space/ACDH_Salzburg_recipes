@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Arbes siedts waich, treibts mit einer guetten <objectName ref="milch">milch</objectName> durch, <lb/> <objectName ref="salz">Salz</objectName>, schlag.3 ayr daran, faimbts mit einen löfl ab, daß fein glatt <lb/> wirdt, sez die schisßl auf ein gluett, thue putter darein, giesß die <lb/> Arbes darein, vnd oben auf ein gluett, Reste gewirflete Semelpresßl <lb/> in <objectName ref="schmalz">schmalz</objectName>, thues oben darauf, laß also Kochen./. </p>
+        <p> Nimb Arbes siedts waich, treibts mit einer guetten <objectName ref="#milch">milch</objectName> durch, <lb/> <objectName ref="#salz">Salz</objectName>, schlag.3 ayr daran, faimbts mit einen löfl ab, daß fein glatt <lb/> wirdt, sez die schisßl auf ein gluett, thue putter darein, giesß die <lb/> Arbes darein, vnd oben auf ein gluett, Reste gewirflete Semelpresßl <lb/> in <objectName ref="#schmalz">schmalz</objectName>, thues oben darauf, laß also Kochen./. </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn die Brüßlein überbrühet <lb/> werden sie von denen Drossen abgelößt; dann zu Blätlein geschnitten <lb/> mit etlich Tropffen Eßig <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Saltz gesprengt <lb/> mit Meel herüber geschwungen <lb/> und gleich den Fischen aus Schmaltz gebachen <lb/> und mit gebachenen <lb/> oder grünen Petersil= Kräutlein regaliert <lb/> und geschwind aufgetragen. </p>
+        <p> WAnn die Brüßlein überbrühet <lb/> werden sie von denen Drossen abgelößt; dann zu Blätlein geschnitten <lb/> mit etlich Tropffen Eßig <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> und Saltz gesprengt <lb/> mit Meel herüber geschwungen <lb/> und gleich den Fischen aus Schmaltz gebachen <lb/> und mit gebachenen <lb/> oder grünen Petersil= Kräutlein regaliert <lb/> und geschwind aufgetragen. </p>
             </div>
         </body>
     </text>

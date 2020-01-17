@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ain wennig <objectName ref="schmalz">Schmalz</objectName>, Perchtramb, vnd <lb/> Margrantn, Imber, <objectName ref="pfeffer">Pfeffer</objectName>, Nägelein, Muß= <lb/> =catblie vnnd <objectName ref="zibeben">zibeben</objectName>. <lb/> </p>
+        <p> Nimb ain wennig <objectName ref="#schmalz">Schmalz</objectName>, Perchtramb, vnd <lb/> Margrantn, Imber, <objectName ref="#pfeffer">Pfeffer</objectName>, Nägelein, Muß= <lb/> =catblie vnnd <objectName ref="#zibeben">zibeben</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIse werden gebutzt <lb/> und mit wenig <objectName ref="wein">Wein</objectName> angefeucht <lb/> in <objectName ref="zucker">Zucker</objectName> gesotten <lb/> überkühlt <lb/> mit Lemoni= Schaalen und Zimmet in die Dorten gegeben <lb/> mit einem saubern Ausschnitt bedeckt <lb/> und gebachen. </p>
+        <p> DIse werden gebutzt <lb/> und mit wenig <objectName ref="#wein">Wein</objectName> angefeucht <lb/> in <objectName ref="#zucker">Zucker</objectName> gesotten <lb/> überkühlt <lb/> mit Lemoni= Schaalen und Zimmet in die Dorten gegeben <lb/> mit einem saubern Ausschnitt bedeckt <lb/> und gebachen. </p>
             </div>
         </body>
     </text>

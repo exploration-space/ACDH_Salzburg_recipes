@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Hirsch= Rucken werden ausgelößt <lb/> in fein grosse Stücker geschnitten <lb/> mit grossen wohl= gewürtzten <objectName ref="speck">Speck</objectName> durchgezogen <lb/> und gleich dem <objectName ref="rindfleisch">Rindfleisch</objectName> <lb/> so Beuf á la Mode genannt <lb/> und im Ersten Capitel bey dem Ochsen zu finden <lb/> gedämpfft <lb/> warmer gegeben <lb/> oder auch also kalter aufgeschnitten. </p>
+        <p> DIe Hirsch= Rucken werden ausgelößt <lb/> in fein grosse Stücker geschnitten <lb/> mit grossen wohl= gewürtzten <objectName ref="#speck">Speck</objectName> durchgezogen <lb/> und gleich dem <objectName ref="#rindfleisch">Rindfleisch</objectName> <lb/> so Beuf á la Mode genannt <lb/> und im Ersten Capitel bey dem Ochsen zu finden <lb/> gedämpfft <lb/> warmer gegeben <lb/> oder auch also kalter aufgeschnitten. </p>
             </div>
         </body>
     </text>

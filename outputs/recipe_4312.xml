@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAchet einen <objectName ref="teig">Teig</objectName> von schönem <objectName ref="mehl">Mehl</objectName> <lb/> und lauter Eyern zusammen <lb/> giesset ein wenig <objectName ref="rosenwasser">Rosenwasser</objectName> darunter; würtzet ihn mit Cardamomen und <objectName ref="pfeffer">Pfeffer</objectName> <lb/> rühret etwas <objectName ref="zucker">Zucker</objectName> darein : dann wälchert dergleichen groß oder kleine Küchlein auf einem Bret daraus <lb/> wie schon gedacht <lb/> und bachet sie schön langsam heraus. </p>
+        <p> MAchet einen <objectName ref="#teig">Teig</objectName> von schönem <objectName ref="#mehl">Mehl</objectName> <lb/> und lauter Eyern zusammen <lb/> giesset ein wenig <objectName ref="#rosenwasser">Rosenwasser</objectName> darunter; würtzet ihn mit Cardamomen und <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> rühret etwas <objectName ref="#zucker">Zucker</objectName> darein : dann wälchert dergleichen groß oder kleine Küchlein auf einem Bret daraus <lb/> wie schon gedacht <lb/> und bachet sie schön langsam heraus. </p>
             </div>
         </body>
     </text>

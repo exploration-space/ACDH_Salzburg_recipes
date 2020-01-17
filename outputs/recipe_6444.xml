@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Marillen <lb/> thu die Kern herauß <lb/> vnd streich sie durch ein Härin <objectName ref="tuch">Tuch</objectName> <lb/> denn es leßt sich gern durchstreichen <lb/> sie seind feucht gnug. Thu sie in einen <objectName ref="fischkessel">Fischkessel</objectName> <lb/> mach sie süß <lb/> vnd setz sie auff das Feuwer <lb/> vnnd rürs vmb biß auffseudt <lb/> richt es auff ein <objectName ref="schuessel">Schüssel</objectName> <lb/> vnnd laß kalt werden <lb/> thu die Kern <lb/> die fein sauber geschelt seyn <lb/> darüber <lb/> gibs also warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> vnnd besträw es nicht mit <objectName ref="zucker">Zucker</objectName> <lb/> denn ist ist vorhin süß <lb/> vnnd sihet schön gelb. </p>
+        <p> Nim ( m ) Marillen <lb/> thu die Kern herauß <lb/> vnd streich sie durch ein Härin <objectName ref="#tuch">Tuch</objectName> <lb/> denn es leßt sich gern durchstreichen <lb/> sie seind feucht gnug. Thu sie in einen <objectName ref="#fischkessel">Fischkessel</objectName> <lb/> mach sie süß <lb/> vnd setz sie auff das Feuwer <lb/> vnnd rürs vmb biß auffseudt <lb/> richt es auff ein <objectName ref="#schuessel">Schüssel</objectName> <lb/> vnnd laß kalt werden <lb/> thu die Kern <lb/> die fein sauber geschelt seyn <lb/> darüber <lb/> gibs also warm auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> vnnd besträw es nicht mit <objectName ref="#zucker">Zucker</objectName> <lb/> denn ist ist vorhin süß <lb/> vnnd sihet schön gelb. </p>
             </div>
         </body>
     </text>

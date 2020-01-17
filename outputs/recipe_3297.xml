@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Siede sauber=geklaubt= und gewaschnen Reiß in <objectName ref="wasser">Wasser</objectName> <lb/> oder Erbesbrühe <lb/> mit wenig Saltz <lb/> Muscatnuß <lb/> oder Blühe <lb/> mit Roßmarin <lb/> und mit Näglein besteckten Zwibel <lb/> und wann er genug <lb/> auch kurtz eingesotten hat <lb/> mach den Reiß ab mit <objectName ref="butter">Butter</objectName> <lb/> und geriebenen Parmesan-Käß bestreuter. </p>
+        <p> Siede sauber=geklaubt= und gewaschnen Reiß in <objectName ref="#wasser">Wasser</objectName> <lb/> oder Erbesbrühe <lb/> mit wenig Saltz <lb/> Muscatnuß <lb/> oder Blühe <lb/> mit Roßmarin <lb/> und mit Näglein besteckten Zwibel <lb/> und wann er genug <lb/> auch kurtz eingesotten hat <lb/> mach den Reiß ab mit <objectName ref="#butter">Butter</objectName> <lb/> und geriebenen Parmesan-Käß bestreuter. </p>
             </div>
         </body>
     </text>

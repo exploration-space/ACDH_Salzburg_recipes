@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr schon gebratne Kalbs= <objectName ref="schlegel">Schlegel</objectName> <lb/> dünn <lb/> und geblättlet geschnitten <lb/> dient zur Fricasse mit kleinen Petersil= <objectName ref="kraeuter">Kräutern</objectName> <lb/> und Lemoni= Schelffen; item mit Capry <lb/> <objectName ref="sardellen">Sardellen</objectName> <lb/> oder Maurachen und Schwammen <lb/> in gelber <lb/> oder mit <objectName ref="wein">Wein</objectName> <lb/> Lemoni= Safft <lb/> gesäuerter <objectName ref="bruehe">Brühe</objectName>; und wie mehrers zu finden nach dem beschriebenen Salpicon. </p>
+        <p> DEr schon gebratne Kalbs= <objectName ref="#schlegel">Schlegel</objectName> <lb/> dünn <lb/> und geblättlet geschnitten <lb/> dient zur Fricasse mit kleinen Petersil= <objectName ref="#kraeuter">Kräutern</objectName> <lb/> und Lemoni= Schelffen; item mit Capry <lb/> <objectName ref="#sardellen">Sardellen</objectName> <lb/> oder Maurachen und Schwammen <lb/> in gelber <lb/> oder mit <objectName ref="#wein">Wein</objectName> <lb/> Lemoni= Safft <lb/> gesäuerter <objectName ref="#bruehe">Brühe</objectName>; und wie mehrers zu finden nach dem beschriebenen Salpicon. </p>
             </div>
         </body>
     </text>

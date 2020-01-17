@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nembt ain guete Siesse obere Millich, vnd <lb/> ain wennig Haußenblater, nimb ain bache= <lb/> =ne Millich, schneits fein zu stukhen, legs auf <lb/> die schißl, nimb etliche farbtiecher, so <lb/><lb/> ( 59v ) wierts schön braun, od ( er ) gilbs weiß, zuggers <lb/> woll, d ( a ) s fein Sieß Sey, <objectName ref="salz">Salz</objectName> nit hart, Säe <lb/> Saubere Weinpör darauf, wenß gestandn <lb/> ist. <lb/> </p>
+        <p> Nembt ain guete Siesse obere Millich, vnd <lb/> ain wennig Haußenblater, nimb ain bache= <lb/> =ne Millich, schneits fein zu stukhen, legs auf <lb/> die schißl, nimb etliche farbtiecher, so <lb/><lb/> ( 59v ) wierts schön braun, od ( er ) gilbs weiß, zuggers <lb/> woll, d ( a ) s fein Sieß Sey, <objectName ref="#salz">Salz</objectName> nit hart, Säe <lb/> Saubere Weinpör darauf, wenß gestandn <lb/> ist. <lb/> </p>
             </div>
         </body>
     </text>

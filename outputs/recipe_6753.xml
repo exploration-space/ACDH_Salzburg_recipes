@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Karpffen <objectName ref="knoedel">Knödel</objectName> kan man auch eyndämpffen mit Wocholderbeer vnd Zwibeln <lb/> fein säurlich <lb/> oder wie man es haben wil. </p>
+        <p> Karpffen <objectName ref="#knoedel">Knödel</objectName> kan man auch eyndämpffen mit Wocholderbeer vnd Zwibeln <lb/> fein säurlich <lb/> oder wie man es haben wil. </p>
             </div>
         </body>
     </text>

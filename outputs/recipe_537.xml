@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> mach ein Dämpfel<gap/> an nimb ain air <lb/> Dotter vnd ein ganzes air<gap/> sies obers<gap/> vnd <lb/> ein brökhel<gap/> <objectName ref="butter">butter</objectName> riehs<gap/> vnder einander <lb/> machs darmit an las gehen, nimb her <lb/> nach ein brokhen<gap/> <objectName ref="butter">butter</objectName> auch so vill <lb/> schmalz<gap/> sauern Rämb<gap/> gis<gap/> in ein bökh<gap/> <lb/> hernach schneidt die nudl<gap/> 3 ökhet<gap/> <lb/> vnd Kochs herab <lb/> </p>
+        <p> mach ein Dämpfel<gap/> an nimb ain air <lb/> Dotter vnd ein ganzes air<gap/> sies obers<gap/> vnd <lb/> ein brökhel<gap/> <objectName ref="#butter">butter</objectName> riehs<gap/> vnder einander <lb/> machs darmit an las gehen, nimb her <lb/> nach ein brokhen<gap/> <objectName ref="#butter">butter</objectName> auch so vill <lb/> schmalz<gap/> sauern Rämb<gap/> gis<gap/> in ein bökh<gap/> <lb/> hernach schneidt die nudl<gap/> 3 ökhet<gap/> <lb/> vnd Kochs herab <lb/> </p>
             </div>
         </body>
     </text>

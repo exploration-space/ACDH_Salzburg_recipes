@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm ein gut theil <objectName ref="borretsch">Borretsch</objectName> oder Borragen <lb/> hacke ihn klein <lb/> laß ihn in einer siedenden Fleischbrüh <lb/> so lang als weiche Eyer sieden; würtze es mit Muscatnuß und Cardamomen : laß auch auf die letzt ein Stück <objectName ref="butter">Butter</objectName> mit aufsieden <lb/> richt es über weiß= aufgeschnitten Brod <lb/> und streue einen Käs darauf. </p>
+        <p> NImm ein gut theil <objectName ref="#borretsch">Borretsch</objectName> oder Borragen <lb/> hacke ihn klein <lb/> laß ihn in einer siedenden Fleischbrüh <lb/> so lang als weiche Eyer sieden; würtze es mit Muscatnuß und Cardamomen : laß auch auf die letzt ein Stück <objectName ref="#butter">Butter</objectName> mit aufsieden <lb/> richt es über weiß= aufgeschnitten Brod <lb/> und streue einen Käs darauf. </p>
             </div>
         </body>
     </text>

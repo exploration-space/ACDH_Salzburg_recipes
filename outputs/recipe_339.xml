@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein Khaltes Prädl<gap/> vnd hackhs <lb/> clein, thue Lemony safft<gap/> Darein <lb/> Das es seilet<gap/> würdt auch schöllen<gap/>, <lb/> Rests<gap/> in putter, vnnd ein wönig <lb/> sembl Presl<gap/> Darunter, vnd ein wenig faiste<gap/> <objectName ref="fleisch">fleisch</objectName> brie<gap/> Daran, <lb/> Das es lindt<gap/> Wierdt vnd Das es sich <lb/> auft treichen last, Nimb Den obigen <lb/> taig<gap/> mach auch also wie vor, schneidte <lb/><lb/> ( ve 164 ) ihn vnnd richt ihn auf ein schisßl<gap/> <lb/> thue <objectName ref="fleisch">Fleisch</objectName> brie<gap/> vnnd Putter Daran <lb/> söze Ihn auf ein Gluet<gap/> lass breglen<gap/>, <lb/> also ist es Recht. <lb/> </p>
+        <p> Nimb ein Khaltes Prädl<gap/> vnd hackhs <lb/> clein, thue Lemony safft<gap/> Darein <lb/> Das es seilet<gap/> würdt auch schöllen<gap/>, <lb/> Rests<gap/> in putter, vnnd ein wönig <lb/> sembl Presl<gap/> Darunter, vnd ein wenig faiste<gap/> <objectName ref="#fleisch">fleisch</objectName> brie<gap/> Daran, <lb/> Das es lindt<gap/> Wierdt vnd Das es sich <lb/> auft treichen last, Nimb Den obigen <lb/> taig<gap/> mach auch also wie vor, schneidte <lb/><lb/> ( ve 164 ) ihn vnnd richt ihn auf ein schisßl<gap/> <lb/> thue <objectName ref="#fleisch">Fleisch</objectName> brie<gap/> vnnd Putter Daran <lb/> söze Ihn auf ein Gluet<gap/> lass breglen<gap/>, <lb/> also ist es Recht. <lb/> </p>
             </div>
         </body>
     </text>

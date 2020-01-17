@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet das <objectName ref="hirn">Hirn</objectName> von einem Kalbs= Kopff <lb/> der bereits gesotten worden <lb/> hacket <lb/> würtzet und gilbet es; thut Weinbeere oder Corinthen darunter <lb/> schlagt Eyer daran <lb/> streichets auf Weck= Schnitten : machet ein Schmaltz heiß <lb/> und bachets heraus. </p>
+        <p> NEhmet das <objectName ref="#hirn">Hirn</objectName> von einem Kalbs= Kopff <lb/> der bereits gesotten worden <lb/> hacket <lb/> würtzet und gilbet es; thut Weinbeere oder Corinthen darunter <lb/> schlagt Eyer daran <lb/> streichets auf Weck= Schnitten : machet ein Schmaltz heiß <lb/> und bachets heraus. </p>
             </div>
         </body>
     </text>

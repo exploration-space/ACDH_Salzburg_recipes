@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Römische Bonen kanstu an einem Fleischtage <lb/> sampt den Hülsen <lb/> mit einer Rindtfleischbrüh <lb/> <objectName ref="ingwer">Ingwer</objectName> vnd <objectName ref="butter">Butter</objectName> <lb/> zurichten. Ist es aber an einem Fasttage <lb/> so magstu sie mit Erbeßbrüh <lb/> <objectName ref="pfeffer">Pfeffer</objectName> vnd <objectName ref="butter">Butter</objectName> <lb/> kochen <lb/> so werden sie lieblich vnd gut. </p>
+        <p> Römische Bonen kanstu an einem Fleischtage <lb/> sampt den Hülsen <lb/> mit einer Rindtfleischbrüh <lb/> <objectName ref="#ingwer">Ingwer</objectName> vnd <objectName ref="#butter">Butter</objectName> <lb/> zurichten. Ist es aber an einem Fasttage <lb/> so magstu sie mit Erbeßbrüh <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> vnd <objectName ref="#butter">Butter</objectName> <lb/> kochen <lb/> so werden sie lieblich vnd gut. </p>
             </div>
         </body>
     </text>

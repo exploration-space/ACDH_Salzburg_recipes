@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> LAsset einen schönen lautern Wein= Lägelein= oder Saurach= Safft <lb/> in einem messingen <objectName ref="pfaennlein">Pfännlein</objectName> <lb/> mit <objectName ref="zucker">Zucker</objectName> so lang sieden <lb/> biß man siehet <lb/> daß der <objectName ref="zucker">Zucker</objectName> eine schöne Farb bekommet <lb/> und dick wird; giesset dann <objectName ref="grieben">Grieben</objectName> daraus <lb/> setzets in einen <objectName ref="ofen">Ofen</objectName> <lb/> und lassets ertrocknen. </p>
+        <p> LAsset einen schönen lautern Wein= Lägelein= oder Saurach= Safft <lb/> in einem messingen <objectName ref="#pfaennlein">Pfännlein</objectName> <lb/> mit <objectName ref="#zucker">Zucker</objectName> so lang sieden <lb/> biß man siehet <lb/> daß der <objectName ref="#zucker">Zucker</objectName> eine schöne Farb bekommet <lb/> und dick wird; giesset dann <objectName ref="#grieben">Grieben</objectName> daraus <lb/> setzets in einen <objectName ref="#ofen">Ofen</objectName> <lb/> und lassets ertrocknen. </p>
             </div>
         </body>
     </text>

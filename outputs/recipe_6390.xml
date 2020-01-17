@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wasch den Him ( m ) elthaw sauber auß <lb/> klaub jn <lb/> vnd thu jn in gesottene <objectName ref="milch">Milch</objectName> <lb/> vnd laß darmit sieden. Thu ein wenig <objectName ref="butter">Butter</objectName> <lb/> daß fein dick wirt <lb/> darein <lb/> saltzs ab <lb/> vnnd richt es auff eine <objectName ref="schuessel">Schüssel</objectName> <lb/> besträw es mit <objectName ref="zucker">Zucker</objectName> <lb/> so wirt es gut vnd wolgeschmack. </p>
+        <p> Wasch den Him ( m ) elthaw sauber auß <lb/> klaub jn <lb/> vnd thu jn in gesottene <objectName ref="#milch">Milch</objectName> <lb/> vnd laß darmit sieden. Thu ein wenig <objectName ref="#butter">Butter</objectName> <lb/> daß fein dick wirt <lb/> darein <lb/> saltzs ab <lb/> vnnd richt es auff eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> besträw es mit <objectName ref="#zucker">Zucker</objectName> <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

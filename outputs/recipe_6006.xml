@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Eyngedämpfft <objectName ref="knoedel">Knödel</objectName> <lb/> weiß in jrer eygenen Brüh <lb/> oder mach es gelb <lb/> schneidt das Bein von dem Hinterkeul herauß <lb/> hack das <objectName ref="fleisch">Fleisch</objectName> klein <lb/> wickel es vber das Bein <lb/> setz es zu <lb/> vnd laß sieden <lb/> machs eyn mit Pettersilgen Wurtzel <lb/> oder saur mit Limonien <lb/> es sey gelb oder weiß <lb/> mit Groselbeer oder Agrastbeer <lb/> wenns gesotten ist <lb/> so legs auff ein Roßt <lb/> vnnd brenns ab <lb/> vnd mach ein Brüh darvnter. </p>
+        <p> Eyngedämpfft <objectName ref="#knoedel">Knödel</objectName> <lb/> weiß in jrer eygenen Brüh <lb/> oder mach es gelb <lb/> schneidt das Bein von dem Hinterkeul herauß <lb/> hack das <objectName ref="#fleisch">Fleisch</objectName> klein <lb/> wickel es vber das Bein <lb/> setz es zu <lb/> vnd laß sieden <lb/> machs eyn mit Pettersilgen Wurtzel <lb/> oder saur mit Limonien <lb/> es sey gelb oder weiß <lb/> mit Groselbeer oder Agrastbeer <lb/> wenns gesotten ist <lb/> so legs auff ein Roßt <lb/> vnnd brenns ab <lb/> vnd mach ein Brüh darvnter. </p>
             </div>
         </body>
     </text>

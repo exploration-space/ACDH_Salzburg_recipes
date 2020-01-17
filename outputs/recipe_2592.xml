@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe <objectName ref="kuerbis">Kürbis</objectName> werden zerschnitten <lb/> im <objectName ref="wasser">Wasser</objectName> abgesotten <lb/> auch wohl wieder abgeseihet <lb/> und wann sie erkaltet <lb/> gesaltzen und gepfeffert <lb/> auch <objectName ref="essig">Essig</objectName> und Oel daran gegossen <lb/> und ferner angemacht wie der Gurcken= oder Kimmerling= <objectName ref="salat">Salat</objectName>. </p>
+        <p> DIe <objectName ref="#kuerbis">Kürbis</objectName> werden zerschnitten <lb/> im <objectName ref="#wasser">Wasser</objectName> abgesotten <lb/> auch wohl wieder abgeseihet <lb/> und wann sie erkaltet <lb/> gesaltzen und gepfeffert <lb/> auch <objectName ref="#essig">Essig</objectName> und Oel daran gegossen <lb/> und ferner angemacht wie der Gurcken= oder Kimmerling= <objectName ref="#salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

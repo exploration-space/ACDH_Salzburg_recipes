@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> HAcke das <objectName ref="fleisch">Fleisch</objectName> von einem gesottenen Capaunen oder alten Hun <lb/> bähe einen <objectName ref="semmelschnitten">Semmelschnitten</objectName> <lb/> und feuchte denselben mit einer Capaunen oder Hüner= Brüh an <lb/> daß er weich wird <lb/> stosse alsdann den <objectName ref="semmelschnitten">Semmelschnitten</objectName> mit dem gehackten Capaunen= oder Hüner= <objectName ref="fleisch">Fleisch</objectName> ab; treib es mit obbesagter Brüh durch <lb/> und machs wohl dinn <lb/> zerklopffe zwey Eyerdottern <lb/> rührs mit den durchgezwungenen an <lb/> laß mit stetigem rühren sieden; würtze es mit Cardamomen und Muscaten= Blüh <lb/> thu ein Stuck <objectName ref="butter">Butter</objectName> darein <lb/> und richts also an. </p>
+        <p> HAcke das <objectName ref="#fleisch">Fleisch</objectName> von einem gesottenen Capaunen oder alten Hun <lb/> bähe einen <objectName ref="#semmelschnitten">Semmelschnitten</objectName> <lb/> und feuchte denselben mit einer Capaunen oder Hüner= Brüh an <lb/> daß er weich wird <lb/> stosse alsdann den <objectName ref="#semmelschnitten">Semmelschnitten</objectName> mit dem gehackten Capaunen= oder Hüner= <objectName ref="#fleisch">Fleisch</objectName> ab; treib es mit obbesagter Brüh durch <lb/> und machs wohl dinn <lb/> zerklopffe zwey Eyerdottern <lb/> rührs mit den durchgezwungenen an <lb/> laß mit stetigem rühren sieden; würtze es mit Cardamomen und Muscaten= Blüh <lb/> thu ein Stuck <objectName ref="#butter">Butter</objectName> darein <lb/> und richts also an. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) <objectName ref="bier">Biern</objectName> <lb/> schel vnnd schneidt sie fein dünn vnnd breit <lb/> setz sie mit <objectName ref="wasser">Wasser</objectName> zu <lb/> vnd laß sie wol sieden <lb/> biß sie weich werden <lb/> rür sie umb <lb/> daß sie dick werden. Vnd wen ( n ) sie gar gesotten <lb/> so breun <objectName ref="butter">Butter</objectName> darüber <lb/> vn ( d ) machs ein wenig süß <lb/> vnd wenn du es anrichtest <lb/> so besträw es mit Driet <lb/> so wirt es gut vnd wolgeschmack. </p>
+        <p> Nim ( m ) <objectName ref="#bier">Biern</objectName> <lb/> schel vnnd schneidt sie fein dünn vnnd breit <lb/> setz sie mit <objectName ref="#wasser">Wasser</objectName> zu <lb/> vnd laß sie wol sieden <lb/> biß sie weich werden <lb/> rür sie umb <lb/> daß sie dick werden. Vnd wen ( n ) sie gar gesotten <lb/> so breun <objectName ref="#butter">Butter</objectName> darüber <lb/> vn ( d ) machs ein wenig süß <lb/> vnd wenn du es anrichtest <lb/> so besträw es mit Driet <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

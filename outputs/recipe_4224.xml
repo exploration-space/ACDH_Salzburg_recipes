@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="hering">HEring</objectName> gebraten <lb/> mit <objectName ref="butter">Butter</objectName> <lb/> und bey dem Anrichten Senff <lb/> in <objectName ref="butter">Butter</objectName> begossen <lb/> und über den <objectName ref="hering">Hering</objectName> gegeben; oder laß den Senff aus <lb/> und nimm Capry <lb/> und wenig Erbes= <objectName ref="bruehe">Brühe</objectName> in <objectName ref="butter">Butter</objectName> <lb/> und laß kurtz aufkochen <lb/> und gibs über diesen <objectName ref="bratfisch">Bratfisch</objectName>. </p>
+        <p> <objectName ref="#hering">HEring</objectName> gebraten <lb/> mit <objectName ref="#butter">Butter</objectName> <lb/> und bey dem Anrichten Senff <lb/> in <objectName ref="#butter">Butter</objectName> begossen <lb/> und über den <objectName ref="#hering">Hering</objectName> gegeben; oder laß den Senff aus <lb/> und nimm Capry <lb/> und wenig Erbes= <objectName ref="#bruehe">Brühe</objectName> in <objectName ref="#butter">Butter</objectName> <lb/> und laß kurtz aufkochen <lb/> und gibs über diesen <objectName ref="#bratfisch">Bratfisch</objectName>. </p>
             </div>
         </body>
     </text>

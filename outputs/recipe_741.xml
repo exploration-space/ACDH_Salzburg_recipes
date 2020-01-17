@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> auf. ain virtl Pradtwein.½. gran <objectName ref="amber">amber</objectName> <lb/> vnd ½ grän <objectName ref="bisam">bisam</objectName>.13. ziweben vnd.24. Stundt <lb/><lb/> stehen lasß in ein glaß, vnd thue den Pisam <lb/> vnd <objectName ref="amber">amber</objectName> in ein flekhl biß schmeckhet wird <lb/> alle zwey woll verbundten mit <objectName ref="papier">Papier</objectName>. <lb/> </p>
+        <p> auf. ain virtl Pradtwein.½. gran <objectName ref="#amber">amber</objectName> <lb/> vnd ½ grän <objectName ref="#bisam">bisam</objectName>.13. ziweben vnd.24. Stundt <lb/><lb/> stehen lasß in ein glaß, vnd thue den Pisam <lb/> vnd <objectName ref="#amber">amber</objectName> in ein flekhl biß schmeckhet wird <lb/> alle zwey woll verbundten mit <objectName ref="#papier">Papier</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

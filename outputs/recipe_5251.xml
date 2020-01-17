@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Bonen <lb/> quell sie in einem <objectName ref="wasser">Wasser</objectName> <lb/> vnd zeuch die Häutlein davon hinweg <lb/> machs eyn mit Erbeßbrüh vnd guter frischer <objectName ref="butter">Butter</objectName> <lb/> auch grünen wolschmeckenden <objectName ref="kraeuter">Kräutern</objectName> <lb/> die klein gehackt seyn <lb/> laß damit auffsieden <lb/> vnd versaltz es nicht <lb/> so werden sie gut vnd wolgeschmack. </p>
+        <p> Nim ( m ) Bonen <lb/> quell sie in einem <objectName ref="#wasser">Wasser</objectName> <lb/> vnd zeuch die Häutlein davon hinweg <lb/> machs eyn mit Erbeßbrüh vnd guter frischer <objectName ref="#butter">Butter</objectName> <lb/> auch grünen wolschmeckenden <objectName ref="#kraeuter">Kräutern</objectName> <lb/> die klein gehackt seyn <lb/> laß damit auffsieden <lb/> vnd versaltz es nicht <lb/> so werden sie gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

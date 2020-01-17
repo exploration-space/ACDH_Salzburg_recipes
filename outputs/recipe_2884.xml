@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> LEge die rohen Stücker in den <objectName ref="rein">Rein</objectName> <lb/> oder Casserol mit <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> oder <objectName ref="wasser">Wasser</objectName> <lb/> sobald er aufsieden will <lb/> so nimm den Fäum darvon <lb/> lege darzu sauber gebutzte <lb/> und in feine Stücklein geschnittene Petersil= Wurtzeln <lb/> mit wenig <objectName ref="pfeffer">Pfeffer</objectName> und Muscatnuß; auf die Letzt wirfft man auch grünen und klein= gehackten Petersil <lb/> mit wenig gelben eingebrennten Meel <lb/> oder Semmel= Brosen darzu <lb/> auch ein wenig frischen <objectName ref="butter">Butter</objectName> <lb/> aber gar zu letzt <lb/> und gibs zur Tafel. </p>
+        <p> LEge die rohen Stücker in den <objectName ref="#rein">Rein</objectName> <lb/> oder Casserol mit <objectName ref="#fleischbruehe">Fleischbrühe</objectName> <lb/> oder <objectName ref="#wasser">Wasser</objectName> <lb/> sobald er aufsieden will <lb/> so nimm den Fäum darvon <lb/> lege darzu sauber gebutzte <lb/> und in feine Stücklein geschnittene Petersil= Wurtzeln <lb/> mit wenig <objectName ref="#pfeffer">Pfeffer</objectName> und Muscatnuß; auf die Letzt wirfft man auch grünen und klein= gehackten Petersil <lb/> mit wenig gelben eingebrennten Meel <lb/> oder Semmel= Brosen darzu <lb/> auch ein wenig frischen <objectName ref="#butter">Butter</objectName> <lb/> aber gar zu letzt <lb/> und gibs zur Tafel. </p>
             </div>
         </body>
     </text>

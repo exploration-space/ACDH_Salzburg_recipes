@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein schönes Mell<gap/>, vnnd Gestoss= <lb/> ne<gap/> Mandl Zuckher vnnd Rosßen <lb/> <objectName ref="wasser">Wasser</objectName>, vnndereinander, Mach es mit <lb/> einen Ayr Doter an, Dass thue <lb/> Auswalgen<gap/>, Kanst, hernach Nimb <lb/> ein Möderl<gap/>, Druckh Die Mandl <lb/> auß, Pach<gap/> es Fein Kiell<gap/> in schmalz<gap/> <lb/> vnnd nit Zu Praun, Richts auf <lb/> ein schisßl<gap/> : so seindt sye Recht. <lb/><lb/> ( re 131 ) </p>
+        <p> Nimb ein schönes Mell<gap/>, vnnd Gestoss= <lb/> ne<gap/> Mandl Zuckher vnnd Rosßen <lb/> <objectName ref="#wasser">Wasser</objectName>, vnndereinander, Mach es mit <lb/> einen Ayr Doter an, Dass thue <lb/> Auswalgen<gap/>, Kanst, hernach Nimb <lb/> ein Möderl<gap/>, Druckh Die Mandl <lb/> auß, Pach<gap/> es Fein Kiell<gap/> in schmalz<gap/> <lb/> vnnd nit Zu Praun, Richts auf <lb/> ein schisßl<gap/> : so seindt sye Recht. <lb/><lb/> ( re 131 ) </p>
             </div>
         </body>
     </text>

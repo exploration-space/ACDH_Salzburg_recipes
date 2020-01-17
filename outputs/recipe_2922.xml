@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ERbes noch jung und grün <lb/> sammt den Hülsen <lb/> oder Zucker= Erbes <lb/> ein wenig überbrüht <lb/> und so dann mit <objectName ref="pfeffer">Pfeffer</objectName> und <objectName ref="butter">Butter</objectName> gelb eingebrennt <lb/> und mit klein= gehacktem Petersil und frischem <objectName ref="butter">Butter</objectName> gar abgemacht <lb/> wie dero Zurichtung schon bey der <objectName ref="suppe">Suppen</objectName> und andern Speisen genugsam beschrieben ist. </p>
+        <p> ERbes noch jung und grün <lb/> sammt den Hülsen <lb/> oder Zucker= Erbes <lb/> ein wenig überbrüht <lb/> und so dann mit <objectName ref="#pfeffer">Pfeffer</objectName> und <objectName ref="#butter">Butter</objectName> gelb eingebrennt <lb/> und mit klein= gehacktem Petersil und frischem <objectName ref="#butter">Butter</objectName> gar abgemacht <lb/> wie dero Zurichtung schon bey der <objectName ref="#suppe">Suppen</objectName> und andern Speisen genugsam beschrieben ist. </p>
             </div>
         </body>
     </text>

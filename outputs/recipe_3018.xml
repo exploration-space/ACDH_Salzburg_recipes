@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIto gebutzt <lb/> und mit <objectName ref="wasser">Wasser</objectName> <lb/> oder Fleischbrüh zugesetzt <lb/> dann mit Zwibel <lb/> wenig <objectName ref="pfeffer">Pfeffer</objectName> <lb/> und geriebnen schwartzen Brod eingebrennt <lb/> und kurtz eingesotten <lb/> so seynd sie auch gut. </p>
+        <p> DIto gebutzt <lb/> und mit <objectName ref="#wasser">Wasser</objectName> <lb/> oder Fleischbrüh zugesetzt <lb/> dann mit Zwibel <lb/> wenig <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> und geriebnen schwartzen Brod eingebrennt <lb/> und kurtz eingesotten <lb/> so seynd sie auch gut. </p>
             </div>
         </body>
     </text>

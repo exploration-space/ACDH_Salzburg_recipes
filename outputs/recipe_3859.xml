@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIse werden blau <lb/> oder heiß abgesotten <lb/> und in einer weissen Butter= <objectName ref="bruehe">Brühe</objectName> mit ausgelößten <objectName ref="austern">Austern</objectName> <lb/> oder solchen Müschelein zur Tafel gegeben. </p>
+        <p> DIse werden blau <lb/> oder heiß abgesotten <lb/> und in einer weissen Butter= <objectName ref="#bruehe">Brühe</objectName> mit ausgelößten <objectName ref="#austern">Austern</objectName> <lb/> oder solchen Müschelein zur Tafel gegeben. </p>
             </div>
         </body>
     </text>

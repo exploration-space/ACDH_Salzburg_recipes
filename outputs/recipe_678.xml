@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChählet die Birn <lb/> giesset in einen <objectName ref="hafen">Hafen</objectName> ein <objectName ref="wasser">Wasser</objectName> daran <lb/> aber nicht gar viel <lb/> lassets sieden biß weich werden <lb/> schwingets indessen offt herum; die Brüh aber muß so dick als wie ein Safft daran einsieden : auch kan man die Birn <lb/> zu Vierteln geschnitten <lb/> ungeschählt kochen <lb/> nachmals mehr <objectName ref="wasser">Wasser</objectName> dazu giessen <lb/> und ein <objectName ref="mehl">Mehl</objectName> daran brennen <lb/> alsdann entweder also an sich selbst <lb/> oder aber über Kalb= oder Lamms=Fleisch anrichten. </p>
+        <p> SChählet die Birn <lb/> giesset in einen <objectName ref="#hafen">Hafen</objectName> ein <objectName ref="#wasser">Wasser</objectName> daran <lb/> aber nicht gar viel <lb/> lassets sieden biß weich werden <lb/> schwingets indessen offt herum; die Brüh aber muß so dick als wie ein Safft daran einsieden : auch kan man die Birn <lb/> zu Vierteln geschnitten <lb/> ungeschählt kochen <lb/> nachmals mehr <objectName ref="#wasser">Wasser</objectName> dazu giessen <lb/> und ein <objectName ref="#mehl">Mehl</objectName> daran brennen <lb/> alsdann entweder also an sich selbst <lb/> oder aber über Kalb= oder Lamms=Fleisch anrichten. </p>
             </div>
         </body>
     </text>

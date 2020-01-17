@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Item <lb/> geuß in ein gantz <objectName ref="fuder">Fuder</objectName> <objectName ref="wein">Wein</objectName> ein viertheil Aqua vitae, von gutem <objectName ref="wein">Wein</objectName> gebrennt <lb/> so wirdt er nicht seiger <lb/> oder mißfarb <lb/> sondern lauter <lb/> klar vnd wolgeschmack <lb/> dieweil der wehret <lb/> zu trincken. Das thu im Herbst <lb/> wenn er geret. </p>
+        <p> Item <lb/> geuß in ein gantz <objectName ref="#fuder">Fuder</objectName> <objectName ref="#wein">Wein</objectName> ein viertheil Aqua vitae, von gutem <objectName ref="#wein">Wein</objectName> gebrennt <lb/> so wirdt er nicht seiger <lb/> oder mißfarb <lb/> sondern lauter <lb/> klar vnd wolgeschmack <lb/> dieweil der wehret <lb/> zu trincken. Das thu im Herbst <lb/> wenn er geret. </p>
             </div>
         </body>
     </text>

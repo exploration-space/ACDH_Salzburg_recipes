@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimm gute <objectName ref="milch">Milch</objectName> <lb/> die erst gemolcken ist <lb/> thue sie in einen saubern verglaßirten <objectName ref="hafen">Hafen</objectName> <lb/> stoß gescheelte <objectName ref="mandeln">Mandeln</objectName> <lb/> gantz klein <lb/> thus darein <lb/> nimm vier oder fünff Eyer <lb/> schlags darein <lb/> thus zerrittlen <lb/> oder absprittlen <lb/> zuckere es wol <lb/> beliebts <lb/> so nimm wenig Rossenwasser darunter <lb/> setz es auf ein Glütlein <lb/> rührs alleweil <lb/> daß es nicht anbrennt <lb/> wanns dicklecht wird <lb/> richts an <lb/> oder treibs durch <lb/> in ein <objectName ref="schuessel">Schüssel</objectName> <lb/> laß kalt werden <lb/> und gibs also. </p>
+        <p> Nimm gute <objectName ref="#milch">Milch</objectName> <lb/> die erst gemolcken ist <lb/> thue sie in einen saubern verglaßirten <objectName ref="#hafen">Hafen</objectName> <lb/> stoß gescheelte <objectName ref="#mandeln">Mandeln</objectName> <lb/> gantz klein <lb/> thus darein <lb/> nimm vier oder fünff Eyer <lb/> schlags darein <lb/> thus zerrittlen <lb/> oder absprittlen <lb/> zuckere es wol <lb/> beliebts <lb/> so nimm wenig Rossenwasser darunter <lb/> setz es auf ein Glütlein <lb/> rührs alleweil <lb/> daß es nicht anbrennt <lb/> wanns dicklecht wird <lb/> richts an <lb/> oder treibs durch <lb/> in ein <objectName ref="#schuessel">Schüssel</objectName> <lb/> laß kalt werden <lb/> und gibs also. </p>
             </div>
         </body>
     </text>

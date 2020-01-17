@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wenn mans warm wil geben <lb/> so seuds ab im <objectName ref="wasser">Wasser</objectName> <lb/> nim ( m ) s darauß <lb/> vnd legs auff ein Roßt <lb/> truckens ab <lb/> nim ( m ) sauren Senff <lb/> <objectName ref="butter">Butter</objectName> <lb/> vnnd ein wenig Erbsbrüh <lb/> laß darmit auffsieden <lb/> vnd thu ein wenig klein geschnittene Pettersilgen darein <lb/> so werden siw auch gut seyn. </p>
+        <p> Wenn mans warm wil geben <lb/> so seuds ab im <objectName ref="#wasser">Wasser</objectName> <lb/> nim ( m ) s darauß <lb/> vnd legs auff ein Roßt <lb/> truckens ab <lb/> nim ( m ) sauren Senff <lb/> <objectName ref="#butter">Butter</objectName> <lb/> vnnd ein wenig Erbsbrüh <lb/> laß darmit auffsieden <lb/> vnd thu ein wenig klein geschnittene Pettersilgen darein <lb/> so werden siw auch gut seyn. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb.1. Bouch : d´aqa wie oben lege <lb/> darein Staudt grien finochio <lb/> sambt :80 : kern Anneis laß stehen ain <lb/> Stundt seich es mische darunter <lb/> 6. lott : zuckher vnd.2. lemonj den Safft, <lb/> <objectName ref="amber">amber</objectName> et m : w : bl. gieß in daß gschier <lb/> vnd laß gfrürn. <lb/> </p>
+        <p> Nimb.1. Bouch : d´aqa wie oben lege <lb/> darein Staudt grien finochio <lb/> sambt :80 : kern Anneis laß stehen ain <lb/> Stundt seich es mische darunter <lb/> 6. lott : zuckher vnd.2. lemonj den Safft, <lb/> <objectName ref="#amber">amber</objectName> et m : w : bl. gieß in daß gschier <lb/> vnd laß gfrürn. <lb/> </p>
             </div>
         </body>
     </text>

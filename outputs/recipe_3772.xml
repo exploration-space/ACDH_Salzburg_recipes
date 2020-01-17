@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ES können auch Roll= Würstlein <lb/> oder Andouille, oder sogenannte kälberne <objectName ref="voegel">Vögel</objectName> daraus gemacht werden. </p>
+        <p> ES können auch Roll= Würstlein <lb/> oder Andouille, oder sogenannte kälberne <objectName ref="#voegel">Vögel</objectName> daraus gemacht werden. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Gehackt saúres <objectName ref="kraut">Kraut</objectName> ist auch nicht böß <lb/> wenns gesotten ist <lb/> so macht mans ab mit saurem Rahm vnd <objectName ref="butter">Butter</objectName>. </p>
+        <p> Gehackt saúres <objectName ref="#kraut">Kraut</objectName> ist auch nicht böß <lb/> wenns gesotten ist <lb/> so macht mans ab mit saurem Rahm vnd <objectName ref="#butter">Butter</objectName>. </p>
             </div>
         </body>
     </text>

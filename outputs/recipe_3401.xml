@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAche die Brexen am Bauch auf <lb/> nimm das Eingeweid heraus <lb/> wasche sie sauber <lb/> sieds entweder im Saltzwasser <lb/> oder auch wie andere im Gebrauch haben <lb/> im <objectName ref="wein">Wein</objectName> und <objectName ref="essig">Essig</objectName>; wann sie genug gesotten <lb/> legs in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> bestreue sie mit Petersilien= <objectName ref="kraut">Kraut</objectName> <lb/> trags zu <objectName ref="tisch">Tisch</objectName> <lb/> und setze Rosen= oder andern <objectName ref="essig">Essig</objectName> dazu. </p>
+        <p> MAche die Brexen am Bauch auf <lb/> nimm das Eingeweid heraus <lb/> wasche sie sauber <lb/> sieds entweder im Saltzwasser <lb/> oder auch wie andere im Gebrauch haben <lb/> im <objectName ref="#wein">Wein</objectName> und <objectName ref="#essig">Essig</objectName>; wann sie genug gesotten <lb/> legs in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> bestreue sie mit Petersilien= <objectName ref="#kraut">Kraut</objectName> <lb/> trags zu <objectName ref="#tisch">Tisch</objectName> <lb/> und setze Rosen= oder andern <objectName ref="#essig">Essig</objectName> dazu. </p>
             </div>
         </body>
     </text>

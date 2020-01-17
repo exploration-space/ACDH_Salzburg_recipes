@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr Heydel oder Buchweitzen muß erstlich mit einem siedenden <objectName ref="wasser">Wasser</objectName> wol fünffmal abgebrühet werden : alsdann seihet man das <objectName ref="wasser">Wasser</objectName> durch einen <objectName ref="seiher">Seiher</objectName> davon herab <lb/> thut ihn in einen <objectName ref="hafen">Hafen</objectName> <lb/> giesst eine gute <objectName ref="fleischbruehe">Fleischbrühe</objectName> daran <lb/> wie auch <objectName ref="pfeffer">Pfeffer</objectName> und ein Bach= oder Gans= Schmaltz <lb/> läst ihn wohl sieden <lb/> daß er nicht zu dick <lb/> auch nicht zu dünn werde : würfft Saltz darein nach belieben <lb/> und richtet ihn an. </p>
+        <p> DEr Heydel oder Buchweitzen muß erstlich mit einem siedenden <objectName ref="#wasser">Wasser</objectName> wol fünffmal abgebrühet werden : alsdann seihet man das <objectName ref="#wasser">Wasser</objectName> durch einen <objectName ref="#seiher">Seiher</objectName> davon herab <lb/> thut ihn in einen <objectName ref="#hafen">Hafen</objectName> <lb/> giesst eine gute <objectName ref="#fleischbruehe">Fleischbrühe</objectName> daran <lb/> wie auch <objectName ref="#pfeffer">Pfeffer</objectName> und ein Bach= oder Gans= Schmaltz <lb/> läst ihn wohl sieden <lb/> daß er nicht zu dick <lb/> auch nicht zu dünn werde : würfft Saltz darein nach belieben <lb/> und richtet ihn an. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> hiz ein Merser beÿ dem <objectName ref="feuer">feuer</objectName>, Wall ein <objectName ref="wasser">Wasser</objectName> in einer Pfan, vnd <lb/> geuß Siedent in den Merser, so seuds in Merser auf, Eÿl vnd schit <lb/> schens mell drein, das böhr im Siedenten <objectName ref="wasser">Wasser</objectName> durcheinander, nur <lb/> das Zimblich dikh seÿ, stosß ihn lang ehe du die aÿr drein schlegst, dar= <lb/> nach Wan er ein khielen taig gleich sicht, so schlag die aÿr drein, <lb/> bachs nit Zu haiß, Werden hipsch rogl. <lb/> </p>
+        <p> hiz ein Merser beÿ dem <objectName ref="#feuer">feuer</objectName>, Wall ein <objectName ref="#wasser">Wasser</objectName> in einer Pfan, vnd <lb/> geuß Siedent in den Merser, so seuds in Merser auf, Eÿl vnd schit <lb/> schens mell drein, das böhr im Siedenten <objectName ref="#wasser">Wasser</objectName> durcheinander, nur <lb/> das Zimblich dikh seÿ, stosß ihn lang ehe du die aÿr drein schlegst, dar= <lb/> nach Wan er ein khielen taig gleich sicht, so schlag die aÿr drein, <lb/> bachs nit Zu haiß, Werden hipsch rogl. <lb/> </p>
             </div>
         </body>
     </text>

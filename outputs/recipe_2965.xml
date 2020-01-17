@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm grosse <objectName ref="kohlrabi">Kohlrabi</objectName> <lb/> scheele und schneide sie zu Spalten <lb/> oder halb <lb/> übersieds <lb/> biß sie ein wenig weich werden <lb/> dann hohle sie aus <lb/> fülls <lb/> und verfahre damit wie mit den gefüllten Cucummern <lb/> und Köhl gehört <lb/> oder richts in <objectName ref="ofen">Ofen</objectName>. </p>
+        <p> NImm grosse <objectName ref="#kohlrabi">Kohlrabi</objectName> <lb/> scheele und schneide sie zu Spalten <lb/> oder halb <lb/> übersieds <lb/> biß sie ein wenig weich werden <lb/> dann hohle sie aus <lb/> fülls <lb/> und verfahre damit wie mit den gefüllten Cucummern <lb/> und Köhl gehört <lb/> oder richts in <objectName ref="#ofen">Ofen</objectName>. </p>
             </div>
         </body>
     </text>

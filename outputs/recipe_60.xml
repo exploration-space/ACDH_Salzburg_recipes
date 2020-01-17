@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein Stuckh<gap/> Stockhfisch Klaube<gap/> In aus <lb/> schmirbe<gap/> ein schisßl<gap/> mit <objectName ref="butter">butter</objectName> richte <lb/> den Stockhfisch darein Gewirz<gap/> vnd Ge= <lb/> stossene<gap/> Fenichel, darein alzeit ein leg<gap/> <lb/> stockhfisch<gap/> vnnd ein leg <objectName ref="butter">butter</objectName> auch <lb/> fenichel<gap/> Endtzwischen <objectName ref="salz">salz</objectName> auch mit, <lb/> lass Ihme Preglen<gap/> vnd gib Ihme auf die <lb/> Dafel. <lb/><lb/> ( ve 21 ) </p>
+        <p> Nimb ein Stuckh<gap/> Stockhfisch Klaube<gap/> In aus <lb/> schmirbe<gap/> ein schisßl<gap/> mit <objectName ref="#butter">butter</objectName> richte <lb/> den Stockhfisch darein Gewirz<gap/> vnd Ge= <lb/> stossene<gap/> Fenichel, darein alzeit ein leg<gap/> <lb/> stockhfisch<gap/> vnnd ein leg <objectName ref="#butter">butter</objectName> auch <lb/> fenichel<gap/> Endtzwischen <objectName ref="#salz">salz</objectName> auch mit, <lb/> lass Ihme Preglen<gap/> vnd gib Ihme auf die <lb/> Dafel. <lb/><lb/> ( ve 21 ) </p>
             </div>
         </body>
     </text>

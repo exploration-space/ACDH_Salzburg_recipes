@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Dieser <lb/> nachdem er ausgewaschen <lb/> wird mit siediger <objectName ref="milch">Milch</objectName> angeschwellt und zugedeckt <lb/> damit er leichter anziehet <lb/> und hernach im heissen Schmaltz gedämpfft <lb/> und auf die letzt mit <objectName ref="butter">Butter</objectName> und nothwendigem Saltz versehen. </p>
+        <p> Dieser <lb/> nachdem er ausgewaschen <lb/> wird mit siediger <objectName ref="#milch">Milch</objectName> angeschwellt und zugedeckt <lb/> damit er leichter anziehet <lb/> und hernach im heissen Schmaltz gedämpfft <lb/> und auf die letzt mit <objectName ref="#butter">Butter</objectName> und nothwendigem Saltz versehen. </p>
             </div>
         </body>
     </text>

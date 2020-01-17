@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> EInen eynheimischen <objectName ref="igel">Igel</objectName> kanstu zum Braten oder eynmachen nemmen <lb/> Auch ist es gut in <objectName ref="pastete">Pasteten</objectName> <lb/> sonderlich wenn mans kalt eynmacht <lb/> daß man die Haut abzeucht <lb/> vnd auff die <objectName ref="pastete">Pasteten</objectName> auff die Deck macht. </p>
+        <p> EInen eynheimischen <objectName ref="#igel">Igel</objectName> kanstu zum Braten oder eynmachen nemmen <lb/> Auch ist es gut in <objectName ref="#pastete">Pasteten</objectName> <lb/> sonderlich wenn mans kalt eynmacht <lb/> daß man die Haut abzeucht <lb/> vnd auff die <objectName ref="#pastete">Pasteten</objectName> auff die Deck macht. </p>
             </div>
         </body>
     </text>

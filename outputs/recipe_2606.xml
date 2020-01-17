@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet <objectName ref="mispeln">Mispeln</objectName> oder Hespelein die noch ein wenig hart und nicht gar zeitig seyn <lb/> mischet sie ab und stechet oben etliche Löchlein mit einem Pfriemen darein <lb/> doch daß sie nicht durchaus gehen; legets alsdann in einen <objectName ref="tiegel">Tiegel</objectName> oder <objectName ref="glas">Glas</objectName> <lb/> giesset einen geläuterten und übersottenen <objectName ref="zucker">Zucker</objectName> darüber <lb/> beschwerets <lb/> und lassets also stehen; wollte nach etlichen Tagen der <objectName ref="zucker">Zucker</objectName> wässericht werden <lb/> kann man ihn noch zwey oder dreymahl übersieden <lb/> wie bereits vielfältig erinnert worden. </p>
+        <p> NEhmet <objectName ref="#mispeln">Mispeln</objectName> oder Hespelein die noch ein wenig hart und nicht gar zeitig seyn <lb/> mischet sie ab und stechet oben etliche Löchlein mit einem Pfriemen darein <lb/> doch daß sie nicht durchaus gehen; legets alsdann in einen <objectName ref="#tiegel">Tiegel</objectName> oder <objectName ref="#glas">Glas</objectName> <lb/> giesset einen geläuterten und übersottenen <objectName ref="#zucker">Zucker</objectName> darüber <lb/> beschwerets <lb/> und lassets also stehen; wollte nach etlichen Tagen der <objectName ref="#zucker">Zucker</objectName> wässericht werden <lb/> kann man ihn noch zwey oder dreymahl übersieden <lb/> wie bereits vielfältig erinnert worden. </p>
             </div>
         </body>
     </text>

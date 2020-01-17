@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BRäun auf obbesagte Weiß <lb/> das gesottene Maul von Ochsen <lb/> auf dem <objectName ref="rost">Rost</objectName> <lb/> und ändere die <objectName ref="bruehe">Brühe</objectName> <lb/> an statt des Knoblauchs und <objectName ref="sardellen">Sardellen</objectName> <lb/> mit Capry und Lemoni=Schaalen; und gibs ein wenig. </p>
+        <p> BRäun auf obbesagte Weiß <lb/> das gesottene Maul von Ochsen <lb/> auf dem <objectName ref="#rost">Rost</objectName> <lb/> und ändere die <objectName ref="#bruehe">Brühe</objectName> <lb/> an statt des Knoblauchs und <objectName ref="#sardellen">Sardellen</objectName> <lb/> mit Capry und Lemoni=Schaalen; und gibs ein wenig. </p>
             </div>
         </body>
     </text>

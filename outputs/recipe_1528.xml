@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Mandlen nach deinen gefahlen, Stoß die nit gar Clein, <lb/> nimb auch Semmel schmollen, die in obere <objectName ref="milch">milch</objectName> gewaicht ist, Stoß <lb/> die auch darunter, zuckhers daß genueg ist, alß dan thues in ein <lb/> schisßl, Zuuor aber muesst einen guetten brockhen <objectName ref="butter">butter</objectName>, vnder die <lb/> Mandl Stosßen, Alß dan schlag Ayr vmd ein syesßen milchrämb <lb/> darunter, daß wirdt wie ein dickhes Koch, daß man anmachen <lb/> will, bachs fein Küell, aber es mues nit braun werdten, dann <lb/> man mues stehts riehren, es mues fein röglich werdten, alßdan <lb/> ists wie ein schmalzkhoch, wan man will, Kan die <objectName ref="milch">milch</objectName>, mit <lb/> Krepßen gefärbt werdten. <lb/>. </p>
+        <p> Nimb Mandlen nach deinen gefahlen, Stoß die nit gar Clein, <lb/> nimb auch Semmel schmollen, die in obere <objectName ref="#milch">milch</objectName> gewaicht ist, Stoß <lb/> die auch darunter, zuckhers daß genueg ist, alß dan thues in ein <lb/> schisßl, Zuuor aber muesst einen guetten brockhen <objectName ref="#butter">butter</objectName>, vnder die <lb/> Mandl Stosßen, Alß dan schlag Ayr vmd ein syesßen milchrämb <lb/> darunter, daß wirdt wie ein dickhes Koch, daß man anmachen <lb/> will, bachs fein Küell, aber es mues nit braun werdten, dann <lb/> man mues stehts riehren, es mues fein röglich werdten, alßdan <lb/> ists wie ein schmalzkhoch, wan man will, Kan die <objectName ref="#milch">milch</objectName>, mit <lb/> Krepßen gefärbt werdten. <lb/>. </p>
             </div>
         </body>
     </text>

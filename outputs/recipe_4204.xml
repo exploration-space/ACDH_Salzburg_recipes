@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr <objectName ref="stockfisch">Stockfisch</objectName> kan auch mit Zwibel <lb/> hart= gesottenen Eyerdottern <lb/> guten Kräutlein <lb/> Semmel= Brosen <lb/> Pinioli, Capry und <objectName ref="sardellen">Sardellen</objectName> <lb/> alles klein gehackt <lb/> sammt gut Gewürtz und <objectName ref="butter">Butter</objectName> <lb/> mit <lb/> oder ohne Weinbeerlein <lb/> in die <objectName ref="pastete">Pasteten</objectName> gemacht und eingeschlagen werden. NB. Wann die Weinbeerlein ausbleiben <lb/> so können etliche Wochholderbeer zertruckter darunter genommen werden. </p>
+        <p> DEr <objectName ref="#stockfisch">Stockfisch</objectName> kan auch mit Zwibel <lb/> hart= gesottenen Eyerdottern <lb/> guten Kräutlein <lb/> Semmel= Brosen <lb/> Pinioli, Capry und <objectName ref="#sardellen">Sardellen</objectName> <lb/> alles klein gehackt <lb/> sammt gut Gewürtz und <objectName ref="#butter">Butter</objectName> <lb/> mit <lb/> oder ohne Weinbeerlein <lb/> in die <objectName ref="#pastete">Pasteten</objectName> gemacht und eingeschlagen werden. NB. Wann die Weinbeerlein ausbleiben <lb/> so können etliche Wochholderbeer zertruckter darunter genommen werden. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Die <objectName ref="lunge">Lungen</objectName> und <objectName ref="leber">Leber</objectName> von Ochsen oder Rind <lb/> kan auf gleiche Weiß <lb/> wie bey dem <objectName ref="kalb">Kalb</objectName> zu vernehmen <lb/> geröst <lb/> gehackt <lb/> gebraten <lb/> verkocht <lb/> oder sonst zur Füll gemacht <lb/> und zugericht werden; will mich aber darbey nicht aufhalten <lb/> massen solches vor keine vornehme Tafel <lb/> noch vor Schwache und Krancke gehört. </p>
+        <p> Die <objectName ref="#lunge">Lungen</objectName> und <objectName ref="#leber">Leber</objectName> von Ochsen oder Rind <lb/> kan auf gleiche Weiß <lb/> wie bey dem <objectName ref="#kalb">Kalb</objectName> zu vernehmen <lb/> geröst <lb/> gehackt <lb/> gebraten <lb/> verkocht <lb/> oder sonst zur Füll gemacht <lb/> und zugericht werden; will mich aber darbey nicht aufhalten <lb/> massen solches vor keine vornehme Tafel <lb/> noch vor Schwache und Krancke gehört. </p>
             </div>
         </body>
     </text>

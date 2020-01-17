@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb 1 firtung<gap/> butter<gap/>, rihrn<gap/> in degl<gap/> ab, <lb/> wöge<gap/> einen kleinen firtung<gap/> zuckher<gap/> hinein, siede<gap/> <lb/> 4 oder 5 ayr<gap/> hardt, thue die doter<gap/> herauß, <lb/> hackhs<gap/> klein, thues in degl<gap/>, rihr<gap/> ihm wohl ab, <lb/> nimb ein wenig mehr, alß 1 firtung<gap/> mehl<gap/>, rihrs<gap/> <lb/> auch drein, <objectName ref="salz">salz</objectName> ein wenig nimb auch lemoni<gap/> <lb/> safft<gap/>, und schöllen<gap/> drein, mach ihm auß, ist guet. <lb/> </p>
+        <p> Nimb 1 firtung<gap/> butter<gap/>, rihrn<gap/> in degl<gap/> ab, <lb/> wöge<gap/> einen kleinen firtung<gap/> zuckher<gap/> hinein, siede<gap/> <lb/> 4 oder 5 ayr<gap/> hardt, thue die doter<gap/> herauß, <lb/> hackhs<gap/> klein, thues in degl<gap/>, rihr<gap/> ihm wohl ab, <lb/> nimb ein wenig mehr, alß 1 firtung<gap/> mehl<gap/>, rihrs<gap/> <lb/> auch drein, <objectName ref="#salz">salz</objectName> ein wenig nimb auch lemoni<gap/> <lb/> safft<gap/>, und schöllen<gap/> drein, mach ihm auß, ist guet. <lb/> </p>
             </div>
         </body>
     </text>

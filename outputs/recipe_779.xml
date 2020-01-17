@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Richte die gescheelte <lb/> oder auch ungescheelte gantze Birn <lb/> mit gantzem Zimmet <lb/> Zuckerkandel <lb/> und einem Stücklein <objectName ref="butter">Butter</objectName> <lb/> in ein verzinntes <lb/> oder erdenes wol verschloßnes <objectName ref="geschirr">Geschirr</objectName> <lb/> laß im warmen <objectName ref="ofen">Ofen</objectName> braten <lb/> biß sie genug seynd <lb/> gibs wol warmer <lb/> mit <objectName ref="zucker">Zucker</objectName> bestreuter zur Tafel. </p>
+        <p> Richte die gescheelte <lb/> oder auch ungescheelte gantze Birn <lb/> mit gantzem Zimmet <lb/> Zuckerkandel <lb/> und einem Stücklein <objectName ref="#butter">Butter</objectName> <lb/> in ein verzinntes <lb/> oder erdenes wol verschloßnes <objectName ref="#geschirr">Geschirr</objectName> <lb/> laß im warmen <objectName ref="#ofen">Ofen</objectName> braten <lb/> biß sie genug seynd <lb/> gibs wol warmer <lb/> mit <objectName ref="#zucker">Zucker</objectName> bestreuter zur Tafel. </p>
             </div>
         </body>
     </text>

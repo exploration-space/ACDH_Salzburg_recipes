@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Kleine <objectName ref="schwalben">Schwalben</objectName> seind sonderlich gut zum Braten. </p>
+        <p> Kleine <objectName ref="#schwalben">Schwalben</objectName> seind sonderlich gut zum Braten. </p>
             </div>
         </body>
     </text>

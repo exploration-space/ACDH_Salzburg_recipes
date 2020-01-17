@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> LAst eine gute Handvoll <objectName ref="mandeln">Mandeln</objectName> klein stossen <lb/> schneidet einen oder zwey Aepffel <lb/> dazu die Parsdörffer am besten dienen <lb/> gleichfalls klein <lb/> stosst sie dann mit den <objectName ref="mandeln">Mandeln</objectName> ab <lb/> treibts mit <objectName ref="wein">Wein</objectName> durch einen <objectName ref="durchschlag">Durchschlag</objectName> <lb/> lasts ein wenig sieden <lb/> giesst zu letzt etwas <objectName ref="essig">Essig</objectName> daran <lb/> würtzet es mit Cardamomen <lb/> Muscaten= Blüh und vielen Zimmet <lb/> zuckerts nach belieben <lb/> und richtets dann über das Gebratens. </p>
+        <p> LAst eine gute Handvoll <objectName ref="#mandeln">Mandeln</objectName> klein stossen <lb/> schneidet einen oder zwey Aepffel <lb/> dazu die Parsdörffer am besten dienen <lb/> gleichfalls klein <lb/> stosst sie dann mit den <objectName ref="#mandeln">Mandeln</objectName> ab <lb/> treibts mit <objectName ref="#wein">Wein</objectName> durch einen <objectName ref="#durchschlag">Durchschlag</objectName> <lb/> lasts ein wenig sieden <lb/> giesst zu letzt etwas <objectName ref="#essig">Essig</objectName> daran <lb/> würtzet es mit Cardamomen <lb/> Muscaten= Blüh und vielen Zimmet <lb/> zuckerts nach belieben <lb/> und richtets dann über das Gebratens. </p>
             </div>
         </body>
     </text>

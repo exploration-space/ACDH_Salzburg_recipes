@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Ruckenbrot <lb/> reib vnd rößt es in <objectName ref="butter">Butter</objectName> oder in Schweinen schmaltz <lb/> nim ( m ) ein gute Rindtfleischbrüh <lb/> vnd machs darmit an <lb/> du magst es saur machen oder nicht <lb/> ist es auff beyde manier gut <lb/> Vnd wenn der <objectName ref="pfeffer">Pfeffer</objectName> gemacht ist <lb/> so thu das Wildpret darein <lb/> das vorhin an die statt gesotten ist. Zu solchem <objectName ref="pfeffer">Pfeffer</objectName> darff man kein Gewürtz. </p>
+        <p> Nim ( m ) Ruckenbrot <lb/> reib vnd rößt es in <objectName ref="#butter">Butter</objectName> oder in Schweinen schmaltz <lb/> nim ( m ) ein gute Rindtfleischbrüh <lb/> vnd machs darmit an <lb/> du magst es saur machen oder nicht <lb/> ist es auff beyde manier gut <lb/> Vnd wenn der <objectName ref="#pfeffer">Pfeffer</objectName> gemacht ist <lb/> so thu das Wildpret darein <lb/> das vorhin an die statt gesotten ist. Zu solchem <objectName ref="#pfeffer">Pfeffer</objectName> darff man kein Gewürtz. </p>
             </div>
         </body>
     </text>

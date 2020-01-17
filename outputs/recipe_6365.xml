@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Espeln <lb/> wenn sie dürr seyn <lb/> kochs mit <objectName ref="wasser">Wasser</objectName> <lb/> vnnd thu ein wenig <objectName ref="butter">Butter</objectName> daran <lb/> wenn sie gesotten <lb/> so <objectName ref="zucker">zucker</objectName> sie <lb/> vnnd gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> so seind sie gut vnd wolgeschmack. </p>
+        <p> Nim ( m ) Espeln <lb/> wenn sie dürr seyn <lb/> kochs mit <objectName ref="#wasser">Wasser</objectName> <lb/> vnnd thu ein wenig <objectName ref="#butter">Butter</objectName> daran <lb/> wenn sie gesotten <lb/> so <objectName ref="#zucker">zucker</objectName> sie <lb/> vnnd gibs warm auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> so seind sie gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

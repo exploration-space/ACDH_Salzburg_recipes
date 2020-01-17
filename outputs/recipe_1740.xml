@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Mußcatblüe, <objectName ref="pfeffer">Pfeffer</objectName>, vnd stosß Petersill <lb/> Perchtramb klain, vnd trukh den Safft dar= <lb/> =uon, mach die Supen Grien daruon, gewürz <lb/> woll mit Imber, <objectName ref="pfeffer">Pfeffer</objectName>, vnd zuggers woll. <lb/> </p>
+        <p> Mußcatblüe, <objectName ref="#pfeffer">Pfeffer</objectName>, vnd stosß Petersill <lb/> Perchtramb klain, vnd trukh den Safft dar= <lb/> =uon, mach die Supen Grien daruon, gewürz <lb/> woll mit Imber, <objectName ref="#pfeffer">Pfeffer</objectName>, vnd zuggers woll. <lb/> </p>
             </div>
         </body>
     </text>

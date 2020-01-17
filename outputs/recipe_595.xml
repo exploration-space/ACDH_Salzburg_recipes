@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim außgebissenen zimmet 1. loht <lb/> <objectName ref="zucker">zucker</objectName> 7. loht <lb/> sied den <objectName ref="zucker">zucker</objectName> mit <objectName ref="rosenwasser">Rosenwasser</objectName> wie du weist <lb/> vnd so er gesotten ist <lb/> rühre zu letzt den zimmet darein <lb/> vnnd mach Zeltlein darauß. </p>
+        <p> Nim außgebissenen zimmet 1. loht <lb/> <objectName ref="#zucker">zucker</objectName> 7. loht <lb/> sied den <objectName ref="#zucker">zucker</objectName> mit <objectName ref="#rosenwasser">Rosenwasser</objectName> wie du weist <lb/> vnd so er gesotten ist <lb/> rühre zu letzt den zimmet darein <lb/> vnnd mach Zeltlein darauß. </p>
             </div>
         </body>
     </text>

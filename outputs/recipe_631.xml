@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> STutze die <objectName ref="artischocken">Artischocken</objectName> <lb/> schneid die gröbsten Blätter weg <lb/> und wann sie groß seynd <lb/> mache acht Theil daraus <lb/> schneid den Peltz heraus <lb/> überbrenns <lb/> biß sie weich genug <lb/> aber gleichwol die Blätter noch behalten <lb/> seihs ab <lb/> und kühls aus <lb/> saltz und gewürtze die <objectName ref="artischocken">Artischocken</objectName> <lb/> mache einen Taig von Mund= Meel <lb/> als wie einen Salbey= Taig <lb/> mach Schmaltz [ 104 ] heiß <lb/> und duncke die <objectName ref="artischocken">Artischocken</objectName> mit dem Kern in Taig <lb/> und bachs schön Liecht= braun. NB. Man kans auch aus dünnem Brand= Taig gedauchter <lb/> also bachen. </p>
+        <p> STutze die <objectName ref="#artischocken">Artischocken</objectName> <lb/> schneid die gröbsten Blätter weg <lb/> und wann sie groß seynd <lb/> mache acht Theil daraus <lb/> schneid den Peltz heraus <lb/> überbrenns <lb/> biß sie weich genug <lb/> aber gleichwol die Blätter noch behalten <lb/> seihs ab <lb/> und kühls aus <lb/> saltz und gewürtze die <objectName ref="#artischocken">Artischocken</objectName> <lb/> mache einen Taig von Mund= Meel <lb/> als wie einen Salbey= Taig <lb/> mach Schmaltz [ 104 ] heiß <lb/> und duncke die <objectName ref="#artischocken">Artischocken</objectName> mit dem Kern in Taig <lb/> und bachs schön Liecht= braun. NB. Man kans auch aus dünnem Brand= Taig gedauchter <lb/> also bachen. </p>
             </div>
         </body>
     </text>

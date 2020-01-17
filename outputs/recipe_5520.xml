@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Kern von <objectName ref="datteln">Datteln</objectName> <lb/> vnd stoß sie <lb/> streich sie mit <objectName ref="wein">Wein</objectName> durch <lb/> mach sie darnach gelb vnd süß <lb/> setz auff <lb/> vnd laß ein Sudt auffthun <lb/> thu ein wenig <objectName ref="butter">Butter</objectName> darauff <lb/> vnd laß damit sieden <lb/> so wirt es ein gute <objectName ref="suppe">Suppen</objectName>. </p>
+        <p> Nim ( m ) Kern von <objectName ref="#datteln">Datteln</objectName> <lb/> vnd stoß sie <lb/> streich sie mit <objectName ref="#wein">Wein</objectName> durch <lb/> mach sie darnach gelb vnd süß <lb/> setz auff <lb/> vnd laß ein Sudt auffthun <lb/> thu ein wenig <objectName ref="#butter">Butter</objectName> darauff <lb/> vnd laß damit sieden <lb/> so wirt es ein gute <objectName ref="#suppe">Suppen</objectName>. </p>
             </div>
         </body>
     </text>

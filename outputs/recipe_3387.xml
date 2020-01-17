@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BAche die Ruppen <lb/> wie erst gedacht <lb/> nimm dann einen guten <objectName ref="wein">Wein</objectName> <lb/> thue <objectName ref="zucker">Zucker</objectName> <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Ingber <lb/> Saffran und Cardamomen daran <lb/> laß aufsieden <lb/> und richte diese Brüh über die gebachene Ruppen. DIe Ruppen können auch <lb/> gleich denen <objectName ref="forelle">Forellen</objectName> und Pirsingen <lb/> wie Orade eingemacht werden. Besiehe hievon Num. 21. 132. 133. 134. Doch pflegt sich die Brüh bey diesen Fischen gemeiniglich zu sultzen. </p>
+        <p> BAche die Ruppen <lb/> wie erst gedacht <lb/> nimm dann einen guten <objectName ref="#wein">Wein</objectName> <lb/> thue <objectName ref="#zucker">Zucker</objectName> <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Ingber <lb/> Saffran und Cardamomen daran <lb/> laß aufsieden <lb/> und richte diese Brüh über die gebachene Ruppen. DIe Ruppen können auch <lb/> gleich denen <objectName ref="#forelle">Forellen</objectName> und Pirsingen <lb/> wie Orade eingemacht werden. Besiehe hievon Num. 21. 132. 133. 134. Doch pflegt sich die Brüh bey diesen Fischen gemeiniglich zu sultzen. </p>
             </div>
         </body>
     </text>

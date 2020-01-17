@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein frischen putter in ein Weid <lb/> ling<gap/>, vnnd treib<gap/> ihn ab, schlag die <lb/> Ayr<gap/> eins nach den andern Darein, <lb/> Gies<gap/> ein wenig siess obers<gap/>, <objectName ref="salz">salz</objectName> <lb/> vnnd thue Preßl<gap/> oder <objectName ref="mehl">mehl</objectName> Darunter <lb/> Riehren<gap/>, Das aber nit die khnödl <lb/> Zerfallen, Dan so siedts<gap/> in <objectName ref="wasser">wasser</objectName> <lb/> oder <objectName ref="fleisch">fleisch</objectName> brie<gap/>, khanst wans Gesodten<gap/> <lb/><lb/> ( ve 177 ) seindt, thue ein Guettes sippl<gap/> Darein <lb/> Giessen<gap/> sye seindt Guett. <lb/> </p>
+        <p> Nimb ein frischen putter in ein Weid <lb/> ling<gap/>, vnnd treib<gap/> ihn ab, schlag die <lb/> Ayr<gap/> eins nach den andern Darein, <lb/> Gies<gap/> ein wenig siess obers<gap/>, <objectName ref="#salz">salz</objectName> <lb/> vnnd thue Preßl<gap/> oder <objectName ref="#mehl">mehl</objectName> Darunter <lb/> Riehren<gap/>, Das aber nit die khnödl <lb/> Zerfallen, Dan so siedts<gap/> in <objectName ref="#wasser">wasser</objectName> <lb/> oder <objectName ref="#fleisch">fleisch</objectName> brie<gap/>, khanst wans Gesodten<gap/> <lb/><lb/> ( ve 177 ) seindt, thue ein Guettes sippl<gap/> Darein <lb/> Giessen<gap/> sye seindt Guett. <lb/> </p>
             </div>
         </body>
     </text>

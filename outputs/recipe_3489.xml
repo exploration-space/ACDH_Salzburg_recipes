@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Potarga betreffend <lb/> ist ein guter <lb/> in Fisch= Haut gebratener gelber Fisch= Rogen <lb/> wann er noch frisch und gut ist <lb/> so wird der gleich also <lb/> wie ein Zerbeladä= <objectName ref="wurst">Wurst</objectName> aufgeschnitten <lb/> und ohne die Haut <lb/> mit Eßig und Oel gegeben <lb/> oder auch andere <objectName ref="salat">Salat</objectName> damit regaliert. </p>
+        <p> DIe Potarga betreffend <lb/> ist ein guter <lb/> in Fisch= Haut gebratener gelber Fisch= Rogen <lb/> wann er noch frisch und gut ist <lb/> so wird der gleich also <lb/> wie ein Zerbeladä= <objectName ref="#wurst">Wurst</objectName> aufgeschnitten <lb/> und ohne die Haut <lb/> mit Eßig und Oel gegeben <lb/> oder auch andere <objectName ref="#salat">Salat</objectName> damit regaliert. </p>
             </div>
         </body>
     </text>

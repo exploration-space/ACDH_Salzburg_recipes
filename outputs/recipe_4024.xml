@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SToß abgezogne gute <objectName ref="mandeln">Mandeln</objectName> gantz klein <lb/> und siehe <lb/> daß sie nicht ölig werden <lb/> treibs mit <objectName ref="milch">Milch</objectName> durch <lb/> daß es schön dick wird <lb/> schlags <lb/> oder sprittle es mit der <objectName ref="milch">Milch</objectName> wol ab <lb/> nimm Mund= Meel <lb/> Saltz <lb/> und mische wol <objectName ref="zucker">Zucker</objectName> darein <lb/> der gefädt ist worden <lb/> mache mit dieser <objectName ref="milch">Milch</objectName> und Eyern einen Taig an <lb/> in der Dicken wie einen andern Strauben= Taig <lb/> aber nicht zu dünn <lb/> und bache sie wie andere <objectName ref="strauben">Strauben</objectName> <lb/> und gibs mit <objectName ref="zucker">Zucker</objectName> bestreut. </p>
+        <p> SToß abgezogne gute <objectName ref="#mandeln">Mandeln</objectName> gantz klein <lb/> und siehe <lb/> daß sie nicht ölig werden <lb/> treibs mit <objectName ref="#milch">Milch</objectName> durch <lb/> daß es schön dick wird <lb/> schlags <lb/> oder sprittle es mit der <objectName ref="#milch">Milch</objectName> wol ab <lb/> nimm Mund= Meel <lb/> Saltz <lb/> und mische wol <objectName ref="#zucker">Zucker</objectName> darein <lb/> der gefädt ist worden <lb/> mache mit dieser <objectName ref="#milch">Milch</objectName> und Eyern einen Taig an <lb/> in der Dicken wie einen andern Strauben= Taig <lb/> aber nicht zu dünn <lb/> und bache sie wie andere <objectName ref="#strauben">Strauben</objectName> <lb/> und gibs mit <objectName ref="#zucker">Zucker</objectName> bestreut. </p>
             </div>
         </body>
     </text>

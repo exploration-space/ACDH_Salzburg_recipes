@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChleime sie ab <lb/> mit siedigem <objectName ref="wasser">Wasser</objectName> <lb/> und schabe sie mit dem <objectName ref="messer">Messer</objectName> sauber ab <lb/> oder mache sie gleich also am Bauch oder Rucken auf <lb/> schneid auf beiden Seiten Schnittlein darein <lb/> thue die Gall darvon <lb/> saltz sie ein <lb/> und laß also ein Weil drinnen ligen; drückne diese mit einem <objectName ref="tuch">Tuch</objectName> sauber ab <lb/> begieß mit zerlassenem <objectName ref="butter">Butter</objectName> <lb/> legs auf einen heissen <objectName ref="rost">Rost</objectName> <lb/> und brats in schöner Farb <lb/> regaliers mit Lemoni= Blättlein <lb/> gib Eßig und Oel darüber mit <objectName ref="pfeffer">Pfeffer</objectName> und Saltz. </p>
+        <p> SChleime sie ab <lb/> mit siedigem <objectName ref="#wasser">Wasser</objectName> <lb/> und schabe sie mit dem <objectName ref="#messer">Messer</objectName> sauber ab <lb/> oder mache sie gleich also am Bauch oder Rucken auf <lb/> schneid auf beiden Seiten Schnittlein darein <lb/> thue die Gall darvon <lb/> saltz sie ein <lb/> und laß also ein Weil drinnen ligen; drückne diese mit einem <objectName ref="#tuch">Tuch</objectName> sauber ab <lb/> begieß mit zerlassenem <objectName ref="#butter">Butter</objectName> <lb/> legs auf einen heissen <objectName ref="#rost">Rost</objectName> <lb/> und brats in schöner Farb <lb/> regaliers mit Lemoni= Blättlein <lb/> gib Eßig und Oel darüber mit <objectName ref="#pfeffer">Pfeffer</objectName> und Saltz. </p>
             </div>
         </body>
     </text>

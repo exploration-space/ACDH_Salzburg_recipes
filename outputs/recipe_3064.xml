@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SPenat <lb/> wann er gebrüht und abgesiehen <lb/> gibt man ihn auch süß mit Gewürtz <lb/> wenig <objectName ref="zucker">Zucker</objectName> <lb/> <objectName ref="butter">Butter</objectName> und Weinbeerlein warm. </p>
+        <p> SPenat <lb/> wann er gebrüht und abgesiehen <lb/> gibt man ihn auch süß mit Gewürtz <lb/> wenig <objectName ref="#zucker">Zucker</objectName> <lb/> <objectName ref="#butter">Butter</objectName> und Weinbeerlein warm. </p>
             </div>
         </body>
     </text>

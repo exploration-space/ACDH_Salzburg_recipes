@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> 1. Bouch : d´aqa lege darein.20. frische <lb/> Nägl blummen laß 1. Stundt stehen <lb/> seichs wie oben misch darunter.5. l <lb/> zkher vnd den safft v´ :2 : lemonj. <objectName ref="amber">amber</objectName> et <lb/> mus : w : bl : gieß g : <lb/><lb/> </p>
+        <p> 1. Bouch : d´aqa lege darein.20. frische <lb/> Nägl blummen laß 1. Stundt stehen <lb/> seichs wie oben misch darunter.5. l <lb/> zkher vnd den safft v´ :2 : lemonj. <objectName ref="#amber">amber</objectName> et <lb/> mus : w : bl : gieß g : <lb/><lb/> </p>
             </div>
         </body>
     </text>

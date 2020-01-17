@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm I. oder mehr lämmerne Schleglein <lb/> spick <lb/> oder durchziehe sie mit gewürtztem <lb/> und mit Petersil=Kräutlein angemachten <lb/> groben <lb/> langen <objectName ref="speck">Speck</objectName> <lb/> richts in ein Geschir mit <objectName ref="speck">Speck</objectName> <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> Lemoni=Schelffen <lb/> mit wenig <objectName ref="wein">Wein</objectName> und Eßig <lb/> <objectName ref="butter">Butter</objectName> /etc. und dämpffs in seiner eigenen <objectName ref="bruehe">Brühe</objectName> wohl verdeckter. </p>
+        <p> NImm I. oder mehr lämmerne Schleglein <lb/> spick <lb/> oder durchziehe sie mit gewürtztem <lb/> und mit Petersil=Kräutlein angemachten <lb/> groben <lb/> langen <objectName ref="#speck">Speck</objectName> <lb/> richts in ein Geschir mit <objectName ref="#speck">Speck</objectName> <lb/> <objectName ref="#rosmarin">Rosmarin</objectName> <lb/> Lemoni=Schelffen <lb/> mit wenig <objectName ref="#wein">Wein</objectName> und Eßig <lb/> <objectName ref="#butter">Butter</objectName> /etc. und dämpffs in seiner eigenen <objectName ref="#bruehe">Brühe</objectName> wohl verdeckter. </p>
             </div>
         </body>
     </text>

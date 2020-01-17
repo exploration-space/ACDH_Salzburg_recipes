@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr Hirsch= <objectName ref="schlegel">Schlegel</objectName> wird nach der Länge in feine Stück geschnitten <lb/> gesaltzen <lb/> gespickt <lb/> mit angemachten <lb/> gewürtzten und groben <objectName ref="speck">Speck</objectName> gespickt <lb/> gepaitzt <lb/> oder zuvor auf dem <objectName ref="rost">Rost</objectName> gebräunt; gibt gute warme und kalte <objectName ref="pastete">Pasteten</objectName>. </p>
+        <p> DEr Hirsch= <objectName ref="#schlegel">Schlegel</objectName> wird nach der Länge in feine Stück geschnitten <lb/> gesaltzen <lb/> gespickt <lb/> mit angemachten <lb/> gewürtzten und groben <objectName ref="#speck">Speck</objectName> gespickt <lb/> gepaitzt <lb/> oder zuvor auf dem <objectName ref="#rost">Rost</objectName> gebräunt; gibt gute warme und kalte <objectName ref="#pastete">Pasteten</objectName>. </p>
             </div>
         </body>
     </text>

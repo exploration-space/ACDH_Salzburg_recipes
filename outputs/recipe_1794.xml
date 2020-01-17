@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Seuts haiß vnnd scheell die groß schall auß, hackh <lb/> klain auf ainen <objectName ref="brett">brett</objectName>, schlag.3. ayr darunter, <lb/> hackh grienne Kreiter darunter, Perchtramb <lb/> vnd andere guet schmekhente Kreiter, Nimb lints <lb/> gewürz, ain wennig <objectName ref="pfeffer">Pfeffer</objectName>, <objectName ref="salz">Salz</objectName> lindiglich, <lb/> zuggers ain wennig, hakhs klain durcheinander, <lb/> fülß ein in die schall, stosß.2. schall gegeneinand ( er ), <lb/> so falts nit ausßer, vnd stökhs an ain schißl, <lb/> vnd brats biß d ( a ) s dich dunkht es sey genueg. <lb/> </p>
+        <p> Seuts haiß vnnd scheell die groß schall auß, hackh <lb/> klain auf ainen <objectName ref="#brett">brett</objectName>, schlag.3. ayr darunter, <lb/> hackh grienne Kreiter darunter, Perchtramb <lb/> vnd andere guet schmekhente Kreiter, Nimb lints <lb/> gewürz, ain wennig <objectName ref="#pfeffer">Pfeffer</objectName>, <objectName ref="#salz">Salz</objectName> lindiglich, <lb/> zuggers ain wennig, hakhs klain durcheinander, <lb/> fülß ein in die schall, stosß.2. schall gegeneinand ( er ), <lb/> so falts nit ausßer, vnd stökhs an ain schißl, <lb/> vnd brats biß d ( a ) s dich dunkht es sey genueg. <lb/> </p>
             </div>
         </body>
     </text>

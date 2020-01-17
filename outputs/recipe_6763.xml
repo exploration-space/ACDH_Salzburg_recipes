@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Oder solche <objectName ref="wachtel">Wachteln</objectName> <lb/> die gebraten seyn <lb/> fein in <objectName ref="pfeffer">Pfeffer</objectName> eyngemacht. </p>
+        <p> Oder solche <objectName ref="#wachtel">Wachteln</objectName> <lb/> die gebraten seyn <lb/> fein in <objectName ref="#pfeffer">Pfeffer</objectName> eyngemacht. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wann der <objectName ref="adler">Adler</objectName> auf der <objectName ref="brust">Brust</objectName> zerschossen <lb/> wird er sauber ausgebutzt <lb/> in Stucken zerhackt <lb/> und mit <objectName ref="wein">Wein</objectName> und <objectName ref="fleischbruehe">Fleischbrühe</objectName> in Zwibel <lb/> oder Lemoni mit gutem Gewürtz versehen <lb/> schön gelb eingebrennt <lb/> und also zugedeckt <lb/> gedämpfft. </p>
+        <p> Wann der <objectName ref="#adler">Adler</objectName> auf der <objectName ref="#brust">Brust</objectName> zerschossen <lb/> wird er sauber ausgebutzt <lb/> in Stucken zerhackt <lb/> und mit <objectName ref="#wein">Wein</objectName> und <objectName ref="#fleischbruehe">Fleischbrühe</objectName> in Zwibel <lb/> oder Lemoni mit gutem Gewürtz versehen <lb/> schön gelb eingebrennt <lb/> und also zugedeckt <lb/> gedämpfft. </p>
             </div>
         </body>
     </text>

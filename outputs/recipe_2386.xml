@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SToß einen Ampffer und Petersilien= <objectName ref="kraut">Kraut</objectName> mit einander in einem Mörsel <lb/> zwing es mit <objectName ref="wein">Wein</objectName> durch <lb/> gieß ein wenig <objectName ref="essig">Essig</objectName> dazu <lb/> streue <objectName ref="pfeffer">Pfeffer</objectName> und <objectName ref="zucker">Zucker</objectName> darein <lb/> und trage sie dann neben dem Gebratens zu <objectName ref="tisch">Tisch</objectName>. <gap/> <gap/> Wanns beliebt <lb/> kan man den Ampffer nur allein nehmen <lb/> und das Petersilien= <objectName ref="kraut">Kraut</objectName> davon lassen. </p>
+        <p> SToß einen Ampffer und Petersilien= <objectName ref="#kraut">Kraut</objectName> mit einander in einem Mörsel <lb/> zwing es mit <objectName ref="#wein">Wein</objectName> durch <lb/> gieß ein wenig <objectName ref="#essig">Essig</objectName> dazu <lb/> streue <objectName ref="#pfeffer">Pfeffer</objectName> und <objectName ref="#zucker">Zucker</objectName> darein <lb/> und trage sie dann neben dem Gebratens zu <objectName ref="#tisch">Tisch</objectName>. <gap/> <gap/> Wanns beliebt <lb/> kan man den Ampffer nur allein nehmen <lb/> und das Petersilien= <objectName ref="#kraut">Kraut</objectName> davon lassen. </p>
             </div>
         </body>
     </text>

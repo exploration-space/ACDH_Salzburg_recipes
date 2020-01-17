@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Knoblauch= Brüh kan man auf gleiche Weiß machen <lb/> wie diese beschriebene Zwiebel= Brüh; oder auch den <objectName ref="knoblauch">Knoblauch</objectName> <lb/> welcher klein zertheilet worden <lb/> zuvor in einem <objectName ref="essig">Essig</objectName> absieden <lb/> damit der gröbste Geschmack davon komme <lb/> alsdann den <objectName ref="essig">Essig</objectName> herab seihen <lb/> an dessen statt aber ein wenig Fleischbrüh <lb/> und ein gut theil von dem Trüben aus der Bratpfannen <lb/> ingleichen auch ein wenig <objectName ref="essig">Essig</objectName> daran giessen <lb/> alles mit einander aufsieden lassen <lb/> und über den <objectName ref="schlegel">Schlegel</objectName> richten <lb/> oder auch besonders aufsetzen. </p>
+        <p> DIe Knoblauch= Brüh kan man auf gleiche Weiß machen <lb/> wie diese beschriebene Zwiebel= Brüh; oder auch den <objectName ref="#knoblauch">Knoblauch</objectName> <lb/> welcher klein zertheilet worden <lb/> zuvor in einem <objectName ref="#essig">Essig</objectName> absieden <lb/> damit der gröbste Geschmack davon komme <lb/> alsdann den <objectName ref="#essig">Essig</objectName> herab seihen <lb/> an dessen statt aber ein wenig Fleischbrüh <lb/> und ein gut theil von dem Trüben aus der Bratpfannen <lb/> ingleichen auch ein wenig <objectName ref="#essig">Essig</objectName> daran giessen <lb/> alles mit einander aufsieden lassen <lb/> und über den <objectName ref="#schlegel">Schlegel</objectName> richten <lb/> oder auch besonders aufsetzen. </p>
             </div>
         </body>
     </text>

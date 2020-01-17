@@ -169,7 +169,7 @@ Krameitsch - bedeutet hier wohl abwertend wie ein Gemisch ev. in Suppenform</not
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Ohren in einer gelben sauren Brüh mit Füssen <lb/> Krösen vn ( n ) <objectName ref="leber">Lebern</objectName> <lb/> ist ein gut Krameitsch. </p>
+        <p> Ohren in einer gelben sauren Brüh mit Füssen <lb/> Krösen vn ( n ) <objectName ref="#leber">Lebern</objectName> <lb/> ist ein gut Krameitsch. </p>
             </div>
         </body>
     </text>

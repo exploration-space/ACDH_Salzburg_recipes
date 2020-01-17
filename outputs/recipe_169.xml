@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb schönnes mell<gap/> vnd österreicher <lb/> <objectName ref="wein">Wein</objectName> vnnd <objectName ref="wasser">wasser</objectName>, las es sieden<gap/>, <lb/> vnnd mach ein pfändl<gap/> voll schmalz<gap/> <lb/> hais, das Gueting<gap/> raucht, vnnd <lb/><lb/> ( re 81 ) schitt<gap/> es in das mell, leg Ayr<gap/> in ein <lb/> warmbes <objectName ref="wasser">wasser</objectName>, vnnd schlag ains <lb/> neben dem andern in den taig<gap/>, Zäch<gap/> <lb/> ihne Gueting ab, bis er die rechte <lb/> Dickhen<gap/> hat nit gar Zu dün, vnnd <lb/> bach<gap/> es schön, so seint sye bereith. <lb/> </p>
+        <p> Nimb schönnes mell<gap/> vnd österreicher <lb/> <objectName ref="#wein">Wein</objectName> vnnd <objectName ref="#wasser">wasser</objectName>, las es sieden<gap/>, <lb/> vnnd mach ein pfändl<gap/> voll schmalz<gap/> <lb/> hais, das Gueting<gap/> raucht, vnnd <lb/><lb/> ( re 81 ) schitt<gap/> es in das mell, leg Ayr<gap/> in ein <lb/> warmbes <objectName ref="#wasser">wasser</objectName>, vnnd schlag ains <lb/> neben dem andern in den taig<gap/>, Zäch<gap/> <lb/> ihne Gueting ab, bis er die rechte <lb/> Dickhen<gap/> hat nit gar Zu dün, vnnd <lb/> bach<gap/> es schön, so seint sye bereith. <lb/> </p>
             </div>
         </body>
     </text>

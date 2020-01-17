@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Höle das weiß <objectName ref="kraut">Kraut</objectName> auß <lb/> nim ( m ) <objectName ref="kalbfleisch">Kalbfleisch</objectName> <lb/> vnd setz es zu mit einer Brüh <lb/> sonderlich das bretig <lb/> das kein Bein hat <lb/> wenns gesotten ist <lb/> so thu es herauß <lb/> vnd küls auß <lb/> hacks klein mit Rindern Feißt vnnd <objectName ref="speck">Speck</objectName> <lb/> pfeffers vnd gelbs. Nim ( m ) kleine Rosein darvnter <lb/> vnd vberquellte <objectName ref="voegel">Vögel</objectName> <lb/> füll ( daß ) <objectName ref="kraut">Kraut</objectName> darmit <lb/> vnnd füll den Spundt zu <lb/> daß die Füll nicht herauß steig <lb/> seig ein Rindtfleischbrüh <lb/> die lindt gesaltzen ist <lb/> darüber <lb/> vnd laß darmit sieden <lb/> so wirdt es gut vnd wolgeschmack. </p>
+        <p> Höle das weiß <objectName ref="#kraut">Kraut</objectName> auß <lb/> nim ( m ) <objectName ref="#kalbfleisch">Kalbfleisch</objectName> <lb/> vnd setz es zu mit einer Brüh <lb/> sonderlich das bretig <lb/> das kein Bein hat <lb/> wenns gesotten ist <lb/> so thu es herauß <lb/> vnd küls auß <lb/> hacks klein mit Rindern Feißt vnnd <objectName ref="#speck">Speck</objectName> <lb/> pfeffers vnd gelbs. Nim ( m ) kleine Rosein darvnter <lb/> vnd vberquellte <objectName ref="#voegel">Vögel</objectName> <lb/> füll ( daß ) <objectName ref="#kraut">Kraut</objectName> darmit <lb/> vnnd füll den Spundt zu <lb/> daß die Füll nicht herauß steig <lb/> seig ein Rindtfleischbrüh <lb/> die lindt gesaltzen ist <lb/> darüber <lb/> vnd laß darmit sieden <lb/> so wirdt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

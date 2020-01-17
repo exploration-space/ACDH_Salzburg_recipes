@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Stosße<gap/> die Baindl<gap/> klein, nimb ein bätes<gap/> schnidl<gap/> <lb/> khers<gap/> in der fleisch<gap/> briehe<gap/> umb, Stosß<gap/> auch mit, <lb/> und wan alles klein ist, so thu es in reindl<gap/> <lb/> gieß<gap/> ein fleisch<gap/> brie<gap/> dran, laß wohl sieden<gap/> thus <lb/> durch ein Sib<gap/> treiben<gap/>, thue die <objectName ref="suppe">suppen</objectName> wider in die <lb/> rein<gap/>, mach<gap/> es zueri<gap/> mit einen mundmehl<gap/>, lög<gap/> ein <lb/> gewirzt<gap/> dran, und butter<gap/>, laß sieden<gap/>, richts<gap/> <lb/> auf bäthe<gap/> schnidl<gap/> an, ist guet, <lb/> </p>
+        <p> Stosße<gap/> die Baindl<gap/> klein, nimb ein bätes<gap/> schnidl<gap/> <lb/> khers<gap/> in der fleisch<gap/> briehe<gap/> umb, Stosß<gap/> auch mit, <lb/> und wan alles klein ist, so thu es in reindl<gap/> <lb/> gieß<gap/> ein fleisch<gap/> brie<gap/> dran, laß wohl sieden<gap/> thus <lb/> durch ein Sib<gap/> treiben<gap/>, thue die <objectName ref="#suppe">suppen</objectName> wider in die <lb/> rein<gap/>, mach<gap/> es zueri<gap/> mit einen mundmehl<gap/>, lög<gap/> ein <lb/> gewirzt<gap/> dran, und butter<gap/>, laß sieden<gap/>, richts<gap/> <lb/> auf bäthe<gap/> schnidl<gap/> an, ist guet, <lb/> </p>
             </div>
         </body>
     </text>

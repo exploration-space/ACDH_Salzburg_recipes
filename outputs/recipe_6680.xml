@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> In eine <objectName ref="pastete">Pasteten</objectName> von Ruckenteig <lb/> kleine Rosein <lb/> allerley Gewürtz <lb/> vnd ein wenig Saltz mit eyngeschlagen <lb/> vnnd gebacken <lb/> du magst es geben warm oder kalt. Nim auch ein wenig <objectName ref="butter">Butter</objectName> darein <lb/> so beckt sichs desto lieblicher. Man kan auch von dieser Foren vielerley Speiß zurichten <lb/> es sey schwartz oder gelb. </p>
+        <p> In eine <objectName ref="#pastete">Pasteten</objectName> von Ruckenteig <lb/> kleine Rosein <lb/> allerley Gewürtz <lb/> vnd ein wenig Saltz mit eyngeschlagen <lb/> vnnd gebacken <lb/> du magst es geben warm oder kalt. Nim auch ein wenig <objectName ref="#butter">Butter</objectName> darein <lb/> so beckt sichs desto lieblicher. Man kan auch von dieser Foren vielerley Speiß zurichten <lb/> es sey schwartz oder gelb. </p>
             </div>
         </body>
     </text>

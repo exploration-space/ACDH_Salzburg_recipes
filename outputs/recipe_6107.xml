@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Brüßlein werden in <objectName ref="butter">Butter</objectName> geröst <lb/> und mit Kapaun= und andern <objectName ref="gehaeck">Gehäck</objectName> vermischt <lb/> und mit einer guten Soß <lb/> in eine Schüssel= <objectName ref="pastete">Pasteten</objectName> <lb/> oder Fleisch= Dorten <lb/> von feinem Taig gemacht; hier können Carfiol <lb/> geschnittner <objectName ref="spargel">Spargel</objectName> <lb/> <objectName ref="schnecken">Schnecken</objectName> <lb/> oder Schwammen darzu gemischt werden. </p>
+        <p> DIe Brüßlein werden in <objectName ref="#butter">Butter</objectName> geröst <lb/> und mit Kapaun= und andern <objectName ref="#gehaeck">Gehäck</objectName> vermischt <lb/> und mit einer guten Soß <lb/> in eine Schüssel= <objectName ref="#pastete">Pasteten</objectName> <lb/> oder Fleisch= Dorten <lb/> von feinem Taig gemacht; hier können Carfiol <lb/> geschnittner <objectName ref="#spargel">Spargel</objectName> <lb/> <objectName ref="#schnecken">Schnecken</objectName> <lb/> oder Schwammen darzu gemischt werden. </p>
             </div>
         </body>
     </text>

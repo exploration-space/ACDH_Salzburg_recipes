@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe frischen Zwetschgen gescheelt <lb/> und die Kern heraus genommen <lb/> und abgezogne <objectName ref="mandeln">Mandeln</objectName> an statt der vorigen hinein gesteckt <lb/> mit gefädten <objectName ref="zucker">Zucker</objectName> <lb/> und Zimmet bestreuter lassen trücknen <lb/> hernach mit ihren eigenen Stenglen <lb/> oder an Höltzlein gesteckter aus diesen N°. 44. 45. oder 46. beschriebenen Taigen ausgebachen <lb/> werden schön und gut. </p>
+        <p> DIe frischen Zwetschgen gescheelt <lb/> und die Kern heraus genommen <lb/> und abgezogne <objectName ref="#mandeln">Mandeln</objectName> an statt der vorigen hinein gesteckt <lb/> mit gefädten <objectName ref="#zucker">Zucker</objectName> <lb/> und Zimmet bestreuter lassen trücknen <lb/> hernach mit ihren eigenen Stenglen <lb/> oder an Höltzlein gesteckter aus diesen N°. 44. 45. oder 46. beschriebenen Taigen ausgebachen <lb/> werden schön und gut. </p>
             </div>
         </body>
     </text>

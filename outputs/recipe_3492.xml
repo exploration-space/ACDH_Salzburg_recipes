@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="sardellen">SArdellen</objectName> und Zoia <lb/> so in Fäßlein eingesaltzen <lb/> werden ins <objectName ref="wasser">Wasser</objectName> gelegt <lb/> sauber gebutzt <lb/> voneinander gespalten <lb/> den Grat oder das Grätlein gantzer heraus gelöst <lb/> die zwey Theil gantz gelassen <lb/> und rund herum in ein Schaalen gelegt <lb/> und mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Oel und Eßig gegeben; Item <lb/> auch auf unterschiedliche grün und gelbe <objectName ref="salat">Salat</objectName> gelegt. </p>
+        <p> <objectName ref="#sardellen">SArdellen</objectName> und Zoia <lb/> so in Fäßlein eingesaltzen <lb/> werden ins <objectName ref="#wasser">Wasser</objectName> gelegt <lb/> sauber gebutzt <lb/> voneinander gespalten <lb/> den Grat oder das Grätlein gantzer heraus gelöst <lb/> die zwey Theil gantz gelassen <lb/> und rund herum in ein Schaalen gelegt <lb/> und mit <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Oel und Eßig gegeben; Item <lb/> auch auf unterschiedliche grün und gelbe <objectName ref="#salat">Salat</objectName> gelegt. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein Kreis<gap/> siede<gap/> es Lindt<gap/>, thue die <lb/> trisen<gap/> Daraus, hackhs Gar Klein, vnd <lb/> nimbe halben thail Semel Presl<gap/>, vnnd <lb/> reste<gap/> sye in <objectName ref="butter">butter</objectName>, vnnd Nimb ein <lb/> siesses obers<gap/>, vnnd Ayr<gap/>, machs darmit <lb/> an, Gewirze<gap/> es, vnnd faste<gap/> es in einen <lb/> <objectName ref="darm">Darm</objectName>, lasse es sieden<gap/>, Wan sye Ge= <lb/> soden<gap/> seindt, so schneide es Zu stickhl<gap/>, <lb/> thue <objectName ref="fleisch">Fleisch</objectName> brüe<gap/> Daran, vnnd Gewürz<gap/>, <lb/> lass es olßdan breglen<gap/>. <lb/> </p>
+        <p> Nimb ein Kreis<gap/> siede<gap/> es Lindt<gap/>, thue die <lb/> trisen<gap/> Daraus, hackhs Gar Klein, vnd <lb/> nimbe halben thail Semel Presl<gap/>, vnnd <lb/> reste<gap/> sye in <objectName ref="#butter">butter</objectName>, vnnd Nimb ein <lb/> siesses obers<gap/>, vnnd Ayr<gap/>, machs darmit <lb/> an, Gewirze<gap/> es, vnnd faste<gap/> es in einen <lb/> <objectName ref="#darm">Darm</objectName>, lasse es sieden<gap/>, Wan sye Ge= <lb/> soden<gap/> seindt, so schneide es Zu stickhl<gap/>, <lb/> thue <objectName ref="#fleisch">Fleisch</objectName> brüe<gap/> Daran, vnnd Gewürz<gap/>, <lb/> lass es olßdan breglen<gap/>. <lb/> </p>
             </div>
         </body>
     </text>

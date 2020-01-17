@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAch aus den <objectName ref="rippen">Rippen</objectName> Stücklein <lb/> legs in ein <objectName ref="geschirr">Geschirr</objectName> <lb/> lege darzu <objectName ref="butter">Butter</objectName> <lb/> gewürtze sie <lb/> thue hinzu <objectName ref="gehaeck">Gehäck</objectName> und gerösten <objectName ref="zwiebel">Zwiebel</objectName> <lb/> oder Lemoni= Schaalen <lb/> <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet <lb/> und wenig Nägelein= Stup <lb/> <objectName ref="wein">Wein</objectName> <lb/> Eßig <lb/> und ein wenig Rind= <objectName ref="suppe">Suppen</objectName> <lb/> mit geröstem Meel <lb/> oder Semmel= Brosen <lb/> und lass es aufkochen. </p>
+        <p> MAch aus den <objectName ref="#rippen">Rippen</objectName> Stücklein <lb/> legs in ein <objectName ref="#geschirr">Geschirr</objectName> <lb/> lege darzu <objectName ref="#butter">Butter</objectName> <lb/> gewürtze sie <lb/> thue hinzu <objectName ref="#gehaeck">Gehäck</objectName> und gerösten <objectName ref="#zwiebel">Zwiebel</objectName> <lb/> oder Lemoni= Schaalen <lb/> <objectName ref="#zucker">Zucker</objectName> <lb/> Zimmet <lb/> und wenig Nägelein= Stup <lb/> <objectName ref="#wein">Wein</objectName> <lb/> Eßig <lb/> und ein wenig Rind= <objectName ref="#suppe">Suppen</objectName> <lb/> mit geröstem Meel <lb/> oder Semmel= Brosen <lb/> und lass es aufkochen. </p>
             </div>
         </body>
     </text>

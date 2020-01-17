@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Hechte werden gebachen <lb/> die <objectName ref="bruehe">Brühe</objectName> aber also gemacht : Röst klein= gehackten Zwibel <lb/> mit guten Capryen <lb/> und klaren Semmel= Bröslein in <objectName ref="butter">Butter</objectName> <lb/> gieß <objectName ref="wein">Wein</objectName> und wenig Eßig mit <objectName ref="zucker">Zucker</objectName> und Gewürtz darein; oder an statt des Weins <lb/> Eßig mit gelber Erbsen= <objectName ref="bruehe">Brühe</objectName> <lb/> gewürtz <lb/> und laß es aufsieden <lb/> und gibs über den <objectName ref="fisch">Fisch</objectName>; oder laß den Zwibel gar aus <lb/> und nimm Lemoni= Schelffen. </p>
+        <p> DIe Hechte werden gebachen <lb/> die <objectName ref="#bruehe">Brühe</objectName> aber also gemacht : Röst klein= gehackten Zwibel <lb/> mit guten Capryen <lb/> und klaren Semmel= Bröslein in <objectName ref="#butter">Butter</objectName> <lb/> gieß <objectName ref="#wein">Wein</objectName> und wenig Eßig mit <objectName ref="#zucker">Zucker</objectName> und Gewürtz darein; oder an statt des Weins <lb/> Eßig mit gelber Erbsen= <objectName ref="#bruehe">Brühe</objectName> <lb/> gewürtz <lb/> und laß es aufsieden <lb/> und gibs über den <objectName ref="#fisch">Fisch</objectName>; oder laß den Zwibel gar aus <lb/> und nimm Lemoni= Schelffen. </p>
             </div>
         </body>
     </text>

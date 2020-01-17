@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Mach auch ein gestossens von der <objectName ref="fasan">Fasan</objectName> <objectName ref="brust">Brust</objectName> <lb/> wenn sie an die statt gesotten ist. </p>
+        <p> Mach auch ein gestossens von der <objectName ref="#fasan">Fasan</objectName> <objectName ref="#brust">Brust</objectName> <lb/> wenn sie an die statt gesotten ist. </p>
             </div>
         </body>
     </text>

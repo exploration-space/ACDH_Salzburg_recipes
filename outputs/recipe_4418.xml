@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Siedet die <objectName ref="lunge">Lungen</objectName> ab <lb/> wie schon gedacht <lb/> schneidets zu Stücklein <lb/> ziehets durch zerklopffte Eyer <lb/> und bachts wie Schnitten; tragts dann entweder also trocken zu <objectName ref="tisch">Tisch</objectName> <lb/> oder macht eine süsse <lb/> solte aber diese nicht belieben <lb/> eine andere Brüh darüber <lb/> nach gefallen. Auf eben diese Art kan man auch die Lamms = <objectName ref="lunge">Lungen</objectName> <lb/> nach gefallen <lb/> zurichten. </p>
+        <p> Siedet die <objectName ref="#lunge">Lungen</objectName> ab <lb/> wie schon gedacht <lb/> schneidets zu Stücklein <lb/> ziehets durch zerklopffte Eyer <lb/> und bachts wie Schnitten; tragts dann entweder also trocken zu <objectName ref="#tisch">Tisch</objectName> <lb/> oder macht eine süsse <lb/> solte aber diese nicht belieben <lb/> eine andere Brüh darüber <lb/> nach gefallen. Auf eben diese Art kan man auch die Lamms = <objectName ref="#lunge">Lungen</objectName> <lb/> nach gefallen <lb/> zurichten. </p>
             </div>
         </body>
     </text>

@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Brunnenkreß <objectName ref="salat">Salat</objectName> <lb/> der in einem Garten gezeuget <lb/> oder bey fliessenden Bächen wächßt <lb/> ist auch nicht böß. </p>
+        <p> Brunnenkreß <objectName ref="#salat">Salat</objectName> <lb/> der in einem Garten gezeuget <lb/> oder bey fliessenden Bächen wächßt <lb/> ist auch nicht böß. </p>
             </div>
         </body>
     </text>

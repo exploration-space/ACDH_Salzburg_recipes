@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Mach ein <objectName ref="teig">Teig</objectName> mit Eyern vnd mit <objectName ref="mehl">Mehl</objectName> <lb/> zeuchs jn heisse <objectName ref="butter">Butter</objectName> <lb/> durch ein <objectName ref="faumloeffel">Faumlöffel</objectName> der löchert ist <lb/> machs nicht braun <lb/> sondern nur fein weiß. Nim ( m ) ein gute Erbeßbrüh <lb/> die wolgeschmack vnd angemacht ist <lb/> vnnd wen ( n ) du es wilt anrichten in ein <objectName ref="schuessel">Schüssel</objectName> <lb/> so geuß vber die gebackene Erbeß <lb/> so wirt es gut vnd wolgeschmack. </p>
+        <p> Mach ein <objectName ref="#teig">Teig</objectName> mit Eyern vnd mit <objectName ref="#mehl">Mehl</objectName> <lb/> zeuchs jn heisse <objectName ref="#butter">Butter</objectName> <lb/> durch ein <objectName ref="#faumloeffel">Faumlöffel</objectName> der löchert ist <lb/> machs nicht braun <lb/> sondern nur fein weiß. Nim ( m ) ein gute Erbeßbrüh <lb/> die wolgeschmack vnd angemacht ist <lb/> vnnd wen ( n ) du es wilt anrichten in ein <objectName ref="#schuessel">Schüssel</objectName> <lb/> so geuß vber die gebackene Erbeß <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

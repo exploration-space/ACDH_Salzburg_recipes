@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ERklopffe vier Eyer <lb/> rühre eine Hand voll <objectName ref="semmelmehl">Semmelmehl</objectName> oder Eyer= Brod <lb/> und ein Stück <objectName ref="butter">Butter</objectName> darein <lb/> würtze es mit Muscaten= Blühe und Cardamomen <lb/> gilbs ein wenig <lb/> laß eine halbe <objectName ref="maas">Maas</objectName> <objectName ref="fleischbruehe">Fleischbrühe</objectName> siedend werden <lb/> gieß an die zerklopfften Eyer und rührs wol <lb/> laß es aufsieden <lb/> rühre aber immerzu <lb/> daß es nicht knollicht werde : man darff es aber nicht lang sieden lassen <lb/> weil sonst die Eyer nur hart werden. Wann du es anrichten wilt <lb/> thue noch ein Stück <objectName ref="butter">Butter</objectName> darein <lb/> und streue Muscatblühe darauf. </p>
+        <p> ERklopffe vier Eyer <lb/> rühre eine Hand voll <objectName ref="#semmelmehl">Semmelmehl</objectName> oder Eyer= Brod <lb/> und ein Stück <objectName ref="#butter">Butter</objectName> darein <lb/> würtze es mit Muscaten= Blühe und Cardamomen <lb/> gilbs ein wenig <lb/> laß eine halbe <objectName ref="#maas">Maas</objectName> <objectName ref="#fleischbruehe">Fleischbrühe</objectName> siedend werden <lb/> gieß an die zerklopfften Eyer und rührs wol <lb/> laß es aufsieden <lb/> rühre aber immerzu <lb/> daß es nicht knollicht werde : man darff es aber nicht lang sieden lassen <lb/> weil sonst die Eyer nur hart werden. Wann du es anrichten wilt <lb/> thue noch ein Stück <objectName ref="#butter">Butter</objectName> darein <lb/> und streue Muscatblühe darauf. </p>
             </div>
         </body>
     </text>

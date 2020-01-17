@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim junge Kürbes <lb/> die nicht groß seind <lb/> schel vnnd schneidt sie fein länglicht <lb/> thü die Kern herauß <lb/> quells ein wenig <lb/> küls darnach auß <lb/> vnnd machs an mit <objectName ref="essig">Essig</objectName> <lb/> Saltz vnd Oel. </p>
+        <p> Nim junge Kürbes <lb/> die nicht groß seind <lb/> schel vnnd schneidt sie fein länglicht <lb/> thü die Kern herauß <lb/> quells ein wenig <lb/> küls darnach auß <lb/> vnnd machs an mit <objectName ref="#essig">Essig</objectName> <lb/> Saltz vnd Oel. </p>
             </div>
         </body>
     </text>

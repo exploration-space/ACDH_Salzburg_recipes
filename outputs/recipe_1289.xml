@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Siede<gap/> die häring<gap/> in wasßer, schneidt<gap/> ihnen <lb/><lb/> ( 46r ) schwanz, und den <objectName ref="kopf">Kopf</objectName> ab, Legs<gap/> in ein schüsßl<gap/>, <lb/> schneide<gap/> Butter<gap/> daran, und tröpfe<gap/> es mit Lemonj<gap/> <lb/> Saft<gap/>, lege<gap/> auch Lemonj<gap/> schnizl<gap/> darauf, Lasse <lb/> sye auf der gluet<gap/> Breglen<gap/>, hernach sein sye <lb/> gar. <lb/> </p>
+        <p> Siede<gap/> die häring<gap/> in wasßer, schneidt<gap/> ihnen <lb/><lb/> ( 46r ) schwanz, und den <objectName ref="#kopf">Kopf</objectName> ab, Legs<gap/> in ein schüsßl<gap/>, <lb/> schneide<gap/> Butter<gap/> daran, und tröpfe<gap/> es mit Lemonj<gap/> <lb/> Saft<gap/>, lege<gap/> auch Lemonj<gap/> schnizl<gap/> darauf, Lasse <lb/> sye auf der gluet<gap/> Breglen<gap/>, hernach sein sye <lb/> gar. <lb/> </p>
             </div>
         </body>
     </text>

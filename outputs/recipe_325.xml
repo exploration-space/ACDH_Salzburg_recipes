@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb die öpfl vnnd schneidte sye <lb/> Vier oder.6. spalten Darnach sye <lb/> Gros seint, Nimb ein schönes <lb/> mehl<gap/> mach mit lableten<gap/> <objectName ref="wein">Wein</objectName> vnd <lb/> Ayr Clar ein taigl<gap/> an, Ganz <lb/> Din vnnd Glat, hernach schitte<gap/> Die <lb/> öpfel<gap/> spalten drein, khers<gap/> fein Guet= <lb/> ting<gap/> vmb, Das khein taig<gap/> nit yber <lb/> bleibt, schitt<gap/> es in ein dieffe Pfan<gap/> <lb/> Die yber holl halb voll mit haissen <lb/> schmalz<gap/> ist, höbs yber ein Resches<gap/> feyr<gap/> <lb/> Das er balt Gelflet<gap/> wierdt hernach <lb/> Das <objectName ref="schmalz">schmalz</objectName> Daruon seihen<gap/> vnd also <lb/> Angericht, es ist recht, Zuckher Es auch <lb/><lb/> ( ve 158 ) </p>
+        <p> Nimb die öpfl vnnd schneidte sye <lb/> Vier oder.6. spalten Darnach sye <lb/> Gros seint, Nimb ein schönes <lb/> mehl<gap/> mach mit lableten<gap/> <objectName ref="#wein">Wein</objectName> vnd <lb/> Ayr Clar ein taigl<gap/> an, Ganz <lb/> Din vnnd Glat, hernach schitte<gap/> Die <lb/> öpfel<gap/> spalten drein, khers<gap/> fein Guet= <lb/> ting<gap/> vmb, Das khein taig<gap/> nit yber <lb/> bleibt, schitt<gap/> es in ein dieffe Pfan<gap/> <lb/> Die yber holl halb voll mit haissen <lb/> schmalz<gap/> ist, höbs yber ein Resches<gap/> feyr<gap/> <lb/> Das er balt Gelflet<gap/> wierdt hernach <lb/> Das <objectName ref="#schmalz">schmalz</objectName> Daruon seihen<gap/> vnd also <lb/> Angericht, es ist recht, Zuckher Es auch <lb/><lb/> ( ve 158 ) </p>
             </div>
         </body>
     </text>

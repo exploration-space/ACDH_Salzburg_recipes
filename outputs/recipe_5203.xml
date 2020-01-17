@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet die Birn <lb/> schählet selbige <lb/> schneidet sie zu vier Theilen <lb/> und thut einwendig das Gehäus <lb/> mit denen Kernen daraus <lb/> darnach röstet die Birn im Schmaltz <lb/> daß sie braun werden; wann dieses geschehen <lb/> giesst <objectName ref="wein">Wein</objectName> daran <lb/> und lasst sie auf einer <objectName ref="kohlen">Kohlen</objectName> dünsten oder sieden : so sie dann weich sind <lb/> treibt sie durch <lb/> thut Zimmet daran <lb/> und lasst sie noch länger sieden : wann ihr es dann anrichten wolt <lb/> streuet zuvor <objectName ref="zucker">Zucker</objectName> darauf. </p>
+        <p> NEhmet die Birn <lb/> schählet selbige <lb/> schneidet sie zu vier Theilen <lb/> und thut einwendig das Gehäus <lb/> mit denen Kernen daraus <lb/> darnach röstet die Birn im Schmaltz <lb/> daß sie braun werden; wann dieses geschehen <lb/> giesst <objectName ref="#wein">Wein</objectName> daran <lb/> und lasst sie auf einer <objectName ref="#kohlen">Kohlen</objectName> dünsten oder sieden : so sie dann weich sind <lb/> treibt sie durch <lb/> thut Zimmet daran <lb/> und lasst sie noch länger sieden : wann ihr es dann anrichten wolt <lb/> streuet zuvor <objectName ref="#zucker">Zucker</objectName> darauf. </p>
             </div>
         </body>
     </text>

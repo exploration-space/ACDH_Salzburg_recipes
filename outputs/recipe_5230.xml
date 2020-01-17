@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Gebacken Erbeß mit <objectName ref="milch">Milch</objectName> seindt auch gut vnd wolgeschmack. Vn ( d ) wenn sie dick gesotten <lb/> so kanstu sie auch wol braun machen. </p>
+        <p> Gebacken Erbeß mit <objectName ref="#milch">Milch</objectName> seindt auch gut vnd wolgeschmack. Vn ( d ) wenn sie dick gesotten <lb/> so kanstu sie auch wol braun machen. </p>
             </div>
         </body>
     </text>

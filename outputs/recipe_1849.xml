@@ -172,7 +172,7 @@ Willst du einen guten Mörserkuchen machen, dann schneide Semmeln würfelig und 
                 </listObject>
             </div>
         <div type="recipe">
-        <p> [ 327r ] WIl du machn̄ guͤt moͤrser kuͤchn̄ so sneÿd semel wuͤrfflat vn̄ kloph aÿer klain̄ und tue dan̄ semel dar vnder vn̄ sneÿd muskatt dar vnder vn̄ ander stuph vnd mach ez gelt vn̄ slach dan̄ gepratnew aÿʾ huͤnr dar vnder Ob du der huͤnrn̄ nicht hast So nembst tawben oder du magst auch nemmē <objectName ref="leber">leber</objectName> maͤgel fuͤssel vn̄ tuͤ dan̄ ein smalcz ÿn den moͤrser vn̄ setzs ez auff ein̄ gluͤtt und geuss dan̄ vil dar ein vn̄ lass pachn̄ vn̄ gib ess dan̄ hin̄ den̄ herrn̄ </p>
+        <p> [ 327r ] WIl du machn̄ guͤt moͤrser kuͤchn̄ so sneÿd semel wuͤrfflat vn̄ kloph aÿer klain̄ und tue dan̄ semel dar vnder vn̄ sneÿd muskatt dar vnder vn̄ ander stuph vnd mach ez gelt vn̄ slach dan̄ gepratnew aÿʾ huͤnr dar vnder Ob du der huͤnrn̄ nicht hast So nembst tawben oder du magst auch nemmē <objectName ref="#leber">leber</objectName> maͤgel fuͤssel vn̄ tuͤ dan̄ ein smalcz ÿn den moͤrser vn̄ setzs ez auff ein̄ gluͤtt und geuss dan̄ vil dar ein vn̄ lass pachn̄ vn̄ gib ess dan̄ hin̄ den̄ herrn̄ </p>
             </div>
         </body>
     </text>

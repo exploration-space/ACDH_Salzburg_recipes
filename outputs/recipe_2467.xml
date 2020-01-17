@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> HAcket das Fette vom Nierbraten von einem <objectName ref="kalb">Kalb</objectName> <lb/> legt es in eine reine <objectName ref="schuessel">Schüssel</objectName> <lb/> schlaget vier Eyer daran <lb/> rührt geriebenes Semmel= <objectName ref="mehl">Mehl</objectName> oder Eyerbrod <lb/> und ein wenig gemeines <objectName ref="mehl">Mehl</objectName> darunter <lb/> dann sie fallen und zerfahren sonst gern von einander; saltzt und würtzet es mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> oder etwas von einer Muscatnuß <lb/> macht sie zusammen <lb/> legets in eine Fleischbrüh <lb/> und lasset sie <lb/> aber doch nicht allzu lange <lb/> sieden <lb/> damit sie nicht zerfallen. </p>
+        <p> HAcket das Fette vom Nierbraten von einem <objectName ref="#kalb">Kalb</objectName> <lb/> legt es in eine reine <objectName ref="#schuessel">Schüssel</objectName> <lb/> schlaget vier Eyer daran <lb/> rührt geriebenes Semmel= <objectName ref="#mehl">Mehl</objectName> oder Eyerbrod <lb/> und ein wenig gemeines <objectName ref="#mehl">Mehl</objectName> darunter <lb/> dann sie fallen und zerfahren sonst gern von einander; saltzt und würtzet es mit <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> oder etwas von einer Muscatnuß <lb/> macht sie zusammen <lb/> legets in eine Fleischbrüh <lb/> und lasset sie <lb/> aber doch nicht allzu lange <lb/> sieden <lb/> damit sie nicht zerfallen. </p>
             </div>
         </body>
     </text>

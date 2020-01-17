@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIese werden gescheelter in dünne Spalten geschnitten <lb/> und von dem Stern <lb/> oder Butzen gesäubert <lb/> mit <objectName ref="wein">Wein</objectName> wol angefeucht <lb/> eingemeelbt <lb/> und auch rösch heraus gebachen. NB. Aber die süssen Aepffel taugen weder zum Bachen <lb/> noch zum Braten <lb/> weil sie hart bleiben <lb/> und nicht weich werden. </p>
+        <p> DIese werden gescheelter in dünne Spalten geschnitten <lb/> und von dem Stern <lb/> oder Butzen gesäubert <lb/> mit <objectName ref="#wein">Wein</objectName> wol angefeucht <lb/> eingemeelbt <lb/> und auch rösch heraus gebachen. NB. Aber die süssen Aepffel taugen weder zum Bachen <lb/> noch zum Braten <lb/> weil sie hart bleiben <lb/> und nicht weich werden. </p>
             </div>
         </body>
     </text>

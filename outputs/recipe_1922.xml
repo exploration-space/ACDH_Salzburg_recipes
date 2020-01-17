@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Die muestu in einem khalten <objectName ref="wasser">Wasser</objectName> in ein pfan legen, <lb/> vnd nicht Zu fast salzen, vnd gar Woll Sieden, so er genueg <lb/> hat, so trükhne sie mit <objectName ref="essig">Essig</objectName> vnd <objectName ref="wein">Wein</objectName> desto bësser ab, so Werdens <lb/> nit Zäch, man mags haiß gsoten, oder in einem gelben <lb/> Süppl geben. <lb/> </p>
+        <p> Die muestu in einem khalten <objectName ref="#wasser">Wasser</objectName> in ein pfan legen, <lb/> vnd nicht Zu fast salzen, vnd gar Woll Sieden, so er genueg <lb/> hat, so trükhne sie mit <objectName ref="#essig">Essig</objectName> vnd <objectName ref="#wein">Wein</objectName> desto bësser ab, so Werdens <lb/> nit Zäch, man mags haiß gsoten, oder in einem gelben <lb/> Süppl geben. <lb/> </p>
             </div>
         </body>
     </text>

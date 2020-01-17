@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb.1. Bouch : d´aqa vnd.2. oder.3. <lb/> schene granattöpfl die ain farb haben <lb/> vnd vmb die kern herauß zertruckhe <lb/> sie woll im wasßer mit der handt laß <lb/> ½ Stundt beysammen stehen mische es mit <lb/> 5. l. zukher wieß dir schmekhet <objectName ref="amber">amber</objectName> <lb/> vnd m : w : bl. gieß. g : <lb/> was wans ein Sorbetta ist so mueß <lb/> du mehrer darzue nemmen in allen <lb/> dißen sochen tueß zum gefrührn. <lb/> </p>
+        <p> Nimb.1. Bouch : d´aqa vnd.2. oder.3. <lb/> schene granattöpfl die ain farb haben <lb/> vnd vmb die kern herauß zertruckhe <lb/> sie woll im wasßer mit der handt laß <lb/> ½ Stundt beysammen stehen mische es mit <lb/> 5. l. zukher wieß dir schmekhet <objectName ref="#amber">amber</objectName> <lb/> vnd m : w : bl. gieß. g : <lb/> was wans ein Sorbetta ist so mueß <lb/> du mehrer darzue nemmen in allen <lb/> dißen sochen tueß zum gefrührn. <lb/> </p>
             </div>
         </body>
     </text>

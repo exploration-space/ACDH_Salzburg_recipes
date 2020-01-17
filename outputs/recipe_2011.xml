@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb die, vnd Zeuch ihnen die haut ab, vnd Wässer sie ein, <lb/> vnd Würff sie darnach in gsoten <objectName ref="wasser">Wasser</objectName>, khiels Widerumb <lb/> auß, vnd leg sie auf ein <objectName ref="rost">Rost</objectName>, brat sie gschwind hinwekh, <lb/> begeuß mit Buter, vnd gibs trukhen mit <objectName ref="pfeffer">Pfeffer</objectName> oder <lb/> Senff darzue. <lb/><lb/> ( 23r ) </p>
+        <p> Nimb die, vnd Zeuch ihnen die haut ab, vnd Wässer sie ein, <lb/> vnd Würff sie darnach in gsoten <objectName ref="#wasser">Wasser</objectName>, khiels Widerumb <lb/> auß, vnd leg sie auf ein <objectName ref="#rost">Rost</objectName>, brat sie gschwind hinwekh, <lb/> begeuß mit Buter, vnd gibs trukhen mit <objectName ref="#pfeffer">Pfeffer</objectName> oder <lb/> Senff darzue. <lb/><lb/> ( 23r ) </p>
             </div>
         </body>
     </text>

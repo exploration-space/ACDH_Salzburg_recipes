@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIeser <objectName ref="essig">Essig</objectName> wird allerdings angestellet <lb/> wie der Rosen= <objectName ref="essig">Essig</objectName> <lb/> entweder mit oder ohne Gewürtz. Es ist auch dieser <objectName ref="essig">Essig</objectName> gut und überaus annemlich <lb/> wann man halb Negelein und halb Rosen= <objectName ref="essig">Essig</objectName> unter einander mischet <lb/> und einen dergleichen <objectName ref="essig">Essig</objectName> <lb/> so wol mit als ohne Gewürtz <lb/> anstellet. </p>
+        <p> DIeser <objectName ref="#essig">Essig</objectName> wird allerdings angestellet <lb/> wie der Rosen= <objectName ref="#essig">Essig</objectName> <lb/> entweder mit oder ohne Gewürtz. Es ist auch dieser <objectName ref="#essig">Essig</objectName> gut und überaus annemlich <lb/> wann man halb Negelein und halb Rosen= <objectName ref="#essig">Essig</objectName> unter einander mischet <lb/> und einen dergleichen <objectName ref="#essig">Essig</objectName> <lb/> so wol mit als ohne Gewürtz <lb/> anstellet. </p>
             </div>
         </body>
     </text>

@@ -175,7 +175,7 @@ Krünitz hat eine eindeutige Meinung zum übermäßigen Einsatz von (scharfen) G
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nembt Schwarzen <objectName ref="pfeffer">Pfeffer</objectName>, schneit Lemoni <lb/> daran, nembt <objectName ref="essig">Essig</objectName> vnd <objectName ref="wein">Wein</objectName>, machts darmit <lb/><lb/> ( 19r ). ein, nembt <objectName ref="pfeffer">Pfeffer</objectName>, vnnd ain lints gewürz, <lb/> Nägl, Mußcatblie, laß woll einsieden. <lb/> </p>
+        <p> Nembt Schwarzen <objectName ref="#pfeffer">Pfeffer</objectName>, schneit Lemoni <lb/> daran, nembt <objectName ref="#essig">Essig</objectName> vnd <objectName ref="#wein">Wein</objectName>, machts darmit <lb/><lb/> ( 19r ). ein, nembt <objectName ref="#pfeffer">Pfeffer</objectName>, vnnd ain lints gewürz, <lb/> Nägl, Mußcatblie, laß woll einsieden. <lb/> </p>
             </div>
         </body>
     </text>

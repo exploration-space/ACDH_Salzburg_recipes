@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> HAcke <objectName ref="feigen">Feigen</objectName> <lb/> Rosin und Weinbeerlein unter einander; nimm alsdann gerieben Haus= Brod und <objectName ref="mehl">Mehl</objectName> <lb/> vermische es zusammen <lb/> schlag Eyer daran <lb/> walchere es mit <objectName ref="mehl">Mehl</objectName> wohl ab <lb/> und formire Würstlein daraus; ziehe es ferner durch einen Aepffel= <objectName ref="teig">Teig</objectName> <lb/> und lasse sie bachen. </p>
+        <p> HAcke <objectName ref="#feigen">Feigen</objectName> <lb/> Rosin und Weinbeerlein unter einander; nimm alsdann gerieben Haus= Brod und <objectName ref="#mehl">Mehl</objectName> <lb/> vermische es zusammen <lb/> schlag Eyer daran <lb/> walchere es mit <objectName ref="#mehl">Mehl</objectName> wohl ab <lb/> und formire Würstlein daraus; ziehe es ferner durch einen Aepffel= <objectName ref="#teig">Teig</objectName> <lb/> und lasse sie bachen. </p>
             </div>
         </body>
     </text>

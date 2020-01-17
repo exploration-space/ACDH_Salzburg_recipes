@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WEil diese <objectName ref="fisch">Fisch</objectName> klein seyn <lb/> werden sie dahero sauber geklaubt <lb/> gewaschen <lb/> und in gesaltzenem <objectName ref="wasser">Wasser</objectName> <lb/> mit wenig Eßig <lb/> heiß abgesotten <lb/> dann kalter mit Eßig <lb/> Zwibel <lb/> Oel und <objectName ref="pfeffer">Pfeffer</objectName> gegeben <lb/> oder auch eingesaltzen <lb/> gemeelbt und ausgebachen. </p>
+        <p> WEil diese <objectName ref="#fisch">Fisch</objectName> klein seyn <lb/> werden sie dahero sauber geklaubt <lb/> gewaschen <lb/> und in gesaltzenem <objectName ref="#wasser">Wasser</objectName> <lb/> mit wenig Eßig <lb/> heiß abgesotten <lb/> dann kalter mit Eßig <lb/> Zwibel <lb/> Oel und <objectName ref="#pfeffer">Pfeffer</objectName> gegeben <lb/> oder auch eingesaltzen <lb/> gemeelbt und ausgebachen. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Man nimmt 2. und ein halb <objectName ref="pfund">Pfund</objectName> Meel <lb/> 3. viertel Pf. süß=ausgesottenes <lb/> gutes Schmaltz <lb/> mit zugehörigem Saltz <lb/> dann wird das Schmaltz mit dem Meel und Saltz zwischen den Händen gantz wohl und schön glatt abgerieben <lb/> hernach ein Grüblein darein gemacht <lb/> und so viel frisch <objectName ref="wasser">Wasser</objectName> mit 5. Eyerdotter darein gegossen <lb/> daß <lb/> nachdeme er zusammen gewirckt <lb/> ein fester Taig daraus wird <lb/> dieser soll auch an keinem gar warmen Ort gemacht <lb/> auch das Schmaltz nicht gar zu hart <lb/> oder zu weich seyn <lb/> so ist er fertig und gut. </p>
+        <p> Man nimmt 2. und ein halb <objectName ref="#pfund">Pfund</objectName> Meel <lb/> 3. viertel Pf. süß=ausgesottenes <lb/> gutes Schmaltz <lb/> mit zugehörigem Saltz <lb/> dann wird das Schmaltz mit dem Meel und Saltz zwischen den Händen gantz wohl und schön glatt abgerieben <lb/> hernach ein Grüblein darein gemacht <lb/> und so viel frisch <objectName ref="#wasser">Wasser</objectName> mit 5. Eyerdotter darein gegossen <lb/> daß <lb/> nachdeme er zusammen gewirckt <lb/> ein fester Taig daraus wird <lb/> dieser soll auch an keinem gar warmen Ort gemacht <lb/> auch das Schmaltz nicht gar zu hart <lb/> oder zu weich seyn <lb/> so ist er fertig und gut. </p>
             </div>
         </body>
     </text>

@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> HIervon findest du Nachricht sowohl im Andern Capitel bey dem <objectName ref="kalb">Kalb</objectName> <lb/> als im 6. Capitel <lb/> bey dem Spanfärcklein <lb/> und auch in dem Bacherey= Buch <lb/> bey den andern Gallärden <lb/> ist also nur zu erinnern <lb/> daß man das Saltzen meid bey dem Sieden <lb/> und daß man die <objectName ref="feisten">Feisten</objectName> alle sauber abnimmt <lb/> wann der Sud kalt ist. </p>
+        <p> HIervon findest du Nachricht sowohl im Andern Capitel bey dem <objectName ref="#kalb">Kalb</objectName> <lb/> als im 6. Capitel <lb/> bey dem Spanfärcklein <lb/> und auch in dem Bacherey= Buch <lb/> bey den andern Gallärden <lb/> ist also nur zu erinnern <lb/> daß man das Saltzen meid bey dem Sieden <lb/> und daß man die <objectName ref="#feisten">Feisten</objectName> alle sauber abnimmt <lb/> wann der Sud kalt ist. </p>
             </div>
         </body>
     </text>

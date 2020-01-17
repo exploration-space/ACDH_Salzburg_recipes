@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ERstlich <objectName ref="bruehe">brühe</objectName> den Hirs an <lb/> und trockne ihn wieder ab; röste denselben alsdann im Schmaltz <lb/> ( wiewol dieses eben nicht nöthig ist/ ) mach eine gute <objectName ref="milch">Milch</objectName> in einer Pfannen siedend <lb/> giesse selbige nach und nach an der Hirs <lb/> und mache daß er ferner gantz gelind bey einem Kohlfeuer siede; gilbe ihn mit Saffran <lb/> und gib fleissig achtung <lb/> daß er nicht brandig und stinkend werde : zerklopffe indessen Eyer <lb/> und rühre selbige zu letzt darein <lb/> und richte ihn <lb/> wann er zuvor gesaltzen worden <lb/> in eine <objectName ref="schuessel">Schüssel</objectName>. </p>
+        <p> ERstlich <objectName ref="#bruehe">brühe</objectName> den Hirs an <lb/> und trockne ihn wieder ab; röste denselben alsdann im Schmaltz <lb/> ( wiewol dieses eben nicht nöthig ist/ ) mach eine gute <objectName ref="#milch">Milch</objectName> in einer Pfannen siedend <lb/> giesse selbige nach und nach an der Hirs <lb/> und mache daß er ferner gantz gelind bey einem Kohlfeuer siede; gilbe ihn mit Saffran <lb/> und gib fleissig achtung <lb/> daß er nicht brandig und stinkend werde : zerklopffe indessen Eyer <lb/> und rühre selbige zu letzt darein <lb/> und richte ihn <lb/> wann er zuvor gesaltzen worden <lb/> in eine <objectName ref="#schuessel">Schüssel</objectName>. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb den <objectName ref="fisch">fisch</objectName> von den LamPreden, vnd mach <lb/> ain Schwarz führes darauß, d ( a ) s heb auf, <lb/> nimb buter vnnd lints gewürz, zugger, <lb/> Imber, <objectName ref="pfeffer">Pfeffer</objectName>, vnd laß bachen auf halbeg, <lb/> wens halb bachen ist, geuß d ( a ) s führes darein, <lb/> vnd laß.2. stunt bachen. <lb/> </p>
+        <p> Nimb den <objectName ref="#fisch">fisch</objectName> von den LamPreden, vnd mach <lb/> ain Schwarz führes darauß, d ( a ) s heb auf, <lb/> nimb buter vnnd lints gewürz, zugger, <lb/> Imber, <objectName ref="#pfeffer">Pfeffer</objectName>, vnd laß bachen auf halbeg, <lb/> wens halb bachen ist, geuß d ( a ) s führes darein, <lb/> vnd laß.2. stunt bachen. <lb/> </p>
             </div>
         </body>
     </text>

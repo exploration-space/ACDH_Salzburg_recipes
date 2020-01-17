@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Stosß mit Khern vnnd all in ainen <objectName ref="moerser">Mörser</objectName>, <lb/> nimb.4. Semel schniten darunter, treibs <lb/> durch mit gueten Rainfl, nimb zugger, Con= <lb/> =fect, gibs kalt, <objectName ref="salz">Salz</objectName> nit. <lb/> </p>
+        <p> Stosß mit Khern vnnd all in ainen <objectName ref="#moerser">Mörser</objectName>, <lb/> nimb.4. Semel schniten darunter, treibs <lb/> durch mit gueten Rainfl, nimb zugger, Con= <lb/> =fect, gibs kalt, <objectName ref="#salz">Salz</objectName> nit. <lb/> </p>
             </div>
         </body>
     </text>

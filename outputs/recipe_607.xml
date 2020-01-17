@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Reib gute geschelte <objectName ref="quitten">Quitten</objectName> auff einem Reibei= sen <lb/> trucks durch ein <objectName ref="tuch">Tuch</objectName> <lb/> vnd thus vbers Fewr <lb/> laß sieden <lb/> vnn verfeims <lb/> nim darzu halb soviel guts Zuck= ers <lb/> als der <objectName ref="quitten">Quitten</objectName> seyn. Zu einer <objectName ref="mass">maß</objectName> Honigs mag man 2. oder 3. <objectName ref="mass">maß</objectName> <objectName ref="wasser">Wasser</objectName> nemen <lb/> vnnd das <objectName ref="wasser">Wasser</objectName> einsieden lassen. Wenn man QuittenLat= wergen isset <lb/> soll man nit <objectName ref="wein">Wein</objectName> <lb/> sondern <objectName ref="wasser">Wasser</objectName> drauff trincken. </p>
+        <p> Reib gute geschelte <objectName ref="#quitten">Quitten</objectName> auff einem Reibei= sen <lb/> trucks durch ein <objectName ref="#tuch">Tuch</objectName> <lb/> vnd thus vbers Fewr <lb/> laß sieden <lb/> vnn verfeims <lb/> nim darzu halb soviel guts Zuck= ers <lb/> als der <objectName ref="#quitten">Quitten</objectName> seyn. Zu einer <objectName ref="#mass">maß</objectName> Honigs mag man 2. oder 3. <objectName ref="#mass">maß</objectName> <objectName ref="#wasser">Wasser</objectName> nemen <lb/> vnnd das <objectName ref="#wasser">Wasser</objectName> einsieden lassen. Wenn man QuittenLat= wergen isset <lb/> soll man nit <objectName ref="#wein">Wein</objectName> <lb/> sondern <objectName ref="#wasser">Wasser</objectName> drauff trincken. </p>
             </div>
         </body>
     </text>

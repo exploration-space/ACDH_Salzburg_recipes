@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb halbs <objectName ref="kalbfleisch">Kalbfleisch</objectName> vnnd Rintfleisch, <lb/> nimb darunter.2. zwifl häpl, Mußcatblie, <lb/> Imber, vnd <objectName ref="pfeffer">Pfeffer</objectName> guete Khreiter, vnd <lb/> laß mehr Ayr. <lb/> </p>
+        <p> Nimb halbs <objectName ref="#kalbfleisch">Kalbfleisch</objectName> vnnd Rintfleisch, <lb/> nimb darunter.2. zwifl häpl, Mußcatblie, <lb/> Imber, vnd <objectName ref="#pfeffer">Pfeffer</objectName> guete Khreiter, vnd <lb/> laß mehr Ayr. <lb/> </p>
             </div>
         </body>
     </text>

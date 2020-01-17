@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Man hat auch mehrleÿ ganz trukhen vnd braten sein, stukhweiß in fäßlein, <lb/> brauchen nit alle <objectName ref="essig">Essig</objectName>, öel vnd <objectName ref="pfeffer">Pfeffer</objectName>, man mag auch Woll die haut daruon, <lb/> thuen, Wie von den Lampretÿ oder darbeÿ lassen, vnd khalt geben, es seind <lb/> auch andere in <objectName ref="salz">salz</objectName>, vnd bleiben eingericht in die fäßl, dise mueß man sauber <lb/> Waschen 2. tag vnd Nacht Wässern, alßdan schier ein stund Sieden, die haut, <lb/> schwaif vnd khopf daruon Wekh, alßdan ein guets gseÿrts öel Prielein, <lb/> gelbs oder Prauns Pfefferl, oder ein dins Weinpörl mießlein drüber. <lb/> </p>
+        <p> Man hat auch mehrleÿ ganz trukhen vnd braten sein, stukhweiß in fäßlein, <lb/> brauchen nit alle <objectName ref="#essig">Essig</objectName>, öel vnd <objectName ref="#pfeffer">Pfeffer</objectName>, man mag auch Woll die haut daruon, <lb/> thuen, Wie von den Lampretÿ oder darbeÿ lassen, vnd khalt geben, es seind <lb/> auch andere in <objectName ref="#salz">salz</objectName>, vnd bleiben eingericht in die fäßl, dise mueß man sauber <lb/> Waschen 2. tag vnd Nacht Wässern, alßdan schier ein stund Sieden, die haut, <lb/> schwaif vnd khopf daruon Wekh, alßdan ein guets gseÿrts öel Prielein, <lb/> gelbs oder Prauns Pfefferl, oder ein dins Weinpörl mießlein drüber. <lb/> </p>
             </div>
         </body>
     </text>

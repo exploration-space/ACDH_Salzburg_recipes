@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SIedet das Hun oder Capaunen schön weiß <lb/> indessen machet und kochet die <objectName ref="nudeln">Nudeln</objectName> <lb/> wie selbige im andern Theil Num. 28. bey dem Hader= und Nudel= Mus beschrieben worden : Wann dann das Hun oder der Capaun genug gesotten sind <lb/> legts in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> richtet die <objectName ref="nudeln">Nudeln</objectName> darüber <lb/> streuet auch Muscaten= Blüh darauf <lb/> und tragts zu <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> SIedet das Hun oder Capaunen schön weiß <lb/> indessen machet und kochet die <objectName ref="#nudeln">Nudeln</objectName> <lb/> wie selbige im andern Theil Num. 28. bey dem Hader= und Nudel= Mus beschrieben worden : Wann dann das Hun oder der Capaun genug gesotten sind <lb/> legts in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> richtet die <objectName ref="#nudeln">Nudeln</objectName> darüber <lb/> streuet auch Muscaten= Blüh darauf <lb/> und tragts zu <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

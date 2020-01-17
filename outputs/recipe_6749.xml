@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Geräucherter Karpffen mit Erbsbrüh <lb/> Petersilgen Wurtzel <lb/> vnnd Muscatenblüt <lb/> gantzen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> vnd ein wenig eyngebrennt <objectName ref="mehl">Mehl</objectName> <lb/> gesotte <lb/> thu frische <objectName ref="butter">Butter</objectName> <lb/> die ungeschmältzt ist <lb/> darein. Du kanst auch wol ein grünen Spenat <lb/> der abgequellt ist <lb/> darein thun <lb/> vn ( n ) wenn du kein Spenat hast <lb/> so magstu es saur machen. </p>
+        <p> Geräucherter Karpffen mit Erbsbrüh <lb/> Petersilgen Wurtzel <lb/> vnnd Muscatenblüt <lb/> gantzen <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> vnd ein wenig eyngebrennt <objectName ref="#mehl">Mehl</objectName> <lb/> gesotte <lb/> thu frische <objectName ref="#butter">Butter</objectName> <lb/> die ungeschmältzt ist <lb/> darein. Du kanst auch wol ein grünen Spenat <lb/> der abgequellt ist <lb/> darein thun <lb/> vn ( n ) wenn du kein Spenat hast <lb/> so magstu es saur machen. </p>
             </div>
         </body>
     </text>

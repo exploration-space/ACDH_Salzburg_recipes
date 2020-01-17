@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIse werden denen kälbernen gleich gemacht <lb/> durch zerlassenen <objectName ref="butter">Butter</objectName> gezogen <lb/> mit klein=gehackten Petersil <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Saltz und angemachten Semmel=Brosen bestreut <lb/> und in mit <objectName ref="butter">Butter</objectName> bestrichenes <objectName ref="papier">Papier</objectName> auf dem <objectName ref="rost">Rost</objectName> gebraten. </p>
+        <p> DIse werden denen kälbernen gleich gemacht <lb/> durch zerlassenen <objectName ref="#butter">Butter</objectName> gezogen <lb/> mit klein=gehackten Petersil <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Saltz und angemachten Semmel=Brosen bestreut <lb/> und in mit <objectName ref="#butter">Butter</objectName> bestrichenes <objectName ref="#papier">Papier</objectName> auf dem <objectName ref="#rost">Rost</objectName> gebraten. </p>
             </div>
         </body>
     </text>

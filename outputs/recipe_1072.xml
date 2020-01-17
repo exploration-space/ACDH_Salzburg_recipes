@@ -179,7 +179,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Take Soles or Flounders, gut and wash them; then scald them in Water to get off the black Skin; cut them in Escallops or indented, that they may lie in the Pye as if they were whole. Keep your Patty-pan ready, with Puff Paste in the Bottom, and a Layer of <objectName ref="butter">Butter</objectName> on it; then season your Fish with a little Pepper, Salt, Cloves, Mace, and Nutmeg, and lay them in your Pattipan, joining the Pieces together; then put in forc 'd Meat Balls made with Fish, Lemon sliced with the rind on, whole oysters, whole Yolks of Eggs, and pickled Barberries; then lid your Pye and bake it. When it is drawn make a Caudle of Oyster Liquor and White-wine, thicken 'd with Yolks of Eggs, and a little <objectName ref="butter">Butter</objectName>. </p>
+        <p> Take Soles or Flounders, gut and wash them; then scald them in Water to get off the black Skin; cut them in Escallops or indented, that they may lie in the Pye as if they were whole. Keep your Patty-pan ready, with Puff Paste in the Bottom, and a Layer of <objectName ref="#butter">Butter</objectName> on it; then season your Fish with a little Pepper, Salt, Cloves, Mace, and Nutmeg, and lay them in your Pattipan, joining the Pieces together; then put in forc 'd Meat Balls made with Fish, Lemon sliced with the rind on, whole oysters, whole Yolks of Eggs, and pickled Barberries; then lid your Pye and bake it. When it is drawn make a Caudle of Oyster Liquor and White-wine, thicken 'd with Yolks of Eggs, and a little <objectName ref="#butter">Butter</objectName>. </p>
             </div>
         </body>
     </text>

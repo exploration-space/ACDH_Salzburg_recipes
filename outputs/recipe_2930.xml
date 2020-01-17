@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Nasen= <objectName ref="fisch">Fisch</objectName> seynd sehr grätig <lb/> können zwar mit den Schuppen heiß oder blau abgesotten <lb/> und mit Eßig und grünen Kräutlein zur Tafel gegeben werden. </p>
+        <p> DIe Nasen= <objectName ref="#fisch">Fisch</objectName> seynd sehr grätig <lb/> können zwar mit den Schuppen heiß oder blau abgesotten <lb/> und mit Eßig und grünen Kräutlein zur Tafel gegeben werden. </p>
             </div>
         </body>
     </text>

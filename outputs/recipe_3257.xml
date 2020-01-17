@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ES wird das <objectName ref="fleisch">Fleisch</objectName> abgelößt <lb/> sauber gebutzt <lb/> und eingedämpfft; oder mit guten <objectName ref="speck">Speck</objectName> <lb/> oder Ochsen= Marck klein= gehackt <lb/> auch mit Zusatz andern Bräts <lb/> gutem Gewürtz <lb/> und wohl Fette zugerührt <lb/> wie ein gutes Bratwürst= <objectName ref="gehaeck">Gehäck</objectName> <lb/> dann wieder den <objectName ref="schlegel">Schlegel</objectName> daraus an das Bein formirt <lb/> mit Speck= Blättlein belegt <lb/> und im <objectName ref="ofen">Ofen</objectName> gebraten <lb/> mit einer guten <objectName ref="bruehe">Brühe</objectName> <lb/> wie oben Nr. 20. zu sehen. </p>
+        <p> ES wird das <objectName ref="#fleisch">Fleisch</objectName> abgelößt <lb/> sauber gebutzt <lb/> und eingedämpfft; oder mit guten <objectName ref="#speck">Speck</objectName> <lb/> oder Ochsen= Marck klein= gehackt <lb/> auch mit Zusatz andern Bräts <lb/> gutem Gewürtz <lb/> und wohl Fette zugerührt <lb/> wie ein gutes Bratwürst= <objectName ref="#gehaeck">Gehäck</objectName> <lb/> dann wieder den <objectName ref="#schlegel">Schlegel</objectName> daraus an das Bein formirt <lb/> mit Speck= Blättlein belegt <lb/> und im <objectName ref="#ofen">Ofen</objectName> gebraten <lb/> mit einer guten <objectName ref="#bruehe">Brühe</objectName> <lb/> wie oben Nr. 20. zu sehen. </p>
             </div>
         </body>
     </text>

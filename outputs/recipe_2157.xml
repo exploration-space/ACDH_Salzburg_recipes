@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wan er schen gewässert ist, seud den im <objectName ref="wasser">Wasser</objectName>, <objectName ref="salz">Salz</objectName> ihn, Wan er <lb/> gesoten, khlaub ihn, nimb dan ein Weite pfan, hiz ein <objectName ref="schmalz">schmalz</objectName>, <lb/> Wirf darein ein khlein gehakhten Zwifl, vnd den stokhfisch auch <lb/> darzue, rest ihn nit lang, kher ihn gleich ein Wenig umb, darnach <lb/> geuß ein Prüe dran, Warin der stokhfisch gesoten, oder ein Arbes brüe, <lb/> öel vnd gewürz, ein Wenig geschnitnen Petersill, laß ineinander ein= <lb/> = dempfen. <lb/><lb/> ( 45v ) </p>
+        <p> Wan er schen gewässert ist, seud den im <objectName ref="#wasser">Wasser</objectName>, <objectName ref="#salz">Salz</objectName> ihn, Wan er <lb/> gesoten, khlaub ihn, nimb dan ein Weite pfan, hiz ein <objectName ref="#schmalz">schmalz</objectName>, <lb/> Wirf darein ein khlein gehakhten Zwifl, vnd den stokhfisch auch <lb/> darzue, rest ihn nit lang, kher ihn gleich ein Wenig umb, darnach <lb/> geuß ein Prüe dran, Warin der stokhfisch gesoten, oder ein Arbes brüe, <lb/> öel vnd gewürz, ein Wenig geschnitnen Petersill, laß ineinander ein= <lb/> = dempfen. <lb/><lb/> ( 45v ) </p>
             </div>
         </body>
     </text>

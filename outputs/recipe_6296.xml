@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Thu jhn auß dem Faß in ein grossen Kübel <lb/> oder ander <objectName ref="geschirr">Geschirr</objectName> <lb/> daß der Geschmack davon außrichen mög <lb/> thu darnach Eppichkraut in ein <objectName ref="rein">rein</objectName> leinen <objectName ref="tuch">Tuch</objectName> gewunden darein <lb/> laß zween tag also stehen <lb/> darnach geuß den <objectName ref="wein">Wein</objectName> wider in ein vngebichtes Faß. Wils jedoch nicht helffen <lb/> so sol man Salbey vnd Hopffen darein hencken. Also mag man auch <objectName ref="wein">Wein</objectName> <lb/> der nach der Erden schmäcket <lb/> wider bringen. </p>
+        <p> Thu jhn auß dem Faß in ein grossen Kübel <lb/> oder ander <objectName ref="#geschirr">Geschirr</objectName> <lb/> daß der Geschmack davon außrichen mög <lb/> thu darnach Eppichkraut in ein <objectName ref="#rein">rein</objectName> leinen <objectName ref="#tuch">Tuch</objectName> gewunden darein <lb/> laß zween tag also stehen <lb/> darnach geuß den <objectName ref="#wein">Wein</objectName> wider in ein vngebichtes Faß. Wils jedoch nicht helffen <lb/> so sol man Salbey vnd Hopffen darein hencken. Also mag man auch <objectName ref="#wein">Wein</objectName> <lb/> der nach der Erden schmäcket <lb/> wider bringen. </p>
             </div>
         </body>
     </text>

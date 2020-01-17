@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schipp<gap/> den Höchten, vnnd thue ihm <lb/> auf, mach ihm Zu stickhl<gap/>, Siedt<gap/> <lb/> ihne in össig, ab wie andermall, <lb/> seich<gap/> die brie<gap/> daruon, thue den <lb/> <objectName ref="fisch">fisch</objectName> in ein rein<gap/>, Gies<gap/> siessen<gap/> <lb/> <objectName ref="wein">Wein</objectName>, in ein häfl<gap/> auch Päte<gap/> <lb/> schnidl<gap/> vnd arbes brie<gap/>, vnnd <lb/> Zwifl<gap/>, las siedten<gap/> dreibs<gap/> durch <lb/> das sibl<gap/> an den <objectName ref="fisch">fisch</objectName>, Gewürz<gap/>, <lb/> vnnd Gilbs<gap/>, mit Saffran<gap/>, lass <lb/> ein siedlein<gap/> thuen, Er ist Guett. <lb/><lb/> ( ve 38 ) [ Anm. : „ Pollnische <objectName ref="suppe">Suppe</objectName> “ : siehe Rezept 11. ] </p>
+        <p> Schipp<gap/> den Höchten, vnnd thue ihm <lb/> auf, mach ihm Zu stickhl<gap/>, Siedt<gap/> <lb/> ihne in össig, ab wie andermall, <lb/> seich<gap/> die brie<gap/> daruon, thue den <lb/> <objectName ref="#fisch">fisch</objectName> in ein rein<gap/>, Gies<gap/> siessen<gap/> <lb/> <objectName ref="#wein">Wein</objectName>, in ein häfl<gap/> auch Päte<gap/> <lb/> schnidl<gap/> vnd arbes brie<gap/>, vnnd <lb/> Zwifl<gap/>, las siedten<gap/> dreibs<gap/> durch <lb/> das sibl<gap/> an den <objectName ref="#fisch">fisch</objectName>, Gewürz<gap/>, <lb/> vnnd Gilbs<gap/>, mit Saffran<gap/>, lass <lb/> ein siedlein<gap/> thuen, Er ist Guett. <lb/><lb/> ( ve 38 ) [ Anm. : „ Pollnische <objectName ref="#suppe">Suppe</objectName> “ : siehe Rezept 11. ] </p>
             </div>
         </body>
     </text>

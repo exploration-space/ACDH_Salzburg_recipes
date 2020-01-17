@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> FAsolen <lb/> so noch jung und nicht gar halb gewachsen <lb/> die Fäden beyderseits darvon abgezogen <lb/> gantz oder Stücklein= weiß <lb/> gleich den <objectName ref="spargel">Spargeln</objectName> gebrüht <lb/> werden gut mit <objectName ref="pfeffer">Pfeffer</objectName> und <objectName ref="butter">Butter</objectName> <lb/> auch andern Fricassen, und guten <objectName ref="bruehe">Brühen</objectName> <lb/> mit kurtzer Soß zu geben. </p>
+        <p> FAsolen <lb/> so noch jung und nicht gar halb gewachsen <lb/> die Fäden beyderseits darvon abgezogen <lb/> gantz oder Stücklein= weiß <lb/> gleich den <objectName ref="#spargel">Spargeln</objectName> gebrüht <lb/> werden gut mit <objectName ref="#pfeffer">Pfeffer</objectName> und <objectName ref="#butter">Butter</objectName> <lb/> auch andern Fricassen, und guten <objectName ref="#bruehe">Brühen</objectName> <lb/> mit kurtzer Soß zu geben. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein Viertung<gap/> <objectName ref="butter">butter</objectName>, treib<gap/> ihn <lb/> ab, das er schön weis<gap/> wirdt schlag. <lb/> 6. Ayr<gap/> darein, vnnd ein Germ<gap/> <lb/> mache ein siess obers<gap/> lablet<gap/>, vnd <lb/> rieh<gap/> es alles vnder ein ander ab, vnnd <lb/> soche<gap/> mell darein vnd mach ein <lb/> Geringen taig<gap/> an G las Gehen <lb/> schmirb<gap/> ein böckh<gap/> mit Putter Gies<gap/> <lb/> disen taig darein, vnd baches<gap/> schön <lb/> so ists fertig <lb/><lb/> ( ve 87 ) [ Anm. : „ mach ein Geringen taig an … “ - mache einen eher dünnen, flüssigen <objectName ref="backteig">Backteig</objectName> an ] </p>
+        <p> Nimb ein Viertung<gap/> <objectName ref="#butter">butter</objectName>, treib<gap/> ihn <lb/> ab, das er schön weis<gap/> wirdt schlag. <lb/> 6. Ayr<gap/> darein, vnnd ein Germ<gap/> <lb/> mache ein siess obers<gap/> lablet<gap/>, vnd <lb/> rieh<gap/> es alles vnder ein ander ab, vnnd <lb/> soche<gap/> mell darein vnd mach ein <lb/> Geringen taig<gap/> an G las Gehen <lb/> schmirb<gap/> ein böckh<gap/> mit Putter Gies<gap/> <lb/> disen taig darein, vnd baches<gap/> schön <lb/> so ists fertig <lb/><lb/> ( ve 87 ) [ Anm. : „ mach ein Geringen taig an … “ - mache einen eher dünnen, flüssigen <objectName ref="#backteig">Backteig</objectName> an ] </p>
             </div>
         </body>
     </text>

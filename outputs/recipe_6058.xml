@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIses <objectName ref="fleisch">Fleisch</objectName> wird von dem Niern=Brätlein abgeschnitten <lb/> eingewässert <lb/> und gleich den Brüßlein überbrühet; dann nach Belieben zu Stücklein geschnitten <lb/> und mit <lb/> oder ohne Zusatz ein gutes Fricasse darauß gemacht <lb/> und also mit einer gelben Zwibel=oder Capry=Brühe gegeben. </p>
+        <p> DIses <objectName ref="#fleisch">Fleisch</objectName> wird von dem Niern=Brätlein abgeschnitten <lb/> eingewässert <lb/> und gleich den Brüßlein überbrühet; dann nach Belieben zu Stücklein geschnitten <lb/> und mit <lb/> oder ohne Zusatz ein gutes Fricasse darauß gemacht <lb/> und also mit einer gelben Zwibel=oder Capry=Brühe gegeben. </p>
             </div>
         </body>
     </text>

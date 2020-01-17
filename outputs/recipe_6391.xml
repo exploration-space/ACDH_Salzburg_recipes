@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Koch Him ( m ) elthaw in <objectName ref="mandelmilch">Mandelmilch</objectName> <lb/> machs süß mit weissem <objectName ref="zucker">Zucker</objectName> <lb/> vn ( n ) laß damit sieden <lb/> thu vnzerlassene <objectName ref="butter">Butter</objectName> darvnter <lb/> so wirt es desto weisser vnd wolgeschmacker <lb/> sträw <objectName ref="zucker">Zucker</objectName> darüber <lb/> vnnd spreng ein wenig Saltz darein <lb/> denn die <objectName ref="mandelmilch">Mandelmilch</objectName> leidet nicht viel Saltz. </p>
+        <p> Koch Him ( m ) elthaw in <objectName ref="#mandelmilch">Mandelmilch</objectName> <lb/> machs süß mit weissem <objectName ref="#zucker">Zucker</objectName> <lb/> vn ( n ) laß damit sieden <lb/> thu vnzerlassene <objectName ref="#butter">Butter</objectName> darvnter <lb/> so wirt es desto weisser vnd wolgeschmacker <lb/> sträw <objectName ref="#zucker">Zucker</objectName> darüber <lb/> vnnd spreng ein wenig Saltz darein <lb/> denn die <objectName ref="#mandelmilch">Mandelmilch</objectName> leidet nicht viel Saltz. </p>
             </div>
         </body>
     </text>

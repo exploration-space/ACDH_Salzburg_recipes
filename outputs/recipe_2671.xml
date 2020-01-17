@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WEiche ein viertel <objectName ref="pfund">Pfund</objectName> <objectName ref="mandeln">Mandeln</objectName> in ein warmes <objectName ref="wasser">Wasser</objectName> <lb/> ziehe die Schelfen herab <lb/> stosse sie mit einem frischen <objectName ref="wasser">Wasser</objectName> klein <lb/> daß sie nicht ölicht werden; treibs hernach mit <objectName ref="wein">Wein</objectName> durch ein härines Sieblein oder <objectName ref="durchschlag">Durchschlag</objectName> <lb/> thue <objectName ref="zucker">Zucker</objectName> und ein wenig Saffran <lb/> wie auch ein Stücklein <objectName ref="butter">Butter</objectName> daran; laß es alsdann aufsieden <lb/> und rührs immerzu <lb/> richte es dann über weiß gebähtes Brod. </p>
+        <p> WEiche ein viertel <objectName ref="#pfund">Pfund</objectName> <objectName ref="#mandeln">Mandeln</objectName> in ein warmes <objectName ref="#wasser">Wasser</objectName> <lb/> ziehe die Schelfen herab <lb/> stosse sie mit einem frischen <objectName ref="#wasser">Wasser</objectName> klein <lb/> daß sie nicht ölicht werden; treibs hernach mit <objectName ref="#wein">Wein</objectName> durch ein härines Sieblein oder <objectName ref="#durchschlag">Durchschlag</objectName> <lb/> thue <objectName ref="#zucker">Zucker</objectName> und ein wenig Saffran <lb/> wie auch ein Stücklein <objectName ref="#butter">Butter</objectName> daran; laß es alsdann aufsieden <lb/> und rührs immerzu <lb/> richte es dann über weiß gebähtes Brod. </p>
             </div>
         </body>
     </text>

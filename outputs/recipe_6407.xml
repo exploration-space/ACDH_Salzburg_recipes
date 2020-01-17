@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Grün Köl mit Schweinenfüssen <lb/> Ohren <lb/> vnd guter Rindtfleischbrüh angemacht <lb/> mit gantzem <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Muscatenblüt <lb/> gestossenen <objectName ref="ingwer">Ingwer</objectName> <lb/> vnd kleinen geschnittenen Knobloch <lb/> laß darmit auffsieden <lb/> so wirt es gut vn ( n ) wolgeschmack. </p>
+        <p> Grün Köl mit Schweinenfüssen <lb/> Ohren <lb/> vnd guter Rindtfleischbrüh angemacht <lb/> mit gantzem <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Muscatenblüt <lb/> gestossenen <objectName ref="#ingwer">Ingwer</objectName> <lb/> vnd kleinen geschnittenen Knobloch <lb/> laß darmit auffsieden <lb/> so wirt es gut vn ( n ) wolgeschmack. </p>
             </div>
         </body>
     </text>

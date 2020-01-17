@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr Capaun wird in feine Stück zerlegt <lb/> mit <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet <lb/> Lemoni und Muscatnuß <lb/> auch Weinbeerlein in gutem weissen <objectName ref="wein">Wein</objectName> <lb/> oder Eßig gepaitzt <lb/> auf eine <objectName ref="schuessel">Schüssel</objectName> mit gebähten Semmel= Schnitten <lb/> oder ohne dieselbe auf die <objectName ref="schuessel">Schüssel</objectName> sauber angericht <lb/> mit <objectName ref="zucker">Zucker</objectName> <lb/> Pinioli, und Muscatnuß <lb/> auch Lemoni= Schelffen <lb/> oder mit einem eingemachten weiß= oder rothen Citronen= Kräutlein <lb/> oder mit einem solchen Pomerantzen= Kräutlein bestreut. </p>
+        <p> DEr Capaun wird in feine Stück zerlegt <lb/> mit <objectName ref="#zucker">Zucker</objectName> <lb/> Zimmet <lb/> Lemoni und Muscatnuß <lb/> auch Weinbeerlein in gutem weissen <objectName ref="#wein">Wein</objectName> <lb/> oder Eßig gepaitzt <lb/> auf eine <objectName ref="#schuessel">Schüssel</objectName> mit gebähten Semmel= Schnitten <lb/> oder ohne dieselbe auf die <objectName ref="#schuessel">Schüssel</objectName> sauber angericht <lb/> mit <objectName ref="#zucker">Zucker</objectName> <lb/> Pinioli, und Muscatnuß <lb/> auch Lemoni= Schelffen <lb/> oder mit einem eingemachten weiß= oder rothen Citronen= Kräutlein <lb/> oder mit einem solchen Pomerantzen= Kräutlein bestreut. </p>
             </div>
         </body>
     </text>

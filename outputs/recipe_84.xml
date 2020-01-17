@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Krepßen sieths<gap/>, fissls<gap/> sye Auss <lb/> vnnd hackhs Clein, schlag Ayr<gap/> daran <lb/> vnnd ein wenig siess obers<gap/> riehr<gap/> alles <lb/> vndereinander vnnd fils<gap/> in ein <lb/> Därmbel<gap/> Nimb auch ein Kreps <lb/><lb/> ( re 33 ) buttter<gap/> Darein vnnd siets<gap/> Preines<gap/> <lb/> hernach in einer Pfan<gap/> ab, mit <lb/> <objectName ref="butter">butter</objectName> oder schmalz<gap/> darnach richts <lb/> auf ein schissl<gap/> Gies<gap/> die brie<gap/> daran <lb/> vnnd Kreps Putter<gap/> darzurgelegt <lb/> lass breglen<gap/> auf einer Gluet<gap/> so <lb/> seindt sye Guett <lb/> </p>
+        <p> Nimb Krepßen sieths<gap/>, fissls<gap/> sye Auss <lb/> vnnd hackhs Clein, schlag Ayr<gap/> daran <lb/> vnnd ein wenig siess obers<gap/> riehr<gap/> alles <lb/> vndereinander vnnd fils<gap/> in ein <lb/> Därmbel<gap/> Nimb auch ein Kreps <lb/><lb/> ( re 33 ) buttter<gap/> Darein vnnd siets<gap/> Preines<gap/> <lb/> hernach in einer Pfan<gap/> ab, mit <lb/> <objectName ref="#butter">butter</objectName> oder schmalz<gap/> darnach richts <lb/> auf ein schissl<gap/> Gies<gap/> die brie<gap/> daran <lb/> vnnd Kreps Putter<gap/> darzurgelegt <lb/> lass breglen<gap/> auf einer Gluet<gap/> so <lb/> seindt sye Guett <lb/> </p>
             </div>
         </body>
     </text>

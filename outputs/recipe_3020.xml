@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIto wilde Ruben <lb/> so in dem Getreyd und fetten Aeckern wachsen <lb/> und hernach gelbe <objectName ref="blumen">Blumen</objectName> und Saamen machen <lb/> diese seynd gut im Frühling zum Verkochen <lb/> und kalter zum <objectName ref="salat">Salat</objectName> <lb/> wann sie noch jung und Spannen= lang seynd. </p>
+        <p> DIto wilde Ruben <lb/> so in dem Getreyd und fetten Aeckern wachsen <lb/> und hernach gelbe <objectName ref="#blumen">Blumen</objectName> und Saamen machen <lb/> diese seynd gut im Frühling zum Verkochen <lb/> und kalter zum <objectName ref="#salat">Salat</objectName> <lb/> wann sie noch jung und Spannen= lang seynd. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BEreitet und siedet die Hüner oder Capaunen <lb/> wie ein und andermal schon gedacht <lb/> daß sie schön weiß werden; hernach reibet den Meerrettig <lb/> stosset <objectName ref="mandeln">Mandeln</objectName> klein <lb/> und mischets darunter <lb/> giesst auch Fleischbrüh oder dicke <objectName ref="milch">Milch</objectName> daran <lb/> last es einen Sud aufthun <lb/> und richtet es über die gesottene Hüner oder Capaunen in eine <objectName ref="schuessel">Schüssel</objectName>. </p>
+        <p> BEreitet und siedet die Hüner oder Capaunen <lb/> wie ein und andermal schon gedacht <lb/> daß sie schön weiß werden; hernach reibet den Meerrettig <lb/> stosset <objectName ref="#mandeln">Mandeln</objectName> klein <lb/> und mischets darunter <lb/> giesst auch Fleischbrüh oder dicke <objectName ref="#milch">Milch</objectName> daran <lb/> last es einen Sud aufthun <lb/> und richtet es über die gesottene Hüner oder Capaunen in eine <objectName ref="#schuessel">Schüssel</objectName>. </p>
             </div>
         </body>
     </text>

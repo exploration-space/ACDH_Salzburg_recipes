@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimm ganz brätiges <objectName ref="rindfleisch">Rindfleisch</objectName> <lb/> hacke es klein <lb/> mit rinderner Faisten <lb/> in <objectName ref="milch">Milch</objectName> geweicht = und wieder ausgedruckter Semmel <lb/> Gewürtz <lb/> 2. oder 3. Eyer <lb/> wohlriechenden <objectName ref="kraeuter">Kräutern</objectName> <lb/> und gebürendem Saltz <lb/> und röste kleingeschnittnen Zwibel darein; machs an <lb/> laß es sieden <lb/> und gibs mit einer guten <objectName ref="fleischbruehe">Fleischbrühe</objectName>. </p>
+        <p> Nimm ganz brätiges <objectName ref="#rindfleisch">Rindfleisch</objectName> <lb/> hacke es klein <lb/> mit rinderner Faisten <lb/> in <objectName ref="#milch">Milch</objectName> geweicht = und wieder ausgedruckter Semmel <lb/> Gewürtz <lb/> 2. oder 3. Eyer <lb/> wohlriechenden <objectName ref="#kraeuter">Kräutern</objectName> <lb/> und gebürendem Saltz <lb/> und röste kleingeschnittnen Zwibel darein; machs an <lb/> laß es sieden <lb/> und gibs mit einer guten <objectName ref="#fleischbruehe">Fleischbrühe</objectName>. </p>
             </div>
         </body>
     </text>

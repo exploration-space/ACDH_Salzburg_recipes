@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn die Köpflein wohl weich gesotten <lb/> zerlegt <lb/> und sauber ausgebutzt seynd <lb/> so wird die Zung <lb/> sammt den abgelößten <objectName ref="fleisch">Fleisch</objectName> und <objectName ref="hirn">Hirn</objectName> gewürtzt <lb/> und in ein mit <objectName ref="butter">Butter</objectName> wohl= beschmierte <objectName ref="schuessel">Schüssel</objectName> gelegt; dann nimm aufgeschlagene Eyer <lb/> mit süssen Milchram <lb/> und klein= gehackten Petersil <lb/> auch wenig Saltz wohl abgeschlagen <lb/> in die <objectName ref="schuessel">Schüssel</objectName> über die Köpflein gegossen <lb/> gib unten und oben <objectName ref="glut">Glut</objectName> <lb/> so ist es bald fertig und gut. </p>
+        <p> WAnn die Köpflein wohl weich gesotten <lb/> zerlegt <lb/> und sauber ausgebutzt seynd <lb/> so wird die Zung <lb/> sammt den abgelößten <objectName ref="#fleisch">Fleisch</objectName> und <objectName ref="#hirn">Hirn</objectName> gewürtzt <lb/> und in ein mit <objectName ref="#butter">Butter</objectName> wohl= beschmierte <objectName ref="#schuessel">Schüssel</objectName> gelegt; dann nimm aufgeschlagene Eyer <lb/> mit süssen Milchram <lb/> und klein= gehackten Petersil <lb/> auch wenig Saltz wohl abgeschlagen <lb/> in die <objectName ref="#schuessel">Schüssel</objectName> über die Köpflein gegossen <lb/> gib unten und oben <objectName ref="#glut">Glut</objectName> <lb/> so ist es bald fertig und gut. </p>
             </div>
         </body>
     </text>

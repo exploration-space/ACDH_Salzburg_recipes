@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> HAck einen <objectName ref="schlegel">Schlegel</objectName> <lb/> oder Stengel in 2. oder 3. Stuck <lb/> legs in einen <objectName ref="kessel">Kessel</objectName> <lb/> und verschmiers mit einem Taig wol <lb/> setz es auf kleines <objectName ref="feuer">Feuer</objectName> biß 12. Stund <lb/> also wird es genug gesotten seyn <lb/> thue zu den jenigen Speisen <lb/> was nöthig hiervon zu bedienen; du kanst auch ein gleiches thun mit Rind= und Schöpsen= <objectName ref="fleisch">Fleisch</objectName>. </p>
+        <p> HAck einen <objectName ref="#schlegel">Schlegel</objectName> <lb/> oder Stengel in 2. oder 3. Stuck <lb/> legs in einen <objectName ref="#kessel">Kessel</objectName> <lb/> und verschmiers mit einem Taig wol <lb/> setz es auf kleines <objectName ref="#feuer">Feuer</objectName> biß 12. Stund <lb/> also wird es genug gesotten seyn <lb/> thue zu den jenigen Speisen <lb/> was nöthig hiervon zu bedienen; du kanst auch ein gleiches thun mit Rind= und Schöpsen= <objectName ref="#fleisch">Fleisch</objectName>. </p>
             </div>
         </body>
     </text>

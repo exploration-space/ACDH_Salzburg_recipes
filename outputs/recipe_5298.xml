@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Eyer <lb/> die hart gesotten seyn <lb/> hack sie klein <lb/> vnd mach sie an mit kleinen schwartzen Rosein <lb/> <objectName ref="pfeffer">Pfeffer</objectName> vnd Saffran <lb/> machs süß <lb/> vnd schaw versaltz es nicht. Nim ( m ) darnach ein roh Ey <lb/> vnd geriebenen Weck <lb/> hacks durcheinander <lb/> mach <objectName ref="knoedel">Knödel</objectName> darauß <lb/> vnnd wirff eins nach dem andern in heisse <objectName ref="butter">Butter</objectName> <lb/> backs fein langsam <lb/> thu es in einen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> der wol gekocht vnd zugericht ist <lb/> oder sonst in ein Mandelgescharb <lb/> so wirt es gut vnd auch wolgeschmack. Also kocht man die Eyeressen <lb/> es sey gelb oder im <objectName ref="pfeffer">Pfeffer</objectName>. </p>
+        <p> Nim ( m ) Eyer <lb/> die hart gesotten seyn <lb/> hack sie klein <lb/> vnd mach sie an mit kleinen schwartzen Rosein <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> vnd Saffran <lb/> machs süß <lb/> vnd schaw versaltz es nicht. Nim ( m ) darnach ein roh Ey <lb/> vnd geriebenen Weck <lb/> hacks durcheinander <lb/> mach <objectName ref="#knoedel">Knödel</objectName> darauß <lb/> vnnd wirff eins nach dem andern in heisse <objectName ref="#butter">Butter</objectName> <lb/> backs fein langsam <lb/> thu es in einen <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> der wol gekocht vnd zugericht ist <lb/> oder sonst in ein Mandelgescharb <lb/> so wirt es gut vnd auch wolgeschmack. Also kocht man die Eyeressen <lb/> es sey gelb oder im <objectName ref="#pfeffer">Pfeffer</objectName>. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb derselben kern 7. oder 8. l. zu ein <lb/> ainen Bouch : d´aqa wasche sie Sauber <lb/> aus thue sie im merscher zerstosßen, <lb/> aber nit druckhen sondern schütte ein wenig <lb/> wasßer zue, treibe sie hernach durch <lb/> ein Subtiles Sib in die schüsßl, nimb <lb/> darzu ein wenig Pameränzen wasßer – <lb/> vnd mit dem zckher – Conserva <lb/> laß kalt werden oder gfrührn nimb <lb/> auch 2. tropfen quinta <objectName ref="essenz">essenz</objectName> aber <lb/> zue durch daß hartuech gesugen damit <lb/> die fette hangen bleibt. wan ichs aber <lb/> geschölter kann haben so ist es besßer. <lb/> </p>
+        <p> Nimb derselben kern 7. oder 8. l. zu ein <lb/> ainen Bouch : d´aqa wasche sie Sauber <lb/> aus thue sie im merscher zerstosßen, <lb/> aber nit druckhen sondern schütte ein wenig <lb/> wasßer zue, treibe sie hernach durch <lb/> ein Subtiles Sib in die schüsßl, nimb <lb/> darzu ein wenig Pameränzen wasßer – <lb/> vnd mit dem zckher – Conserva <lb/> laß kalt werden oder gfrührn nimb <lb/> auch 2. tropfen quinta <objectName ref="#essenz">essenz</objectName> aber <lb/> zue durch daß hartuech gesugen damit <lb/> die fette hangen bleibt. wan ichs aber <lb/> geschölter kann haben so ist es besßer. <lb/> </p>
             </div>
         </body>
     </text>

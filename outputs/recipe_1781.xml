@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Scheelß vnd bar d ( a ) s <objectName ref="herz">herz</objectName> herauß, legs ein in <lb/> die Posteten, in zugger od ( er ) hennig, lints ge= <lb/> =würz, ganze Nägl, laß ain stunt, <objectName ref="salz">Salz</objectName> <lb/> nit. <lb/> </p>
+        <p> Scheelß vnd bar d ( a ) s <objectName ref="#herz">herz</objectName> herauß, legs ein in <lb/> die Posteten, in zugger od ( er ) hennig, lints ge= <lb/> =würz, ganze Nägl, laß ain stunt, <objectName ref="#salz">Salz</objectName> <lb/> nit. <lb/> </p>
             </div>
         </body>
     </text>

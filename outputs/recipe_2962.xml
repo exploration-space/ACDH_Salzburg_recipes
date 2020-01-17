@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Köhl= Sprossen <lb/> oder Brock= Köhl <lb/> so in der Einsetz nebenbey heraus wachsen <lb/> seynd gut gesotten <lb/> und mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> <objectName ref="butter">Butter</objectName> <lb/> oder Oel gemacht <lb/> kalt und warm. </p>
+        <p> Köhl= Sprossen <lb/> oder Brock= Köhl <lb/> so in der Einsetz nebenbey heraus wachsen <lb/> seynd gut gesotten <lb/> und mit <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> <objectName ref="#butter">Butter</objectName> <lb/> oder Oel gemacht <lb/> kalt und warm. </p>
             </div>
         </body>
     </text>

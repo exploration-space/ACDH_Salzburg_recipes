@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wiltu <objectName ref="wasser">Wasser</objectName> von dem <objectName ref="wein">Wein</objectName> scheiden <lb/> daß der <objectName ref="wein">Wein</objectName> nit kranck werde <lb/> vnd sich davon verstosse <lb/> so thu jm also <lb/> wenn der <objectName ref="most">Most</objectName> gelegt ist <lb/> vnnd in sein Faß kommen <lb/> vnnd jetzundt geren wil <lb/> so laß jn bald in ein ander Faß <lb/> so bleibet das <objectName ref="wasser">Wasser</objectName> vnden im Grundt <lb/> vmb seiner schwere willen. </p>
+        <p> Wiltu <objectName ref="#wasser">Wasser</objectName> von dem <objectName ref="#wein">Wein</objectName> scheiden <lb/> daß der <objectName ref="#wein">Wein</objectName> nit kranck werde <lb/> vnd sich davon verstosse <lb/> so thu jm also <lb/> wenn der <objectName ref="#most">Most</objectName> gelegt ist <lb/> vnnd in sein Faß kommen <lb/> vnnd jetzundt geren wil <lb/> so laß jn bald in ein ander Faß <lb/> so bleibet das <objectName ref="#wasser">Wasser</objectName> vnden im Grundt <lb/> vmb seiner schwere willen. </p>
             </div>
         </body>
     </text>

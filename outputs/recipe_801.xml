@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Die Kerner mit dem Peltz sauber ausgebutzt <lb/> mit viel <objectName ref="zucker">Zucker</objectName> oder Hönig <lb/> etlich Tropffen <objectName ref="wein">Wein</objectName> <lb/> mit gantzen Zimmet <lb/> und etlichen Näglein lassen zugedeckter langsam wol weich sieden <lb/> bey dem Anrichten auf gebähte Semmel=Schnitten angericht <lb/> mit Absonderung des Gewürtzes <lb/> ist gut <lb/> und auch gesund. </p>
+        <p> Die Kerner mit dem Peltz sauber ausgebutzt <lb/> mit viel <objectName ref="#zucker">Zucker</objectName> oder Hönig <lb/> etlich Tropffen <objectName ref="#wein">Wein</objectName> <lb/> mit gantzen Zimmet <lb/> und etlichen Näglein lassen zugedeckter langsam wol weich sieden <lb/> bey dem Anrichten auf gebähte Semmel=Schnitten angericht <lb/> mit Absonderung des Gewürtzes <lb/> ist gut <lb/> und auch gesund. </p>
             </div>
         </body>
     </text>

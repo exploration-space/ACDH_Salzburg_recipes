@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) <objectName ref="mehl">Mehl</objectName> <lb/> warmes <objectName ref="wasser">Wasser</objectName> <lb/> vnnd ein wenig <objectName ref="butter">Butter</objectName> vnd Saltz <lb/> mach das <objectName ref="mehl">Mehl</objectName> damit ab <lb/> vnnd mach ein <objectName ref="teig">Teig</objectName> darauß <lb/> nicht gar zu dick <lb/> daß du jhn außtreibest mit einem Walger <lb/> schlag den Manscho Blancko darein <lb/> vnd mach Krapffen darauß <lb/> nim ( m ) heisse <objectName ref="butter">Butter</objectName> <lb/> vnd backs fein kül auß <lb/> daß fein weiß bleibet <lb/> vnnd nicht braun <lb/> so wirdt der <objectName ref="teig">Teig</objectName> resch vnd gut. Wen ( n ) du es anrichtest <lb/> so besträw es mit weissem <objectName ref="zucker">Zucker</objectName>. </p>
+        <p> Nim ( m ) <objectName ref="#mehl">Mehl</objectName> <lb/> warmes <objectName ref="#wasser">Wasser</objectName> <lb/> vnnd ein wenig <objectName ref="#butter">Butter</objectName> vnd Saltz <lb/> mach das <objectName ref="#mehl">Mehl</objectName> damit ab <lb/> vnnd mach ein <objectName ref="#teig">Teig</objectName> darauß <lb/> nicht gar zu dick <lb/> daß du jhn außtreibest mit einem Walger <lb/> schlag den Manscho Blancko darein <lb/> vnd mach Krapffen darauß <lb/> nim ( m ) heisse <objectName ref="#butter">Butter</objectName> <lb/> vnd backs fein kül auß <lb/> daß fein weiß bleibet <lb/> vnnd nicht braun <lb/> so wirdt der <objectName ref="#teig">Teig</objectName> resch vnd gut. Wen ( n ) du es anrichtest <lb/> so besträw es mit weissem <objectName ref="#zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

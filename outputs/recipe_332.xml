@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein Halben thaill österreicher <lb/> <objectName ref="wein">Wein</objectName> vnnd halb <objectName ref="wasser">Wasser</objectName> thue thur <lb/> nosoll<gap/> Flöckhl<gap/> Darein, vnd Zuckhers <lb/> Nimb Ganze Zimmet<gap/> vnd Ganze <lb/><lb/> ( ve 161 ) Nägl<gap/> aber nit so vill als Zimmet, <lb/> vnnd ein Ganze Musgatblie<gap/>, <lb/> vnnd Nimb von der bemelten Hausen <lb/> bladtern<gap/>, Auf Die lezt Darein, <lb/> vnnd lass ein einiges sidl<gap/> thuen, <lb/> ist Recht vnnd Guett. <lb/> </p>
+        <p> Nimb ein Halben thaill österreicher <lb/> <objectName ref="#wein">Wein</objectName> vnnd halb <objectName ref="#wasser">Wasser</objectName> thue thur <lb/> nosoll<gap/> Flöckhl<gap/> Darein, vnd Zuckhers <lb/> Nimb Ganze Zimmet<gap/> vnd Ganze <lb/><lb/> ( ve 161 ) Nägl<gap/> aber nit so vill als Zimmet, <lb/> vnnd ein Ganze Musgatblie<gap/>, <lb/> vnnd Nimb von der bemelten Hausen <lb/> bladtern<gap/>, Auf Die lezt Darein, <lb/> vnnd lass ein einiges sidl<gap/> thuen, <lb/> ist Recht vnnd Guett. <lb/> </p>
             </div>
         </body>
     </text>

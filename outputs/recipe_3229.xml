@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr Schaafs= Kopff wird wohl gesotten <lb/> gebutzt <lb/> abgelößt <lb/> und sammt der Zung in gelber Zwibel= oder einer Lemoni= <objectName ref="bruehe">Brühe</objectName> <lb/> mit <objectName ref="wein">Wein</objectName> gesäuert; wie bey denen Kalbs= Köpffen beschrieben worden. </p>
+        <p> DEr Schaafs= Kopff wird wohl gesotten <lb/> gebutzt <lb/> abgelößt <lb/> und sammt der Zung in gelber Zwibel= oder einer Lemoni= <objectName ref="#bruehe">Brühe</objectName> <lb/> mit <objectName ref="#wein">Wein</objectName> gesäuert; wie bey denen Kalbs= Köpffen beschrieben worden. </p>
             </div>
         </body>
     </text>

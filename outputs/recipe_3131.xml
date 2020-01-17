@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> PAstenacker= Wurtzen gebutzt und gebrüht <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> <objectName ref="essig">Essig</objectName> und Oel angemacht <lb/> ist auch gut. </p>
+        <p> PAstenacker= Wurtzen gebutzt und gebrüht <lb/> mit <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> <objectName ref="#essig">Essig</objectName> und Oel angemacht <lb/> ist auch gut. </p>
             </div>
         </body>
     </text>

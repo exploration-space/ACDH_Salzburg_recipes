@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) <objectName ref="feigen">Feigen</objectName> <lb/> vnd stoß sie klein <lb/> nim ( m ) etliche Eyerdotter darvnter <lb/> vn ( n ) machs nicht gar zu dünn <lb/> noch zu dick <lb/> daß du es kanst eynziehen mit einem höltzern <objectName ref="loeffel">Löffel</objectName> in ein Turtenpfannen <lb/> darinnen heisse <objectName ref="butter">Butter</objectName> ist <lb/> zeuch ein häufflein drey oder vier eyn <lb/> daß sie miteinander anrüren <lb/> vnd daß du kanst ein jeglichs nebeneinander vmkehrn <lb/> vnnd geschwindt außbacken <lb/> besträw es mit <objectName ref="zucker">Zucker</objectName> <lb/> vnd gibs warm auff ein <objectName ref="tisch">Tisch</objectName>. Also macht man Turtelet von <objectName ref="feigen">Feigen</objectName>. </p>
+        <p> Nim ( m ) <objectName ref="#feigen">Feigen</objectName> <lb/> vnd stoß sie klein <lb/> nim ( m ) etliche Eyerdotter darvnter <lb/> vn ( n ) machs nicht gar zu dünn <lb/> noch zu dick <lb/> daß du es kanst eynziehen mit einem höltzern <objectName ref="#loeffel">Löffel</objectName> in ein Turtenpfannen <lb/> darinnen heisse <objectName ref="#butter">Butter</objectName> ist <lb/> zeuch ein häufflein drey oder vier eyn <lb/> daß sie miteinander anrüren <lb/> vnd daß du kanst ein jeglichs nebeneinander vmkehrn <lb/> vnnd geschwindt außbacken <lb/> besträw es mit <objectName ref="#zucker">Zucker</objectName> <lb/> vnd gibs warm auff ein <objectName ref="#tisch">Tisch</objectName>. Also macht man Turtelet von <objectName ref="#feigen">Feigen</objectName>. </p>
             </div>
         </body>
     </text>

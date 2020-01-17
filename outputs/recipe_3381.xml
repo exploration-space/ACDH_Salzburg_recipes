@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ES mögen die Ruppen gleich groß oder klein seyn <lb/> so mache sie auf <lb/> nimm das Eingeweid heraus <lb/> biß auf die <objectName ref="leber">Leber</objectName> <lb/> wasche selbige aus <lb/> saltze und lege sie auf eine <objectName ref="schuessel">Schüssel</objectName> <lb/> thue ein gut theil <objectName ref="butter">Butter</objectName> <lb/> und ein oder zwey <objectName ref="loeffel">Löffel</objectName> voll <objectName ref="wasser">Wasser</objectName> <lb/> wie auch gute Gewürtz dazu <lb/> druck zimlich viel Citronen= Safft darein <lb/> laß also zugedeckt miteinander dampffen <lb/> und streue zuletzt klein= und würfflicht= geschnittene Citronen= Schelffen darauf. </p>
+        <p> ES mögen die Ruppen gleich groß oder klein seyn <lb/> so mache sie auf <lb/> nimm das Eingeweid heraus <lb/> biß auf die <objectName ref="#leber">Leber</objectName> <lb/> wasche selbige aus <lb/> saltze und lege sie auf eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> thue ein gut theil <objectName ref="#butter">Butter</objectName> <lb/> und ein oder zwey <objectName ref="#loeffel">Löffel</objectName> voll <objectName ref="#wasser">Wasser</objectName> <lb/> wie auch gute Gewürtz dazu <lb/> druck zimlich viel Citronen= Safft darein <lb/> laß also zugedeckt miteinander dampffen <lb/> und streue zuletzt klein= und würfflicht= geschnittene Citronen= Schelffen darauf. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="voegel">Vögel</objectName> eyngemacht mit Limonien <lb/> fein säurlich <lb/> mit guter Hennenbrüh <lb/> vnd mit <objectName ref="essig">Essig</objectName> <lb/> vnnd ein wenig eyngebrennt <objectName ref="mehl">Mehl</objectName> darein <lb/> laß darmit sieden <lb/> so wirt es gut vnnd wolgeschmack. Wenns gesotten ist <lb/> so thu darein frische <objectName ref="butter">Butter</objectName> <lb/> die vnzerlassen ist <lb/> vnd laß darmit auffsieden <lb/> so wirt es auch gut. </p>
+        <p> <objectName ref="#voegel">Vögel</objectName> eyngemacht mit Limonien <lb/> fein säurlich <lb/> mit guter Hennenbrüh <lb/> vnd mit <objectName ref="#essig">Essig</objectName> <lb/> vnnd ein wenig eyngebrennt <objectName ref="#mehl">Mehl</objectName> darein <lb/> laß darmit sieden <lb/> so wirt es gut vnnd wolgeschmack. Wenns gesotten ist <lb/> so thu darein frische <objectName ref="#butter">Butter</objectName> <lb/> die vnzerlassen ist <lb/> vnd laß darmit auffsieden <lb/> so wirt es auch gut. </p>
             </div>
         </body>
     </text>

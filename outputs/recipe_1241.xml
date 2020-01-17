@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Erstlich 2 löffl voll Maullpör<gap/> safft<gap/>, 4 <lb/> löffl voll Mußcateller<gap/> <objectName ref="wein">wein</objectName>, vnd von 4 Lemany<gap/> <lb/> den Safft<gap/>, thues in ein Reindl<gap/>, laß siedten<gap/> <lb/> lög<gap/> ein prögl<gap/> butter<gap/> darein, diß khert yber <lb/> die wilt <objectName ref="fisch">fisch</objectName>, <lb/><lb/> ( 32v ) [ Anm. : „ diß khert yber <lb/> die wilt <objectName ref="fisch">fisch</objectName> “ : bedeutet ‚dies gehört über die Fische gegeben ‘. ] </p>
+        <p> Nimb Erstlich 2 löffl voll Maullpör<gap/> safft<gap/>, 4 <lb/> löffl voll Mußcateller<gap/> <objectName ref="#wein">wein</objectName>, vnd von 4 Lemany<gap/> <lb/> den Safft<gap/>, thues in ein Reindl<gap/>, laß siedten<gap/> <lb/> lög<gap/> ein prögl<gap/> butter<gap/> darein, diß khert yber <lb/> die wilt <objectName ref="#fisch">fisch</objectName>, <lb/><lb/> ( 32v ) [ Anm. : „ diß khert yber <lb/> die wilt <objectName ref="#fisch">fisch</objectName> “ : bedeutet ‚dies gehört über die Fische gegeben ‘. ] </p>
             </div>
         </body>
     </text>

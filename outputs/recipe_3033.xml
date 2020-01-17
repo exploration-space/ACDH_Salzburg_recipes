@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="spargel">SPargel</objectName> klein geschnitten <lb/> gibt man auch <lb/> nachdem sie gebrüht <lb/> in rother Krebs= Butter= <objectName ref="bruehe">Brühe</objectName> <lb/> mit dergleichen Krebs= Schweifflein <lb/> auch von <objectName ref="butter">Butter</objectName> <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> und Muscatnuß wol gemacht. </p>
+        <p> <objectName ref="#spargel">SPargel</objectName> klein geschnitten <lb/> gibt man auch <lb/> nachdem sie gebrüht <lb/> in rother Krebs= Butter= <objectName ref="#bruehe">Brühe</objectName> <lb/> mit dergleichen Krebs= Schweifflein <lb/> auch von <objectName ref="#butter">Butter</objectName> <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> und Muscatnuß wol gemacht. </p>
             </div>
         </body>
     </text>

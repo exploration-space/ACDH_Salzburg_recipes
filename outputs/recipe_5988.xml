@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Du kanst auch Bratwürst von einer Spensaw zurichte ( n ) <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> vnnd ein Saurmilch darzu <lb/> mit <objectName ref="ingwer">Ingwer</objectName> besträwt. Also isset mans am Reinstrom vnd Mayn gern. </p>
+        <p> Du kanst auch Bratwürst von einer Spensaw zurichte ( n ) <lb/> gibs warm auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> vnnd ein Saurmilch darzu <lb/> mit <objectName ref="#ingwer">Ingwer</objectName> besträwt. Also isset mans am Reinstrom vnd Mayn gern. </p>
             </div>
         </body>
     </text>

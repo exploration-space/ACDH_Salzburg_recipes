@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm ein <lb/> oder mehr Stuck von einem Haussen <lb/> saltz und melbige ihn ein <lb/> laß ihn mit <objectName ref="butter">Butter</objectName> <lb/> oder Schmaltz in einer Pfannen beyderseits schnell liecht=gelb werden <lb/> dann lege ihn mit Gewürtz <lb/> <objectName ref="butter">Butter</objectName> <lb/> und Eßig <lb/> oder Lemoni=Safft /und zerdruckten <objectName ref="knoblauch">Knoblauch</objectName> in ein <objectName ref="rein">Rein</objectName> <lb/> oder Casserol <lb/> mach das <objectName ref="geschirr">Geschirr</objectName> zu <lb/> laß ihn im <objectName ref="ofen">Ofen</objectName> <lb/> oder auf der <objectName ref="glut">Glut</objectName> gemach dämpffen <lb/> und wann er ferig <lb/> so gib ihn mit seiner <objectName ref="bruehe">Brühe</objectName>. </p>
+        <p> NImm ein <lb/> oder mehr Stuck von einem Haussen <lb/> saltz und melbige ihn ein <lb/> laß ihn mit <objectName ref="#butter">Butter</objectName> <lb/> oder Schmaltz in einer Pfannen beyderseits schnell liecht=gelb werden <lb/> dann lege ihn mit Gewürtz <lb/> <objectName ref="#butter">Butter</objectName> <lb/> und Eßig <lb/> oder Lemoni=Safft /und zerdruckten <objectName ref="#knoblauch">Knoblauch</objectName> in ein <objectName ref="#rein">Rein</objectName> <lb/> oder Casserol <lb/> mach das <objectName ref="#geschirr">Geschirr</objectName> zu <lb/> laß ihn im <objectName ref="#ofen">Ofen</objectName> <lb/> oder auf der <objectName ref="#glut">Glut</objectName> gemach dämpffen <lb/> und wann er ferig <lb/> so gib ihn mit seiner <objectName ref="#bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAche Plätzlein wie zu den Eyerwammen; darnach klopffe noch mehr Eyer <lb/> saltze sie ein wenig; wickle die obgemeldte Plätzlein über einander <lb/> stecke durch jedes derselben ein Höltzlein <lb/> kehrs wohl um in den zerklopfften Eyern <lb/> bachs darnach im heissen Schmaltz <lb/> betreiffe es offt <lb/> bachs schnell ab <lb/> legs in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> ziehe die Höltzlein heraus <lb/> und trags also trocken zu <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> MAche Plätzlein wie zu den Eyerwammen; darnach klopffe noch mehr Eyer <lb/> saltze sie ein wenig; wickle die obgemeldte Plätzlein über einander <lb/> stecke durch jedes derselben ein Höltzlein <lb/> kehrs wohl um in den zerklopfften Eyern <lb/> bachs darnach im heissen Schmaltz <lb/> betreiffe es offt <lb/> bachs schnell ab <lb/> legs in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> ziehe die Höltzlein heraus <lb/> und trags also trocken zu <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

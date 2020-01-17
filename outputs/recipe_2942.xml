@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SIe seynd auch auf gleiche Weiß gut zum <objectName ref="salat">Salat</objectName> <lb/> es soll auch allzeit ein wenig <objectName ref="knoblauch">Knoblauch</objectName> darzu genommen werden : wie ich dann von disen und andern rothen und Zisser= <objectName ref="erbsen">Erbsen</objectName> bey der <objectName ref="suppe">Suppen</objectName> angezeigt hab. </p>
+        <p> SIe seynd auch auf gleiche Weiß gut zum <objectName ref="#salat">Salat</objectName> <lb/> es soll auch allzeit ein wenig <objectName ref="#knoblauch">Knoblauch</objectName> darzu genommen werden : wie ich dann von disen und andern rothen und Zisser= <objectName ref="#erbsen">Erbsen</objectName> bey der <objectName ref="#suppe">Suppen</objectName> angezeigt hab. </p>
             </div>
         </body>
     </text>

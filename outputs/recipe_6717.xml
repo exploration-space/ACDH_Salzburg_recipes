@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Ein geräucherten <objectName ref="hecht">Hecht</objectName> eyngemacht mit Pettersilgen Wurtzel vn Erbsbrüh <lb/> auch mit frischer <objectName ref="butter">Butter</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
+        <p> Ein geräucherten <objectName ref="#hecht">Hecht</objectName> eyngemacht mit Pettersilgen Wurtzel vn Erbsbrüh <lb/> auch mit frischer <objectName ref="#butter">Butter</objectName> <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

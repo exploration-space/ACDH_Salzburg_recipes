@@ -182,7 +182,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAch die Füll mit disem <objectName ref="fleisch">Fleisch</objectName> <lb/> mit <objectName ref="feisten">Feisten</objectName> und <objectName ref="speck">Speck</objectName> <lb/> wohlriechenden <objectName ref="kraeuter">Kräutern</objectName> <lb/> Zwibeln <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Saltz <lb/> Muscatblühe <lb/> gelben Eyern <lb/> so gesotten <lb/> und mit <objectName ref="suppe">Suppen</objectName> durch das <objectName ref="tuch">Tuch</objectName> und bassierte Mandel <lb/> im Anrichten thue gute <objectName ref="suppe">Suppen</objectName> <lb/> oder Safft <lb/> als Lemoni= Safft daran; garniers mit farcirten Champignonen, und auch von disem Rago <lb/> oder Carbonädlein <lb/> etliche Brüßlein <lb/> etc. herum. </p>
+        <p> MAch die Füll mit disem <objectName ref="#fleisch">Fleisch</objectName> <lb/> mit <objectName ref="#feisten">Feisten</objectName> und <objectName ref="#speck">Speck</objectName> <lb/> wohlriechenden <objectName ref="#kraeuter">Kräutern</objectName> <lb/> Zwibeln <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Saltz <lb/> Muscatblühe <lb/> gelben Eyern <lb/> so gesotten <lb/> und mit <objectName ref="#suppe">Suppen</objectName> durch das <objectName ref="#tuch">Tuch</objectName> und bassierte Mandel <lb/> im Anrichten thue gute <objectName ref="#suppe">Suppen</objectName> <lb/> oder Safft <lb/> als Lemoni= Safft daran; garniers mit farcirten Champignonen, und auch von disem Rago <lb/> oder Carbonädlein <lb/> etliche Brüßlein <lb/> etc. herum. </p>
             </div>
         </body>
     </text>

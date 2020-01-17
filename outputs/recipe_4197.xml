@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn du viel Rutten= <objectName ref="leber">Lebern</objectName> hast <lb/> so siede sie an die statt <lb/> kühle sie aus <lb/> hernach richts mit angemachten <objectName ref="butter">Butter</objectName> <lb/> von klein= gehackten <objectName ref="sardellen">Sardellen</objectName> <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> wohl Muscatnuß und die Lemoni= Safft in die Austern= Schaalen <lb/> setze sie auf die <objectName ref="glut">Glut</objectName> <lb/> laß braten <lb/> und gibs mit wenig braunem <objectName ref="butter">Butter</objectName> <lb/> oder Oel. NB. Etliche mischen auch Semmel= Brosen unter den <objectName ref="butter">Butter</objectName>. </p>
+        <p> WAnn du viel Rutten= <objectName ref="#leber">Lebern</objectName> hast <lb/> so siede sie an die statt <lb/> kühle sie aus <lb/> hernach richts mit angemachten <objectName ref="#butter">Butter</objectName> <lb/> von klein= gehackten <objectName ref="#sardellen">Sardellen</objectName> <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Imber <lb/> wohl Muscatnuß und die Lemoni= Safft in die Austern= Schaalen <lb/> setze sie auf die <objectName ref="#glut">Glut</objectName> <lb/> laß braten <lb/> und gibs mit wenig braunem <objectName ref="#butter">Butter</objectName> <lb/> oder Oel. NB. Etliche mischen auch Semmel= Brosen unter den <objectName ref="#butter">Butter</objectName>. </p>
             </div>
         </body>
     </text>

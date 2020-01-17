@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> So sol man nemmen zu jeglicher Omen Weins ein <objectName ref="mass">Maß</objectName> <objectName ref="milch">Milch</objectName> <lb/> die warm sey <lb/> daß man sie am Finger erleiden möge <lb/> vn zwo Handt voll Saltz <lb/> so auch heiß seyn <lb/> vnd ein <objectName ref="mass">Maß</objectName> Wassers geuß auff das Saltz <lb/> vnd geuß es in das Faß <lb/> vnd laß den <objectName ref="wein">Wein</objectName> darauff ruhen. </p>
+        <p> So sol man nemmen zu jeglicher Omen Weins ein <objectName ref="#mass">Maß</objectName> <objectName ref="#milch">Milch</objectName> <lb/> die warm sey <lb/> daß man sie am Finger erleiden möge <lb/> vn zwo Handt voll Saltz <lb/> so auch heiß seyn <lb/> vnd ein <objectName ref="#mass">Maß</objectName> Wassers geuß auff das Saltz <lb/> vnd geuß es in das Faß <lb/> vnd laß den <objectName ref="#wein">Wein</objectName> darauff ruhen. </p>
             </div>
         </body>
     </text>

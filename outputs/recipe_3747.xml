@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAn nimmt einen schönen <objectName ref="griess">Grieß</objectName> <lb/> und macht von einer guten <objectName ref="milch">Milch</objectName> ein rechtes Koch <lb/> alsdann thus auf ein <objectName ref="schuessel">Schüssel</objectName> <lb/> und laß abkühlen; darnach rühr ein <objectName ref="vierling">Vierling</objectName> <objectName ref="butter">Butter</objectName> in einer <objectName ref="schuessel">Schüssel</objectName> ab <lb/> auch vier gantze Eyer <lb/> und vier Dotter <lb/> <objectName ref="zucker">Zucker</objectName> nach Belieben <lb/> dann auch das Koch nach und nach darein <lb/> rührs ein gantze Viertelstund auf ein Seiten <lb/> alsdann bachs in einer Dorten= Pfann <lb/> wie andere Koch <lb/> so wirds recht und gut. </p>
+        <p> MAn nimmt einen schönen <objectName ref="#griess">Grieß</objectName> <lb/> und macht von einer guten <objectName ref="#milch">Milch</objectName> ein rechtes Koch <lb/> alsdann thus auf ein <objectName ref="#schuessel">Schüssel</objectName> <lb/> und laß abkühlen; darnach rühr ein <objectName ref="#vierling">Vierling</objectName> <objectName ref="#butter">Butter</objectName> in einer <objectName ref="#schuessel">Schüssel</objectName> ab <lb/> auch vier gantze Eyer <lb/> und vier Dotter <lb/> <objectName ref="#zucker">Zucker</objectName> nach Belieben <lb/> dann auch das Koch nach und nach darein <lb/> rührs ein gantze Viertelstund auf ein Seiten <lb/> alsdann bachs in einer Dorten= Pfann <lb/> wie andere Koch <lb/> so wirds recht und gut. </p>
             </div>
         </body>
     </text>

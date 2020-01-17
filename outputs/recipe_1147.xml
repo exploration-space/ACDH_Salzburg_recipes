@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Ain viertung<gap/> oder halb Pfundt<gap/> Mandl<gap/> abgezogen<gap/> <lb/> schneite<gap/> sie langlecht<gap/> zu.4. thaill<gap/>, thues in ain <lb/> Rain<gap/>, lög<gap/> ain Stückhl<gap/> Putter<gap/> ins Mell<gap/> schlag.4. <lb/> ayr<gap/> dotter<gap/> darein, gewierz<gap/>, schitte Fleisch<gap/> <objectName ref="suppe">suppen</objectName> <lb/> darauf, riers<gap/> ab, vnd laß also Kochen, vnd gibs <lb/> auf gebäthes<gap/> brodt, Es ist ein guete Francosische <lb/> <objectName ref="suppe">Suppen</objectName>. <lb/> [ Anm. : „ Francosische <lb/> <objectName ref="suppe">Suppen</objectName> “ : bedeutet ‚Französische <objectName ref="suppe">Suppe</objectName> ‘ und ist ein Bezeichnung für eine bestimmt <objectName ref="suppe">Suppe</objectName>. ] </p>
+        <p> Ain viertung<gap/> oder halb Pfundt<gap/> Mandl<gap/> abgezogen<gap/> <lb/> schneite<gap/> sie langlecht<gap/> zu.4. thaill<gap/>, thues in ain <lb/> Rain<gap/>, lög<gap/> ain Stückhl<gap/> Putter<gap/> ins Mell<gap/> schlag.4. <lb/> ayr<gap/> dotter<gap/> darein, gewierz<gap/>, schitte Fleisch<gap/> <objectName ref="#suppe">suppen</objectName> <lb/> darauf, riers<gap/> ab, vnd laß also Kochen, vnd gibs <lb/> auf gebäthes<gap/> brodt, Es ist ein guete Francosische <lb/> <objectName ref="#suppe">Suppen</objectName>. <lb/> [ Anm. : „ Francosische <lb/> <objectName ref="#suppe">Suppen</objectName> “ : bedeutet ‚Französische <objectName ref="#suppe">Suppe</objectName> ‘ und ist ein Bezeichnung für eine bestimmt <objectName ref="#suppe">Suppe</objectName>. ] </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schneidt Epffel rundt vnd dünn <lb/> mach ein <objectName ref="teig">Teig</objectName> darzu auff vo ( n ) lauter <objectName ref="wein">Wein</objectName> vnd <objectName ref="mehl">Mehl</objectName> <lb/> nicht zu dick noch zu dünn <lb/> stoß die Epffelschnitten darein vnd laß den <objectName ref="teig">Teig</objectName> herab rinnen <lb/> wirffs in heisse <objectName ref="butter">Butter</objectName> <lb/> so wirdt es fein aufflauffen <lb/> vnd resch seyn <lb/> gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> vnd besträw es mit <objectName ref="zucker">Zucker</objectName> <lb/> so wirt es gut vnd wolgeschmack. </p>
+        <p> Schneidt Epffel rundt vnd dünn <lb/> mach ein <objectName ref="#teig">Teig</objectName> darzu auff vo ( n ) lauter <objectName ref="#wein">Wein</objectName> vnd <objectName ref="#mehl">Mehl</objectName> <lb/> nicht zu dick noch zu dünn <lb/> stoß die Epffelschnitten darein vnd laß den <objectName ref="#teig">Teig</objectName> herab rinnen <lb/> wirffs in heisse <objectName ref="#butter">Butter</objectName> <lb/> so wirdt es fein aufflauffen <lb/> vnd resch seyn <lb/> gibs warm auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> vnd besträw es mit <objectName ref="#zucker">Zucker</objectName> <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) ein schön weissen geriebenen Weck <lb/> rür jn an mit lauter Eyerdotter vn ( n ) frischer Meybutter <lb/> auch mit ein wenig süssem Rahm <lb/> der dick ist <lb/> vnd wenn der <objectName ref="teig">Teig</objectName> angemacht ist <lb/> so back Waffeln darauß <lb/> gibs warm vnd trucken auff ein <objectName ref="tisch">Tisch</objectName> <lb/> oder begeuß mit <objectName ref="butter">Butter</objectName> <lb/> vnd besträw es mit <objectName ref="zucker">Zucker</objectName> <lb/> oder schneidts voneinander <lb/> vnd begeuß mit <objectName ref="butter">Butter</objectName>. </p>
+        <p> Nim ( m ) ein schön weissen geriebenen Weck <lb/> rür jn an mit lauter Eyerdotter vn ( n ) frischer Meybutter <lb/> auch mit ein wenig süssem Rahm <lb/> der dick ist <lb/> vnd wenn der <objectName ref="#teig">Teig</objectName> angemacht ist <lb/> so back Waffeln darauß <lb/> gibs warm vnd trucken auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> oder begeuß mit <objectName ref="#butter">Butter</objectName> <lb/> vnd besträw es mit <objectName ref="#zucker">Zucker</objectName> <lb/> oder schneidts voneinander <lb/> vnd begeuß mit <objectName ref="#butter">Butter</objectName>. </p>
             </div>
         </body>
     </text>

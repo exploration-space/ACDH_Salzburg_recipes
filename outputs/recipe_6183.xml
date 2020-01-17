@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Auch weiß eyngemacht mit Eyerdottern <lb/> vnd grünen wolschmeckenden <objectName ref="kraeuter">Kräutern</objectName> <lb/> so wirt es gut vnd wolgeschmack. Vnd man kan viel dinges von einer Ganß machen <lb/> wen ( n ) einer wil fleiß darauff wenden. </p>
+        <p> Auch weiß eyngemacht mit Eyerdottern <lb/> vnd grünen wolschmeckenden <objectName ref="#kraeuter">Kräutern</objectName> <lb/> so wirt es gut vnd wolgeschmack. Vnd man kan viel dinges von einer Ganß machen <lb/> wen ( n ) einer wil fleiß darauff wenden. </p>
             </div>
         </body>
     </text>

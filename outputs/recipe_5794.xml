@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) die <objectName ref="leber">Leber</objectName> <lb/> stecks an <lb/> vnd brats ab <lb/> vnd wenns gebraten ist <lb/> so schneidt sie nicht gar zu kleinen stücken <lb/> schweiß Zwibeln darauff <lb/> vnd gieß ein Rindtfleischbrüh darüber <lb/> vnnd gestossenen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> laß es damit sieden <lb/> vnd machs nicht saur <lb/> vnd versaltz es nicht <lb/> den ( n ) wenn man sie saur macht <lb/> so wirdt es herb <lb/> vnd ist vorhin ein herb essen von der Hammelsleber. </p>
+        <p> Nim ( m ) die <objectName ref="#leber">Leber</objectName> <lb/> stecks an <lb/> vnd brats ab <lb/> vnd wenns gebraten ist <lb/> so schneidt sie nicht gar zu kleinen stücken <lb/> schweiß Zwibeln darauff <lb/> vnd gieß ein Rindtfleischbrüh darüber <lb/> vnnd gestossenen <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> laß es damit sieden <lb/> vnd machs nicht saur <lb/> vnd versaltz es nicht <lb/> den ( n ) wenn man sie saur macht <lb/> so wirdt es herb <lb/> vnd ist vorhin ein herb essen von der Hammelsleber. </p>
             </div>
         </body>
     </text>

@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet gerieben Rocken= Brod <lb/> oder ein wenig im Schmaltz eingebrenntes <objectName ref="mehl">Mehl</objectName>; thut es in ein <objectName ref="haefelein">Häfelein</objectName> <lb/> giesset Fleischbrüh <lb/> ein wenig <objectName ref="essig">Essig</objectName> <lb/> auch <lb/> so es beliebt <lb/> würfflicht= geschnittene Limonien darein <lb/> würtzet es mit Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Negelein <lb/> last es sieden <lb/> thut auch ein Stuck <objectName ref="butter">Butter</objectName> dazu; Richtets hernach über das abgesottene <objectName ref="kalbfleisch">Kalbfleisch</objectName> <lb/> und tragt es zu <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> NEhmet gerieben Rocken= Brod <lb/> oder ein wenig im Schmaltz eingebrenntes <objectName ref="#mehl">Mehl</objectName>; thut es in ein <objectName ref="#haefelein">Häfelein</objectName> <lb/> giesset Fleischbrüh <lb/> ein wenig <objectName ref="#essig">Essig</objectName> <lb/> auch <lb/> so es beliebt <lb/> würfflicht= geschnittene Limonien darein <lb/> würtzet es mit Ingber <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> und Negelein <lb/> last es sieden <lb/> thut auch ein Stuck <objectName ref="#butter">Butter</objectName> dazu; Richtets hernach über das abgesottene <objectName ref="#kalbfleisch">Kalbfleisch</objectName> <lb/> und tragt es zu <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

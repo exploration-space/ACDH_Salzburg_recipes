@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Man findet bey den Specerey=Handlern gewisse blechene Flaschen <lb/> worinn schon ein angemachter <objectName ref="zucker">Zucker</objectName> zu der Limonada vorhanden ist <lb/> diesen <objectName ref="zucker">Zucker</objectName> gießt man nur mit frischem <objectName ref="wasser">Wasser</objectName> wol ab <lb/> so hat man gleich ein gute Limonada <lb/> wer es aber gern mehr saur hat <lb/> der truckt noch mehr Lemoni=Safft darein. </p>
+        <p> Man findet bey den Specerey=Handlern gewisse blechene Flaschen <lb/> worinn schon ein angemachter <objectName ref="#zucker">Zucker</objectName> zu der Limonada vorhanden ist <lb/> diesen <objectName ref="#zucker">Zucker</objectName> gießt man nur mit frischem <objectName ref="#wasser">Wasser</objectName> wol ab <lb/> so hat man gleich ein gute Limonada <lb/> wer es aber gern mehr saur hat <lb/> der truckt noch mehr Lemoni=Safft darein. </p>
             </div>
         </body>
     </text>

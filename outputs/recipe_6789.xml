@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) die <objectName ref="lerchen">Lerchen</objectName> <lb/> vnd quell sie in lauterm <objectName ref="wasser">Wasser</objectName> <lb/> säuber sie auß <lb/> seig ein gute Hennenbrüh darüber <lb/> thu Pettersilgen Wurtzel vnnd Muscatenblüt darein <lb/> laß es damit sieden <lb/> vnd d ( aß ) die Hen ( n ) enbrüh ein wenig feißt sey. Wenn du wilt anrichten <lb/> so nim ( m ) gebeht Schnitten <objectName ref="brot">Brot</objectName> von einem Weck <lb/> richt die <objectName ref="lerchen">Lerchen</objectName> fein darauff an <lb/> so ist es gut vnd wolgeschmack. Oder du kansts wol anrichten ohne <objectName ref="brot">Brot</objectName>. Denn einem krancken Menschen graußt vor dem <objectName ref="brot">Brot</objectName>. </p>
+        <p> Nim ( m ) die <objectName ref="#lerchen">Lerchen</objectName> <lb/> vnd quell sie in lauterm <objectName ref="#wasser">Wasser</objectName> <lb/> säuber sie auß <lb/> seig ein gute Hennenbrüh darüber <lb/> thu Pettersilgen Wurtzel vnnd Muscatenblüt darein <lb/> laß es damit sieden <lb/> vnd d ( aß ) die Hen ( n ) enbrüh ein wenig feißt sey. Wenn du wilt anrichten <lb/> so nim ( m ) gebeht Schnitten <objectName ref="#brot">Brot</objectName> von einem Weck <lb/> richt die <objectName ref="#lerchen">Lerchen</objectName> fein darauff an <lb/> so ist es gut vnd wolgeschmack. Oder du kansts wol anrichten ohne <objectName ref="#brot">Brot</objectName>. Denn einem krancken Menschen graußt vor dem <objectName ref="#brot">Brot</objectName>. </p>
             </div>
         </body>
     </text>

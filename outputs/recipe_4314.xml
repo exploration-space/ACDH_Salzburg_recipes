@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> FEuchtet ein schönes <objectName ref="mehl">Mehl</objectName> mit einem kalten <objectName ref="wein">Wein</objectName> an <lb/> rühret den <objectName ref="teig">Teig</objectName> mit Eyern ab <lb/> daß er etwas dicker werde als ein Strauben= <objectName ref="teig">Teig</objectName>; machet ein Schmaltz in einer Pfannen heiß <lb/> thut etwas von dem <objectName ref="teig">Teig</objectName> in einen gelöcherten <objectName ref="loeffel">Löffel</objectName> <lb/> und zettelt ihn also in das heisse Schmaltz <lb/> hebet aber den <objectName ref="loeffel">Löffel</objectName> fein hoch auf <lb/> so werden sie schön rund : Richtet dann eine siedende Fleischbrüh <lb/> oder andere <objectName ref="suppe">Suppen</objectName> <lb/> nach verlangen <lb/> darüber. </p>
+        <p> FEuchtet ein schönes <objectName ref="#mehl">Mehl</objectName> mit einem kalten <objectName ref="#wein">Wein</objectName> an <lb/> rühret den <objectName ref="#teig">Teig</objectName> mit Eyern ab <lb/> daß er etwas dicker werde als ein Strauben= <objectName ref="#teig">Teig</objectName>; machet ein Schmaltz in einer Pfannen heiß <lb/> thut etwas von dem <objectName ref="#teig">Teig</objectName> in einen gelöcherten <objectName ref="#loeffel">Löffel</objectName> <lb/> und zettelt ihn also in das heisse Schmaltz <lb/> hebet aber den <objectName ref="#loeffel">Löffel</objectName> fein hoch auf <lb/> so werden sie schön rund : Richtet dann eine siedende Fleischbrüh <lb/> oder andere <objectName ref="#suppe">Suppen</objectName> <lb/> nach verlangen <lb/> darüber. </p>
             </div>
         </body>
     </text>

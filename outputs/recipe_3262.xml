@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BUtze die Hünlein mit heissem <objectName ref="wasser">Wasser</objectName> <lb/> oder rupffe sie drucken <lb/> doch daß die Haut gantz bleibt; Nimm sie aus <lb/> mache die Haut auf der <objectName ref="brust">Brust</objectName> ledig <lb/> und fülle sie mit obigem <objectName ref="gehaeck">Gehäck</objectName> vom Ochsen= Marck <lb/> gehackten Dardoffeln <lb/> Brüßlein <lb/> Kälber= Euterlein <lb/> <objectName ref="sardellen">Sardellen</objectName> <lb/> mit <objectName ref="butter">Butter</objectName> <lb/> Gewürtz <lb/> und Eyerdottern versehen <lb/> zwischen Haut und <objectName ref="brust">Brust</objectName>; späls <lb/> stecke sie an <lb/> und brats im Safft. </p>
+        <p> BUtze die Hünlein mit heissem <objectName ref="#wasser">Wasser</objectName> <lb/> oder rupffe sie drucken <lb/> doch daß die Haut gantz bleibt; Nimm sie aus <lb/> mache die Haut auf der <objectName ref="#brust">Brust</objectName> ledig <lb/> und fülle sie mit obigem <objectName ref="#gehaeck">Gehäck</objectName> vom Ochsen= Marck <lb/> gehackten Dardoffeln <lb/> Brüßlein <lb/> Kälber= Euterlein <lb/> <objectName ref="#sardellen">Sardellen</objectName> <lb/> mit <objectName ref="#butter">Butter</objectName> <lb/> Gewürtz <lb/> und Eyerdottern versehen <lb/> zwischen Haut und <objectName ref="#brust">Brust</objectName>; späls <lb/> stecke sie an <lb/> und brats im Safft. </p>
             </div>
         </body>
     </text>

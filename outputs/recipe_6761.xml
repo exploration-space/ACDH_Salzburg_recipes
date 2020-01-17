@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wenn du wilt <objectName ref="wachtel">Wachteln</objectName> braten <lb/> so nim ( m ) ein saubern <objectName ref="griess">Grieß</objectName> <lb/> vnd wen ( n ) die <objectName ref="wachtel">Wachteln</objectName> anfahen warm zu werden <lb/> so besträw sie im ( m ) erdar mit Grießmehl <lb/> brats geschwindt hinweg <lb/> so wirt es gut vnd wolgeschmack. </p>
+        <p> Wenn du wilt <objectName ref="#wachtel">Wachteln</objectName> braten <lb/> so nim ( m ) ein saubern <objectName ref="#griess">Grieß</objectName> <lb/> vnd wen ( n ) die <objectName ref="#wachtel">Wachteln</objectName> anfahen warm zu werden <lb/> so besträw sie im ( m ) erdar mit Grießmehl <lb/> brats geschwindt hinweg <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

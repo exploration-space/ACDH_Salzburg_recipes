@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schweinen <objectName ref="knoedel">Knödel</objectName> in ein Gescharb eyngemacht <lb/> in einen schwartzen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> eyngedämpfft mit Wacholderbeer <lb/> oder weiß <lb/> saur <lb/> in jhrer eygenen Brüh. </p>
+        <p> Schweinen <objectName ref="#knoedel">Knödel</objectName> in ein Gescharb eyngemacht <lb/> in einen schwartzen <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> eyngedämpfft mit Wacholderbeer <lb/> oder weiß <lb/> saur <lb/> in jhrer eygenen Brüh. </p>
             </div>
         </body>
     </text>

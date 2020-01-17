@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm Oblat <lb/> schneids viereckicht <lb/> oder rund <lb/> was <objectName ref="form">Form</objectName> du wilt <lb/> aber allzeit zwey gleiche zusammen <lb/> nimm Weixeln <lb/> Rübeslein <lb/> Marillen <lb/> Hetschapötschen <lb/> oder andere dick= eingesottne Sachen <lb/> oder Salsen <lb/> streichs auf einen Theil Oblat <lb/> decks mit dem andern Oblat zu <lb/> mach ein glattes Taiglein von purem <objectName ref="wein">Wein</objectName> und Mund= Meel <lb/> wie einen Strauben= Taig <lb/> duncke die Kräpfflein auf einer jeden Seiten ein wenig ein <lb/> laß ein Schmaltz heiß werden <lb/> aber nicht zu viel <lb/> bach sie also geschwind heraus <lb/> daß sie schön liecht bleiben <lb/> beym Anrichten zuckert mans wol. </p>
+        <p> NImm Oblat <lb/> schneids viereckicht <lb/> oder rund <lb/> was <objectName ref="#form">Form</objectName> du wilt <lb/> aber allzeit zwey gleiche zusammen <lb/> nimm Weixeln <lb/> Rübeslein <lb/> Marillen <lb/> Hetschapötschen <lb/> oder andere dick= eingesottne Sachen <lb/> oder Salsen <lb/> streichs auf einen Theil Oblat <lb/> decks mit dem andern Oblat zu <lb/> mach ein glattes Taiglein von purem <objectName ref="#wein">Wein</objectName> und Mund= Meel <lb/> wie einen Strauben= Taig <lb/> duncke die Kräpfflein auf einer jeden Seiten ein wenig ein <lb/> laß ein Schmaltz heiß werden <lb/> aber nicht zu viel <lb/> bach sie also geschwind heraus <lb/> daß sie schön liecht bleiben <lb/> beym Anrichten zuckert mans wol. </p>
             </div>
         </body>
     </text>

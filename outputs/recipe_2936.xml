@@ -177,7 +177,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChneid die hart= gesottne und gescheelte Eyer überzwerch zu Rädlen <lb/> saltz und gewürtz mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber und Muscatnuß <lb/> schwings mit wenig Meel <lb/> und klein= gehackten Zwibel im Casserol <lb/> mit <objectName ref="butter">Butter</objectName> <lb/> gieß süssen oder sauren Ram daran <lb/> mit wenig Senff <lb/> gibs mit dem ersten kurtzen Sud in die <objectName ref="schuessel">Schüssel</objectName> <lb/> und regaliers mit ausgelößten Margaranten= Kern. </p>
+        <p> SChneid die hart= gesottne und gescheelte Eyer überzwerch zu Rädlen <lb/> saltz und gewürtz mit <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Imber und Muscatnuß <lb/> schwings mit wenig Meel <lb/> und klein= gehackten Zwibel im Casserol <lb/> mit <objectName ref="#butter">Butter</objectName> <lb/> gieß süssen oder sauren Ram daran <lb/> mit wenig Senff <lb/> gibs mit dem ersten kurtzen Sud in die <objectName ref="#schuessel">Schüssel</objectName> <lb/> und regaliers mit ausgelößten Margaranten= Kern. </p>
             </div>
         </body>
     </text>

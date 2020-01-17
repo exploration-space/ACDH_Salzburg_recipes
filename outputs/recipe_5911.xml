@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm abgezogene Mandlen <lb/> truckne solche mit einem <objectName ref="tuch">Tuch</objectName> sauber ab <lb/> mach das Schmaltz heiß/ und thue die <objectName ref="mandeln">Mandeln</objectName> mit zimlich grob gestossnen <objectName ref="zucker">Zucker</objectName> einstreuen <lb/> an statt des Meels <lb/> und bache sie nicht zu braun; etliche mischen unter den <objectName ref="zucker">Zucker</objectName> auch Zimmet <lb/> nach eines jeden Belieben. </p>
+        <p> NImm abgezogene Mandlen <lb/> truckne solche mit einem <objectName ref="#tuch">Tuch</objectName> sauber ab <lb/> mach das Schmaltz heiß/ und thue die <objectName ref="#mandeln">Mandeln</objectName> mit zimlich grob gestossnen <objectName ref="#zucker">Zucker</objectName> einstreuen <lb/> an statt des Meels <lb/> und bache sie nicht zu braun; etliche mischen unter den <objectName ref="#zucker">Zucker</objectName> auch Zimmet <lb/> nach eines jeden Belieben. </p>
             </div>
         </body>
     </text>

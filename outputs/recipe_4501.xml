@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> RIchte den gebachnen <objectName ref="hecht">Hecht</objectName> in die <objectName ref="schuessel">Schüssel</objectName> <lb/> röste klein= gehackten Zwibel im <objectName ref="butter">Butter</objectName> <lb/> hernach schütte Eßig in den gerösten Zwibel <lb/> laß aufkochen <lb/> gibs über den angerichten Bachfisch <lb/> und laß kurtz kochen zugedeckter <lb/> so seynd sie auch gut <lb/> gibs also mit ausgebachnen grünen Kräutlein <lb/> oder Lorbeer= Blättern und Lemoni regaliert <lb/> zur Tafel. </p>
+        <p> RIchte den gebachnen <objectName ref="#hecht">Hecht</objectName> in die <objectName ref="#schuessel">Schüssel</objectName> <lb/> röste klein= gehackten Zwibel im <objectName ref="#butter">Butter</objectName> <lb/> hernach schütte Eßig in den gerösten Zwibel <lb/> laß aufkochen <lb/> gibs über den angerichten Bachfisch <lb/> und laß kurtz kochen zugedeckter <lb/> so seynd sie auch gut <lb/> gibs also mit ausgebachnen grünen Kräutlein <lb/> oder Lorbeer= Blättern und Lemoni regaliert <lb/> zur Tafel. </p>
             </div>
         </body>
     </text>

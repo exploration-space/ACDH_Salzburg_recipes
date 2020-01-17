@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ERstlich <lb/> werden die Indian gebutzt <lb/> ausgenommen <lb/> eingesaltzen <lb/> oder <lb/> wann sie gar groß <lb/> läßt man sie etliche Stund <lb/> oder gar über Nacht im Saltzwasser liegen <lb/> damit sie gesaltzen werden; dann wieder heraus genommen <lb/> und wie die Capaunen gespält <lb/> und an Spiß gesteckt <lb/> und nach Proportion ihrer Grösse gebraten; wann sie groß soll man sie anfangs nicht überhitzen <lb/> auf die Letzt aber gib schnell <objectName ref="feuer">Feuer</objectName> <lb/> weil sie noch safftig seyn <lb/> daß sie schöne Farb bekommen. </p>
+        <p> ERstlich <lb/> werden die Indian gebutzt <lb/> ausgenommen <lb/> eingesaltzen <lb/> oder <lb/> wann sie gar groß <lb/> läßt man sie etliche Stund <lb/> oder gar über Nacht im Saltzwasser liegen <lb/> damit sie gesaltzen werden; dann wieder heraus genommen <lb/> und wie die Capaunen gespält <lb/> und an Spiß gesteckt <lb/> und nach Proportion ihrer Grösse gebraten; wann sie groß soll man sie anfangs nicht überhitzen <lb/> auf die Letzt aber gib schnell <objectName ref="#feuer">Feuer</objectName> <lb/> weil sie noch safftig seyn <lb/> daß sie schöne Farb bekommen. </p>
             </div>
         </body>
     </text>

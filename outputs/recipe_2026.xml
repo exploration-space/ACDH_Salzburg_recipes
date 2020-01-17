@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb <objectName ref="quitten">Quitten</objectName> vnd schels, schneid auß ainer 3. oder 4. spältl, <lb/> darnach die <objectName ref="quitten">quitten</objectName> groß oder khlein sein, nimb ein schenes <lb/> geleitherts hönig, geuß ÿber die Khitten, seuds in einer <lb/> Messingen Pfan, Wan sie Weich sein, leg die quiten in ein <lb/> glaß, geuß das henig drüber, sez in ein khiel, gibs dem <lb/> khrankhen Zuessen, es ist ein guete Labnuß. <lb/> </p>
+        <p> Nimb <objectName ref="#quitten">Quitten</objectName> vnd schels, schneid auß ainer 3. oder 4. spältl, <lb/> darnach die <objectName ref="#quitten">quitten</objectName> groß oder khlein sein, nimb ein schenes <lb/> geleitherts hönig, geuß ÿber die Khitten, seuds in einer <lb/> Messingen Pfan, Wan sie Weich sein, leg die quiten in ein <lb/> glaß, geuß das henig drüber, sez in ein khiel, gibs dem <lb/> khrankhen Zuessen, es ist ein guete Labnuß. <lb/> </p>
             </div>
         </body>
     </text>

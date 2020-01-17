@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Bretzen werden geröstet <lb/> wie oben gemeldet; hernach an statt der Fleischbrüh die schon beschriebene Erbsen= <objectName ref="suppe">Suppe</objectName> darüber gerichtet <lb/> und läst man sie alsdann noch einen Sud auf der <objectName ref="kohlen">Kohlen</objectName> aufthun. </p>
+        <p> DIe Bretzen werden geröstet <lb/> wie oben gemeldet; hernach an statt der Fleischbrüh die schon beschriebene Erbsen= <objectName ref="#suppe">Suppe</objectName> darüber gerichtet <lb/> und läst man sie alsdann noch einen Sud auf der <objectName ref="#kohlen">Kohlen</objectName> aufthun. </p>
             </div>
         </body>
     </text>

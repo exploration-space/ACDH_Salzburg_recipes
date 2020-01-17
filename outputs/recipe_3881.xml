@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Salbling und <objectName ref="forelle">Forellen</objectName> werden gebraten <lb/> hernach von <objectName ref="wein">Wein</objectName> <lb/> Gewürtz <lb/> eingemachten Citronen <lb/> auch von <objectName ref="zucker">Zucker</objectName> und Lemoni= Safft eine <objectName ref="bruehe">Brühe</objectName> gemacht <lb/> und darüber gegeben <lb/> so seynd sie gut. </p>
+        <p> DIe Salbling und <objectName ref="#forelle">Forellen</objectName> werden gebraten <lb/> hernach von <objectName ref="#wein">Wein</objectName> <lb/> Gewürtz <lb/> eingemachten Citronen <lb/> auch von <objectName ref="#zucker">Zucker</objectName> und Lemoni= Safft eine <objectName ref="#bruehe">Brühe</objectName> gemacht <lb/> und darüber gegeben <lb/> so seynd sie gut. </p>
             </div>
         </body>
     </text>

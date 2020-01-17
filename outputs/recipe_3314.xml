@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm einen zerklopfften <lb/> abgebratnen Schöps= <objectName ref="schlegel">Schlegel</objectName> <lb/> löse das Brät von den Beinern <lb/> hacke es klein mit Ochsen= Marck <lb/> oder <objectName ref="feisten">Feisten</objectName> <lb/> Eßig <lb/> Lemoni <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Muscatnuß <lb/> wenig frischen <objectName ref="butter">Butter</objectName> <lb/> und <objectName ref="fleischbruehe">Fleischbrühe</objectName> in rechter Dicken <lb/> wird auch gleich im ersten Sud fertig. NB. Beliebt was mehrers vom Schaafs= <objectName ref="schlegel">Schlegel</objectName> <lb/> so machs in allweg <lb/> wie die Englische= und Lung= Braten <lb/> von dem Rind. Man kan sie auch füllen <lb/> wie die Kalbs= <objectName ref="schlegel">Schlegel</objectName> <lb/> etc. </p>
+        <p> NImm einen zerklopfften <lb/> abgebratnen Schöps= <objectName ref="#schlegel">Schlegel</objectName> <lb/> löse das Brät von den Beinern <lb/> hacke es klein mit Ochsen= Marck <lb/> oder <objectName ref="#feisten">Feisten</objectName> <lb/> Eßig <lb/> Lemoni <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Muscatnuß <lb/> wenig frischen <objectName ref="#butter">Butter</objectName> <lb/> und <objectName ref="#fleischbruehe">Fleischbrühe</objectName> in rechter Dicken <lb/> wird auch gleich im ersten Sud fertig. NB. Beliebt was mehrers vom Schaafs= <objectName ref="#schlegel">Schlegel</objectName> <lb/> so machs in allweg <lb/> wie die Englische= und Lung= Braten <lb/> von dem Rind. Man kan sie auch füllen <lb/> wie die Kalbs= <objectName ref="#schlegel">Schlegel</objectName> <lb/> etc. </p>
             </div>
         </body>
     </text>

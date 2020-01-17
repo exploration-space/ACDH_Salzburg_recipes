@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BRäune dise <objectName ref="voegel">Vögel</objectName> mit Meel in heissem Schmaltz <lb/> oder <objectName ref="butter">Butter</objectName> <lb/> mit gescheelten <objectName ref="quitten">Quitten</objectName> <lb/> oder Birn <lb/> hernach gib wenig <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="fleischbruehe">Fleischbrühe</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> und gutes Gewürtz darzu <lb/> und laß mit einander dämpffen. </p>
+        <p> BRäune dise <objectName ref="#voegel">Vögel</objectName> mit Meel in heissem Schmaltz <lb/> oder <objectName ref="#butter">Butter</objectName> <lb/> mit gescheelten <objectName ref="#quitten">Quitten</objectName> <lb/> oder Birn <lb/> hernach gib wenig <objectName ref="#wein">Wein</objectName> <lb/> <objectName ref="#fleischbruehe">Fleischbrühe</objectName> <lb/> <objectName ref="#zucker">Zucker</objectName> und gutes Gewürtz darzu <lb/> und laß mit einander dämpffen. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb aÿr vnd geribne Sembl, vnd ein süsß Rämbl, <lb/> bachs in ein Merser im <objectName ref="schmalz">Schmalz</objectName>, mach auch ein süsß <lb/> süppl drüber. <lb/> </p>
+        <p> Nimb aÿr vnd geribne Sembl, vnd ein süsß Rämbl, <lb/> bachs in ein Merser im <objectName ref="#schmalz">Schmalz</objectName>, mach auch ein süsß <lb/> süppl drüber. <lb/> </p>
             </div>
         </body>
     </text>

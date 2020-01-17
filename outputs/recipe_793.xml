@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimm gebutzte frische oder gedörrte <objectName ref="feigen">Feigen</objectName> <lb/> hacke sie klein <lb/> oder zerstosse sie im Mörsel <lb/> treibe sie mit <objectName ref="wein">Wein</objectName> durch ein Haarsieblein <lb/> laß mit <objectName ref="zucker">Zucker</objectName> und Zimmet=Stup wol einsieden <lb/> gibs warm oder kalter <lb/> dann kalt lassen sie sich also schneiden <lb/> wie die <objectName ref="latwerge">Latwergen</objectName> <lb/> und seynd alos zugerichter schier zum besten. </p>
+        <p> Nimm gebutzte frische oder gedörrte <objectName ref="#feigen">Feigen</objectName> <lb/> hacke sie klein <lb/> oder zerstosse sie im Mörsel <lb/> treibe sie mit <objectName ref="#wein">Wein</objectName> durch ein Haarsieblein <lb/> laß mit <objectName ref="#zucker">Zucker</objectName> und Zimmet=Stup wol einsieden <lb/> gibs warm oder kalter <lb/> dann kalt lassen sie sich also schneiden <lb/> wie die <objectName ref="#latwerge">Latwergen</objectName> <lb/> und seynd alos zugerichter schier zum besten. </p>
             </div>
         </body>
     </text>

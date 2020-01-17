@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Mach ein Aÿrkhäß an, stosß ihn in einem Merser, thue Zukher darunder, <lb/> schneid semblschnitl, streich mit einem <objectName ref="messer">Messer</objectName> die fühl finger dikh <lb/> drauf, schlag ein aÿr auf, stosß ein Semblschnitl drein, bachs, gibs <lb/> trukhen. </p>
+        <p> Mach ein Aÿrkhäß an, stosß ihn in einem Merser, thue Zukher darunder, <lb/> schneid semblschnitl, streich mit einem <objectName ref="#messer">Messer</objectName> die fühl finger dikh <lb/> drauf, schlag ein aÿr auf, stosß ein Semblschnitl drein, bachs, gibs <lb/> trukhen. </p>
             </div>
         </body>
     </text>

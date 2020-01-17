@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm die <objectName ref="kuerbis">Kürbis</objectName> <lb/> schähle sie <lb/> und thue einwendig das Marck und Kern auf das schönste heraus; richts hernach allerdings auf gleiche Weise zu <lb/> wie bey erst= gedachten Kimmerling= Mus bereits angezeiget worden. </p>
+        <p> NImm die <objectName ref="#kuerbis">Kürbis</objectName> <lb/> schähle sie <lb/> und thue einwendig das Marck und Kern auf das schönste heraus; richts hernach allerdings auf gleiche Weise zu <lb/> wie bey erst= gedachten Kimmerling= Mus bereits angezeiget worden. </p>
             </div>
         </body>
     </text>

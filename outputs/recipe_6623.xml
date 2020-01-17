@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Man kan auch ein Brüh von Schaiden machen <lb/> wenn man jhn brät <lb/> darnach stösset vnnd durchstreichet mit einer Erbsbrüh <lb/> pfeffert vnnd gelbt es <lb/> so wirt es auch gut vnd wolgeschmack. Vnnd wenn du jhn nicht getrawst zu braten <lb/> so rößt jn auß der <objectName ref="butter">Butter</objectName> <lb/> vnd stoß jn <lb/> so ist es auch gut. </p>
+        <p> Man kan auch ein Brüh von Schaiden machen <lb/> wenn man jhn brät <lb/> darnach stösset vnnd durchstreichet mit einer Erbsbrüh <lb/> pfeffert vnnd gelbt es <lb/> so wirt es auch gut vnd wolgeschmack. Vnnd wenn du jhn nicht getrawst zu braten <lb/> so rößt jn auß der <objectName ref="#butter">Butter</objectName> <lb/> vnd stoß jn <lb/> so ist es auch gut. </p>
             </div>
         </body>
     </text>

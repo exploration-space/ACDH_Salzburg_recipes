@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MEer= <objectName ref="igel">Igel</objectName> <lb/> Meer= Hund <lb/> und andere dergleichen Thier <lb/> die mir nicht bekannt <lb/> will ich denen Ausländern zu beschreiben überlassen <lb/> und ist hiemit der Beschluss zu denen Fischen gemacht. </p>
+        <p> MEer= <objectName ref="#igel">Igel</objectName> <lb/> Meer= Hund <lb/> und andere dergleichen Thier <lb/> die mir nicht bekannt <lb/> will ich denen Ausländern zu beschreiben überlassen <lb/> und ist hiemit der Beschluss zu denen Fischen gemacht. </p>
             </div>
         </body>
     </text>

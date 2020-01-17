@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> GLaube und schneide das Weisse von denen Wegwarten= oder Cichorien= Keimlein ab <lb/> und das gelblichte davon; zertheile und zerschneide wiederum zwey oder dreymal; laß alsdann zwey Stunden lang in <objectName ref="wasser">Wasser</objectName> ligen; und damit die Bitterkeit sich um so vielmehr heraus ziehe <lb/> <objectName ref="bruehe">brühe</objectName> sie zum andern= oder drittenmal mit siedenden <objectName ref="wasser">Wasser</objectName> an <lb/> seihe selbiges davon ab <lb/> laß in einer Fleischbrüh sieden <lb/> würtze es <lb/> und richts dann <lb/> auf die in nachfolgender Spargel= <objectName ref="suppe">Suppe</objectName> beschriebene Art <lb/> ferner zu. </p>
+        <p> GLaube und schneide das Weisse von denen Wegwarten= oder Cichorien= Keimlein ab <lb/> und das gelblichte davon; zertheile und zerschneide wiederum zwey oder dreymal; laß alsdann zwey Stunden lang in <objectName ref="#wasser">Wasser</objectName> ligen; und damit die Bitterkeit sich um so vielmehr heraus ziehe <lb/> <objectName ref="#bruehe">brühe</objectName> sie zum andern= oder drittenmal mit siedenden <objectName ref="#wasser">Wasser</objectName> an <lb/> seihe selbiges davon ab <lb/> laß in einer Fleischbrüh sieden <lb/> würtze es <lb/> und richts dann <lb/> auf die in nachfolgender Spargel= <objectName ref="#suppe">Suppe</objectName> beschriebene Art <lb/> ferner zu. </p>
             </div>
         </body>
     </text>

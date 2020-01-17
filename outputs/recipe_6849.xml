@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Alte Hennen <objectName ref="pastete">Pasteten</objectName> kalt <lb/> es sey in Rucken oder Weitzentig. </p>
+        <p> Alte Hennen <objectName ref="#pastete">Pasteten</objectName> kalt <lb/> es sey in Rucken oder Weitzentig. </p>
             </div>
         </body>
     </text>

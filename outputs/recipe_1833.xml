@@ -171,7 +171,7 @@ Willst du dreierlei Essen aus einem Fisch machen, wobei der aber Fisch ganz blei
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WIldu machn̄ dreÿ laÿr essē von ainē visch vnd daz dʾ visch dannoch gācz pleib So nÿm ein hechtn̄ vnd slach ein nass <objectName ref="tuch">tuch</objectName> um̄ daz mittʾ tail vnd leg in auf ein <objectName ref="rost">rost</objectName> vnd salcz in vnd laz daz hindʾ tail pratn̄ für sich selb vnd den kopp begeuss mit haissem smalcz oder ol vnd spreng es mit melb vnd laz also [ 323r ] pachn̄ vnd daz <objectName ref="tuch">tuch</objectName> pegeuss albeg dar mit haissem <objectName ref="wein">wein</objectName> vnd daz sewd sich selb also hastu gepachn̄ gesotn̄ vnd gepratn̄ visch von ainē visch vnd gib ein Salsen darczw </p>
+        <p> WIldu machn̄ dreÿ laÿr essē von ainē visch vnd daz dʾ visch dannoch gācz pleib So nÿm ein hechtn̄ vnd slach ein nass <objectName ref="#tuch">tuch</objectName> um̄ daz mittʾ tail vnd leg in auf ein <objectName ref="#rost">rost</objectName> vnd salcz in vnd laz daz hindʾ tail pratn̄ für sich selb vnd den kopp begeuss mit haissem smalcz oder ol vnd spreng es mit melb vnd laz also [ 323r ] pachn̄ vnd daz <objectName ref="#tuch">tuch</objectName> pegeuss albeg dar mit haissem <objectName ref="#wein">wein</objectName> vnd daz sewd sich selb also hastu gepachn̄ gesotn̄ vnd gepratn̄ visch von ainē visch vnd gib ein Salsen darczw </p>
             </div>
         </body>
     </text>

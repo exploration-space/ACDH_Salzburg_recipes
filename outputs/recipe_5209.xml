@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr dick= gesottene Safft oder Salsam von disen <objectName ref="beeren">Beeren</objectName> ist köstlich gut in alle kleine und grosse Dorten <lb/> auch in die Kräpfflein und Oblat= Küchlein <lb/> dergleichen auch der von Johannes= Beerlein und Hagabutzen etc. </p>
+        <p> DEr dick= gesottene Safft oder Salsam von disen <objectName ref="#beeren">Beeren</objectName> ist köstlich gut in alle kleine und grosse Dorten <lb/> auch in die Kräpfflein und Oblat= Küchlein <lb/> dergleichen auch der von Johannes= Beerlein und Hagabutzen etc. </p>
             </div>
         </body>
     </text>

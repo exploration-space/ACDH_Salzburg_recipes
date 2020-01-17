@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) ein Kramatsvogel <lb/> vnnd mach ein Gestossens darauß <lb/> vnnd nim ( m ) andere <objectName ref="voegel">Vögel</objectName> <lb/> laß sie gar an die statt sieden <lb/> thu sie in das Gestossen <lb/> laß weiß oder gelb <lb/> so ist es auff beyde manier gut. </p>
+        <p> Nim ( m ) ein Kramatsvogel <lb/> vnnd mach ein Gestossens darauß <lb/> vnnd nim ( m ) andere <objectName ref="#voegel">Vögel</objectName> <lb/> laß sie gar an die statt sieden <lb/> thu sie in das Gestossen <lb/> laß weiß oder gelb <lb/> so ist es auff beyde manier gut. </p>
             </div>
         </body>
     </text>

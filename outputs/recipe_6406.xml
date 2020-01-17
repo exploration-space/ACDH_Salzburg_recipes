@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Grün <objectName ref="kraut">Kraut</objectName> mit geräucherten Hennen. </p>
+        <p> Grün <objectName ref="#kraut">Kraut</objectName> mit geräucherten Hennen. </p>
             </div>
         </body>
     </text>

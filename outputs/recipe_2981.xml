@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIese gesotten gibt man gleich also mit wenig <objectName ref="pfeffer">Pfeffer</objectName> und Fleisch= <objectName ref="bruehe">Brühe</objectName> <lb/> zu dem <lb/> oder über das Rind= <objectName ref="fleisch">Fleisch</objectName>. </p>
+        <p> DIese gesotten gibt man gleich also mit wenig <objectName ref="#pfeffer">Pfeffer</objectName> und Fleisch= <objectName ref="#bruehe">Brühe</objectName> <lb/> zu dem <lb/> oder über das Rind= <objectName ref="#fleisch">Fleisch</objectName>. </p>
             </div>
         </body>
     </text>

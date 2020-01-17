@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) den <objectName ref="fischrogen">Fischrogen</objectName> mit den Därmen <lb/> seudts in <objectName ref="wasser">Wasser</objectName> ab <lb/> kül vn ( d ) säubers fein auß <lb/> hacks miteinander klein <lb/> vnd pfeffers <lb/> machs gelb <lb/> vn ( d ) thu grüne wolschmeckende <objectName ref="kraeuter">Kräuter</objectName> <lb/> die klein gehackt seyn <lb/> darein <lb/> rürs mit Eyern ab <lb/> geuß ein wolgeschmackte Erbeßbrüh darüber <lb/> vnd <objectName ref="butter">Butter</objectName> <lb/> laß darmit auffsieden <lb/> so wirt es gut vnd wolgeschmack. </p>
+        <p> Nim ( m ) den <objectName ref="#fischrogen">Fischrogen</objectName> mit den Därmen <lb/> seudts in <objectName ref="#wasser">Wasser</objectName> ab <lb/> kül vn ( d ) säubers fein auß <lb/> hacks miteinander klein <lb/> vnd pfeffers <lb/> machs gelb <lb/> vn ( d ) thu grüne wolschmeckende <objectName ref="#kraeuter">Kräuter</objectName> <lb/> die klein gehackt seyn <lb/> darein <lb/> rürs mit Eyern ab <lb/> geuß ein wolgeschmackte Erbeßbrüh darüber <lb/> vnd <objectName ref="#butter">Butter</objectName> <lb/> laß darmit auffsieden <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

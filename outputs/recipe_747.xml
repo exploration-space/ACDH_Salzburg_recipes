@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb lorber die Plöter von selben Paumb <lb/> vnd koche sie in <objectName ref="wein">wein</objectName> giesße hernach ihn <lb/> denselben gekhockhten <objectName ref="wein">wein</objectName> in die fasßer <lb/> welche an fangen zu gröblen wird aller ybler <lb/> geruch vergehen vnd den rechten weingruch <lb/> annemmen daß faß muß woll vermacht sein <lb/> </p>
+        <p> Nimb lorber die Plöter von selben Paumb <lb/> vnd koche sie in <objectName ref="#wein">wein</objectName> giesße hernach ihn <lb/> denselben gekhockhten <objectName ref="#wein">wein</objectName> in die fasßer <lb/> welche an fangen zu gröblen wird aller ybler <lb/> geruch vergehen vnd den rechten weingruch <lb/> annemmen daß faß muß woll vermacht sein <lb/> </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr <objectName ref="spargel">Spargel</objectName> <lb/> nach dem er abgeschnitten <lb/> wird reinlich gewaschen <lb/> und in eine <objectName ref="schuessel">Schüssel</objectName> gelegt <lb/> wohl eingesaltzen und gepfeffert <lb/> dann ein Oel in einem Bratpfännlein gantz heiß gemacht <lb/> der <objectName ref="spargel">Spargel</objectName> darein gelegt <lb/> und schön abgebraten <lb/> biß die Kolben gantz rösch werden; hernach in eine <objectName ref="schuessel">Schüssel</objectName> gelegt <lb/> und ein wenig von dem Oel <lb/> darinnen er gebraten <lb/> daran gegossen. </p>
+        <p> DEr <objectName ref="#spargel">Spargel</objectName> <lb/> nach dem er abgeschnitten <lb/> wird reinlich gewaschen <lb/> und in eine <objectName ref="#schuessel">Schüssel</objectName> gelegt <lb/> wohl eingesaltzen und gepfeffert <lb/> dann ein Oel in einem Bratpfännlein gantz heiß gemacht <lb/> der <objectName ref="#spargel">Spargel</objectName> darein gelegt <lb/> und schön abgebraten <lb/> biß die Kolben gantz rösch werden; hernach in eine <objectName ref="#schuessel">Schüssel</objectName> gelegt <lb/> und ein wenig von dem Oel <lb/> darinnen er gebraten <lb/> daran gegossen. </p>
             </div>
         </body>
     </text>

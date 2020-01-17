@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Flügel und Mägen von zwey Indian zu feinen Stücklein geschnitten <lb/> gesotten <lb/> eingemacht <lb/> gibt eine schöne kleine Speiß <lb/> schneide und röste die zugehörige <objectName ref="leber">Leber</objectName> in <objectName ref="butter">Butter</objectName> <lb/> und regaliere die Speiß darmit. </p>
+        <p> DIe Flügel und Mägen von zwey Indian zu feinen Stücklein geschnitten <lb/> gesotten <lb/> eingemacht <lb/> gibt eine schöne kleine Speiß <lb/> schneide und röste die zugehörige <objectName ref="#leber">Leber</objectName> in <objectName ref="#butter">Butter</objectName> <lb/> und regaliere die Speiß darmit. </p>
             </div>
         </body>
     </text>

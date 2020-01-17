@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimbe ein Guettes siess obers<gap/> nimbe <lb/> Zwey oder.3. löffl voll schön Gefäte<gap/> <lb/> störckh<gap/> so treib<gap/> es mit der Milich<gap/> <lb/> schön glat ab, nimbe ein hand voll <lb/> schön Klein Gestossne<gap/> Mandl treibe<gap/> <lb/> es auch mit ab Gieses<gap/> ihn die pfan<gap/> <lb/> oder reindl<gap/> rire<gap/> es auf einen <lb/> reschen<gap/> feur<gap/> Gar Glat ab bis das <lb/> es schön dickh<gap/> wirdt nimbs herab Zuckhers <lb/> das siess<gap/> Genueg ist auch ein wenig <lb/> Gefäten<gap/> Zimet<gap/> seze es auf ein <lb/> Gliedl<gap/> lege ein stükhl<gap/> frischen <objectName ref="butter">butter</objectName> <lb/> Darauf lass es also schön rämblet<gap/> <lb/> sieden<gap/> gibs also ist es recht vnd Guet <lb/> </p>
+        <p> Nimbe ein Guettes siess obers<gap/> nimbe <lb/> Zwey oder.3. löffl voll schön Gefäte<gap/> <lb/> störckh<gap/> so treib<gap/> es mit der Milich<gap/> <lb/> schön glat ab, nimbe ein hand voll <lb/> schön Klein Gestossne<gap/> Mandl treibe<gap/> <lb/> es auch mit ab Gieses<gap/> ihn die pfan<gap/> <lb/> oder reindl<gap/> rire<gap/> es auf einen <lb/> reschen<gap/> feur<gap/> Gar Glat ab bis das <lb/> es schön dickh<gap/> wirdt nimbs herab Zuckhers <lb/> das siess<gap/> Genueg ist auch ein wenig <lb/> Gefäten<gap/> Zimet<gap/> seze es auf ein <lb/> Gliedl<gap/> lege ein stükhl<gap/> frischen <objectName ref="#butter">butter</objectName> <lb/> Darauf lass es also schön rämblet<gap/> <lb/> sieden<gap/> gibs also ist es recht vnd Guet <lb/> </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein Sembl, schneid den Pranfft herab, holß auß, nimb <lb/> 2. hart gesotne Aÿr, hakhs khlein, schlag ein frisch aÿr dran, <lb/> vnd ein wenig süss Rämbl, vnd Weinböhr, rührs durcheinander <lb/> ab, fühls in die Sembl, mach den Pranfft drüber, Zeuchs in <lb/> einem daigl umb, vnd bachs, oder Rests trukhner auß <lb/> einem <objectName ref="schmalz">schmalz</objectName>, legs in ein Reindl, mach ein Puter süppl <lb/> drüber, laß fein ein sieden, richts auf ein schißl, vnd gibs <lb/> auf ein <objectName ref="tisch">tisch</objectName>. <lb/> </p>
+        <p> Nimb ein Sembl, schneid den Pranfft herab, holß auß, nimb <lb/> 2. hart gesotne Aÿr, hakhs khlein, schlag ein frisch aÿr dran, <lb/> vnd ein wenig süss Rämbl, vnd Weinböhr, rührs durcheinander <lb/> ab, fühls in die Sembl, mach den Pranfft drüber, Zeuchs in <lb/> einem daigl umb, vnd bachs, oder Rests trukhner auß <lb/> einem <objectName ref="#schmalz">schmalz</objectName>, legs in ein Reindl, mach ein Puter süppl <lb/> drüber, laß fein ein sieden, richts auf ein schißl, vnd gibs <lb/> auf ein <objectName ref="#tisch">tisch</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

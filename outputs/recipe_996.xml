@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Take twelve Eggs, ( the Whites of but six ) beat them, and put to them a Pint of <objectName ref="sack">Sack</objectName> and half a Pound of Sugar; set them on a Fire, keeping them stirring ’ till they turn white, and just begin to thicken; at the same Time on another Fire have a <objectName ref="quart">Quart</objectName> of Cream, boil and pour it into the Eggs and <objectName ref="sack">Sack</objectName>, give it a Stir round, and cover it a Quarter of an Hour before you eat it : The Eggs and <objectName ref="sack">Sack</objectName> must be heated in the Bason you use it in, and the Cream must boil before you set on the Eggs. </p>
+        <p> Take twelve Eggs, ( the Whites of but six ) beat them, and put to them a Pint of <objectName ref="#sack">Sack</objectName> and half a Pound of Sugar; set them on a Fire, keeping them stirring ’ till they turn white, and just begin to thicken; at the same Time on another Fire have a <objectName ref="#quart">Quart</objectName> of Cream, boil and pour it into the Eggs and <objectName ref="#sack">Sack</objectName>, give it a Stir round, and cover it a Quarter of an Hour before you eat it : The Eggs and <objectName ref="#sack">Sack</objectName> must be heated in the Bason you use it in, and the Cream must boil before you set on the Eggs. </p>
             </div>
         </body>
     </text>

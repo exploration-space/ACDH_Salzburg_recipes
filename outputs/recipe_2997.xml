@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BOrraga= Wurtzen und <objectName ref="kraut">Kraut</objectName> dienet auch zu den <objectName ref="suppe">Suppen</objectName>. It. Borraga= Blühe ist schön und gesund auf die Salät. </p>
+        <p> BOrraga= Wurtzen und <objectName ref="#kraut">Kraut</objectName> dienet auch zu den <objectName ref="#suppe">Suppen</objectName>. It. Borraga= Blühe ist schön und gesund auf die Salät. </p>
             </div>
         </body>
     </text>

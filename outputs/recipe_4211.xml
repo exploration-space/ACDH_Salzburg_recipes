@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> PLateis überbrennt abgesiehen <lb/> in die <objectName ref="schuessel">Schüssel</objectName> gelegt <lb/> mit wenig Saltz besprengt <lb/> mit einem Uberguß <lb/> von wol <objectName ref="butter">Butter</objectName> <lb/> wenig weiß Meel <lb/> Gewürtz <lb/> Capry <lb/> Lemoni= Schelffen <lb/> mit wenig <objectName ref="wasser">Wasser</objectName> und Saltz <lb/> mit stetem Aufgiessen <lb/> auf der <objectName ref="glut">Glut</objectName> lassen sied= heiß werden <lb/> und über die aufgerichte Plateis gegeben <lb/> und wol warmer zur Tafel getragen. </p>
+        <p> PLateis überbrennt abgesiehen <lb/> in die <objectName ref="#schuessel">Schüssel</objectName> gelegt <lb/> mit wenig Saltz besprengt <lb/> mit einem Uberguß <lb/> von wol <objectName ref="#butter">Butter</objectName> <lb/> wenig weiß Meel <lb/> Gewürtz <lb/> Capry <lb/> Lemoni= Schelffen <lb/> mit wenig <objectName ref="#wasser">Wasser</objectName> und Saltz <lb/> mit stetem Aufgiessen <lb/> auf der <objectName ref="#glut">Glut</objectName> lassen sied= heiß werden <lb/> und über die aufgerichte Plateis gegeben <lb/> und wol warmer zur Tafel getragen. </p>
             </div>
         </body>
     </text>

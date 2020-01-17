@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn die Blateise gewässert und gewaschen worden <lb/> schneide die Flossen herab <lb/> und die Fische überzwerch entzwey <lb/> lasse sie dann im <objectName ref="wasser">Wasser</objectName> sieden <lb/> und würff gantz zuletzt ein wenig Saltz dazu; wann sie dann weich sind <lb/> seihe das <objectName ref="wasser">Wasser</objectName> davon herunter <lb/> gräte die Fische aus <lb/> gieß eine Fleischbrüh daran <lb/> brenne ein klein wenig <objectName ref="mehl">Mehl</objectName> darein <lb/> würff <objectName ref="kuemmel">Kümmel</objectName> und Ingber dazu <lb/> und lasse sie also noch ferner aufsieden : wann sie dann fertig <lb/> legs in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> brenne oben ein heisses Schmaltz darauf <lb/> und bestreue sie mit Ingber. </p>
+        <p> WAnn die Blateise gewässert und gewaschen worden <lb/> schneide die Flossen herab <lb/> und die Fische überzwerch entzwey <lb/> lasse sie dann im <objectName ref="#wasser">Wasser</objectName> sieden <lb/> und würff gantz zuletzt ein wenig Saltz dazu; wann sie dann weich sind <lb/> seihe das <objectName ref="#wasser">Wasser</objectName> davon herunter <lb/> gräte die Fische aus <lb/> gieß eine Fleischbrüh daran <lb/> brenne ein klein wenig <objectName ref="#mehl">Mehl</objectName> darein <lb/> würff <objectName ref="#kuemmel">Kümmel</objectName> und Ingber dazu <lb/> und lasse sie also noch ferner aufsieden : wann sie dann fertig <lb/> legs in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> brenne oben ein heisses Schmaltz darauf <lb/> und bestreue sie mit Ingber. </p>
             </div>
         </body>
     </text>

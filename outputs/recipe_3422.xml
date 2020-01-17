@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Schnepffen seynd zum besten <lb/> sauber gerupfft <lb/> gesengt <lb/> eingesaltzen <lb/> mit sammt dem Eingeweyd <lb/> mit ihrem eigenen Schnabel gespält <lb/> und im Safft gebraten <lb/> und wann sie das Erstemal sollen begossen werden <lb/> so lege einem jeden Schnepffen eine gebähte Semmel= Schnitten unter <lb/> damit sein Eingeweyd darauf tropffe <lb/> und wann sie fertig gebraten <lb/> so gibe die Schnitten unter den Schnepffen <lb/> auf die <objectName ref="schuessel">Schüssel</objectName> und <objectName ref="teller">Teller</objectName>; regaliers mit halben Lemonien <lb/> und grünen Kräutlein : Oder nimm die Schnepffen aus <lb/> hacke das Gedärm <lb/> rösts in <objectName ref="butter">Butter</objectName> <lb/> und streichs auf die Schnepffen. </p>
+        <p> DIe Schnepffen seynd zum besten <lb/> sauber gerupfft <lb/> gesengt <lb/> eingesaltzen <lb/> mit sammt dem Eingeweyd <lb/> mit ihrem eigenen Schnabel gespält <lb/> und im Safft gebraten <lb/> und wann sie das Erstemal sollen begossen werden <lb/> so lege einem jeden Schnepffen eine gebähte Semmel= Schnitten unter <lb/> damit sein Eingeweyd darauf tropffe <lb/> und wann sie fertig gebraten <lb/> so gibe die Schnitten unter den Schnepffen <lb/> auf die <objectName ref="#schuessel">Schüssel</objectName> und <objectName ref="#teller">Teller</objectName>; regaliers mit halben Lemonien <lb/> und grünen Kräutlein : Oder nimm die Schnepffen aus <lb/> hacke das Gedärm <lb/> rösts in <objectName ref="#butter">Butter</objectName> <lb/> und streichs auf die Schnepffen. </p>
             </div>
         </body>
     </text>

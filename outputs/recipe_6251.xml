@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Item <lb/> wer der <objectName ref="wein">Wein</objectName> wil pflegen <lb/> der sol wissen <lb/> was den Weinen schaden sey <lb/> vnd man sol sie verhüten vor den Osterwinden <lb/> vnd sol sie bewaren vor vberiger Hitz vnd Kälte <lb/> vnnd wenn es regnet <lb/> so verstopffe die Fenster <lb/> vnd bewars vor dem Donder vnnd Blitz <lb/> denn das ist den Weinen schädtlich <lb/> vnd bewegen sich <lb/> stehn gern auff darvon. </p>
+        <p> Item <lb/> wer der <objectName ref="#wein">Wein</objectName> wil pflegen <lb/> der sol wissen <lb/> was den Weinen schaden sey <lb/> vnd man sol sie verhüten vor den Osterwinden <lb/> vnd sol sie bewaren vor vberiger Hitz vnd Kälte <lb/> vnnd wenn es regnet <lb/> so verstopffe die Fenster <lb/> vnd bewars vor dem Donder vnnd Blitz <lb/> denn das ist den Weinen schädtlich <lb/> vnd bewegen sich <lb/> stehn gern auff darvon. </p>
             </div>
         </body>
     </text>

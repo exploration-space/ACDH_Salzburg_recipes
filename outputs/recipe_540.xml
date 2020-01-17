@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> nimb hänig<gap/> 1 Kändl<gap/> vnd ein Welsche <lb/> nus<gap/> gros bott ashe, <gap/> khlein gestossen<gap/> vnd in <lb/> ein frisch <objectName ref="wasser">wasser</objectName> gewaikh<gap/> das hänig mus so <lb/> lang sieden<gap/> bis dikhlet<gap/> wirt nimb 1 lott<gap/> <lb/> Zimet<gap/> so vill nagel<gap/> auch Imper<gap/> vnd <lb/> lemoni<gap/> schell<gap/> das gewirz<gap/> groblet<gap/> gestossn<gap/> <lb/><lb/> ( Z-U II 031 ) alles vnder das hänig gethon vnd sahe<gap/> mell <lb/> darein das ein taig<gap/> wirt in einer Rechten <lb/> dikhen<gap/> wagl<gap/> in aus vnd bachs<gap/> <lb/> </p>
+        <p> nimb hänig<gap/> 1 Kändl<gap/> vnd ein Welsche <lb/> nus<gap/> gros bott ashe, <gap/> khlein gestossen<gap/> vnd in <lb/> ein frisch <objectName ref="#wasser">wasser</objectName> gewaikh<gap/> das hänig mus so <lb/> lang sieden<gap/> bis dikhlet<gap/> wirt nimb 1 lott<gap/> <lb/> Zimet<gap/> so vill nagel<gap/> auch Imper<gap/> vnd <lb/> lemoni<gap/> schell<gap/> das gewirz<gap/> groblet<gap/> gestossn<gap/> <lb/><lb/> ( Z-U II 031 ) alles vnder das hänig gethon vnd sahe<gap/> mell <lb/> darein das ein taig<gap/> wirt in einer Rechten <lb/> dikhen<gap/> wagl<gap/> in aus vnd bachs<gap/> <lb/> </p>
             </div>
         </body>
     </text>

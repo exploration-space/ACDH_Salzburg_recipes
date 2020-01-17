@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Warme kleine Brettleinpasteten zu machen. Nimm die Braten <lb/> die hinder den <objectName ref="nieren">Nieren</objectName> seind <lb/> mach sie ein mit gesaltzenen Limonien <lb/> so werden sie nicht böß seyn. </p>
+        <p> Warme kleine Brettleinpasteten zu machen. Nimm die Braten <lb/> die hinder den <objectName ref="#nieren">Nieren</objectName> seind <lb/> mach sie ein mit gesaltzenen Limonien <lb/> so werden sie nicht böß seyn. </p>
             </div>
         </body>
     </text>

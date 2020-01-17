@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe <objectName ref="datteln">Datteln</objectName> werden aufgeschnitten <lb/> Die Kern heraus gelösen <lb/> und nach Belieben zerschnitten <lb/> mit <objectName ref="zucker">Zucker</objectName> und <objectName ref="wein">Wein</objectName> <lb/> ingleichem mit wenig <objectName ref="rosinen">Rosinen</objectName> <lb/> und sauberen Pinioli gesotten <lb/> auch mit Zimmet und Lemoni= Schaalen angemacht <lb/> oder eingemachte Zitronadi darzu genommen <lb/> dann muß mans lassen kalt werden <lb/> und in die Dorten also füllen. </p>
+        <p> DIe <objectName ref="#datteln">Datteln</objectName> werden aufgeschnitten <lb/> Die Kern heraus gelösen <lb/> und nach Belieben zerschnitten <lb/> mit <objectName ref="#zucker">Zucker</objectName> und <objectName ref="#wein">Wein</objectName> <lb/> ingleichem mit wenig <objectName ref="#rosinen">Rosinen</objectName> <lb/> und sauberen Pinioli gesotten <lb/> auch mit Zimmet und Lemoni= Schaalen angemacht <lb/> oder eingemachte Zitronadi darzu genommen <lb/> dann muß mans lassen kalt werden <lb/> und in die Dorten also füllen. </p>
             </div>
         </body>
     </text>

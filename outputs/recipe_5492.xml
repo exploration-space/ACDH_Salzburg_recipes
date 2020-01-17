@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) dürre Weichsel <lb/> stoß sie mit dem Kern <lb/> treib sie mit <objectName ref="wein">Wein</objectName> durch <lb/> machs süß mit Zimmet vnd <objectName ref="zucker">Zucker</objectName> <lb/> vnnd laß darmit auffsieden <lb/> so ist es ein gute Weichselsuppen. </p>
+        <p> Nim ( m ) dürre Weichsel <lb/> stoß sie mit dem Kern <lb/> treib sie mit <objectName ref="#wein">Wein</objectName> durch <lb/> machs süß mit Zimmet vnd <objectName ref="#zucker">Zucker</objectName> <lb/> vnnd laß darmit auffsieden <lb/> so ist es ein gute Weichselsuppen. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn die Geil im Saltz= <objectName ref="wasser">Wasser</objectName> übersotten <lb/> oder also gescheelt <lb/> ausgewaschen und gebutzt seynd <lb/> werden sie <lb/> denen Brüßlein gleich <lb/> geschnitten <lb/> gewürtzt <lb/> gesaltzen <lb/> und auf allerhand Art <lb/> zur Fricasse, Rago <lb/> oder andern weissen <lb/> oder braunen Speisen <lb/> auch in die <objectName ref="pastete">Pasteten</objectName> vermischt und verkocht. </p>
+        <p> WAnn die Geil im Saltz= <objectName ref="#wasser">Wasser</objectName> übersotten <lb/> oder also gescheelt <lb/> ausgewaschen und gebutzt seynd <lb/> werden sie <lb/> denen Brüßlein gleich <lb/> geschnitten <lb/> gewürtzt <lb/> gesaltzen <lb/> und auf allerhand Art <lb/> zur Fricasse, Rago <lb/> oder andern weissen <lb/> oder braunen Speisen <lb/> auch in die <objectName ref="#pastete">Pasteten</objectName> vermischt und verkocht. </p>
             </div>
         </body>
     </text>

@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Item <lb/> wie man ein Faß zurichten sol <lb/> daß der <objectName ref="wein">Wein</objectName> darinn nimmermehr kon noch rot werd. Für diese Kunst hat ein Bürger zu Cölln wölln geben hunder Gülden. </p>
+        <p> Item <lb/> wie man ein Faß zurichten sol <lb/> daß der <objectName ref="#wein">Wein</objectName> darinn nimmermehr kon noch rot werd. Für diese Kunst hat ein Bürger zu Cölln wölln geben hunder Gülden. </p>
             </div>
         </body>
     </text>

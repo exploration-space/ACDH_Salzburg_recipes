@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Löse die <objectName ref="erbsen">Erbsen</objectName> aus den Hülsen <lb/> binde etliche Petersil= Wurtzeln mit den Kräutlein in ein Büschelein <lb/> legs zu den grünen <objectName ref="erbsen">Erbsen</objectName> <lb/> röste es mit den <objectName ref="wachtel">Wachteln</objectName> <lb/> mit wenig Meel in <objectName ref="butter">Butter</objectName> und <objectName ref="speck">Speck</objectName>; gib <objectName ref="fleischbruehe">Fleischbrühe</objectName> und Gewürtz daran <lb/> gilbs <lb/> oder fricassiers <lb/> mit <objectName ref="butter">Butter</objectName> und Eyerdotter; die <objectName ref="wachtel">Wachteln</objectName> sollen vorhero ein wenig planschiert seyn. </p>
+        <p> Löse die <objectName ref="#erbsen">Erbsen</objectName> aus den Hülsen <lb/> binde etliche Petersil= Wurtzeln mit den Kräutlein in ein Büschelein <lb/> legs zu den grünen <objectName ref="#erbsen">Erbsen</objectName> <lb/> röste es mit den <objectName ref="#wachtel">Wachteln</objectName> <lb/> mit wenig Meel in <objectName ref="#butter">Butter</objectName> und <objectName ref="#speck">Speck</objectName>; gib <objectName ref="#fleischbruehe">Fleischbrühe</objectName> und Gewürtz daran <lb/> gilbs <lb/> oder fricassiers <lb/> mit <objectName ref="#butter">Butter</objectName> und Eyerdotter; die <objectName ref="#wachtel">Wachteln</objectName> sollen vorhero ein wenig planschiert seyn. </p>
             </div>
         </body>
     </text>

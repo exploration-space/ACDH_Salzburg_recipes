@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BUtze die Brätlinge <lb/> legs in ein <objectName ref="wasser">Wasser</objectName> <lb/> und wasch es heraus; setz in einer guten Fleischbrüh zu <lb/> thue ein wenig <objectName ref="pfeffer">Pfeffer</objectName> und Muscatblüh daran <lb/> laß eine gute weile sieden : hernach wann sie gesotten <lb/> thue frische <objectName ref="butter">Butter</objectName> <lb/> und ein klein wenig Petersilien= <objectName ref="kraut">Kraut</objectName> <lb/> fein klein geschnitten <lb/> daran <lb/> laß so lang sieden <lb/> biß es ein dicklichtes Brühlein wird; versuchs obs recht im Saltz ist : ist es zu gesaltzen <lb/> kan man ein wenig <objectName ref="wasser">Wasser</objectName> dazu giessen <lb/> siehe aber daß das Brühlein dicklicht bleibe <lb/> und nicht zu dinn werde; alsdann richte sie an. </p>
+        <p> BUtze die Brätlinge <lb/> legs in ein <objectName ref="#wasser">Wasser</objectName> <lb/> und wasch es heraus; setz in einer guten Fleischbrüh zu <lb/> thue ein wenig <objectName ref="#pfeffer">Pfeffer</objectName> und Muscatblüh daran <lb/> laß eine gute weile sieden : hernach wann sie gesotten <lb/> thue frische <objectName ref="#butter">Butter</objectName> <lb/> und ein klein wenig Petersilien= <objectName ref="#kraut">Kraut</objectName> <lb/> fein klein geschnitten <lb/> daran <lb/> laß so lang sieden <lb/> biß es ein dicklichtes Brühlein wird; versuchs obs recht im Saltz ist : ist es zu gesaltzen <lb/> kan man ein wenig <objectName ref="#wasser">Wasser</objectName> dazu giessen <lb/> siehe aber daß das Brühlein dicklicht bleibe <lb/> und nicht zu dinn werde; alsdann richte sie an. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ROthe Ruben gesotten <lb/> gescheelt und zu Blatten oder Scheiben geschnitten <lb/> werden mit geriebnem Kreen <lb/> Fenchel= Saamen <lb/> Eßig <lb/> Saltz und <objectName ref="pfeffer">Pfeffer</objectName> <lb/> in erdene Häfen eingemacht <lb/> und nach und nach zum <objectName ref="salat">Salat</objectName> gebraucht. </p>
+        <p> ROthe Ruben gesotten <lb/> gescheelt und zu Blatten oder Scheiben geschnitten <lb/> werden mit geriebnem Kreen <lb/> Fenchel= Saamen <lb/> Eßig <lb/> Saltz und <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> in erdene Häfen eingemacht <lb/> und nach und nach zum <objectName ref="#salat">Salat</objectName> gebraucht. </p>
             </div>
         </body>
     </text>

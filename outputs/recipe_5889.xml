@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Vnd auß den vbrigen Fasanen <lb/> da du die <objectName ref="brust">Brust</objectName> <lb/> Flügel <lb/> Diech <lb/> <objectName ref="magen">Magen</objectName> <lb/> vnnd <objectName ref="leber">Leber</objectName> von hast <lb/> magstu es schwartz oder gelb eynmachen <lb/> auff Vngerisch <lb/> es sey saur oder süß. </p>
+        <p> Vnd auß den vbrigen Fasanen <lb/> da du die <objectName ref="#brust">Brust</objectName> <lb/> Flügel <lb/> Diech <lb/> <objectName ref="#magen">Magen</objectName> <lb/> vnnd <objectName ref="#leber">Leber</objectName> von hast <lb/> magstu es schwartz oder gelb eynmachen <lb/> auff Vngerisch <lb/> es sey saur oder süß. </p>
             </div>
         </body>
     </text>

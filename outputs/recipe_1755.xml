@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="salz">Salz</objectName> Sie ain, vnd khere sie alle tag vmb, laß <lb/> ligen.3. wochen, henkhs in ain Väßl, d ( a ) s ain <lb/> boden hat, vnd henkh in den <objectName ref="rauch">rauch</objectName>, d ( a ) s nit zu <lb/> haiß daruon gehet, wenß.8. tag in <objectName ref="rauch">rauch</objectName> <lb/> henkht, so nimbs herab vnd schmiers mit <objectName ref="schmalz">schmalz</objectName> <lb/> vnd <objectName ref="essig">Essig</objectName>, vnd henkh wider hinauf, vnd laß <lb/> hangen, biß dich gedunkht, es sey genueg. <lb/> </p>
+        <p> <objectName ref="#salz">Salz</objectName> Sie ain, vnd khere sie alle tag vmb, laß <lb/> ligen.3. wochen, henkhs in ain Väßl, d ( a ) s ain <lb/> boden hat, vnd henkh in den <objectName ref="#rauch">rauch</objectName>, d ( a ) s nit zu <lb/> haiß daruon gehet, wenß.8. tag in <objectName ref="#rauch">rauch</objectName> <lb/> henkht, so nimbs herab vnd schmiers mit <objectName ref="#schmalz">schmalz</objectName> <lb/> vnd <objectName ref="#essig">Essig</objectName>, vnd henkh wider hinauf, vnd laß <lb/> hangen, biß dich gedunkht, es sey genueg. <lb/> </p>
             </div>
         </body>
     </text>

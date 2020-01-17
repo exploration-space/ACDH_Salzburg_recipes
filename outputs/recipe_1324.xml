@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim hänner Bräth<gap/> schneide<gap/> es Clein, hernach Stosß<gap/> <lb/> es klein in einen merßer<gap/>, nimb march<gap/>, faisten<gap/> <lb/> auch butter<gap/> semmel<gap/> Breßel<gap/>, waickhs<gap/> in ein milch<gap/> <lb/> oder in einen Rämb<gap/>, Stosß<gap/> alles untereinander, nimb <lb/> ayr<gap/> und 3 schallen<gap/> voll Rämb<gap/>, riehr<gap/> alles untereinan= <lb/> =der, nimb ein zünnerne schüssel<gap/>, schmirbs<gap/> mit <lb/> Butter<gap/>, und söze es auf eine höche, wo ein <objectName ref="wasser">wasser</objectName> <lb/> sieden<gap/> thuet, und gieß<gap/> daß abgeriehrte<gap/> Koch<gap/> <lb/> hinein, in die schüssl<gap/>, und laß es alß zusammen <lb/> gehen, so ist es guet. <lb/><lb/> </p>
+        <p> Nim hänner Bräth<gap/> schneide<gap/> es Clein, hernach Stosß<gap/> <lb/> es klein in einen merßer<gap/>, nimb march<gap/>, faisten<gap/> <lb/> auch butter<gap/> semmel<gap/> Breßel<gap/>, waickhs<gap/> in ein milch<gap/> <lb/> oder in einen Rämb<gap/>, Stosß<gap/> alles untereinander, nimb <lb/> ayr<gap/> und 3 schallen<gap/> voll Rämb<gap/>, riehr<gap/> alles untereinan= <lb/> =der, nimb ein zünnerne schüssel<gap/>, schmirbs<gap/> mit <lb/> Butter<gap/>, und söze es auf eine höche, wo ein <objectName ref="#wasser">wasser</objectName> <lb/> sieden<gap/> thuet, und gieß<gap/> daß abgeriehrte<gap/> Koch<gap/> <lb/> hinein, in die schüssl<gap/>, und laß es alß zusammen <lb/> gehen, so ist es guet. <lb/><lb/> </p>
             </div>
         </body>
     </text>

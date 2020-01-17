@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimme das <objectName ref="hirn">Hirn</objectName> frisch oder roher <lb/> zerschneids in Stücklein <lb/> saltz <lb/> und melbe solches <lb/> bach es in Schmaltz <lb/> und mach ein braune <objectName ref="bruehe">Brühe</objectName> <lb/> mit klein Zwibel und <objectName ref="austern">Austern</objectName> <lb/> oder <objectName ref="sardellen">Sardellen</objectName> <lb/> und Lemoni= Schelffen <lb/> und Gewürtz. </p>
+        <p> Nimme das <objectName ref="#hirn">Hirn</objectName> frisch oder roher <lb/> zerschneids in Stücklein <lb/> saltz <lb/> und melbe solches <lb/> bach es in Schmaltz <lb/> und mach ein braune <objectName ref="#bruehe">Brühe</objectName> <lb/> mit klein Zwibel und <objectName ref="#austern">Austern</objectName> <lb/> oder <objectName ref="#sardellen">Sardellen</objectName> <lb/> und Lemoni= Schelffen <lb/> und Gewürtz. </p>
             </div>
         </body>
     </text>

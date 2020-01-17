@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Sie können auch in <objectName ref="papier">Papier</objectName> mit <objectName ref="butter">Butter</objectName> und Semmel= Bröslein im <objectName ref="ofen">Ofen</objectName> gericht werden <lb/> und bey dem Anrichten mit Lemoni= Safft recent gemacht <lb/> und warm gegeben werden. </p>
+        <p> Sie können auch in <objectName ref="#papier">Papier</objectName> mit <objectName ref="#butter">Butter</objectName> und Semmel= Bröslein im <objectName ref="#ofen">Ofen</objectName> gericht werden <lb/> und bey dem Anrichten mit Lemoni= Safft recent gemacht <lb/> und warm gegeben werden. </p>
             </div>
         </body>
     </text>

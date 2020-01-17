@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein schöns stuckh<gap/> Rindtfleisch sieths<gap/> <lb/> dan so schneidte Weisse und Gelbe <lb/> ruemb<gap/> Gewirflet<gap/> darein oder langlet<gap/> <lb/> nit Zu khlein auch Wirschy<gap/> Gewi vnd <lb/> saufissl<gap/> Ohrn, Pradtwirst vnd <lb/> Greny A Grine Arbes<gap/> <lb/> vnnd lass undereinander siedten<gap/> <lb/> ganz lindt<gap/> dan so richte das <objectName ref="fleisch">Fleisch</objectName> <lb/> an vnnd Gies+ disses alles Wie es mit <lb/> Gesodten<gap/> hat daryber. <lb/><lb/> ( ve 20 ) </p>
+        <p> Nimb ein schöns stuckh<gap/> Rindtfleisch sieths<gap/> <lb/> dan so schneidte Weisse und Gelbe <lb/> ruemb<gap/> Gewirflet<gap/> darein oder langlet<gap/> <lb/> nit Zu khlein auch Wirschy<gap/> Gewi vnd <lb/> saufissl<gap/> Ohrn, Pradtwirst vnd <lb/> Greny A Grine Arbes<gap/> <lb/> vnnd lass undereinander siedten<gap/> <lb/> ganz lindt<gap/> dan so richte das <objectName ref="#fleisch">Fleisch</objectName> <lb/> an vnnd Gies+ disses alles Wie es mit <lb/> Gesodten<gap/> hat daryber. <lb/><lb/> ( ve 20 ) </p>
             </div>
         </body>
     </text>

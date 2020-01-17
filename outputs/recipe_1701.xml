@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ( 56v ) Nimb zwiffel vnnd öpfl, schneits gewürflet, <lb/> od ( er ) speckhelter, nimb <objectName ref="wein">Wein</objectName> <objectName ref="essig">Essig</objectName>, <objectName ref="wasser">wasser</objectName> <lb/> d ( a ) s der <objectName ref="essig">Essig</objectName> fürschlagt, wan er halb gesotn <lb/> ist, so mach in an, mit Mußcatblie, v̈ber Pfe= <lb/> =fer vnd gilb in Woll, vnd laß in woll ein= <lb/> =sieden, d ( a ) s Wennig <objectName ref="suppe">Suppen</objectName> daran bleibt, zugg ( er ) <lb/> In. <lb/> </p>
+        <p> ( 56v ) Nimb zwiffel vnnd öpfl, schneits gewürflet, <lb/> od ( er ) speckhelter, nimb <objectName ref="#wein">Wein</objectName> <objectName ref="#essig">Essig</objectName>, <objectName ref="#wasser">wasser</objectName> <lb/> d ( a ) s der <objectName ref="#essig">Essig</objectName> fürschlagt, wan er halb gesotn <lb/> ist, so mach in an, mit Mußcatblie, v̈ber Pfe= <lb/> =fer vnd gilb in Woll, vnd laß in woll ein= <lb/> =sieden, d ( a ) s Wennig <objectName ref="#suppe">Suppen</objectName> daran bleibt, zugg ( er ) <lb/> In. <lb/> </p>
             </div>
         </body>
     </text>

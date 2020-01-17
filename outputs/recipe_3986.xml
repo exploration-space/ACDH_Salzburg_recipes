@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> KOche dürre <objectName ref="pflaumen">Pflaumen</objectName> <lb/> in halb <objectName ref="wasser">Wasser</objectName> und halb <objectName ref="wein">Wein</objectName> <lb/> mit viel <objectName ref="zucker">Zucker</objectName> <lb/> Zimmet und zwey Nägelein <lb/> lege eine Lemoni= Schaalen darzu <lb/> und lasse sie ziemlich dick einsieden; aber gib Achtung <lb/> dann sie brennen gern an; rührs <lb/> und laß kalt werden <lb/> und gibs also auf eine <objectName ref="schuessel">Schüssel</objectName> <lb/> oder in eine Dorten. </p>
+        <p> KOche dürre <objectName ref="#pflaumen">Pflaumen</objectName> <lb/> in halb <objectName ref="#wasser">Wasser</objectName> und halb <objectName ref="#wein">Wein</objectName> <lb/> mit viel <objectName ref="#zucker">Zucker</objectName> <lb/> Zimmet und zwey Nägelein <lb/> lege eine Lemoni= Schaalen darzu <lb/> und lasse sie ziemlich dick einsieden; aber gib Achtung <lb/> dann sie brennen gern an; rührs <lb/> und laß kalt werden <lb/> und gibs also auf eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> oder in eine Dorten. </p>
             </div>
         </body>
     </text>

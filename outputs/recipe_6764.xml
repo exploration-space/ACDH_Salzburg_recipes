@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Auch gestossens von <objectName ref="wachtel">Wachteln</objectName> <lb/> oder fein grün eyngemacht mit Pettersilgen Wurtzel <lb/> vnd gesotten <lb/> vnd darmit durchgetrieben <lb/> wie zuvor vermeldt ist <lb/> wie man die grüne Brüh machen sol. </p>
+        <p> Auch gestossens von <objectName ref="#wachtel">Wachteln</objectName> <lb/> oder fein grün eyngemacht mit Pettersilgen Wurtzel <lb/> vnd gesotten <lb/> vnd darmit durchgetrieben <lb/> wie zuvor vermeldt ist <lb/> wie man die grüne Brüh machen sol. </p>
             </div>
         </body>
     </text>

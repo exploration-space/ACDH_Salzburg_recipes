@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb den <objectName ref="fisch">fisch</objectName> Mache ihm auf, <lb/> ybersiedt<gap/> ihm Nimb arbes Prye<gap/> <lb/> vnnd <objectName ref="wein">Wein</objectName> vnndereinander lass <lb/> es siedten<gap/> vnnd lege den <objectName ref="fisch">fisch</objectName> <lb/> darein Gewirz<gap/> es mit Nägl<gap/> <lb/><lb/> ( re 51 ) <objectName ref="pfeffer">Pfeffer</objectName> Zimmet stup<gap/> Nimb auch Lem= <lb/> mony<gap/> schölln<gap/> auch ein Gerimbnes<gap/> <lb/> Rockhes brodt<gap/> vnnd Klein Gehackhten <lb/> Zwifel<gap/> Rests<gap/> vnndereinander vnnd <lb/> bren<gap/> die <objectName ref="suppe">Suppen</objectName> darmit ein <lb/> mache es siess<gap/> oder Sauer wie Du <lb/> Wilst. <lb/> </p>
+        <p> Nimb den <objectName ref="#fisch">fisch</objectName> Mache ihm auf, <lb/> ybersiedt<gap/> ihm Nimb arbes Prye<gap/> <lb/> vnnd <objectName ref="#wein">Wein</objectName> vnndereinander lass <lb/> es siedten<gap/> vnnd lege den <objectName ref="#fisch">fisch</objectName> <lb/> darein Gewirz<gap/> es mit Nägl<gap/> <lb/><lb/> ( re 51 ) <objectName ref="#pfeffer">Pfeffer</objectName> Zimmet stup<gap/> Nimb auch Lem= <lb/> mony<gap/> schölln<gap/> auch ein Gerimbnes<gap/> <lb/> Rockhes brodt<gap/> vnnd Klein Gehackhten <lb/> Zwifel<gap/> Rests<gap/> vnndereinander vnnd <lb/> bren<gap/> die <objectName ref="#suppe">Suppen</objectName> darmit ein <lb/> mache es siess<gap/> oder Sauer wie Du <lb/> Wilst. <lb/> </p>
             </div>
         </body>
     </text>

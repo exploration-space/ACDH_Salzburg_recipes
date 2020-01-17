@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAn muß die Salbling <lb/> oder Ferchen mit <objectName ref="butter">Butter</objectName> <lb/> oder Oel auf dem heissen <objectName ref="rost">Rost</objectName> auf der <objectName ref="glut">Glut</objectName> <lb/> oder im warmen <objectName ref="ofen">Ofen</objectName> braten <lb/> hernach mit <objectName ref="pfeffer">Pfeffer</objectName> und Eßig kalt <lb/> oder warm geben. </p>
+        <p> MAn muß die Salbling <lb/> oder Ferchen mit <objectName ref="#butter">Butter</objectName> <lb/> oder Oel auf dem heissen <objectName ref="#rost">Rost</objectName> auf der <objectName ref="#glut">Glut</objectName> <lb/> oder im warmen <objectName ref="#ofen">Ofen</objectName> braten <lb/> hernach mit <objectName ref="#pfeffer">Pfeffer</objectName> und Eßig kalt <lb/> oder warm geben. </p>
             </div>
         </body>
     </text>

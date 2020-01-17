@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Man stest<gap/> vor vmb trey Khreizer<gap/> <lb/> Gumy<gap/>, alsdan ein löfel voll Zuckher <lb/> Darzur, vnnd Gies<gap/> ein <objectName ref="wasser">wasser</objectName> Da= <lb/> ran lass Versiedten<gap/>, Das fein <lb/> Dickh<gap/> wierdt, Dan Durch ein Diechel<gap/> <lb/> Gesichen<gap/>, vnnd Khalt<gap/> lassen werden, <lb/> wan Die lebzelt<gap/> Gebachen<gap/> sein be= <lb/> streichs Darmit olso ist es recht <lb/> [ Anm. : Bestreichung ist in diesem Falle eine Glasur. ] </p>
+        <p> Man stest<gap/> vor vmb trey Khreizer<gap/> <lb/> Gumy<gap/>, alsdan ein löfel voll Zuckher <lb/> Darzur, vnnd Gies<gap/> ein <objectName ref="#wasser">wasser</objectName> Da= <lb/> ran lass Versiedten<gap/>, Das fein <lb/> Dickh<gap/> wierdt, Dan Durch ein Diechel<gap/> <lb/> Gesichen<gap/>, vnnd Khalt<gap/> lassen werden, <lb/> wan Die lebzelt<gap/> Gebachen<gap/> sein be= <lb/> streichs Darmit olso ist es recht <lb/> [ Anm. : Bestreichung ist in diesem Falle eine Glasur. ] </p>
             </div>
         </body>
     </text>

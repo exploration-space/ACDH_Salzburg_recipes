@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Weich von einer Semmel die Schmollen in eine gute <objectName ref="milch">Milch</objectName> oder Ram. Wanns gar weich ist <lb/> schlags durch <lb/> rühre etliche Eyerdotter mit <objectName ref="zucker">Zucker</objectName> und <objectName ref="rosenwasser">Rosenwasser</objectName> alles wol ab <lb/> thue ein Stück <objectName ref="butter">Butter</objectName> in ein Reinlein <lb/> gieß diß darein <lb/> thue unten und oben <objectName ref="glut">Glut</objectName> <lb/> ist gar gut. </p>
+        <p> Weich von einer Semmel die Schmollen in eine gute <objectName ref="#milch">Milch</objectName> oder Ram. Wanns gar weich ist <lb/> schlags durch <lb/> rühre etliche Eyerdotter mit <objectName ref="#zucker">Zucker</objectName> und <objectName ref="#rosenwasser">Rosenwasser</objectName> alles wol ab <lb/> thue ein Stück <objectName ref="#butter">Butter</objectName> in ein Reinlein <lb/> gieß diß darein <lb/> thue unten und oben <objectName ref="#glut">Glut</objectName> <lb/> ist gar gut. </p>
             </div>
         </body>
     </text>

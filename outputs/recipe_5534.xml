@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Braune runde Kuchen von eyngebrenntem <objectName ref="teig">Teig</objectName> <lb/> wie vorhin vermeldt ist <lb/> wie man den <objectName ref="teig">Teig</objectName> eynmachen sol <lb/> sonderlich zum braunen Gebacken. </p>
+        <p> Braune runde Kuchen von eyngebrenntem <objectName ref="#teig">Teig</objectName> <lb/> wie vorhin vermeldt ist <lb/> wie man den <objectName ref="#teig">Teig</objectName> eynmachen sol <lb/> sonderlich zum braunen Gebacken. </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Mach ein herten taig an mit lauter Aÿrn, Welg ihn din auß Zu geschnitnen <lb/> Nudlen, schneids khlain, überbachs in eim haissen <objectName ref="schmalz">schmalz</objectName>, fein liecht= <lb/> braun, legs in ein Erdene <objectName ref="rein">Rein</objectName>, gieß guete fleischbrüe drein, Muß= <lb/> catblüe vnd Zimet gar ein Wenig saffran, Sieden lassen Zum anrichten, <lb/> leg ein Wenig Puter dran, Wan die henen beÿ eim Rind <objectName ref="fleisch">fleisch</objectName> ganz <lb/> gesoten, legs auf ein schißl, gieß die Nudl drüber. <lb/> </p>
+        <p> Mach ein herten taig an mit lauter Aÿrn, Welg ihn din auß Zu geschnitnen <lb/> Nudlen, schneids khlain, überbachs in eim haissen <objectName ref="#schmalz">schmalz</objectName>, fein liecht= <lb/> braun, legs in ein Erdene <objectName ref="#rein">Rein</objectName>, gieß guete fleischbrüe drein, Muß= <lb/> catblüe vnd Zimet gar ein Wenig saffran, Sieden lassen Zum anrichten, <lb/> leg ein Wenig Puter dran, Wan die henen beÿ eim Rind <objectName ref="#fleisch">fleisch</objectName> ganz <lb/> gesoten, legs auf ein schißl, gieß die Nudl drüber. <lb/> </p>
             </div>
         </body>
     </text>

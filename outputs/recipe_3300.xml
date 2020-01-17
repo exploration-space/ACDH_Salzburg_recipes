@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Klaub <lb/> wasche und stosse die Corrinten <lb/> und treibs mit <objectName ref="wein">Wein</objectName> durch <lb/> röste geriebenes Hauß=Brod in <objectName ref="butter">Butter</objectName> <lb/> mische diese Corrinten darein <lb/> laß mit <objectName ref="zucker">Zucker</objectName> <lb/> und wenig Rosen= oder andern wol=riechenden <objectName ref="wasser">Wasser</objectName> kurtz aufkochen <lb/> und gibs <lb/> wer will <lb/> kan an <objectName ref="zucker">Zucker</objectName> geriebne Lemoni= oder Pomerantzen=Schelffen darunter mischen. </p>
+        <p> Klaub <lb/> wasche und stosse die Corrinten <lb/> und treibs mit <objectName ref="#wein">Wein</objectName> durch <lb/> röste geriebenes Hauß=Brod in <objectName ref="#butter">Butter</objectName> <lb/> mische diese Corrinten darein <lb/> laß mit <objectName ref="#zucker">Zucker</objectName> <lb/> und wenig Rosen= oder andern wol=riechenden <objectName ref="#wasser">Wasser</objectName> kurtz aufkochen <lb/> und gibs <lb/> wer will <lb/> kan an <objectName ref="#zucker">Zucker</objectName> geriebne Lemoni= oder Pomerantzen=Schelffen darunter mischen. </p>
             </div>
         </body>
     </text>

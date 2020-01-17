@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schlag ein ayr<gap/> in ein schüsßel<gap/>, <objectName ref="salz">salz</objectName>, thue <lb/> ein wenig mehl<gap/> darauf, nimb in ein pfanen<gap/> <lb/> ein schmalz<gap/>, laß gar heiß<gap/> werden, daß es brinen <lb/> thuet, schitt<gap/> daß ayr<gap/> hinein khers<gap/> umb ist guet. <lb/><lb/> ( 76v ) </p>
+        <p> Schlag ein ayr<gap/> in ein schüsßel<gap/>, <objectName ref="#salz">salz</objectName>, thue <lb/> ein wenig mehl<gap/> darauf, nimb in ein pfanen<gap/> <lb/> ein schmalz<gap/>, laß gar heiß<gap/> werden, daß es brinen <lb/> thuet, schitt<gap/> daß ayr<gap/> hinein khers<gap/> umb ist guet. <lb/><lb/> ( 76v ) </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Verzehret vnd zeucht an sich <lb/> Man sol süß Holtz darzu thun. Solcher <objectName ref="wein">Wein</objectName> geziemet den Alten <lb/> ist gut für den feuchten Husten <lb/> fallende Sucht <lb/> vnd am meisten an den Kindern. Er trucknet vnd heylt heimliche ort <lb/> damit gewäschen <lb/> macht klare stim <lb/> ziemt den Wassersüchtigen. </p>
+        <p> Verzehret vnd zeucht an sich <lb/> Man sol süß Holtz darzu thun. Solcher <objectName ref="#wein">Wein</objectName> geziemet den Alten <lb/> ist gut für den feuchten Husten <lb/> fallende Sucht <lb/> vnd am meisten an den Kindern. Er trucknet vnd heylt heimliche ort <lb/> damit gewäschen <lb/> macht klare stim <lb/> ziemt den Wassersüchtigen. </p>
             </div>
         </body>
     </text>

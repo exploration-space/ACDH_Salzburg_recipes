@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BEreitet das Schlegelein <lb/> wie oben gemeldt <lb/> steckets an einen <objectName ref="spiess">Spieß</objectName> <lb/> und bratets schön ab <lb/> klopffet drey oder vier Eyer <lb/> giesst ein Rosen= <objectName ref="wasser">Wasser</objectName> daran; so es aber nicht beliebt <lb/> kan dieses auch davon bleiben <lb/> und bindet ein Büschelein <objectName ref="stroh">Stroh</objectName> von den Stroh= Aehren zusammen : wann nun das Lamms= Viertel schier abgebraten <lb/> duncket dieses Büschelein in die zerklopfften Eyer <lb/> und bestreichet das Viertel über und über damit; lasset es dann folgends gar abbraten <lb/> biß es schön rösch wird <lb/> ziehets hierauf vom <objectName ref="spiess">Spieß</objectName> <lb/> und tragets zu <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> BEreitet das Schlegelein <lb/> wie oben gemeldt <lb/> steckets an einen <objectName ref="#spiess">Spieß</objectName> <lb/> und bratets schön ab <lb/> klopffet drey oder vier Eyer <lb/> giesst ein Rosen= <objectName ref="#wasser">Wasser</objectName> daran; so es aber nicht beliebt <lb/> kan dieses auch davon bleiben <lb/> und bindet ein Büschelein <objectName ref="#stroh">Stroh</objectName> von den Stroh= Aehren zusammen : wann nun das Lamms= Viertel schier abgebraten <lb/> duncket dieses Büschelein in die zerklopfften Eyer <lb/> und bestreichet das Viertel über und über damit; lasset es dann folgends gar abbraten <lb/> biß es schön rösch wird <lb/> ziehets hierauf vom <objectName ref="#spiess">Spieß</objectName> <lb/> und tragets zu <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

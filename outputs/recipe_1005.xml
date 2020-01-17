@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Take a Pint of Milk, and about twelve large Laurel Leaves, break the Leaves in three or four Pieces; boil them in the Milk ’ till it is half wasted; then put in a <objectName ref="quart">Quart</objectName> of Cream, boil it with the Leaves and Milk; then strain it, and set it on the Fire again; when it boils, put in the Yolks of twelve Eggs, and the Whites of three, beating the Eggs very well; stir this ’ till it is a Curd; put in about Half a Pint of Milk, let it have a boil, then whey it in a Strainer. When it is cold, sweeten it. This tastes as well as that which has Almonds in it. </p>
+        <p> Take a Pint of Milk, and about twelve large Laurel Leaves, break the Leaves in three or four Pieces; boil them in the Milk ’ till it is half wasted; then put in a <objectName ref="#quart">Quart</objectName> of Cream, boil it with the Leaves and Milk; then strain it, and set it on the Fire again; when it boils, put in the Yolks of twelve Eggs, and the Whites of three, beating the Eggs very well; stir this ’ till it is a Curd; put in about Half a Pint of Milk, let it have a boil, then whey it in a Strainer. When it is cold, sweeten it. This tastes as well as that which has Almonds in it. </p>
             </div>
         </body>
     </text>

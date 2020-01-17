@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) <objectName ref="mehl">Mehl</objectName> vnd Eyerdotter <lb/> vnd ein wenig <objectName ref="zucker">Zucker</objectName> darvnter <lb/> mach <objectName ref="knoedel">Knödel</objectName> darauß <lb/> vnnd backs auß heisser <objectName ref="butter">Butter</objectName> fein langsam <lb/> daß sichs fein außbäckt <lb/> gibs kalt oder warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> vnd besträw es mit <objectName ref="zucker">Zucker</objectName>. </p>
+        <p> Nim ( m ) <objectName ref="#mehl">Mehl</objectName> vnd Eyerdotter <lb/> vnd ein wenig <objectName ref="#zucker">Zucker</objectName> darvnter <lb/> mach <objectName ref="#knoedel">Knödel</objectName> darauß <lb/> vnnd backs auß heisser <objectName ref="#butter">Butter</objectName> fein langsam <lb/> daß sichs fein außbäckt <lb/> gibs kalt oder warm auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> vnd besträw es mit <objectName ref="#zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

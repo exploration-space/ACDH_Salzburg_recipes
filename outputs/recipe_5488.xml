@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) ein Schaiden <lb/> der gebraten ist <lb/> stoß mit gebehtem Weck <lb/> vnd treibs mit Erbeßbrüh durch <lb/> pfeffers vnd gelbs <lb/> vnd thu frische <objectName ref="butter">Butter</objectName> darein <lb/> vnd laß darmit sieden <lb/> so wirt es gut vnd wolgeschmack. </p>
+        <p> Nim ( m ) ein Schaiden <lb/> der gebraten ist <lb/> stoß mit gebehtem Weck <lb/> vnd treibs mit Erbeßbrüh durch <lb/> pfeffers vnd gelbs <lb/> vnd thu frische <objectName ref="#butter">Butter</objectName> darein <lb/> vnd laß darmit sieden <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

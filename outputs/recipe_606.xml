@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Im Meyen oder im Herbstmonat <lb/> nim Sälben <lb/> Hysop <lb/> <objectName ref="fenchelsamen">Fenchelsamen</objectName> <lb/> Aniß <lb/> Liquiritz <lb/> Christwurtz vnd Rauten ana 2. loht <lb/> thus alles zusammen in ein newen <objectName ref="hafen">Hafen</objectName> <lb/> sieds mit <objectName ref="wasser">Wasser</objectName> oder <objectName ref="bier">Bier</objectName> <lb/> daß nicht bitter sey <lb/> laß zwey finger einsieden <lb/> trinck da= von fünff tag Morgens vnd Abendts. Ja ein Trüncklein warm <lb/> vnd faste darauff 2. stundt. Er dienet wider viel Anliegen vnd Gebrechen. Diesen Getranck mögen Männer vnd Weiber gebrauchen <lb/> ohne die Schwangern. </p>
+        <p> Im Meyen oder im Herbstmonat <lb/> nim Sälben <lb/> Hysop <lb/> <objectName ref="#fenchelsamen">Fenchelsamen</objectName> <lb/> Aniß <lb/> Liquiritz <lb/> Christwurtz vnd Rauten ana 2. loht <lb/> thus alles zusammen in ein newen <objectName ref="#hafen">Hafen</objectName> <lb/> sieds mit <objectName ref="#wasser">Wasser</objectName> oder <objectName ref="#bier">Bier</objectName> <lb/> daß nicht bitter sey <lb/> laß zwey finger einsieden <lb/> trinck da= von fünff tag Morgens vnd Abendts. Ja ein Trüncklein warm <lb/> vnd faste darauff 2. stundt. Er dienet wider viel Anliegen vnd Gebrechen. Diesen Getranck mögen Männer vnd Weiber gebrauchen <lb/> ohne die Schwangern. </p>
             </div>
         </body>
     </text>

@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DAs <objectName ref="fleisch">Fleisch</objectName> von der Indian= <objectName ref="brust">Brust</objectName> gesottner <lb/> oder gebratner <lb/> gibt ein schön Weiß= Gestoßnes und gut <objectName ref="gehaeck">Gehäck</objectName>. </p>
+        <p> DAs <objectName ref="#fleisch">Fleisch</objectName> von der Indian= <objectName ref="#brust">Brust</objectName> gesottner <lb/> oder gebratner <lb/> gibt ein schön Weiß= Gestoßnes und gut <objectName ref="#gehaeck">Gehäck</objectName>. </p>
             </div>
         </body>
     </text>

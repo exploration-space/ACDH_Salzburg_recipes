@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) von der Spensaw die Hinterkeul <lb/> saltz eyn <lb/> vnnd laß vber Nacht ligen <lb/> heng es in <objectName ref="rauch">Rauch</objectName> <lb/> vn ( n ) laß es wol räuchern <lb/> setz es zu mit dürren Hewblumen <lb/> laß es kalt werden <lb/> gib es darnach auff ein <objectName ref="tisch">Tisch</objectName> <lb/> so ist es ein gut Essen. </p>
+        <p> Nim ( m ) von der Spensaw die Hinterkeul <lb/> saltz eyn <lb/> vnnd laß vber Nacht ligen <lb/> heng es in <objectName ref="#rauch">Rauch</objectName> <lb/> vn ( n ) laß es wol räuchern <lb/> setz es zu mit dürren Hewblumen <lb/> laß es kalt werden <lb/> gib es darnach auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> so ist es ein gut Essen. </p>
             </div>
         </body>
     </text>

@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WIe solche einzurichten und zu machen seynd <lb/> findest du in dem Bacherey= Buch <lb/> bey denen <objectName ref="pastete">Pasteten</objectName> ausführlich. </p>
+        <p> WIe solche einzurichten und zu machen seynd <lb/> findest du in dem Bacherey= Buch <lb/> bey denen <objectName ref="#pastete">Pasteten</objectName> ausführlich. </p>
             </div>
         </body>
     </text>

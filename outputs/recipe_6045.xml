@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Gesotten Zwibelsalat <lb/> oder gebraten <lb/> macht man süß mit weissem <objectName ref="zucker">Zucker</objectName> <lb/> oder mit kleinen schwarzen Rosein. </p>
+        <p> Gesotten Zwibelsalat <lb/> oder gebraten <lb/> macht man süß mit weissem <objectName ref="#zucker">Zucker</objectName> <lb/> oder mit kleinen schwarzen Rosein. </p>
             </div>
         </body>
     </text>

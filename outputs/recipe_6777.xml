@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) <objectName ref="wein">Wein</objectName> <lb/> vnd ein wenig <objectName ref="essig">Essig</objectName> <lb/> Ziweben vn ( d ) Weinbeer <lb/> auch ein wenig eyngebrennt <objectName ref="mehl">Mehl</objectName> <lb/> mach es gelb vnd süß <lb/> vnd laß auffsieden <lb/> pfeffers <lb/> vnd versaltz es nicht <lb/> so wirt es gut vnd wolgeschmack. </p>
+        <p> Nim ( m ) <objectName ref="#wein">Wein</objectName> <lb/> vnd ein wenig <objectName ref="#essig">Essig</objectName> <lb/> Ziweben vn ( d ) Weinbeer <lb/> auch ein wenig eyngebrennt <objectName ref="#mehl">Mehl</objectName> <lb/> mach es gelb vnd süß <lb/> vnd laß auffsieden <lb/> pfeffers <lb/> vnd versaltz es nicht <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

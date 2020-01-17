@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> So nimb Arbes <objectName ref="suppe">suppen</objectName> vnd halbs <objectName ref="wein">Wein</objectName>, schneid 2. Zwifl= <lb/> heiptl darZue, laß es darinen Sieden, bähe 2. oder 3. <lb/> Semblschniten, leg es darein, das es auch darinen seudt, <lb/> nimb alßdan ein enges sib, vnd dreibs durch, thue es wider <lb/> in das hefen, gewürz es Woll mit Mußcatblüe auch <objectName ref="pfeffer">pfeffer</objectName> es <lb/> Woll, machs süsß mit Zukher, gilbs mit Saffran gar Woll, <lb/> darnach nimb den <objectName ref="fisch">fisch</objectName>, sied ihn aber nit gar an die stat, <lb/> khlaub alßdan die stukh in ein Reind, vnd geuß die <objectName ref="suppe">suppen</objectName> <lb/> drüber, vnd laß Sieden, gibs also. <lb/> </p>
+        <p> So nimb Arbes <objectName ref="#suppe">suppen</objectName> vnd halbs <objectName ref="#wein">Wein</objectName>, schneid 2. Zwifl= <lb/> heiptl darZue, laß es darinen Sieden, bähe 2. oder 3. <lb/> Semblschniten, leg es darein, das es auch darinen seudt, <lb/> nimb alßdan ein enges sib, vnd dreibs durch, thue es wider <lb/> in das hefen, gewürz es Woll mit Mußcatblüe auch <objectName ref="#pfeffer">pfeffer</objectName> es <lb/> Woll, machs süsß mit Zukher, gilbs mit Saffran gar Woll, <lb/> darnach nimb den <objectName ref="#fisch">fisch</objectName>, sied ihn aber nit gar an die stat, <lb/> khlaub alßdan die stukh in ein Reind, vnd geuß die <objectName ref="#suppe">suppen</objectName> <lb/> drüber, vnd laß Sieden, gibs also. <lb/> </p>
             </div>
         </body>
     </text>

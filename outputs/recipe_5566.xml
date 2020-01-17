@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Mach ein <objectName ref="teig">Teig</objectName> von lauter Eyern vnd <objectName ref="mehl">Mehl</objectName> <lb/> tauch Salbey in den <objectName ref="teig">Teig</objectName> <lb/> vnd laß jn wol herab rinnen <lb/> zeuchs in heisse <objectName ref="butter">Butter</objectName> <lb/> so wirdt es fein sauber aufflauffen <lb/> besträw es mit <objectName ref="zucker">Zucker</objectName> <lb/> vnd gibs warm auff ein <objectName ref="tisch">Tisch</objectName>. </p>
+        <p> Mach ein <objectName ref="#teig">Teig</objectName> von lauter Eyern vnd <objectName ref="#mehl">Mehl</objectName> <lb/> tauch Salbey in den <objectName ref="#teig">Teig</objectName> <lb/> vnd laß jn wol herab rinnen <lb/> zeuchs in heisse <objectName ref="#butter">Butter</objectName> <lb/> so wirdt es fein sauber aufflauffen <lb/> besträw es mit <objectName ref="#zucker">Zucker</objectName> <lb/> vnd gibs warm auff ein <objectName ref="#tisch">Tisch</objectName>. </p>
             </div>
         </body>
     </text>

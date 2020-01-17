@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIses findest in grossem Uberfluß <lb/> sowohl bey dem <objectName ref="kalb">Kalb</objectName> in dem 2. Capitel <lb/> N°. 74. anfangend <lb/> und biß N°. 94. Item <lb/> bey dem einheimischen Schwein <lb/> in dem 5. Capitel <lb/> von N°. 21. biß N°. 27. Man lasse sich dise Mühe nicht zu schwer fallen <lb/> die grössere Unkosten in der Druckerey zu erspahren <lb/> und eine Sach nicht so offt beyzubringen. </p>
+        <p> DIses findest in grossem Uberfluß <lb/> sowohl bey dem <objectName ref="#kalb">Kalb</objectName> in dem 2. Capitel <lb/> N°. 74. anfangend <lb/> und biß N°. 94. Item <lb/> bey dem einheimischen Schwein <lb/> in dem 5. Capitel <lb/> von N°. 21. biß N°. 27. Man lasse sich dise Mühe nicht zu schwer fallen <lb/> die grössere Unkosten in der Druckerey zu erspahren <lb/> und eine Sach nicht so offt beyzubringen. </p>
             </div>
         </body>
     </text>

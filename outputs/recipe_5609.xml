@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> KOchet oder siedet das <objectName ref="fleisch">Fleisch</objectName> in lauterer Brüh <lb/> biß es weich ist; hebt es etwan eine halbe Stund zuvor heraus in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> giesset Fleischbrüh daran; röstet hernach ein Weitzen = <objectName ref="mehl">Mehl</objectName> im Schmaltz schön licht <lb/> brennet es in die Brüh <lb/> thut ein wenig dürren zerriebenen <objectName ref="majoran">Majoran</objectName> darein <lb/> würtzet es mit Ingber und <objectName ref="pfeffer">Pfeffer</objectName> <lb/> und last es völlig <lb/> zu letzt aber ein Stuck <objectName ref="butter">Butter</objectName> <lb/> mit aufsieden. </p>
+        <p> KOchet oder siedet das <objectName ref="#fleisch">Fleisch</objectName> in lauterer Brüh <lb/> biß es weich ist; hebt es etwan eine halbe Stund zuvor heraus in einen stollichten <objectName ref="#hafen">Hafen</objectName> <lb/> giesset Fleischbrüh daran; röstet hernach ein Weitzen = <objectName ref="#mehl">Mehl</objectName> im Schmaltz schön licht <lb/> brennet es in die Brüh <lb/> thut ein wenig dürren zerriebenen <objectName ref="#majoran">Majoran</objectName> darein <lb/> würtzet es mit Ingber und <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> und last es völlig <lb/> zu letzt aber ein Stuck <objectName ref="#butter">Butter</objectName> <lb/> mit aufsieden. </p>
             </div>
         </body>
     </text>

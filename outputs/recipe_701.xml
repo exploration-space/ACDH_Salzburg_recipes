@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb.1½ tt kerschen die Schwaz sein, ich <lb/> kann auch v´ den Rothen ains mochen, legs <lb/> in ain Bouch : d´aqa vnd zertruckhe <lb/> sie woll im wasßer laß ½ stundt bey. <lb/> sammen, stehen, seuhe hernach durch ein <lb/> tuech. Nimb darzu 4. l. zkher <objectName ref="amber">amber</objectName> et m : <lb/> w : blt : gieß ins gschier vnd laß kalt werden <lb/> oder gfrührn. <lb/> </p>
+        <p> Nimb.1½ tt kerschen die Schwaz sein, ich <lb/> kann auch v´ den Rothen ains mochen, legs <lb/> in ain Bouch : d´aqa vnd zertruckhe <lb/> sie woll im wasßer laß ½ stundt bey. <lb/> sammen, stehen, seuhe hernach durch ein <lb/> tuech. Nimb darzu 4. l. zkher <objectName ref="#amber">amber</objectName> et m : <lb/> w : blt : gieß ins gschier vnd laß kalt werden <lb/> oder gfrührn. <lb/> </p>
             </div>
         </body>
     </text>

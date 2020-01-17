@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb vmb.1. kl gerolte <objectName ref="gerste">gersten</objectName> laß <lb/> in einem wasßer ein sudt thuen hernach <lb/> gieß daß wasßer ab in welche die <objectName ref="gerste">gersten</objectName> ge,, <lb/> sodten hat, wasche die <objectName ref="gerste">gersten</objectName> in Frischen <lb/> wasßer aus, hernach sezes v´ neuem <lb/><lb/> auf daß <objectName ref="feuer">feuer</objectName> vnd laß sieden biß sie zer,, <lb/> sprungen, sie hernach seuchs durch ein tuech <lb/> thue darein.2. lefl voll weisßen zkher <lb/> v´ dißem wasßer gurgl der tags offt, <lb/> aber speibe sie alzeit aus kan woll <lb/> ein wenig im maull stehen lasßen Iß <lb/> sehr gutt vnd bewerth. <lb/> </p>
+        <p> Nimb vmb.1. kl gerolte <objectName ref="#gerste">gersten</objectName> laß <lb/> in einem wasßer ein sudt thuen hernach <lb/> gieß daß wasßer ab in welche die <objectName ref="#gerste">gersten</objectName> ge,, <lb/> sodten hat, wasche die <objectName ref="#gerste">gersten</objectName> in Frischen <lb/> wasßer aus, hernach sezes v´ neuem <lb/><lb/> auf daß <objectName ref="#feuer">feuer</objectName> vnd laß sieden biß sie zer,, <lb/> sprungen, sie hernach seuchs durch ein tuech <lb/> thue darein.2. lefl voll weisßen zkher <lb/> v´ dißem wasßer gurgl der tags offt, <lb/> aber speibe sie alzeit aus kan woll <lb/> ein wenig im maull stehen lasßen Iß <lb/> sehr gutt vnd bewerth. <lb/> </p>
             </div>
         </body>
     </text>

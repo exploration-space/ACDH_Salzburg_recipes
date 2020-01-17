@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Diese seynd in dem II. Theil <lb/> 2. Buch <lb/> bey denen <objectName ref="fruechte">Früchten</objectName> schon beschriebner zu finden. </p>
+        <p> Diese seynd in dem II. Theil <lb/> 2. Buch <lb/> bey denen <objectName ref="#fruechte">Früchten</objectName> schon beschriebner zu finden. </p>
             </div>
         </body>
     </text>

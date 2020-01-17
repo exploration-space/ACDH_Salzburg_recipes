@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm einen harten Zümpffel= Taig <lb/> und wie er N°. 17. in diesem Capitel beschrieben ist <lb/> mache einer Erbes= groß Kügelein <lb/> und mache von diesem Taig einen Stengel <lb/> schlage ein gantzes Ey wol ab <lb/> bestreiche ein Blättlein Taig mit dem Stengel auf der Seiten <lb/> wo du die Kügelein daran setzst <lb/> formiere ein zierliche <objectName ref="weintrauben">Weintrauben</objectName> <lb/> bachs gar langsam in Schmaltz <lb/> und so sie gebachen seynd <lb/> hebe sie auch gemach heraus <lb/> siehe daß das Schmaltz tieff <lb/> aber nicht gar zu heiß seye <lb/> es ist ein schönes Gebach <lb/> und zieren die <objectName ref="schuessel">Schüssel</objectName> <lb/> gibs mit <objectName ref="zucker">Zucker</objectName> bestreut. </p>
+        <p> NImm einen harten Zümpffel= Taig <lb/> und wie er N°. 17. in diesem Capitel beschrieben ist <lb/> mache einer Erbes= groß Kügelein <lb/> und mache von diesem Taig einen Stengel <lb/> schlage ein gantzes Ey wol ab <lb/> bestreiche ein Blättlein Taig mit dem Stengel auf der Seiten <lb/> wo du die Kügelein daran setzst <lb/> formiere ein zierliche <objectName ref="#weintrauben">Weintrauben</objectName> <lb/> bachs gar langsam in Schmaltz <lb/> und so sie gebachen seynd <lb/> hebe sie auch gemach heraus <lb/> siehe daß das Schmaltz tieff <lb/> aber nicht gar zu heiß seye <lb/> es ist ein schönes Gebach <lb/> und zieren die <objectName ref="#schuessel">Schüssel</objectName> <lb/> gibs mit <objectName ref="#zucker">Zucker</objectName> bestreut. </p>
             </div>
         </body>
     </text>

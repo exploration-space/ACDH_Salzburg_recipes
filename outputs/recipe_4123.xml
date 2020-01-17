@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr <objectName ref="magen">Magen</objectName> kann verkocht <lb/> gefüllt <lb/> gebraten und zugericht werden <lb/> gleich wie der Rinderne <lb/> oder Ochsen= <objectName ref="magen">Magen</objectName> im Ersten Capitel <lb/> oder wie der Kälber= <objectName ref="magen">Magen</objectName> in dem andern Capitel <lb/> ist also der Geehrte Leser dahin gewiesen. </p>
+        <p> DEr <objectName ref="#magen">Magen</objectName> kann verkocht <lb/> gefüllt <lb/> gebraten und zugericht werden <lb/> gleich wie der Rinderne <lb/> oder Ochsen= <objectName ref="#magen">Magen</objectName> im Ersten Capitel <lb/> oder wie der Kälber= <objectName ref="#magen">Magen</objectName> in dem andern Capitel <lb/> ist also der Geehrte Leser dahin gewiesen. </p>
             </div>
         </body>
     </text>

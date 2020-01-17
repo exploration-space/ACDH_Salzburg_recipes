@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ES werden die Salbling <lb/> oder Ferchen <lb/> auf dem heissen <objectName ref="rost">Rost</objectName> gebraten <lb/> hernach mit <objectName ref="butter">Butter</objectName> und Capry warm gegeben. </p>
+        <p> ES werden die Salbling <lb/> oder Ferchen <lb/> auf dem heissen <objectName ref="#rost">Rost</objectName> gebraten <lb/> hernach mit <objectName ref="#butter">Butter</objectName> und Capry warm gegeben. </p>
             </div>
         </body>
     </text>

@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Dürre Epffel kocht man mit lauterm <objectName ref="wasser">Wasser</objectName> <lb/> sonderlich der gemeine Mann in Dörffern <lb/> den ( n ) er hat nicht viel Zeugs <lb/> als ein grosser Herr <lb/> Muß sich einer strecken nach der Decken. </p>
+        <p> Dürre Epffel kocht man mit lauterm <objectName ref="#wasser">Wasser</objectName> <lb/> sonderlich der gemeine Mann in Dörffern <lb/> den ( n ) er hat nicht viel Zeugs <lb/> als ein grosser Herr <lb/> Muß sich einer strecken nach der Decken. </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein guettes<gap/> <objectName ref="mehl">Mehl</objectName>, mach die milch<gap/> warmb, <lb/> souill das du den finger darin erlayden khanst, <lb/> thue den germb<gap/> darein, mach ein dämpfl<gap/> an, <lb/> las<gap/> gehen, nimb den dopfen<gap/> schlag ayr<gap/> daran, <lb/> Riers<gap/> vndter einander, mache den daig<gap/> gar <lb/><lb/> ( 3v ) darmit an, las<gap/> wider gehen, Machs zu <lb/> langen Nudlen<gap/>, schneit<gap/> oben auf ein Khrindl<gap/>, <lb/> pachs<gap/> in schmalz<gap/>, versalz nit, so <lb/> seindts bereith, <lb/> [ Anm. : „ souill das du den finger darin erlayden khanst “ : bedeutet, dass die <objectName ref="milch">Milch</objectName> so warm sein sollte, dass man sich nicht die Finger daran verbrüht. ] </p>
+        <p> Nimb ein guettes<gap/> <objectName ref="#mehl">Mehl</objectName>, mach die milch<gap/> warmb, <lb/> souill das du den finger darin erlayden khanst, <lb/> thue den germb<gap/> darein, mach ein dämpfl<gap/> an, <lb/> las<gap/> gehen, nimb den dopfen<gap/> schlag ayr<gap/> daran, <lb/> Riers<gap/> vndter einander, mache den daig<gap/> gar <lb/><lb/> ( 3v ) darmit an, las<gap/> wider gehen, Machs zu <lb/> langen Nudlen<gap/>, schneit<gap/> oben auf ein Khrindl<gap/>, <lb/> pachs<gap/> in schmalz<gap/>, versalz nit, so <lb/> seindts bereith, <lb/> [ Anm. : „ souill das du den finger darin erlayden khanst “ : bedeutet, dass die <objectName ref="#milch">Milch</objectName> so warm sein sollte, dass man sich nicht die Finger daran verbrüht. ] </p>
             </div>
         </body>
     </text>

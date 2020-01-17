@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Schaafs= <objectName ref="brust">Brust</objectName> wird mit Bratwürst= <objectName ref="gehaeck">Gehäck</objectName> <lb/> oder mit <objectName ref="lunge">Lungen</objectName> vom Schwein und <objectName ref="kalb">Kalb</objectName> mit <objectName ref="speck">Speck</objectName> <lb/> Kräutlein <lb/> Gewürtz und nöthigen Saltz und Eyern gefüllt <lb/> weich gesotten <lb/> und hernach an Spiß gesteckt <lb/> mit <objectName ref="butter">Butter</objectName> begossen <lb/> und wann es schnell herab gebraten <lb/> mit angemachten Semmel= Brosen von wohlriechenden <objectName ref="kraeuter">Kräutern</objectName> bestreut <lb/> und mit fäumigen <objectName ref="butter">Butter</objectName> zur Tafel getragen. </p>
+        <p> DIe Schaafs= <objectName ref="#brust">Brust</objectName> wird mit Bratwürst= <objectName ref="#gehaeck">Gehäck</objectName> <lb/> oder mit <objectName ref="#lunge">Lungen</objectName> vom Schwein und <objectName ref="#kalb">Kalb</objectName> mit <objectName ref="#speck">Speck</objectName> <lb/> Kräutlein <lb/> Gewürtz und nöthigen Saltz und Eyern gefüllt <lb/> weich gesotten <lb/> und hernach an Spiß gesteckt <lb/> mit <objectName ref="#butter">Butter</objectName> begossen <lb/> und wann es schnell herab gebraten <lb/> mit angemachten Semmel= Brosen von wohlriechenden <objectName ref="#kraeuter">Kräutern</objectName> bestreut <lb/> und mit fäumigen <objectName ref="#butter">Butter</objectName> zur Tafel getragen. </p>
             </div>
         </body>
     </text>

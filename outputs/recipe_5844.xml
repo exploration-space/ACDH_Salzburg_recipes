@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WArm gebraten auff ein <objectName ref="tisch">Tisch</objectName> geben <lb/> oder kalt lassen werden <lb/> ist es ein gut essen. </p>
+        <p> WArm gebraten auff ein <objectName ref="#tisch">Tisch</objectName> geben <lb/> oder kalt lassen werden <lb/> ist es ein gut essen. </p>
             </div>
         </body>
     </text>

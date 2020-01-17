@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein Gebuzten Cobaun<gap/> vnder= <lb/> greif<gap/> ihn alsdan fisl<gap/> die gesodtnen<gap/> <lb/><lb/> ( ve 19 ) Krepsen aus, mache Aus den schöllen<gap/> <lb/> ein Kreps Putter<gap/> brie<gap/> Khölberne<gap/> <lb/> Pris<gap/> siedte<gap/> auch die Maurrachen<gap/> <lb/> schneidte Gewirflete<gap/> bröckhl<gap/> daraus <lb/> vnd Rest<gap/> alles<gap/>. <objectName ref="butter">butter</objectName> Gewirzts<gap/> <lb/> mit Nägl<gap/> vnnd Zimmet stupp<gap/> thue <lb/> disses alles sambt einen Guetten <lb/> Daill Khreps butter<gap/> in den Coppaun<gap/> <lb/> einfillen<gap/> alsdan so thue Ihme bradten<gap/> <lb/> oder siedten<gap/> Wanst in nur siedten thust <lb/> so richts auf einer suppen<gap/> schön <lb/> an. <lb/> </p>
+        <p> Nimb ein Gebuzten Cobaun<gap/> vnder= <lb/> greif<gap/> ihn alsdan fisl<gap/> die gesodtnen<gap/> <lb/><lb/> ( ve 19 ) Krepsen aus, mache Aus den schöllen<gap/> <lb/> ein Kreps Putter<gap/> brie<gap/> Khölberne<gap/> <lb/> Pris<gap/> siedte<gap/> auch die Maurrachen<gap/> <lb/> schneidte Gewirflete<gap/> bröckhl<gap/> daraus <lb/> vnd Rest<gap/> alles<gap/>. <objectName ref="#butter">butter</objectName> Gewirzts<gap/> <lb/> mit Nägl<gap/> vnnd Zimmet stupp<gap/> thue <lb/> disses alles sambt einen Guetten <lb/> Daill Khreps butter<gap/> in den Coppaun<gap/> <lb/> einfillen<gap/> alsdan so thue Ihme bradten<gap/> <lb/> oder siedten<gap/> Wanst in nur siedten thust <lb/> so richts auf einer suppen<gap/> schön <lb/> an. <lb/> </p>
             </div>
         </body>
     </text>

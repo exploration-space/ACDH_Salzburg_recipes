@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAch dieselbe sauer und süß <lb/> wie bey der Ochsen= oder Rinds= <objectName ref="zunge">Zungen</objectName> beschrieben worden <lb/> und auch bey dem <objectName ref="kalb">Kalb</objectName>. </p>
+        <p> MAch dieselbe sauer und süß <lb/> wie bey der Ochsen= oder Rinds= <objectName ref="#zunge">Zungen</objectName> beschrieben worden <lb/> und auch bey dem <objectName ref="#kalb">Kalb</objectName>. </p>
             </div>
         </body>
     </text>

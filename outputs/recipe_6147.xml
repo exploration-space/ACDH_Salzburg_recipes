@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Du kanst auch solche Speiß von lautern frischen <objectName ref="mandeln">Mandeln</objectName> zurichten <lb/> mit Knobloch <lb/> <objectName ref="brot">Brot</objectName> <lb/> vnnd Kappaunenbrüh <lb/> wie vorhin auch vermeldet ist. </p>
+        <p> Du kanst auch solche Speiß von lautern frischen <objectName ref="#mandeln">Mandeln</objectName> zurichten <lb/> mit Knobloch <lb/> <objectName ref="#brot">Brot</objectName> <lb/> vnnd Kappaunenbrüh <lb/> wie vorhin auch vermeldet ist. </p>
             </div>
         </body>
     </text>

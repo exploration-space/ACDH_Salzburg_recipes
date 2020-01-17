@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimm Schmaltz <objectName ref="pfund">Pfund</objectName> oder Pargamot oder andere grosse fasstige Birn <lb/> wickle sie gescheelter oder auch ungescheelter in <objectName ref="papier">Papier</objectName> <lb/> verbinde dasselbige mit <objectName ref="spagat">Spagat</objectName> oder groben <objectName ref="zwirn">Zwirn</objectName> <lb/> vergrabs in warmer <objectName ref="asche">Aschen</objectName> <lb/> und laß braten <lb/> biß sie genug seynd <lb/> löse den <objectName ref="spagat">Spagat</objectName> und das <objectName ref="papier">Papier</objectName> darvon <lb/> und gibs wol warm <lb/> mit wol <objectName ref="zucker">Zucker</objectName> und wenig Zimmet=Stup bestreuter. </p>
+        <p> Nimm Schmaltz <objectName ref="#pfund">Pfund</objectName> oder Pargamot oder andere grosse fasstige Birn <lb/> wickle sie gescheelter oder auch ungescheelter in <objectName ref="#papier">Papier</objectName> <lb/> verbinde dasselbige mit <objectName ref="#spagat">Spagat</objectName> oder groben <objectName ref="#zwirn">Zwirn</objectName> <lb/> vergrabs in warmer <objectName ref="#asche">Aschen</objectName> <lb/> und laß braten <lb/> biß sie genug seynd <lb/> löse den <objectName ref="#spagat">Spagat</objectName> und das <objectName ref="#papier">Papier</objectName> darvon <lb/> und gibs wol warm <lb/> mit wol <objectName ref="#zucker">Zucker</objectName> und wenig Zimmet=Stup bestreuter. </p>
             </div>
         </body>
     </text>

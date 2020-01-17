@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Auf.1. Mäßl<gap/> Pir<gap/>.3. Ayr <lb/> dotter, ein halben <objectName ref="loeffel">löffel</objectName> voll Mell, <lb/> ein siss obers<gap/>, riehre<gap/> es ab, Zuckhere <lb/> es vnnd siede<gap/> es herab, thue ein <lb/> brockhen<gap/> <objectName ref="butter">butter</objectName> darein, <objectName ref="pfeffer">Pfeffer</objectName> es, <lb/> vnnd Salze, vnnd schitte<gap/> es auf die <lb/> Gebätten<gap/> Semel schnidl<gap/>. <lb/> </p>
+        <p> Nimb Auf.1. Mäßl<gap/> Pir<gap/>.3. Ayr <lb/> dotter, ein halben <objectName ref="#loeffel">löffel</objectName> voll Mell, <lb/> ein siss obers<gap/>, riehre<gap/> es ab, Zuckhere <lb/> es vnnd siede<gap/> es herab, thue ein <lb/> brockhen<gap/> <objectName ref="#butter">butter</objectName> darein, <objectName ref="#pfeffer">Pfeffer</objectName> es, <lb/> vnnd Salze, vnnd schitte<gap/> es auf die <lb/> Gebätten<gap/> Semel schnidl<gap/>. <lb/> </p>
             </div>
         </body>
     </text>

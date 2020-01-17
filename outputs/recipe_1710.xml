@@ -172,7 +172,7 @@ Unter <a href="http://gastrosophie.sbg.ac.at/kbforschung/r-datenbank/?rdb_rezept
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Stosß klain durcheinander, <lb/> streichs durch mit ainen gueten <objectName ref="wein">Wein</objectName>, Nimb <lb/> etlich zugger darunter, laß den driten taill <lb/> einsieden. <lb/> </p>
+        <p> Stosß klain durcheinander, <lb/> streichs durch mit ainen gueten <objectName ref="#wein">Wein</objectName>, Nimb <lb/> etlich zugger darunter, laß den driten taill <lb/> einsieden. <lb/> </p>
             </div>
         </body>
     </text>

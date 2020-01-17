@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) dürre Maurachen <lb/> die geweicht seyn <lb/> hack sie klein mit grünen wolschmeckenden <objectName ref="kraeuter">Kräutern</objectName> <lb/> rürs ab mit Eyern <lb/> vnnd zeuchs in ein Erbeßbrüh <lb/> die fein gepfeffert <lb/> gegelbt <lb/> geschmältzt vnd gesaltzen ist <lb/> laß darmit sieden <lb/> so wirt es gut vnd wolgeschmack. </p>
+        <p> Nim ( m ) dürre Maurachen <lb/> die geweicht seyn <lb/> hack sie klein mit grünen wolschmeckenden <objectName ref="#kraeuter">Kräutern</objectName> <lb/> rürs ab mit Eyern <lb/> vnnd zeuchs in ein Erbeßbrüh <lb/> die fein gepfeffert <lb/> gegelbt <lb/> geschmältzt vnd gesaltzen ist <lb/> laß darmit sieden <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

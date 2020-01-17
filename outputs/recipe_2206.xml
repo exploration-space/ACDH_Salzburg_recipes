@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb <objectName ref="wasser">Wasser</objectName>, oder blabe <objectName ref="milch">milch</objectName>, machs Warmb, geuß in ein <objectName ref="hafen">hafen</objectName>, <lb/> spridl mell drein, vnd <objectName ref="salz">salz</objectName>, hiz ein <objectName ref="schmalz">schmalz</objectName> in einem Pfändl, das du <lb/> ein löffl voll mell gar Woll einbrenen khanst, machs nit braun, geuß <lb/> oder brens in taig, doch nit Zu haiß, mach den taig hipsch glat, doch Zäch <lb/> ihn nit lang, Wermb die aÿr, schlag ains nach dem andern drein, biß er <lb/> rechte dikhe hat, etlich brenen erst nach den aÿrn, aber khüel ein, vnd <lb/> also bachen in haissen <objectName ref="schmalz">schmalz</objectName> durch ein löffl. <lb/> </p>
+        <p> Nimb <objectName ref="#wasser">Wasser</objectName>, oder blabe <objectName ref="#milch">milch</objectName>, machs Warmb, geuß in ein <objectName ref="#hafen">hafen</objectName>, <lb/> spridl mell drein, vnd <objectName ref="#salz">salz</objectName>, hiz ein <objectName ref="#schmalz">schmalz</objectName> in einem Pfändl, das du <lb/> ein löffl voll mell gar Woll einbrenen khanst, machs nit braun, geuß <lb/> oder brens in taig, doch nit Zu haiß, mach den taig hipsch glat, doch Zäch <lb/> ihn nit lang, Wermb die aÿr, schlag ains nach dem andern drein, biß er <lb/> rechte dikhe hat, etlich brenen erst nach den aÿrn, aber khüel ein, vnd <lb/> also bachen in haissen <objectName ref="#schmalz">schmalz</objectName> durch ein löffl. <lb/> </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr Halß oder Bug wird zu beliebigen Stucken zerhackt <lb/> gewässert und gewaschen <lb/> mit <objectName ref="wasser">Wasser</objectName> <lb/> das wohl darüber gehet <lb/> zugesetzt <lb/> wann es anfangt zu sieden <lb/> sauber abgefäumt <lb/> das nötige Saltz <lb/> mit 2. Lorbeer= Blätter <lb/> einem Zwibel <lb/> mit ein paar Nägelein besteckt <lb/> oder auch Petersil darein gelegt <lb/> und also gemach sieden lassen <lb/> biß weich genug ist; alsdann gibs mit grünen Petersil= <objectName ref="kraeuter">Kräutern</objectName> und Saltz bestreut. </p>
+        <p> DEr Halß oder Bug wird zu beliebigen Stucken zerhackt <lb/> gewässert und gewaschen <lb/> mit <objectName ref="#wasser">Wasser</objectName> <lb/> das wohl darüber gehet <lb/> zugesetzt <lb/> wann es anfangt zu sieden <lb/> sauber abgefäumt <lb/> das nötige Saltz <lb/> mit 2. Lorbeer= Blätter <lb/> einem Zwibel <lb/> mit ein paar Nägelein besteckt <lb/> oder auch Petersil darein gelegt <lb/> und also gemach sieden lassen <lb/> biß weich genug ist; alsdann gibs mit grünen Petersil= <objectName ref="#kraeuter">Kräutern</objectName> und Saltz bestreut. </p>
             </div>
         </body>
     </text>

@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ES seynd die Salbling und Ferchen auch gut <lb/> in einer unzeitigen <lb/> Agres= oder Stachel= Beer= <objectName ref="bruehe">Brühe</objectName> <lb/> oder auch in unzeitigen Weintrauben= Safft warm gegeben. </p>
+        <p> ES seynd die Salbling und Ferchen auch gut <lb/> in einer unzeitigen <lb/> Agres= oder Stachel= Beer= <objectName ref="#bruehe">Brühe</objectName> <lb/> oder auch in unzeitigen Weintrauben= Safft warm gegeben. </p>
             </div>
         </body>
     </text>

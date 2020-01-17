@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Weixl, laß Sieden in halb <objectName ref="wein">Wein</objectName> vnd <objectName ref="wasser">Wasser</objectName>, seichs ab, <lb/> schlags durch ein enges Reitterl, Zuggers, thue ein geribne <lb/> Sembl drunder, schlag ein aÿr dran, schau, das nit Zu din, <lb/> noch Zu dikh wird, bachs khiell herauß, gibs trukhen, <lb/> oder in einem süssen Süppl. </p>
+        <p> Nimb Weixl, laß Sieden in halb <objectName ref="#wein">Wein</objectName> vnd <objectName ref="#wasser">Wasser</objectName>, seichs ab, <lb/> schlags durch ein enges Reitterl, Zuggers, thue ein geribne <lb/> Sembl drunder, schlag ein aÿr dran, schau, das nit Zu din, <lb/> noch Zu dikh wird, bachs khiell herauß, gibs trukhen, <lb/> oder in einem süssen Süppl. </p>
             </div>
         </body>
     </text>

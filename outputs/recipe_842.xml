@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimm Zwibel=oder andere saure und grosse Aepffel <lb/> schneide nur die Butzen heraus <lb/> fülle die Lächer mit <objectName ref="zucker">Zucker</objectName> und <objectName ref="butter">Butter</objectName> <lb/> setz in ein tieffes <objectName ref="geschirr">Geschirr</objectName> <lb/> gib oben und unten <objectName ref="glut">Glut</objectName> <lb/> und brats nicht zu braun <lb/> beym Anrichten zuckere es wol. NB. Also kann maus auch gefüllter braten. NB. Aepffel=Koch <lb/> glatter und aufgeloffner <lb/> seynd im IV. Theil <lb/> 2. Buch <lb/> im dritten und vierdten Capitel schon beschriebner zu finden. NB. Aepffel mit Meel <lb/> oder durch Taig gezogner <lb/> aus Schmaltz gebachen <lb/> seynd auch in dem IV. Theil <lb/> 2. Buch <lb/> 5. Capitel ordentlich zu haben. </p>
+        <p> Nimm Zwibel=oder andere saure und grosse Aepffel <lb/> schneide nur die Butzen heraus <lb/> fülle die Lächer mit <objectName ref="#zucker">Zucker</objectName> und <objectName ref="#butter">Butter</objectName> <lb/> setz in ein tieffes <objectName ref="#geschirr">Geschirr</objectName> <lb/> gib oben und unten <objectName ref="#glut">Glut</objectName> <lb/> und brats nicht zu braun <lb/> beym Anrichten zuckere es wol. NB. Also kann maus auch gefüllter braten. NB. Aepffel=Koch <lb/> glatter und aufgeloffner <lb/> seynd im IV. Theil <lb/> 2. Buch <lb/> im dritten und vierdten Capitel schon beschriebner zu finden. NB. Aepffel mit Meel <lb/> oder durch Taig gezogner <lb/> aus Schmaltz gebachen <lb/> seynd auch in dem IV. Theil <lb/> 2. Buch <lb/> 5. Capitel ordentlich zu haben. </p>
             </div>
         </body>
     </text>

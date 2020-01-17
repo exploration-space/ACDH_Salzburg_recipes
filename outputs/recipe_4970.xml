@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChählet die Ruben <lb/> und schneidets <lb/> wann sie klein und jung seyn <lb/> zu Vierteln <lb/> oder sonst Stücklein= weiß <lb/> waschets <lb/> machet ein Schmaltz in einer Pfannen heiß <lb/> und thut die Ruben hinein <lb/> schwaist sie wohl darinnen; giesst in einen <objectName ref="hafen">Hafen</objectName> ein siedend <objectName ref="wasser">Wasser</objectName> oder Fleischbrüh <lb/> oder aber halb <objectName ref="wasser">Wasser</objectName> und Fleischbrüh daran <lb/> lassets also wohl sieden; zuletzt brennt ein wenig <objectName ref="mehl">Mehl</objectName> darein <lb/> und last es noch ein= und andern Sud thun. </p>
+        <p> SChählet die Ruben <lb/> und schneidets <lb/> wann sie klein und jung seyn <lb/> zu Vierteln <lb/> oder sonst Stücklein= weiß <lb/> waschets <lb/> machet ein Schmaltz in einer Pfannen heiß <lb/> und thut die Ruben hinein <lb/> schwaist sie wohl darinnen; giesst in einen <objectName ref="#hafen">Hafen</objectName> ein siedend <objectName ref="#wasser">Wasser</objectName> oder Fleischbrüh <lb/> oder aber halb <objectName ref="#wasser">Wasser</objectName> und Fleischbrüh daran <lb/> lassets also wohl sieden; zuletzt brennt ein wenig <objectName ref="#mehl">Mehl</objectName> darein <lb/> und last es noch ein= und andern Sud thun. </p>
             </div>
         </body>
     </text>

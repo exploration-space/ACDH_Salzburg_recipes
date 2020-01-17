@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb 3 ½ lt. Zukher.3. <objectName ref="loth">Loth</objectName> <objectName ref="naegel">Nägel</objectName>.3. <objectName ref="loth">Loth</objectName> Zimet 8. <objectName ref="loth">loth</objectName> Aneiß, 3 ½ Mußcat= <lb/> blie.4. <objectName ref="loth">loth</objectName> däto Nussen.4. <objectName ref="loth">loth</objectName> Imber, ein khändl <objectName ref="rosenwasser">Rosenwasser</objectName>. <lb/> </p>
+        <p> Nimb 3 ½ lt. Zukher.3. <objectName ref="#loth">Loth</objectName> <objectName ref="#naegel">Nägel</objectName>.3. <objectName ref="#loth">Loth</objectName> Zimet 8. <objectName ref="#loth">loth</objectName> Aneiß, 3 ½ Mußcat= <lb/> blie.4. <objectName ref="#loth">loth</objectName> däto Nussen.4. <objectName ref="#loth">loth</objectName> Imber, ein khändl <objectName ref="#rosenwasser">Rosenwasser</objectName>. <lb/> </p>
             </div>
         </body>
     </text>

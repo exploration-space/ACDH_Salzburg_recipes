@@ -172,7 +172,7 @@ Willst du aus einem Aal zwei machen, dann zieh dem Aal die Haut ab. Mach eine gu
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WIldu machn̄ aus ainē al czwen so zewch dem al die haut ab vnd mach ein gute full von aÿrʾn vnd stupp wol vnd full die in dÿ hawt vnd cher di haut widʾ an daz recht vnd stoss daz hawbt in die full vnd naͤ es daz es nicht abfall vnd nijm den den ( ! ) al vnd seut in mit wasβ vnd <objectName ref="wein">wein</objectName> vnd stupp in wol ab vnd nÿm dan den al in dÿ hawt vnd prat in schon auf ein <objectName ref="rost">rost</objectName> vnd petraͤppf in mit puttʾ So er dan gepratn̄ ist so leg in auf ein schussel vnd den gesotn̄ al darzw vnd gib si dan hin dn̄ hrʾrē So mag dʾ hʾr wol sprechn̄ von wā kumpt dʾ ain al </p>
+        <p> WIldu machn̄ aus ainē al czwen so zewch dem al die haut ab vnd mach ein gute full von aÿrʾn vnd stupp wol vnd full die in dÿ hawt vnd cher di haut widʾ an daz recht vnd stoss daz hawbt in die full vnd naͤ es daz es nicht abfall vnd nijm den den ( ! ) al vnd seut in mit wasβ vnd <objectName ref="#wein">wein</objectName> vnd stupp in wol ab vnd nÿm dan den al in dÿ hawt vnd prat in schon auf ein <objectName ref="#rost">rost</objectName> vnd petraͤppf in mit puttʾ So er dan gepratn̄ ist so leg in auf ein schussel vnd den gesotn̄ al darzw vnd gib si dan hin dn̄ hrʾrē So mag dʾ hʾr wol sprechn̄ von wā kumpt dʾ ain al </p>
             </div>
         </body>
     </text>

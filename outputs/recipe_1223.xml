@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb den schwaif<gap/> schleimb<gap/> ihm ab, schneyde<gap/> khrindl<gap/> <lb/> darein <objectName ref="salz">Salz</objectName> ihm ein, vnd prath<gap/> ihm, auf einen <lb/> Rost<gap/>, Bestöckhe<gap/> ihm mit ganzen Nägl<gap/>, vnd zimmet<gap/>, <lb/> auch Mußgätt<gap/>, Besträhe<gap/> ihm mit Semmbl<gap/> Presl, <lb/> vnd dräpfe<gap/> ihm mit lemany<gap/> Safft<gap/>, vnd löge<gap/> <lb/> lemany<gap/> darauf, gib ihm also auf die daffl<gap/>. <lb/> </p>
+        <p> Nimb den schwaif<gap/> schleimb<gap/> ihm ab, schneyde<gap/> khrindl<gap/> <lb/> darein <objectName ref="#salz">Salz</objectName> ihm ein, vnd prath<gap/> ihm, auf einen <lb/> Rost<gap/>, Bestöckhe<gap/> ihm mit ganzen Nägl<gap/>, vnd zimmet<gap/>, <lb/> auch Mußgätt<gap/>, Besträhe<gap/> ihm mit Semmbl<gap/> Presl, <lb/> vnd dräpfe<gap/> ihm mit lemany<gap/> Safft<gap/>, vnd löge<gap/> <lb/> lemany<gap/> darauf, gib ihm also auf die daffl<gap/>. <lb/> </p>
             </div>
         </body>
     </text>

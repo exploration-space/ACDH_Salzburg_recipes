@@ -171,7 +171,7 @@ Willst du einen guten Reiskuchen machen, dann koche den Reis in Wasser, aber las
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WIldu machn̄ ein gutes gepachn̄s von Reisch so sewd den reisch in <objectName ref="wasser">wasser</objectName> vnd laz in nicht vast vʾsiedn̄ vnd saig ez schon ab vnd tuͤ ez in ein <objectName ref="reibscherben">reibscherben</objectName> vnd reib ez klain̄ vnd reib rochew air dar vnder vnd tu smalcz in ein pfann vnd sthewsss durch die hannt als gebranntte kuechel wan es gepachn̄ ist So faͤ ein zukkʾ dar auf vnd gibs dan hin. </p>
+        <p> WIldu machn̄ ein gutes gepachn̄s von Reisch so sewd den reisch in <objectName ref="#wasser">wasser</objectName> vnd laz in nicht vast vʾsiedn̄ vnd saig ez schon ab vnd tuͤ ez in ein <objectName ref="#reibscherben">reibscherben</objectName> vnd reib ez klain̄ vnd reib rochew air dar vnder vnd tu smalcz in ein pfann vnd sthewsss durch die hannt als gebranntte kuechel wan es gepachn̄ ist So faͤ ein zukkʾ dar auf vnd gibs dan hin. </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAn nimmt ein <objectName ref="pfund">Pfund</objectName> Mandel <lb/> ziehet sie ab <lb/> und hacket acht hart gesottene Eyer wohl klein <lb/> stösst die <objectName ref="mandeln">Mandeln</objectName> <lb/> aber nicht zu hart <lb/> thut solche in einen <objectName ref="reibscherben">Reibscherben</objectName> <lb/> würfft <objectName ref="zucker">Zucker</objectName> darein <lb/> und reibet alles unter einander <lb/> schüttets hernach in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> macht einen <objectName ref="loeffel">Löffel</objectName> in Malvasier naß <lb/> streicht es mit selbigem übersich gleich einem Berg schön glatt in die Höh <lb/> und bestreuet es mit Zimmet. </p>
+        <p> MAn nimmt ein <objectName ref="#pfund">Pfund</objectName> Mandel <lb/> ziehet sie ab <lb/> und hacket acht hart gesottene Eyer wohl klein <lb/> stösst die <objectName ref="#mandeln">Mandeln</objectName> <lb/> aber nicht zu hart <lb/> thut solche in einen <objectName ref="#reibscherben">Reibscherben</objectName> <lb/> würfft <objectName ref="#zucker">Zucker</objectName> darein <lb/> und reibet alles unter einander <lb/> schüttets hernach in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> macht einen <objectName ref="#loeffel">Löffel</objectName> in Malvasier naß <lb/> streicht es mit selbigem übersich gleich einem Berg schön glatt in die Höh <lb/> und bestreuet es mit Zimmet. </p>
             </div>
         </body>
     </text>

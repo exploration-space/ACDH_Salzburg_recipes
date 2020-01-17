@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Erstlich nimb Mandl ½.lt. stosß khlein, oder geribne, mehr ein <lb/> halb pfundt faisten, von eim Rindt, oder das markh, auch <lb/> khlain gehakht, vnd under die Mandl gschit, ein viertl Zukher, ein <lb/> <objectName ref="loth">loth</objectName> Zimet, vnd die faisten vnd mandl gepuluert, aÿr dran <lb/> geschlagen 6. oder 7. ein wenig rämb, vnd alles undereinander <lb/> gerührt, ein taigl angemacht, mit Buter vnd <objectName ref="wasser">Wasser</objectName>, fein <lb/> marb dauon in ein scheibliges dorten pfändl hinein gelegt, <lb/> spizl außgeschniten, die fühl drein gossen, laß also bachen, <lb/> ist bereith. <lb/> </p>
+        <p> Erstlich nimb Mandl ½.lt. stosß khlein, oder geribne, mehr ein <lb/> halb pfundt faisten, von eim Rindt, oder das markh, auch <lb/> khlain gehakht, vnd under die Mandl gschit, ein viertl Zukher, ein <lb/> <objectName ref="#loth">loth</objectName> Zimet, vnd die faisten vnd mandl gepuluert, aÿr dran <lb/> geschlagen 6. oder 7. ein wenig rämb, vnd alles undereinander <lb/> gerührt, ein taigl angemacht, mit Buter vnd <objectName ref="#wasser">Wasser</objectName>, fein <lb/> marb dauon in ein scheibliges dorten pfändl hinein gelegt, <lb/> spizl außgeschniten, die fühl drein gossen, laß also bachen, <lb/> ist bereith. <lb/> </p>
             </div>
         </body>
     </text>

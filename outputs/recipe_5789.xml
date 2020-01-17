@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Zwibeln <lb/> setz sie zu in einem <objectName ref="wasser">Wasser</objectName> <lb/> vnd wenn sie geschelt seyn <lb/> so laß sie sieden <lb/> biß sie weich werden <lb/> vn ( n ) wen ( n ) sie weich seyn <lb/> so streich sie durch ein Härin <objectName ref="tuch">Tuch</objectName> <lb/> thu darnach die <objectName ref="zunge">Zungen</objectName> in dieselbige Brüh <lb/> machs an mit <objectName ref="pfeffer">Pfeffer</objectName> vnd Saffran <lb/> vnd laß es damit sieden <lb/> so ist es auch ein gute Speise <lb/> auff Polisch gemacht <lb/> denn die Polacken essen alles gern mit Zwibeln <lb/> ist auch gut vnd wolgeschmack. </p>
+        <p> Nim ( m ) Zwibeln <lb/> setz sie zu in einem <objectName ref="#wasser">Wasser</objectName> <lb/> vnd wenn sie geschelt seyn <lb/> so laß sie sieden <lb/> biß sie weich werden <lb/> vn ( n ) wen ( n ) sie weich seyn <lb/> so streich sie durch ein Härin <objectName ref="#tuch">Tuch</objectName> <lb/> thu darnach die <objectName ref="#zunge">Zungen</objectName> in dieselbige Brüh <lb/> machs an mit <objectName ref="#pfeffer">Pfeffer</objectName> vnd Saffran <lb/> vnd laß es damit sieden <lb/> so ist es auch ein gute Speise <lb/> auff Polisch gemacht <lb/> denn die Polacken essen alles gern mit Zwibeln <lb/> ist auch gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

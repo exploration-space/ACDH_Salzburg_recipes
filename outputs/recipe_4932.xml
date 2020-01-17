@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn das Kuh= <objectName ref="euter">Euter</objectName> abgesotten ist <lb/> wie vor gedacht <lb/> so schneidet es zu Plätzlein <lb/> thuts in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> streuet geriebenes Semmel= <objectName ref="mehl">Mehl</objectName> und <objectName ref="majoran">Majoran</objectName> oder Maseran <lb/> wie auch Cardamomen und Muscaten= Blüh darein <lb/> giesset Fleischbrüh dazu <lb/> lasset es sieden <lb/> und richtets an. </p>
+        <p> WAnn das Kuh= <objectName ref="#euter">Euter</objectName> abgesotten ist <lb/> wie vor gedacht <lb/> so schneidet es zu Plätzlein <lb/> thuts in einen stollichten <objectName ref="#hafen">Hafen</objectName> <lb/> streuet geriebenes Semmel= <objectName ref="#mehl">Mehl</objectName> und <objectName ref="#majoran">Majoran</objectName> oder Maseran <lb/> wie auch Cardamomen und Muscaten= Blüh darein <lb/> giesset Fleischbrüh dazu <lb/> lasset es sieden <lb/> und richtets an. </p>
             </div>
         </body>
     </text>

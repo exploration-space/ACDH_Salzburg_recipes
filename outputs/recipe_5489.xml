@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Berßling <lb/> die gebraten seyn <lb/> thu sie in einen Mörsel <lb/> vnd stoß mit gebehtem Weck <lb/> streichs mit Erbeßbrüh durch <lb/> pfeffers vnd gelbs <lb/> vnd thu frische <objectName ref="butter">Butter</objectName> darein vnd Saltz <lb/> laß darmit sieden <lb/> so wirt es gut vnnd wolgeschmack. Hastu kein gebratenen Bersig <lb/> so nim ( m ) ein gebackenen <lb/> vnnd stoß zu der <objectName ref="suppe">Suppen</objectName>. </p>
+        <p> Nim ( m ) Berßling <lb/> die gebraten seyn <lb/> thu sie in einen Mörsel <lb/> vnd stoß mit gebehtem Weck <lb/> streichs mit Erbeßbrüh durch <lb/> pfeffers vnd gelbs <lb/> vnd thu frische <objectName ref="#butter">Butter</objectName> darein vnd Saltz <lb/> laß darmit sieden <lb/> so wirt es gut vnnd wolgeschmack. Hastu kein gebratenen Bersig <lb/> so nim ( m ) ein gebackenen <lb/> vnnd stoß zu der <objectName ref="#suppe">Suppen</objectName>. </p>
             </div>
         </body>
     </text>

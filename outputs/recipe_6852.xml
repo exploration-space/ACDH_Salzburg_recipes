@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Drappen <objectName ref="pastete">Pasteten</objectName> kalt mit auffrichtigem Kopff <lb/> mit Neglein vnd Zimmet gespickt. </p>
+        <p> Drappen <objectName ref="#pastete">Pasteten</objectName> kalt mit auffrichtigem Kopff <lb/> mit Neglein vnd Zimmet gespickt. </p>
             </div>
         </body>
     </text>

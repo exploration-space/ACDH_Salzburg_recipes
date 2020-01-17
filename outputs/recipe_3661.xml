@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn man etwan einen übergebliebenen Eyer= Käß hat <lb/> so schneidet länglichte Stücklein daraus <lb/> kehret sie ein wenig im <objectName ref="mehl">Mehl</objectName> um <lb/> laßt ein Schmaltz in einer Pfannen heiß werden <lb/> und bachets schön gäh und geschwind heraus : Dann legets in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und streuet <objectName ref="zucker">Zucker</objectName> und Zimmet darauf. Wanns beliebt <lb/> kan man auch eine süsse Brüh <lb/> mit <objectName ref="wein">Wein</objectName> und Trisanet <lb/> darüber machen. </p>
+        <p> WAnn man etwan einen übergebliebenen Eyer= Käß hat <lb/> so schneidet länglichte Stücklein daraus <lb/> kehret sie ein wenig im <objectName ref="#mehl">Mehl</objectName> um <lb/> laßt ein Schmaltz in einer Pfannen heiß werden <lb/> und bachets schön gäh und geschwind heraus : Dann legets in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> und streuet <objectName ref="#zucker">Zucker</objectName> und Zimmet darauf. Wanns beliebt <lb/> kan man auch eine süsse Brüh <lb/> mit <objectName ref="#wein">Wein</objectName> und Trisanet <lb/> darüber machen. </p>
             </div>
         </body>
     </text>

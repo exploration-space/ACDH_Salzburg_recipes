@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schneide schniz<gap/> aus der <objectName ref="leber">leber</objectName>, <objectName ref="salz">salz</objectName> vnd <lb/> Gewierz<gap/>, mit ihmper<gap/>, Zimet<gap/>, Mus= <lb/> gablie<gap/>, leg Ihn in ein Degl<gap/>, vnnd <lb/> ein frischen <objectName ref="butter">butter</objectName>, leg die <objectName ref="leber">leber</objectName> <lb/> darein, dan schneith den Mang<gap/>, <lb/> vnnd Därmmel<gap/>, vnnd schneith Kleine <lb/> Stickhl<gap/> darauß, thues alles Zu <lb/> samen, Zu Der <objectName ref="leber">leber</objectName>, dräpf<gap/> <lb/> Lemony safft<gap/> darein. <lb/> </p>
+        <p> Schneide schniz<gap/> aus der <objectName ref="#leber">leber</objectName>, <objectName ref="#salz">salz</objectName> vnd <lb/> Gewierz<gap/>, mit ihmper<gap/>, Zimet<gap/>, Mus= <lb/> gablie<gap/>, leg Ihn in ein Degl<gap/>, vnnd <lb/> ein frischen <objectName ref="#butter">butter</objectName>, leg die <objectName ref="#leber">leber</objectName> <lb/> darein, dan schneith den Mang<gap/>, <lb/> vnnd Därmmel<gap/>, vnnd schneith Kleine <lb/> Stickhl<gap/> darauß, thues alles Zu <lb/> samen, Zu Der <objectName ref="#leber">leber</objectName>, dräpf<gap/> <lb/> Lemony safft<gap/> darein. <lb/> </p>
             </div>
         </body>
     </text>

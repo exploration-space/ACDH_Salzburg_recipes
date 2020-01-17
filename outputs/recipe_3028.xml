@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="spargel">SPargel</objectName> <lb/> so weit er weich <lb/> wird er kurtz Bröcklein weiß <lb/> wie grüne <objectName ref="erbsen">Erbsen</objectName> geschnitten <lb/> und gleich den vorigen gebrüht <lb/> gibt man auch in <objectName ref="salat">Salat</objectName> <lb/> oder marm <lb/> mit einer wolgemachten Butter= oder Erbes= <objectName ref="bruehe">Brühe</objectName>. </p>
+        <p> <objectName ref="#spargel">SPargel</objectName> <lb/> so weit er weich <lb/> wird er kurtz Bröcklein weiß <lb/> wie grüne <objectName ref="#erbsen">Erbsen</objectName> geschnitten <lb/> und gleich den vorigen gebrüht <lb/> gibt man auch in <objectName ref="#salat">Salat</objectName> <lb/> oder marm <lb/> mit einer wolgemachten Butter= oder Erbes= <objectName ref="#bruehe">Brühe</objectName>. </p>
             </div>
         </body>
     </text>

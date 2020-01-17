@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> JEtzt wäre vom Lämmlein <lb/> oder Kützlein zu reden <lb/> weil aber bey der <objectName ref="suppe">Suppen</objectName> <lb/> so viel darvon beschrieben <lb/> wird allhier der geehrte Leser dahin angewiesen <lb/> und ist allhier nur anzumercken <lb/> daß dise Brüstlein können auf allerhand Weiß gantzer <lb/> oder mit allerley guter Füll gefüllt <lb/> und dem vorhergehenden Fleischlein gleich <lb/> zerhackt und eingemacht werden. </p>
+        <p> JEtzt wäre vom Lämmlein <lb/> oder Kützlein zu reden <lb/> weil aber bey der <objectName ref="#suppe">Suppen</objectName> <lb/> so viel darvon beschrieben <lb/> wird allhier der geehrte Leser dahin angewiesen <lb/> und ist allhier nur anzumercken <lb/> daß dise Brüstlein können auf allerhand Weiß gantzer <lb/> oder mit allerley guter Füll gefüllt <lb/> und dem vorhergehenden Fleischlein gleich <lb/> zerhackt und eingemacht werden. </p>
             </div>
         </body>
     </text>

@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim 2. loht Krafftmeel <lb/> ein halb loht Veihel= wurtz <lb/> 1. <objectName ref="quint">quint</objectName>. <objectName ref="tragant">Tragant</objectName> <lb/> ein halb gran <objectName ref="bisam">Bisam</objectName> <lb/> ein <objectName ref="vierding">vierding</objectName> gutes Speißzucker <lb/> der hübsch weiß sey <lb/> ein <objectName ref="vierding">vierding</objectName> zuckercandi <lb/> praepariers wie du weist. </p>
+        <p> Nim 2. loht Krafftmeel <lb/> ein halb loht Veihel= wurtz <lb/> 1. <objectName ref="#quint">quint</objectName>. <objectName ref="#tragant">Tragant</objectName> <lb/> ein halb gran <objectName ref="#bisam">Bisam</objectName> <lb/> ein <objectName ref="#vierding">vierding</objectName> gutes Speißzucker <lb/> der hübsch weiß sey <lb/> ein <objectName ref="#vierding">vierding</objectName> zuckercandi <lb/> praepariers wie du weist. </p>
             </div>
         </body>
     </text>

@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIses wird schön weiß gesotten <lb/> mit <objectName ref="wein">Wein</objectName> und Eßig <lb/> in der klaren sauren Sultz <lb/> mit Lemoni <lb/> gantzem Gewürtz <lb/> <objectName ref="rosmarin">Rosmarin</objectName> <lb/> Lorbeer=Blättlein <lb/> Alladoba, regaliers mit grünen Petersil <lb/> ist auch warm also gut <lb/> mit Eßig und <objectName ref="wein">Wein</objectName> gesotten <lb/> mit Saltz <lb/> Lemoni und Zwibel in einem <objectName ref="serviette">Serviette</objectName>. </p>
+        <p> DIses wird schön weiß gesotten <lb/> mit <objectName ref="#wein">Wein</objectName> und Eßig <lb/> in der klaren sauren Sultz <lb/> mit Lemoni <lb/> gantzem Gewürtz <lb/> <objectName ref="#rosmarin">Rosmarin</objectName> <lb/> Lorbeer=Blättlein <lb/> Alladoba, regaliers mit grünen Petersil <lb/> ist auch warm also gut <lb/> mit Eßig und <objectName ref="#wein">Wein</objectName> gesotten <lb/> mit Saltz <lb/> Lemoni und Zwibel in einem <objectName ref="#serviette">Serviette</objectName>. </p>
             </div>
         </body>
     </text>

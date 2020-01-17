@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="bruehe">BRühe</objectName> die grüne Blätlein von Pertram ab <lb/> hacke selbige klein <lb/> stoß in einem steinernen Mörsel; nimm zu einem viertel <objectName ref="pfund">Pfund</objectName> desselben <lb/> gleichfalls ein viertel <objectName ref="pfund">Pfund</objectName> <objectName ref="zucker">Zucker</objectName> <lb/> oder drey achtel <objectName ref="maas">Maas</objectName> schön geläutertes Hönig; läutere den <objectName ref="zucker">Zucker</objectName> <lb/> und laß ihn ein wenig dick sieden <lb/> würff alsdann den Pertram darein <lb/> daß er ein und andern Wall damit aufthue <lb/> und die rechte Dicke einer Salsen bekomme : Eben so wird sie auch mit dem <objectName ref="honig">Honig</objectName> gemacht <lb/> und zu dem Gebratens aufgesetzet. </p>
+        <p> <objectName ref="#bruehe">BRühe</objectName> die grüne Blätlein von Pertram ab <lb/> hacke selbige klein <lb/> stoß in einem steinernen Mörsel; nimm zu einem viertel <objectName ref="#pfund">Pfund</objectName> desselben <lb/> gleichfalls ein viertel <objectName ref="#pfund">Pfund</objectName> <objectName ref="#zucker">Zucker</objectName> <lb/> oder drey achtel <objectName ref="#maas">Maas</objectName> schön geläutertes Hönig; läutere den <objectName ref="#zucker">Zucker</objectName> <lb/> und laß ihn ein wenig dick sieden <lb/> würff alsdann den Pertram darein <lb/> daß er ein und andern Wall damit aufthue <lb/> und die rechte Dicke einer Salsen bekomme : Eben so wird sie auch mit dem <objectName ref="#honig">Honig</objectName> gemacht <lb/> und zu dem Gebratens aufgesetzet. </p>
             </div>
         </body>
     </text>

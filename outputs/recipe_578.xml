@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim schöne gelbe <objectName ref="quitten">Quitten</objectName> 4. oder mehr <lb/> schele sie mit der Messerspitz <lb/> vnd stich ringsweiß vmbher bütz= lein herab <lb/> thu ein pfundt <objectName ref="zucker">Zucker</objectName> in <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> siede ihn <lb/> biß er einen <objectName ref="faden">Faden</objectName> gibt <lb/> darnach schütte die Quittenbützlein darein <lb/> laß sieden biß sie lind wer= den <lb/> zertrucke sie mit dem <objectName ref="kochloeffel">Kochlöffel</objectName> <lb/> so hat es gnug <lb/> gieß in Lädlein. </p>
+        <p> Nim schöne gelbe <objectName ref="#quitten">Quitten</objectName> 4. oder mehr <lb/> schele sie mit der Messerspitz <lb/> vnd stich ringsweiß vmbher bütz= lein herab <lb/> thu ein pfundt <objectName ref="#zucker">Zucker</objectName> in <objectName ref="#rosenwasser">Rosenwasser</objectName> <lb/> siede ihn <lb/> biß er einen <objectName ref="#faden">Faden</objectName> gibt <lb/> darnach schütte die Quittenbützlein darein <lb/> laß sieden biß sie lind wer= den <lb/> zertrucke sie mit dem <objectName ref="#kochloeffel">Kochlöffel</objectName> <lb/> so hat es gnug <lb/> gieß in Lädlein. </p>
             </div>
         </body>
     </text>

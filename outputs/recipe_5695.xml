@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="bruehe">BRühe</objectName> den Schwaden mit heissen <objectName ref="wasser">Wasser</objectName> an <lb/> und trockne ihn wieder ab; röste denselben hernach im Schmaltz <lb/> ( wiewohl es auch verbleiben kan <lb/> und er ungeröstet vor besser gehalten wird ) gieß eine gute dicke <objectName ref="milch">Milch</objectName> oder Kern daran <lb/> laß ihn kochen; wann er nun soll angerichtet werden <lb/> wirff zuvor ein wenig Saltz darein : richte ihn alsdann an <lb/> und streue Zimmet und <objectName ref="zucker">Zucker</objectName> darauf. </p>
+        <p> <objectName ref="#bruehe">BRühe</objectName> den Schwaden mit heissen <objectName ref="#wasser">Wasser</objectName> an <lb/> und trockne ihn wieder ab; röste denselben hernach im Schmaltz <lb/> ( wiewohl es auch verbleiben kan <lb/> und er ungeröstet vor besser gehalten wird ) gieß eine gute dicke <objectName ref="#milch">Milch</objectName> oder Kern daran <lb/> laß ihn kochen; wann er nun soll angerichtet werden <lb/> wirff zuvor ein wenig Saltz darein : richte ihn alsdann an <lb/> und streue Zimmet und <objectName ref="#zucker">Zucker</objectName> darauf. </p>
             </div>
         </body>
     </text>

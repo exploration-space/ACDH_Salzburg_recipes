@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Vnser Frauwen Bletter back auch auß dem <objectName ref="teig">Teig</objectName>. </p>
+        <p> Vnser Frauwen Bletter back auch auß dem <objectName ref="#teig">Teig</objectName>. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChählet die Aepffel <lb/> und setzets nur im <objectName ref="wasser">Wasser</objectName> zu; wann sie fast halb abgesotten <lb/> brennet ein wenig <objectName ref="mehl">Mehl</objectName> daran <lb/> und lassets also mit einander sieden <lb/> biß die Aepffel weich werden; schwinget sie bißweilen <lb/> damit die Brüh von dem <objectName ref="mehl">Mehl</objectName> nicht knockericht werde <lb/> und die Aepffel sich nicht anlegen : Alsdann richtets in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> und streuet <lb/> nach belieben <lb/> <objectName ref="zucker">Zucker</objectName> darauf. </p>
+        <p> SChählet die Aepffel <lb/> und setzets nur im <objectName ref="#wasser">Wasser</objectName> zu; wann sie fast halb abgesotten <lb/> brennet ein wenig <objectName ref="#mehl">Mehl</objectName> daran <lb/> und lassets also mit einander sieden <lb/> biß die Aepffel weich werden; schwinget sie bißweilen <lb/> damit die Brüh von dem <objectName ref="#mehl">Mehl</objectName> nicht knockericht werde <lb/> und die Aepffel sich nicht anlegen : Alsdann richtets in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> und streuet <lb/> nach belieben <lb/> <objectName ref="#zucker">Zucker</objectName> darauf. </p>
             </div>
         </body>
     </text>

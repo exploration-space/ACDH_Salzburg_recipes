@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> hackhe<gap/> ein khaltes Prätl<gap/>, khlein, oder Khalbfleisch<gap/>, <lb/> thues in ein Reindl<gap/>, thues mit Putter<gap/> vnd Mehl<gap/> <lb/> einprenen<gap/>, khlein geschnitne<gap/> zärdellen<gap/> vnd Reibe<gap/> <lb/> Lemany<gap/> schöllen<gap/> darein, schitte<gap/> <objectName ref="wein">wein</objectName> vnd <lb/> fleischprie<gap/> daran, las also khochen, alsdan schitts<gap/> <lb/> wider auf ein deller<gap/>, laß khalt werden, vnd Richts<gap/> <lb/> in die Pastötten<gap/> ein, vnd Pags<gap/>. <lb/><lb/> ( 17r ) </p>
+        <p> hackhe<gap/> ein khaltes Prätl<gap/>, khlein, oder Khalbfleisch<gap/>, <lb/> thues in ein Reindl<gap/>, thues mit Putter<gap/> vnd Mehl<gap/> <lb/> einprenen<gap/>, khlein geschnitne<gap/> zärdellen<gap/> vnd Reibe<gap/> <lb/> Lemany<gap/> schöllen<gap/> darein, schitte<gap/> <objectName ref="#wein">wein</objectName> vnd <lb/> fleischprie<gap/> daran, las also khochen, alsdan schitts<gap/> <lb/> wider auf ein deller<gap/>, laß khalt werden, vnd Richts<gap/> <lb/> in die Pastötten<gap/> ein, vnd Pags<gap/>. <lb/><lb/> ( 17r ) </p>
             </div>
         </body>
     </text>

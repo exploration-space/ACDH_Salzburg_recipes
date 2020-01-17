@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Haut samt der <objectName ref="lunge">Lungen</objectName> wird weich gesotten <lb/> die <objectName ref="leber">Leber</objectName> aber nur ein wenig gebrühet <lb/> dann mit gutem <objectName ref="speck">Speck</objectName> <lb/> wohlriechenden Kräutlein und Gewürtz unter einander klein gehackt <lb/> gibt gute Leber= <objectName ref="wurst">Wurst</objectName> <lb/> in die Därm zu füllen; welche überbrühet <lb/> und in <objectName ref="butter">Butter</objectName> gebräunt werden. </p>
+        <p> DIe Haut samt der <objectName ref="#lunge">Lungen</objectName> wird weich gesotten <lb/> die <objectName ref="#leber">Leber</objectName> aber nur ein wenig gebrühet <lb/> dann mit gutem <objectName ref="#speck">Speck</objectName> <lb/> wohlriechenden Kräutlein und Gewürtz unter einander klein gehackt <lb/> gibt gute Leber= <objectName ref="#wurst">Wurst</objectName> <lb/> in die Därm zu füllen; welche überbrühet <lb/> und in <objectName ref="#butter">Butter</objectName> gebräunt werden. </p>
             </div>
         </body>
     </text>

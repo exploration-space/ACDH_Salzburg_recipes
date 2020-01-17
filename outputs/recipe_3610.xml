@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm wenig Kalb= und weisses Hünlein= <objectName ref="fleisch">Fleisch</objectName> <lb/> planschiers im <objectName ref="hafen">Hafen</objectName> <lb/> hacks mit Lemoni <lb/> gewürtz und stoß es im <objectName ref="moerser">Mörser</objectName> mit <objectName ref="knoblauch">Knoblauch</objectName> <lb/> und Recompel, mach die Pastetlein mit feinen Taig. </p>
+        <p> NImm wenig Kalb= und weisses Hünlein= <objectName ref="#fleisch">Fleisch</objectName> <lb/> planschiers im <objectName ref="#hafen">Hafen</objectName> <lb/> hacks mit Lemoni <lb/> gewürtz und stoß es im <objectName ref="#moerser">Mörser</objectName> mit <objectName ref="#knoblauch">Knoblauch</objectName> <lb/> und Recompel, mach die Pastetlein mit feinen Taig. </p>
             </div>
         </body>
     </text>

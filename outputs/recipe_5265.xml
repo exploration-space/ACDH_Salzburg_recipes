@@ -179,7 +179,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DAs ausgelöste Brät wird ein wenig gewässert <lb/> und mit ein paar Brüßlein überbrühet <lb/> gesaltzen <lb/> dann mit guten <objectName ref="speck">Speck</objectName> und Ochsen= Marck klein gehackt <lb/> den vorigen gleich gewürtzt <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Coriander <lb/> Muscatnuß <lb/> auch guten <objectName ref="kraeuter">Kräutern</objectName> <lb/> ein wenig klein= gehackten Zwibel <lb/> mit 2. Eyerdotter angemacht; fülls in die Därm <lb/> und brats in <objectName ref="papier">Papier</objectName> <lb/> in der Pfann <lb/> oder auf dem <objectName ref="rost">Rost</objectName>. </p>
+        <p> DAs ausgelöste Brät wird ein wenig gewässert <lb/> und mit ein paar Brüßlein überbrühet <lb/> gesaltzen <lb/> dann mit guten <objectName ref="#speck">Speck</objectName> und Ochsen= Marck klein gehackt <lb/> den vorigen gleich gewürtzt <lb/> mit <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Coriander <lb/> Muscatnuß <lb/> auch guten <objectName ref="#kraeuter">Kräutern</objectName> <lb/> ein wenig klein= gehackten Zwibel <lb/> mit 2. Eyerdotter angemacht; fülls in die Därm <lb/> und brats in <objectName ref="#papier">Papier</objectName> <lb/> in der Pfann <lb/> oder auf dem <objectName ref="#rost">Rost</objectName>. </p>
             </div>
         </body>
     </text>

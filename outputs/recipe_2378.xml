@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChähle einen Kreen oder <objectName ref="meerrettich">Meerrettich</objectName> <lb/> schneide ihn würfflicht <lb/> stoß selbigen mit abgezogenen <objectName ref="mandeln">Mandeln</objectName> an <lb/> misch ein wenig Semmel= <objectName ref="mehl">Mehl</objectName> darunter <lb/> und treibs mit einer Fleischbrüh durch. </p>
+        <p> SChähle einen Kreen oder <objectName ref="#meerrettich">Meerrettich</objectName> <lb/> schneide ihn würfflicht <lb/> stoß selbigen mit abgezogenen <objectName ref="#mandeln">Mandeln</objectName> an <lb/> misch ein wenig Semmel= <objectName ref="#mehl">Mehl</objectName> darunter <lb/> und treibs mit einer Fleischbrüh durch. </p>
             </div>
         </body>
     </text>

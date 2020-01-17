@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb gueten Wällisch ( en ) <objectName ref="wein">wein</objectName>, ain <objectName ref="vierding">Vierding</objectName> buter, <lb/> laß den selben in ainen absonderlichen geschier <lb/> zergehen, vnd nimb darnach ain schönes Meell, <lb/> d ( a ) s gar weiß ist, vnd schite d ( a ) s in den buter, <lb/> aber der buter mueß auf der gluet stehen, <lb/> vnd d ( a ) s Meell vnd buter allgemach mit den <lb/> <objectName ref="wein">Wein</objectName>, bis es fest wierdt abgestossen, vnd ge= <lb/> =mach darnach gezuggert, vnd in ainner <lb/> schißl gebachen. <lb/><lb/> ( 43v ) </p>
+        <p> Nimb gueten Wällisch ( en ) <objectName ref="#wein">wein</objectName>, ain <objectName ref="#vierding">Vierding</objectName> buter, <lb/> laß den selben in ainen absonderlichen geschier <lb/> zergehen, vnd nimb darnach ain schönes Meell, <lb/> d ( a ) s gar weiß ist, vnd schite d ( a ) s in den buter, <lb/> aber der buter mueß auf der gluet stehen, <lb/> vnd d ( a ) s Meell vnd buter allgemach mit den <lb/> <objectName ref="#wein">Wein</objectName>, bis es fest wierdt abgestossen, vnd ge= <lb/> =mach darnach gezuggert, vnd in ainner <lb/> schißl gebachen. <lb/><lb/> ( 43v ) </p>
             </div>
         </body>
     </text>

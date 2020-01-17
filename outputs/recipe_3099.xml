@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> CIchori= Kräutlein gelb <lb/> so in der Einsetz heraus wächst <lb/> ist gut gebrüht und ungebrüht zum <objectName ref="salat">Salat</objectName>. </p>
+        <p> CIchori= Kräutlein gelb <lb/> so in der Einsetz heraus wächst <lb/> ist gut gebrüht und ungebrüht zum <objectName ref="#salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

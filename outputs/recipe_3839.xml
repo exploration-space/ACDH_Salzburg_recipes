@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> PErschling nimmt man auch lebendig in einen <objectName ref="hafen">Hafen</objectName> <lb/> oder bedeckten <objectName ref="fisch">Fisch</objectName> <objectName ref="kessel">Kessel</objectName> <lb/> gieß siediges <objectName ref="wasser">Wasser</objectName> darein <lb/> so geht die Haut sammt den Schupper herab <lb/> dann nimm die Gall heraus <lb/> und richte sie zu <lb/> wie obedacht. </p>
+        <p> PErschling nimmt man auch lebendig in einen <objectName ref="#hafen">Hafen</objectName> <lb/> oder bedeckten <objectName ref="#fisch">Fisch</objectName> <objectName ref="#kessel">Kessel</objectName> <lb/> gieß siediges <objectName ref="#wasser">Wasser</objectName> darein <lb/> so geht die Haut sammt den Schupper herab <lb/> dann nimm die Gall heraus <lb/> und richte sie zu <lb/> wie obedacht. </p>
             </div>
         </body>
     </text>

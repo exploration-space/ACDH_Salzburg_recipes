@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr Weiß= <objectName ref="fisch">Fisch</objectName> ist ein weich und krätiger <objectName ref="fisch">Fisch</objectName> <lb/> jedoch zimlich groß und geschmack <lb/> und am besten <lb/> wann er aufgemacht <lb/> eingesaltzen <lb/> und sammt den Schuppen <lb/> auf dem heiß= gemachten <objectName ref="rost">Rost</objectName> gebraten wird; mit Oel <lb/> oder <objectName ref="butter">Butter</objectName> <lb/> mache ein saure Capry= Lemoni= Zwibel= oder andere dergleichen saure Brüh bey dem Anrichten darüber : oder gib ihn kalt mit Eßig und Oel. </p>
+        <p> DEr Weiß= <objectName ref="#fisch">Fisch</objectName> ist ein weich und krätiger <objectName ref="#fisch">Fisch</objectName> <lb/> jedoch zimlich groß und geschmack <lb/> und am besten <lb/> wann er aufgemacht <lb/> eingesaltzen <lb/> und sammt den Schuppen <lb/> auf dem heiß= gemachten <objectName ref="#rost">Rost</objectName> gebraten wird; mit Oel <lb/> oder <objectName ref="#butter">Butter</objectName> <lb/> mache ein saure Capry= Lemoni= Zwibel= oder andere dergleichen saure Brüh bey dem Anrichten darüber : oder gib ihn kalt mit Eßig und Oel. </p>
             </div>
         </body>
     </text>

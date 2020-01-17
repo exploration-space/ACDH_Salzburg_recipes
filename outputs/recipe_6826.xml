@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Kälbern <objectName ref="knoedel">Knödel</objectName> <objectName ref="pastete">Pasteten</objectName> von weissem <objectName ref="teig">Teig</objectName> auffgetrieben <lb/> vnd gib sie warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> so wirt es gut vnd wolgeschmack. </p>
+        <p> Kälbern <objectName ref="#knoedel">Knödel</objectName> <objectName ref="#pastete">Pasteten</objectName> von weissem <objectName ref="#teig">Teig</objectName> auffgetrieben <lb/> vnd gib sie warm auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

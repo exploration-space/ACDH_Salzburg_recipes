@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="nuesse">Nüsse</objectName> so heurig <lb/> und sich scheelen lassen <lb/> seynd gut <lb/> mit süssen <objectName ref="wein">Wein</objectName> ausgewaschen <lb/> roher zu geben <lb/> mit oder ohne <objectName ref="zucker">Zucker</objectName> bestreuter. </p>
+        <p> <objectName ref="#nuesse">Nüsse</objectName> so heurig <lb/> und sich scheelen lassen <lb/> seynd gut <lb/> mit süssen <objectName ref="#wein">Wein</objectName> ausgewaschen <lb/> roher zu geben <lb/> mit oder ohne <objectName ref="#zucker">Zucker</objectName> bestreuter. </p>
             </div>
         </body>
     </text>

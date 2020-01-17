@@ -174,7 +174,7 @@ Auch in der Grazer Hs. MS 1609, 18r</title>
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WIldu machn̄ ein latwarÿ von weinperen so prich die weinpir ab dem klainē vnd tuͤ sie in ein <objectName ref="kessel">kessel</objectName> vnd secz auf ein trifus vnd ein gute <objectName ref="glut">glut</objectName> dar vnder vnd gewss dar nichs dar an vnd wē es siedn̄ wirt So laz dan kalt wʾdn̄ vnd streich ez durch ein <objectName ref="tuch">tuch</objectName> vnd du es widrʾ in den <objectName ref="kessel">kessel</objectName> vnd secz widʾ auf den trifus vnd sewd es wol vnd mit guten gewurcz stupp es wol ab vnd gews dan auf ein prot vnd laz dan also kaltn̄ vi tag vnd dar nach sneÿd es wÿe du <objectName ref="wild">wild</objectName> klain odʾ groß vnd wirt gut </p>
+        <p> WIldu machn̄ ein latwarÿ von weinperen so prich die weinpir ab dem klainē vnd tuͤ sie in ein <objectName ref="#kessel">kessel</objectName> vnd secz auf ein trifus vnd ein gute <objectName ref="#glut">glut</objectName> dar vnder vnd gewss dar nichs dar an vnd wē es siedn̄ wirt So laz dan kalt wʾdn̄ vnd streich ez durch ein <objectName ref="#tuch">tuch</objectName> vnd du es widrʾ in den <objectName ref="#kessel">kessel</objectName> vnd secz widʾ auf den trifus vnd sewd es wol vnd mit guten gewurcz stupp es wol ab vnd gews dan auf ein prot vnd laz dan also kaltn̄ vi tag vnd dar nach sneÿd es wÿe du <objectName ref="#wild">wild</objectName> klain odʾ groß vnd wirt gut </p>
             </div>
         </body>
     </text>

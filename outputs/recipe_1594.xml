@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schöll etlich zwifel, seuts ab mit <lb/><lb/> ( 18r ). <objectName ref="wasser">wasser</objectName>, darnach treib in durch ain tuech, gieß <lb/> gueten Essich darüber, Nimb Imber, <objectName ref="pfeffer">Pfeffer</objectName>, <lb/> gewürz woll, vnd Mußcatblie, laß woll ein= <lb/> =sieden, <objectName ref="salz">Salz</objectName> nit zu hart, <lb/> </p>
+        <p> Schöll etlich zwifel, seuts ab mit <lb/><lb/> ( 18r ). <objectName ref="#wasser">wasser</objectName>, darnach treib in durch ain tuech, gieß <lb/> gueten Essich darüber, Nimb Imber, <objectName ref="#pfeffer">Pfeffer</objectName>, <lb/> gewürz woll, vnd Mußcatblie, laß woll ein= <lb/> =sieden, <objectName ref="#salz">Salz</objectName> nit zu hart, <lb/> </p>
             </div>
         </body>
     </text>

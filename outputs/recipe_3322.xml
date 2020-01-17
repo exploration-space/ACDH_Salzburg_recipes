@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm sauber= gebutzte <lb/> und untergriffene Hünlein; dann röste gute Semmel= Brosen <lb/> mit gantz klein= gehackten Zwibel <lb/> Petersil= Kräutlein <lb/> ein wenig <objectName ref="majoran">Majoran</objectName> in Krebs= <objectName ref="butter">Butter</objectName> <lb/> aber nicht starck <lb/> damit alles schön roth bleibt <lb/> schlag Eyerdotter mit Ram daran <lb/> mit noch wenig Krebs= <objectName ref="butter">Butter</objectName> <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und Muscatnuß unter einander gerührt <lb/> fülls in die Hünlein <lb/> zwischen Haut und <objectName ref="fleisch">Fleisch</objectName>; stecks an Spiß <lb/> und brats im Safft <lb/> und wanns fertig <lb/> so begiß mit Krebs= <objectName ref="butter">Butter</objectName> <lb/> und gibs warm. </p>
+        <p> NImm sauber= gebutzte <lb/> und untergriffene Hünlein; dann röste gute Semmel= Brosen <lb/> mit gantz klein= gehackten Zwibel <lb/> Petersil= Kräutlein <lb/> ein wenig <objectName ref="#majoran">Majoran</objectName> in Krebs= <objectName ref="#butter">Butter</objectName> <lb/> aber nicht starck <lb/> damit alles schön roth bleibt <lb/> schlag Eyerdotter mit Ram daran <lb/> mit noch wenig Krebs= <objectName ref="#butter">Butter</objectName> <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> und Muscatnuß unter einander gerührt <lb/> fülls in die Hünlein <lb/> zwischen Haut und <objectName ref="#fleisch">Fleisch</objectName>; stecks an Spiß <lb/> und brats im Safft <lb/> und wanns fertig <lb/> so begiß mit Krebs= <objectName ref="#butter">Butter</objectName> <lb/> und gibs warm. </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb der gesotnen khrepsen, die also außgeschelt Wie Zu den <lb/> dorten, stosß auch in einem Merser, darbeÿ auch ein Wenig ein= <lb/> gewaikhte Semblmollen einer Nuß groß, oder noch mehr, nach <lb/> dem du vill machen Wilt, auch Puter, ein Wenig Zimet, Mußcat= <lb/> blüe, Aÿrdoter, auf sowenig <objectName ref="brot">brot</objectName> 2. oder 3. genueg, dises alles <lb/> undereinander gestossen, alßdan in ein Reindl, arbes : oder fleisch= <lb/> brüe daran, ein Wenig sieden lassen, auch ein glietlein, Zum <lb/> anrichten leg Wider ein Wenig Puter drein, vnd nit mehr <lb/> Sieden lassen, gibs Zuessen. <lb/> </p>
+        <p> Nimb der gesotnen khrepsen, die also außgeschelt Wie Zu den <lb/> dorten, stosß auch in einem Merser, darbeÿ auch ein Wenig ein= <lb/> gewaikhte Semblmollen einer Nuß groß, oder noch mehr, nach <lb/> dem du vill machen Wilt, auch Puter, ein Wenig Zimet, Mußcat= <lb/> blüe, Aÿrdoter, auf sowenig <objectName ref="#brot">brot</objectName> 2. oder 3. genueg, dises alles <lb/> undereinander gestossen, alßdan in ein Reindl, arbes : oder fleisch= <lb/> brüe daran, ein Wenig sieden lassen, auch ein glietlein, Zum <lb/> anrichten leg Wider ein Wenig Puter drein, vnd nit mehr <lb/> Sieden lassen, gibs Zuessen. <lb/> </p>
             </div>
         </body>
     </text>

@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Thue die Khärpfen Schieppen, thues auf, Zerschneids Zu <lb/> stukhen, <objectName ref="salz">salz</objectName> ein, laß ein stund im <objectName ref="salz">Salz</objectName> ligen, nimb halb <lb/> <objectName ref="essig">Essig</objectName> vnd <objectName ref="wein">Wein</objectName>, vnd halb souill <objectName ref="wasser">Wasser</objectName>, gewürzt Woll, laß <lb/> ein Sud aufthuen, streich den eingesalznen khärpffen ab, <lb/> leg ihn darein, laß ihn also Sieden, biß er verfaimbt <lb/> hat, bren ihn mit Mell vnd Zwifl ein, leg ein schwarzen <lb/> <objectName ref="lebzelten">Lebzelten</objectName> darzue, vnd ein hönig, doch das der <objectName ref="essig">Essig</objectName> vnd <lb/> das gewürzt Woll fürschlegt, gib ihn also her. <lb/><lb/> ( 28v ) </p>
+        <p> Thue die Khärpfen Schieppen, thues auf, Zerschneids Zu <lb/> stukhen, <objectName ref="#salz">salz</objectName> ein, laß ein stund im <objectName ref="#salz">Salz</objectName> ligen, nimb halb <lb/> <objectName ref="#essig">Essig</objectName> vnd <objectName ref="#wein">Wein</objectName>, vnd halb souill <objectName ref="#wasser">Wasser</objectName>, gewürzt Woll, laß <lb/> ein Sud aufthuen, streich den eingesalznen khärpffen ab, <lb/> leg ihn darein, laß ihn also Sieden, biß er verfaimbt <lb/> hat, bren ihn mit Mell vnd Zwifl ein, leg ein schwarzen <lb/> <objectName ref="#lebzelten">Lebzelten</objectName> darzue, vnd ein hönig, doch das der <objectName ref="#essig">Essig</objectName> vnd <lb/> das gewürzt Woll fürschlegt, gib ihn also her. <lb/><lb/> ( 28v ) </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimm ein dicke saure <objectName ref="milch">Milch</objectName> <lb/> die gantz wie <objectName ref="leber">Leber</objectName> ist <lb/> faums sauber ab <lb/> und thue den Doppen in ein sauberes <objectName ref="tuch">Tuch</objectName> <lb/> hencks auf <lb/> laß es wol aussicken <lb/> nimm alsdann diesen Doppen in einen <objectName ref="hafen">Hafen</objectName> <lb/> thue nach Beduncken süssen Ram daran <lb/> aber nicht zu viel <lb/> und gieß fast wol durcheinander <lb/> letztlich in die <objectName ref="schuessel">Schüssel</objectName> <lb/> und gibs. </p>
+        <p> Nimm ein dicke saure <objectName ref="#milch">Milch</objectName> <lb/> die gantz wie <objectName ref="#leber">Leber</objectName> ist <lb/> faums sauber ab <lb/> und thue den Doppen in ein sauberes <objectName ref="#tuch">Tuch</objectName> <lb/> hencks auf <lb/> laß es wol aussicken <lb/> nimm alsdann diesen Doppen in einen <objectName ref="#hafen">Hafen</objectName> <lb/> thue nach Beduncken süssen Ram daran <lb/> aber nicht zu viel <lb/> und gieß fast wol durcheinander <lb/> letztlich in die <objectName ref="#schuessel">Schüssel</objectName> <lb/> und gibs. </p>
             </div>
         </body>
     </text>

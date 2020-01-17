@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Brüßlein werden gantzer überbrühet <lb/> von denen Drossen abgelößt <lb/> gewürzt <lb/> gesaltzen <lb/> dann mit <objectName ref="speck">Speck</objectName> gespickt <lb/> und zwar subtil <lb/> und am Spiß <lb/> oder in dem <objectName ref="ofen">Ofen</objectName> gebraten <lb/> gibs mit wenig brauner <objectName ref="jus">jus</objectName>, oder Lemoni= Safft; ziers so gut du kanst <lb/> und gibs warm. </p>
+        <p> DIe Brüßlein werden gantzer überbrühet <lb/> von denen Drossen abgelößt <lb/> gewürzt <lb/> gesaltzen <lb/> dann mit <objectName ref="#speck">Speck</objectName> gespickt <lb/> und zwar subtil <lb/> und am Spiß <lb/> oder in dem <objectName ref="#ofen">Ofen</objectName> gebraten <lb/> gibs mit wenig brauner <objectName ref="#jus">jus</objectName>, oder Lemoni= Safft; ziers so gut du kanst <lb/> und gibs warm. </p>
             </div>
         </body>
     </text>

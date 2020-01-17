@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Wann die Zung gesotten ist <lb/> so schneidt sie von einander <lb/> leg sie auff ein Roßt <lb/> vnd breun sie ab <lb/> begeuß sie mit frischer <objectName ref="butter">Butter</objectName> die vnzulassen ist <lb/> vnd wann du es wilt anrichten <lb/> so nim ( m ) <objectName ref="pfeffer">Pfeffer</objectName> vnd Saltz durcheinander <lb/> streuw es darüber <lb/> vnnd gibs also trucken <lb/> oder mach ein Mandelgescharb <lb/> das gelb vnd süß ist <lb/> darvnter <lb/> so wirt es gut vnd wolgeschmack. </p>
+        <p> Wann die Zung gesotten ist <lb/> so schneidt sie von einander <lb/> leg sie auff ein Roßt <lb/> vnd breun sie ab <lb/> begeuß sie mit frischer <objectName ref="#butter">Butter</objectName> die vnzulassen ist <lb/> vnd wann du es wilt anrichten <lb/> so nim ( m ) <objectName ref="#pfeffer">Pfeffer</objectName> vnd Saltz durcheinander <lb/> streuw es darüber <lb/> vnnd gibs also trucken <lb/> oder mach ein Mandelgescharb <lb/> das gelb vnd süß ist <lb/> darvnter <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

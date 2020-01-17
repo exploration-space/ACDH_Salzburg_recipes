@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim Borragum <lb/> Petersilg <lb/> Pumpernellen <lb/> Balsam vnnd Isop <lb/> Dragant vnnd Pertram <lb/> soist es ein gemengter <objectName ref="salat">Salat</objectName> von wolschmeckenden <objectName ref="kraeuter">Kräutern</objectName> <lb/> mit Borragum <objectName ref="blumen">Blumen</objectName> darüber geworffen <lb/> ist schön vnnd zierlich. </p>
+        <p> Nim Borragum <lb/> Petersilg <lb/> Pumpernellen <lb/> Balsam vnnd Isop <lb/> Dragant vnnd Pertram <lb/> soist es ein gemengter <objectName ref="#salat">Salat</objectName> von wolschmeckenden <objectName ref="#kraeuter">Kräutern</objectName> <lb/> mit Borragum <objectName ref="#blumen">Blumen</objectName> darüber geworffen <lb/> ist schön vnnd zierlich. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Geräuchert oder Geselcht Spensaw ist auch nicht bös <lb/> magst sie kalt oder warm geben <lb/> sie ist auff beyde manier gut <lb/> Oder kochs vnter grünem Köl <lb/> mit saurem <objectName ref="kraut">Kraut</objectName> <lb/> oder mit Spenat <lb/> oder Bisenkraut <lb/> welches man sonst Römischen Köl nennet. </p>
+        <p> Geräuchert oder Geselcht Spensaw ist auch nicht bös <lb/> magst sie kalt oder warm geben <lb/> sie ist auff beyde manier gut <lb/> Oder kochs vnter grünem Köl <lb/> mit saurem <objectName ref="#kraut">Kraut</objectName> <lb/> oder mit Spenat <lb/> oder Bisenkraut <lb/> welches man sonst Römischen Köl nennet. </p>
             </div>
         </body>
     </text>

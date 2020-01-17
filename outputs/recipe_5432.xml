@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> EIn Spensaw gantz gebraten <lb/> vn ( n ) warm auff ein <objectName ref="tisch">Tisch</objectName> geben. </p>
+        <p> EIn Spensaw gantz gebraten <lb/> vn ( n ) warm auff ein <objectName ref="#tisch">Tisch</objectName> geben. </p>
             </div>
         </body>
     </text>

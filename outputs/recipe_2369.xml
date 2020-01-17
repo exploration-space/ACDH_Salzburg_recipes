@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet ein <objectName ref="pfund">Pfund</objectName> schönen <objectName ref="zucker">Zucker</objectName> <lb/> läutert selbigen <lb/> lasset ihn ein wenig dick sieden <lb/> und hernach gantz erkalten; schüttet dann ein <objectName ref="pfund">Pfund</objectName> von gemeinen Weixeln <lb/> die fein zeitig und trocken sind <lb/> in ein eichenes <lb/> aussen an dem Boden <lb/> wohl= verpichtes Fäßlein <lb/> giesset den geläuterten <objectName ref="zucker">Zucker</objectName> hinein <lb/> machet das Spunt= Loch vest zu <lb/> setzet das Fäßlein in den <objectName ref="keller">Keller</objectName> <lb/> und kehret selbiges alle Tage unter und übersich; es muß aber das Gespünt am Fäßtlein zimlich weit seyn. </p>
+        <p> NEhmet ein <objectName ref="#pfund">Pfund</objectName> schönen <objectName ref="#zucker">Zucker</objectName> <lb/> läutert selbigen <lb/> lasset ihn ein wenig dick sieden <lb/> und hernach gantz erkalten; schüttet dann ein <objectName ref="#pfund">Pfund</objectName> von gemeinen Weixeln <lb/> die fein zeitig und trocken sind <lb/> in ein eichenes <lb/> aussen an dem Boden <lb/> wohl= verpichtes Fäßlein <lb/> giesset den geläuterten <objectName ref="#zucker">Zucker</objectName> hinein <lb/> machet das Spunt= Loch vest zu <lb/> setzet das Fäßlein in den <objectName ref="#keller">Keller</objectName> <lb/> und kehret selbiges alle Tage unter und übersich; es muß aber das Gespünt am Fäßtlein zimlich weit seyn. </p>
             </div>
         </body>
     </text>

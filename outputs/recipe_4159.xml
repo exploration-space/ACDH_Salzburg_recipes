@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAch von Marcipan einen aufgesetzten Dorten <lb/> rund in <objectName ref="form">Form</objectName> <lb/> oder <objectName ref="rosen">Rosen</objectName> <lb/> nach Belieben <lb/> fülle ihn mit guten eingemachten Citronen und andern <objectName ref="fruechte">Früchten</objectName> <lb/> mach einen schönen Ausschnitt darauf <lb/> und laß ihn kühl bachen <lb/> mit oder ohne Eyß. </p>
+        <p> MAch von Marcipan einen aufgesetzten Dorten <lb/> rund in <objectName ref="#form">Form</objectName> <lb/> oder <objectName ref="#rosen">Rosen</objectName> <lb/> nach Belieben <lb/> fülle ihn mit guten eingemachten Citronen und andern <objectName ref="#fruechte">Früchten</objectName> <lb/> mach einen schönen Ausschnitt darauf <lb/> und laß ihn kühl bachen <lb/> mit oder ohne Eyß. </p>
             </div>
         </body>
     </text>

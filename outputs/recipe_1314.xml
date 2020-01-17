@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ein spinath<gap/> von garten her, Stosse<gap/> <lb/> ihn in ein Merser<gap/> klein, thue ihm in ein <lb/> tuech<gap/>, truckh<gap/> ihm auß, daß du den safft daruon <lb/> Bekommest, schitte<gap/> den safft in ein häfferl<gap/> <lb/><lb/> ( 54v ) gieß<gap/> ein wenig milch<gap/> darzue, schlage ayr<gap/> <lb/> drein, sprigle<gap/> es ab, <objectName ref="salz">salz</objectName> und mach es <lb/> fertig, thue es in ein sib<gap/>, legs<gap/> in ein <lb/> schüsßel<gap/>, mach ein Brieh<gap/> dariber, lasse <lb/> es sieden<gap/>. ist es guet. <lb/> </p>
+        <p> Nim ein spinath<gap/> von garten her, Stosse<gap/> <lb/> ihn in ein Merser<gap/> klein, thue ihm in ein <lb/> tuech<gap/>, truckh<gap/> ihm auß, daß du den safft daruon <lb/> Bekommest, schitte<gap/> den safft in ein häfferl<gap/> <lb/><lb/> ( 54v ) gieß<gap/> ein wenig milch<gap/> darzue, schlage ayr<gap/> <lb/> drein, sprigle<gap/> es ab, <objectName ref="#salz">salz</objectName> und mach es <lb/> fertig, thue es in ein sib<gap/>, legs<gap/> in ein <lb/> schüsßel<gap/>, mach ein Brieh<gap/> dariber, lasse <lb/> es sieden<gap/>. ist es guet. <lb/> </p>
             </div>
         </body>
     </text>

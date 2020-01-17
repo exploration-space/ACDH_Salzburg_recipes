@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ain <lb/> guete Millich, Hollerblüe darein, laß woll <lb/> Sieden, Seichs darnach ab, sez die Millich auf, <lb/> laß in wider Sieden, Nimb ayr vnd Meell <lb/><lb/> ( 66v ) treibs woll durcheinander, geuß ab in die <lb/> Siedent Millich, vnd riers, so wiert ein ge= <lb/> =müeß darauß, so schmekhts nach holler, thues <lb/> herauß auf ain schißl, nimb zugger, vnd <lb/> buter darunter, lints gewürz, <objectName ref="salz">Salz</objectName> nit <lb/> hart, wenß kalt wiert, thues in taig, laß <lb/> ½. stunt bachen. <lb/> </p>
+        <p> Nimb ain <lb/> guete Millich, Hollerblüe darein, laß woll <lb/> Sieden, Seichs darnach ab, sez die Millich auf, <lb/> laß in wider Sieden, Nimb ayr vnd Meell <lb/><lb/> ( 66v ) treibs woll durcheinander, geuß ab in die <lb/> Siedent Millich, vnd riers, so wiert ein ge= <lb/> =müeß darauß, so schmekhts nach holler, thues <lb/> herauß auf ain schißl, nimb zugger, vnd <lb/> buter darunter, lints gewürz, <objectName ref="#salz">Salz</objectName> nit <lb/> hart, wenß kalt wiert, thues in taig, laß <lb/> ½. stunt bachen. <lb/> </p>
             </div>
         </body>
     </text>

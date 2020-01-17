@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Heidenbrey in <objectName ref="milch">Milch</objectName> gekocht <lb/> ist gut vnd ein herrlich Essen. </p>
+        <p> Heidenbrey in <objectName ref="#milch">Milch</objectName> gekocht <lb/> ist gut vnd ein herrlich Essen. </p>
             </div>
         </body>
     </text>

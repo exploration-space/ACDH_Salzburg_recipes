@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DAs <objectName ref="hirn">Hirn</objectName> belangend <lb/> so wirds in allweg verkocht <lb/> wie das Kalb= und anderes <objectName ref="hirn">Hirn</objectName> <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Imber und Saltz; eingemelbt <lb/> gleich denen Fischen <lb/> und aus heissem Schmaltz gebachen. </p>
+        <p> DAs <objectName ref="#hirn">Hirn</objectName> belangend <lb/> so wirds in allweg verkocht <lb/> wie das Kalb= und anderes <objectName ref="#hirn">Hirn</objectName> <lb/> mit <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Imber und Saltz; eingemelbt <lb/> gleich denen Fischen <lb/> und aus heissem Schmaltz gebachen. </p>
             </div>
         </body>
     </text>

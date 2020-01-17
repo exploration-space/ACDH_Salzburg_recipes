@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet ein <objectName ref="kraut">Kraut</objectName> = Haupt so nicht groß ist <lb/> brühet oder siedet es ein wenig im <objectName ref="wasser">Wasser</objectName> ab <lb/> wie das obige; schneidet unten die Dorschen oder das harte herab <lb/> und holet das Haupt einwendig aus; nehmet das ausgehölte vom <objectName ref="kraut">Kraut</objectName> <lb/> ingleichen auch abgezogene Mandln <lb/> hackets klein <lb/> röstets im Schmaltz <lb/> würtzet und saltzet es <lb/> rührets unter einander; schlagt zwey Eyer daran <lb/> füllt es in das Haupt <lb/> thuts in einen stollichten <objectName ref="hafen">Hafen</objectName> <lb/> giesst eine Fleischbrüh daran <lb/> deckets zu <lb/> und setzets über <objectName ref="kohlen">Kohlen</objectName>. </p>
+        <p> NEhmet ein <objectName ref="#kraut">Kraut</objectName> = Haupt so nicht groß ist <lb/> brühet oder siedet es ein wenig im <objectName ref="#wasser">Wasser</objectName> ab <lb/> wie das obige; schneidet unten die Dorschen oder das harte herab <lb/> und holet das Haupt einwendig aus; nehmet das ausgehölte vom <objectName ref="#kraut">Kraut</objectName> <lb/> ingleichen auch abgezogene Mandln <lb/> hackets klein <lb/> röstets im Schmaltz <lb/> würtzet und saltzet es <lb/> rührets unter einander; schlagt zwey Eyer daran <lb/> füllt es in das Haupt <lb/> thuts in einen stollichten <objectName ref="#hafen">Hafen</objectName> <lb/> giesst eine Fleischbrüh daran <lb/> deckets zu <lb/> und setzets über <objectName ref="#kohlen">Kohlen</objectName>. </p>
             </div>
         </body>
     </text>

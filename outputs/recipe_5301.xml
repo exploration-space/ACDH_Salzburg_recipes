@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Gantze Eyer in Epffelgescharb <lb/> die fein braun außgerößt seyn auß der <objectName ref="butter">Butter</objectName> <lb/> seind gut vnd wolgeschmack <lb/> oder magsts auß <objectName ref="butter">Butter</objectName> rößten <lb/> vnd auff ein <objectName ref="tisch">Tisch</objectName> mit <objectName ref="pfeffer">Pfeffer</objectName> vnd Saltz fein trucken geben. </p>
+        <p> Gantze Eyer in Epffelgescharb <lb/> die fein braun außgerößt seyn auß der <objectName ref="#butter">Butter</objectName> <lb/> seind gut vnd wolgeschmack <lb/> oder magsts auß <objectName ref="#butter">Butter</objectName> rößten <lb/> vnd auff ein <objectName ref="#tisch">Tisch</objectName> mit <objectName ref="#pfeffer">Pfeffer</objectName> vnd Saltz fein trucken geben. </p>
             </div>
         </body>
     </text>

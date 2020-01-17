@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="feigen">Feigen</objectName> gebacken in einem solchen <objectName ref="teig">Teig</objectName> <lb/> mit <objectName ref="zucker">Zucker</objectName> besträwt. </p>
+        <p> <objectName ref="#feigen">Feigen</objectName> gebacken in einem solchen <objectName ref="#teig">Teig</objectName> <lb/> mit <objectName ref="#zucker">Zucker</objectName> besträwt. </p>
             </div>
         </body>
     </text>

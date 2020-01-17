@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Endten gebraten <lb/> geselcht <lb/> oder mit <objectName ref="rueben">Rüben</objectName> eyngemacht <lb/> auch Endten in <objectName ref="pastete">Pasteten</objectName> <lb/> kalt oder warm. </p>
+        <p> Endten gebraten <lb/> geselcht <lb/> oder mit <objectName ref="#rueben">Rüben</objectName> eyngemacht <lb/> auch Endten in <objectName ref="#pastete">Pasteten</objectName> <lb/> kalt oder warm. </p>
             </div>
         </body>
     </text>

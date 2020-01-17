@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm einen guten Niern=Braten <lb/> planschier ihn in siedigem Saltz=Wasser <lb/> kühl ihn wieder ab <lb/> saltz ihn ein <lb/> spicke ihn <lb/> oben auf die beste Art <lb/> schön subtil mit <objectName ref="speck">Speck</objectName> <lb/> dann brat ihn schön in Safft <lb/> mit schöner Farb <lb/> gib ihn auf die <objectName ref="schuessel">Schüssel</objectName> mit seiner selbst abgeträufften <objectName ref="bruehe">Brühe</objectName> darunter <lb/> warm <lb/> regaliers mit Presolen <lb/> und klein=gefüllter Semmel und Grünes entzwischen <lb/> ist köstlich. </p>
+        <p> NImm einen guten Niern=Braten <lb/> planschier ihn in siedigem Saltz=Wasser <lb/> kühl ihn wieder ab <lb/> saltz ihn ein <lb/> spicke ihn <lb/> oben auf die beste Art <lb/> schön subtil mit <objectName ref="#speck">Speck</objectName> <lb/> dann brat ihn schön in Safft <lb/> mit schöner Farb <lb/> gib ihn auf die <objectName ref="#schuessel">Schüssel</objectName> mit seiner selbst abgeträufften <objectName ref="#bruehe">Brühe</objectName> darunter <lb/> warm <lb/> regaliers mit Presolen <lb/> und klein=gefüllter Semmel und Grünes entzwischen <lb/> ist köstlich. </p>
             </div>
         </body>
     </text>

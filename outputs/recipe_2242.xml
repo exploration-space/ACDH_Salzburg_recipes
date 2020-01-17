@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb semblschniten, die schen bäht, vnd nit verbrent, richts auch also auf <lb/> ein schißl, vnd legs auch mit Zukher, Buter, Zimet, geuß ein rämb oder <lb/> guete <objectName ref="milch">milch</objectName> dran, khoch es also auf der gluet, Wie die andern. <lb/> </p>
+        <p> Nimb semblschniten, die schen bäht, vnd nit verbrent, richts auch also auf <lb/> ein schißl, vnd legs auch mit Zukher, Buter, Zimet, geuß ein rämb oder <lb/> guete <objectName ref="#milch">milch</objectName> dran, khoch es also auf der gluet, Wie die andern. <lb/> </p>
             </div>
         </body>
     </text>

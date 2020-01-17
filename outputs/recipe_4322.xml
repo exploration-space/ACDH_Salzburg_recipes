@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Stoß saubere kleine Weinbeerlein <lb/> mische darunter Pinioli, oder grob= gestoßne Mandel <lb/> rührs ab mit ein wenig <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> und Zimmet <lb/> ist gut in die Dorten. </p>
+        <p> Stoß saubere kleine Weinbeerlein <lb/> mische darunter Pinioli, oder grob= gestoßne Mandel <lb/> rührs ab mit ein wenig <objectName ref="#wein">Wein</objectName> <lb/> <objectName ref="#zucker">Zucker</objectName> und Zimmet <lb/> ist gut in die Dorten. </p>
             </div>
         </body>
     </text>

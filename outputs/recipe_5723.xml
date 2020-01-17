@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DArzu nimm weissen <objectName ref="wein">Wein</objectName> <lb/> wirff darein geweichte Semmel <lb/> oder solche Brosen <lb/> mit zimlich viel geschnittnen Zwibeln <lb/> gantzen Nägelein <lb/> gantzen Zimmet <lb/> Lemoni=Schelffen und dessen Safft <lb/> laß mit einander wohl versieden <lb/> und treibs durch <lb/> dann wirff <objectName ref="zucker">Zucker</objectName> mit genugsamen klein=gehackten <lb/> eingemachten <objectName ref="zitronen">Zitronen</objectName> <lb/> oder Pomerantzen darein <lb/> gilbs ein wenig <lb/> und gibs über den gesottnen <lb/> gebachnen <lb/> oder gebratnen Haussen. </p>
+        <p> DArzu nimm weissen <objectName ref="#wein">Wein</objectName> <lb/> wirff darein geweichte Semmel <lb/> oder solche Brosen <lb/> mit zimlich viel geschnittnen Zwibeln <lb/> gantzen Nägelein <lb/> gantzen Zimmet <lb/> Lemoni=Schelffen und dessen Safft <lb/> laß mit einander wohl versieden <lb/> und treibs durch <lb/> dann wirff <objectName ref="#zucker">Zucker</objectName> mit genugsamen klein=gehackten <lb/> eingemachten <objectName ref="#zitronen">Zitronen</objectName> <lb/> oder Pomerantzen darein <lb/> gilbs ein wenig <lb/> und gibs über den gesottnen <lb/> gebachnen <lb/> oder gebratnen Haussen. </p>
             </div>
         </body>
     </text>

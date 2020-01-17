@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIse werden gleich frisch mit viel <objectName ref="zucker">Zucker</objectName> und Zimmet angemacht <lb/> und in die Dorten gefüllt <lb/> ( wann sie aber mit <objectName ref="zucker">Zucker</objectName> gesotten <lb/> und durchgetriben werden <lb/> seynd sie besser <lb/> doch nicht zu naß. ) Wann sie gebachen seynd <lb/> bestreue sie wieder mit <objectName ref="zucker">Zucker</objectName> <lb/> dann sie seynd saur. </p>
+        <p> DIse werden gleich frisch mit viel <objectName ref="#zucker">Zucker</objectName> und Zimmet angemacht <lb/> und in die Dorten gefüllt <lb/> ( wann sie aber mit <objectName ref="#zucker">Zucker</objectName> gesotten <lb/> und durchgetriben werden <lb/> seynd sie besser <lb/> doch nicht zu naß. ) Wann sie gebachen seynd <lb/> bestreue sie wieder mit <objectName ref="#zucker">Zucker</objectName> <lb/> dann sie seynd saur. </p>
             </div>
         </body>
     </text>

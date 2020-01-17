@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ZIehet Salbey= Blätter <lb/> so nicht löchericht sind <lb/> durch ein frisches <objectName ref="wasser">Wasser</objectName> <lb/> schwingets hernach wohl aus; machet einen <objectName ref="teig">Teig</objectName> ebenfalls mit frischem <objectName ref="wasser">Wasser</objectName> an <lb/> und rühret selbigen <lb/> klopffet ihn aber nicht <lb/> daß er fein zäh wird <lb/> und sich von dem <objectName ref="loeffel">Löffel</objectName> aufziehen lässet; rühret ferner von zwey= oder dreyen Eyern das Weisse daruner <lb/> daß es dinn wird : ziehet die Salbey= Blätter dadurch <lb/> bachets aus Schmaltz <lb/> so lauffen sie hoch auf. </p>
+        <p> ZIehet Salbey= Blätter <lb/> so nicht löchericht sind <lb/> durch ein frisches <objectName ref="#wasser">Wasser</objectName> <lb/> schwingets hernach wohl aus; machet einen <objectName ref="#teig">Teig</objectName> ebenfalls mit frischem <objectName ref="#wasser">Wasser</objectName> an <lb/> und rühret selbigen <lb/> klopffet ihn aber nicht <lb/> daß er fein zäh wird <lb/> und sich von dem <objectName ref="#loeffel">Löffel</objectName> aufziehen lässet; rühret ferner von zwey= oder dreyen Eyern das Weisse daruner <lb/> daß es dinn wird : ziehet die Salbey= Blätter dadurch <lb/> bachets aus Schmaltz <lb/> so lauffen sie hoch auf. </p>
             </div>
         </body>
     </text>

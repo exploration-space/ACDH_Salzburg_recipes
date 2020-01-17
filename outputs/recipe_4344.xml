@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Das übersottene <lb/> und gebutzte Ochsen= <objectName ref="hirn">Hirn</objectName> <lb/> muß gesaltzen <lb/> gewürtzt <lb/> bemelbt <lb/> und in Schmaltz gebachen <lb/> mit wenigem Gewürtz <lb/> hernach mit gebachenen Petersil <lb/> Selleri <lb/> oder Brunnkreß= Kräutlein regaliert werden. </p>
+        <p> Das übersottene <lb/> und gebutzte Ochsen= <objectName ref="#hirn">Hirn</objectName> <lb/> muß gesaltzen <lb/> gewürtzt <lb/> bemelbt <lb/> und in Schmaltz gebachen <lb/> mit wenigem Gewürtz <lb/> hernach mit gebachenen Petersil <lb/> Selleri <lb/> oder Brunnkreß= Kräutlein regaliert werden. </p>
             </div>
         </body>
     </text>

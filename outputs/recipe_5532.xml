@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Mach ein <objectName ref="teig">Teig</objectName> an von lauter Eyern <lb/> vnd mach jn wol fest <lb/> treib jhn darnach dünn auß <lb/> vnd fein rundt <lb/> wirffs in heisse <objectName ref="butter">Butter</objectName> <lb/> vnnd backs geschwindt auß <lb/> legs auff ein saubers Bret <lb/> vnd gibs kalt auff ein <objectName ref="tisch">Tisch</objectName> <lb/> vnnd besträw es mit <objectName ref="zucker">Zucker</objectName>. Das heißt man ein trucken Gebackens. </p>
+        <p> Mach ein <objectName ref="#teig">Teig</objectName> an von lauter Eyern <lb/> vnd mach jn wol fest <lb/> treib jhn darnach dünn auß <lb/> vnd fein rundt <lb/> wirffs in heisse <objectName ref="#butter">Butter</objectName> <lb/> vnnd backs geschwindt auß <lb/> legs auff ein saubers Bret <lb/> vnd gibs kalt auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> vnnd besträw es mit <objectName ref="#zucker">Zucker</objectName>. Das heißt man ein trucken Gebackens. </p>
             </div>
         </body>
     </text>

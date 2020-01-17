@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb Mandl, schwöls, das die haut abgeht, stosß in einem <lb/> Merser groblet, legs auf ein schißl, thue von einem Aÿr das <lb/> Weisß, vnd thue ein <objectName ref="rosenwasser">Rosenwasser</objectName> dran giessen, vnd Zukhers <lb/> Woll, schlags auf ein oblat, bachs in einer dorten pfan. <lb/> </p>
+        <p> Nimb Mandl, schwöls, das die haut abgeht, stosß in einem <lb/> Merser groblet, legs auf ein schißl, thue von einem Aÿr das <lb/> Weisß, vnd thue ein <objectName ref="#rosenwasser">Rosenwasser</objectName> dran giessen, vnd Zukhers <lb/> Woll, schlags auf ein oblat, bachs in einer dorten pfan. <lb/> </p>
             </div>
         </body>
     </text>

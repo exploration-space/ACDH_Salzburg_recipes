@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="hering">HEring</objectName> auf dem <objectName ref="rost">Rost</objectName> zu braten <lb/> mit Oel und Eßig <lb/> oder in allen erst= beschriebenen <objectName ref="bruehe">Brühen</objectName> und Zusätzen zu geben <lb/> auch in sauren Ram. </p>
+        <p> <objectName ref="#hering">HEring</objectName> auf dem <objectName ref="#rost">Rost</objectName> zu braten <lb/> mit Oel und Eßig <lb/> oder in allen erst= beschriebenen <objectName ref="#bruehe">Brühen</objectName> und Zusätzen zu geben <lb/> auch in sauren Ram. </p>
             </div>
         </body>
     </text>

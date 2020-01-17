@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Stos abgezogne <objectName ref="mandeln">Mandeln</objectName> auf das allerkleinist <lb/> gieß immer Rosen=Wasser zu <lb/> thue die <objectName ref="mandeln">Mandeln</objectName> in ein meßinge <lb/> oder wol verzinnte kupfferne Pfann <lb/> gieß <objectName ref="wasser">Wasser</objectName> <lb/> so mit Hausen=Blattern gestärckt ist <lb/> daran <lb/> und wol zuckert <lb/> mit süssen Ram <lb/> laß ein wenig sieden <lb/> und kalt werden <lb/> gieß in unterschiedliche Mödel. NB. In dem II. Theil <lb/> 2. Buch der Bacherey <lb/> zu End der eingemachten <objectName ref="fruechte">Früchten</objectName> <lb/> seynd beschrieben die gefärbte und die weisse Sultzen <lb/> auch von <objectName ref="mandeln">Mandeln</objectName> <lb/> an Fast= und Fleisch=Tägen. </p>
+        <p> Stos abgezogne <objectName ref="#mandeln">Mandeln</objectName> auf das allerkleinist <lb/> gieß immer Rosen=Wasser zu <lb/> thue die <objectName ref="#mandeln">Mandeln</objectName> in ein meßinge <lb/> oder wol verzinnte kupfferne Pfann <lb/> gieß <objectName ref="#wasser">Wasser</objectName> <lb/> so mit Hausen=Blattern gestärckt ist <lb/> daran <lb/> und wol zuckert <lb/> mit süssen Ram <lb/> laß ein wenig sieden <lb/> und kalt werden <lb/> gieß in unterschiedliche Mödel. NB. In dem II. Theil <lb/> 2. Buch der Bacherey <lb/> zu End der eingemachten <objectName ref="#fruechte">Früchten</objectName> <lb/> seynd beschrieben die gefärbte und die weisse Sultzen <lb/> auch von <objectName ref="#mandeln">Mandeln</objectName> <lb/> an Fast= und Fleisch=Tägen. </p>
             </div>
         </body>
     </text>

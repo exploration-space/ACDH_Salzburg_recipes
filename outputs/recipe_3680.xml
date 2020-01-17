@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Halbfische müssen vornemlich gewässert <lb/> gewaschen <lb/> im <objectName ref="wasser">Wasser</objectName> abgesotten und entgrätet seyn <lb/> dann giesst man die bey dem <objectName ref="hecht">Hecht</objectName> Num. 51. und 52. beschriebene Erbsen= Brüh darüber <lb/> würtzet sie mit Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Cardamomen und Muscaten= Blüh <lb/> und läst es mit einem guten theil <objectName ref="butter">Butter</objectName> noch einmal aufsieden. </p>
+        <p> DIe Halbfische müssen vornemlich gewässert <lb/> gewaschen <lb/> im <objectName ref="#wasser">Wasser</objectName> abgesotten und entgrätet seyn <lb/> dann giesst man die bey dem <objectName ref="#hecht">Hecht</objectName> Num. 51. und 52. beschriebene Erbsen= Brüh darüber <lb/> würtzet sie mit Ingber <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Cardamomen und Muscaten= Blüh <lb/> und läst es mit einem guten theil <objectName ref="#butter">Butter</objectName> noch einmal aufsieden. </p>
             </div>
         </body>
     </text>

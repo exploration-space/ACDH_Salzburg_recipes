@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb saur öpffl, die schöll, vnd schneids strizlet, Waichs in <lb/> <objectName ref="wein">Wein</objectName>, driffters hernach in Mell, vnd bachs fein resch auß, <lb/> mach ein süppl mit <objectName ref="wein">Wein</objectName>, vnd Zukhers das fein lauther ist, <lb/> richt die strizl auf ein schißl, geuß das Süppl drüber, gibs <lb/> Warm auf ein <objectName ref="tisch">tisch</objectName>, du mags drukhen auch Woll hergeben, <lb/> es sein guet. <lb/> </p>
+        <p> Nimb saur öpffl, die schöll, vnd schneids strizlet, Waichs in <lb/> <objectName ref="#wein">Wein</objectName>, driffters hernach in Mell, vnd bachs fein resch auß, <lb/> mach ein süppl mit <objectName ref="#wein">Wein</objectName>, vnd Zukhers das fein lauther ist, <lb/> richt die strizl auf ein schißl, geuß das Süppl drüber, gibs <lb/> Warm auf ein <objectName ref="#tisch">tisch</objectName>, du mags drukhen auch Woll hergeben, <lb/> es sein guet. <lb/> </p>
             </div>
         </body>
     </text>

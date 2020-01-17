@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb guetten <objectName ref="wein">Wein</objectName>, vnnd ein wönig <lb/> <objectName ref="wasser">wasser</objectName>, Nimb.3. Ayr dotter, ein <lb/> halben <objectName ref="loeffel">löffel</objectName> Voll Mell, riehrs<gap/> vnder <lb/> die Ayr Dotter, nimb den <objectName ref="wein">Wein</objectName>, <lb/> vnnd das <objectName ref="wasser">wasser</objectName>, Zuckher es das <lb/> siss<gap/> Genueg ist, schidte<gap/> es in ein <lb/> Pfann<gap/> thue ein brockhen<gap/> <objectName ref="butter">butter</objectName> darein <lb/> lasse es siedten<gap/>. <lb/><lb/> ( ve 6 ) </p>
+        <p> Nimb guetten <objectName ref="#wein">Wein</objectName>, vnnd ein wönig <lb/> <objectName ref="#wasser">wasser</objectName>, Nimb.3. Ayr dotter, ein <lb/> halben <objectName ref="#loeffel">löffel</objectName> Voll Mell, riehrs<gap/> vnder <lb/> die Ayr Dotter, nimb den <objectName ref="#wein">Wein</objectName>, <lb/> vnnd das <objectName ref="#wasser">wasser</objectName>, Zuckher es das <lb/> siss<gap/> Genueg ist, schidte<gap/> es in ein <lb/> Pfann<gap/> thue ein brockhen<gap/> <objectName ref="#butter">butter</objectName> darein <lb/> lasse es siedten<gap/>. <lb/><lb/> ( ve 6 ) </p>
             </div>
         </body>
     </text>

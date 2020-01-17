@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> LAsset die Petersilien= Wurtzeln im <objectName ref="wasser">Wasser</objectName> sieden <lb/> biß sie weich sind; alsdann treibet sie mit einer Fleischbrüh durch einen <objectName ref="seiher">Seiher</objectName> <lb/> würtzts mit Ingber <lb/> <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Cardamomen und Muscaten= Blüh; zuvor aber siedet das <objectName ref="fleisch">Fleisch</objectName> ab <lb/> und last hernach diese Brüh noch einen Sud darüber thun : Letzlich leget <objectName ref="butter">Butter</objectName> darein <lb/> und richtet es an. </p>
+        <p> LAsset die Petersilien= Wurtzeln im <objectName ref="#wasser">Wasser</objectName> sieden <lb/> biß sie weich sind; alsdann treibet sie mit einer Fleischbrüh durch einen <objectName ref="#seiher">Seiher</objectName> <lb/> würtzts mit Ingber <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Cardamomen und Muscaten= Blüh; zuvor aber siedet das <objectName ref="#fleisch">Fleisch</objectName> ab <lb/> und last hernach diese Brüh noch einen Sud darüber thun : Letzlich leget <objectName ref="#butter">Butter</objectName> darein <lb/> und richtet es an. </p>
             </div>
         </body>
     </text>

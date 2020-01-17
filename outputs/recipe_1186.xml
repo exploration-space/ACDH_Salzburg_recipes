@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Yber siede<gap/> die Fieß<gap/> zimmblich waich, theuß herauß <lb/> Butz<gap/> sauber, vnd ein Schisl<gap/> mit Putter<gap/>, richte<gap/> die <lb/> Fieß<gap/> darein, Strähe<gap/> Sembl<gap/> prosen darauf, gewierz<gap/>, <lb/> lög<gap/> schniz<gap/> Putter<gap/> darauf, vnd schitte<gap/> ain siesen<gap/> Rämb <lb/> darauf, söz also auf ain glueth<gap/>, vnd laß khochen, khanst <lb/> auch oben auf glueth<gap/> thuen <lb/> [ Anm. : „ oben auf glueth thuen “ : bedeutet, man soll auf den <objectName ref="deckel">Deckel</objectName> des Kochgefäßes <objectName ref="kohlen">Kohlen</objectName> legen, um eine Oberhitze zu erzeugen. ] </p>
+        <p> Yber siede<gap/> die Fieß<gap/> zimmblich waich, theuß herauß <lb/> Butz<gap/> sauber, vnd ein Schisl<gap/> mit Putter<gap/>, richte<gap/> die <lb/> Fieß<gap/> darein, Strähe<gap/> Sembl<gap/> prosen darauf, gewierz<gap/>, <lb/> lög<gap/> schniz<gap/> Putter<gap/> darauf, vnd schitte<gap/> ain siesen<gap/> Rämb <lb/> darauf, söz also auf ain glueth<gap/>, vnd laß khochen, khanst <lb/> auch oben auf glueth<gap/> thuen <lb/> [ Anm. : „ oben auf glueth thuen “ : bedeutet, man soll auf den <objectName ref="#deckel">Deckel</objectName> des Kochgefäßes <objectName ref="#kohlen">Kohlen</objectName> legen, um eine Oberhitze zu erzeugen. ] </p>
             </div>
         </body>
     </text>

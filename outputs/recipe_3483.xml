@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BAche die wol abgetrücknete Linguadale mit Meel <lb/> aus heissem <objectName ref="schmalz">Schmalz</objectName> <lb/> oder Oel <lb/> und gibs mit einer Soß <lb/> von Lorbeer= Blättlein <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> Lemoni <lb/> <objectName ref="pfeffer">Pfeffer</objectName> und <objectName ref="kuemmel">Kümmel</objectName>. </p>
+        <p> BAche die wol abgetrücknete Linguadale mit Meel <lb/> aus heissem <objectName ref="#schmalz">Schmalz</objectName> <lb/> oder Oel <lb/> und gibs mit einer Soß <lb/> von Lorbeer= Blättlein <lb/> <objectName ref="#knoblauch">Knoblauch</objectName> <lb/> Lemoni <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> und <objectName ref="#kuemmel">Kümmel</objectName>. </p>
             </div>
         </body>
     </text>

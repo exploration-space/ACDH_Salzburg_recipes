@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) die <objectName ref="lunge">Lungen</objectName> vom Schwein <lb/> fülls <lb/> vnd mach sie eyn <lb/> es sey gelb <lb/> oder mit grünen <objectName ref="kraeuter">Kräutern</objectName> <lb/> es sey saur <lb/> oder mit Pettersilgen Wurtzel eyngemacht <lb/> ist sie gut zu essen. </p>
+        <p> Nim ( m ) die <objectName ref="#lunge">Lungen</objectName> vom Schwein <lb/> fülls <lb/> vnd mach sie eyn <lb/> es sey gelb <lb/> oder mit grünen <objectName ref="#kraeuter">Kräutern</objectName> <lb/> es sey saur <lb/> oder mit Pettersilgen Wurtzel eyngemacht <lb/> ist sie gut zu essen. </p>
             </div>
         </body>
     </text>

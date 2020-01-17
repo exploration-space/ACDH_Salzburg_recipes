@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SIedet Stachelbeerlein in halb <objectName ref="wein">Wein</objectName> und Fleischbrüh <lb/> zwingets durch <lb/> giesst noch mehr <objectName ref="wein">Wein</objectName> und Malvasier daran <lb/> würtzet es mit <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Muscaten= Blüh <lb/> <objectName ref="zucker">Zucker</objectName> und Trisanet <lb/> werfft ein wenig <objectName ref="butter">Butter</objectName> darein <lb/> lasst es mit einander aufsieden : richtet dann diese Brüh über das Gebratene <lb/> und streuet Trisanet darauf. </p>
+        <p> SIedet Stachelbeerlein in halb <objectName ref="#wein">Wein</objectName> und Fleischbrüh <lb/> zwingets durch <lb/> giesst noch mehr <objectName ref="#wein">Wein</objectName> und Malvasier daran <lb/> würtzet es mit <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Muscaten= Blüh <lb/> <objectName ref="#zucker">Zucker</objectName> und Trisanet <lb/> werfft ein wenig <objectName ref="#butter">Butter</objectName> darein <lb/> lasst es mit einander aufsieden : richtet dann diese Brüh über das Gebratene <lb/> und streuet Trisanet darauf. </p>
             </div>
         </body>
     </text>

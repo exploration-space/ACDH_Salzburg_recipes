@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ayr<gap/> so vill du wilst zerschlags<gap/> in <lb/> ein degl<gap/>, woll ab, nimb ein wenig schmalz<gap/>, <lb/> in ein pfann<gap/>, gieß<gap/> die ayr<gap/> drein, <objectName ref="salz">salz</objectName>, rihr<gap/> <lb/> auf einer gluet<gap/> ab, rihrs<gap/> stets auf mit einen gluet<gap/>, <lb/> Löfl in der pfannen<gap/>, daß es nit anbrint<gap/>, richts<gap/> in <lb/> ein schüsßel<gap/>, Strehe<gap/> es mit semmel<gap/> bresl<gap/> ist guet. <lb/> </p>
+        <p> Nimb ayr<gap/> so vill du wilst zerschlags<gap/> in <lb/> ein degl<gap/>, woll ab, nimb ein wenig schmalz<gap/>, <lb/> in ein pfann<gap/>, gieß<gap/> die ayr<gap/> drein, <objectName ref="#salz">salz</objectName>, rihr<gap/> <lb/> auf einer gluet<gap/> ab, rihrs<gap/> stets auf mit einen gluet<gap/>, <lb/> Löfl in der pfannen<gap/>, daß es nit anbrint<gap/>, richts<gap/> in <lb/> ein schüsßel<gap/>, Strehe<gap/> es mit semmel<gap/> bresl<gap/> ist guet. <lb/> </p>
             </div>
         </body>
     </text>

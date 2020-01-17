@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NEhmet eine <objectName ref="maas">Maas</objectName> Kern oder dick abgenommene <objectName ref="milch">Milch</objectName> <lb/> und dann den vierdten Theil <lb/> von einer <objectName ref="maas">Maas</objectName> weiß <objectName ref="bier">Bier</objectName>. Zerrühret zwey Eyerdottern in einer Pfannen <lb/> und giesst den Kern zusamt dem <objectName ref="bier">Bier</objectName> allgemach daran <lb/> thut ein Stücklein <objectName ref="butter">Butter</objectName> dazu <lb/> lasst es mit stetigem rühren aufsieden <lb/> und richtets über würfflicht= geschnittenes Rocken= oder weisses Weitzen= Brod an. </p>
+        <p> NEhmet eine <objectName ref="#maas">Maas</objectName> Kern oder dick abgenommene <objectName ref="#milch">Milch</objectName> <lb/> und dann den vierdten Theil <lb/> von einer <objectName ref="#maas">Maas</objectName> weiß <objectName ref="#bier">Bier</objectName>. Zerrühret zwey Eyerdottern in einer Pfannen <lb/> und giesst den Kern zusamt dem <objectName ref="#bier">Bier</objectName> allgemach daran <lb/> thut ein Stücklein <objectName ref="#butter">Butter</objectName> dazu <lb/> lasst es mit stetigem rühren aufsieden <lb/> und richtets über würfflicht= geschnittenes Rocken= oder weisses Weitzen= Brod an. </p>
             </div>
         </body>
     </text>

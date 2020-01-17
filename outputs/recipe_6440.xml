@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) dürre Maurachen <lb/> weich sie in <objectName ref="wein">Wein</objectName> <lb/> vnd laß ein stundt darinnen ligen <lb/> so lauffen sie fein auff <lb/> steck sie an ein <objectName ref="spiess">Spieß</objectName> <lb/> besträw sie mit <objectName ref="pfeffer">Pfeffer</objectName> und Saltz <lb/> leg sie auff ein Roßt <lb/> vnd brat sie geschwindt hinweg <lb/> begeuß mit frischer <objectName ref="butter">Butter</objectName> <lb/> vn ( n ) gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> besträw es mit <objectName ref="pfeffer">Pfeffer</objectName> vnd saltz <lb/> so ist es gut vnd wolgeschmack. </p>
+        <p> Nim ( m ) dürre Maurachen <lb/> weich sie in <objectName ref="#wein">Wein</objectName> <lb/> vnd laß ein stundt darinnen ligen <lb/> so lauffen sie fein auff <lb/> steck sie an ein <objectName ref="#spiess">Spieß</objectName> <lb/> besträw sie mit <objectName ref="#pfeffer">Pfeffer</objectName> und Saltz <lb/> leg sie auff ein Roßt <lb/> vnd brat sie geschwindt hinweg <lb/> begeuß mit frischer <objectName ref="#butter">Butter</objectName> <lb/> vn ( n ) gibs warm auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> besträw es mit <objectName ref="#pfeffer">Pfeffer</objectName> vnd saltz <lb/> so ist es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

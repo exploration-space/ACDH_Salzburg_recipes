@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Presolen <lb/> oder Carbonädlein werden geschnitten <lb/> geklopfft <lb/> gewürtzt <lb/> und im <objectName ref="butter">Butter</objectName> gedämpfft <lb/> oder sonsten gut und völlig gekocht <lb/> oder mit allerhand Geruch eingepaitzt <lb/> und wieder abgekühlt <lb/> darnach werden selbe durch ein feines Taiglein <lb/> gleich denen Salbey= Blättern gezogen <lb/> und gleich denen gebachenen Schnitten <lb/> aus heissem Schmaltz gebachen <lb/> und geschwind also warmer gegeben. </p>
+        <p> DIe Presolen <lb/> oder Carbonädlein werden geschnitten <lb/> geklopfft <lb/> gewürtzt <lb/> und im <objectName ref="#butter">Butter</objectName> gedämpfft <lb/> oder sonsten gut und völlig gekocht <lb/> oder mit allerhand Geruch eingepaitzt <lb/> und wieder abgekühlt <lb/> darnach werden selbe durch ein feines Taiglein <lb/> gleich denen Salbey= Blättern gezogen <lb/> und gleich denen gebachenen Schnitten <lb/> aus heissem Schmaltz gebachen <lb/> und geschwind also warmer gegeben. </p>
             </div>
         </body>
     </text>

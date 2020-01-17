@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Item <lb/> leg oder henck sauer Vrhab in ein bösen oder schwachen <objectName ref="essig">Essig</objectName> <lb/> er wirdt starck <lb/> vnnd setz jhn hinder den <objectName ref="ofen">Ofen</objectName> <lb/> oder zu der wärme <lb/> wohin du wilt. </p>
+        <p> Item <lb/> leg oder henck sauer Vrhab in ein bösen oder schwachen <objectName ref="#essig">Essig</objectName> <lb/> er wirdt starck <lb/> vnnd setz jhn hinder den <objectName ref="#ofen">Ofen</objectName> <lb/> oder zu der wärme <lb/> wohin du wilt. </p>
             </div>
         </body>
     </text>

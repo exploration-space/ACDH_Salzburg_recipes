@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ain Bouch : d´aqa vnd 14. lemonj den safft <lb/> druckh nicht gar zu starck, damit daß wasßer <lb/><lb/> nit gar zu trieb wird, nimb 10 <objectName ref="loth">loth</objectName> zkher <lb/> mische alles woll durch einander vnd laß <lb/> ein Stundt stehen hernach seuchs, auch 2 oder <lb/> 3 leffl voll zkher= Conserva darzue noch <lb/> den <objectName ref="seuchen">seuchen</objectName> laß gefrürn, NB. Es mueß Eiß <lb/> ohne wasßer sein mit <objectName ref="salz">Salz</objectName> vermischt <lb/> vnd klein zerstosßen. <lb/> </p>
+        <p> ain Bouch : d´aqa vnd 14. lemonj den safft <lb/> druckh nicht gar zu starck, damit daß wasßer <lb/><lb/> nit gar zu trieb wird, nimb 10 <objectName ref="#loth">loth</objectName> zkher <lb/> mische alles woll durch einander vnd laß <lb/> ein Stundt stehen hernach seuchs, auch 2 oder <lb/> 3 leffl voll zkher= Conserva darzue noch <lb/> den <objectName ref="#seuchen">seuchen</objectName> laß gefrürn, NB. Es mueß Eiß <lb/> ohne wasßer sein mit <objectName ref="#salz">Salz</objectName> vermischt <lb/> vnd klein zerstosßen. <lb/> </p>
             </div>
         </body>
     </text>

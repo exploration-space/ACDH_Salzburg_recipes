@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimm gestossnen Umberdum <lb/> und wann man auf eine <objectName ref="schuessel">Schüssel</objectName> macht 4. Eyerdotter <lb/> und eine gute süsse <objectName ref="milch">Milch</objectName> darzu <lb/> so rührt man die Eyerdotter und <objectName ref="milch">Milch</objectName> unter einander <lb/> und mit dem Umberdum einen dünnen Farfel=Taig angemacht <lb/> sieds in siedigen <objectName ref="butter">Butter</objectName> oder gut Schmaltz <lb/> wie die rechte Farfel in der Fleisch=Brühe <lb/> seihs wohl ab <lb/> und gibs. </p>
+        <p> Nimm gestossnen Umberdum <lb/> und wann man auf eine <objectName ref="#schuessel">Schüssel</objectName> macht 4. Eyerdotter <lb/> und eine gute süsse <objectName ref="#milch">Milch</objectName> darzu <lb/> so rührt man die Eyerdotter und <objectName ref="#milch">Milch</objectName> unter einander <lb/> und mit dem Umberdum einen dünnen Farfel=Taig angemacht <lb/> sieds in siedigen <objectName ref="#butter">Butter</objectName> oder gut Schmaltz <lb/> wie die rechte Farfel in der Fleisch=Brühe <lb/> seihs wohl ab <lb/> und gibs. </p>
             </div>
         </body>
     </text>

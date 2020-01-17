@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn die kälberne Hertzen wohl gebrühet <lb/> und zimlich weich gesotten seyn <lb/> so schneids in der Mitten von einander <lb/> in zwey Theil <lb/> thue das <objectName ref="blut">Blut</objectName> und Unreine darvon heraus <lb/> gewürtz und spicke sie subtil <lb/> auswendig <lb/> mit <objectName ref="speck">Speck</objectName> <lb/> begieß mit <objectName ref="butter">Butter</objectName> <lb/> gibe die Farb im heissen <objectName ref="ofen">Ofen</objectName>; und gibs auf ein klein Rago von <objectName ref="lunge">Lungen</objectName> <lb/> oder was du hast. </p>
+        <p> WAnn die kälberne Hertzen wohl gebrühet <lb/> und zimlich weich gesotten seyn <lb/> so schneids in der Mitten von einander <lb/> in zwey Theil <lb/> thue das <objectName ref="#blut">Blut</objectName> und Unreine darvon heraus <lb/> gewürtz und spicke sie subtil <lb/> auswendig <lb/> mit <objectName ref="#speck">Speck</objectName> <lb/> begieß mit <objectName ref="#butter">Butter</objectName> <lb/> gibe die Farb im heissen <objectName ref="#ofen">Ofen</objectName>; und gibs auf ein klein Rago von <objectName ref="#lunge">Lungen</objectName> <lb/> oder was du hast. </p>
             </div>
         </body>
     </text>

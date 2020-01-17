@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="artischocken">ARtischocken</objectName> groß und klein <lb/> wann sie gebrüht <lb/> in <objectName ref="butter">Butter</objectName> <lb/> oder Oel <lb/> mit <objectName ref="pfeffer">Pfeffer</objectName> und Saltz allein in der Pfann <lb/> oder auf den <objectName ref="rost">Rost</objectName> gesetzt <lb/> und gebraten <lb/> seynd gut gleich also warm zu geben. </p>
+        <p> <objectName ref="#artischocken">ARtischocken</objectName> groß und klein <lb/> wann sie gebrüht <lb/> in <objectName ref="#butter">Butter</objectName> <lb/> oder Oel <lb/> mit <objectName ref="#pfeffer">Pfeffer</objectName> und Saltz allein in der Pfann <lb/> oder auf den <objectName ref="#rost">Rost</objectName> gesetzt <lb/> und gebraten <lb/> seynd gut gleich also warm zu geben. </p>
             </div>
         </body>
     </text>

@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Erstlich wan die öndten<gap/> gebuzet seindt, so salze <lb/> sie ein, lögs<gap/> in ein rein<gap/> löge<gap/> butter<gap/> darein, vnd <lb/> die ändten<gap/> darauf giese<gap/> nit vill fleisch<gap/> prie<gap/> dar <lb/> an, leg<gap/> <objectName ref="pfeffer">Pfeffer</objectName> zimmet<gap/> Näglstup<gap/>, sambt lemany<gap/> <lb/> schöllen<gap/> daran, gies<gap/> ein <objectName ref="wein">wein</objectName> oder ösßig darzue <lb/><lb/> ( 38r ) auch lorber<gap/> plätl<gap/>, rosmarin<gap/>, laß sie also diensten<gap/> <lb/> hernach brene<gap/> sie ein, mit mehl<gap/> vnd presl<gap/>, richts<gap/> <lb/> in die Pastötten<gap/>, vnd las sie ganzer ist Recht, <lb/> </p>
+        <p> Erstlich wan die öndten<gap/> gebuzet seindt, so salze <lb/> sie ein, lögs<gap/> in ein rein<gap/> löge<gap/> butter<gap/> darein, vnd <lb/> die ändten<gap/> darauf giese<gap/> nit vill fleisch<gap/> prie<gap/> dar <lb/> an, leg<gap/> <objectName ref="#pfeffer">Pfeffer</objectName> zimmet<gap/> Näglstup<gap/>, sambt lemany<gap/> <lb/> schöllen<gap/> daran, gies<gap/> ein <objectName ref="#wein">wein</objectName> oder ösßig darzue <lb/><lb/> ( 38r ) auch lorber<gap/> plätl<gap/>, rosmarin<gap/>, laß sie also diensten<gap/> <lb/> hernach brene<gap/> sie ein, mit mehl<gap/> vnd presl<gap/>, richts<gap/> <lb/> in die Pastötten<gap/>, vnd las sie ganzer ist Recht, <lb/> </p>
             </div>
         </body>
     </text>

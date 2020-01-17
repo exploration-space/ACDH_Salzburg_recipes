@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm ein Perchtram <lb/> stoß ihn gar klein in einem Mersel <lb/> mit mittern Semmel= Mollen <lb/> hernach nimm ein süß Obers <lb/> durcheinander. Nimm sechs Eyer <lb/> von dreyen das Weisse hinweg gethan <lb/> und die Eyer in dem Mersel geschlagen <lb/> auch ein Handvoll <objectName ref="zucker">Zucker</objectName> darein <lb/> und alles wol gestossen <lb/> darnach thus heraus auf ein Sieblein <lb/> drucks durch das Haar= Sieblein auf ein <objectName ref="schuessel">Schüssel</objectName> <lb/> die mit <objectName ref="butter">Butter</objectName> geschmirbt ist <lb/> setz auf ein <objectName ref="glut">Glut</objectName> <lb/> es laufft auch gar schön hoch auf <lb/> es ist schön und gut. </p>
+        <p> NImm ein Perchtram <lb/> stoß ihn gar klein in einem Mersel <lb/> mit mittern Semmel= Mollen <lb/> hernach nimm ein süß Obers <lb/> durcheinander. Nimm sechs Eyer <lb/> von dreyen das Weisse hinweg gethan <lb/> und die Eyer in dem Mersel geschlagen <lb/> auch ein Handvoll <objectName ref="#zucker">Zucker</objectName> darein <lb/> und alles wol gestossen <lb/> darnach thus heraus auf ein Sieblein <lb/> drucks durch das Haar= Sieblein auf ein <objectName ref="#schuessel">Schüssel</objectName> <lb/> die mit <objectName ref="#butter">Butter</objectName> geschmirbt ist <lb/> setz auf ein <objectName ref="#glut">Glut</objectName> <lb/> es laufft auch gar schön hoch auf <lb/> es ist schön und gut. </p>
             </div>
         </body>
     </text>

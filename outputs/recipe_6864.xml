@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) ein Salm <lb/> <objectName ref="pfeffer">Pfeffer</objectName> vnd <objectName ref="ingwer">Ingwer</objectName> <lb/> laß ein stundt oder zwo in der beiß ligen <lb/> schlags mit <objectName ref="butter">Butter</objectName> in ein Ruckenteig vnnd frischer Salbey <lb/> machs zu <lb/> scheubs in <objectName ref="ofen">Ofen</objectName> <lb/> vnnd laß backen <lb/> so wirdt es gut vnd auch wolgeschmack. </p>
+        <p> Nim ( m ) ein Salm <lb/> <objectName ref="#pfeffer">Pfeffer</objectName> vnd <objectName ref="#ingwer">Ingwer</objectName> <lb/> laß ein stundt oder zwo in der beiß ligen <lb/> schlags mit <objectName ref="#butter">Butter</objectName> in ein Ruckenteig vnnd frischer Salbey <lb/> machs zu <lb/> scheubs in <objectName ref="#ofen">Ofen</objectName> <lb/> vnnd laß backen <lb/> so wirdt es gut vnd auch wolgeschmack. </p>
             </div>
         </body>
     </text>

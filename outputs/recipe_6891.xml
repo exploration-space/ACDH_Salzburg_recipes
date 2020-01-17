@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Warme Knödelpasteten zu richten. Nimm <objectName ref="fleisch">Fleisch</objectName> <lb/> vnd hacks mit <objectName ref="speck">Speck</objectName> <lb/> oder mit Rindtfeißt <lb/> mach es ab mit Eyerdottern <lb/> vnd magst es weiß lassen <lb/> oder gelb machen <lb/> Vnd wenn du die <objectName ref="pastete">Pasteten</objectName> auffschneidest vnd anrichtest <lb/> so mach ein saure Brüh mit einem Eyerdotter <lb/> so wirdt es gut vnnd lieblich. </p>
+        <p> Warme Knödelpasteten zu richten. Nimm <objectName ref="#fleisch">Fleisch</objectName> <lb/> vnd hacks mit <objectName ref="#speck">Speck</objectName> <lb/> oder mit Rindtfeißt <lb/> mach es ab mit Eyerdottern <lb/> vnd magst es weiß lassen <lb/> oder gelb machen <lb/> Vnd wenn du die <objectName ref="#pastete">Pasteten</objectName> auffschneidest vnd anrichtest <lb/> so mach ein saure Brüh mit einem Eyerdotter <lb/> so wirdt es gut vnnd lieblich. </p>
             </div>
         </body>
     </text>

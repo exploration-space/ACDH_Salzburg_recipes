@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Die Hünlein werden ebenfalls mit Mandlen <lb/> Semmel <lb/> Eyer und Milchram gefüllt <lb/> wie oben gedacht <lb/> allein an statt des Ochsenmarck nimmet man Krebs=Butter <lb/> ingleichem werden aus der übrig=gebliebenen Füll kleine Kräpfflein zum Regalieren gemacht und gebachen <lb/> der andere Theil der aufgehebten Mandlen auch mit einer rothen Krebs=Brühe durchgetrieben <lb/> alsdann unter die <objectName ref="dotterbruehe">Dotterbrühe</objectName> gemischet und angericht <lb/> wie gleich vorstehend gehört worden <lb/> der Lemoni=Safft aber kan ausbleiben. </p>
+        <p> Die Hünlein werden ebenfalls mit Mandlen <lb/> Semmel <lb/> Eyer und Milchram gefüllt <lb/> wie oben gedacht <lb/> allein an statt des Ochsenmarck nimmet man Krebs=Butter <lb/> ingleichem werden aus der übrig=gebliebenen Füll kleine Kräpfflein zum Regalieren gemacht und gebachen <lb/> der andere Theil der aufgehebten Mandlen auch mit einer rothen Krebs=Brühe durchgetrieben <lb/> alsdann unter die <objectName ref="#dotterbruehe">Dotterbrühe</objectName> gemischet und angericht <lb/> wie gleich vorstehend gehört worden <lb/> der Lemoni=Safft aber kan ausbleiben. </p>
             </div>
         </body>
     </text>

@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb das brät von einer gsotnen henen, hakhs khlein, gwürz vnd khlaine <lb/> Weinpörl drein, schneid von Zitronÿ oder lemonÿ die gelben schelen, Wan <lb/> dus gern hast, nimb ein geribne Sembl, benez mit Zerlassnem Puter. <lb/><lb/> ( 60v ) geuß ein Milchrämbl dran, schlag aÿr darzue 2 oder 3. auf ein <objectName ref="tisch">tisch</objectName> ist <lb/> genueg, <objectName ref="salz">Salz</objectName> ein wenig, fils ein Wie oben die lungl refellel, gibs <lb/> in Puter brüe, oder <objectName ref="schmalz">schmalz</objectName> es. <lb/> </p>
+        <p> Nimb das brät von einer gsotnen henen, hakhs khlein, gwürz vnd khlaine <lb/> Weinpörl drein, schneid von Zitronÿ oder lemonÿ die gelben schelen, Wan <lb/> dus gern hast, nimb ein geribne Sembl, benez mit Zerlassnem Puter. <lb/><lb/> ( 60v ) geuß ein Milchrämbl dran, schlag aÿr darzue 2 oder 3. auf ein <objectName ref="#tisch">tisch</objectName> ist <lb/> genueg, <objectName ref="#salz">Salz</objectName> ein wenig, fils ein Wie oben die lungl refellel, gibs <lb/> in Puter brüe, oder <objectName ref="#schmalz">schmalz</objectName> es. <lb/> </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Weissen Köl mit jungen Hünern vnd guter Rindtfleischbrüh angemacht <lb/> thu <objectName ref="ingwer">Ingwer</objectName> <lb/> Muscatenblüt <lb/> frische <objectName ref="butter">Butter</objectName> <lb/> vnd ein wenig eyngebrennt <objectName ref="mehl">Mehl</objectName> darein <lb/> laß darmit auffsieden <lb/> so wirt es gut vnd auch wolgeschmack. </p>
+        <p> Weissen Köl mit jungen Hünern vnd guter Rindtfleischbrüh angemacht <lb/> thu <objectName ref="#ingwer">Ingwer</objectName> <lb/> Muscatenblüt <lb/> frische <objectName ref="#butter">Butter</objectName> <lb/> vnd ein wenig eyngebrennt <objectName ref="#mehl">Mehl</objectName> darein <lb/> laß darmit auffsieden <lb/> so wirt es gut vnd auch wolgeschmack. </p>
             </div>
         </body>
     </text>

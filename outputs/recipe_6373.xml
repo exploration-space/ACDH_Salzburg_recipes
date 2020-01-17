@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) <objectName ref="gerste">Gersten</objectName> <lb/> vnd seudt sie wol am ersten in einem <objectName ref="wasser">Wasser</objectName> <lb/> wasch auß drey oder vier <objectName ref="wasser">Wassern</objectName> <lb/> klaub es <lb/> vnd thu es in eine <objectName ref="milch">Milch</objectName> <lb/> laß darmit fein gemach sieden <lb/> biß daß sie dick wirt <lb/> thu auch reine <objectName ref="butter">Butter</objectName> darein <lb/> vnd laß mit sieden <lb/> saltzs <lb/> vn ( n ) gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> geuß lauter <objectName ref="butter">Butter</objectName> <lb/> die wolgeschmack ist <lb/> darüber <lb/> so ist es gut vnd wolgeschmack. Du magst schönen weissen <objectName ref="zucker">Zucker</objectName> darüber sträuwen oder nicht. </p>
+        <p> Nim ( m ) <objectName ref="#gerste">Gersten</objectName> <lb/> vnd seudt sie wol am ersten in einem <objectName ref="#wasser">Wasser</objectName> <lb/> wasch auß drey oder vier <objectName ref="#wasser">Wassern</objectName> <lb/> klaub es <lb/> vnd thu es in eine <objectName ref="#milch">Milch</objectName> <lb/> laß darmit fein gemach sieden <lb/> biß daß sie dick wirt <lb/> thu auch reine <objectName ref="#butter">Butter</objectName> darein <lb/> vnd laß mit sieden <lb/> saltzs <lb/> vn ( n ) gibs warm auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> geuß lauter <objectName ref="#butter">Butter</objectName> <lb/> die wolgeschmack ist <lb/> darüber <lb/> so ist es gut vnd wolgeschmack. Du magst schönen weissen <objectName ref="#zucker">Zucker</objectName> darüber sträuwen oder nicht. </p>
             </div>
         </body>
     </text>

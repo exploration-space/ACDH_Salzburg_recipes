@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm <objectName ref="semmeln">Semmeln</objectName> <lb/> schneide sie wie guldene Schnitten; schlage Eyer an einen geriebenen Käß <lb/> siehe aber <lb/> daß er nicht zu dinn werde; streiche ihn auf die eine Seiten eines Fingers dick <lb/> und mache dann noch einen andern <objectName ref="teig">Teig</objectName> an <lb/> wie den Strauben= <objectName ref="teig">Teig</objectName> <lb/> gieß solchen auf die andere Seiten <lb/> und setze also diese Schnitten in das heisse Schmaltz <lb/> daß der Käß in die Höhe <lb/> oder oben auf zu legen komme <lb/> und lasse sie bachen. </p>
+        <p> NImm <objectName ref="#semmeln">Semmeln</objectName> <lb/> schneide sie wie guldene Schnitten; schlage Eyer an einen geriebenen Käß <lb/> siehe aber <lb/> daß er nicht zu dinn werde; streiche ihn auf die eine Seiten eines Fingers dick <lb/> und mache dann noch einen andern <objectName ref="#teig">Teig</objectName> an <lb/> wie den Strauben= <objectName ref="#teig">Teig</objectName> <lb/> gieß solchen auf die andere Seiten <lb/> und setze also diese Schnitten in das heisse Schmaltz <lb/> daß der Käß in die Höhe <lb/> oder oben auf zu legen komme <lb/> und lasse sie bachen. </p>
             </div>
         </body>
     </text>

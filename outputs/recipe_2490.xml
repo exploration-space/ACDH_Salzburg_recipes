@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAcht die Eyer im Schmaltz auf vor beschriebene Art <lb/> und schneidet aus einem Sardelln <lb/> welche auch gewässert und ausgegrätet worden <lb/> vier Stücklein <lb/> und thut sie <lb/> wann die Eyer im Schmaltz halb fertig sind <lb/> dazu hinein <lb/> last es ferner mit einander kochen. An statt der Sardelln <lb/> kan es auch mit gewässerten Heringen oder süssen Picklingen auf dies weise gemachet werden : Man muß die Heringe oder Picklinge ausgräten <lb/> zu kleinen Stücklein zerschneiden <lb/> und in der <objectName ref="butter">Butter</objectName> ein wenig rösten <lb/> alsdann die zerklopffte Eyer darunter rühren <lb/> und mit einander aufsieden lassen. </p>
+        <p> MAcht die Eyer im Schmaltz auf vor beschriebene Art <lb/> und schneidet aus einem Sardelln <lb/> welche auch gewässert und ausgegrätet worden <lb/> vier Stücklein <lb/> und thut sie <lb/> wann die Eyer im Schmaltz halb fertig sind <lb/> dazu hinein <lb/> last es ferner mit einander kochen. An statt der Sardelln <lb/> kan es auch mit gewässerten Heringen oder süssen Picklingen auf dies weise gemachet werden : Man muß die Heringe oder Picklinge ausgräten <lb/> zu kleinen Stücklein zerschneiden <lb/> und in der <objectName ref="#butter">Butter</objectName> ein wenig rösten <lb/> alsdann die zerklopffte Eyer darunter rühren <lb/> und mit einander aufsieden lassen. </p>
             </div>
         </body>
     </text>

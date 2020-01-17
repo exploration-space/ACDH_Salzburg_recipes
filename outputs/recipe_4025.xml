@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SToß abgezogne gute <objectName ref="mandeln">Mandeln</objectName> gantz klein <lb/> treibs mit süssem Milchram durch <lb/> so dick es seyn kan <lb/> mische gefädte Semmel= Brosen darein <lb/> daß die <objectName ref="milch">Milch</objectName> darvon wol dick wird <lb/> hernach mische zwey gantze Eyer <lb/> mit wenig <objectName ref="rosenwasser">Rosenwasser</objectName> <lb/> oder andern Essentz darein <lb/> mit wenig <objectName ref="zucker">Zucker</objectName> <lb/> laß bey einer Stund also stehen und anziehen <lb/> hernach streiche diese Füll auf dünne Semmel= Schnitten <lb/> kehrs in abgeschlagenen Eyern um <lb/> und bachs aus heissem Schmaltz schön Liecht= gelb <lb/> bey dem Anrichten zuckere es. </p>
+        <p> SToß abgezogne gute <objectName ref="#mandeln">Mandeln</objectName> gantz klein <lb/> treibs mit süssem Milchram durch <lb/> so dick es seyn kan <lb/> mische gefädte Semmel= Brosen darein <lb/> daß die <objectName ref="#milch">Milch</objectName> darvon wol dick wird <lb/> hernach mische zwey gantze Eyer <lb/> mit wenig <objectName ref="#rosenwasser">Rosenwasser</objectName> <lb/> oder andern Essentz darein <lb/> mit wenig <objectName ref="#zucker">Zucker</objectName> <lb/> laß bey einer Stund also stehen und anziehen <lb/> hernach streiche diese Füll auf dünne Semmel= Schnitten <lb/> kehrs in abgeschlagenen Eyern um <lb/> und bachs aus heissem Schmaltz schön Liecht= gelb <lb/> bey dem Anrichten zuckere es. </p>
             </div>
         </body>
     </text>

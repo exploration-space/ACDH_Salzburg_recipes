@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIses wird umgekehrter mit <objectName ref="butter">Butter</objectName> begossen <lb/> und mit Gewürtz <lb/> und wohlriechenden Kräutlein <lb/> auch angemachten Semmel= Brosen bestreuet <lb/> und ist sowohl im <objectName ref="ofen">Ofen</objectName> <lb/> als auf dem <objectName ref="rost">Rost</objectName> mit seinem nothwendigen Saltz zu braten <lb/> oder im <objectName ref="speck">Speck</objectName> mit <objectName ref="sardellen">Sardellen</objectName> und klein= gehackten Zwibeln zu rösten. </p>
+        <p> DIses wird umgekehrter mit <objectName ref="#butter">Butter</objectName> begossen <lb/> und mit Gewürtz <lb/> und wohlriechenden Kräutlein <lb/> auch angemachten Semmel= Brosen bestreuet <lb/> und ist sowohl im <objectName ref="#ofen">Ofen</objectName> <lb/> als auf dem <objectName ref="#rost">Rost</objectName> mit seinem nothwendigen Saltz zu braten <lb/> oder im <objectName ref="#speck">Speck</objectName> mit <objectName ref="#sardellen">Sardellen</objectName> und klein= gehackten Zwibeln zu rösten. </p>
             </div>
         </body>
     </text>

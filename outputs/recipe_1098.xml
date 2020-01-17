@@ -176,7 +176,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Take a Leg of Beef, and a Piece of the Neck, and boil it till you have all the Goodness out of it; then strain it from the Meat; take Half a Pound of fresh <objectName ref="butter">Butter</objectName>, put it into a Stew-pan, and Brown it; then put in an Onion stuck with Cloves, Endive, Sallary, and Spinage, and your strong Broth; season it with Pepper, Salt, and Spice, and let it boil. Put in Chips of French Bread dried by the Fire, and serve it up with a French Roll toasted in the Middle. </p>
+        <p> Take a Leg of Beef, and a Piece of the Neck, and boil it till you have all the Goodness out of it; then strain it from the Meat; take Half a Pound of fresh <objectName ref="#butter">Butter</objectName>, put it into a Stew-pan, and Brown it; then put in an Onion stuck with Cloves, Endive, Sallary, and Spinage, and your strong Broth; season it with Pepper, Salt, and Spice, and let it boil. Put in Chips of French Bread dried by the Fire, and serve it up with a French Roll toasted in the Middle. </p>
             </div>
         </body>
     </text>

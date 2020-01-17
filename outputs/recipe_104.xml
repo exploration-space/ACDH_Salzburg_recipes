@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Thüe sye auf siedts<gap/> sye in ein schehn <lb/> <objectName ref="essig">essig</objectName> hernach thue sye in ein rein<gap/> <lb/> Gies<gap/> österreicher <objectName ref="wein">Wein</objectName> daran vnd <lb/> Arbes brie<gap/> Musgatblie<gap/> vnd Zimmet<gap/> <lb/><lb/> ( ve 43 ) vnnd Gibs Prenns<gap/> mit <objectName ref="butter">butter</objectName> Mell <lb/> vnnd sembl breßl<gap/> ein, auch lemony <lb/> safft<gap/> Darein lass auf der Gluet<gap/> <lb/> bregln<gap/> wanst du es Anrichts so leg <lb/> ein <objectName ref="butter">butter</objectName> Darein. <lb/> [ Anm. : „ ein schehn <objectName ref="essig">essig</objectName> “ bedeutet vermutlich qualitativ hochwertiger, reiner <objectName ref="essig">Essig</objectName> ] </p>
+        <p> Thüe sye auf siedts<gap/> sye in ein schehn <lb/> <objectName ref="#essig">essig</objectName> hernach thue sye in ein rein<gap/> <lb/> Gies<gap/> österreicher <objectName ref="#wein">Wein</objectName> daran vnd <lb/> Arbes brie<gap/> Musgatblie<gap/> vnd Zimmet<gap/> <lb/><lb/> ( ve 43 ) vnnd Gibs Prenns<gap/> mit <objectName ref="#butter">butter</objectName> Mell <lb/> vnnd sembl breßl<gap/> ein, auch lemony <lb/> safft<gap/> Darein lass auf der Gluet<gap/> <lb/> bregln<gap/> wanst du es Anrichts so leg <lb/> ein <objectName ref="#butter">butter</objectName> Darein. <lb/> [ Anm. : „ ein schehn <objectName ref="#essig">essig</objectName> “ bedeutet vermutlich qualitativ hochwertiger, reiner <objectName ref="#essig">Essig</objectName> ] </p>
             </div>
         </body>
     </text>

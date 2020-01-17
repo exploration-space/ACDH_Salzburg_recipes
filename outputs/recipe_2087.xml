@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein lablets <objectName ref="wasser">Wasser</objectName>, vnd <objectName ref="schmalz">schmalz</objectName> durcheinander, vnd mach ein <lb/> taigl, an, Welg den Zu einem blat, richt ihn in ein dorten bëkhl <lb/> an boden, Sä Zukher, Zimet vnd Weinpörlein drauf, die <lb/> öpffl miessen in einem <objectName ref="schmalz">schmalz</objectName> geröst Werden, alßdan auf <lb/> das blat, darnach Wider Zukher, Zimet vnd Weinpörl, alßdan <lb/> das blat oder lukh darauf, mach ein außgeschnitnes blat <lb/> drüber, nimb ein Zukher vnd <objectName ref="rosenwasser">Rosenwasser</objectName>, mach ein Eÿß <lb/> drüber, so ist er beraith, also solle man auch von Piern machen, <lb/> vnd fein dikh aneinander richten, öpffl vnd Piern. <lb/> </p>
+        <p> Nimb ein lablets <objectName ref="#wasser">Wasser</objectName>, vnd <objectName ref="#schmalz">schmalz</objectName> durcheinander, vnd mach ein <lb/> taigl, an, Welg den Zu einem blat, richt ihn in ein dorten bëkhl <lb/> an boden, Sä Zukher, Zimet vnd Weinpörlein drauf, die <lb/> öpffl miessen in einem <objectName ref="#schmalz">schmalz</objectName> geröst Werden, alßdan auf <lb/> das blat, darnach Wider Zukher, Zimet vnd Weinpörl, alßdan <lb/> das blat oder lukh darauf, mach ein außgeschnitnes blat <lb/> drüber, nimb ein Zukher vnd <objectName ref="#rosenwasser">Rosenwasser</objectName>, mach ein Eÿß <lb/> drüber, so ist er beraith, also solle man auch von Piern machen, <lb/> vnd fein dikh aneinander richten, öpffl vnd Piern. <lb/> </p>
             </div>
         </body>
     </text>

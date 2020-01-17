@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb <lb/> etlich buter, vnd etlich griene Kreiter, vnd <lb/> hackhs klein, nimb Imber, <objectName ref="pfeffer">Pfeffer</objectName>, Nägl, <lb/> gestossen Mußcatblie, lints gewürz, zugger. <lb/> </p>
+        <p> Nimb <lb/> etlich buter, vnd etlich griene Kreiter, vnd <lb/> hackhs klein, nimb Imber, <objectName ref="#pfeffer">Pfeffer</objectName>, Nägl, <lb/> gestossen Mußcatblie, lints gewürz, zugger. <lb/> </p>
             </div>
         </body>
     </text>

@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb.1. Bouch : vnd ein glaßirtes <lb/> höfen gieß daß wasßer darein vnd laß <lb/> sieden, wanß am besten siedt Schütte darein <lb/> 3. handt voll frischen anneiß mit.4. l. <lb/> zuckher.2. Nägl laß ein guaten Sudt <lb/> thuen solang daß ainer ain frisches ayr <lb/> Esßen thette alß dan nimbs v´ <objectName ref="feuer">feuer</objectName> <lb/> vnd laß kalt werden seuchs vnd thues <lb/><lb/> in ain gschier <objectName ref="amber">amber</objectName> et m : w : blt. <lb/> laß kalt werden oder gefrührn. <lb/> </p>
+        <p> Nimb.1. Bouch : vnd ein glaßirtes <lb/> höfen gieß daß wasßer darein vnd laß <lb/> sieden, wanß am besten siedt Schütte darein <lb/> 3. handt voll frischen anneiß mit.4. l. <lb/> zuckher.2. Nägl laß ein guaten Sudt <lb/> thuen solang daß ainer ain frisches ayr <lb/> Esßen thette alß dan nimbs v´ <objectName ref="#feuer">feuer</objectName> <lb/> vnd laß kalt werden seuchs vnd thues <lb/><lb/> in ain gschier <objectName ref="#amber">amber</objectName> et m : w : blt. <lb/> laß kalt werden oder gefrührn. <lb/> </p>
             </div>
         </body>
     </text>

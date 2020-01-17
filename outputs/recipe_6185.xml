@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Geräucherte Gänß mit Spenat gekocht <lb/> mit grünem oder weissem Köl <lb/> oder kalt auff einen <objectName ref="tisch">Tisch</objectName> gegeben <lb/> so ist sie auch gut. Oder wenn sie fein sauber außgesäubert ist <lb/> so richt man sie an in eine <objectName ref="schuessel">Schüssel</objectName> <lb/> vnnd seigt ein gute Rindtfleisch oder Hennenbrüh darüber <lb/> wirff grün Pettersilgen darüber <lb/> so wirt es zierlich vnd gut. Vnd die geräucherte Ganß ist auch gut vnter ein saures <objectName ref="kraut">Kraut</objectName> <lb/> sampt dem <objectName ref="speck">Speck</objectName>. </p>
+        <p> Geräucherte Gänß mit Spenat gekocht <lb/> mit grünem oder weissem Köl <lb/> oder kalt auff einen <objectName ref="#tisch">Tisch</objectName> gegeben <lb/> so ist sie auch gut. Oder wenn sie fein sauber außgesäubert ist <lb/> so richt man sie an in eine <objectName ref="#schuessel">Schüssel</objectName> <lb/> vnnd seigt ein gute Rindtfleisch oder Hennenbrüh darüber <lb/> wirff grün Pettersilgen darüber <lb/> so wirt es zierlich vnd gut. Vnd die geräucherte Ganß ist auch gut vnter ein saures <objectName ref="#kraut">Kraut</objectName> <lb/> sampt dem <objectName ref="#speck">Speck</objectName>. </p>
             </div>
         </body>
     </text>

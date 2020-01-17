@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb <objectName ref="wein">Wein</objectName> in ein Pfan, vnd leg allerleÿ gewürz darunder, <lb/> Zukhers vnd gilbs, darnach nimb Arbes brüe vnd hausenblater <lb/> Zusammen, vnd laß Woll sieden, in einem häferl, vnd laß nit <lb/> ÿbergehn, vnd greif nit drein, vnd Wan es Woll gesoten ist, <lb/> so geuß ein <objectName ref="wein">Wein</objectName> drein, vnd laß wider Woll sieden, darnach <lb/><lb/> ( 39r ) thue es in ein häferl, vnd laß es ÿberkhüelen, darnach seichs durch <lb/> ein Zwifach tuech auf ein schißl, so ists bereith. <lb/> </p>
+        <p> Nimb <objectName ref="#wein">Wein</objectName> in ein Pfan, vnd leg allerleÿ gewürz darunder, <lb/> Zukhers vnd gilbs, darnach nimb Arbes brüe vnd hausenblater <lb/> Zusammen, vnd laß Woll sieden, in einem häferl, vnd laß nit <lb/> ÿbergehn, vnd greif nit drein, vnd Wan es Woll gesoten ist, <lb/> so geuß ein <objectName ref="#wein">Wein</objectName> drein, vnd laß wider Woll sieden, darnach <lb/><lb/> ( 39r ) thue es in ein häferl, vnd laß es ÿberkhüelen, darnach seichs durch <lb/> ein Zwifach tuech auf ein schißl, so ists bereith. <lb/> </p>
             </div>
         </body>
     </text>

@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb <lb/><lb/> ( 63v ) Spinnäth od ( er ) Kherbl Krauts, v̈ber brenß <lb/> wennig, vnd sez den <objectName ref="fisch">fisch</objectName> in ain <objectName ref="wasser">wasser</objectName> <lb/> v̈ber, tue den spinnät darunter, buter, <lb/> Mußcatblie, Imber, ain wenig <objectName ref="pfeffer">Pfeffer</objectName>, <lb/> laß woll einsieden, laß nit vill Supen <lb/> daran, <objectName ref="salz">salz</objectName> nit hart. <lb/> </p>
+        <p> Nimb <lb/><lb/> ( 63v ) Spinnäth od ( er ) Kherbl Krauts, v̈ber brenß <lb/> wennig, vnd sez den <objectName ref="#fisch">fisch</objectName> in ain <objectName ref="#wasser">wasser</objectName> <lb/> v̈ber, tue den spinnät darunter, buter, <lb/> Mußcatblie, Imber, ain wenig <objectName ref="#pfeffer">Pfeffer</objectName>, <lb/> laß woll einsieden, laß nit vill Supen <lb/> daran, <objectName ref="#salz">salz</objectName> nit hart. <lb/> </p>
             </div>
         </body>
     </text>

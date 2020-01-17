@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Bonen gekocht mit Rindtfleischbrüh vn ( d ) <objectName ref="speck">Speck</objectName> <lb/> der klein geschnitten ist <lb/> auch mit grünen wolschmeckenden <objectName ref="kraeuter">Kräutern</objectName> <lb/> die klein gehackt seyn. </p>
+        <p> Bonen gekocht mit Rindtfleischbrüh vn ( d ) <objectName ref="#speck">Speck</objectName> <lb/> der klein geschnitten ist <lb/> auch mit grünen wolschmeckenden <objectName ref="#kraeuter">Kräutern</objectName> <lb/> die klein gehackt seyn. </p>
             </div>
         </body>
     </text>

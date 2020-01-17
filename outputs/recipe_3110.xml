@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Füß von Schwein <lb/> Ochsen= und Kalbs= Füß <lb/> wann sie sauber gebutzt <lb/> in gesaltzen <objectName ref="wasser">Wasser</objectName> weich gesotten <lb/> und wieder kalt seynd <lb/> werden sie zu Stücklein geschnitten <lb/> dann mit klein= gehacktem Zwibel <lb/> oder <objectName ref="knoblauch">Knoblauch</objectName> <lb/> auch <objectName ref="pfeffer">Pfeffer</objectName> <lb/> Eßig und Oel angemacht zu einem <objectName ref="salat">Salat</objectName>. </p>
+        <p> Füß von Schwein <lb/> Ochsen= und Kalbs= Füß <lb/> wann sie sauber gebutzt <lb/> in gesaltzen <objectName ref="#wasser">Wasser</objectName> weich gesotten <lb/> und wieder kalt seynd <lb/> werden sie zu Stücklein geschnitten <lb/> dann mit klein= gehacktem Zwibel <lb/> oder <objectName ref="#knoblauch">Knoblauch</objectName> <lb/> auch <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> Eßig und Oel angemacht zu einem <objectName ref="#salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>

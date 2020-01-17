@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Thue den höchten auf, schneid ihn am Rukhen voneinander, vnd <objectName ref="salz">salz</objectName> ihn <lb/> ein, streich ihn gar schen ab, leg ihn auf ein <objectName ref="rost">Rost</objectName>, laß ihn trukhen <lb/> Werden, thue ihn in ein pfan, vnd rest ihn braun im <objectName ref="schmalz">schmalz</objectName>, nit <lb/> Zu hört, ein süsß süppl drüber, oder ein saures Puter süppl vnd <lb/> Pfefferstup, Mußcatblie dran, so ist er bereith. <lb/> </p>
+        <p> Thue den höchten auf, schneid ihn am Rukhen voneinander, vnd <objectName ref="#salz">salz</objectName> ihn <lb/> ein, streich ihn gar schen ab, leg ihn auf ein <objectName ref="#rost">Rost</objectName>, laß ihn trukhen <lb/> Werden, thue ihn in ein pfan, vnd rest ihn braun im <objectName ref="#schmalz">schmalz</objectName>, nit <lb/> Zu hört, ein süsß süppl drüber, oder ein saures Puter süppl vnd <lb/> Pfefferstup, Mußcatblie dran, so ist er bereith. <lb/> </p>
             </div>
         </body>
     </text>

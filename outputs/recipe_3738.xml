@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimm von dem Ochsen <lb/> seinen hindern Knien <lb/> die Knorren <lb/> lege sie ins <objectName ref="wasser">Wasser</objectName> <lb/> damit sie schön weiß werden; dann setze sie zu <lb/> und lasse sie sieden im <objectName ref="wasser">Wasser</objectName> <lb/> mit gehörigem <objectName ref="salz">Salz</objectName> <lb/> gleich einer Hennen <lb/> fäum sie fleißig ab <lb/> und lege dazu geschabene Petersil=Wurzeln <lb/> einen ganzen Zwibel <lb/> mit Näglein besteckt <lb/> gantze Muscatblühe; wann dann das <objectName ref="fleisch">Fleisch</objectName> fertig <lb/> und weich genug <lb/> so gibs gleich einer Henn <lb/> sammt der <objectName ref="suppe">Suppen</objectName> <lb/> auf gebähtes Brod. </p>
+        <p> Nimm von dem Ochsen <lb/> seinen hindern Knien <lb/> die Knorren <lb/> lege sie ins <objectName ref="#wasser">Wasser</objectName> <lb/> damit sie schön weiß werden; dann setze sie zu <lb/> und lasse sie sieden im <objectName ref="#wasser">Wasser</objectName> <lb/> mit gehörigem <objectName ref="#salz">Salz</objectName> <lb/> gleich einer Hennen <lb/> fäum sie fleißig ab <lb/> und lege dazu geschabene Petersil=Wurzeln <lb/> einen ganzen Zwibel <lb/> mit Näglein besteckt <lb/> gantze Muscatblühe; wann dann das <objectName ref="#fleisch">Fleisch</objectName> fertig <lb/> und weich genug <lb/> so gibs gleich einer Henn <lb/> sammt der <objectName ref="#suppe">Suppen</objectName> <lb/> auf gebähtes Brod. </p>
             </div>
         </body>
     </text>

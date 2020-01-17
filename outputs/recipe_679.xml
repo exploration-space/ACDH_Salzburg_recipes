@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAschet die Birn; reibet hernach ein rocken Brod <lb/> legt in einen <objectName ref="hafen">Hafen</objectName> ein wenig Bachschmaltz <lb/> und dann die helffte der Birne <lb/> samt einer Hand voll gerieben Brod; nach dem die andere helffte der Birne <lb/> und so dann wieder Brod <lb/> auch noch ein wenig Bachschmaltz oben darauf : giesst ein <objectName ref="wasser">Wasser</objectName> daran <lb/> und lassets unter einander sieden <lb/> schwingets offt im <objectName ref="hafen">Hafen</objectName> herum : Wann sie eingesotten <lb/> giesset noch mehr <objectName ref="wasser">Wasser</objectName> dazu <lb/> und lassets ferner wohl einsieden <lb/> daß es ein dicklichts Brühlein werde. </p>
+        <p> WAschet die Birn; reibet hernach ein rocken Brod <lb/> legt in einen <objectName ref="#hafen">Hafen</objectName> ein wenig Bachschmaltz <lb/> und dann die helffte der Birne <lb/> samt einer Hand voll gerieben Brod; nach dem die andere helffte der Birne <lb/> und so dann wieder Brod <lb/> auch noch ein wenig Bachschmaltz oben darauf : giesst ein <objectName ref="#wasser">Wasser</objectName> daran <lb/> und lassets unter einander sieden <lb/> schwingets offt im <objectName ref="#hafen">Hafen</objectName> herum : Wann sie eingesotten <lb/> giesset noch mehr <objectName ref="#wasser">Wasser</objectName> dazu <lb/> und lassets ferner wohl einsieden <lb/> daß es ein dicklichts Brühlein werde. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Rutten werden gebachen <lb/> hernach in der Oel= <objectName ref="bruehe">Brühe</objectName> <lb/> mit Capry und Lemoni= Schelffen zugericht <lb/> so seynd sie trefflich gut. </p>
+        <p> DIe Rutten werden gebachen <lb/> hernach in der Oel= <objectName ref="#bruehe">Brühe</objectName> <lb/> mit Capry und Lemoni= Schelffen zugericht <lb/> so seynd sie trefflich gut. </p>
             </div>
         </body>
     </text>

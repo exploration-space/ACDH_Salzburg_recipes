@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimm süssen Ram ein Maaß <lb/> sprittle drey oder vier neu gelegte gantze Eyer wol ab <lb/> seihs durch ein Sieblein in die <objectName ref="milch">Milch</objectName> <lb/> setz zum <objectName ref="feuer">Feuer</objectName> <lb/> und wanns gleich anhebt zu sieden <lb/> wol rühren <lb/> und gar ein wenig sieden lassen <lb/> daß es zusammen geht <lb/> darnach seihs in die Körblein <lb/> die formiert seynd wie die <objectName ref="loeffel">Löffel</objectName> <lb/> wann das Käßwasser wol abgesiehen ist <lb/> soll mans auf ein <objectName ref="schuessel">Schüssel</objectName> umkehren <lb/> und wenig süssen Ram daran giessen <lb/> man mags <objectName ref="zucker">zuckern</objectName> oder nicht. </p>
+        <p> Nimm süssen Ram ein Maaß <lb/> sprittle drey oder vier neu gelegte gantze Eyer wol ab <lb/> seihs durch ein Sieblein in die <objectName ref="#milch">Milch</objectName> <lb/> setz zum <objectName ref="#feuer">Feuer</objectName> <lb/> und wanns gleich anhebt zu sieden <lb/> wol rühren <lb/> und gar ein wenig sieden lassen <lb/> daß es zusammen geht <lb/> darnach seihs in die Körblein <lb/> die formiert seynd wie die <objectName ref="#loeffel">Löffel</objectName> <lb/> wann das Käßwasser wol abgesiehen ist <lb/> soll mans auf ein <objectName ref="#schuessel">Schüssel</objectName> umkehren <lb/> und wenig süssen Ram daran giessen <lb/> man mags <objectName ref="#zucker">zuckern</objectName> oder nicht. </p>
             </div>
         </body>
     </text>

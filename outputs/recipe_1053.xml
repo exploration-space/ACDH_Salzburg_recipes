@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Burn an Ounce of <objectName ref="butter">Butter</objectName> in your Frying-pan, but always take Care to do it at such a Distance from the Fire, that as you strew in the Flour to the <objectName ref="butter">Butter</objectName>, it may be brown, but not black; put to it two Pounds of coarse lean Beef, a <objectName ref="quart">Quart</objectName> of Water and half a Pint of Wine, red or white, as you like the Colour; put three Anchovies, two Eschallots, some whole Pepper, Cloves and Mace, three or four Mushrooms, or as many pickl 'd Walnuts. Let it stew gently near an Hour, then strain it. It will keep some Time, and is proper for any savoury Dish. </p>
+        <p> Burn an Ounce of <objectName ref="#butter">Butter</objectName> in your Frying-pan, but always take Care to do it at such a Distance from the Fire, that as you strew in the Flour to the <objectName ref="#butter">Butter</objectName>, it may be brown, but not black; put to it two Pounds of coarse lean Beef, a <objectName ref="#quart">Quart</objectName> of Water and half a Pint of Wine, red or white, as you like the Colour; put three Anchovies, two Eschallots, some whole Pepper, Cloves and Mace, three or four Mushrooms, or as many pickl 'd Walnuts. Let it stew gently near an Hour, then strain it. It will keep some Time, and is proper for any savoury Dish. </p>
             </div>
         </body>
     </text>

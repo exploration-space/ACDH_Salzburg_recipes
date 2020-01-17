@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Du magst auch ein Kappaun saur eynmachen mit Limonien. Nim ( m ) den Kappaunen <lb/> der halb gesotten ist <lb/> vn ( d ) schneidt Zwibeln darauff gar klein <lb/> vnd laß mit einer Rindtfleischbrüh wol sieden <lb/> geuß es vber den Kappaunen <lb/> machs saur <lb/> vnd schneidt Limonien darein <lb/> fein breit <lb/> thu eyngebrennt <objectName ref="mehl">Mehl</objectName> darein <lb/> laß es damit sieden <lb/> thu auch vngeschmältzte <objectName ref="butter">Butter</objectName> daran <lb/> vnd laß auffsieden <lb/> so wirt es gut vnnd wolgeschmack. Du magst die Speiß lassen weiß oder gelb <lb/> wie du sie haben wilt. </p>
+        <p> Du magst auch ein Kappaun saur eynmachen mit Limonien. Nim ( m ) den Kappaunen <lb/> der halb gesotten ist <lb/> vn ( d ) schneidt Zwibeln darauff gar klein <lb/> vnd laß mit einer Rindtfleischbrüh wol sieden <lb/> geuß es vber den Kappaunen <lb/> machs saur <lb/> vnd schneidt Limonien darein <lb/> fein breit <lb/> thu eyngebrennt <objectName ref="#mehl">Mehl</objectName> darein <lb/> laß es damit sieden <lb/> thu auch vngeschmältzte <objectName ref="#butter">Butter</objectName> daran <lb/> vnd laß auffsieden <lb/> so wirt es gut vnnd wolgeschmack. Du magst die Speiß lassen weiß oder gelb <lb/> wie du sie haben wilt. </p>
             </div>
         </body>
     </text>

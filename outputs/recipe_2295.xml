@@ -178,7 +178,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein khëlberne Lungl, vnd von eim Rind, die khelbere britt ein wenig, <lb/> die rindere seud gar, hakhs khlain, rests im <objectName ref="schmalz">schmalz</objectName>, darnach nimb geribne <lb/> Sembl, nit gar halb souill als lungl, nur den 3. thaill, gieß gueten Milch= <lb/> rämb dran, rührs under die Lungl, gewürz vnd Weinpörl drunder, ein <lb/> Wenig khlain gehakhts khreitlwerch, auch schlag aÿr dran, machs lind an Wie <lb/> die leberwürstl, fihls in Rindere därm, leg ein stükhl Puter drein, fihls <lb/> nit Zu voll ein, binds Zue, legs in ein fleischbrie oder <objectName ref="wasser">Wasser</objectName>, biß gsoten, <lb/> gibs trukhen, gleich ein wenig in der pfan gerest, oder mach ein Prüelein <lb/> drüber. <lb/> </p>
+        <p> Nimb ein khëlberne Lungl, vnd von eim Rind, die khelbere britt ein wenig, <lb/> die rindere seud gar, hakhs khlain, rests im <objectName ref="#schmalz">schmalz</objectName>, darnach nimb geribne <lb/> Sembl, nit gar halb souill als lungl, nur den 3. thaill, gieß gueten Milch= <lb/> rämb dran, rührs under die Lungl, gewürz vnd Weinpörl drunder, ein <lb/> Wenig khlain gehakhts khreitlwerch, auch schlag aÿr dran, machs lind an Wie <lb/> die leberwürstl, fihls in Rindere därm, leg ein stükhl Puter drein, fihls <lb/> nit Zu voll ein, binds Zue, legs in ein fleischbrie oder <objectName ref="#wasser">Wasser</objectName>, biß gsoten, <lb/> gibs trukhen, gleich ein wenig in der pfan gerest, oder mach ein Prüelein <lb/> drüber. <lb/> </p>
             </div>
         </body>
     </text>

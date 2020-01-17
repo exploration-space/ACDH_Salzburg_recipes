@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Thue die Weixl<gap/> ein wenig sieden<gap/>, thue <lb/> die Kern heraus hackhs clein, vnd Ge= <lb/> wirz<gap/> mit Zimmet stup<gap/>, Zuckhers wie <lb/> sies<gap/> du Wilst, als dan nimb ein <lb/> schönes Mell<gap/> <objectName ref="salz">salz</objectName> ein wönig thue <lb/> ein brockhen<gap/> Putter darein Ain Ayr <lb/> Dotter vnd ein frisch <objectName ref="wasser">wasser</objectName> das <lb/> ein marer taig<gap/> wirdt, als dan fill<gap/> <lb/> die Weixl darein, vnnd mach Kleine <lb/> Kräpfel daraus vnd bachs<gap/> fein lihe <lb/> liecht<gap/> in schmalz<gap/>, richts Auf ein schisßl<gap/> <lb/> vnnd Zuckhers, olso ist es bereith. <lb/><lb/> ( ve90 ) </p>
+        <p> Thue die Weixl<gap/> ein wenig sieden<gap/>, thue <lb/> die Kern heraus hackhs clein, vnd Ge= <lb/> wirz<gap/> mit Zimmet stup<gap/>, Zuckhers wie <lb/> sies<gap/> du Wilst, als dan nimb ein <lb/> schönes Mell<gap/> <objectName ref="#salz">salz</objectName> ein wönig thue <lb/> ein brockhen<gap/> Putter darein Ain Ayr <lb/> Dotter vnd ein frisch <objectName ref="#wasser">wasser</objectName> das <lb/> ein marer taig<gap/> wirdt, als dan fill<gap/> <lb/> die Weixl darein, vnnd mach Kleine <lb/> Kräpfel daraus vnd bachs<gap/> fein lihe <lb/> liecht<gap/> in schmalz<gap/>, richts Auf ein schisßl<gap/> <lb/> vnnd Zuckhers, olso ist es bereith. <lb/><lb/> ( ve90 ) </p>
             </div>
         </body>
     </text>

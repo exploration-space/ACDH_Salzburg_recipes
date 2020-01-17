@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> GLaube den Brunnkreß sauber <lb/> wasche und hacke ihn klein <lb/> laß eine Fleischbrüh siedend werden <lb/> thu auch ein wenig gebranntes <objectName ref="mehl">Mehl</objectName> darin; würtze es mit Cardamomen und Muscaten= Blüh : thue das gehackte <objectName ref="kraut">Kraut</objectName> samt einem Stuck <objectName ref="butter">Butter</objectName> hinein <lb/> und richts dann über weiß= gebähtes oder würfflicht= geschnittenes Brod an. <gap/> <gap/> Auf diese Weiß kan auch von Gunreben <lb/> und andern <objectName ref="kraeuter">Kräutern</objectName> <lb/> eine <objectName ref="suppe">Suppe</objectName> gemacht werden; nachdem nemlich selbige denen Krancken dienlich sind. </p>
+        <p> GLaube den Brunnkreß sauber <lb/> wasche und hacke ihn klein <lb/> laß eine Fleischbrüh siedend werden <lb/> thu auch ein wenig gebranntes <objectName ref="#mehl">Mehl</objectName> darin; würtze es mit Cardamomen und Muscaten= Blüh : thue das gehackte <objectName ref="#kraut">Kraut</objectName> samt einem Stuck <objectName ref="#butter">Butter</objectName> hinein <lb/> und richts dann über weiß= gebähtes oder würfflicht= geschnittenes Brod an. <gap/> <gap/> Auf diese Weiß kan auch von Gunreben <lb/> und andern <objectName ref="#kraeuter">Kräutern</objectName> <lb/> eine <objectName ref="#suppe">Suppe</objectName> gemacht werden; nachdem nemlich selbige denen Krancken dienlich sind. </p>
             </div>
         </body>
     </text>

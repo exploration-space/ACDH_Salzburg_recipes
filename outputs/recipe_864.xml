@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Erstlich im warmen <objectName ref="wasser">Wasser</objectName> wol abgewaschen <lb/> mit <objectName ref="wasser">Wasser</objectName> <lb/> wenig <objectName ref="wein">Wein</objectName> <lb/> wol <objectName ref="zucker">Zucker</objectName> <lb/> und wenig Zimmet weich gesotten <lb/> und mit <objectName ref="zucker">Zucker</objectName> <lb/> und wenig Zimmet weich gesotten <lb/> und mit <objectName ref="zucker">Zucker</objectName> bestreuter angericht <lb/> mit wenig <objectName ref="bruehe">Brühe</objectName> <lb/> und mit vorstehenden Pafösen regaliert <lb/> mit <objectName ref="zucker">Zucker</objectName> bestreut aufgetragen. </p>
+        <p> Erstlich im warmen <objectName ref="#wasser">Wasser</objectName> wol abgewaschen <lb/> mit <objectName ref="#wasser">Wasser</objectName> <lb/> wenig <objectName ref="#wein">Wein</objectName> <lb/> wol <objectName ref="#zucker">Zucker</objectName> <lb/> und wenig Zimmet weich gesotten <lb/> und mit <objectName ref="#zucker">Zucker</objectName> <lb/> und wenig Zimmet weich gesotten <lb/> und mit <objectName ref="#zucker">Zucker</objectName> bestreuter angericht <lb/> mit wenig <objectName ref="#bruehe">Brühe</objectName> <lb/> und mit vorstehenden Pafösen regaliert <lb/> mit <objectName ref="#zucker">Zucker</objectName> bestreut aufgetragen. </p>
             </div>
         </body>
     </text>

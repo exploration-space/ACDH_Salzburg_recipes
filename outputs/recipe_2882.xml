@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> EIn Capaun <lb/> wann er gesotten <lb/> oder gebraten <lb/> kan er zerstuckt <lb/> in <objectName ref="butter">Butter</objectName> mit Gewürtz <lb/> Zwibel <lb/> wenig Meel geröst <lb/> mit wenig <objectName ref="wein">Wein</objectName> und <objectName ref="fleischbruehe">Fleischbrühe</objectName> aufgesotten <lb/> dann mit klein= gehackten Petersil <lb/> frischen <objectName ref="butter">Butter</objectName> <lb/> etliche Eyerdotter und Lemoni= Safft <lb/> und kleinen Schelffen etlichmal herüber geschwungen <lb/> und gleich angericht <lb/> und wohl warmer zur Tafel getragen werden. </p>
+        <p> EIn Capaun <lb/> wann er gesotten <lb/> oder gebraten <lb/> kan er zerstuckt <lb/> in <objectName ref="#butter">Butter</objectName> mit Gewürtz <lb/> Zwibel <lb/> wenig Meel geröst <lb/> mit wenig <objectName ref="#wein">Wein</objectName> und <objectName ref="#fleischbruehe">Fleischbrühe</objectName> aufgesotten <lb/> dann mit klein= gehackten Petersil <lb/> frischen <objectName ref="#butter">Butter</objectName> <lb/> etliche Eyerdotter und Lemoni= Safft <lb/> und kleinen Schelffen etlichmal herüber geschwungen <lb/> und gleich angericht <lb/> und wohl warmer zur Tafel getragen werden. </p>
             </div>
         </body>
     </text>

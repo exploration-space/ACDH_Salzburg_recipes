@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> OBiges Gestossene wird mit Mandel <lb/> Marck <lb/> Semmel und Eyern angemacht <lb/> gibt gute Strützlein <lb/> in ein mit <objectName ref="butter">Butter</objectName> gestrichene <objectName ref="schuessel">Schüssel</objectName> gemacht und zugedeckt <lb/> mit süssen Ram aufgesotten; seynd gut und wohlgeschmack. </p>
+        <p> OBiges Gestossene wird mit Mandel <lb/> Marck <lb/> Semmel und Eyern angemacht <lb/> gibt gute Strützlein <lb/> in ein mit <objectName ref="#butter">Butter</objectName> gestrichene <objectName ref="#schuessel">Schüssel</objectName> gemacht und zugedeckt <lb/> mit süssen Ram aufgesotten; seynd gut und wohlgeschmack. </p>
             </div>
         </body>
     </text>

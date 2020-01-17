@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Hackhe Kölbers<gap/> Prädt<gap/> vnnd frischen <lb/> spöckh auch wanst Wilst gleich Griens<gap/> <lb/> Darunter, auch Gewürzen<gap/> <objectName ref="salz">salz</objectName> <lb/> schlag es in ein Nözl<gap/> ein, mache <lb/> strizl<gap/> Daraus oder Nudl<gap/> Pradt<gap/> es <lb/> in einer Pfann<gap/> in schmalz<gap/>, Gib <lb/> vndten<gap/> vnnd oben<gap/> Gluett schen Gel= <lb/> flet<gap/> Gebachen<gap/> also richts an sye <lb/> seindt Guett. <lb/> </p>
+        <p> Hackhe Kölbers<gap/> Prädt<gap/> vnnd frischen <lb/> spöckh auch wanst Wilst gleich Griens<gap/> <lb/> Darunter, auch Gewürzen<gap/> <objectName ref="#salz">salz</objectName> <lb/> schlag es in ein Nözl<gap/> ein, mache <lb/> strizl<gap/> Daraus oder Nudl<gap/> Pradt<gap/> es <lb/> in einer Pfann<gap/> in schmalz<gap/>, Gib <lb/> vndten<gap/> vnnd oben<gap/> Gluett schen Gel= <lb/> flet<gap/> Gebachen<gap/> also richts an sye <lb/> seindt Guett. <lb/> </p>
             </div>
         </body>
     </text>

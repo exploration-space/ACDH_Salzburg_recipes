@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> So nimb ein Mittermessige <objectName ref="milch">milch</objectName>, vnd laß es Wallen, vnd gieß auf ein schißl, <lb/> laß Wider khielen, oder nimb darnach ein <objectName ref="schmalz">schmalz</objectName> in ein pfan, alß einer <lb/> welschen Nuß groß, nimb die <objectName ref="milch">milch</objectName>, rühr ein guets mell drein, machs in der <lb/> dikhe Wie ein koch, vnd geuß dasselbe in das <objectName ref="schmalz">schmalz</objectName>, vnd sez auf ein haissen <lb/> <objectName ref="asche">Aschen</objectName>, so Wird er ganz dikh Wie ein <objectName ref="strauben">strauben</objectName> taig, Zeuch den Saluel drin <lb/> umb, bach ihn fein, so Wird er guet. <lb/> </p>
+        <p> So nimb ein Mittermessige <objectName ref="#milch">milch</objectName>, vnd laß es Wallen, vnd gieß auf ein schißl, <lb/> laß Wider khielen, oder nimb darnach ein <objectName ref="#schmalz">schmalz</objectName> in ein pfan, alß einer <lb/> welschen Nuß groß, nimb die <objectName ref="#milch">milch</objectName>, rühr ein guets mell drein, machs in der <lb/> dikhe Wie ein koch, vnd geuß dasselbe in das <objectName ref="#schmalz">schmalz</objectName>, vnd sez auf ein haissen <lb/> <objectName ref="#asche">Aschen</objectName>, so Wird er ganz dikh Wie ein <objectName ref="#strauben">strauben</objectName> taig, Zeuch den Saluel drin <lb/> umb, bach ihn fein, so Wird er guet. <lb/> </p>
             </div>
         </body>
     </text>

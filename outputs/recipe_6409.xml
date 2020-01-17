@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Item <lb/> nim ( m ) Linden Bletter <lb/> Nußbletter <lb/> Beyfuß gleich <lb/> vnnd halb so viel <objectName ref="wermut">Wermut</objectName> <lb/> vnd hencks in das <objectName ref="bier">Bier</objectName>. Item <lb/> etliche legen schöne weisse Kißling darein <lb/> auß einem fliessenden <objectName ref="wasser">Wasser</objectName>. </p>
+        <p> Item <lb/> nim ( m ) Linden Bletter <lb/> Nußbletter <lb/> Beyfuß gleich <lb/> vnnd halb so viel <objectName ref="#wermut">Wermut</objectName> <lb/> vnd hencks in das <objectName ref="#bier">Bier</objectName>. Item <lb/> etliche legen schöne weisse Kißling darein <lb/> auß einem fliessenden <objectName ref="#wasser">Wasser</objectName>. </p>
             </div>
         </body>
     </text>

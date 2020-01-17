@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WEichet die <objectName ref="datteln">Datteln</objectName> zwey Stunden lang im <objectName ref="wein">Wein</objectName> <lb/> oder biß sie weich werden; last sie hernach mit besagtem <objectName ref="wein">Wein</objectName> <lb/> zusamt ein wenig Trisanet und <objectName ref="zucker">Zucker</objectName> <lb/> in einem stollichten <objectName ref="hafen">Hafen</objectName> sieden : Wann sie dann genug gesotten <lb/> richtets an <lb/> und bestreuets <lb/> gleich denen vorigen <lb/> mit Zimmet und <objectName ref="zucker">Zucker</objectName>. </p>
+        <p> WEichet die <objectName ref="#datteln">Datteln</objectName> zwey Stunden lang im <objectName ref="#wein">Wein</objectName> <lb/> oder biß sie weich werden; last sie hernach mit besagtem <objectName ref="#wein">Wein</objectName> <lb/> zusamt ein wenig Trisanet und <objectName ref="#zucker">Zucker</objectName> <lb/> in einem stollichten <objectName ref="#hafen">Hafen</objectName> sieden : Wann sie dann genug gesotten <lb/> richtets an <lb/> und bestreuets <lb/> gleich denen vorigen <lb/> mit Zimmet und <objectName ref="#zucker">Zucker</objectName>. </p>
             </div>
         </body>
     </text>

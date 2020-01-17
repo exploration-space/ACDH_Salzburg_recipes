@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DEr <objectName ref="hecht">Hecht</objectName> wird in feine Stücklein geschnitten und gebachen <lb/> die <objectName ref="leber">Leber</objectName> aber in <objectName ref="butter">Butter</objectName> geröst <lb/> und auch zu Stücklein geschnitten <lb/> die Maurachen aber werden geklaubt <lb/> gebrühet <lb/> gewürtzt <lb/> und auch mit wenig braun Meel in <objectName ref="butter">Butter</objectName> geröst <lb/> richt die Sach zusammen <lb/> in ein Casserol <lb/> oder gleich in die <objectName ref="schuessel">Schüssel</objectName> <lb/> gieß einen Löffel= voll <objectName ref="wein">Wein</objectName> <lb/> mit guter <lb/> fetter <lb/> brauner Karpffen= jusdaran; laß damit aufsieden <lb/> und gibs; hier können auch gebachne Knödlein darzu gemischt werden. </p>
+        <p> DEr <objectName ref="#hecht">Hecht</objectName> wird in feine Stücklein geschnitten und gebachen <lb/> die <objectName ref="#leber">Leber</objectName> aber in <objectName ref="#butter">Butter</objectName> geröst <lb/> und auch zu Stücklein geschnitten <lb/> die Maurachen aber werden geklaubt <lb/> gebrühet <lb/> gewürtzt <lb/> und auch mit wenig braun Meel in <objectName ref="#butter">Butter</objectName> geröst <lb/> richt die Sach zusammen <lb/> in ein Casserol <lb/> oder gleich in die <objectName ref="#schuessel">Schüssel</objectName> <lb/> gieß einen Löffel= voll <objectName ref="#wein">Wein</objectName> <lb/> mit guter <lb/> fetter <lb/> brauner Karpffen= jusdaran; laß damit aufsieden <lb/> und gibs; hier können auch gebachne Knödlein darzu gemischt werden. </p>
             </div>
         </body>
     </text>

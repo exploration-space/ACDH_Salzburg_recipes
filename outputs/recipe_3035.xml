@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="spargel">SPargel</objectName> gibt man auch klein geschnitten <lb/> gebrüht <lb/> mit wenig Gewürtz <lb/> <objectName ref="butter">Butter</objectName> <lb/> und geriebnen Parmesan- Käß <lb/> warm. </p>
+        <p> <objectName ref="#spargel">SPargel</objectName> gibt man auch klein geschnitten <lb/> gebrüht <lb/> mit wenig Gewürtz <lb/> <objectName ref="#butter">Butter</objectName> <lb/> und geriebnen Parmesan- Käß <lb/> warm. </p>
             </div>
         </body>
     </text>

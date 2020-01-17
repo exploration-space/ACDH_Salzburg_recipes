@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe weiß und gelbe Schwammen <lb/> die zu der Speiß dienstlich seynd <lb/> diese werden sauber gebutzt <lb/> oder gar gescheelt <lb/> nach Belieben geschnitten <lb/> oder gantz gelassen <lb/> eingesaltzen <lb/> und ein Weil also ligen lassen <lb/> dann das Saltzwasser darvon getruckt <lb/> und in siedigem <objectName ref="wasser">Wasser</objectName> überbrüht <lb/> wieder abgesiehen <lb/> dann mit Gewürtz <lb/> Zwibel <lb/> und klein= gehacktem Petersil <lb/> mit wenig weiß Meel in gutem <objectName ref="butter">Butter</objectName> geröst <lb/> und gar zugericht in weiß= gelb= oder brauner <objectName ref="bruehe">Brühe</objectName> <lb/> wie die Maurachen gekocht. </p>
+        <p> DIe weiß und gelbe Schwammen <lb/> die zu der Speiß dienstlich seynd <lb/> diese werden sauber gebutzt <lb/> oder gar gescheelt <lb/> nach Belieben geschnitten <lb/> oder gantz gelassen <lb/> eingesaltzen <lb/> und ein Weil also ligen lassen <lb/> dann das Saltzwasser darvon getruckt <lb/> und in siedigem <objectName ref="#wasser">Wasser</objectName> überbrüht <lb/> wieder abgesiehen <lb/> dann mit Gewürtz <lb/> Zwibel <lb/> und klein= gehacktem Petersil <lb/> mit wenig weiß Meel in gutem <objectName ref="#butter">Butter</objectName> geröst <lb/> und gar zugericht in weiß= gelb= oder brauner <objectName ref="#bruehe">Brühe</objectName> <lb/> wie die Maurachen gekocht. </p>
             </div>
         </body>
     </text>

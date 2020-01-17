@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DErgleichen geröste Brüßlein werden fricassirt <lb/> mit geschnittenen <objectName ref="spargel">Spargeln</objectName> <lb/> mit brauner <objectName ref="jus">jus</objectName>, oder auch weiß mit Eyerdotter und frischem <objectName ref="butter">Butter</objectName>. </p>
+        <p> DErgleichen geröste Brüßlein werden fricassirt <lb/> mit geschnittenen <objectName ref="#spargel">Spargeln</objectName> <lb/> mit brauner <objectName ref="#jus">jus</objectName>, oder auch weiß mit Eyerdotter und frischem <objectName ref="#butter">Butter</objectName>. </p>
             </div>
         </body>
     </text>

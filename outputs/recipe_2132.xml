@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb geschelte Mandl, stosß khlein in einem Merser, tropf olleweill <lb/> mit <objectName ref="rosenwasser">Rosenwasser</objectName>, so Wirds nit öelig, geuß <objectName ref="wasser">Wasser</objectName> dran, seuds <lb/> in der dikhe Wie ein Rämb, Zukhers, Salzs nit, bistu es anrichst, <lb/> geuß auf bähte schnitl, säe Weinpörl drauf. <lb/> </p>
+        <p> Nimb geschelte Mandl, stosß khlein in einem Merser, tropf olleweill <lb/> mit <objectName ref="#rosenwasser">Rosenwasser</objectName>, so Wirds nit öelig, geuß <objectName ref="#wasser">Wasser</objectName> dran, seuds <lb/> in der dikhe Wie ein Rämb, Zukhers, Salzs nit, bistu es anrichst, <lb/> geuß auf bähte schnitl, säe Weinpörl drauf. <lb/> </p>
             </div>
         </body>
     </text>

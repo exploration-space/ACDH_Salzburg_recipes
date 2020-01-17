@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAche die Schleyen am Bauch auf <lb/> thue das Eingeweid alles heraus <lb/> wasche und <objectName ref="bruehe">brühe</objectName> selbige mit heissen <objectName ref="wasser">Wasser</objectName> <lb/> oder reibe sie auch wie Num. 143. bey den Ruppen gedacht worden <lb/> mit Saltz ab; hernach siede sie allerdings in der Erbsen= Brüh <lb/> wie gleichfalls bey der Ruppen gelehret worden : nur ist zu erinnern <lb/> daß die Schleyen etwas länger <lb/> als jene <lb/> sieden müssen. </p>
+        <p> MAche die Schleyen am Bauch auf <lb/> thue das Eingeweid alles heraus <lb/> wasche und <objectName ref="#bruehe">brühe</objectName> selbige mit heissen <objectName ref="#wasser">Wasser</objectName> <lb/> oder reibe sie auch wie Num. 143. bey den Ruppen gedacht worden <lb/> mit Saltz ab; hernach siede sie allerdings in der Erbsen= Brüh <lb/> wie gleichfalls bey der Ruppen gelehret worden : nur ist zu erinnern <lb/> daß die Schleyen etwas länger <lb/> als jene <lb/> sieden müssen. </p>
             </div>
         </body>
     </text>

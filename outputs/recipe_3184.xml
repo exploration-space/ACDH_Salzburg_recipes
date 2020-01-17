@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIeser <objectName ref="teig">Teig</objectName> wird allerdings wie der nachfolgende <lb/> jedoch aber ohne Gewürtz <lb/> zusammen gemachet <lb/> in einem von <objectName ref="zucker">Zucker</objectName> und <objectName ref="rosenwasser">Rosenwasser</objectName> vermischten <objectName ref="teig">Teig</objectName> herum gewältzet; alsdann nur ein klein wenig in heisses Schmaltz geleget <lb/> und wann sie noch gantz weiß sind <lb/> wieder heraus genommen; hernach also warm nochmal im obgedachten mit <objectName ref="rosenwasser">Rosenwasser</objectName> angemachten Zucker= <objectName ref="teig">Teig</objectName> herumgekehret <lb/> in das Schmaltz geleget <lb/> und ferner schön licht= gelb abgebachen. </p>
+        <p> DIeser <objectName ref="#teig">Teig</objectName> wird allerdings wie der nachfolgende <lb/> jedoch aber ohne Gewürtz <lb/> zusammen gemachet <lb/> in einem von <objectName ref="#zucker">Zucker</objectName> und <objectName ref="#rosenwasser">Rosenwasser</objectName> vermischten <objectName ref="#teig">Teig</objectName> herum gewältzet; alsdann nur ein klein wenig in heisses Schmaltz geleget <lb/> und wann sie noch gantz weiß sind <lb/> wieder heraus genommen; hernach also warm nochmal im obgedachten mit <objectName ref="#rosenwasser">Rosenwasser</objectName> angemachten Zucker= <objectName ref="#teig">Teig</objectName> herumgekehret <lb/> in das Schmaltz geleget <lb/> und ferner schön licht= gelb abgebachen. </p>
             </div>
         </body>
     </text>

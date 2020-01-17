@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schab die sauber, legs in ein khalts <objectName ref="wasser">Wasser</objectName>, nach dem in ein reindl mit <lb/> fleischbrüe, vnd gewürz ein wenig <objectName ref="wein">Wein</objectName> vnd Zukher, Puter, Wan <lb/> mans schier Will anrichten, brauchen nit lang sieden, Wan man <lb/> gern Will, khan man den Zukher vnd <objectName ref="wein">Wein</objectName> ersparen, sein Zuuor <lb/> süsß. </p>
+        <p> Schab die sauber, legs in ein khalts <objectName ref="#wasser">Wasser</objectName>, nach dem in ein reindl mit <lb/> fleischbrüe, vnd gewürz ein wenig <objectName ref="#wein">Wein</objectName> vnd Zukher, Puter, Wan <lb/> mans schier Will anrichten, brauchen nit lang sieden, Wan man <lb/> gern Will, khan man den Zukher vnd <objectName ref="#wein">Wein</objectName> ersparen, sein Zuuor <lb/> süsß. </p>
             </div>
         </body>
     </text>

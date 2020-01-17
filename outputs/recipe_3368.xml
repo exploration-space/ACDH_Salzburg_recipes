@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ES ist der <objectName ref="lachs">Lachs</objectName> <lb/> oder Rhein= Salm auch kalt gut <lb/> wann er mit Eßg <lb/> Oel <lb/> Capry und <objectName ref="pfeffer">Pfeffer</objectName> gegeben wird. </p>
+        <p> ES ist der <objectName ref="#lachs">Lachs</objectName> <lb/> oder Rhein= Salm auch kalt gut <lb/> wann er mit Eßg <lb/> Oel <lb/> Capry und <objectName ref="#pfeffer">Pfeffer</objectName> gegeben wird. </p>
             </div>
         </body>
     </text>

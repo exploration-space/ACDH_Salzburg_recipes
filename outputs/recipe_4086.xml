@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> LAß eine gute <objectName ref="fleischbruehe">Fleischbrühe</objectName> in einem saubern <objectName ref="geschirr">Geschirr</objectName> siedig werden <lb/> wirff klein= gehackt sauberes Ochsen= Marck daran <lb/> laß eine Weil darmit sieden <lb/> bereite zerklopffte Eyer <lb/> mit klein= gehackten Petersil und Muscatnuß <lb/> rührs wohl untereinander <lb/> und gieß gemach in die siedige Supp <lb/> gilbs ein wenig <lb/> und richts über gebähtes Brod an <lb/> jedoch nicht gar zu dick. </p>
+        <p> LAß eine gute <objectName ref="#fleischbruehe">Fleischbrühe</objectName> in einem saubern <objectName ref="#geschirr">Geschirr</objectName> siedig werden <lb/> wirff klein= gehackt sauberes Ochsen= Marck daran <lb/> laß eine Weil darmit sieden <lb/> bereite zerklopffte Eyer <lb/> mit klein= gehackten Petersil und Muscatnuß <lb/> rührs wohl untereinander <lb/> und gieß gemach in die siedige Supp <lb/> gilbs ein wenig <lb/> und richts über gebähtes Brod an <lb/> jedoch nicht gar zu dick. </p>
             </div>
         </body>
     </text>

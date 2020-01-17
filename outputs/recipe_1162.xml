@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb die Piegl<gap/>, wasch sauber auß, <objectName ref="salz">Salz</objectName> ein, <lb/> laß ein wenig druckher<gap/> werden, besträhs<gap/> <lb/> mit Mehl<gap/> Lägs<gap/> in haißen<gap/> Putter<gap/>, laß bayder= <lb/> =Seyts praun werden thue ein handtuoll<gap/> <lb/> Khäppry<gap/> daran, schitte<gap/> <objectName ref="wein">Wein</objectName>, ossig, vnd Fleisch<gap/>= <lb/> =prie daran, vnd ain Sauren<gap/> Rämb<gap/>, laß also <lb/> khochen, wanst es anrichtten<gap/> wilst, so nimb <lb/> ain ayr<gap/> dotter<gap/>, darein strähe<gap/> lemany<gap/> schöllen<gap/> <lb/> darauf, <lb/> </p>
+        <p> Nimb die Piegl<gap/>, wasch sauber auß, <objectName ref="#salz">Salz</objectName> ein, <lb/> laß ein wenig druckher<gap/> werden, besträhs<gap/> <lb/> mit Mehl<gap/> Lägs<gap/> in haißen<gap/> Putter<gap/>, laß bayder= <lb/> =Seyts praun werden thue ein handtuoll<gap/> <lb/> Khäppry<gap/> daran, schitte<gap/> <objectName ref="#wein">Wein</objectName>, ossig, vnd Fleisch<gap/>= <lb/> =prie daran, vnd ain Sauren<gap/> Rämb<gap/>, laß also <lb/> khochen, wanst es anrichtten<gap/> wilst, so nimb <lb/> ain ayr<gap/> dotter<gap/>, darein strähe<gap/> lemany<gap/> schöllen<gap/> <lb/> darauf, <lb/> </p>
             </div>
         </body>
     </text>

@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Du magst auch Foren eynmachen weiß vnd blaw <lb/> wenn sie vorhin abgesotten vnd gequellt seyn <lb/> so nim ein Erbsbrüh <lb/> geuß darüber ein wenig Weineessig vnnd vngeschmältzte <objectName ref="butter">Butter</objectName> <lb/> thu ein wenig eyngebrennt <objectName ref="mehl">Mehl</objectName> darein <lb/> Muscatenblüt <lb/> gantzen <objectName ref="pfeffer">Pfeffer</objectName> <lb/> vnnd ein wenig gestossen <objectName ref="ingwer">Ingwer</objectName> <lb/> schneidt gesaltzen Limonien fein breit <lb/> vnd laß miteinander sieden <lb/> so wirt es gut vnd wolgeschmack. Also kocht man die Foren weiß vnd blaw. </p>
+        <p> Du magst auch Foren eynmachen weiß vnd blaw <lb/> wenn sie vorhin abgesotten vnd gequellt seyn <lb/> so nim ein Erbsbrüh <lb/> geuß darüber ein wenig Weineessig vnnd vngeschmältzte <objectName ref="#butter">Butter</objectName> <lb/> thu ein wenig eyngebrennt <objectName ref="#mehl">Mehl</objectName> darein <lb/> Muscatenblüt <lb/> gantzen <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> vnnd ein wenig gestossen <objectName ref="#ingwer">Ingwer</objectName> <lb/> schneidt gesaltzen Limonien fein breit <lb/> vnd laß miteinander sieden <lb/> so wirt es gut vnd wolgeschmack. Also kocht man die Foren weiß vnd blaw. </p>
             </div>
         </body>
     </text>

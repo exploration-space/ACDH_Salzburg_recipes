@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ain gueten spinäth vnd ain gueten höchtn, <lb/> den spinnät klein, v̈berbren in am ersten, <lb/> darnach thue ain buter vndter den topfen, <lb/> thue.3. ayr darunter, treibs woll ab, <lb/> Nimb ain löfel voll baumöll darunter, <lb/> <objectName ref="salz">Salz</objectName> vnd zugger, wan du in ar wilt richten, <lb/> laß ain stunt bachen. <lb/> </p>
+        <p> Nimb ain gueten spinäth vnd ain gueten höchtn, <lb/> den spinnät klein, v̈berbren in am ersten, <lb/> darnach thue ain buter vndter den topfen, <lb/> thue.3. ayr darunter, treibs woll ab, <lb/> Nimb ain löfel voll baumöll darunter, <lb/> <objectName ref="#salz">Salz</objectName> vnd zugger, wan du in ar wilt richten, <lb/> laß ain stunt bachen. <lb/> </p>
             </div>
         </body>
     </text>

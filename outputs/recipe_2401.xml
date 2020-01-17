@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm die von ihren stielen gereinigte und abgezupffte Weixeln <lb/> giess <objectName ref="wein">Wein</objectName> daran <lb/> zuckere dieselbe wol <lb/> und lasse sie etwas wenigs in <objectName ref="wein">Wein</objectName> sieden <lb/> gieß aber nicht zu viel daran; dann sie geben selbst eine <objectName ref="bruehe">Brühe</objectName> : darnach röste weiß würfflicht= geschnittenes Brod in Schmaltz <lb/> richte die Weixeln darüber <lb/> und streue Trisanet darauf. <gap/> <gap/> Wanns beliebt <lb/> kan man das Brod <lb/> an statt deß röstens <lb/> bähen. </p>
+        <p> NImm die von ihren stielen gereinigte und abgezupffte Weixeln <lb/> giess <objectName ref="#wein">Wein</objectName> daran <lb/> zuckere dieselbe wol <lb/> und lasse sie etwas wenigs in <objectName ref="#wein">Wein</objectName> sieden <lb/> gieß aber nicht zu viel daran; dann sie geben selbst eine <objectName ref="#bruehe">Brühe</objectName> : darnach röste weiß würfflicht= geschnittenes Brod in Schmaltz <lb/> richte die Weixeln darüber <lb/> und streue Trisanet darauf. <gap/> <gap/> Wanns beliebt <lb/> kan man das Brod <lb/> an statt deß röstens <lb/> bähen. </p>
             </div>
         </body>
     </text>

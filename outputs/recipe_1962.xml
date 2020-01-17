@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Hakh <objectName ref="feigen">Feigen</objectName> vnd mandl undereinander, thue ein Wenig <lb/> Weixl salssen vnd Weinbörl daran, Welgs Zwischen den <lb/> henden auf ain melbigen breth, in gestalt der Würst, <lb/> Zieche sie durch einen taig, bachs, vnd gibs auf ainem <lb/> grüenen khraut. <lb/> </p>
+        <p> Hakh <objectName ref="#feigen">Feigen</objectName> vnd mandl undereinander, thue ein Wenig <lb/> Weixl salssen vnd Weinbörl daran, Welgs Zwischen den <lb/> henden auf ain melbigen breth, in gestalt der Würst, <lb/> Zieche sie durch einen taig, bachs, vnd gibs auf ainem <lb/> grüenen khraut. <lb/> </p>
             </div>
         </body>
     </text>

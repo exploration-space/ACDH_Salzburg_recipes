@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim deß besten zimmets 4. loht <lb/> weiß <objectName ref="rein">rein</objectName> ge= schabens Ingwers 2. loht <lb/> Paradeißkörner ein halb loht <lb/> <objectName ref="galgant">Galgant</objectName> <lb/> Negelein <lb/> Muscatennüß <lb/> Cubeben <lb/> Cardomömlein ana ein <objectName ref="quint">quint</objectName>. nim dann gutes zuckers ein halb pfundt <lb/> oder drey viertel <lb/> nach dem du ihn gern süß hast <lb/> gieß mit einer guten <objectName ref="mass">maß</objectName> Weins <lb/> durch einen spitzigen Laugensack <lb/> biß es lau= ter wird. </p>
+        <p> Nim deß besten zimmets 4. loht <lb/> weiß <objectName ref="#rein">rein</objectName> ge= schabens Ingwers 2. loht <lb/> Paradeißkörner ein halb loht <lb/> <objectName ref="#galgant">Galgant</objectName> <lb/> Negelein <lb/> Muscatennüß <lb/> Cubeben <lb/> Cardomömlein ana ein <objectName ref="#quint">quint</objectName>. nim dann gutes zuckers ein halb pfundt <lb/> oder drey viertel <lb/> nach dem du ihn gern süß hast <lb/> gieß mit einer guten <objectName ref="#mass">maß</objectName> Weins <lb/> durch einen spitzigen Laugensack <lb/> biß es lau= ter wird. </p>
             </div>
         </body>
     </text>

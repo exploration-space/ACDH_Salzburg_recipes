@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DA wird das lange Bein gantz herab geschlagen <lb/> der Bug dem obigen gleich gefüllt <lb/> und nach Belieben grün <lb/> braun <lb/> oder weiß zugericht <lb/> auf allerhand <objectName ref="suppe">Suppen</objectName> <lb/> und andere gemischte Speisen </p>
+        <p> DA wird das lange Bein gantz herab geschlagen <lb/> der Bug dem obigen gleich gefüllt <lb/> und nach Belieben grün <lb/> braun <lb/> oder weiß zugericht <lb/> auf allerhand <objectName ref="#suppe">Suppen</objectName> <lb/> und andere gemischte Speisen </p>
             </div>
         </body>
     </text>

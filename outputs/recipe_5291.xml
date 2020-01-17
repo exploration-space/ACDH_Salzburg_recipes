@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) Epffel <lb/> vnnd schneidt sie viertel weiß <lb/> besträw sie mit <objectName ref="mehl">Mehl</objectName> <lb/> vnd wirff sie in heisse <objectName ref="butter">Butter</objectName> <lb/> vnd back sie <lb/> besträw sie mit <objectName ref="zucker">Zucker</objectName> <lb/> vnnd gibs warm auff ein <objectName ref="tisch">Tisch</objectName> <lb/> so nennet mans geschwembt Epffel. </p>
+        <p> Nim ( m ) Epffel <lb/> vnnd schneidt sie viertel weiß <lb/> besträw sie mit <objectName ref="#mehl">Mehl</objectName> <lb/> vnd wirff sie in heisse <objectName ref="#butter">Butter</objectName> <lb/> vnd back sie <lb/> besträw sie mit <objectName ref="#zucker">Zucker</objectName> <lb/> vnnd gibs warm auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> so nennet mans geschwembt Epffel. </p>
             </div>
         </body>
     </text>

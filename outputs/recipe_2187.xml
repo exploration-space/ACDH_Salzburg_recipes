@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb gesoten höchten stükhlein, khlaub die blätlein, thue die gräden <lb/> daruon, thue die blätl in ein reindl, geuß Senff dran, ein bißl <lb/> <objectName ref="wein">Wein</objectName> vnd brüe dran, ein Wenig Puter vnd Pfefferstup, Zukher <lb/> dran, laß fein sieden, so Wirds guet, vnd ist bereith. <lb/> </p>
+        <p> Nimb gesoten höchten stükhlein, khlaub die blätlein, thue die gräden <lb/> daruon, thue die blätl in ein reindl, geuß Senff dran, ein bißl <lb/> <objectName ref="#wein">Wein</objectName> vnd brüe dran, ein Wenig Puter vnd Pfefferstup, Zukher <lb/> dran, laß fein sieden, so Wirds guet, vnd ist bereith. <lb/> </p>
             </div>
         </body>
     </text>

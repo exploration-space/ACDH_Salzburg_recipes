@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> hackh die Weinbör klain, stosß d ( a ) s Con= <lb/><lb/> ( 58v ) =fect darunter, zugger, nimb Roßenwasser, <lb/> streichs aufs oblat, bachs in <objectName ref="schmalz">schmalz</objectName>, mach ain <lb/> wennig ain taiglein, stoß an orthen ain <lb/> wennig darein. <lb/> </p>
+        <p> hackh die Weinbör klain, stosß d ( a ) s Con= <lb/><lb/> ( 58v ) =fect darunter, zugger, nimb Roßenwasser, <lb/> streichs aufs oblat, bachs in <objectName ref="#schmalz">schmalz</objectName>, mach ain <lb/> wennig ain taiglein, stoß an orthen ain <lb/> wennig darein. <lb/> </p>
             </div>
         </body>
     </text>

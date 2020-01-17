@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> MAn nimmt Birn= <objectName ref="latwerge">Latwergen</objectName> <lb/> und zwyrt selbige mit <objectName ref="wein">Wein</objectName> an : dann reibt man weisses Brod <lb/> röstet solches im Schmaltz <lb/> und giesst es hernach in die <objectName ref="latwerge">Latwergen</objectName> : dann thut man <objectName ref="zucker">Zucker</objectName> und Trisanet darein <lb/> und läst es sieden. </p>
+        <p> MAn nimmt Birn= <objectName ref="#latwerge">Latwergen</objectName> <lb/> und zwyrt selbige mit <objectName ref="#wein">Wein</objectName> an : dann reibt man weisses Brod <lb/> röstet solches im Schmaltz <lb/> und giesst es hernach in die <objectName ref="#latwerge">Latwergen</objectName> : dann thut man <objectName ref="#zucker">Zucker</objectName> und Trisanet darein <lb/> und läst es sieden. </p>
             </div>
         </body>
     </text>

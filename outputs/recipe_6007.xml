@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Ungerische braten an häßlen Holtz gebraten. Schneidt von dem Kinterkeul <lb/> oder von dem Ruck mit den Riben <lb/> oder die Braten <lb/> so hinder den <objectName ref="nieren">Nieren</objectName> seindt <lb/> sprengs mit Saltz eyn <lb/> vnd stecks an ein häßlen <objectName ref="spiess">Spieß</objectName> <lb/> henck es sampt dem <objectName ref="spiess">Spieß</objectName> in den <objectName ref="schornstein">Schornstein</objectName> <lb/> wo der meiste <objectName ref="rauch">Rauch</objectName> hingehet <lb/> vnnd nicht grosse Hitze ist <lb/> laß ein stundt oder zwo darinnen hencken <lb/> vnd brats flugs hinweg <lb/> vnd begeuß mit Rindtfeißt vnd wenn sie gebraten seyn <lb/> so zeuch sie ab von dem Holtz <lb/> so seindt sie gut vnd wolgeschmack. </p>
+        <p> Ungerische braten an häßlen Holtz gebraten. Schneidt von dem Kinterkeul <lb/> oder von dem Ruck mit den Riben <lb/> oder die Braten <lb/> so hinder den <objectName ref="#nieren">Nieren</objectName> seindt <lb/> sprengs mit Saltz eyn <lb/> vnd stecks an ein häßlen <objectName ref="#spiess">Spieß</objectName> <lb/> henck es sampt dem <objectName ref="#spiess">Spieß</objectName> in den <objectName ref="#schornstein">Schornstein</objectName> <lb/> wo der meiste <objectName ref="#rauch">Rauch</objectName> hingehet <lb/> vnnd nicht grosse Hitze ist <lb/> laß ein stundt oder zwo darinnen hencken <lb/> vnd brats flugs hinweg <lb/> vnd begeuß mit Rindtfeißt vnd wenn sie gebraten seyn <lb/> so zeuch sie ab von dem Holtz <lb/> so seindt sie gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

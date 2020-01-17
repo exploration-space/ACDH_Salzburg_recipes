@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> BEreite die <objectName ref="fisch">Fisch</objectName> <lb/> wie schon gedacht <lb/> brats in einer Bratpfannen im Oel <lb/> wie die Num. 72. beschriebene Hechtlein; seihe dann das lautere von dem Oel herab <lb/> und gieß zu dem Trüb= zuruck= gebliebenen ein wenig <objectName ref="wein">Wein</objectName> <lb/> drucke Citronen darein <lb/> oder würff das gantze Marck zusamt ein wenig klein= geschnittenen Citronen= Schelffen dazu <lb/> laß mit einander aufsieden <lb/> und richte die Brüh über den <objectName ref="fisch">Fisch</objectName>. </p>
+        <p> BEreite die <objectName ref="#fisch">Fisch</objectName> <lb/> wie schon gedacht <lb/> brats in einer Bratpfannen im Oel <lb/> wie die Num. 72. beschriebene Hechtlein; seihe dann das lautere von dem Oel herab <lb/> und gieß zu dem Trüb= zuruck= gebliebenen ein wenig <objectName ref="#wein">Wein</objectName> <lb/> drucke Citronen darein <lb/> oder würff das gantze Marck zusamt ein wenig klein= geschnittenen Citronen= Schelffen dazu <lb/> laß mit einander aufsieden <lb/> und richte die Brüh über den <objectName ref="#fisch">Fisch</objectName>. </p>
             </div>
         </body>
     </text>

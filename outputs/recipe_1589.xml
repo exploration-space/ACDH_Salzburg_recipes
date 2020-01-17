@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb schönne Sauere Öpfl, schelß sauber, vnd <lb/> Schneits gar schön dün blätlet, vnnd thues in <lb/> ain bökh oder schißl, Nimb ain <objectName ref="vierling">vierling</objectName> zugger <lb/> darzue, gieß.2. Eßlöfl voll <objectName ref="wasser">wasser</objectName> darzue, <lb/> laß sie resten biß d ( a ) s sie gar waich sein, schlags <lb/> durch ain Sibl, Mehr nimb ain viertl zugg ( er ), <lb/> vnd rier es ab, Nimb.8. ayr Clar in ain <lb/><lb/> ( 16r ). Höferl, vnnd brauche die ayr Clar, alß wie <lb/> bey den Weixl Khoch, vnnd bache es gar <lb/> Khiell. <lb/> </p>
+        <p> Nimb schönne Sauere Öpfl, schelß sauber, vnd <lb/> Schneits gar schön dün blätlet, vnnd thues in <lb/> ain bökh oder schißl, Nimb ain <objectName ref="#vierling">vierling</objectName> zugger <lb/> darzue, gieß.2. Eßlöfl voll <objectName ref="#wasser">wasser</objectName> darzue, <lb/> laß sie resten biß d ( a ) s sie gar waich sein, schlags <lb/> durch ain Sibl, Mehr nimb ain viertl zugg ( er ), <lb/> vnd rier es ab, Nimb.8. ayr Clar in ain <lb/><lb/> ( 16r ). Höferl, vnnd brauche die ayr Clar, alß wie <lb/> bey den Weixl Khoch, vnnd bache es gar <lb/> Khiell. <lb/> </p>
             </div>
         </body>
     </text>

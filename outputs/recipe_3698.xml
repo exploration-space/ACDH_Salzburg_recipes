@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ERstlich soll und muß der <objectName ref="fisch">Fisch</objectName> gesäubert <lb/> gewässert <lb/> und auf oben besagte Art im <objectName ref="wasser">Wasser</objectName> abgekocht werden; dann thut man zerhackt Petersilien= <objectName ref="kraut">Kraut</objectName> in ein <objectName ref="haefelein">Häfelein</objectName> <lb/> Milchram und <objectName ref="butter">Butter</objectName> dazu <lb/> giesst ein wenig Fleischbrüh daran <lb/> lästs also aufsieden <lb/> würtzt solches wol mit Ingber <lb/> und richtet es über den <objectName ref="fisch">Fisch</objectName>. </p>
+        <p> ERstlich soll und muß der <objectName ref="#fisch">Fisch</objectName> gesäubert <lb/> gewässert <lb/> und auf oben besagte Art im <objectName ref="#wasser">Wasser</objectName> abgekocht werden; dann thut man zerhackt Petersilien= <objectName ref="#kraut">Kraut</objectName> in ein <objectName ref="#haefelein">Häfelein</objectName> <lb/> Milchram und <objectName ref="#butter">Butter</objectName> dazu <lb/> giesst ein wenig Fleischbrüh daran <lb/> lästs also aufsieden <lb/> würtzt solches wol mit Ingber <lb/> und richtet es über den <objectName ref="#fisch">Fisch</objectName>. </p>
             </div>
         </body>
     </text>

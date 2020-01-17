@@ -174,7 +174,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Take a Pound and an Half of Treacle, two Eggs beaten, a Pound of melted <objectName ref="butter">Butter</objectName>, Half a Pound of brown Sugar, an Ounce of beaten Ginger, Cloves, Mace, Coriander Seeds and Carraway Seeds, of each Half an Ounce; mix all these together with as much Flour as will knead it into a Paste; roll it out and cut it into what Shape you please. Bake it in a quick Oven on Tin Plates. A little Time will bake it. </p>
+        <p> Take a Pound and an Half of Treacle, two Eggs beaten, a Pound of melted <objectName ref="#butter">Butter</objectName>, Half a Pound of brown Sugar, an Ounce of beaten Ginger, Cloves, Mace, Coriander Seeds and Carraway Seeds, of each Half an Ounce; mix all these together with as much Flour as will knead it into a Paste; roll it out and cut it into what Shape you please. Bake it in a quick Oven on Tin Plates. A little Time will bake it. </p>
             </div>
         </body>
     </text>

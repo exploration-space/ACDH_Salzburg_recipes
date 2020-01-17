@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Kälber= Schwein= und Schaaf= <objectName ref="zunge">Zungen</objectName> müssen gesotten <lb/> und dann auf unterschiedliche Weiß in süsser Wein= <objectName ref="bruehe">Brühe</objectName> <lb/> Kren <lb/> Lemoni <lb/> <objectName ref="knoblauch">Knoblauch</objectName> <lb/> <objectName ref="sardellen">Sardellen</objectName> <lb/> gelb in Zwibel= oder Wacholderbeer= <objectName ref="bruehe">Brühe</objectName> <lb/> in Rago <lb/> oder Fricasse, zugericht werden. </p>
+        <p> DIe Kälber= Schwein= und Schaaf= <objectName ref="#zunge">Zungen</objectName> müssen gesotten <lb/> und dann auf unterschiedliche Weiß in süsser Wein= <objectName ref="#bruehe">Brühe</objectName> <lb/> Kren <lb/> Lemoni <lb/> <objectName ref="#knoblauch">Knoblauch</objectName> <lb/> <objectName ref="#sardellen">Sardellen</objectName> <lb/> gelb in Zwibel= oder Wacholderbeer= <objectName ref="#bruehe">Brühe</objectName> <lb/> in Rago <lb/> oder Fricasse, zugericht werden. </p>
             </div>
         </body>
     </text>

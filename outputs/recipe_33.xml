@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Puze den Copaun sauber, vnd vnder= <lb/> Greiffe<gap/> ihne, nimb schnekhen, Maurachen, <lb/> vnnd Prisl<gap/>, siede<gap/> alles besonders, <lb/> Puze die schneckhen sauber, vnnd <lb/> lass<gap/> die <objectName ref="krebse">Krebsen</objectName> Aus, reste<gap/> hernach <lb/> die Maurachen in <objectName ref="butter">butter</objectName>, vnd das <lb/> brisl<gap/>, Zu stickhel<gap/> Geteillet, stöckh <lb/> ein brockhen<gap/> <objectName ref="butter">butter</objectName> darein, fille<gap/> den <lb/> Copaun darmit, salze aber Zuuor <lb/> die fill<gap/>, vnnd Gewürze<gap/> es, riehs<gap/> fein <lb/> vnndereinander, brade<gap/> den Copaun <lb/> schön, oder Kanst ihne auch in einer <lb/> <objectName ref="fleisch">Fleisch</objectName> brie<gap/> sieden<gap/>. <lb/> </p>
+        <p> Puze den Copaun sauber, vnd vnder= <lb/> Greiffe<gap/> ihne, nimb schnekhen, Maurachen, <lb/> vnnd Prisl<gap/>, siede<gap/> alles besonders, <lb/> Puze die schneckhen sauber, vnnd <lb/> lass<gap/> die <objectName ref="#krebse">Krebsen</objectName> Aus, reste<gap/> hernach <lb/> die Maurachen in <objectName ref="#butter">butter</objectName>, vnd das <lb/> brisl<gap/>, Zu stickhel<gap/> Geteillet, stöckh <lb/> ein brockhen<gap/> <objectName ref="#butter">butter</objectName> darein, fille<gap/> den <lb/> Copaun darmit, salze aber Zuuor <lb/> die fill<gap/>, vnnd Gewürze<gap/> es, riehs<gap/> fein <lb/> vnndereinander, brade<gap/> den Copaun <lb/> schön, oder Kanst ihne auch in einer <lb/> <objectName ref="#fleisch">Fleisch</objectName> brie<gap/> sieden<gap/>. <lb/> </p>
             </div>
         </body>
     </text>

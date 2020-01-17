@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Löse die <objectName ref="datteln">Datteln</objectName> von dem Kern <lb/> hacks klein <lb/> nimm sie <lb/> röste sie mit geriebner Semmel in <objectName ref="butter">Butter</objectName> <lb/> kochs mit gutem <objectName ref="wein">Wein</objectName> <lb/> <objectName ref="zucker">Zucker</objectName> und Zimmet <lb/> gibs in rechter Dicken <lb/> mit <objectName ref="zucker">Zucker</objectName> bestreuter. </p>
+        <p> Löse die <objectName ref="#datteln">Datteln</objectName> von dem Kern <lb/> hacks klein <lb/> nimm sie <lb/> röste sie mit geriebner Semmel in <objectName ref="#butter">Butter</objectName> <lb/> kochs mit gutem <objectName ref="#wein">Wein</objectName> <lb/> <objectName ref="#zucker">Zucker</objectName> und Zimmet <lb/> gibs in rechter Dicken <lb/> mit <objectName ref="#zucker">Zucker</objectName> bestreuter. </p>
             </div>
         </body>
     </text>

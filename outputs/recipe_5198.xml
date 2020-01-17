@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> SChähle süsse Aepfel <lb/> und schneide sie dinn <lb/> gieß ein wenig <objectName ref="wein">Wein</objectName> daran <lb/> und laß so lang sieden <lb/> biß sie weich werden; hernach reib oder rühre sie glatt ab <lb/> röste gerieben weiß Brod im Schmaltz <lb/> und mische es darunter : alsdann zuckers und würtze es mit Trisanet <lb/> und laß noch ein wenig sieden. </p>
+        <p> SChähle süsse Aepfel <lb/> und schneide sie dinn <lb/> gieß ein wenig <objectName ref="#wein">Wein</objectName> daran <lb/> und laß so lang sieden <lb/> biß sie weich werden; hernach reib oder rühre sie glatt ab <lb/> röste gerieben weiß Brod im Schmaltz <lb/> und mische es darunter : alsdann zuckers und würtze es mit Trisanet <lb/> und laß noch ein wenig sieden. </p>
             </div>
         </body>
     </text>

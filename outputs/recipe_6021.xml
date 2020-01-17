@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Brüßlein werden klein geschnitten <lb/> gewürzt <lb/> mit wenig klein= gehackten Zwibel und Meel <lb/> in Krebs= <objectName ref="butter">Butter</objectName> geröst <lb/> mit süssen Obern oder Ram <lb/> mit Krebs= Schweifflein geziert <lb/> und auf ein kleine <objectName ref="schuessel">Schüssel</objectName> gelegt. </p>
+        <p> DIe Brüßlein werden klein geschnitten <lb/> gewürzt <lb/> mit wenig klein= gehackten Zwibel und Meel <lb/> in Krebs= <objectName ref="#butter">Butter</objectName> geröst <lb/> mit süssen Obern oder Ram <lb/> mit Krebs= Schweifflein geziert <lb/> und auf ein kleine <objectName ref="#schuessel">Schüssel</objectName> gelegt. </p>
             </div>
         </body>
     </text>

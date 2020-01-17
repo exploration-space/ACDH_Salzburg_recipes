@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Auf ain Schißl ¼. lb. Mandl klain gestossen, <lb/> in gueten Siessen Millich Rämb, vnd durch <lb/> ain Härrenes Süb geschlagen, in <objectName ref="durchschlag">durchschlag</objectName> <lb/> miessen vndter den Millich Rämb vnd Mandl <lb/> 8. ganze Ayr geschlagen, darnach in ain Sau= <lb/> =bers glaßiertes höfen gethan, denselben in ainen <lb/> besondern mit <objectName ref="wasser">wasser</objectName> angefilten <objectName ref="hafen">hafen</objectName> ge= <lb/> =sezt, vnd biß der Zeug dickh wiert, darnach <lb/><lb/> ( 47r ) Sieden lassen, vnnd es mues kain <objectName ref="wasser">wasser</objectName> dar= <lb/> =zue khomben. <lb/> </p>
+        <p> Auf ain Schißl ¼. lb. Mandl klain gestossen, <lb/> in gueten Siessen Millich Rämb, vnd durch <lb/> ain Härrenes Süb geschlagen, in <objectName ref="#durchschlag">durchschlag</objectName> <lb/> miessen vndter den Millich Rämb vnd Mandl <lb/> 8. ganze Ayr geschlagen, darnach in ain Sau= <lb/> =bers glaßiertes höfen gethan, denselben in ainen <lb/> besondern mit <objectName ref="#wasser">wasser</objectName> angefilten <objectName ref="#hafen">hafen</objectName> ge= <lb/> =sezt, vnd biß der Zeug dickh wiert, darnach <lb/><lb/> ( 47r ) Sieden lassen, vnnd es mues kain <objectName ref="#wasser">wasser</objectName> dar= <lb/> =zue khomben. <lb/> </p>
             </div>
         </body>
     </text>

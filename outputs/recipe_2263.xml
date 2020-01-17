@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein Semblschniten, die Rindten daruon, vnd mach auß der Sembl <lb/> gleichsamb Strizl, vnd Zerkhlopffts aÿr vnd <objectName ref="salz">Salz</objectName>, Waikh die Sembl drein, <lb/> ein stundt, das die Aÿr das <objectName ref="brot">brot</objectName> Woll durchgehen, dan so bachs fein <lb/> langsamb, so gehn sie auf, vnd Werden rogl vnd guet. <lb/> </p>
+        <p> Nimb ein Semblschniten, die Rindten daruon, vnd mach auß der Sembl <lb/> gleichsamb Strizl, vnd Zerkhlopffts aÿr vnd <objectName ref="#salz">Salz</objectName>, Waikh die Sembl drein, <lb/> ein stundt, das die Aÿr das <objectName ref="#brot">brot</objectName> Woll durchgehen, dan so bachs fein <lb/> langsamb, so gehn sie auf, vnd Werden rogl vnd guet. <lb/> </p>
             </div>
         </body>
     </text>

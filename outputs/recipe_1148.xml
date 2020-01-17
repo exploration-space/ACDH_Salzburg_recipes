@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb ein wenig butter<gap/> in ein Pfan<gap/>, prene<gap/> <lb/>.2. löffl voll Mell<gap/> ein, ganz braun, vnd khlein <lb/> geschnitnen<gap/> zwifl<gap/> darein, laß ganz braun <lb/> werden, thue ein handt<gap/> voll khappri<gap/> darein, <lb/> schitte<gap/> ein wenig <objectName ref="wein">wein</objectName> vnd Esig, auch fleisch<gap/> <lb/> <objectName ref="suppe">Suppen</objectName> daran, gewierz<gap/>, löge<gap/> ein Stückhl<gap/> <lb/> Putter<gap/> darein, laß khochen oder sieden<gap/>. nimb <lb/><lb/> ( 8r ) [ Anm. : Das Rezept bricht bei ‚nimb ‘ ab und bleibt unvollständig. ] </p>
+        <p> Nimb ein wenig butter<gap/> in ein Pfan<gap/>, prene<gap/> <lb/>.2. löffl voll Mell<gap/> ein, ganz braun, vnd khlein <lb/> geschnitnen<gap/> zwifl<gap/> darein, laß ganz braun <lb/> werden, thue ein handt<gap/> voll khappri<gap/> darein, <lb/> schitte<gap/> ein wenig <objectName ref="#wein">wein</objectName> vnd Esig, auch fleisch<gap/> <lb/> <objectName ref="#suppe">Suppen</objectName> daran, gewierz<gap/>, löge<gap/> ein Stückhl<gap/> <lb/> Putter<gap/> darein, laß khochen oder sieden<gap/>. nimb <lb/><lb/> ( 8r ) [ Anm. : Das Rezept bricht bei ‚nimb ‘ ab und bleibt unvollständig. ] </p>
             </div>
         </body>
     </text>

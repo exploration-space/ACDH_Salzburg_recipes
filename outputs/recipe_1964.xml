@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Thue die Rindten oben vnd unden daruon, hols auß, vnd rösts im <objectName ref="schmalz">Schmalz</objectName>, mueß aber mit einem Spiß auffspreizen, <lb/> siede hernach die Weixl in ainem <objectName ref="wein">Wein</objectName>, stosß zu halben <lb/> theil in einem merser, rühr ein geribne Sembl drunder, <lb/> vnd fühls also in die Sembl, vnd machs mit seinem <lb/> blätl Zue, legs in ein schißl, giesse das Süppl oder hönig <lb/> darinen die Weixl gsothen, aber Woll mit Zukher <lb/> oder hönig vermengt darüber, sezs hernach auf ain <lb/> gluet, vnd stürz Zue. <lb/> </p>
+        <p> Thue die Rindten oben vnd unden daruon, hols auß, vnd rösts im <objectName ref="#schmalz">Schmalz</objectName>, mueß aber mit einem Spiß auffspreizen, <lb/> siede hernach die Weixl in ainem <objectName ref="#wein">Wein</objectName>, stosß zu halben <lb/> theil in einem merser, rühr ein geribne Sembl drunder, <lb/> vnd fühls also in die Sembl, vnd machs mit seinem <lb/> blätl Zue, legs in ein schißl, giesse das Süppl oder hönig <lb/> darinen die Weixl gsothen, aber Woll mit Zukher <lb/> oder hönig vermengt darüber, sezs hernach auf ain <lb/> gluet, vnd stürz Zue. <lb/> </p>
             </div>
         </body>
     </text>

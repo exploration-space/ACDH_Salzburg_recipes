@@ -180,7 +180,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb aÿr, voglspeiß, die laß gor Woll außtrukhen, vnd guete <lb/> khreitlein, Pertram, Maran, ein wenig Piesen, das hakhe <lb/> gar khlain, trukhe den Safft darauß, das das gehakht khraut <lb/> ganz trukhen Wird, nimb dan die voglspeiß, in ein Merser, <lb/> stosß Woll, schlags Wider in die aÿr. ein wonig süssen Rämb, <lb/> ein Wenig geribne Sembl, Zukher, Weinpörl, thue das gehakhte <lb/> khraut drein, rührs alles undereinander, vnd stups, mach ein <lb/> marbes taigl von Puter vnd <objectName ref="wasser">Wasser</objectName>, richts in ein dortenpfann, <lb/> geuß die fühl drein, braucht khein lukh, mach gleich rämbl <lb/> drauf, mit ein rädl abgerädlt. <lb/> </p>
+        <p> Nimb aÿr, voglspeiß, die laß gor Woll außtrukhen, vnd guete <lb/> khreitlein, Pertram, Maran, ein wenig Piesen, das hakhe <lb/> gar khlain, trukhe den Safft darauß, das das gehakht khraut <lb/> ganz trukhen Wird, nimb dan die voglspeiß, in ein Merser, <lb/> stosß Woll, schlags Wider in die aÿr. ein wonig süssen Rämb, <lb/> ein Wenig geribne Sembl, Zukher, Weinpörl, thue das gehakhte <lb/> khraut drein, rührs alles undereinander, vnd stups, mach ein <lb/> marbes taigl von Puter vnd <objectName ref="#wasser">Wasser</objectName>, richts in ein dortenpfann, <lb/> geuß die fühl drein, braucht khein lukh, mach gleich rämbl <lb/> drauf, mit ein rädl abgerädlt. <lb/> </p>
             </div>
         </body>
     </text>

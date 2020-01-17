@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> VOn einem grossen Hechten wird das Brät zu Flecklein geschnitten <lb/> geklopfft <lb/> gesaltzen <lb/> gewürtzt <lb/> und in <objectName ref="butter">Butter</objectName> mit kleingehackten Zwibeln geröstet <lb/> hernach mit Lemoni= Safft <lb/> <objectName ref="wein">Wein</objectName> <lb/> oder mit wenig Eßig recent gemacht <lb/> dises dienet vor eine Speiß <lb/> oder auch zum Regalieren. </p>
+        <p> VOn einem grossen Hechten wird das Brät zu Flecklein geschnitten <lb/> geklopfft <lb/> gesaltzen <lb/> gewürtzt <lb/> und in <objectName ref="#butter">Butter</objectName> mit kleingehackten Zwibeln geröstet <lb/> hernach mit Lemoni= Safft <lb/> <objectName ref="#wein">Wein</objectName> <lb/> oder mit wenig Eßig recent gemacht <lb/> dises dienet vor eine Speiß <lb/> oder auch zum Regalieren. </p>
             </div>
         </body>
     </text>

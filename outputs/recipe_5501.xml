@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) gesottene <objectName ref="gerste">Gersten</objectName> <lb/> die sauber geklaubt ist <lb/> setz sie zu mit einer Erbeßbrüh <lb/> auch mit frischer vnzerlassener <objectName ref="butter">Butter</objectName> <lb/> vnnd schaw versaltz es nicht. Vnd wenn du es schier wilt anrichten <lb/> so rößt grüne wolschmeckende <objectName ref="kraeuter">Kräuter</objectName> <lb/> die klein gehackt seyn <lb/> thu sie mit der <objectName ref="butter">Butter</objectName> in die <objectName ref="suppe">Suppen</objectName> <lb/> so wirt sie gut vnd wolgeschmack. </p>
+        <p> Nim ( m ) gesottene <objectName ref="#gerste">Gersten</objectName> <lb/> die sauber geklaubt ist <lb/> setz sie zu mit einer Erbeßbrüh <lb/> auch mit frischer vnzerlassener <objectName ref="#butter">Butter</objectName> <lb/> vnnd schaw versaltz es nicht. Vnd wenn du es schier wilt anrichten <lb/> so rößt grüne wolschmeckende <objectName ref="#kraeuter">Kräuter</objectName> <lb/> die klein gehackt seyn <lb/> thu sie mit der <objectName ref="#butter">Butter</objectName> in die <objectName ref="#suppe">Suppen</objectName> <lb/> so wirt sie gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> GIesset an wohl= zeitige Weinbeere ein gut theil süssen rothen <objectName ref="wein">Wein</objectName> <lb/> und lassts wohl darinnen sieden <lb/> druckts durch ein reines Tüchlein; schählet die Aepffel fein sauber <lb/> stechet den Butzen heraus <lb/> und giesset den mit <objectName ref="weinbeeren">Weinbeeren</objectName> abgesottenen <objectName ref="wein">Wein</objectName> darüber : Wann sie ein wenig übersotten seyn <lb/> nehmet sie heraus <lb/> und füllets <lb/> an statt deß Butzens <lb/> mit eingemachten Citronen= Schelffen; lassets also ferner dünsten <lb/> thut aber gar viel <objectName ref="zucker">Zucker</objectName> daran <lb/> sonst gestehet die Brüh nicht. <gap/><gap/><gap/> Die <objectName ref="quitten">Quitten</objectName> kan man auch auf diese Weise dünsten. </p>
+        <p> GIesset an wohl= zeitige Weinbeere ein gut theil süssen rothen <objectName ref="#wein">Wein</objectName> <lb/> und lassts wohl darinnen sieden <lb/> druckts durch ein reines Tüchlein; schählet die Aepffel fein sauber <lb/> stechet den Butzen heraus <lb/> und giesset den mit <objectName ref="#weinbeeren">Weinbeeren</objectName> abgesottenen <objectName ref="#wein">Wein</objectName> darüber : Wann sie ein wenig übersotten seyn <lb/> nehmet sie heraus <lb/> und füllets <lb/> an statt deß Butzens <lb/> mit eingemachten Citronen= Schelffen; lassets also ferner dünsten <lb/> thut aber gar viel <objectName ref="#zucker">Zucker</objectName> daran <lb/> sonst gestehet die Brüh nicht. <gap/><gap/><gap/> Die <objectName ref="#quitten">Quitten</objectName> kan man auch auf diese Weise dünsten. </p>
             </div>
         </body>
     </text>

@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> FAsolen <lb/> oder dürre Römische <objectName ref="bohnen">Bohnen</objectName> <lb/> werden in allweg mit <objectName ref="speck">Speck</objectName> <lb/> <objectName ref="butter">Butter</objectName> und Oel <lb/> den andern <objectName ref="erbsen">Erbsen</objectName> gleich verkocht. </p>
+        <p> FAsolen <lb/> oder dürre Römische <objectName ref="#bohnen">Bohnen</objectName> <lb/> werden in allweg mit <objectName ref="#speck">Speck</objectName> <lb/> <objectName ref="#butter">Butter</objectName> und Oel <lb/> den andern <objectName ref="#erbsen">Erbsen</objectName> gleich verkocht. </p>
             </div>
         </body>
     </text>

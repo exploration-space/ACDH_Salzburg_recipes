@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe Haßel <lb/> oder Reb= Hünlein seynd gut gespickter <lb/> oder mit <objectName ref="speck">Speck</objectName> überlegter im Safft zu braten; trucken mit fäumigen <objectName ref="butter">Butter</objectName> <lb/> oder einer Austern= <objectName ref="bruehe">Brühe</objectName> zu geben. </p>
+        <p> DIe Haßel <lb/> oder Reb= Hünlein seynd gut gespickter <lb/> oder mit <objectName ref="#speck">Speck</objectName> überlegter im Safft zu braten; trucken mit fäumigen <objectName ref="#butter">Butter</objectName> <lb/> oder einer Austern= <objectName ref="#bruehe">Brühe</objectName> zu geben. </p>
             </div>
         </body>
     </text>

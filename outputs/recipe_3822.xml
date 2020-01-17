@@ -175,7 +175,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> PRaxen Eingereisch <lb/> oder Bäuschlein <lb/> in ordinarem Fisch= Sud überbrennt <lb/> die Därm geschürfft <lb/> ausgebutzt <lb/> und mit den andern Bäuschlein <lb/> und klein gestoßne <objectName ref="mandeln">Mandeln</objectName> <lb/> Semmel= Brosen <lb/> klein= gehackten Petersil <lb/> und andern schmeckenden Kräutlein und Gewürtz <lb/> mit wenigen Lemoni= Schelffen alles klein gehackt <lb/> in <objectName ref="butter">Butter</objectName> geröst <lb/> gesaltzen <lb/> und mit Lemoni= Safft recent gemacht <lb/> gibt ein gute Füll in eben diese Brat= <objectName ref="fisch">Fisch</objectName>. </p>
+        <p> PRaxen Eingereisch <lb/> oder Bäuschlein <lb/> in ordinarem Fisch= Sud überbrennt <lb/> die Därm geschürfft <lb/> ausgebutzt <lb/> und mit den andern Bäuschlein <lb/> und klein gestoßne <objectName ref="#mandeln">Mandeln</objectName> <lb/> Semmel= Brosen <lb/> klein= gehackten Petersil <lb/> und andern schmeckenden Kräutlein und Gewürtz <lb/> mit wenigen Lemoni= Schelffen alles klein gehackt <lb/> in <objectName ref="#butter">Butter</objectName> geröst <lb/> gesaltzen <lb/> und mit Lemoni= Safft recent gemacht <lb/> gibt ein gute Füll in eben diese Brat= <objectName ref="#fisch">Fisch</objectName>. </p>
             </div>
         </body>
     </text>

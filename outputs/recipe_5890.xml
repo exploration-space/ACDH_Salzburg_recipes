@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Kanst auch auß der <objectName ref="brust">Brust</objectName> <objectName ref="knoedel">Knödel</objectName> machen <lb/> fein weiß. Nim ( m ) von einem <objectName ref="kalb">Kalb</objectName> das <objectName ref="fleisch">Fleisch</objectName> <lb/> das ist am besten darzu <lb/> ist auch wolgeschmack vnnd lieblich. </p>
+        <p> Kanst auch auß der <objectName ref="#brust">Brust</objectName> <objectName ref="#knoedel">Knödel</objectName> machen <lb/> fein weiß. Nim ( m ) von einem <objectName ref="#kalb">Kalb</objectName> das <objectName ref="#fleisch">Fleisch</objectName> <lb/> das ist am besten darzu <lb/> ist auch wolgeschmack vnnd lieblich. </p>
             </div>
         </body>
     </text>

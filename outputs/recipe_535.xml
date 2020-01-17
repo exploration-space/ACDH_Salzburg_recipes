@@ -170,7 +170,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Ein schmalz<gap/> woll abgeriehrt<gap/> sies obers<gap/> <lb/> drunder vnder den dopfen 2 oder 3 air<gap/> alles <lb/> woll abgeriehrt sahe<gap/> mell drein machs nit <lb/> Zu föst. machs langlet<gap/> aus thue in <lb/> ein weidte Rein<gap/> <objectName ref="butter">butter</objectName> leg die nudl<gap/> <lb/><lb/> ( Z-U II ve 14 ) drein gieb vnder <gap/> vnd yber sich<gap/> <objectName ref="glut">glut</objectName> <lb/> bachs<gap/> aus so sei sie Recht <lb/> </p>
+        <p> Ein schmalz<gap/> woll abgeriehrt<gap/> sies obers<gap/> <lb/> drunder vnder den dopfen 2 oder 3 air<gap/> alles <lb/> woll abgeriehrt sahe<gap/> mell drein machs nit <lb/> Zu föst. machs langlet<gap/> aus thue in <lb/> ein weidte Rein<gap/> <objectName ref="#butter">butter</objectName> leg die nudl<gap/> <lb/><lb/> ( Z-U II ve 14 ) drein gieb vnder <gap/> vnd yber sich<gap/> <objectName ref="#glut">glut</objectName> <lb/> bachs<gap/> aus so sei sie Recht <lb/> </p>
             </div>
         </body>
     </text>

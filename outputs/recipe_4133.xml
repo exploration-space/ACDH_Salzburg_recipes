@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> WAnn sie gebutzt; können sie gleich andern Füssen weich gesotten; zerlegt <lb/> sauber ausgebutzt <lb/> gebachen <lb/> in süsser <lb/> oder sauerer <objectName ref="bruehe">Brühe</objectName> eingemacht <lb/> fricassirt <lb/> in allerhand <objectName ref="sardellen">Sardellen</objectName> <lb/> Lemoni <lb/> und unterschiedlichen Zwibel= <objectName ref="bruehe">Brühen</objectName> eingemacht und verkochet werden; aber sie werden selten gebutzt <lb/> wegen wenigkeit des Fleisches. </p>
+        <p> WAnn sie gebutzt; können sie gleich andern Füssen weich gesotten; zerlegt <lb/> sauber ausgebutzt <lb/> gebachen <lb/> in süsser <lb/> oder sauerer <objectName ref="#bruehe">Brühe</objectName> eingemacht <lb/> fricassirt <lb/> in allerhand <objectName ref="#sardellen">Sardellen</objectName> <lb/> Lemoni <lb/> und unterschiedlichen Zwibel= <objectName ref="#bruehe">Brühen</objectName> eingemacht und verkochet werden; aber sie werden selten gebutzt <lb/> wegen wenigkeit des Fleisches. </p>
             </div>
         </body>
     </text>

@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Item <lb/> wiltu dem <objectName ref="wein">Wein</objectName> das geren wehren <lb/> es sey am Geleger <lb/> oder am führen <lb/> so wirff ein wenig Käß darein. </p>
+        <p> Item <lb/> wiltu dem <objectName ref="#wein">Wein</objectName> das geren wehren <lb/> es sey am Geleger <lb/> oder am führen <lb/> so wirff ein wenig Käß darein. </p>
             </div>
         </body>
     </text>

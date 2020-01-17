@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> ER wird mit <objectName ref="wein">Wein</objectName> <lb/> oder Eßig <lb/> Oel und Zwibel <lb/> oder Lemoni <lb/> ein wenig gelb eingebrennt <lb/> ein Sträußlein <objectName ref="rosmarin">Rosmarin</objectName> <lb/> und Lorbeer= Blättlein daran gethan <lb/> laß es aufsieden <lb/> richt den <objectName ref="hecht">Hecht</objectName> auf die <objectName ref="schuessel">Schüssel</objectName> <lb/> und die <objectName ref="bruehe">Brühe</objectName> darüber; <objectName ref="lorbeer-2">Lorbeer</objectName> und <objectName ref="rosmarin">Rosmarin</objectName> thue hernach hinweg <lb/> und mit frisch dergleichen regaliert. </p>
+        <p> ER wird mit <objectName ref="#wein">Wein</objectName> <lb/> oder Eßig <lb/> Oel und Zwibel <lb/> oder Lemoni <lb/> ein wenig gelb eingebrennt <lb/> ein Sträußlein <objectName ref="#rosmarin">Rosmarin</objectName> <lb/> und Lorbeer= Blättlein daran gethan <lb/> laß es aufsieden <lb/> richt den <objectName ref="#hecht">Hecht</objectName> auf die <objectName ref="#schuessel">Schüssel</objectName> <lb/> und die <objectName ref="#bruehe">Brühe</objectName> darüber; <objectName ref="#lorbeer-2">Lorbeer</objectName> und <objectName ref="#rosmarin">Rosmarin</objectName> thue hernach hinweg <lb/> und mit frisch dergleichen regaliert. </p>
             </div>
         </body>
     </text>

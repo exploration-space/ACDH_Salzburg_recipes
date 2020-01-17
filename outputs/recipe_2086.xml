@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Zeuch den Zwëspen die haut ob, thue die khern herauß, fühl <lb/> Mandlkhern drein, legs auf ein schißl, thue Weinpör vnd Zukher, <lb/> auch Zimetstup droin, gouß ein <objectName ref="wein">Wein</objectName> dran, sez auf ein <lb/> gluet, dekhs mit einer schißl Zue, laß Sieden, mach darnach <lb/> ein taigl Wie Zu anderen dorten, Sez Zu einem dorten auf, <lb/> vnd thue die Zwëspen drein, mach ein außgeschnitnes blat <lb/> drüber, strä ein Zukher drauf, bachs darnach in einer Pfan, <lb/> so ist er bereith. <lb/> </p>
+        <p> Zeuch den Zwëspen die haut ob, thue die khern herauß, fühl <lb/> Mandlkhern drein, legs auf ein schißl, thue Weinpör vnd Zukher, <lb/> auch Zimetstup droin, gouß ein <objectName ref="#wein">Wein</objectName> dran, sez auf ein <lb/> gluet, dekhs mit einer schißl Zue, laß Sieden, mach darnach <lb/> ein taigl Wie Zu anderen dorten, Sez Zu einem dorten auf, <lb/> vnd thue die Zwëspen drein, mach ein außgeschnitnes blat <lb/> drüber, strä ein Zukher drauf, bachs darnach in einer Pfan, <lb/> so ist er bereith. <lb/> </p>
             </div>
         </body>
     </text>

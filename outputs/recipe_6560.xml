@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Vnnd auch zum eyndämpffen <lb/> oder zum fricusiern. Vnd von dem Pleßlein ist nicht gut viel Speise zu zurichten <lb/> den ( n ) es schmeckt sehr nach den Fischen <lb/> Geröricht vn ( d ) stinckenden <objectName ref="wasser">Wassern</objectName>. </p>
+        <p> Vnnd auch zum eyndämpffen <lb/> oder zum fricusiern. Vnd von dem Pleßlein ist nicht gut viel Speise zu zurichten <lb/> den ( n ) es schmeckt sehr nach den Fischen <lb/> Geröricht vn ( d ) stinckenden <objectName ref="#wasser">Wassern</objectName>. </p>
             </div>
         </body>
     </text>

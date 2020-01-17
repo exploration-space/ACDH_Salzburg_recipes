@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schneidt die wohlzeitige Beer von einander <lb/> löse die Kern sammt dem Rauchen sauber heraus <lb/> dann sieds in wenig <objectName ref="wein">Wein</objectName> und viel <objectName ref="zucker">Zucker</objectName> <lb/> und mit gantzen Zimmet <lb/> laß zimlich einsieden <lb/> und wieder abkühlen <lb/> und gibs in die Dorten. Hier ist hauptsächlich zu mercken <lb/> daß dergleichen saure Frücht nicht in blossen Kupffer <lb/> sondern in verzinnten Kupffer <lb/> oder Erden= <objectName ref="geschirr">Geschirr</objectName> gesotten <lb/> und zugericht werden; dann was saur von seiner Eigenschafft <lb/> oder also zugericht <lb/> und in Kupffer gesotten <lb/> zieht auch den üblen Geschmack an sich <lb/> und verderbt den <objectName ref="magen">Magen</objectName>. </p>
+        <p> Schneidt die wohlzeitige Beer von einander <lb/> löse die Kern sammt dem Rauchen sauber heraus <lb/> dann sieds in wenig <objectName ref="#wein">Wein</objectName> und viel <objectName ref="#zucker">Zucker</objectName> <lb/> und mit gantzen Zimmet <lb/> laß zimlich einsieden <lb/> und wieder abkühlen <lb/> und gibs in die Dorten. Hier ist hauptsächlich zu mercken <lb/> daß dergleichen saure Frücht nicht in blossen Kupffer <lb/> sondern in verzinnten Kupffer <lb/> oder Erden= <objectName ref="#geschirr">Geschirr</objectName> gesotten <lb/> und zugericht werden; dann was saur von seiner Eigenschafft <lb/> oder also zugericht <lb/> und in Kupffer gesotten <lb/> zieht auch den üblen Geschmack an sich <lb/> und verderbt den <objectName ref="#magen">Magen</objectName>. </p>
             </div>
         </body>
     </text>

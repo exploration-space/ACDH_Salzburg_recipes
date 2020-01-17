@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ein Salm <lb/> vnd schneidt jn zu kleinen stücken <lb/> leg jn in ein <objectName ref="fischkessel">Fischkessel</objectName> <lb/> vnd seig ein gute Erbsbrüh darauff <lb/> vnd ein wenig eyngenbrennt <objectName ref="mehl">Mehl</objectName> vnd Muscatenblüt <lb/> vnnd laß darmit sieden <lb/> wirff die Agrastkern darein mit frischer vngeschmältzter <objectName ref="butter">Butter</objectName> <lb/> vnnd laß darmit ein starcken Sudt auffthun <lb/> so wirdt es gut vnd wolgeschmack. Vnd alle Erbsbrühen <lb/> da man <objectName ref="essig">Essig</objectName> eyngeußt <lb/> werden weiß <lb/> als wenn man ein <objectName ref="milch">Milch</objectName> darein geußt <lb/> so kan man sie zu allerley Fischwerck brauchen. </p>
+        <p> Nim ein Salm <lb/> vnd schneidt jn zu kleinen stücken <lb/> leg jn in ein <objectName ref="#fischkessel">Fischkessel</objectName> <lb/> vnd seig ein gute Erbsbrüh darauff <lb/> vnd ein wenig eyngenbrennt <objectName ref="#mehl">Mehl</objectName> vnd Muscatenblüt <lb/> vnnd laß darmit sieden <lb/> wirff die Agrastkern darein mit frischer vngeschmältzter <objectName ref="#butter">Butter</objectName> <lb/> vnnd laß darmit ein starcken Sudt auffthun <lb/> so wirdt es gut vnd wolgeschmack. Vnd alle Erbsbrühen <lb/> da man <objectName ref="#essig">Essig</objectName> eyngeußt <lb/> werden weiß <lb/> als wenn man ein <objectName ref="#milch">Milch</objectName> darein geußt <lb/> so kan man sie zu allerley Fischwerck brauchen. </p>
             </div>
         </body>
     </text>

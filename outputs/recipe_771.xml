@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Die Ammerellen sauber gebutzt <lb/> mit purem geläutertem <objectName ref="zucker">Zucker</objectName> <lb/> und gantzen Zimmet und Näglein kurtz kochen lassen <lb/> und gegeben <lb/> seynd gut <lb/> doch sollen vier und fünff <lb/> wann es beliebt <lb/> zusammen gebunden werden <lb/> dann ohne Stengel zu kochen <lb/> geben sie zu viel Safft <lb/> seynd aber bequemer aus der <objectName ref="schuessel">Schüssel</objectName> sammt dem Safft mit Löffeln zu essen. </p>
+        <p> Die Ammerellen sauber gebutzt <lb/> mit purem geläutertem <objectName ref="#zucker">Zucker</objectName> <lb/> und gantzen Zimmet und Näglein kurtz kochen lassen <lb/> und gegeben <lb/> seynd gut <lb/> doch sollen vier und fünff <lb/> wann es beliebt <lb/> zusammen gebunden werden <lb/> dann ohne Stengel zu kochen <lb/> geben sie zu viel Safft <lb/> seynd aber bequemer aus der <objectName ref="#schuessel">Schüssel</objectName> sammt dem Safft mit Löffeln zu essen. </p>
             </div>
         </body>
     </text>

@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIe ausgelößten Ruck=Brätlein werden gepaitzt <lb/> gespickt und gebraten <lb/> wie die vom Reh <lb/> und in Lemoni <lb/> Pomerantzen <lb/> Capry <lb/> <objectName ref="sardellen">Sardellen</objectName> und andern guten Soß gegeben </p>
+        <p> DIe ausgelößten Ruck=Brätlein werden gepaitzt <lb/> gespickt und gebraten <lb/> wie die vom Reh <lb/> und in Lemoni <lb/> Pomerantzen <lb/> Capry <lb/> <objectName ref="#sardellen">Sardellen</objectName> und andern guten Soß gegeben </p>
             </div>
         </body>
     </text>

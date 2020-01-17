@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) den Kappaun <lb/> zeuch jm die Haut ab <lb/> glid darnach ab Diechel vnd Flügel <lb/> zerklopffs mit einem Messerrück <lb/> saltzs vnd pfeffers <lb/> legs auff ein Roßt <lb/> vnd brats geschwindt hinweg <lb/> begeuß es mit heissem <objectName ref="speck">Speck</objectName> <lb/> vnd wenn du es wilt anrichten <lb/> so geuß darüber ein feine braune Brüh <lb/> oder schel ein Pomerantzen <lb/> die saur ist <lb/> fein breit vnd dünn <lb/> leg sie fein auff den Karwenada <lb/> vnnd druck den Safft von einer Pomerantzen darauff <lb/> vnnd laß es flugs aufftragen auff ein <objectName ref="tisch">Tisch</objectName> <lb/> weils warm ist <lb/> so ist es gut vnd zierlich. </p>
+        <p> Nim ( m ) den Kappaun <lb/> zeuch jm die Haut ab <lb/> glid darnach ab Diechel vnd Flügel <lb/> zerklopffs mit einem Messerrück <lb/> saltzs vnd pfeffers <lb/> legs auff ein Roßt <lb/> vnd brats geschwindt hinweg <lb/> begeuß es mit heissem <objectName ref="#speck">Speck</objectName> <lb/> vnd wenn du es wilt anrichten <lb/> so geuß darüber ein feine braune Brüh <lb/> oder schel ein Pomerantzen <lb/> die saur ist <lb/> fein breit vnd dünn <lb/> leg sie fein auff den Karwenada <lb/> vnnd druck den Safft von einer Pomerantzen darauff <lb/> vnnd laß es flugs aufftragen auff ein <objectName ref="#tisch">Tisch</objectName> <lb/> weils warm ist <lb/> so ist es gut vnd zierlich. </p>
             </div>
         </body>
     </text>

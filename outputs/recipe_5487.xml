@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nim ( m ) ein frischen Hausen <lb/> vn ( d ) schneidt jn dünn <lb/> leg jn auff ein Roßt <lb/> vnd brat jn <lb/> thu jn in einen Mörsel <lb/> vnd stoß mit gebehtem Weck <lb/> treibs mit Erbeßbrüh durch <lb/> pfeffers <lb/> gelbs vnd saltzs <lb/> thu frische vngeschmältzte <objectName ref="butter">Butter</objectName> darein <lb/> so wirt es gut vnd wolgeschmack. </p>
+        <p> Nim ( m ) ein frischen Hausen <lb/> vn ( d ) schneidt jn dünn <lb/> leg jn auff ein Roßt <lb/> vnd brat jn <lb/> thu jn in einen Mörsel <lb/> vnd stoß mit gebehtem Weck <lb/> treibs mit Erbeßbrüh durch <lb/> pfeffers <lb/> gelbs vnd saltzs <lb/> thu frische vngeschmältzte <objectName ref="#butter">Butter</objectName> darein <lb/> so wirt es gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

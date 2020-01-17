@@ -166,7 +166,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Klaube die Maul=Beer <lb/> und zwinge den Safft <lb/> mit Beyhülff eines andern <lb/> durch ein dickes <objectName ref="tuch">Tuch</objectName> <lb/> siede ihn mit geläuterten <objectName ref="zucker">Zucker</objectName> oder Hönig in rechter Dicken ein <lb/> und wann er ziemlich abgekühlt <lb/> so behalte ihn in Zucker=Gläser <lb/> oder wohl verglaßirten Geschierr <lb/> verbinde ihn mit gestupfften <objectName ref="papier">Papier</objectName> <lb/> und behalte ihn an einem zimlich kühlen Ort : Er dienet zu allen drucknen Füllen auzufeuchten <lb/> oder vor Krancke <lb/> zum Abgiessen mit ihren Trinck=Wasser u. </p>
+        <p> Klaube die Maul=Beer <lb/> und zwinge den Safft <lb/> mit Beyhülff eines andern <lb/> durch ein dickes <objectName ref="#tuch">Tuch</objectName> <lb/> siede ihn mit geläuterten <objectName ref="#zucker">Zucker</objectName> oder Hönig in rechter Dicken ein <lb/> und wann er ziemlich abgekühlt <lb/> so behalte ihn in Zucker=Gläser <lb/> oder wohl verglaßirten Geschierr <lb/> verbinde ihn mit gestupfften <objectName ref="#papier">Papier</objectName> <lb/> und behalte ihn an einem zimlich kühlen Ort : Er dienet zu allen drucknen Füllen auzufeuchten <lb/> oder vor Krancke <lb/> zum Abgiessen mit ihren Trinck=Wasser u. </p>
             </div>
         </body>
     </text>

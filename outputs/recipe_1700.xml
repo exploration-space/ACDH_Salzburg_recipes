@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schneit den Spöckh so klain, alß die <objectName ref="hanf">hanf</objectName> Kerndl, <lb/> thues in ein Pfannen, laß haiß werdn, wan <lb/> der höcht gleich gesoten ist, vnd schneit in, wie <lb/> du in sonst in <objectName ref="schmalz">schmalz</objectName> bachest, <objectName ref="salz">salz</objectName> in nit zu hart, <lb/> d ( a ) s er ain mehr gesoten sey, alß halben weeg, <lb/> vnd Seich in ab, vnd geuß den haissen spöckh <lb/> daran, vnd geuß vngefehr ½. masß <objectName ref="essig">Essig</objectName> da= <lb/> =ran, ½. <objectName ref="wein">wein</objectName>, gewürz in mit Imber, <objectName ref="pfeffer">Pfeffer</objectName> <lb/> woll, vnd laß in recht wid ( er ) auf sieden. <lb/> </p>
+        <p> Schneit den Spöckh so klain, alß die <objectName ref="#hanf">hanf</objectName> Kerndl, <lb/> thues in ein Pfannen, laß haiß werdn, wan <lb/> der höcht gleich gesoten ist, vnd schneit in, wie <lb/> du in sonst in <objectName ref="#schmalz">schmalz</objectName> bachest, <objectName ref="#salz">salz</objectName> in nit zu hart, <lb/> d ( a ) s er ain mehr gesoten sey, alß halben weeg, <lb/> vnd Seich in ab, vnd geuß den haissen spöckh <lb/> daran, vnd geuß vngefehr ½. masß <objectName ref="#essig">Essig</objectName> da= <lb/> =ran, ½. <objectName ref="#wein">wein</objectName>, gewürz in mit Imber, <objectName ref="#pfeffer">Pfeffer</objectName> <lb/> woll, vnd laß in recht wid ( er ) auf sieden. <lb/> </p>
             </div>
         </body>
     </text>

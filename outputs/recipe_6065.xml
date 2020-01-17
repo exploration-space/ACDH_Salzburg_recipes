@@ -169,7 +169,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Heller <objectName ref="salat">Salat</objectName> <lb/> der grün vnd jung ist <lb/> quell jn in <objectName ref="wasser">Wasser</objectName> <lb/> mach jn ab mit <objectName ref="essig">Essig</objectName> <lb/> Oel vnd Saltz. Vnd den <objectName ref="salat">Salat</objectName> muß man nicht viel essen <lb/> denn er purgierrt sehr. </p>
+        <p> Heller <objectName ref="#salat">Salat</objectName> <lb/> der grün vnd jung ist <lb/> quell jn in <objectName ref="#wasser">Wasser</objectName> <lb/> mach jn ab mit <objectName ref="#essig">Essig</objectName> <lb/> Oel vnd Saltz. Vnd den <objectName ref="#salat">Salat</objectName> muß man nicht viel essen <lb/> denn er purgierrt sehr. </p>
             </div>
         </body>
     </text>

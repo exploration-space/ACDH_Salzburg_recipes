@@ -168,7 +168,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Schmaltzsuppen mit verlornen Eyern <lb/> oder mit <objectName ref="ochsenaugen">Ochsenaugen</objectName> von Eyern gebacken <lb/> vnd mit klein Rosein besträwt <lb/> vnd mit <objectName ref="ingwer">Ingwer</objectName> <lb/> ist gut vnd wolgeschmack. </p>
+        <p> Schmaltzsuppen mit verlornen Eyern <lb/> oder mit <objectName ref="#ochsenaugen">Ochsenaugen</objectName> von Eyern gebacken <lb/> vnd mit klein Rosein besträwt <lb/> vnd mit <objectName ref="#ingwer">Ingwer</objectName> <lb/> ist gut vnd wolgeschmack. </p>
             </div>
         </body>
     </text>

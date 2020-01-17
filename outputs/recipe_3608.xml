@@ -171,7 +171,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> DIse zu machen <lb/> nimm ein kälbernen <objectName ref="schlegel">Schlegel</objectName> <lb/> schneid selben Schnitzlein= weiß <lb/> klopffe sie <lb/> mit grobem <objectName ref="speck">Speck</objectName> und rohem Schuncken gespickt <lb/> bestreue selbe mit ein wenig Petersil und Zwibel <lb/> und machs mit Gewürtz und wohlriechenden <objectName ref="kraeuter">Kräutern</objectName> an <lb/> rolle sie zusammen <lb/> und laß sieden <lb/> à la braise, oder gedämpfft <lb/> thue die Faisten darvon. </p>
+        <p> DIse zu machen <lb/> nimm ein kälbernen <objectName ref="#schlegel">Schlegel</objectName> <lb/> schneid selben Schnitzlein= weiß <lb/> klopffe sie <lb/> mit grobem <objectName ref="#speck">Speck</objectName> und rohem Schuncken gespickt <lb/> bestreue selbe mit ein wenig Petersil und Zwibel <lb/> und machs mit Gewürtz und wohlriechenden <objectName ref="#kraeuter">Kräutern</objectName> an <lb/> rolle sie zusammen <lb/> und laß sieden <lb/> à la braise, oder gedämpfft <lb/> thue die Faisten darvon. </p>
             </div>
         </body>
     </text>

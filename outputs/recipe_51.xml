@@ -172,7 +172,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb die löber Wasch sauber hernach <lb/> schneide finger dickhe<gap/> schnizl<gap/> daraus <lb/> <objectName ref="salz">salz</objectName> vnnd Gewürz<gap/> ein Preins<gap/> auf <lb/> den <objectName ref="rost">Rost</objectName> ab vnd dräpfs<gap/> mit <objectName ref="butter">butter</objectName> <lb/><lb/> ( ve 18 ) schmirb<gap/> ein schissl<gap/> mit <objectName ref="butter">butter</objectName> richts <lb/> Darein vnnd ein wenig Fleischbrie<gap/> vnd <lb/> össig daran vnnd Woll Limony saft<gap/> <lb/> lege ein stuckh<gap/> <objectName ref="butter">butter</objectName> darein dan <lb/> söz auf ein Gluett<gap/> lass es Preglen<gap/> <lb/> also gibs Zur dafl. <lb/> </p>
+        <p> Nimb die löber Wasch sauber hernach <lb/> schneide finger dickhe<gap/> schnizl<gap/> daraus <lb/> <objectName ref="#salz">salz</objectName> vnnd Gewürz<gap/> ein Preins<gap/> auf <lb/> den <objectName ref="#rost">Rost</objectName> ab vnd dräpfs<gap/> mit <objectName ref="#butter">butter</objectName> <lb/><lb/> ( ve 18 ) schmirb<gap/> ein schissl<gap/> mit <objectName ref="#butter">butter</objectName> richts <lb/> Darein vnnd ein wenig Fleischbrie<gap/> vnd <lb/> össig daran vnnd Woll Limony saft<gap/> <lb/> lege ein stuckh<gap/> <objectName ref="#butter">butter</objectName> darein dan <lb/> söz auf ein Gluett<gap/> lass es Preglen<gap/> <lb/> also gibs Zur dafl. <lb/> </p>
             </div>
         </body>
     </text>

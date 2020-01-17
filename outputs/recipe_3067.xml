@@ -173,7 +173,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Darzu nimm ein <objectName ref="seitlein">Seitlein</objectName> guten süssen Ram <lb/> oder Obers <lb/> dann ein Löffelvoll gar schönes Mund=Meel <lb/> treibs mit dem Ram oder Obern gar glat ab <lb/> schlag vier Eyer darein <lb/> zuckere es <lb/> sprittle alles untereinander ab <lb/> man kan auch ein Rosen=Wasseer <lb/> wann man will <lb/> darzu giessen <lb/> seihe es durch ein enges Sieblein in die <objectName ref="schuessel">Schüssel</objectName> <lb/> setz einen Reiff darauf <lb/> gib unten und oben <objectName ref="glut">Glut</objectName> <lb/> doch nicht zu viel <lb/> wann es übersich schön braun ist <lb/> so zuckere es <lb/> und gibs warm auf die Tafel. </p>
+        <p> Darzu nimm ein <objectName ref="#seitlein">Seitlein</objectName> guten süssen Ram <lb/> oder Obers <lb/> dann ein Löffelvoll gar schönes Mund=Meel <lb/> treibs mit dem Ram oder Obern gar glat ab <lb/> schlag vier Eyer darein <lb/> zuckere es <lb/> sprittle alles untereinander ab <lb/> man kan auch ein Rosen=Wasseer <lb/> wann man will <lb/> darzu giessen <lb/> seihe es durch ein enges Sieblein in die <objectName ref="#schuessel">Schüssel</objectName> <lb/> setz einen Reiff darauf <lb/> gib unten und oben <objectName ref="#glut">Glut</objectName> <lb/> doch nicht zu viel <lb/> wann es übersich schön braun ist <lb/> so zuckere es <lb/> und gibs warm auf die Tafel. </p>
             </div>
         </body>
     </text>

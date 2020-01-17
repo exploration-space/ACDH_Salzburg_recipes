@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> Nimb.6. neue Gelegte Ayr<gap/>, die <lb/> thue die fögl<gap/> darvon, schlag<gap/> es <lb/> woll ab in ein häfl<gap/>, Nimb ein <lb/> halb lt<gap/> : Zuckher darein riehr<gap/> es <lb/> 2. stundt, darnach schidt<gap/> Anderthalb <lb/> Virtung<gap/> störckh<gap/> darein, Gies<gap/> runde <lb/> Zeltl<gap/> daraus, bachs<gap/> schön so ist es <lb/> bereith. <lb/><lb/> ( ve 88 ) [ Anm. : Es wird nicht präzisiert, welche Art von „ störckh “ – <objectName ref="staerke">Stärke</objectName> – zu verwenden ist. ] </p>
+        <p> Nimb.6. neue Gelegte Ayr<gap/>, die <lb/> thue die fögl<gap/> darvon, schlag<gap/> es <lb/> woll ab in ein häfl<gap/>, Nimb ein <lb/> halb lt<gap/> : Zuckher darein riehr<gap/> es <lb/> 2. stundt, darnach schidt<gap/> Anderthalb <lb/> Virtung<gap/> störckh<gap/> darein, Gies<gap/> runde <lb/> Zeltl<gap/> daraus, bachs<gap/> schön so ist es <lb/> bereith. <lb/><lb/> ( ve 88 ) [ Anm. : Es wird nicht präzisiert, welche Art von „ störckh “ – <objectName ref="#staerke">Stärke</objectName> – zu verwenden ist. ] </p>
             </div>
         </body>
     </text>

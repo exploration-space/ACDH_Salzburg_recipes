@@ -167,7 +167,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> NImm die geschlagene Presolen <lb/> ziehs durch zerlassenen guten <objectName ref="butter">Butter</objectName> <lb/> und besprengs geschwind mit angemachtem <objectName ref="brot">Brot</objectName> <lb/> legs in ein weite Dorten= <objectName ref="schuessel">Schüssel</objectName> <lb/> gib unten und oben Farb <lb/> sobald sie fertig <lb/> so gibs in dem Safft <lb/> sie seynd gut <lb/> mit darauf gedrucktem Lemoni= Safft. </p>
+        <p> NImm die geschlagene Presolen <lb/> ziehs durch zerlassenen guten <objectName ref="#butter">Butter</objectName> <lb/> und besprengs geschwind mit angemachtem <objectName ref="#brot">Brot</objectName> <lb/> legs in ein weite Dorten= <objectName ref="#schuessel">Schüssel</objectName> <lb/> gib unten und oben Farb <lb/> sobald sie fertig <lb/> so gibs in dem Safft <lb/> sie seynd gut <lb/> mit darauf gedrucktem Lemoni= Safft. </p>
             </div>
         </body>
     </text>

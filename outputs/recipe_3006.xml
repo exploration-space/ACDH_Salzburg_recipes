@@ -165,7 +165,7 @@
                 </listObject>
             </div>
         <div type="recipe">
-        <p> <objectName ref="rettich">REttich</objectName> so klein <lb/> oder Monat= <objectName ref="rettich">Rettich</objectName> genannt <lb/> gibt man gemeiniglich also frisch gebutzt zum <objectName ref="rindfleisch">Rindfleisch</objectName> <lb/> oder zum <objectName ref="salat">Salat</objectName>. </p>
+        <p> <objectName ref="#rettich">REttich</objectName> so klein <lb/> oder Monat= <objectName ref="#rettich">Rettich</objectName> genannt <lb/> gibt man gemeiniglich also frisch gebutzt zum <objectName ref="#rindfleisch">Rindfleisch</objectName> <lb/> oder zum <objectName ref="#salat">Salat</objectName>. </p>
             </div>
         </body>
     </text>
