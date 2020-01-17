@@ -153,7 +153,7 @@ Für eine Gesellschaft auf einer Tafel benötigt man zehn Stück („auf ein taf
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="bries">Bries</object>
 			<object type="Zutaten" xml:id="essig">Essig</object>
@@ -168,7 +168,7 @@ Für eine Gesellschaft auf einer Tafel benötigt man zehn Stück („auf ein taf
 			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="essloeffel">Esslöffel</object>
 			<object type="MaterielleKultur" xml:id="rost">Rost</object>

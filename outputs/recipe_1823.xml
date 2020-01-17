@@ -150,7 +150,7 @@ Willst du ein gutes Mus aus Weichseln machen, dann gib sie in einen Topf und ste
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="honig">Honig</object>
 			<object type="Zutaten" xml:id="ingwer">Ingwer</object>
@@ -158,7 +158,7 @@ Willst du ein gutes Mus aus Weichseln machen, dann gib sie in einen Topf und ste
 			<object type="Zutaten" xml:id="weichseln-sauerkirschen">Weichseln (Sauerkirschen)</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="fass">Fass</object>
 			<object type="MaterielleKultur" xml:id="hafen-topf">Topf (Hafen)</object>

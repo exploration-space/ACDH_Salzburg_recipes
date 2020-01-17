@@ -151,7 +151,7 @@ Bei der ungarischen Torte handelt es sich um eine Art Lasagne mit Frucht- (Feige
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="feigenfuelle">Feigenfülle</object>
 			<object type="Zutaten" xml:id="salzwasser">Salzwasser</object>
@@ -159,7 +159,7 @@ Bei der ungarischen Torte handelt es sich um eine Art Lasagne mit Frucht- (Feige
 			<object type="Zutaten" xml:id="weizenmehl">Weizenmehl</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="tonschuessel">Tonschüssel</object>
                 </listObject>

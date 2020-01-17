@@ -154,7 +154,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="blattgold">Blattgold</object>
 			<object type="Zutaten" xml:id="mandelmehl">Mandelmehl</object>
@@ -167,7 +167,7 @@
 			<object type="Zutaten" xml:id="zuckerblau-lebensmittelfarbe">Zuckerblau (Lebensmittelfarbe)</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="bezetta-rubra">Bezetta rubra</object>
 			<object type="MaterielleKultur" xml:id="blech">Blech</object>

@@ -153,7 +153,7 @@ Informationen zu Krebsen in der barocken Küche sind auch in der Anmerkung von R
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="butter">Butter</object>
 			<object type="Zutaten" xml:id="eier">Eier</object>
@@ -165,7 +165,7 @@ Informationen zu Krebsen in der barocken Küche sind auch in der Anmerkung von R
 			<object type="Zutaten" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="moerser">Mörser</object>
 			<object type="MaterielleKultur" xml:id="sieb">Sieb</object>

@@ -151,7 +151,7 @@ unter Stuffaden oder Fricantoen sind hier wohl Röllchen oder Laibchen gemeint</
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="butter">Butter</object>
 			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
@@ -163,7 +163,7 @@ unter Stuffaden oder Fricantoen sind hier wohl Röllchen oder Laibchen gemeint</
 			<object type="Zutaten" xml:id="wein">Wein</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			
                 </listObject>

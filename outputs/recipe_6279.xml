@@ -149,7 +149,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="austern">Austern</object>
 			<object type="Zutaten" xml:id="butter">Butter</object>
@@ -169,7 +169,7 @@
 			<object type="Zutaten" xml:id="zwiebelbruehe-gelb">Zwiebelbrühe (gelb)</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="multer-aus-zinn">Multer (aus Zinn)</object>
 			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>

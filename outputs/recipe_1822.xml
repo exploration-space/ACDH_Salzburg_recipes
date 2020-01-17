@@ -154,14 +154,14 @@ Auch in der Grazer Hs. MS 1609, 18r</title>
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="brot">Brot</object>
 			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
 			<object type="Zutaten" xml:id="weintrauben">Weintrauben</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="dreifuss">Dreifuß</object>
 			<object type="MaterielleKultur" xml:id="kessel">Kessel</object>

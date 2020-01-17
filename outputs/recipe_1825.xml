@@ -152,7 +152,7 @@ Willst du Morcheln auf einem Teigblatt machen, dann nimm Kalbslungen und koche s
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="brot">Brot</object>
 			<object type="Zutaten" xml:id="eier">Eier</object>
@@ -163,7 +163,7 @@ Willst du Morcheln auf einem Teigblatt machen, dann nimm Kalbslungen und koche s
 			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="holzspiess">Holzspieß</object>
 			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>

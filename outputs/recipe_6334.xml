@@ -153,13 +153,13 @@ Was ist nun bei Rumpolt mit "Borras" gemeint? Borax ist Bestandteil von Reinigun
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="borax">Borax</object>
 			<object type="Zutaten" xml:id="wein">Wein</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>
                 </listObject>

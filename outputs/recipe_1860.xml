@@ -153,7 +153,7 @@ Die Ackerspeise wollen wir nicht unbeachtet lassen: Milch und Eier muss du dazu 
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="eier">Eier</object>
 			<object type="Zutaten" xml:id="milch">Milch</object>
@@ -162,7 +162,7 @@ Die Ackerspeise wollen wir nicht unbeachtet lassen: Milch und Eier muss du dazu 
 			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			
                 </listObject>

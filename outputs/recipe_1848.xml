@@ -150,7 +150,7 @@ Willst du einen guten Presssack vom Kalb machen, dann überbrühe das Kalb wie e
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="brot">Brot</object>
 			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
@@ -161,7 +161,7 @@ Willst du einen guten Presssack vom Kalb machen, dann überbrühe das Kalb wie e
 			<object type="Zutaten" xml:id="wein">Wein</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="kessel">Kessel</object>
 			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>

@@ -153,14 +153,14 @@ Rollada = Würste
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
 			<object type="Zutaten" xml:id="jungschweinernes">Jungschweinernes</object>
 			<object type="Zutaten" xml:id="salz">Salz</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="spicknadel">Spicknadel</object>
 			<object type="MaterielleKultur" xml:id="hafen-topf">Topf (Hafen)</object>

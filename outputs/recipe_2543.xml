@@ -155,14 +155,14 @@ Bleivergiftungen durch Wasserleitungen und Gefäße aus Blei (auch für Wein, Es
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="olivenoel">Olivenöl</object>
 			<object type="Zutaten" xml:id="veilchen">Veilchen</object>
 			<object type="Zutaten" xml:id="weinessig">Weinessig</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="essloeffel">Esslöffel</object>
 			<object type="MaterielleKultur" xml:id="geschirr">Geschirr</object>

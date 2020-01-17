@@ -151,7 +151,7 @@ Dieses Gericht ist wiederum optisch sehr ansprechend angerichtet. Die bearbeitet
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="ribisel-eingemacht">Ribisel (eingemacht)</object>
 			<object type="Zutaten" xml:id="wasser">Wasser</object>
@@ -160,7 +160,7 @@ Dieses Gericht ist wiederum optisch sehr ansprechend angerichtet. Die bearbeitet
 			<object type="Zutaten" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="becken">Becken</object>
 			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>

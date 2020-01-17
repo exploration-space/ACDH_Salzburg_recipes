@@ -150,7 +150,7 @@ Willst du Blancmanger machen, dann nimm alte Hühner und koche sie. Nimm das Fle
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="huhn">Huhn</object>
 			<object type="Zutaten" xml:id="mandelmilch">Mandelmilch</object>
@@ -159,7 +159,7 @@ Willst du Blancmanger machen, dann nimm alte Hühner und koche sie. Nimm das Fle
 			<object type="Zutaten" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="holzloeffel">Holzlöffel</object>
 			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>

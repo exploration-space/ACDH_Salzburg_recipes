@@ -164,7 +164,7 @@ a) Mahlzeit, Mahl schlechthin [...]</li>
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="erbsensuppe">Erbsenbrühe</object>
 			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
@@ -175,7 +175,7 @@ a) Mahlzeit, Mahl schlechthin [...]</li>
 			<object type="Zutaten" xml:id="zitronensaft">Zitronensaft</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="geschirr">Geschirr</object>
 			<object type="MaterielleKultur" xml:id="topf">Topf (Rein)</object>

@@ -150,7 +150,7 @@ Nimm Lebkuchen, schneide ihn dünn und zerkleinere ihn fein, wie es bei einem Pf
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="honig">Honig</object>
 			<object type="Zutaten" xml:id="lebzelten">Lebzelten</object>
@@ -160,7 +160,7 @@ Nimm Lebkuchen, schneide ihn dünn und zerkleinere ihn fein, wie es bei einem Pf
 			<object type="Zutaten" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>
 			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>

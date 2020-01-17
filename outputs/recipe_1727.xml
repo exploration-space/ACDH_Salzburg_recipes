@@ -151,7 +151,7 @@ Der Wohlgemut ist eine der einzigen Erwähnungen von Oregano in allen bisher auf
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="essig">Essig</object>
 			<object type="Zutaten" xml:id="hausen-fisch">Hausen (Fisch)</object>
@@ -160,7 +160,7 @@ Der Wohlgemut ist eine der einzigen Erwähnungen von Oregano in allen bisher auf
 			<object type="Zutaten" xml:id="salz">Salz</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			
                 </listObject>

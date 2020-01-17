@@ -151,7 +151,7 @@ Es sind auch die Coppen gebachner gut / in dem <em>Marginat</em>, mit Oel / Eßi
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="koppe">Koppe</object>
 			<object type="Zutaten" xml:id="mehl">Mehl</object>
@@ -159,7 +159,7 @@ Es sind auch die Coppen gebachner gut / in dem <em>Marginat</em>, mit Oel / Eßi
 			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			
                 </listObject>

@@ -150,7 +150,7 @@ Willst du grüne Eier machen, dann koche Eier, bis die Dotter weich sind. Mach e
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="eier">Eier</object>
 			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
@@ -158,7 +158,7 @@ Willst du grüne Eier machen, dann koche Eier, bis die Dotter weich sind. Mach e
 			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>
 			<object type="MaterielleKultur" xml:id="reibeschale">Reibeschale</object>

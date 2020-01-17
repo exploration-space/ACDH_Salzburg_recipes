@@ -151,7 +151,7 @@ Rezept auch für Kalbfleisch</note>
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
 			<object type="Zutaten" xml:id="salz">Salz</object>
@@ -159,7 +159,7 @@ Rezept auch für Kalbfleisch</note>
 			<object type="Zutaten" xml:id="schweinefleisch">Schweinefleisch</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			
                 </listObject>

@@ -149,13 +149,13 @@
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="germteig-hefeteig">Germteig (Hefeteig)</object>
 			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="kohlen">Kohlen</object>
 			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>

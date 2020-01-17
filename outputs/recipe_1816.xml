@@ -150,7 +150,7 @@ Willst du einen guten Reiskuchen machen, dann koche den Reis in Wasser, aber las
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="eier">Eier</object>
 			<object type="Zutaten" xml:id="reis">Reis</object>
@@ -159,7 +159,7 @@ Willst du einen guten Reiskuchen machen, dann koche den Reis in Wasser, aber las
 			<object type="Zutaten" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>
 			<object type="MaterielleKultur" xml:id="reibeisen">Reibeisen</object>

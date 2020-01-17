@@ -150,7 +150,7 @@ Willst du Mandelsulz in drei Farben machen, dann nimm Hausenblasen und koche sie
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="faerbemittel-gelb">Färbemittel (gelb)</object>
 			<object type="Zutaten" xml:id="hausenblase">Hausenblase</object>
@@ -160,7 +160,7 @@ Willst du Mandelsulz in drei Farben machen, dann nimm Hausenblasen und koche sie
 			<object type="Zutaten" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="brett">Brett</object>
 			<object type="MaterielleKultur" xml:id="moerser">Mörser</object>

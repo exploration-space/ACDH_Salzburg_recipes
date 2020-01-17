@@ -151,7 +151,7 @@ D<span lang="DE">ie Apfelsorte Landsapfel wurde bisher nicht eindeutig geklärt.
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="landaepfel">Landäpfel</object>
 			<object type="Zutaten" xml:id="tournesol">Tournesol</object>
@@ -159,7 +159,7 @@ D<span lang="DE">ie Apfelsorte Landsapfel wurde bisher nicht eindeutig geklärt.
 			<object type="Zutaten" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			
                 </listObject>

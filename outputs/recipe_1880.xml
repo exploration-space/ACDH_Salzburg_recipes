@@ -150,14 +150,14 @@ Nimm Berberitzen und ein wenig geriebenen Lebkuchen und reibe alles gemeinsam mi
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="berberitzen">Berberitzen (Sauerdorn)</object>
 			<object type="Zutaten" xml:id="lebzelten">Lebzelten</object>
 			<object type="Zutaten" xml:id="wein">Wein</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
                 </listObject>

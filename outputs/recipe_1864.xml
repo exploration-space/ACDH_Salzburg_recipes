@@ -150,7 +150,7 @@ Willst du gutes Essen haben, ist das mit Hühnerfüßen möglich, die man füllt
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="eier">Eier</object>
 			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
@@ -163,7 +163,7 @@ Willst du gutes Essen haben, ist das mit Hühnerfüßen möglich, die man füllt
 			<object type="Zutaten" xml:id="nelken">Nelken</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="kessel">Kessel</object>
 			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>

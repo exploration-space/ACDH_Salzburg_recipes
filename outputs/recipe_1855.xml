@@ -150,7 +150,7 @@ Von dem Kren (?) wollen wir nicht lassen. Wer ein gutes Mus machen will, soll Da
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="datteln">Datteln</object>
 			<object type="Zutaten" xml:id="feigen">Feigen</object>
@@ -161,7 +161,7 @@ Von dem Kren (?) wollen wir nicht lassen. Wer ein gutes Mus machen will, soll Da
 			<object type="Zutaten" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			
                 </listObject>

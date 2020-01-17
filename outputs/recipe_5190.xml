@@ -151,7 +151,7 @@ Wann die Grundeln abgesotten / abgesiehen / und in die Schüssel gelegt seynd / 
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="butter">Butter</object>
 			<object type="Zutaten" xml:id="butterbruehe">Butterbrühe</object>
@@ -167,7 +167,7 @@ Wann die Grundeln abgesotten / abgesiehen / und in die Schüssel gelegt seynd / 
 			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="kohlenfeuer">Kohlenfeuer</object>
 			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>

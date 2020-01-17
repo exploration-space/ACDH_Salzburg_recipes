@@ -151,7 +151,7 @@ Vierling - der vierte Teil verschiedener Maßeinheiten</note>
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="aal">Aal</object>
 			<object type="Zutaten" xml:id="butter">Butter</object>
@@ -164,7 +164,7 @@ Vierling - der vierte Teil verschiedener Maßeinheiten</note>
 			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			
                 </listObject>

@@ -151,7 +151,7 @@ Krünitz hat eine eindeutige Meinung zum übermäßigen Einsatz von (scharfen) G
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="birkhuhn">Birkhuhn</object>
 			<object type="Zutaten" xml:id="essig">Essig</object>
@@ -164,7 +164,7 @@ Krünitz hat eine eindeutige Meinung zum übermäßigen Einsatz von (scharfen) G
 			<object type="Zutaten" xml:id="zitronen">Zitronen</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			
                 </listObject>

@@ -150,13 +150,13 @@ Willst du einen edlen medizinischen Trank zubereiten, damit dir während des Jah
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="wermut">Wermut</object>
 			<object type="Zutaten" xml:id="ziegenmilch">Ziegenmilch</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
                 </listObject>

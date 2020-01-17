@@ -150,7 +150,7 @@ Variante mit eingelegtem Huhn</title>
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="alaun">Alaun</object>
 			<object type="Zutaten" xml:id="butter">Butter</object>
@@ -174,7 +174,7 @@ Variante mit eingelegtem Huhn</title>
 			<object type="Zutaten" xml:id="zitronen">Zitronen</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="spiess">Spieß</object>
                 </listObject>

@@ -149,7 +149,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="gelbe-rueben-moehren">Gelbe Rüben (Möhren)</object>
 			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
@@ -157,7 +157,7 @@
 			<object type="Zutaten" xml:id="weichseln-sauerkirschen">Weichseln (Sauerkirschen)</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="stollhafen">Stollhafen</object>
 			<object type="MaterielleKultur" xml:id="hafen-topf">Topf (Hafen)</object>

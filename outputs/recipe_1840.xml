@@ -150,7 +150,7 @@ Willst du eine gute Wurst aus Rebhühnern machen, dann nimm Rebhuhn- und Schwein
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="darm">Darm</object>
 			<object type="Zutaten" xml:id="ingwer">Ingwer</object>
@@ -164,7 +164,7 @@ Willst du eine gute Wurst aus Rebhühnern machen, dann nimm Rebhuhn- und Schwein
 			<object type="Zutaten" xml:id="wein">Wein</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			
                 </listObject>

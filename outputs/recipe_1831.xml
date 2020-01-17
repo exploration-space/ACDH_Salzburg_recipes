@@ -150,7 +150,7 @@ Willst du etwas fein Gebackenes machen, dann sprudle Eier ab, gib würfelig gesc
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="aepfel">Äpfel</object>
 			<object type="Zutaten" xml:id="eier">Eier</object>
@@ -164,7 +164,7 @@ Willst du etwas fein Gebackenes machen, dann sprudle Eier ab, gib würfelig gesc
 			<object type="Zutaten" xml:id="semmeln">Semmeln</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
 			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>

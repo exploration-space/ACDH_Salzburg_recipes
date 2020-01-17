@@ -149,7 +149,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="pfeffer-gem">Pfeffer (gem.)</object>
 			<object type="Zutaten" xml:id="rosmarin">Rosmarin</object>
@@ -162,7 +162,7 @@
 			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			
                 </listObject>

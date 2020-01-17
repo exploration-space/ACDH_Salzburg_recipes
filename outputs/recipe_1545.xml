@@ -151,7 +151,7 @@ In einer handschriftlichen Rezeptsammlung, die im Stift Admont liegt (Stiftsarch
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="butter">Butter</object>
 			<object type="Zutaten" xml:id="dotter">Dotter (Eigelb)</object>
@@ -163,7 +163,7 @@ In einer handschriftlichen Rezeptsammlung, die im Stift Admont liegt (Stiftsarch
 			<object type="Zutaten" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="essloeffel">Esslöffel</object>
                 </listObject>

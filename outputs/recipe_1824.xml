@@ -150,7 +150,7 @@ Willst du Morcheln mit Gelee machen, dann fülle die Morcheln mit einer guten Ei
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="eierfuelle">Eierfülle</object>
 			<object type="Zutaten" xml:id="fischbruehe">Fischbrühe</object>
@@ -159,7 +159,7 @@ Willst du Morcheln mit Gelee machen, dann fülle die Morcheln mit einer guten Ei
 			<object type="Zutaten" xml:id="salz">Salz</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="spiess">Spieß</object>
                 </listObject>

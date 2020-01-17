@@ -149,7 +149,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="benediktenkraut">Benediktenkraut</object>
 			<object type="Zutaten" xml:id="betonie">Betonie</object>
@@ -172,7 +172,7 @@
 			<object type="Zutaten" xml:id="wilder-thymian-quendel">Wilder Thymian (Quendel)</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			
                 </listObject>

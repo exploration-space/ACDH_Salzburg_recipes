@@ -149,7 +149,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="ingwer">Ingwer</object>
 			<object type="Zutaten" xml:id="kren">Kren (Meerrettich)</object>
@@ -166,7 +166,7 @@
 			<object type="Zutaten" xml:id="wildschwein">Wildschwein</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="reibeisen">Reibeisen</object>
 			<object type="MaterielleKultur" xml:id="stroh">Stroh</object>

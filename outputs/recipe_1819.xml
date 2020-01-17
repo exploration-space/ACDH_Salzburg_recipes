@@ -150,7 +150,7 @@ Willst du gute Latwerge aus Weichseln machen, dann gib Weichseln in einen Topf u
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="brot">Brot</object>
 			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
@@ -158,7 +158,7 @@ Willst du gute Latwerge aus Weichseln machen, dann gib Weichseln in einen Topf u
 			<object type="Zutaten" xml:id="weichseln-sauerkirschen">Weichseln (Sauerkirschen)</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="dreifuss">Dreifuß</object>
 			<object type="MaterielleKultur" xml:id="kessel">Kessel</object>

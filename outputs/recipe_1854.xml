@@ -154,7 +154,7 @@ Was du für ein gutes Mus* brauchst, sind Lebkuchen, Mandeln und Rosinen. Davon 
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="fisch">Fisch</object>
 			<object type="Zutaten" xml:id="lebzelten">Lebzelten</object>
@@ -163,7 +163,7 @@ Was du für ein gutes Mus* brauchst, sind Lebkuchen, Mandeln und Rosinen. Davon 
 			<object type="Zutaten" xml:id="rosinen">Rosinen</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="presse">Presse</object>
 			<object type="MaterielleKultur" xml:id="tisch">Tisch</object>

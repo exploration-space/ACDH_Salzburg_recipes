@@ -155,7 +155,7 @@ ein Vierding ist ein Viertel einer gegebenen Einheit</note>
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="bruehe">Brühe</object>
 			<object type="Zutaten" xml:id="butter">Butter</object>
@@ -176,7 +176,7 @@ ein Vierding ist ein Viertel einer gegebenen Einheit</note>
 			<object type="Zutaten" xml:id="zitronenscheiben">Zitronenscheiben</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="nudelwalker-nudelholz">Nudelwalker (Nudelholz)</object>
 			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>

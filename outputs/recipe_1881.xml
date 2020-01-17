@@ -150,14 +150,14 @@ Nimm vier Äpfel pro Herrn auf einen Teller. Danach schneide vier gebratene Rege
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="aepfel">Äpfel</object>
 			<object type="Zutaten" xml:id="regelbirnen">Regelbirnen</object>
 			<object type="Zutaten" xml:id="wein">Wein</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="hoelzchen">Hölzchen</object>
 			<object type="MaterielleKultur" xml:id="teller">Teller</object>

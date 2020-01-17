@@ -150,14 +150,14 @@ Willst du gute Eierkuchen machen, dann nimm Semmelbröseln und gib sie in ein Ge
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="eier">Eier</object>
 			<object type="Zutaten" xml:id="salz">Salz</object>
 			<object type="Zutaten" xml:id="semmelbroesel">Semmelbrösel</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="geschirr">Geschirr</object>
 			<object type="MaterielleKultur" xml:id="loeffel">Löffel</object>

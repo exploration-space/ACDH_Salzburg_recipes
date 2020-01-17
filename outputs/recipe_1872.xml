@@ -154,7 +154,7 @@ Willst du grüne Teigblätter backen, brauchst du dafür gute Gewürze. Die Fül
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="eier">Eier</object>
 			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
@@ -164,7 +164,7 @@ Willst du grüne Teigblätter backen, brauchst du dafür gute Gewürze. Die Fül
 			<object type="Zutaten" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>
 			<object type="MaterielleKultur" xml:id="tisch">Tisch</object>

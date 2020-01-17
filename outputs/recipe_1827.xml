@@ -150,14 +150,14 @@ Willst du aus dreißig oder vierzig Eiern ein einziges machen, dann nimm zwei Sc
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="eier">Eier</object>
 			<object type="Zutaten" xml:id="essig">Essig</object>
 			<object type="Zutaten" xml:id="schweinsblase">Schweinsblase</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="hafen-topf">Topf (Hafen)</object>
 			<object type="MaterielleKultur" xml:id="trichter">Trichter</object>

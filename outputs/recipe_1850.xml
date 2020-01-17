@@ -150,7 +150,7 @@ Willst du Mörserkoch machen, dann reibe Semmeln und vermische sie mit Eiern, f�
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="eier">Eier</object>
 			<object type="Zutaten" xml:id="faerbemittel-gelb">Färbemittel (gelb)</object>
@@ -160,7 +160,7 @@ Willst du Mörserkoch machen, dann reibe Semmeln und vermische sie mit Eiern, f�
 			<object type="Zutaten" xml:id="semmeln">Semmeln</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="moerser">Mörser</object>
                 </listObject>

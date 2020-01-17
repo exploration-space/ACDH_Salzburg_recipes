@@ -151,7 +151,7 @@ Hexen sind, wie aus ähnlichen Rezepten erkennbar ist, das Ende vom Schlögelkno
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="bruehe">Brühe</object>
 			<object type="Zutaten" xml:id="essig">Essig</object>
@@ -164,7 +164,7 @@ Hexen sind, wie aus ähnlichen Rezepten erkennbar ist, das Ende vom Schlögelkno
 			<object type="Zutaten" xml:id="zitronenscheiben">Zitronenscheiben</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="spicknadel">Spicknadel</object>
                 </listObject>

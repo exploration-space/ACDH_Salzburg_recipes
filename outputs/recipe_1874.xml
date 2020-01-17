@@ -154,7 +154,7 @@ Im Sommer fange ich an, im Winter werde ich Ruhe haben. Wir sollen uns um selten
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="himbeeren">Himbeeren</object>
 			<object type="Zutaten" xml:id="honig">Honig</object>
@@ -167,7 +167,7 @@ Im Sommer fange ich an, im Winter werde ich Ruhe haben. Wir sollen uns um selten
 			<object type="Zutaten" xml:id="weizenaehren">Weizenähren</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
 			<object type="MaterielleKultur" xml:id="topf-hafen-glasiert">Topf (Hafen - glasiert)</object>

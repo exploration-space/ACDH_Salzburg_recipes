@@ -150,7 +150,7 @@ Willst du einen Presskopf aus Fischen machen, dann nimm Karpfen oder Schleie ode
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="karpfen">Karpfen</object>
 			<object type="Zutaten" xml:id="mehl">Mehl</object>
@@ -159,7 +159,7 @@ Willst du einen Presskopf aus Fischen machen, dann nimm Karpfen oder Schleie ode
 			<object type="Zutaten" xml:id="wein">Wein</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="brett">Brett</object>
 			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>

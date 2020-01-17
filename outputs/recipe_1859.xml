@@ -152,7 +152,7 @@ Das lassen wir nun bleiben, aus Mandeln wollen wir noch mehr zubereiten, und zwa
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="mandelmilch">Mandelmilch</object>
 			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
@@ -161,7 +161,7 @@ Das lassen wir nun bleiben, aus Mandeln wollen wir noch mehr zubereiten, und zwa
 			<object type="Zutaten" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
 			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>

@@ -151,7 +151,7 @@ Hexen - Knochenende beim Schlögel</note>
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="bruehe">Brühe</object>
 			<object type="Zutaten" xml:id="butter">Butter</object>
@@ -168,7 +168,7 @@ Hexen - Knochenende beim Schlögel</note>
 			<object type="Zutaten" xml:id="zitronen">Zitronen</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="backofen">Backofen</object>
 			<object type="MaterielleKultur" xml:id="bratpfanne">Bratpfanne</object>

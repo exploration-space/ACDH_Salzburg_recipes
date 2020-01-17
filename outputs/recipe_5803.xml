@@ -149,14 +149,14 @@
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="bertram">Bertram</object>
 			<object type="Zutaten" xml:id="saure-bruehe">saure Brühe</object>
 			<object type="Zutaten" xml:id="schafeuter">Schafeuter</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			
                 </listObject>

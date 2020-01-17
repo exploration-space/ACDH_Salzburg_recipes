@@ -150,7 +150,7 @@ Willst du einen guten Mörserkuchen machen, dann schneide Semmeln würfelig und 
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="eier">Eier</object>
 			<object type="Zutaten" xml:id="faerbemittel-gelb">Färbemittel (gelb)</object>
@@ -161,7 +161,7 @@ Willst du einen guten Mörserkuchen machen, dann schneide Semmeln würfelig und 
 			<object type="Zutaten" xml:id="semmeln">Semmeln</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="moerser">Mörser</object>
                 </listObject>

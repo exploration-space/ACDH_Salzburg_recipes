@@ -150,7 +150,7 @@ Damit lassen wir es gut sein, von fremdartigen Gerichten hatten wir zwei, aber a
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
 			<object type="Zutaten" xml:id="hecht">Hecht</object>
@@ -159,7 +159,7 @@ Damit lassen wir es gut sein, von fremdartigen Gerichten hatten wir zwei, aber a
 			<object type="Zutaten" xml:id="nelken">Nelken</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			
                 </listObject>

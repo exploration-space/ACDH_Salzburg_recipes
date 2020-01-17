@@ -155,7 +155,7 @@ Pflücke im Mai Petersilie, Pfefferkraut*, Salbei, junge Rübenblätter und schn
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="petersilie">Petersilie</object>
 			<object type="Zutaten" xml:id="pfefferkraut">Pfefferkraut</object>
@@ -165,7 +165,7 @@ Pflücke im Mai Petersilie, Pfefferkraut*, Salbei, junge Rübenblätter und schn
 			<object type="Zutaten" xml:id="wein">Wein</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="multer">Multer</object>
 			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>

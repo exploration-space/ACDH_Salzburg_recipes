@@ -150,7 +150,7 @@ Willst du ein gutes Mus haben, dann nimm einen guten Bratfisch und gute Rosinen 
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="fisch">Fisch</object>
 			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
@@ -160,7 +160,7 @@ Willst du ein gutes Mus haben, dann nimm einen guten Bratfisch und gute Rosinen 
 			<object type="Zutaten" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			
                 </listObject>

@@ -152,7 +152,7 @@ Willst du Kolben-Eier machen, dann reibe ein kleines Stück Semmel fein, gib Mus
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="eier">Eier</object>
 			<object type="Zutaten" xml:id="muskat">Muskat</object>
@@ -160,7 +160,7 @@ Willst du Kolben-Eier machen, dann reibe ein kleines Stück Semmel fein, gib Mus
 			<object type="Zutaten" xml:id="semmeln">Semmeln</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="hoelzchen">Hölzchen</object>
                 </listObject>

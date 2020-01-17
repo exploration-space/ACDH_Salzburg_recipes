@@ -151,7 +151,7 @@ Unter <a href="http://gastrosophie.sbg.ac.at/kbforschung/r-datenbank/?rdb_rezept
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="lavendel">Lavendel</object>
 			<object type="Zutaten" xml:id="weichseln-sauerkirschen">Weichseln (Sauerkirschen)</object>
@@ -159,7 +159,7 @@ Unter <a href="http://gastrosophie.sbg.ac.at/kbforschung/r-datenbank/?rdb_rezept
 			<object type="Zutaten" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			
                 </listObject>

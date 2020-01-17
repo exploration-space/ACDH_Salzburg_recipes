@@ -151,14 +151,14 @@ Krameitsch - bedeutet hier wohl abwertend wie ein Gemisch ev. in Suppenform</not
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="spanferkelfuesse">Spanferkelfüße</object>
 			<object type="Zutaten" xml:id="spanferkelleber">Spanferkelleber</object>
 			<object type="Zutaten" xml:id="spanferkelohren">Spanferkelohren</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			
                 </listObject>

@@ -153,7 +153,7 @@ Unter Ablaß ist der Wechsel des Fasses zu verstehen.</note>
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="galgantwurzel">Galgantwurzel</object>
 			<object type="Zutaten" xml:id="gerstenbrot">Gerstenbrot</object>
@@ -166,7 +166,7 @@ Unter Ablaß ist der Wechsel des Fasses zu verstehen.</note>
 			<object type="Zutaten" xml:id="ysop">Ysop</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="fass">Fass</object>
 			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>

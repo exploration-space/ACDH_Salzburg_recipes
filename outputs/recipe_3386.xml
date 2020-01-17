@@ -153,7 +153,7 @@ Ebenso ist ein Metzen ein Hohlmaß, welches für Getreide und Salz verwendet wur
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="butter">Butter</object>
 			<object type="Zutaten" xml:id="cardamom">Cardamom</object>
@@ -176,7 +176,7 @@ Ebenso ist ein Metzen ein Hohlmaß, welches für Getreide und Salz verwendet wur
 			<object type="Zutaten" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="nudelwalker-nudelholz">Nudelwalker (Nudelholz)</object>
 			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>

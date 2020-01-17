@@ -151,7 +151,7 @@ Hausen-Blasen - ein Klebstoff, aus der Luftblase von Fischen</note>
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="eier">Eier</object>
 			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
@@ -163,7 +163,7 @@ Hausen-Blasen - ein Klebstoff, aus der Luftblase von Fischen</note>
 			<object type="Zutaten" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="feuer">Feuer</object>
 			<object type="MaterielleKultur" xml:id="haefelein-2">Häfelein</object>

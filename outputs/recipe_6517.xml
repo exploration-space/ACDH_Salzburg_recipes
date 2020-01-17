@@ -149,7 +149,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="kitz-jungtier-von-ziegen">Kitz (Jungtier von Ziegen)</object>
 			<object type="Zutaten" xml:id="lammschnitzel">Lammschnitzel</object>
@@ -157,7 +157,7 @@
 			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			
                 </listObject>

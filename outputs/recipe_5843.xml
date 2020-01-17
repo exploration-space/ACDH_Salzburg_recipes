@@ -151,7 +151,7 @@ eine Gallrat - hier eine gallertartige Sulze aus Blut</note>
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="hausenblase">Hausenblase</object>
 			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
@@ -161,7 +161,7 @@ eine Gallrat - hier eine gallertartige Sulze aus Blut</note>
 			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="brett">Brett</object>
 			<object type="MaterielleKultur" xml:id="loeffel">Löffel</object>

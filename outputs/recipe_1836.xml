@@ -152,7 +152,7 @@ Willst du eingemachte Nüsse machen, dann pflücke die Nüsse acht Tage vor dem 
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="honig">Honig</object>
 			<object type="Zutaten" xml:id="ingwer">Ingwer</object>
@@ -163,7 +163,7 @@ Willst du eingemachte Nüsse machen, dann pflücke die Nüsse acht Tage vor dem 
 			<object type="Zutaten" xml:id="zimt">Zimt</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="fass">Fass</object>
 			<object type="MaterielleKultur" xml:id="pfriem">Pfriem</object>

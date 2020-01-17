@@ -150,7 +150,7 @@ Willst du eingemachtes Kraut zubereiten, dann koch Weißkrautköpfe. Nimm zwei T
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="anis">Anis</object>
 			<object type="Zutaten" xml:id="honig">Honig</object>
@@ -160,7 +160,7 @@ Willst du eingemachtes Kraut zubereiten, dann koch Weißkrautköpfe. Nimm zwei T
 			<object type="Zutaten" xml:id="weisskraut">Weißkraut</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			
                 </listObject>

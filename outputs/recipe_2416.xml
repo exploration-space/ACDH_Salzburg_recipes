@@ -151,7 +151,7 @@ Es fällt auf, dass die "verlorenen" Eier im Rezept erst ganz zuletzt über die 
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="eier">Eier</object>
 			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
@@ -163,7 +163,7 @@ Es fällt auf, dass die "verlorenen" Eier im Rezept erst ganz zuletzt über die 
 			<object type="Zutaten" xml:id="weissbrot">Weißbrot</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
                 </listObject>

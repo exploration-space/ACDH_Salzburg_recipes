@@ -151,7 +151,7 @@ Willst du einen guten Brei zu Wachteln machen, dann nimm Fenchel und schneide ih
     </teiHeader>
     <text>
         <body>
-            <div type="ingredients">
+            <div type="ingredient">
                 <listObject>
 			<object type="Zutaten" xml:id="fenchel">Fenchel</object>
 			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
@@ -161,7 +161,7 @@ Willst du einen guten Brei zu Wachteln machen, dann nimm Fenchel und schneide ih
 			<object type="Zutaten" xml:id="wachtelleber">Wachtelleber</object>
                  </listObject>
             </div>
-             <div type="utensils">
+             <div type="utensil">
                 <listObject>
 			
                 </listObject>
