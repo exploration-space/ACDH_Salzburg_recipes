@@ -151,20 +151,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="karpfen">Karpfen</object>
-			<object type="Zutaten" xml:id="lorbeer">Lorbeerblätter</object>
-			<object type="Zutaten" xml:id="mehl">Mehl</object>
-			<object type="Zutaten" xml:id="muskatnuss">Muskatnuss</object>
-			<object type="Zutaten" xml:id="nelken">Nelken</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="rosmarin">Rosmarin</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="teig">Teig</object>
-			<object type="Zutaten" xml:id="weinessig">Weinessig</object>
-			<object type="Zutaten" xml:id="zitronen">Zitronen</object>
-			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="karpfen">Karpfen</object>
+			<object type="ingredient" xml:id="lorbeer">Lorbeerblätter</object>
+			<object type="ingredient" xml:id="mehl">Mehl</object>
+			<object type="ingredient" xml:id="muskatnuss">Muskatnuss</object>
+			<object type="ingredient" xml:id="nelken">Nelken</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="rosmarin">Rosmarin</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="teig">Teig</object>
+			<object type="ingredient" xml:id="weinessig">Weinessig</object>
+			<object type="ingredient" xml:id="zitronen">Zitronen</object>
+			<object type="ingredient" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
              <div type="utensil">

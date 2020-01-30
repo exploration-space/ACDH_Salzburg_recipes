@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="dotter">Dotter (Eigelb)</object>
-			<object type="Zutaten" xml:id="erbsensuppe">Erbsenbrühe</object>
-			<object type="Zutaten" xml:id="karpfen">Karpfen</object>
-			<object type="Zutaten" xml:id="karpfenrogen">Karpfenrogen</object>
-			<object type="Zutaten" xml:id="kraeuter-frisch">Kräuter (frisch)</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="petersilienwurzel">Petersilienwurzel</object>
-			<object type="Zutaten" xml:id="wecken-gerieben">Wecken (gerieben)</object>
-			<object type="Zutaten" xml:id="weisses-mehl">weißes Mehl</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="dotter">Dotter (Eigelb)</object>
+			<object type="ingredient" xml:id="erbsensuppe">Erbsenbrühe</object>
+			<object type="ingredient" xml:id="karpfen">Karpfen</object>
+			<object type="ingredient" xml:id="karpfenrogen">Karpfenrogen</object>
+			<object type="ingredient" xml:id="kraeuter-frisch">Kräuter (frisch)</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="petersilienwurzel">Petersilienwurzel</object>
+			<object type="ingredient" xml:id="wecken-gerieben">Wecken (gerieben)</object>
+			<object type="ingredient" xml:id="weisses-mehl">weißes Mehl</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="fischkessel">Fischkessel</object>
-			<object type="MaterielleKultur" xml:id="kohlen">Kohlen</object>
+			<object type="utensil" xml:id="fischkessel">Fischkessel</object>
+			<object type="utensil" xml:id="kohlen">Kohlen</object>
                 </listObject>
             </div>
             <div type="dietetic">

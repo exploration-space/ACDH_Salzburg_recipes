@@ -151,24 +151,24 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
-			<object type="Zutaten" xml:id="huhn">Huhn</object>
-			<object type="Zutaten" xml:id="ingwer">Ingwer</object>
-			<object type="Zutaten" xml:id="kardamom">Kardamom</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="semmelbroesel">Semmelbrösel</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zitronensaft">Zitronensaft</object>
-			<object type="Zutaten" xml:id="zitronenscheiben">Zitronenscheiben</object>
-			<object type="Zutaten" xml:id="zitronenzesten">Zitronenzesten</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="fleischbruehe">Fleischbrühe</object>
+			<object type="ingredient" xml:id="huhn">Huhn</object>
+			<object type="ingredient" xml:id="ingwer">Ingwer</object>
+			<object type="ingredient" xml:id="kardamom">Kardamom</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="semmelbroesel">Semmelbrösel</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zitronensaft">Zitronensaft</object>
+			<object type="ingredient" xml:id="zitronenscheiben">Zitronenscheiben</object>
+			<object type="ingredient" xml:id="zitronenzesten">Zitronenzesten</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="stollhafen">Stollhafen</object>
+			<object type="utensil" xml:id="stollhafen">Stollhafen</object>
                 </listObject>
             </div>
             <div type="dietetic">

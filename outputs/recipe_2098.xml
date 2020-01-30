@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="estragon">Estragon</object>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="kaese">Käse</object>
-			<object type="Zutaten" xml:id="kraeuter">Kräuter</object>
-			<object type="Zutaten" xml:id="majoran">Majoran</object>
-			<object type="Zutaten" xml:id="petersilie">Petersilie</object>
-			<object type="Zutaten" xml:id="rosinen">Rosinen</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="estragon">Estragon</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="kaese">Käse</object>
+			<object type="ingredient" xml:id="kraeuter">Kräuter</object>
+			<object type="ingredient" xml:id="majoran">Majoran</object>
+			<object type="ingredient" xml:id="petersilie">Petersilie</object>
+			<object type="ingredient" xml:id="rosinen">Rosinen</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="deckel">Deckel</object>
-			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>
-			<object type="MaterielleKultur" xml:id="rost">Rost</object>
+			<object type="utensil" xml:id="deckel">Deckel</object>
+			<object type="utensil" xml:id="pfanne">Pfanne</object>
+			<object type="utensil" xml:id="rost">Rost</object>
                 </listObject>
             </div>
             <div type="dietetic">

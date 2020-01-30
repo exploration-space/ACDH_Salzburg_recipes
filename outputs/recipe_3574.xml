@@ -154,12 +154,12 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="seezunge-plattfisch">Seezunge (Plattfisch)</object>
+			<object type="ingredient" xml:id="seezunge-plattfisch">Seezunge (Plattfisch)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="fass">Fass</object>
+			<object type="utensil" xml:id="fass">Fass</object>
                 </listObject>
             </div>
             <div type="dietetic">

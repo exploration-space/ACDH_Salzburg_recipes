@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="brotrinde">Brotrinde</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="spargel">Spargel</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zitronensaft">Zitronensaft</object>
+			<object type="ingredient" xml:id="brotrinde">Brotrinde</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="spargel">Spargel</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zitronensaft">Zitronensaft</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="becken">Becken</object>
-			<object type="MaterielleKultur" xml:id="gabel">Gabel</object>
-			<object type="MaterielleKultur" xml:id="kohlpfanne">Kohlpfanne</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="zinnschuessel">Zinnschüssel</object>
+			<object type="utensil" xml:id="becken">Becken</object>
+			<object type="utensil" xml:id="gabel">Gabel</object>
+			<object type="utensil" xml:id="kohlpfanne">Kohlpfanne</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="zinnschuessel">Zinnschüssel</object>
                 </listObject>
             </div>
             <div type="dietetic">

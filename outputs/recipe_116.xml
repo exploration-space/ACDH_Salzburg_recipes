@@ -151,17 +151,17 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="erbsensuppe">Erbsenbrühe</object>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="karpfen">Karpfen</object>
-			<object type="Zutaten" xml:id="milch">Milch</object>
-			<object type="Zutaten" xml:id="morcheln">Morcheln</object>
-			<object type="Zutaten" xml:id="petersilie">Petersilie</object>
-			<object type="Zutaten" xml:id="sardellen">Sardellen</object>
-			<object type="Zutaten" xml:id="semmeln">Semmeln</object>
-			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="erbsensuppe">Erbsenbrühe</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="karpfen">Karpfen</object>
+			<object type="ingredient" xml:id="milch">Milch</object>
+			<object type="ingredient" xml:id="morcheln">Morcheln</object>
+			<object type="ingredient" xml:id="petersilie">Petersilie</object>
+			<object type="ingredient" xml:id="sardellen">Sardellen</object>
+			<object type="ingredient" xml:id="semmeln">Semmeln</object>
+			<object type="ingredient" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
              <div type="utensil">

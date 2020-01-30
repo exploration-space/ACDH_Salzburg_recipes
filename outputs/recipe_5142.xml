@@ -151,21 +151,21 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="mundmehl">Mundmehl</object>
-			<object type="Zutaten" xml:id="sahne">Rahm (Sahne)</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="mundmehl">Mundmehl</object>
+			<object type="ingredient" xml:id="sahne">Rahm (Sahne)</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="kasserolle">Kasserolle</object>
-			<object type="MaterielleKultur" xml:id="messer">Messer</object>
-			<object type="MaterielleKultur" xml:id="pfanne-verzinnt">Pfanne (verzinnt)</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="teller">Teller</object>
+			<object type="utensil" xml:id="kasserolle">Kasserolle</object>
+			<object type="utensil" xml:id="messer">Messer</object>
+			<object type="utensil" xml:id="pfanne-verzinnt">Pfanne (verzinnt)</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="teller">Teller</object>
                 </listObject>
             </div>
             <div type="dietetic">

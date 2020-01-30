@@ -151,18 +151,18 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="dotter">Dotter (Eigelb)</object>
-			<object type="Zutaten" xml:id="germ-hefe">Germ (Hefe)</object>
-			<object type="Zutaten" xml:id="mehl">Mehl</object>
-			<object type="Zutaten" xml:id="sahne">Rahm (Sahne)</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="dotter">Dotter (Eigelb)</object>
+			<object type="ingredient" xml:id="germ-hefe">Germ (Hefe)</object>
+			<object type="ingredient" xml:id="mehl">Mehl</object>
+			<object type="ingredient" xml:id="sahne">Rahm (Sahne)</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="brett">Brett</object>
-			<object type="MaterielleKultur" xml:id="hafen-topf">Topf (Hafen)</object>
+			<object type="utensil" xml:id="brett">Brett</object>
+			<object type="utensil" xml:id="hafen-topf">Topf (Hafen)</object>
                 </listObject>
             </div>
             <div type="dietetic">

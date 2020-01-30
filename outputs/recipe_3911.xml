@@ -151,10 +151,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="auerhahn">Auerhahn</object>
-			<object type="Zutaten" xml:id="kraeuter-frisch">Kräuter (frisch)</object>
-			<object type="Zutaten" xml:id="limonen">Limonen</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="auerhahn">Auerhahn</object>
+			<object type="ingredient" xml:id="kraeuter-frisch">Kräuter (frisch)</object>
+			<object type="ingredient" xml:id="limonen">Limonen</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
                  </listObject>
             </div>
              <div type="utensil">

@@ -151,16 +151,16 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="trisenet">Trisenet</object>
-			<object type="Zutaten" xml:id="voegel">Vögel</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="weinbeeren">Weinbeeren</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="trisenet">Trisenet</object>
+			<object type="ingredient" xml:id="voegel">Vögel</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="weinbeeren">Weinbeeren</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="hafen-topf">Topf (Hafen)</object>
+			<object type="utensil" xml:id="hafen-topf">Topf (Hafen)</object>
                 </listObject>
             </div>
             <div type="dietetic">

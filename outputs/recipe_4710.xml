@@ -151,32 +151,32 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="aepfel-rot">Äpfel (rot)</object>
-			<object type="Zutaten" xml:id="bier-rotes">Bier (rotes)</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="spanferkel">Spanferkel</object>
-			<object type="Zutaten" xml:id="speckschwarte">Speckschwarte</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="aepfel-rot">Äpfel (rot)</object>
+			<object type="ingredient" xml:id="bier-rotes">Bier (rotes)</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="spanferkel">Spanferkel</object>
+			<object type="ingredient" xml:id="speckschwarte">Speckschwarte</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="blumenkraenzchen">Blumenkränzchen</object>
-			<object type="MaterielleKultur" xml:id="brett">Brett</object>
-			<object type="MaterielleKultur" xml:id="feuer">Feuer</object>
-			<object type="MaterielleKultur" xml:id="fleischgabel">Fleischgabel</object>
-			<object type="MaterielleKultur" xml:id="haefelein-2">Häfelein</object>
-			<object type="MaterielleKultur" xml:id="holz-hohl">Holz (hohl)</object>
-			<object type="MaterielleKultur" xml:id="hoelzchen">Hölzchen</object>
-			<object type="MaterielleKultur" xml:id="keller">Keller</object>
-			<object type="MaterielleKultur" xml:id="multer">Multer</object>
-			<object type="MaterielleKultur" xml:id="spiesschen">Spießchen</object>
-			<object type="MaterielleKultur" xml:id="teller">Teller</object>
-			<object type="MaterielleKultur" xml:id="hafen-topf">Topf (Hafen)</object>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="blumenkraenzchen">Blumenkränzchen</object>
+			<object type="utensil" xml:id="brett">Brett</object>
+			<object type="utensil" xml:id="feuer">Feuer</object>
+			<object type="utensil" xml:id="fleischgabel">Fleischgabel</object>
+			<object type="utensil" xml:id="haefelein-2">Häfelein</object>
+			<object type="utensil" xml:id="holz-hohl">Holz (hohl)</object>
+			<object type="utensil" xml:id="hoelzchen">Hölzchen</object>
+			<object type="utensil" xml:id="keller">Keller</object>
+			<object type="utensil" xml:id="multer">Multer</object>
+			<object type="utensil" xml:id="spiesschen">Spießchen</object>
+			<object type="utensil" xml:id="teller">Teller</object>
+			<object type="utensil" xml:id="hafen-topf">Topf (Hafen)</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -151,12 +151,12 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="kraeuter-frisch">Kräuter (frisch)</object>
-			<object type="Zutaten" xml:id="limonen">Limonen</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="spanferkel">Spanferkel</object>
-			<object type="Zutaten" xml:id="speck-gewuerzt">Speck (gewürzt)</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="kraeuter-frisch">Kräuter (frisch)</object>
+			<object type="ingredient" xml:id="limonen">Limonen</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="spanferkel">Spanferkel</object>
+			<object type="ingredient" xml:id="speck-gewuerzt">Speck (gewürzt)</object>
                  </listObject>
             </div>
              <div type="utensil">

@@ -151,25 +151,25 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="essig">Essig</object>
-			<object type="Zutaten" xml:id="knoblauch">Knoblauch</object>
-			<object type="Zutaten" xml:id="rinderzunge">Rinderzunge</object>
-			<object type="Zutaten" xml:id="rote-rueben-rote-bete">Rote Rüben (Rote Bete)</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="wacholderbeeren">Wacholderbeeren</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="wein-sauer">Wein (sauer)</object>
+			<object type="ingredient" xml:id="essig">Essig</object>
+			<object type="ingredient" xml:id="knoblauch">Knoblauch</object>
+			<object type="ingredient" xml:id="rinderzunge">Rinderzunge</object>
+			<object type="ingredient" xml:id="rote-rueben-rote-bete">Rote Rüben (Rote Bete)</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="wacholderbeeren">Wacholderbeeren</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="wein-sauer">Wein (sauer)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="brett">Brett</object>
-			<object type="MaterielleKultur" xml:id="multer">Multer</object>
-			<object type="MaterielleKultur" xml:id="rauch">Rauch</object>
-			<object type="MaterielleKultur" xml:id="reibeisen">Reibeisen</object>
-			<object type="MaterielleKultur" xml:id="schaff">Schaff</object>
-			<object type="MaterielleKultur" xml:id="spicknadel">Spicknadel</object>
-			<object type="MaterielleKultur" xml:id="stein">Stein</object>
+			<object type="utensil" xml:id="brett">Brett</object>
+			<object type="utensil" xml:id="multer">Multer</object>
+			<object type="utensil" xml:id="rauch">Rauch</object>
+			<object type="utensil" xml:id="reibeisen">Reibeisen</object>
+			<object type="utensil" xml:id="schaff">Schaff</object>
+			<object type="utensil" xml:id="spicknadel">Spicknadel</object>
+			<object type="utensil" xml:id="stein">Stein</object>
                 </listObject>
             </div>
             <div type="dietetic">

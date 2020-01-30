@@ -151,16 +151,16 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="austern">Austern</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="haselhuhn-wildgefluegel">Haselhuhn</object>
-			<object type="Zutaten" xml:id="rebhuhn-wildgefluegel">Rebhuhn</object>
-			<object type="Zutaten" xml:id="semmelbroesel">Semmelbrösel</object>
+			<object type="ingredient" xml:id="austern">Austern</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="haselhuhn-wildgefluegel">Haselhuhn</object>
+			<object type="ingredient" xml:id="rebhuhn-wildgefluegel">Rebhuhn</object>
+			<object type="ingredient" xml:id="semmelbroesel">Semmelbrösel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="kasserolle">Kasserolle</object>
+			<object type="utensil" xml:id="kasserolle">Kasserolle</object>
                 </listObject>
             </div>
             <div type="dietetic">

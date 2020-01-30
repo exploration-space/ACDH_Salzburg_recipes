@@ -151,23 +151,23 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="buttersauce">Buttersauce</object>
-			<object type="Zutaten" xml:id="kraeuter">Kräuter</object>
-			<object type="Zutaten" xml:id="oel">Öl</object>
-			<object type="Zutaten" xml:id="orangensaft">Orangensaft</object>
-			<object type="Zutaten" xml:id="pfeffer-gem">Pfeffer (gem.)</object>
-			<object type="Zutaten" xml:id="rutte-fisch">Rutte (Fisch)</object>
-			<object type="Zutaten" xml:id="ruttenleber">Ruttenleber</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zitronensaft">Zitronensaft</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="buttersauce">Buttersauce</object>
+			<object type="ingredient" xml:id="kraeuter">Kräuter</object>
+			<object type="ingredient" xml:id="oel">Öl</object>
+			<object type="ingredient" xml:id="orangensaft">Orangensaft</object>
+			<object type="ingredient" xml:id="pfeffer-gem">Pfeffer (gem.)</object>
+			<object type="ingredient" xml:id="rutte-fisch">Rutte (Fisch)</object>
+			<object type="ingredient" xml:id="ruttenleber">Ruttenleber</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zitronensaft">Zitronensaft</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="austernschalen">Austernschalen</object>
-			<object type="MaterielleKultur" xml:id="spiess">Spieß</object>
+			<object type="utensil" xml:id="austernschalen">Austernschalen</object>
+			<object type="utensil" xml:id="spiess">Spieß</object>
                 </listObject>
             </div>
             <div type="dietetic">

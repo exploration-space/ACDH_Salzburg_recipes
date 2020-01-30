@@ -155,33 +155,33 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="fisch">Fisch</object>
-			<object type="Zutaten" xml:id="hausenblase">Hausenblase</object>
-			<object type="Zutaten" xml:id="hechtkopf">Hechtkopf</object>
-			<object type="Zutaten" xml:id="ingwer">Ingwer</object>
-			<object type="Zutaten" xml:id="lorbeer">Lorbeerblätter</object>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="muskatnuss">Muskatnuss</object>
-			<object type="Zutaten" xml:id="tournesol">Tournesol</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zimtstange">Zimtstange</object>
-			<object type="Zutaten" xml:id="zitronenzesten">Zitronenzesten</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="fisch">Fisch</object>
+			<object type="ingredient" xml:id="hausenblase">Hausenblase</object>
+			<object type="ingredient" xml:id="hechtkopf">Hechtkopf</object>
+			<object type="ingredient" xml:id="ingwer">Ingwer</object>
+			<object type="ingredient" xml:id="lorbeer">Lorbeerblätter</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="muskatnuss">Muskatnuss</object>
+			<object type="ingredient" xml:id="tournesol">Tournesol</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zimtstange">Zimtstange</object>
+			<object type="ingredient" xml:id="zitronenzesten">Zitronenzesten</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="sieb">Sieb</object>
-			<object type="MaterielleKultur" xml:id="sulz-sack">Sulz-Sack</object>
-			<object type="MaterielleKultur" xml:id="tafel-tisch">Tafel (Tisch)</object>
-			<object type="MaterielleKultur" xml:id="tonschuessel">Tonschüssel</object>
-			<object type="MaterielleKultur" xml:id="tontopf-rein">Tontopf (Rein)</object>
-			<object type="MaterielleKultur" xml:id="hafen-topf">Topf (Hafen)</object>
-			<object type="MaterielleKultur" xml:id="topf">Topf (Rein)</object>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="sieb">Sieb</object>
+			<object type="utensil" xml:id="sulz-sack">Sulz-Sack</object>
+			<object type="utensil" xml:id="tafel-tisch">Tafel (Tisch)</object>
+			<object type="utensil" xml:id="tonschuessel">Tonschüssel</object>
+			<object type="utensil" xml:id="tontopf-rein">Tontopf (Rein)</object>
+			<object type="utensil" xml:id="hafen-topf">Topf (Hafen)</object>
+			<object type="utensil" xml:id="topf">Topf (Rein)</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

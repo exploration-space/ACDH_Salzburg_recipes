@@ -152,16 +152,16 @@ Willst du grüne Eier machen, dann koche Eier, bis die Dotter weich sind. Mach e
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
-			<object type="Zutaten" xml:id="petersilie">Petersilie</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="fleischbruehe">Fleischbrühe</object>
+			<object type="ingredient" xml:id="petersilie">Petersilie</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>
-			<object type="MaterielleKultur" xml:id="reibeschale">Reibeschale</object>
+			<object type="utensil" xml:id="pfanne">Pfanne</object>
+			<object type="utensil" xml:id="reibeschale">Reibeschale</object>
                 </listObject>
             </div>
             <div type="dietetic">

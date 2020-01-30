@@ -151,21 +151,21 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
-			<object type="Zutaten" xml:id="kalbsmilz">Kalbsmilz</object>
-			<object type="Zutaten" xml:id="petersilienkraut">Petersilienkraut</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="semmelmehl">Semmelmehl</object>
-			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="fleischbruehe">Fleischbrühe</object>
+			<object type="ingredient" xml:id="kalbsmilz">Kalbsmilz</object>
+			<object type="ingredient" xml:id="petersilienkraut">Petersilienkraut</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="semmelmehl">Semmelmehl</object>
+			<object type="ingredient" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="glut">Glut</object>
-			<object type="MaterielleKultur" xml:id="kohlen">Kohlen</object>
-			<object type="MaterielleKultur" xml:id="stollhafen">Stollhafen</object>
-			<object type="MaterielleKultur" xml:id="trichter">Trichter</object>
+			<object type="utensil" xml:id="glut">Glut</object>
+			<object type="utensil" xml:id="kohlen">Kohlen</object>
+			<object type="utensil" xml:id="stollhafen">Stollhafen</object>
+			<object type="utensil" xml:id="trichter">Trichter</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -151,25 +151,25 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="nelken">Nelken</object>
-			<object type="Zutaten" xml:id="roehrenwasser-leitungswasser">Röhrenwasser (Leitungswasser)</object>
-			<object type="Zutaten" xml:id="walnuesse">Walnüsse</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
-			<object type="Zutaten" xml:id="zitronenzesten">Zitronenzesten</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="nelken">Nelken</object>
+			<object type="ingredient" xml:id="roehrenwasser-leitungswasser">Röhrenwasser (Leitungswasser)</object>
+			<object type="ingredient" xml:id="walnuesse">Walnüsse</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="zitronenzesten">Zitronenzesten</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="glas">Glas</object>
-			<object type="MaterielleKultur" xml:id="kessel">Kessel</object>
-			<object type="MaterielleKultur" xml:id="pfriem-holz">Pfriem (Holz)</object>
-			<object type="MaterielleKultur" xml:id="schaff">Schaff</object>
-			<object type="MaterielleKultur" xml:id="stollhafen">Stollhafen</object>
-			<object type="MaterielleKultur" xml:id="tiegel">Tiegel</object>
-			<object type="MaterielleKultur" xml:id="topf-hafen-glasiert">Topf (Hafen - glasiert)</object>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="glas">Glas</object>
+			<object type="utensil" xml:id="kessel">Kessel</object>
+			<object type="utensil" xml:id="pfriem-holz">Pfriem (Holz)</object>
+			<object type="utensil" xml:id="schaff">Schaff</object>
+			<object type="utensil" xml:id="stollhafen">Stollhafen</object>
+			<object type="utensil" xml:id="tiegel">Tiegel</object>
+			<object type="utensil" xml:id="topf-hafen-glasiert">Topf (Hafen - glasiert)</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -151,17 +151,17 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="bratwurst-gehaeck">Bratwurst (Gehäck)</object>
-			<object type="Zutaten" xml:id="hirschbrust">Hirschbrust</object>
-			<object type="Zutaten" xml:id="sardellenbruehe">Sardellenbrühe</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="bratwurst-gehaeck">Bratwurst (Gehäck)</object>
+			<object type="ingredient" xml:id="hirschbrust">Hirschbrust</object>
+			<object type="ingredient" xml:id="sardellenbruehe">Sardellenbrühe</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
-			<object type="MaterielleKultur" xml:id="rost">Rost</object>
-			<object type="MaterielleKultur" xml:id="spiess">Spieß</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="rost">Rost</object>
+			<object type="utensil" xml:id="spiess">Spieß</object>
                 </listObject>
             </div>
             <div type="dietetic">

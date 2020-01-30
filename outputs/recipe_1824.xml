@@ -152,16 +152,16 @@ Willst du Morcheln mit Gelee machen, dann fülle die Morcheln mit einer guten Ei
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eierfuelle">Eierfülle</object>
-			<object type="Zutaten" xml:id="fischbruehe">Fischbrühe</object>
-			<object type="Zutaten" xml:id="hausenblase">Hausenblase</object>
-			<object type="Zutaten" xml:id="morcheln">Morcheln</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="eierfuelle">Eierfülle</object>
+			<object type="ingredient" xml:id="fischbruehe">Fischbrühe</object>
+			<object type="ingredient" xml:id="hausenblase">Hausenblase</object>
+			<object type="ingredient" xml:id="morcheln">Morcheln</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="spiess">Spieß</object>
+			<object type="utensil" xml:id="spiess">Spieß</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -151,25 +151,25 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="aepfel">Äpfel</object>
-			<object type="Zutaten" xml:id="cardamom">Cardamom</object>
-			<object type="Zutaten" xml:id="mandeln-abgezogen">Mandeln (abgezogen)</object>
-			<object type="Zutaten" xml:id="rosinen">Rosinen</object>
-			<object type="Zutaten" xml:id="safran">Safran</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="semmeln">Semmeln</object>
-			<object type="Zutaten" xml:id="suesse-bruehe-bruehe">süße Brühe</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="weinbeeren">Weinbeeren</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="aepfel">Äpfel</object>
+			<object type="ingredient" xml:id="cardamom">Cardamom</object>
+			<object type="ingredient" xml:id="mandeln-abgezogen">Mandeln (abgezogen)</object>
+			<object type="ingredient" xml:id="rosinen">Rosinen</object>
+			<object type="ingredient" xml:id="safran">Safran</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="semmeln">Semmeln</object>
+			<object type="ingredient" xml:id="suesse-bruehe-bruehe">süße Brühe</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="weinbeeren">Weinbeeren</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="bratpfanne-irden">Bratpfanne (irden)</object>
-			<object type="MaterielleKultur" xml:id="deckel">Deckel</object>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="bratpfanne-irden">Bratpfanne (irden)</object>
+			<object type="utensil" xml:id="deckel">Deckel</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
                 </listObject>
             </div>
             <div type="dietetic">

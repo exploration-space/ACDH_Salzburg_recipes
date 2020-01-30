@@ -158,17 +158,17 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="kapaun">Kapaun</object>
-			<object type="Zutaten" xml:id="konfekt">Konfekt</object>
-			<object type="Zutaten" xml:id="muskatnuss">Muskatnuss</object>
-			<object type="Zutaten" xml:id="trisenet">Trisenet</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="weissbrot-brot">Weißbrot</object>
+			<object type="ingredient" xml:id="kapaun">Kapaun</object>
+			<object type="ingredient" xml:id="konfekt">Konfekt</object>
+			<object type="ingredient" xml:id="muskatnuss">Muskatnuss</object>
+			<object type="ingredient" xml:id="trisenet">Trisenet</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="weissbrot-brot">Weißbrot</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
                 </listObject>
             </div>
             <div type="dietetic">

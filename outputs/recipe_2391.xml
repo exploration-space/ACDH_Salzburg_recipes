@@ -151,19 +151,19 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
-			<object type="Zutaten" xml:id="kardamom">Kardamom</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="roggenbrot">Roggenbrot</object>
-			<object type="Zutaten" xml:id="weinessig">Weinessig</object>
-			<object type="Zutaten" xml:id="weizenmehl">Weizenmehl</object>
-			<object type="Zutaten" xml:id="zitronen">Zitronen</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="fleischbruehe">Fleischbrühe</object>
+			<object type="ingredient" xml:id="kardamom">Kardamom</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="roggenbrot">Roggenbrot</object>
+			<object type="ingredient" xml:id="weinessig">Weinessig</object>
+			<object type="ingredient" xml:id="weizenmehl">Weizenmehl</object>
+			<object type="ingredient" xml:id="zitronen">Zitronen</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="kochloeffel">Kochlöffel</object>
+			<object type="utensil" xml:id="kochloeffel">Kochlöffel</object>
                 </listObject>
             </div>
             <div type="dietetic">

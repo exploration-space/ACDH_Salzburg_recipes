@@ -151,15 +151,15 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="mehl-braun">Mehl (braun)</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="sauce-braun">Sauce (braun)</object>
-			<object type="Zutaten" xml:id="schnepfe">Schnepfe</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zitronenschalen">Zitronenschalen</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="fleischbruehe">Fleischbrühe</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="mehl-braun">Mehl (braun)</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="sauce-braun">Sauce (braun)</object>
+			<object type="ingredient" xml:id="schnepfe">Schnepfe</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zitronenschalen">Zitronenschalen</object>
                  </listObject>
             </div>
              <div type="utensil">

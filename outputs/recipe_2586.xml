@@ -151,20 +151,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="anis">Anis</object>
-			<object type="Zutaten" xml:id="essig">Essig</object>
-			<object type="Zutaten" xml:id="fenchel">Fenchel</object>
-			<object type="Zutaten" xml:id="koriander">Koriander</object>
-			<object type="Zutaten" xml:id="kuemmel">Kümmel</object>
-			<object type="Zutaten" xml:id="meerrettich">Meerrettich</object>
-			<object type="Zutaten" xml:id="rote-bete">Rote Bete</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="anis">Anis</object>
+			<object type="ingredient" xml:id="essig">Essig</object>
+			<object type="ingredient" xml:id="fenchel">Fenchel</object>
+			<object type="ingredient" xml:id="koriander">Koriander</object>
+			<object type="ingredient" xml:id="kuemmel">Kümmel</object>
+			<object type="ingredient" xml:id="meerrettich">Meerrettich</object>
+			<object type="ingredient" xml:id="rote-bete">Rote Bete</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="irdene-schuessel">Irdene Schüssel</object>
-			<object type="MaterielleKultur" xml:id="tiegel">Tiegel</object>
+			<object type="utensil" xml:id="irdene-schuessel">Irdene Schüssel</object>
+			<object type="utensil" xml:id="tiegel">Tiegel</object>
                 </listObject>
             </div>
             <div type="dietetic">

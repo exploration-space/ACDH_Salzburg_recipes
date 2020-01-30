@@ -151,20 +151,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="teig">Teig</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
-			<object type="Zutaten" xml:id="zuckerglasur">Zuckerglasur</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="teig">Teig</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="zuckerglasur">Zuckerglasur</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="blech">Blech</object>
-			<object type="MaterielleKultur" xml:id="papier">Papier</object>
-			<object type="MaterielleKultur" xml:id="pfaennlein">Pfännlein</object>
-			<object type="MaterielleKultur" xml:id="pruegel">Prügel</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="spiess">Spieß</object>
+			<object type="utensil" xml:id="blech">Blech</object>
+			<object type="utensil" xml:id="papier">Papier</object>
+			<object type="utensil" xml:id="pfaennlein">Pfännlein</object>
+			<object type="utensil" xml:id="pruegel">Prügel</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="spiess">Spieß</object>
                 </listObject>
             </div>
             <div type="dietetic">

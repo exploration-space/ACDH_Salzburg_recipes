@@ -151,12 +151,12 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="weichseln-sauerkirschen">Weichseln (Sauerkirschen)</object>
+			<object type="ingredient" xml:id="weichseln-sauerkirschen">Weichseln (Sauerkirschen)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="tongeschirr">Tongeschirr</object>
+			<object type="utensil" xml:id="tongeschirr">Tongeschirr</object>
                 </listObject>
             </div>
             <div type="dietetic">

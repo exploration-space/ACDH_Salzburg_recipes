@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="fasan">Fasan</object>
-			<object type="Zutaten" xml:id="pastete">Pastete</object>
-			<object type="Zutaten" xml:id="sauerkraut">Sauerkraut</object>
+			<object type="ingredient" xml:id="fasan">Fasan</object>
+			<object type="ingredient" xml:id="pastete">Pastete</object>
+			<object type="ingredient" xml:id="sauerkraut">Sauerkraut</object>
                  </listObject>
             </div>
              <div type="utensil">

@@ -154,25 +154,25 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="bries">Bries</object>
-			<object type="Zutaten" xml:id="bruehe">Brühe</object>
-			<object type="Zutaten" xml:id="eiklar">Eiklar (Eiweiß)</object>
-			<object type="Zutaten" xml:id="eischnee">Eischnee</object>
-			<object type="Zutaten" xml:id="kalbsfaschiertes">Kalbsfaschiertes</object>
-			<object type="Zutaten" xml:id="pilze">Pilze</object>
-			<object type="Zutaten" xml:id="ragout">Ragout</object>
-			<object type="Zutaten" xml:id="schinken">Schinken</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
-			<object type="Zutaten" xml:id="taube">Taube</object>
-			<object type="Zutaten" xml:id="trueffel">Trüffel</object>
+			<object type="ingredient" xml:id="bries">Bries</object>
+			<object type="ingredient" xml:id="bruehe">Brühe</object>
+			<object type="ingredient" xml:id="eiklar">Eiklar (Eiweiß)</object>
+			<object type="ingredient" xml:id="eischnee">Eischnee</object>
+			<object type="ingredient" xml:id="kalbsfaschiertes">Kalbsfaschiertes</object>
+			<object type="ingredient" xml:id="pilze">Pilze</object>
+			<object type="ingredient" xml:id="ragout">Ragout</object>
+			<object type="ingredient" xml:id="schinken">Schinken</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="taube">Taube</object>
+			<object type="ingredient" xml:id="trueffel">Trüffel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="glut">Glut</object>
-			<object type="MaterielleKultur" xml:id="kasserolle">Kasserolle</object>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="glut">Glut</object>
+			<object type="utensil" xml:id="kasserolle">Kasserolle</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
                 </listObject>
             </div>
             <div type="dietetic">

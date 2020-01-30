@@ -151,18 +151,18 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="honigschaum">Honigschaum</object>
-			<object type="Zutaten" xml:id="pfirsichkerne">Pfirsichkerne</object>
-			<object type="Zutaten" xml:id="safran">Safran</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="honigschaum">Honigschaum</object>
+			<object type="ingredient" xml:id="pfirsichkerne">Pfirsichkerne</object>
+			<object type="ingredient" xml:id="safran">Safran</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="becher">Becher</object>
-			<object type="MaterielleKultur" xml:id="fass">Fass</object>
-			<object type="MaterielleKultur" xml:id="leintuch">Leintuch</object>
-			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>
+			<object type="utensil" xml:id="becher">Becher</object>
+			<object type="utensil" xml:id="fass">Fass</object>
+			<object type="utensil" xml:id="leintuch">Leintuch</object>
+			<object type="utensil" xml:id="pfanne">Pfanne</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -152,17 +152,17 @@ Willst du Mörserkoch machen, dann reibe Semmeln und vermische sie mit Eiern, f�
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="faerbemittel-gelb">Färbemittel (gelb)</object>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="muskatnuss">Muskatnuss</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="semmeln">Semmeln</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="faerbemittel-gelb">Färbemittel (gelb)</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="muskatnuss">Muskatnuss</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="semmeln">Semmeln</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="moerser">Mörser</object>
+			<object type="utensil" xml:id="moerser">Mörser</object>
                 </listObject>
             </div>
             <div type="dietetic">

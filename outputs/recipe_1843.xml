@@ -152,19 +152,19 @@ Willst du einen edlen medizinischen Trank zubereiten, damit dir während des Jah
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="wermut">Wermut</object>
-			<object type="Zutaten" xml:id="ziegenmilch">Ziegenmilch</object>
+			<object type="ingredient" xml:id="wermut">Wermut</object>
+			<object type="ingredient" xml:id="ziegenmilch">Ziegenmilch</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-geschwuelsten">bei Geschwülsten</object>
-			<object type="Diaetetik" xml:id="gegen-eiter">gegen Eiter</object>
+			<object type="dietetic" xml:id="bei-geschwuelsten">bei Geschwülsten</object>
+			<object type="dietetic" xml:id="gegen-eiter">gegen Eiter</object>
                 </listObject>
             </div>
         <div type="recipe">

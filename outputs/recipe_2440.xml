@@ -151,20 +151,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="brunnenwasser">Brunnenwasser</object>
-			<object type="Zutaten" xml:id="mandeloel">Mandelöl</object>
-			<object type="Zutaten" xml:id="quitten">Quitten</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="brunnenwasser">Brunnenwasser</object>
+			<object type="ingredient" xml:id="mandeloel">Mandelöl</object>
+			<object type="ingredient" xml:id="quitten">Quitten</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="becken">Becken</object>
-			<object type="MaterielleKultur" xml:id="model">Model</object>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
-			<object type="MaterielleKultur" xml:id="papier">Papier</object>
-			<object type="MaterielleKultur" xml:id="hafen-topf">Topf (Hafen)</object>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="becken">Becken</object>
+			<object type="utensil" xml:id="model">Model</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="papier">Papier</object>
+			<object type="utensil" xml:id="hafen-topf">Topf (Hafen)</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

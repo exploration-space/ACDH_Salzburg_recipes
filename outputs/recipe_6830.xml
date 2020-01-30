@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="hammelfleisch">Hammelfleisch</object>
-			<object type="Zutaten" xml:id="roggenteig">Roggenteig</object>
-			<object type="Zutaten" xml:id="saure-bruehe">saure Brühe</object>
+			<object type="ingredient" xml:id="hammelfleisch">Hammelfleisch</object>
+			<object type="ingredient" xml:id="roggenteig">Roggenteig</object>
+			<object type="ingredient" xml:id="saure-bruehe">saure Brühe</object>
                  </listObject>
             </div>
              <div type="utensil">

@@ -151,20 +151,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="erbsensuppe">Erbsenbrühe</object>
-			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
-			<object type="Zutaten" xml:id="kraeuter">Kräuter</object>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="muskatnuss">Muskatnuss</object>
-			<object type="Zutaten" xml:id="parmesan">Parmesan</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="semmelbroesel">Semmelbrösel</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="weinbeeren">Weinbeeren</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
-			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="erbsensuppe">Erbsenbrühe</object>
+			<object type="ingredient" xml:id="fleischbruehe">Fleischbrühe</object>
+			<object type="ingredient" xml:id="kraeuter">Kräuter</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="muskatnuss">Muskatnuss</object>
+			<object type="ingredient" xml:id="parmesan">Parmesan</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="semmelbroesel">Semmelbrösel</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="weinbeeren">Weinbeeren</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
              <div type="utensil">

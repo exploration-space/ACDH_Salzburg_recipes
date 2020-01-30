@@ -151,17 +151,17 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="amber">Amber</object>
-			<object type="Zutaten" xml:id="apfelquitten">Apfelquitten</object>
-			<object type="Zutaten" xml:id="quittenblaetter">Quittenblätter</object>
-			<object type="Zutaten" xml:id="rosenwasser">Rosenwasser</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="amber">Amber</object>
+			<object type="ingredient" xml:id="apfelquitten">Apfelquitten</object>
+			<object type="ingredient" xml:id="quittenblaetter">Quittenblätter</object>
+			<object type="ingredient" xml:id="rosenwasser">Rosenwasser</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="geschirr">Geschirr</object>
+			<object type="utensil" xml:id="geschirr">Geschirr</object>
                 </listObject>
             </div>
             <div type="dietetic">

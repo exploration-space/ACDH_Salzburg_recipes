@@ -151,12 +151,12 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="dotter">Dotter (Eigelb)</object>
-			<object type="Zutaten" xml:id="essig">Essig</object>
-			<object type="Zutaten" xml:id="kraeuter-frisch">Kräuter (frisch)</object>
-			<object type="Zutaten" xml:id="rinderbruehe">Rinderbrühe</object>
-			<object type="Zutaten" xml:id="spanferkel">Spanferkel</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="dotter">Dotter (Eigelb)</object>
+			<object type="ingredient" xml:id="essig">Essig</object>
+			<object type="ingredient" xml:id="kraeuter-frisch">Kräuter (frisch)</object>
+			<object type="ingredient" xml:id="rinderbruehe">Rinderbrühe</object>
+			<object type="ingredient" xml:id="spanferkel">Spanferkel</object>
                  </listObject>
             </div>
              <div type="utensil">

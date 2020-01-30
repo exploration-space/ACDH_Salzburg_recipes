@@ -151,20 +151,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="dotter">Dotter (Eigelb)</object>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="rosenwasser">Rosenwasser</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="semmelmehl">Semmelmehl</object>
-			<object type="Zutaten" xml:id="weizenmehl">Weizenmehl</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="dotter">Dotter (Eigelb)</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="rosenwasser">Rosenwasser</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="semmelmehl">Semmelmehl</object>
+			<object type="ingredient" xml:id="weizenmehl">Weizenmehl</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="loeffel-aus-eisen">Löffel (aus Eisen)</object>
-			<object type="MaterielleKultur" xml:id="pfund">Pfund</object>
-			<object type="MaterielleKultur" xml:id="spritze-aus-holz">Spritze (aus Holz)</object>
+			<object type="utensil" xml:id="loeffel-aus-eisen">Löffel (aus Eisen)</object>
+			<object type="utensil" xml:id="pfund">Pfund</object>
+			<object type="utensil" xml:id="spritze-aus-holz">Spritze (aus Holz)</object>
                 </listObject>
             </div>
             <div type="dietetic">

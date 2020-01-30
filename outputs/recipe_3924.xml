@@ -151,28 +151,28 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="fett">Fett</object>
-			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
-			<object type="Zutaten" xml:id="gruene-zwiebel">grüne Zwiebel</object>
-			<object type="Zutaten" xml:id="knoblauch">Knoblauch</object>
-			<object type="Zutaten" xml:id="linsen">Linsen</object>
-			<object type="Zutaten" xml:id="milch">Milch</object>
-			<object type="Zutaten" xml:id="muskatnuss">Muskatnuss</object>
-			<object type="Zutaten" xml:id="petersilie">Petersilie</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="pinienkerne">Pinienkerne</object>
-			<object type="Zutaten" xml:id="reis">Reis</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="schafschloegl">Schafschlögel</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="fett">Fett</object>
+			<object type="ingredient" xml:id="fleischbruehe">Fleischbrühe</object>
+			<object type="ingredient" xml:id="gruene-zwiebel">grüne Zwiebel</object>
+			<object type="ingredient" xml:id="knoblauch">Knoblauch</object>
+			<object type="ingredient" xml:id="linsen">Linsen</object>
+			<object type="ingredient" xml:id="milch">Milch</object>
+			<object type="ingredient" xml:id="muskatnuss">Muskatnuss</object>
+			<object type="ingredient" xml:id="petersilie">Petersilie</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="pinienkerne">Pinienkerne</object>
+			<object type="ingredient" xml:id="reis">Reis</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="schafschloegl">Schafschlögel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="geschirr">Geschirr</object>
-			<object type="MaterielleKultur" xml:id="glut">Glut</object>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="geschirr">Geschirr</object>
+			<object type="utensil" xml:id="glut">Glut</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
                 </listObject>
             </div>
             <div type="dietetic">

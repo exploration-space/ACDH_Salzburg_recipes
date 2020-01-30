@@ -151,10 +151,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="parsdorfer-aepfel">Parsdorfer Äpfel</object>
-			<object type="Zutaten" xml:id="roehrenwasser-leitungswasser">Röhrenwasser (Leitungswasser)</object>
-			<object type="Zutaten" xml:id="zitronen">Zitronen</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="parsdorfer-aepfel">Parsdorfer Äpfel</object>
+			<object type="ingredient" xml:id="roehrenwasser-leitungswasser">Röhrenwasser (Leitungswasser)</object>
+			<object type="ingredient" xml:id="zitronen">Zitronen</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">

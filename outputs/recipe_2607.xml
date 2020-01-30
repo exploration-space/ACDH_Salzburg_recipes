@@ -151,14 +151,14 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="mispeln">Mispeln</object>
-			<object type="Zutaten" xml:id="zucker-gelaeutert">Zucker (geläutert)</object>
+			<object type="ingredient" xml:id="mispeln">Mispeln</object>
+			<object type="ingredient" xml:id="zucker-gelaeutert">Zucker (geläutert)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="glas">Glas</object>
-			<object type="MaterielleKultur" xml:id="tiegel">Tiegel</object>
+			<object type="utensil" xml:id="glas">Glas</object>
+			<object type="utensil" xml:id="tiegel">Tiegel</object>
                 </listObject>
             </div>
             <div type="dietetic">

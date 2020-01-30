@@ -155,18 +155,18 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="bruehe">Brühe</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="koriander">Koriander</object>
-			<object type="Zutaten" xml:id="petersilie">Petersilie</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="schafsruecken">Schafsrücken</object>
-			<object type="Zutaten" xml:id="semmelbroesel">Semmelbrösel</object>
+			<object type="ingredient" xml:id="bruehe">Brühe</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="koriander">Koriander</object>
+			<object type="ingredient" xml:id="petersilie">Petersilie</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="schafsruecken">Schafsrücken</object>
+			<object type="ingredient" xml:id="semmelbroesel">Semmelbrösel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="messer">Messer</object>
+			<object type="utensil" xml:id="messer">Messer</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -151,20 +151,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="essig">Essig</object>
-			<object type="Zutaten" xml:id="knoblauch">Knoblauch</object>
-			<object type="Zutaten" xml:id="lorbeer">Lorbeerblätter</object>
-			<object type="Zutaten" xml:id="petersilie">Petersilie</object>
-			<object type="Zutaten" xml:id="salbeiteig">Salbeiteig</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="wachtel-wildgefluegel">Wachtel</object>
-			<object type="Zutaten" xml:id="zitronenschalen">Zitronenschalen</object>
+			<object type="ingredient" xml:id="essig">Essig</object>
+			<object type="ingredient" xml:id="knoblauch">Knoblauch</object>
+			<object type="ingredient" xml:id="lorbeer">Lorbeerblätter</object>
+			<object type="ingredient" xml:id="petersilie">Petersilie</object>
+			<object type="ingredient" xml:id="salbeiteig">Salbeiteig</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="wachtel-wildgefluegel">Wachtel</object>
+			<object type="ingredient" xml:id="zitronenschalen">Zitronenschalen</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

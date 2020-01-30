@@ -151,15 +151,15 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="champignon">Champignon</object>
-			<object type="Zutaten" xml:id="milch">Milch</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="oel">Öl</object>
-			<object type="Zutaten" xml:id="pfeffer-weiss">Pfeffer (weiß)</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="weisswein">Weißwein</object>
-			<object type="Zutaten" xml:id="weissweinessig">Weißweinessig</object>
+			<object type="ingredient" xml:id="champignon">Champignon</object>
+			<object type="ingredient" xml:id="milch">Milch</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="oel">Öl</object>
+			<object type="ingredient" xml:id="pfeffer-weiss">Pfeffer (weiß)</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="weisswein">Weißwein</object>
+			<object type="ingredient" xml:id="weissweinessig">Weißweinessig</object>
                  </listObject>
             </div>
              <div type="utensil">

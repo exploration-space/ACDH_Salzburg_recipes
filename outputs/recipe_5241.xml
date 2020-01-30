@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="konfekt">Konfekt</object>
-			<object type="Zutaten" xml:id="malvasia">Malvasier (Wein)</object>
-			<object type="Zutaten" xml:id="muskatnuss">Muskatnuss</object>
-			<object type="Zutaten" xml:id="roggenbrot-gerieben">Roggenbrot (gerieben)</object>
-			<object type="Zutaten" xml:id="trisenet">Trisenet</object>
+			<object type="ingredient" xml:id="konfekt">Konfekt</object>
+			<object type="ingredient" xml:id="malvasia">Malvasier (Wein)</object>
+			<object type="ingredient" xml:id="muskatnuss">Muskatnuss</object>
+			<object type="ingredient" xml:id="roggenbrot-gerieben">Roggenbrot (gerieben)</object>
+			<object type="ingredient" xml:id="trisenet">Trisenet</object>
                  </listObject>
             </div>
              <div type="utensil">

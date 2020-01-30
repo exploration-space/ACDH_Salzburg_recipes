@@ -151,7 +151,7 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="kraehe-weiss">Krähe (weiß)</object>
+			<object type="ingredient" xml:id="kraehe-weiss">Krähe (weiß)</object>
                  </listObject>
             </div>
              <div type="utensil">

@@ -151,18 +151,18 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="brachse">Brachse (Fisch)</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="butterteig">Butterteig</object>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="kapern">Kapern</object>
-			<object type="Zutaten" xml:id="pinienkerne">Pinienkerne</object>
-			<object type="Zutaten" xml:id="weinbeeren-schwarze">Weinbeeren (schwarze)</object>
+			<object type="ingredient" xml:id="brachse">Brachse (Fisch)</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="butterteig">Butterteig</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="kapern">Kapern</object>
+			<object type="ingredient" xml:id="pinienkerne">Pinienkerne</object>
+			<object type="ingredient" xml:id="weinbeeren-schwarze">Weinbeeren (schwarze)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="schuesselring">Schüsselring (Reif)</object>
+			<object type="utensil" xml:id="schuesselring">Schüsselring (Reif)</object>
                 </listObject>
             </div>
             <div type="dietetic">

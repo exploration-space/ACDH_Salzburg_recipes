@@ -151,26 +151,26 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="agrest">Agrest (unreife Trauben)</object>
-			<object type="Zutaten" xml:id="beeren">Beeren</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="eigelb-gekocht">Eigelb (gekocht)</object>
-			<object type="Zutaten" xml:id="fleischbruehe-bruehe">Fleischbrühe</object>
-			<object type="Zutaten" xml:id="kapaun">Kapaun</object>
-			<object type="Zutaten" xml:id="muskatnuss">Muskatnuss</object>
-			<object type="Zutaten" xml:id="nelken">Nelken</object>
-			<object type="Zutaten" xml:id="petersilie">Petersilie</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="weintrauben">Weintrauben</object>
-			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
+			<object type="ingredient" xml:id="agrest">Agrest (unreife Trauben)</object>
+			<object type="ingredient" xml:id="beeren">Beeren</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="eigelb-gekocht">Eigelb (gekocht)</object>
+			<object type="ingredient" xml:id="fleischbruehe-bruehe">Fleischbrühe</object>
+			<object type="ingredient" xml:id="kapaun">Kapaun</object>
+			<object type="ingredient" xml:id="muskatnuss">Muskatnuss</object>
+			<object type="ingredient" xml:id="nelken">Nelken</object>
+			<object type="ingredient" xml:id="petersilie">Petersilie</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="weintrauben">Weintrauben</object>
+			<object type="ingredient" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="moerser-aus-gestein">Mörser (aus Gestein)</object>
-			<object type="MaterielleKultur" xml:id="sieb">Sieb</object>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="moerser-aus-gestein">Mörser (aus Gestein)</object>
+			<object type="utensil" xml:id="sieb">Sieb</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

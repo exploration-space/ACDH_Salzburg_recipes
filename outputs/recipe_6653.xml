@@ -151,8 +151,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="huchen-donaulachs">Huchen (Donaulachs)</object>
-			<object type="Zutaten" xml:id="sahne">Rahm (Sahne)</object>
+			<object type="ingredient" xml:id="huchen-donaulachs">Huchen (Donaulachs)</object>
+			<object type="ingredient" xml:id="sahne">Rahm (Sahne)</object>
                  </listObject>
             </div>
              <div type="utensil">

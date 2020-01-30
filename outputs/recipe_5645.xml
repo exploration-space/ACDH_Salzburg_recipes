@@ -151,30 +151,30 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="butter-gesalzen">Butter (gesalzen)</object>
-			<object type="Zutaten" xml:id="cardamom">Cardamom</object>
-			<object type="Zutaten" xml:id="fleisch">Fleisch</object>
-			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
-			<object type="Zutaten" xml:id="ingwer">Ingwer</object>
-			<object type="Zutaten" xml:id="klare-bruehe">Klare Brühe</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="nelken">Nelken</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="weinessig-essig">Weinessig</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="butter-gesalzen">Butter (gesalzen)</object>
+			<object type="ingredient" xml:id="cardamom">Cardamom</object>
+			<object type="ingredient" xml:id="fleisch">Fleisch</object>
+			<object type="ingredient" xml:id="fleischbruehe">Fleischbrühe</object>
+			<object type="ingredient" xml:id="ingwer">Ingwer</object>
+			<object type="ingredient" xml:id="klare-bruehe">Klare Brühe</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="nelken">Nelken</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="weinessig-essig">Weinessig</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="feuer">Feuer</object>
-			<object type="MaterielleKultur" xml:id="glut">Glut</object>
-			<object type="MaterielleKultur" xml:id="haefelein">Häfelein</object>
-			<object type="MaterielleKultur" xml:id="kochloeffel-hoelzern">Kochlöffel (hölzern)</object>
-			<object type="MaterielleKultur" xml:id="pfaennlein">Pfännlein</object>
-			<object type="MaterielleKultur" xml:id="rost">Rost</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="feuer">Feuer</object>
+			<object type="utensil" xml:id="glut">Glut</object>
+			<object type="utensil" xml:id="haefelein">Häfelein</object>
+			<object type="utensil" xml:id="kochloeffel-hoelzern">Kochlöffel (hölzern)</object>
+			<object type="utensil" xml:id="pfaennlein">Pfännlein</object>
+			<object type="utensil" xml:id="rost">Rost</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
                 </listObject>
             </div>
             <div type="dietetic">

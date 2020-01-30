@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="agrest">Agrest (unreife Trauben)</object>
-			<object type="Zutaten" xml:id="lachs">Lachs</object>
-			<object type="Zutaten" xml:id="rheinsalm">Rheinsalm</object>
-			<object type="Zutaten" xml:id="weintrauben">Weintrauben</object>
-			<object type="Zutaten" xml:id="zitronen">Zitronen</object>
+			<object type="ingredient" xml:id="agrest">Agrest (unreife Trauben)</object>
+			<object type="ingredient" xml:id="lachs">Lachs</object>
+			<object type="ingredient" xml:id="rheinsalm">Rheinsalm</object>
+			<object type="ingredient" xml:id="weintrauben">Weintrauben</object>
+			<object type="ingredient" xml:id="zitronen">Zitronen</object>
                  </listObject>
             </div>
              <div type="utensil">

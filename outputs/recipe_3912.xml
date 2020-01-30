@@ -151,13 +151,13 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="auerhahn">Auerhahn</object>
-			<object type="Zutaten" xml:id="bratwurst-gehaeck">Bratwurst (Gehäck)</object>
-			<object type="Zutaten" xml:id="kalbsfaschiertes">Kalbsfaschiertes</object>
-			<object type="Zutaten" xml:id="pastete">Pastete</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="schinken">Schinken</object>
-			<object type="Zutaten" xml:id="zunge">Zunge</object>
+			<object type="ingredient" xml:id="auerhahn">Auerhahn</object>
+			<object type="ingredient" xml:id="bratwurst-gehaeck">Bratwurst (Gehäck)</object>
+			<object type="ingredient" xml:id="kalbsfaschiertes">Kalbsfaschiertes</object>
+			<object type="ingredient" xml:id="pastete">Pastete</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="schinken">Schinken</object>
+			<object type="ingredient" xml:id="zunge">Zunge</object>
                  </listObject>
             </div>
              <div type="utensil">

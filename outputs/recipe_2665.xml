@@ -151,17 +151,17 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="dotter">Dotter (Eigelb)</object>
-			<object type="Zutaten" xml:id="huehnersuppe">Hühnersuppe</object>
-			<object type="Zutaten" xml:id="kapaunbruehe">Kapaunbrühe</object>
-			<object type="Zutaten" xml:id="reinfal-suesswein">Reinfal</object>
-			<object type="Zutaten" xml:id="weissbrot-brot">Weißbrot</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="dotter">Dotter (Eigelb)</object>
+			<object type="ingredient" xml:id="huehnersuppe">Hühnersuppe</object>
+			<object type="ingredient" xml:id="kapaunbruehe">Kapaunbrühe</object>
+			<object type="ingredient" xml:id="reinfal-suesswein">Reinfal</object>
+			<object type="ingredient" xml:id="weissbrot-brot">Weißbrot</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="maas">Maas</object>
+			<object type="utensil" xml:id="maas">Maas</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -151,10 +151,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="hollerbeeren-holunderbeeren">Hollerbeeren (Holunderbeeren)</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="hollerbeeren-holunderbeeren">Hollerbeeren (Holunderbeeren)</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
                  </listObject>
             </div>
              <div type="utensil">

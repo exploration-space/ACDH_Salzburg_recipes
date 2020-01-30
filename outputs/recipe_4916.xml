@@ -151,19 +151,19 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="leber">Leber</object>
-			<object type="Zutaten" xml:id="mehl">Mehl</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="zitronensaft">Zitronensaft</object>
-			<object type="Zutaten" xml:id="zitronenschalen">Zitronenschalen</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="leber">Leber</object>
+			<object type="ingredient" xml:id="mehl">Mehl</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="zitronensaft">Zitronensaft</object>
+			<object type="ingredient" xml:id="zitronenschalen">Zitronenschalen</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="tisch">Tisch</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="tisch">Tisch</object>
                 </listObject>
             </div>
             <div type="dietetic">

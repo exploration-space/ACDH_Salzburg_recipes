@@ -151,20 +151,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="biskotten-loeffelbiskuit">Biskotten (Löffelbiskuit)</object>
-			<object type="Zutaten" xml:id="dotter">Dotter (Eigelb)</object>
-			<object type="Zutaten" xml:id="huhn">Huhn</object>
-			<object type="Zutaten" xml:id="limonensaft">Limonensaft</object>
-			<object type="Zutaten" xml:id="pinienkerne">Pinienkerne</object>
-			<object type="Zutaten" xml:id="pistazien">Pistazien</object>
-			<object type="Zutaten" xml:id="spanischer-wein">Spanischer Wein</object>
-			<object type="Zutaten" xml:id="zitronen-eingemacht">Zitronen (eingemacht)</object>
-			<object type="Zutaten" xml:id="zitronenkraut">Zitronenkraut</object>
+			<object type="ingredient" xml:id="biskotten-loeffelbiskuit">Biskotten (Löffelbiskuit)</object>
+			<object type="ingredient" xml:id="dotter">Dotter (Eigelb)</object>
+			<object type="ingredient" xml:id="huhn">Huhn</object>
+			<object type="ingredient" xml:id="limonensaft">Limonensaft</object>
+			<object type="ingredient" xml:id="pinienkerne">Pinienkerne</object>
+			<object type="ingredient" xml:id="pistazien">Pistazien</object>
+			<object type="ingredient" xml:id="spanischer-wein">Spanischer Wein</object>
+			<object type="ingredient" xml:id="zitronen-eingemacht">Zitronen (eingemacht)</object>
+			<object type="ingredient" xml:id="zitronenkraut">Zitronenkraut</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
                 </listObject>
             </div>
             <div type="dietetic">

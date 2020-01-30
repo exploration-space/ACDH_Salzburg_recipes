@@ -154,9 +154,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butterschmalz">(Butter)schmalz</object>
-			<object type="Zutaten" xml:id="backteig">Backteig</object>
-			<object type="Zutaten" xml:id="unser-frauen-blaetter-frauenminze">Unser-Frauen-Blätter (Frauenminze?)</object>
+			<object type="ingredient" xml:id="butterschmalz">(Butter)schmalz</object>
+			<object type="ingredient" xml:id="backteig">Backteig</object>
+			<object type="ingredient" xml:id="unser-frauen-blaetter-frauenminze">Unser-Frauen-Blätter (Frauenminze?)</object>
                  </listObject>
             </div>
              <div type="utensil">

@@ -151,18 +151,18 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="milch">Milch</object>
-			<object type="Zutaten" xml:id="nuesse">Nüsse</object>
-			<object type="Zutaten" xml:id="rosenwasser">Rosenwasser</object>
-			<object type="Zutaten" xml:id="rosinen">Rosinen</object>
-			<object type="Zutaten" xml:id="semmeln">Semmeln</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="milch">Milch</object>
+			<object type="ingredient" xml:id="nuesse">Nüsse</object>
+			<object type="ingredient" xml:id="rosenwasser">Rosenwasser</object>
+			<object type="ingredient" xml:id="rosinen">Rosinen</object>
+			<object type="ingredient" xml:id="semmeln">Semmeln</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

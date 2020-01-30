@@ -151,25 +151,25 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="alantwurzel">Alantwurzel</object>
-			<object type="Zutaten" xml:id="most">Most</object>
-			<object type="Zutaten" xml:id="salbei">Salbei</object>
+			<object type="ingredient" xml:id="alantwurzel">Alantwurzel</object>
+			<object type="ingredient" xml:id="most">Most</object>
+			<object type="ingredient" xml:id="salbei">Salbei</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="kessel">Kessel</object>
-			<object type="MaterielleKultur" xml:id="hafen-topf">Topf (Hafen)</object>
+			<object type="utensil" xml:id="kessel">Kessel</object>
+			<object type="utensil" xml:id="hafen-topf">Topf (Hafen)</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-husten">bei Husten</object>
-			<object type="Diaetetik" xml:id="brustschmerzen">Brustschmerzen</object>
-			<object type="Diaetetik" xml:id="magen">Magen</object>
-			<object type="Diaetetik" xml:id="nieren">Nieren</object>
-			<object type="Diaetetik" xml:id="trauer">Trauer</object>
-			<object type="Diaetetik" xml:id="zorn">Zorn</object>
+			<object type="dietetic" xml:id="bei-husten">bei Husten</object>
+			<object type="dietetic" xml:id="brustschmerzen">Brustschmerzen</object>
+			<object type="dietetic" xml:id="magen">Magen</object>
+			<object type="dietetic" xml:id="nieren">Nieren</object>
+			<object type="dietetic" xml:id="trauer">Trauer</object>
+			<object type="dietetic" xml:id="zorn">Zorn</object>
                 </listObject>
             </div>
         <div type="recipe">

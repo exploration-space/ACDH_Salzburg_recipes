@@ -151,20 +151,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="mehl">Mehl</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="weissbier">Weißbier</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="mehl">Mehl</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="weissbier">Weißbier</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="gabel">Gabel</object>
-			<object type="MaterielleKultur" xml:id="nudelwalker-nudelholz">Nudelwalker (Nudelholz)</object>
-			<object type="MaterielleKultur" xml:id="schaufel">Schaufel</object>
-			<object type="MaterielleKultur" xml:id="trichter">Trichter</object>
+			<object type="utensil" xml:id="gabel">Gabel</object>
+			<object type="utensil" xml:id="nudelwalker-nudelholz">Nudelwalker (Nudelholz)</object>
+			<object type="utensil" xml:id="schaufel">Schaufel</object>
+			<object type="utensil" xml:id="trichter">Trichter</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -151,7 +151,7 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="ochsenzunge">Ochsenzunge</object>
+			<object type="ingredient" xml:id="ochsenzunge">Ochsenzunge</object>
                  </listObject>
             </div>
              <div type="utensil">

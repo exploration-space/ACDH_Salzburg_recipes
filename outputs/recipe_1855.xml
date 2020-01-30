@@ -152,13 +152,13 @@ Von dem Kren (?) wollen wir nicht lassen. Wer ein gutes Mus machen will, soll Da
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="datteln">Datteln</object>
-			<object type="Zutaten" xml:id="feigen">Feigen</object>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="kren">Kren (Meerrettich)</object>
-			<object type="Zutaten" xml:id="safran">Safran</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="datteln">Datteln</object>
+			<object type="ingredient" xml:id="feigen">Feigen</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="kren">Kren (Meerrettich)</object>
+			<object type="ingredient" xml:id="safran">Safran</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">

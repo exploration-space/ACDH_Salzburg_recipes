@@ -151,33 +151,33 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="lorbeer">Lorbeerblätter</object>
-			<object type="Zutaten" xml:id="muskatnuss">Muskatnuss</object>
-			<object type="Zutaten" xml:id="nelken">Nelken</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="rosmarin">Rosmarin</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
-			<object type="Zutaten" xml:id="teig">Teig</object>
-			<object type="Zutaten" xml:id="thymian">Thymian</object>
-			<object type="Zutaten" xml:id="weinessig">Weinessig</object>
-			<object type="Zutaten" xml:id="wildbret">Wildbret</object>
-			<object type="Zutaten" xml:id="zitronen">Zitronen</object>
-			<object type="Zutaten" xml:id="zitronenblatt">Zitronenblatt</object>
-			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="lorbeer">Lorbeerblätter</object>
+			<object type="ingredient" xml:id="muskatnuss">Muskatnuss</object>
+			<object type="ingredient" xml:id="nelken">Nelken</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="rosmarin">Rosmarin</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="teig">Teig</object>
+			<object type="ingredient" xml:id="thymian">Thymian</object>
+			<object type="ingredient" xml:id="weinessig">Weinessig</object>
+			<object type="ingredient" xml:id="wildbret">Wildbret</object>
+			<object type="ingredient" xml:id="zitronen">Zitronen</object>
+			<object type="ingredient" xml:id="zitronenblatt">Zitronenblatt</object>
+			<object type="ingredient" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
-			<object type="MaterielleKultur" xml:id="papier">Papier</object>
-			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>
-			<object type="MaterielleKultur" xml:id="rost">Rost</object>
-			<object type="MaterielleKultur" xml:id="spicknadel-aus-holz">Spicknadel (aus Holz)</object>
-			<object type="MaterielleKultur" xml:id="spicknadel-aus-messing">Spicknadel (aus Messing)</object>
-			<object type="MaterielleKultur" xml:id="topf">Topf (Rein)</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="papier">Papier</object>
+			<object type="utensil" xml:id="pfanne">Pfanne</object>
+			<object type="utensil" xml:id="rost">Rost</object>
+			<object type="utensil" xml:id="spicknadel-aus-holz">Spicknadel (aus Holz)</object>
+			<object type="utensil" xml:id="spicknadel-aus-messing">Spicknadel (aus Messing)</object>
+			<object type="utensil" xml:id="topf">Topf (Rein)</object>
                 </listObject>
             </div>
             <div type="dietetic">

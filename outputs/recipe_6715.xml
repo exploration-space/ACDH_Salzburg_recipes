@@ -151,23 +151,23 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="brot-gebaeht">Brot (gebäht)</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="dotter">Dotter (Eigelb)</object>
-			<object type="Zutaten" xml:id="erbsensuppe">Erbsenbrühe</object>
-			<object type="Zutaten" xml:id="hecht">Hecht</object>
-			<object type="Zutaten" xml:id="knoblauch">Knoblauch</object>
-			<object type="Zutaten" xml:id="parmesan">Parmesan</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="safran">Safran</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="brot-gebaeht">Brot (gebäht)</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="dotter">Dotter (Eigelb)</object>
+			<object type="ingredient" xml:id="erbsensuppe">Erbsenbrühe</object>
+			<object type="ingredient" xml:id="hecht">Hecht</object>
+			<object type="ingredient" xml:id="knoblauch">Knoblauch</object>
+			<object type="ingredient" xml:id="parmesan">Parmesan</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="safran">Safran</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="kohlen">Kohlen</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="silbertopf-rein">Silbertopf (Rein)</object>
+			<object type="utensil" xml:id="kohlen">Kohlen</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="silbertopf-rein">Silbertopf (Rein)</object>
                 </listObject>
             </div>
             <div type="dietetic">

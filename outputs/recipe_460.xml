@@ -151,12 +151,12 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="aepfel">Äpfel</object>
-			<object type="Zutaten" xml:id="lorbeer">Lorbeerblätter</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zitronensaft">Zitronensaft</object>
-			<object type="Zutaten" xml:id="zitronenzesten">Zitronenzesten</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="aepfel">Äpfel</object>
+			<object type="ingredient" xml:id="lorbeer">Lorbeerblätter</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zitronensaft">Zitronensaft</object>
+			<object type="ingredient" xml:id="zitronenzesten">Zitronenzesten</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
@@ -166,7 +166,7 @@
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-fieber">bei Fieber</object>
+			<object type="dietetic" xml:id="bei-fieber">bei Fieber</object>
                 </listObject>
             </div>
         <div type="recipe">

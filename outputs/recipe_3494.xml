@@ -151,21 +151,21 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="austern">Austern</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="limonensaft">Limonensaft</object>
-			<object type="Zutaten" xml:id="oel">Öl</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="semmelbroesel">Semmelbrösel</object>
+			<object type="ingredient" xml:id="austern">Austern</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="limonensaft">Limonensaft</object>
+			<object type="ingredient" xml:id="oel">Öl</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="semmelbroesel">Semmelbrösel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="blech">Blech</object>
-			<object type="MaterielleKultur" xml:id="messer">Messer</object>
-			<object type="MaterielleKultur" xml:id="rost">Rost</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="blech">Blech</object>
+			<object type="utensil" xml:id="messer">Messer</object>
+			<object type="utensil" xml:id="rost">Rost</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

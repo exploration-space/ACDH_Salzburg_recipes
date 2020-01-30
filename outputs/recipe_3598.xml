@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="dotter">Dotter (Eigelb)</object>
-			<object type="Zutaten" xml:id="kalbsfaschiertes">Kalbsfaschiertes</object>
-			<object type="Zutaten" xml:id="kraeuter">Kräuter</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="petersilie">Petersilie</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="semmelbroesel">Semmelbrösel</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
-			<object type="Zutaten" xml:id="zitronensaft">Zitronensaft</object>
+			<object type="ingredient" xml:id="dotter">Dotter (Eigelb)</object>
+			<object type="ingredient" xml:id="kalbsfaschiertes">Kalbsfaschiertes</object>
+			<object type="ingredient" xml:id="kraeuter">Kräuter</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="petersilie">Petersilie</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="semmelbroesel">Semmelbrösel</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="zitronensaft">Zitronensaft</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="brat-spiess">Brat-Spieß</object>
+			<object type="utensil" xml:id="brat-spiess">Brat-Spieß</object>
                 </listObject>
             </div>
             <div type="dietetic">

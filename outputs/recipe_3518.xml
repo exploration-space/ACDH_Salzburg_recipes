@@ -151,23 +151,23 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="kapaun">Kapaun</object>
-			<object type="Zutaten" xml:id="kraeuter">Kräuter</object>
-			<object type="Zutaten" xml:id="nelken">Nelken</object>
-			<object type="Zutaten" xml:id="pastetenteig">Pastetenteig</object>
-			<object type="Zutaten" xml:id="sardellen">Sardellen</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
-			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="kapaun">Kapaun</object>
+			<object type="ingredient" xml:id="kraeuter">Kräuter</object>
+			<object type="ingredient" xml:id="nelken">Nelken</object>
+			<object type="ingredient" xml:id="pastetenteig">Pastetenteig</object>
+			<object type="ingredient" xml:id="sardellen">Sardellen</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="papier">Papier</object>
-			<object type="MaterielleKultur" xml:id="serviette">Serviette</object>
-			<object type="MaterielleKultur" xml:id="spagat">Spagat</object>
-			<object type="MaterielleKultur" xml:id="spiess">Spieß</object>
-			<object type="MaterielleKultur" xml:id="tafel-tisch">Tafel (Tisch)</object>
+			<object type="utensil" xml:id="papier">Papier</object>
+			<object type="utensil" xml:id="serviette">Serviette</object>
+			<object type="utensil" xml:id="spagat">Spagat</object>
+			<object type="utensil" xml:id="spiess">Spieß</object>
+			<object type="utensil" xml:id="tafel-tisch">Tafel (Tisch)</object>
                 </listObject>
             </div>
             <div type="dietetic">

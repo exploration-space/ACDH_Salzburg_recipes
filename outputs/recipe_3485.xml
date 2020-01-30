@@ -151,8 +151,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="seezunge-plattfisch">Seezunge (Plattfisch)</object>
-			<object type="Zutaten" xml:id="wacholderbruehe">Wacholderbrühe</object>
+			<object type="ingredient" xml:id="seezunge-plattfisch">Seezunge (Plattfisch)</object>
+			<object type="ingredient" xml:id="wacholderbruehe">Wacholderbrühe</object>
                  </listObject>
             </div>
              <div type="utensil">

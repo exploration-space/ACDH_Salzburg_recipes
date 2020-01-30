@@ -151,14 +151,14 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="himbeeren">Himbeeren</object>
-			<object type="Zutaten" xml:id="weinessig">Weinessig</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="himbeeren">Himbeeren</object>
+			<object type="ingredient" xml:id="weinessig">Weinessig</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="glas">Glas</object>
+			<object type="utensil" xml:id="glas">Glas</object>
                 </listObject>
             </div>
             <div type="dietetic">

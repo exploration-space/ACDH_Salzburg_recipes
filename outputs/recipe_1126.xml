@@ -151,10 +151,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="hollerbeergeist-holunderbeergeist">Hollerbeergeist (Holunderbeergeist)</object>
-			<object type="Zutaten" xml:id="hollerbeeroel-holunderbeeroel">Hollerbeeröl (Holunderbeeröl)</object>
-			<object type="Zutaten" xml:id="hollersalz-holundersalz">Hollersalz (Holundersalz)</object>
-			<object type="Zutaten" xml:id="weisswein">Weißwein</object>
+			<object type="ingredient" xml:id="hollerbeergeist-holunderbeergeist">Hollerbeergeist (Holunderbeergeist)</object>
+			<object type="ingredient" xml:id="hollerbeeroel-holunderbeeroel">Hollerbeeröl (Holunderbeeröl)</object>
+			<object type="ingredient" xml:id="hollersalz-holundersalz">Hollersalz (Holundersalz)</object>
+			<object type="ingredient" xml:id="weisswein">Weißwein</object>
                  </listObject>
             </div>
              <div type="utensil">
@@ -164,11 +164,11 @@
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-epilepsie-fallsucht">bei Epilepsie (Fallsucht)</object>
-			<object type="Diaetetik" xml:id="bei-lethargie">bei Lethargie</object>
-			<object type="Diaetetik" xml:id="bei-menstruationsbeschwerden">bei Menstruationsbeschwerden</object>
-			<object type="Diaetetik" xml:id="bei-migraene">bei Migräne</object>
-			<object type="Diaetetik" xml:id="bei-ohnmacht">bei Ohnmacht</object>
+			<object type="dietetic" xml:id="bei-epilepsie-fallsucht">bei Epilepsie (Fallsucht)</object>
+			<object type="dietetic" xml:id="bei-lethargie">bei Lethargie</object>
+			<object type="dietetic" xml:id="bei-menstruationsbeschwerden">bei Menstruationsbeschwerden</object>
+			<object type="dietetic" xml:id="bei-migraene">bei Migräne</object>
+			<object type="dietetic" xml:id="bei-ohnmacht">bei Ohnmacht</object>
                 </listObject>
             </div>
         <div type="recipe">

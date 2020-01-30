@@ -151,18 +151,18 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="barsch">Barsch</object>
-			<object type="Zutaten" xml:id="krebsbruehe">Krebsbrühe</object>
-			<object type="Zutaten" xml:id="rosmarin">Rosmarin</object>
-			<object type="Zutaten" xml:id="salzwasser">Salzwasser</object>
-			<object type="Zutaten" xml:id="weinessig-essig">Weinessig</object>
-			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
+			<object type="ingredient" xml:id="barsch">Barsch</object>
+			<object type="ingredient" xml:id="krebsbruehe">Krebsbrühe</object>
+			<object type="ingredient" xml:id="rosmarin">Rosmarin</object>
+			<object type="ingredient" xml:id="salzwasser">Salzwasser</object>
+			<object type="ingredient" xml:id="weinessig-essig">Weinessig</object>
+			<object type="ingredient" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="feuer">Feuer</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="feuer">Feuer</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
                 </listObject>
             </div>
             <div type="dietetic">

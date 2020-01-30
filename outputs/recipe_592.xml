@@ -151,19 +151,19 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eiklar">Eiklar (Eiweiß)</object>
-			<object type="Zutaten" xml:id="honig">Honig</object>
-			<object type="Zutaten" xml:id="ingwer">Ingwer</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="weinrebenasche">Weinrebenasche</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="eiklar">Eiklar (Eiweiß)</object>
+			<object type="ingredient" xml:id="honig">Honig</object>
+			<object type="ingredient" xml:id="ingwer">Ingwer</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="weinrebenasche">Weinrebenasche</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="krug">Krug</object>
-			<object type="MaterielleKultur" xml:id="rute">Rute</object>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="krug">Krug</object>
+			<object type="utensil" xml:id="rute">Rute</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

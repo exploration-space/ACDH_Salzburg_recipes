@@ -151,17 +151,17 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="adler">Adler</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="kraeuter-frisch">Kräuter (frisch)</object>
-			<object type="Zutaten" xml:id="limonen">Limonen</object>
-			<object type="Zutaten" xml:id="pastetenteig">Pastetenteig</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="adler">Adler</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="kraeuter-frisch">Kräuter (frisch)</object>
+			<object type="ingredient" xml:id="limonen">Limonen</object>
+			<object type="ingredient" xml:id="pastetenteig">Pastetenteig</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="geschirr">Geschirr</object>
+			<object type="utensil" xml:id="geschirr">Geschirr</object>
                 </listObject>
             </div>
             <div type="dietetic">

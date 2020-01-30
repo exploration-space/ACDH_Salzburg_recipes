@@ -152,17 +152,17 @@ Willst du einen guten Reiskuchen machen, dann koche den Reis in Wasser, aber las
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="reis">Reis</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="reis">Reis</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>
-			<object type="MaterielleKultur" xml:id="reibeisen">Reibeisen</object>
+			<object type="utensil" xml:id="pfanne">Pfanne</object>
+			<object type="utensil" xml:id="reibeisen">Reibeisen</object>
                 </listObject>
             </div>
             <div type="dietetic">

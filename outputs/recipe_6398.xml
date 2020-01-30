@@ -151,17 +151,17 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="bier">Bier</object>
-			<object type="Zutaten" xml:id="bierhefe">Bierhefe</object>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="hopfen">Hopfen</object>
-			<object type="Zutaten" xml:id="weizen">Weizen</object>
+			<object type="ingredient" xml:id="bier">Bier</object>
+			<object type="ingredient" xml:id="bierhefe">Bierhefe</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="hopfen">Hopfen</object>
+			<object type="ingredient" xml:id="weizen">Weizen</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="fass">Fass</object>
-			<object type="MaterielleKultur" xml:id="fuder">Fuder</object>
+			<object type="utensil" xml:id="fass">Fass</object>
+			<object type="utensil" xml:id="fuder">Fuder</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -151,20 +151,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="semmelbroesel">Semmelbrösel</object>
-			<object type="Zutaten" xml:id="weinbeeren">Weinbeeren</object>
-			<object type="Zutaten" xml:id="zwillingssemmel">Zwillingssemmel</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="semmelbroesel">Semmelbrösel</object>
+			<object type="ingredient" xml:id="weinbeeren">Weinbeeren</object>
+			<object type="ingredient" xml:id="zwillingssemmel">Zwillingssemmel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="messer">Messer</object>
-			<object type="MaterielleKultur" xml:id="reibeisen">Reibeisen</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="sieb">Sieb</object>
-			<object type="MaterielleKultur" xml:id="teller">Teller</object>
+			<object type="utensil" xml:id="messer">Messer</object>
+			<object type="utensil" xml:id="reibeisen">Reibeisen</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="sieb">Sieb</object>
+			<object type="utensil" xml:id="teller">Teller</object>
                 </listObject>
             </div>
             <div type="dietetic">

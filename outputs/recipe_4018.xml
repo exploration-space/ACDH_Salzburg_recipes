@@ -151,17 +151,17 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="aepfel-saeuerlich">Äpfel (säuerlich)</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="weissbier">Weißbier</object>
-			<object type="Zutaten" xml:id="weizenmehl">Weizenmehl</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="aepfel-saeuerlich">Äpfel (säuerlich)</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="weissbier">Weißbier</object>
+			<object type="ingredient" xml:id="weizenmehl">Weizenmehl</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="blechrohr">Blechrohr</object>
-			<object type="MaterielleKultur" xml:id="deckel">Deckel</object>
+			<object type="utensil" xml:id="blechrohr">Blechrohr</object>
+			<object type="utensil" xml:id="deckel">Deckel</object>
                 </listObject>
             </div>
             <div type="dietetic">

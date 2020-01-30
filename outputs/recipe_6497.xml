@@ -151,17 +151,17 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eiklar">Eiklar (Eiweiß)</object>
-			<object type="Zutaten" xml:id="rosenwasser">Rosenwasser</object>
-			<object type="Zutaten" xml:id="zirbelnuesse-zirbensamen">Zirbelnüsse (Zirbensamen)</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="eiklar">Eiklar (Eiweiß)</object>
+			<object type="ingredient" xml:id="rosenwasser">Rosenwasser</object>
+			<object type="ingredient" xml:id="zirbelnuesse-zirbensamen">Zirbelnüsse (Zirbensamen)</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="brett">Brett</object>
-			<object type="MaterielleKultur" xml:id="reibkeule">Reibkeule</object>
-			<object type="MaterielleKultur" xml:id="schaufel-hoelzern">Schaufel (hölzern)</object>
+			<object type="utensil" xml:id="brett">Brett</object>
+			<object type="utensil" xml:id="reibkeule">Reibkeule</object>
+			<object type="utensil" xml:id="schaufel-hoelzern">Schaufel (hölzern)</object>
                 </listObject>
             </div>
             <div type="dietetic">

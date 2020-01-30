@@ -151,20 +151,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="essig">Essig</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="rinderbruehe">Rinderbrühe</object>
-			<object type="Zutaten" xml:id="roggenbrot-brot">Roggenbrot</object>
-			<object type="Zutaten" xml:id="wacholderbeeren">Wacholderbeeren</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="wildschwein">Wildschwein</object>
-			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
+			<object type="ingredient" xml:id="essig">Essig</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="rinderbruehe">Rinderbrühe</object>
+			<object type="ingredient" xml:id="roggenbrot-brot">Roggenbrot</object>
+			<object type="ingredient" xml:id="wacholderbeeren">Wacholderbeeren</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="wildschwein">Wildschwein</object>
+			<object type="ingredient" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="hafenkessel">Hafenkessel</object>
-			<object type="MaterielleKultur" xml:id="spiess">Spieß</object>
+			<object type="utensil" xml:id="hafenkessel">Hafenkessel</object>
+			<object type="utensil" xml:id="spiess">Spieß</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -151,30 +151,30 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="backschmalz">Backschmalz</object>
-			<object type="Zutaten" xml:id="bieressig">Bieressig</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="essig">Essig</object>
-			<object type="Zutaten" xml:id="kalbsschloegl">Kalbsschlögel</object>
-			<object type="Zutaten" xml:id="nelken">Nelken</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zitronenschalen">Zitronenschalen</object>
-			<object type="Zutaten" xml:id="zitronenscheiben">Zitronenscheiben</object>
+			<object type="ingredient" xml:id="backschmalz">Backschmalz</object>
+			<object type="ingredient" xml:id="bieressig">Bieressig</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="essig">Essig</object>
+			<object type="ingredient" xml:id="kalbsschloegl">Kalbsschlögel</object>
+			<object type="ingredient" xml:id="nelken">Nelken</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zitronenschalen">Zitronenschalen</object>
+			<object type="ingredient" xml:id="zitronenscheiben">Zitronenscheiben</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="backofen">Backofen</object>
-			<object type="MaterielleKultur" xml:id="bratpfanne">Bratpfanne</object>
-			<object type="MaterielleKultur" xml:id="hoelzchen">Hölzchen</object>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
-			<object type="MaterielleKultur" xml:id="spiess">Spieß</object>
-			<object type="MaterielleKultur" xml:id="tisch">Tisch</object>
+			<object type="utensil" xml:id="backofen">Backofen</object>
+			<object type="utensil" xml:id="bratpfanne">Bratpfanne</object>
+			<object type="utensil" xml:id="hoelzchen">Hölzchen</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="spiess">Spieß</object>
+			<object type="utensil" xml:id="tisch">Tisch</object>
                 </listObject>
             </div>
             <div type="dietetic">

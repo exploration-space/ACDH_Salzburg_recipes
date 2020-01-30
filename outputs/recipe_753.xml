@@ -151,18 +151,18 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="hopfenwasser">Hopfenwasser</object>
-			<object type="Zutaten" xml:id="kirschen">Kirschen</object>
-			<object type="Zutaten" xml:id="koriander">Koriander</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="hopfenwasser">Hopfenwasser</object>
+			<object type="ingredient" xml:id="kirschen">Kirschen</object>
+			<object type="ingredient" xml:id="koriander">Koriander</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="fass">Fass</object>
-			<object type="MaterielleKultur" xml:id="geschirr">Geschirr</object>
-			<object type="MaterielleKultur" xml:id="kessel">Kessel</object>
-			<object type="MaterielleKultur" xml:id="hafen-topf">Topf (Hafen)</object>
+			<object type="utensil" xml:id="fass">Fass</object>
+			<object type="utensil" xml:id="geschirr">Geschirr</object>
+			<object type="utensil" xml:id="kessel">Kessel</object>
+			<object type="utensil" xml:id="hafen-topf">Topf (Hafen)</object>
                 </listObject>
             </div>
             <div type="dietetic">

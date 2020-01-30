@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="essig">Essig</object>
-			<object type="Zutaten" xml:id="forelle">Forelle</object>
-			<object type="Zutaten" xml:id="lorbeer">Lorbeerblätter</object>
-			<object type="Zutaten" xml:id="oel">Öl</object>
-			<object type="Zutaten" xml:id="pfeffer-gem">Pfeffer (gem.)</object>
-			<object type="Zutaten" xml:id="salbeiblaetter">Salbeiblätter</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="essig">Essig</object>
+			<object type="ingredient" xml:id="forelle">Forelle</object>
+			<object type="ingredient" xml:id="lorbeer">Lorbeerblätter</object>
+			<object type="ingredient" xml:id="oel">Öl</object>
+			<object type="ingredient" xml:id="pfeffer-gem">Pfeffer (gem.)</object>
+			<object type="ingredient" xml:id="salbeiblaetter">Salbeiblätter</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="kupferpfanne-verzinnt">Kupferpfanne (verzinnt)</object>
+			<object type="utensil" xml:id="kupferpfanne-verzinnt">Kupferpfanne (verzinnt)</object>
                 </listObject>
             </div>
             <div type="dietetic">

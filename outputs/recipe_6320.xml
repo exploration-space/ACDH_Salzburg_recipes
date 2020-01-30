@@ -151,8 +151,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="augentrost">Augentrost</object>
-			<object type="Zutaten" xml:id="most">Most</object>
+			<object type="ingredient" xml:id="augentrost">Augentrost</object>
+			<object type="ingredient" xml:id="most">Most</object>
                  </listObject>
             </div>
              <div type="utensil">
@@ -162,7 +162,7 @@
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="augen">Augen</object>
+			<object type="dietetic" xml:id="augen">Augen</object>
                 </listObject>
             </div>
         <div type="recipe">

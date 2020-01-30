@@ -151,17 +151,17 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="nussbaumwurzel">Nussbaumwurzel</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="nussbaumwurzel">Nussbaumwurzel</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="geschirr-aus-kupfer">Geschirr (aus Kupfer)</object>
-			<object type="MaterielleKultur" xml:id="geschirr-aus-messing">Geschirr (aus Messing)</object>
-			<object type="MaterielleKultur" xml:id="krug">Krug</object>
-			<object type="MaterielleKultur" xml:id="messingpfanne">Messingpfanne</object>
-			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>
+			<object type="utensil" xml:id="geschirr-aus-kupfer">Geschirr (aus Kupfer)</object>
+			<object type="utensil" xml:id="geschirr-aus-messing">Geschirr (aus Messing)</object>
+			<object type="utensil" xml:id="krug">Krug</object>
+			<object type="utensil" xml:id="messingpfanne">Messingpfanne</object>
+			<object type="utensil" xml:id="pfanne">Pfanne</object>
                 </listObject>
             </div>
             <div type="dietetic">

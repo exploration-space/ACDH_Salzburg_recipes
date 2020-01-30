@@ -153,52 +153,52 @@ Paterritta ein ähnliches Allerlei, manchmal auch aus nicht mehr ganz frischen (
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="bratwurst">Bratwurst</object>
-			<object type="Zutaten" xml:id="datteln">Datteln</object>
-			<object type="Zutaten" xml:id="ente">Ente</object>
-			<object type="Zutaten" xml:id="gelbe-rueben-moehren">Gelbe Rüben (Möhren)</object>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="huhn-alt">Huhn (alt)</object>
-			<object type="Zutaten" xml:id="jus">Jus</object>
-			<object type="Zutaten" xml:id="kalbsvoegerl">Kalbsvögerl</object>
-			<object type="Zutaten" xml:id="kastanien">Kastanien</object>
-			<object type="Zutaten" xml:id="knoblauch">Knoblauch</object>
-			<object type="Zutaten" xml:id="kohl">Kohl</object>
-			<object type="Zutaten" xml:id="kraeuter-frisch">Kräuter (frisch)</object>
-			<object type="Zutaten" xml:id="lammkeule">Lammkeule</object>
-			<object type="Zutaten" xml:id="leberwurst">Leberwurst</object>
-			<object type="Zutaten" xml:id="mehl">Mehl</object>
-			<object type="Zutaten" xml:id="nelken">Nelken</object>
-			<object type="Zutaten" xml:id="pastinakenwurzeln">Pastinakenwurzeln</object>
-			<object type="Zutaten" xml:id="petersilienwurzel">Petersilienwurzel</object>
-			<object type="Zutaten" xml:id="rinderbrust">Rinderbrust</object>
-			<object type="Zutaten" xml:id="rindereuter">Rindereuter</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="scherrueben">Scherrüben</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="schweineschwanz">Schweineschwanz</object>
-			<object type="Zutaten" xml:id="schweinsbrust">Schweinsbrust</object>
-			<object type="Zutaten" xml:id="schweinsfuesse">Schweinsfüße</object>
-			<object type="Zutaten" xml:id="schweinslungenbraten">Schweinslungenbraten</object>
-			<object type="Zutaten" xml:id="schweinsohren">Schweinsohren</object>
-			<object type="Zutaten" xml:id="schweinsruecken">Schweinsrücken</object>
-			<object type="Zutaten" xml:id="selleriewurzel">Selleriewurzel</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
-			<object type="Zutaten" xml:id="weisse-rueben-wasserrueben">Weiße Rüben (Wasserrüben)</object>
-			<object type="Zutaten" xml:id="weisskraut">Weißkraut</object>
-			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
+			<object type="ingredient" xml:id="bratwurst">Bratwurst</object>
+			<object type="ingredient" xml:id="datteln">Datteln</object>
+			<object type="ingredient" xml:id="ente">Ente</object>
+			<object type="ingredient" xml:id="gelbe-rueben-moehren">Gelbe Rüben (Möhren)</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="huhn-alt">Huhn (alt)</object>
+			<object type="ingredient" xml:id="jus">Jus</object>
+			<object type="ingredient" xml:id="kalbsvoegerl">Kalbsvögerl</object>
+			<object type="ingredient" xml:id="kastanien">Kastanien</object>
+			<object type="ingredient" xml:id="knoblauch">Knoblauch</object>
+			<object type="ingredient" xml:id="kohl">Kohl</object>
+			<object type="ingredient" xml:id="kraeuter-frisch">Kräuter (frisch)</object>
+			<object type="ingredient" xml:id="lammkeule">Lammkeule</object>
+			<object type="ingredient" xml:id="leberwurst">Leberwurst</object>
+			<object type="ingredient" xml:id="mehl">Mehl</object>
+			<object type="ingredient" xml:id="nelken">Nelken</object>
+			<object type="ingredient" xml:id="pastinakenwurzeln">Pastinakenwurzeln</object>
+			<object type="ingredient" xml:id="petersilienwurzel">Petersilienwurzel</object>
+			<object type="ingredient" xml:id="rinderbrust">Rinderbrust</object>
+			<object type="ingredient" xml:id="rindereuter">Rindereuter</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="scherrueben">Scherrüben</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="schweineschwanz">Schweineschwanz</object>
+			<object type="ingredient" xml:id="schweinsbrust">Schweinsbrust</object>
+			<object type="ingredient" xml:id="schweinsfuesse">Schweinsfüße</object>
+			<object type="ingredient" xml:id="schweinslungenbraten">Schweinslungenbraten</object>
+			<object type="ingredient" xml:id="schweinsohren">Schweinsohren</object>
+			<object type="ingredient" xml:id="schweinsruecken">Schweinsrücken</object>
+			<object type="ingredient" xml:id="selleriewurzel">Selleriewurzel</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="weisse-rueben-wasserrueben">Weiße Rüben (Wasserrüben)</object>
+			<object type="ingredient" xml:id="weisskraut">Weißkraut</object>
+			<object type="ingredient" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="feldkessel-verzinnt">Feldkessel (verzinnt)</object>
-			<object type="MaterielleKultur" xml:id="haarsieb">Haarsieb</object>
-			<object type="MaterielleKultur" xml:id="kohlen">Kohlen</object>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
-			<object type="MaterielleKultur" xml:id="rein-glasiert">Rein (glasiert)</object>
-			<object type="MaterielleKultur" xml:id="rost">Rost</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="feldkessel-verzinnt">Feldkessel (verzinnt)</object>
+			<object type="utensil" xml:id="haarsieb">Haarsieb</object>
+			<object type="utensil" xml:id="kohlen">Kohlen</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="rein-glasiert">Rein (glasiert)</object>
+			<object type="utensil" xml:id="rost">Rost</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

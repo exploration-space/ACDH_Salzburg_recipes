@@ -151,23 +151,23 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eierkaese">Eierkäse</object>
-			<object type="Zutaten" xml:id="korinthen">Korinthen</object>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="weinbeeren">Weinbeeren</object>
-			<object type="Zutaten" xml:id="weizenmehl">Weizenmehl</object>
-			<object type="Zutaten" xml:id="zibeben">Zibeben</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="eierkaese">Eierkäse</object>
+			<object type="ingredient" xml:id="korinthen">Korinthen</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="weinbeeren">Weinbeeren</object>
+			<object type="ingredient" xml:id="weizenmehl">Weizenmehl</object>
+			<object type="ingredient" xml:id="zibeben">Zibeben</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="durchschlag">Durchschlag</object>
-			<object type="MaterielleKultur" xml:id="serviette">Serviette</object>
-			<object type="MaterielleKultur" xml:id="sieb">Sieb</object>
-			<object type="MaterielleKultur" xml:id="tisch">Tisch</object>
+			<object type="utensil" xml:id="durchschlag">Durchschlag</object>
+			<object type="utensil" xml:id="serviette">Serviette</object>
+			<object type="utensil" xml:id="sieb">Sieb</object>
+			<object type="utensil" xml:id="tisch">Tisch</object>
                 </listObject>
             </div>
             <div type="dietetic">

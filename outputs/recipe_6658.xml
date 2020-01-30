@@ -151,24 +151,24 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="ingwer">Ingwer</object>
-			<object type="Zutaten" xml:id="malvasia">Malvasier (Wein)</object>
-			<object type="Zutaten" xml:id="neunauge-fisch">Neunauge (Fisch)</object>
-			<object type="Zutaten" xml:id="olivenoel">Olivenöl</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="roggenbrot-gerieben">Roggenbrot (gerieben)</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="ingwer">Ingwer</object>
+			<object type="ingredient" xml:id="malvasia">Malvasier (Wein)</object>
+			<object type="ingredient" xml:id="neunauge-fisch">Neunauge (Fisch)</object>
+			<object type="ingredient" xml:id="olivenoel">Olivenöl</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="roggenbrot-gerieben">Roggenbrot (gerieben)</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="faesslein">Fässlein</object>
+			<object type="utensil" xml:id="faesslein">Fässlein</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="zum-verschicken">Zum Verschicken</object>
+			<object type="dietetic" xml:id="zum-verschicken">Zum Verschicken</object>
                 </listObject>
             </div>
         <div type="recipe">

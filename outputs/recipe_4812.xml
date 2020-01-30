@@ -151,30 +151,30 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="bries">Bries</object>
-			<object type="Zutaten" xml:id="cardamom">Cardamom</object>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="huehnerleber">Hühnerleber</object>
-			<object type="Zutaten" xml:id="ingwer">Ingwer</object>
-			<object type="Zutaten" xml:id="kalbsnetz">Kalbsnetz</object>
-			<object type="Zutaten" xml:id="kapaunenleber">Kapaunenleber</object>
-			<object type="Zutaten" xml:id="knochenmark">Knochenmark</object>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="safran">Safran</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="semmelmehl">Semmelmehl</object>
-			<object type="Zutaten" xml:id="weinbeeren">Weinbeeren</object>
+			<object type="ingredient" xml:id="bries">Bries</object>
+			<object type="ingredient" xml:id="cardamom">Cardamom</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="huehnerleber">Hühnerleber</object>
+			<object type="ingredient" xml:id="ingwer">Ingwer</object>
+			<object type="ingredient" xml:id="kalbsnetz">Kalbsnetz</object>
+			<object type="ingredient" xml:id="kapaunenleber">Kapaunenleber</object>
+			<object type="ingredient" xml:id="knochenmark">Knochenmark</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="safran">Safran</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="semmelmehl">Semmelmehl</object>
+			<object type="ingredient" xml:id="weinbeeren">Weinbeeren</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="backofen">Backofen</object>
-			<object type="MaterielleKultur" xml:id="bratpfanne">Bratpfanne</object>
-			<object type="MaterielleKultur" xml:id="kohlpfanne">Kohlpfanne</object>
-			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="backofen">Backofen</object>
+			<object type="utensil" xml:id="bratpfanne">Bratpfanne</object>
+			<object type="utensil" xml:id="kohlpfanne">Kohlpfanne</object>
+			<object type="utensil" xml:id="pfanne">Pfanne</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -151,16 +151,16 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="eischnee">Eischnee</object>
-			<object type="Zutaten" xml:id="quitten">Quitten</object>
-			<object type="Zutaten" xml:id="zitronen">Zitronen</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="eischnee">Eischnee</object>
+			<object type="ingredient" xml:id="quitten">Quitten</object>
+			<object type="ingredient" xml:id="zitronen">Zitronen</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="papier">Papier</object>
+			<object type="utensil" xml:id="papier">Papier</object>
                 </listObject>
             </div>
             <div type="dietetic">

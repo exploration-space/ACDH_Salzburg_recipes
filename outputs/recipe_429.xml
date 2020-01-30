@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="dotter">Dotter (Eigelb)</object>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="sahne">Rahm (Sahne)</object>
-			<object type="Zutaten" xml:id="weissbierhefe">Weißbierhefe</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="dotter">Dotter (Eigelb)</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="sahne">Rahm (Sahne)</object>
+			<object type="ingredient" xml:id="weissbierhefe">Weißbierhefe</object>
                  </listObject>
             </div>
              <div type="utensil">

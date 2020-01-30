@@ -151,23 +151,23 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="bruehe">Brühe</object>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="gurken">Gurken</object>
-			<object type="Zutaten" xml:id="kraeuter">Kräuter</object>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="sauerrahm">Sauerrahm</object>
-			<object type="Zutaten" xml:id="schafkoteletts">Schafkoteletts</object>
-			<object type="Zutaten" xml:id="schafsruecken">Schafsrücken</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
-			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
+			<object type="ingredient" xml:id="bruehe">Brühe</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="gurken">Gurken</object>
+			<object type="ingredient" xml:id="kraeuter">Kräuter</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="sauerrahm">Sauerrahm</object>
+			<object type="ingredient" xml:id="schafkoteletts">Schafkoteletts</object>
+			<object type="ingredient" xml:id="schafsruecken">Schafsrücken</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="brett">Brett</object>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="brett">Brett</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
                 </listObject>
             </div>
             <div type="dietetic">

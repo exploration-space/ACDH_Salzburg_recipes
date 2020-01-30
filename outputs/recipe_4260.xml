@@ -151,24 +151,24 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="mehl">Mehl</object>
-			<object type="Zutaten" xml:id="sahne">Rahm (Sahne)</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="mehl">Mehl</object>
+			<object type="ingredient" xml:id="sahne">Rahm (Sahne)</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="blech">Blech</object>
-			<object type="MaterielleKultur" xml:id="blechbuechse">Blechbüchse</object>
-			<object type="MaterielleKultur" xml:id="deckel-fuer-glut-stuerze">Deckel für Glut (Stürze)</object>
-			<object type="MaterielleKultur" xml:id="dreifuss">Dreifuß</object>
-			<object type="MaterielleKultur" xml:id="glut">Glut</object>
-			<object type="MaterielleKultur" xml:id="loeffel">Löffel</object>
-			<object type="MaterielleKultur" xml:id="maas">Maas</object>
-			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>
-			<object type="MaterielleKultur" xml:id="schart-flacher-tiegel">Schart (flacher Tiegel</object>
+			<object type="utensil" xml:id="blech">Blech</object>
+			<object type="utensil" xml:id="blechbuechse">Blechbüchse</object>
+			<object type="utensil" xml:id="deckel-fuer-glut-stuerze">Deckel für Glut (Stürze)</object>
+			<object type="utensil" xml:id="dreifuss">Dreifuß</object>
+			<object type="utensil" xml:id="glut">Glut</object>
+			<object type="utensil" xml:id="loeffel">Löffel</object>
+			<object type="utensil" xml:id="maas">Maas</object>
+			<object type="utensil" xml:id="pfanne">Pfanne</object>
+			<object type="utensil" xml:id="schart-flacher-tiegel">Schart (flacher Tiegel</object>
                 </listObject>
             </div>
             <div type="dietetic">

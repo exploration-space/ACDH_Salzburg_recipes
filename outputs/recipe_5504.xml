@@ -151,10 +151,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="brot-gebaeht">Brot (gebäht)</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="frischkaese">Frischkäse</object>
-			<object type="Zutaten" xml:id="sauerrahm">Sauerrahm</object>
+			<object type="ingredient" xml:id="brot-gebaeht">Brot (gebäht)</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="frischkaese">Frischkäse</object>
+			<object type="ingredient" xml:id="sauerrahm">Sauerrahm</object>
                  </listObject>
             </div>
              <div type="utensil">

@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="huehnerleber">Hühnerleber</object>
-			<object type="Zutaten" xml:id="knochenmark">Knochenmark</object>
-			<object type="Zutaten" xml:id="milch">Milch</object>
-			<object type="Zutaten" xml:id="muerbteig">Mürbteig</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="huehnerleber">Hühnerleber</object>
+			<object type="ingredient" xml:id="knochenmark">Knochenmark</object>
+			<object type="ingredient" xml:id="milch">Milch</object>
+			<object type="ingredient" xml:id="muerbteig">Mürbteig</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="backofen">Backofen</object>
-			<object type="MaterielleKultur" xml:id="herd">Herd</object>
-			<object type="MaterielleKultur" xml:id="kupferpfanne-verzinnt">Kupferpfanne (verzinnt)</object>
-			<object type="MaterielleKultur" xml:id="hafen-topf">Topf (Hafen)</object>
+			<object type="utensil" xml:id="backofen">Backofen</object>
+			<object type="utensil" xml:id="herd">Herd</object>
+			<object type="utensil" xml:id="kupferpfanne-verzinnt">Kupferpfanne (verzinnt)</object>
+			<object type="utensil" xml:id="hafen-topf">Topf (Hafen)</object>
                 </listObject>
             </div>
             <div type="dietetic">

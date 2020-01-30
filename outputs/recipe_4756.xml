@@ -151,26 +151,26 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="kardamom">Kardamom</object>
-			<object type="Zutaten" xml:id="krebse">Krebse</object>
-			<object type="Zutaten" xml:id="milch">Milch</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="sahne">Rahm (Sahne)</object>
-			<object type="Zutaten" xml:id="weissbrot-gerieben">Weißbrot (gerieben)</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="kardamom">Kardamom</object>
+			<object type="ingredient" xml:id="krebse">Krebse</object>
+			<object type="ingredient" xml:id="milch">Milch</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="sahne">Rahm (Sahne)</object>
+			<object type="ingredient" xml:id="weissbrot-gerieben">Weißbrot (gerieben)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="kohlen">Kohlen</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="stuerze-aus-eisen">Stürze (aus Eisen)</object>
-			<object type="MaterielleKultur" xml:id="stuerze-deckel">Stürze (Deckel)</object>
-			<object type="MaterielleKultur" xml:id="tisch">Tisch</object>
-			<object type="MaterielleKultur" xml:id="tortenblech">Tortenblech</object>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="kohlen">Kohlen</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="stuerze-aus-eisen">Stürze (aus Eisen)</object>
+			<object type="utensil" xml:id="stuerze-deckel">Stürze (Deckel)</object>
+			<object type="utensil" xml:id="tisch">Tisch</object>
+			<object type="utensil" xml:id="tortenblech">Tortenblech</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

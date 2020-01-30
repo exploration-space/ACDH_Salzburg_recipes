@@ -151,16 +151,16 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="brotrinde">Brotrinde</object>
-			<object type="Zutaten" xml:id="kapaunbruehe">Kapaunbrühe</object>
-			<object type="Zutaten" xml:id="knoblauchzehe">Knoblauchzehe</object>
-			<object type="Zutaten" xml:id="mandeln-abgezogen">Mandeln (abgezogen)</object>
-			<object type="Zutaten" xml:id="nuesse">Nüsse</object>
+			<object type="ingredient" xml:id="brotrinde">Brotrinde</object>
+			<object type="ingredient" xml:id="kapaunbruehe">Kapaunbrühe</object>
+			<object type="ingredient" xml:id="knoblauchzehe">Knoblauchzehe</object>
+			<object type="ingredient" xml:id="mandeln-abgezogen">Mandeln (abgezogen)</object>
+			<object type="ingredient" xml:id="nuesse">Nüsse</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
                 </listObject>
             </div>
             <div type="dietetic">

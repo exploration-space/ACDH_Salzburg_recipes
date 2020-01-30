@@ -151,18 +151,18 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="brandteig">Brandteig</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="brandteig">Brandteig</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="loeffel">Löffel</object>
-			<object type="MaterielleKultur" xml:id="messer">Messer</object>
-			<object type="MaterielleKultur" xml:id="schaumloeffel">Schaumlöffel</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="teller">Teller</object>
+			<object type="utensil" xml:id="loeffel">Löffel</object>
+			<object type="utensil" xml:id="messer">Messer</object>
+			<object type="utensil" xml:id="schaumloeffel">Schaumlöffel</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="teller">Teller</object>
                 </listObject>
             </div>
             <div type="dietetic">

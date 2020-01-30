@@ -151,19 +151,19 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="dotter">Dotter (Eigelb)</object>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="milch">Milch</object>
-			<object type="Zutaten" xml:id="reis">Reis</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="dotter">Dotter (Eigelb)</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="milch">Milch</object>
+			<object type="ingredient" xml:id="reis">Reis</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="blechschuessel">Blechschüssel</object>
-			<object type="MaterielleKultur" xml:id="schuesselring">Schüsselring (Reif)</object>
-			<object type="MaterielleKultur" xml:id="weidling">Weidling</object>
+			<object type="utensil" xml:id="blechschuessel">Blechschüssel</object>
+			<object type="utensil" xml:id="schuesselring">Schüsselring (Reif)</object>
+			<object type="utensil" xml:id="weidling">Weidling</object>
                 </listObject>
             </div>
             <div type="dietetic">

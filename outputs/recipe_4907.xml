@@ -151,24 +151,24 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="mehl">Mehl</object>
-			<object type="Zutaten" xml:id="sahne">Rahm (Sahne)</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="weissbierhefe">Weißbierhefe</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="mehl">Mehl</object>
+			<object type="ingredient" xml:id="sahne">Rahm (Sahne)</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="weissbierhefe">Weißbierhefe</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="backofen">Backofen</object>
-			<object type="MaterielleKultur" xml:id="becken">Becken</object>
-			<object type="MaterielleKultur" xml:id="diethaeuflein">Diethäuflein</object>
-			<object type="MaterielleKultur" xml:id="maas">Maas</object>
-			<object type="MaterielleKultur" xml:id="model">Model</object>
-			<object type="MaterielleKultur" xml:id="pfund">Pfund</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="seitlein">Seitlein</object>
+			<object type="utensil" xml:id="backofen">Backofen</object>
+			<object type="utensil" xml:id="becken">Becken</object>
+			<object type="utensil" xml:id="diethaeuflein">Diethäuflein</object>
+			<object type="utensil" xml:id="maas">Maas</object>
+			<object type="utensil" xml:id="model">Model</object>
+			<object type="utensil" xml:id="pfund">Pfund</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="seitlein">Seitlein</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -151,20 +151,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="dotter">Dotter (Eigelb)</object>
-			<object type="Zutaten" xml:id="limonensaft">Limonensaft</object>
-			<object type="Zutaten" xml:id="limonenschalen">Limonenschalen</object>
-			<object type="Zutaten" xml:id="mandeln-gerieben">Mandeln (gerieben)</object>
-			<object type="Zutaten" xml:id="muerbteig">Mürbteig</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="wasser-parfuemiert">Wasser (parfümiert)</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="dotter">Dotter (Eigelb)</object>
+			<object type="ingredient" xml:id="limonensaft">Limonensaft</object>
+			<object type="ingredient" xml:id="limonenschalen">Limonenschalen</object>
+			<object type="ingredient" xml:id="mandeln-gerieben">Mandeln (gerieben)</object>
+			<object type="ingredient" xml:id="muerbteig">Mürbteig</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="wasser-parfuemiert">Wasser (parfümiert)</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
                 </listObject>
             </div>
             <div type="dietetic">

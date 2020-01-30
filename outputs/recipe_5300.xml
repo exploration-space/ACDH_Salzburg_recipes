@@ -154,25 +154,25 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="bier">Bier</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="essig">Essig</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="roggenbrot-brot">Roggenbrot</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
-			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
+			<object type="ingredient" xml:id="bier">Bier</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="essig">Essig</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="roggenbrot-brot">Roggenbrot</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="brett">Brett</object>
-			<object type="MaterielleKultur" xml:id="feuer">Feuer</object>
-			<object type="MaterielleKultur" xml:id="fischkessel">Fischkessel</object>
-			<object type="MaterielleKultur" xml:id="kochloeffel">Kochlöffel</object>
-			<object type="MaterielleKultur" xml:id="kohlen">Kohlen</object>
-			<object type="MaterielleKultur" xml:id="tuch-haeren">Tuch (hären)</object>
+			<object type="utensil" xml:id="brett">Brett</object>
+			<object type="utensil" xml:id="feuer">Feuer</object>
+			<object type="utensil" xml:id="fischkessel">Fischkessel</object>
+			<object type="utensil" xml:id="kochloeffel">Kochlöffel</object>
+			<object type="utensil" xml:id="kohlen">Kohlen</object>
+			<object type="utensil" xml:id="tuch-haeren">Tuch (hären)</object>
                 </listObject>
             </div>
             <div type="dietetic">

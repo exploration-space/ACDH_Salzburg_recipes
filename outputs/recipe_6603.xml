@@ -151,12 +151,12 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="kapaun">Kapaun</object>
+			<object type="ingredient" xml:id="kapaun">Kapaun</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="kohlen">Kohlen</object>
+			<object type="utensil" xml:id="kohlen">Kohlen</object>
                 </listObject>
             </div>
             <div type="dietetic">

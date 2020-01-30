@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="honig">Honig</object>
-			<object type="Zutaten" xml:id="muskatnuss">Muskatnuss</object>
-			<object type="Zutaten" xml:id="paradieskoerner">Paradieskörner (Guineapfeffer)</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="honig">Honig</object>
+			<object type="ingredient" xml:id="muskatnuss">Muskatnuss</object>
+			<object type="ingredient" xml:id="paradieskoerner">Paradieskörner (Guineapfeffer)</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
                  </listObject>
             </div>
              <div type="utensil">
@@ -165,7 +165,7 @@
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="zum-laeutern">zum Läutern</object>
+			<object type="dietetic" xml:id="zum-laeutern">zum Läutern</object>
                 </listObject>
             </div>
         <div type="recipe">

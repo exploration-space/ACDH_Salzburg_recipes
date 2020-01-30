@@ -151,16 +151,16 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="erbsensuppe">Erbsenbrühe</object>
-			<object type="Zutaten" xml:id="ingwer">Ingwer</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="orangenschalen">Orangenschalen</object>
-			<object type="Zutaten" xml:id="pfeffer-gem">Pfeffer (gem.)</object>
-			<object type="Zutaten" xml:id="rosinen">Rosinen</object>
-			<object type="Zutaten" xml:id="safran">Safran</object>
-			<object type="Zutaten" xml:id="wallerwels">Waller/Wels</object>
-			<object type="Zutaten" xml:id="zibeben">Zibeben</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="erbsensuppe">Erbsenbrühe</object>
+			<object type="ingredient" xml:id="ingwer">Ingwer</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="orangenschalen">Orangenschalen</object>
+			<object type="ingredient" xml:id="pfeffer-gem">Pfeffer (gem.)</object>
+			<object type="ingredient" xml:id="rosinen">Rosinen</object>
+			<object type="ingredient" xml:id="safran">Safran</object>
+			<object type="ingredient" xml:id="wallerwels">Waller/Wels</object>
+			<object type="ingredient" xml:id="zibeben">Zibeben</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">

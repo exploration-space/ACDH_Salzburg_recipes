@@ -151,18 +151,18 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="orangenschalen">Orangenschalen</object>
-			<object type="Zutaten" xml:id="quitten">Quitten</object>
-			<object type="Zutaten" xml:id="quittensaft">Quittensaft</object>
-			<object type="Zutaten" xml:id="zitronat-geschnitten">Zitronat (geschnitten)</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="orangenschalen">Orangenschalen</object>
+			<object type="ingredient" xml:id="quitten">Quitten</object>
+			<object type="ingredient" xml:id="quittensaft">Quittensaft</object>
+			<object type="ingredient" xml:id="zitronat-geschnitten">Zitronat (geschnitten)</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="loeffel">Löffel</object>
-			<object type="MaterielleKultur" xml:id="schachtel">Schachtel</object>
-			<object type="MaterielleKultur" xml:id="sieb">Sieb</object>
+			<object type="utensil" xml:id="loeffel">Löffel</object>
+			<object type="utensil" xml:id="schachtel">Schachtel</object>
+			<object type="utensil" xml:id="sieb">Sieb</object>
                 </listObject>
             </div>
             <div type="dietetic">

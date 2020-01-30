@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="kuemmel">Kümmel</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="kuemmel">Kümmel</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="kamin">Kamin</object>
-			<object type="MaterielleKultur" xml:id="loth">Loth</object>
-			<object type="MaterielleKultur" xml:id="nadel">Nadel</object>
-			<object type="MaterielleKultur" xml:id="pfund">Pfund</object>
-			<object type="MaterielleKultur" xml:id="rauch">Rauch</object>
-			<object type="MaterielleKultur" xml:id="rauchfang">Rauchfang</object>
-			<object type="MaterielleKultur" xml:id="schlot">Schlot</object>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="kamin">Kamin</object>
+			<object type="utensil" xml:id="loth">Loth</object>
+			<object type="utensil" xml:id="nadel">Nadel</object>
+			<object type="utensil" xml:id="pfund">Pfund</object>
+			<object type="utensil" xml:id="rauch">Rauch</object>
+			<object type="utensil" xml:id="rauchfang">Rauchfang</object>
+			<object type="utensil" xml:id="schlot">Schlot</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

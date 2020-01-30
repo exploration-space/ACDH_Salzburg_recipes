@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="amber">Amber</object>
-			<object type="Zutaten" xml:id="eiklar">Eiklar (Eiweiß)</object>
-			<object type="Zutaten" xml:id="moschus-bisam">Moschus (Bisam)</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="amber">Amber</object>
+			<object type="ingredient" xml:id="eiklar">Eiklar (Eiweiß)</object>
+			<object type="ingredient" xml:id="moschus-bisam">Moschus (Bisam)</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="geschirr">Geschirr</object>
-			<object type="MaterielleKultur" xml:id="holzloeffel">Holzlöffel</object>
-			<object type="MaterielleKultur" xml:id="loeffel">Löffel</object>
-			<object type="MaterielleKultur" xml:id="messingkessel">Messingkessel</object>
-			<object type="MaterielleKultur" xml:id="papier">Papier</object>
-			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>
-			<object type="MaterielleKultur" xml:id="sieb">Sieb</object>
+			<object type="utensil" xml:id="geschirr">Geschirr</object>
+			<object type="utensil" xml:id="holzloeffel">Holzlöffel</object>
+			<object type="utensil" xml:id="loeffel">Löffel</object>
+			<object type="utensil" xml:id="messingkessel">Messingkessel</object>
+			<object type="utensil" xml:id="papier">Papier</object>
+			<object type="utensil" xml:id="pfanne">Pfanne</object>
+			<object type="utensil" xml:id="sieb">Sieb</object>
                 </listObject>
             </div>
             <div type="dietetic">

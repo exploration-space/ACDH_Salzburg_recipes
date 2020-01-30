@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eiklar">Eiklar (Eiweiß)</object>
-			<object type="Zutaten" xml:id="lammschnitzel">Lammschnitzel</object>
-			<object type="Zutaten" xml:id="petersilienkraut">Petersilienkraut</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="semmelbroesel">Semmelbrösel</object>
+			<object type="ingredient" xml:id="eiklar">Eiklar (Eiweiß)</object>
+			<object type="ingredient" xml:id="lammschnitzel">Lammschnitzel</object>
+			<object type="ingredient" xml:id="petersilienkraut">Petersilienkraut</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="semmelbroesel">Semmelbrösel</object>
                  </listObject>
             </div>
              <div type="utensil">

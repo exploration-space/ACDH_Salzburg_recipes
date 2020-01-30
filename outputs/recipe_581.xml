@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="blutwurz-tormentill">Blutwurz (Tormentill)</object>
-			<object type="Zutaten" xml:id="orangenschalen">Orangenschalen</object>
-			<object type="Zutaten" xml:id="osterluzei">Osterluzei</object>
-			<object type="Zutaten" xml:id="theriak">Theriak</object>
-			<object type="Zutaten" xml:id="zitwer-weisse-curcuma">Zitwer (Weiße Curcuma)</object>
+			<object type="ingredient" xml:id="blutwurz-tormentill">Blutwurz (Tormentill)</object>
+			<object type="ingredient" xml:id="orangenschalen">Orangenschalen</object>
+			<object type="ingredient" xml:id="osterluzei">Osterluzei</object>
+			<object type="ingredient" xml:id="theriak">Theriak</object>
+			<object type="ingredient" xml:id="zitwer-weisse-curcuma">Zitwer (Weiße Curcuma)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="bleibuechse">Bleibüchse</object>
-			<object type="MaterielleKultur" xml:id="moerser">Mörser</object>
+			<object type="utensil" xml:id="bleibuechse">Bleibüchse</object>
+			<object type="utensil" xml:id="moerser">Mörser</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="fuer-die-kranken">für die Kranken</object>
+			<object type="dietetic" xml:id="fuer-die-kranken">für die Kranken</object>
                 </listObject>
             </div>
         <div type="recipe">

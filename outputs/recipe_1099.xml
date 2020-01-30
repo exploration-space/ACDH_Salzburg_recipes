@@ -151,20 +151,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="brot">Brot</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="erbsen">Erbsen</object>
-			<object type="Zutaten" xml:id="fruehlingszwiebel">Frühlingszwiebel</object>
-			<object type="Zutaten" xml:id="majoran">Majoran</object>
-			<object type="Zutaten" xml:id="mehl">Mehl</object>
-			<object type="Zutaten" xml:id="minze">Minze</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="nelken">Nelken</object>
-			<object type="Zutaten" xml:id="pfeffer-ganz">Pfeffer (ganz)</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="spinat">Spinat</object>
-			<object type="Zutaten" xml:id="thymian">Thymian</object>
-			<object type="Zutaten" xml:id="toastbrot">Toastbrot</object>
+			<object type="ingredient" xml:id="brot">Brot</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="erbsen">Erbsen</object>
+			<object type="ingredient" xml:id="fruehlingszwiebel">Frühlingszwiebel</object>
+			<object type="ingredient" xml:id="majoran">Majoran</object>
+			<object type="ingredient" xml:id="mehl">Mehl</object>
+			<object type="ingredient" xml:id="minze">Minze</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="nelken">Nelken</object>
+			<object type="ingredient" xml:id="pfeffer-ganz">Pfeffer (ganz)</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="spinat">Spinat</object>
+			<object type="ingredient" xml:id="thymian">Thymian</object>
+			<object type="ingredient" xml:id="toastbrot">Toastbrot</object>
                  </listObject>
             </div>
              <div type="utensil">

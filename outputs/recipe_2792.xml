@@ -151,21 +151,21 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gerste">Gerste</object>
-			<object type="Zutaten" xml:id="huhn">Huhn</object>
-			<object type="Zutaten" xml:id="kapaun">Kapaun</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="pinienkerne">Pinienkerne</object>
+			<object type="ingredient" xml:id="gerste">Gerste</object>
+			<object type="ingredient" xml:id="huhn">Huhn</object>
+			<object type="ingredient" xml:id="kapaun">Kapaun</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="pinienkerne">Pinienkerne</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="flasche-2">Flasche</object>
+			<object type="utensil" xml:id="flasche-2">Flasche</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="fuer-die-kranken">für die Kranken</object>
+			<object type="dietetic" xml:id="fuer-die-kranken">für die Kranken</object>
                 </listObject>
             </div>
         <div type="recipe">

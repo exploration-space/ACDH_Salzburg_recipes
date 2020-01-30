@@ -151,8 +151,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="rotauge-fisch">Rotauge (Fisch)</object>
-			<object type="Zutaten" xml:id="sauerkraut">Sauerkraut</object>
+			<object type="ingredient" xml:id="rotauge-fisch">Rotauge (Fisch)</object>
+			<object type="ingredient" xml:id="sauerkraut">Sauerkraut</object>
                  </listObject>
             </div>
              <div type="utensil">

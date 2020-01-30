@@ -151,20 +151,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="branntwein">Branntwein</object>
-			<object type="Zutaten" xml:id="galgant">Galgant</object>
-			<object type="Zutaten" xml:id="ingwer">Ingwer</object>
-			<object type="Zutaten" xml:id="kirschkerne">Kirschkerne</object>
-			<object type="Zutaten" xml:id="nelken">Nelken</object>
-			<object type="Zutaten" xml:id="pfirsichkerne">Pfirsichkerne</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="branntwein">Branntwein</object>
+			<object type="ingredient" xml:id="galgant">Galgant</object>
+			<object type="ingredient" xml:id="ingwer">Ingwer</object>
+			<object type="ingredient" xml:id="kirschkerne">Kirschkerne</object>
+			<object type="ingredient" xml:id="nelken">Nelken</object>
+			<object type="ingredient" xml:id="pfirsichkerne">Pfirsichkerne</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="arznei">Arznei</object>
-			<object type="MaterielleKultur" xml:id="fass">Fass</object>
+			<object type="utensil" xml:id="arznei">Arznei</object>
+			<object type="utensil" xml:id="fass">Fass</object>
                 </listObject>
             </div>
             <div type="dietetic">

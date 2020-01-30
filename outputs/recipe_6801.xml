@@ -151,10 +151,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="dotter">Dotter (Eigelb)</object>
-			<object type="Zutaten" xml:id="kraeuter-frisch">Kräuter (frisch)</object>
-			<object type="Zutaten" xml:id="sauce-sauer">Sauce (sauer)</object>
-			<object type="Zutaten" xml:id="singvoegel">Singvögel</object>
+			<object type="ingredient" xml:id="dotter">Dotter (Eigelb)</object>
+			<object type="ingredient" xml:id="kraeuter-frisch">Kräuter (frisch)</object>
+			<object type="ingredient" xml:id="sauce-sauer">Sauce (sauer)</object>
+			<object type="ingredient" xml:id="singvoegel">Singvögel</object>
                  </listObject>
             </div>
              <div type="utensil">

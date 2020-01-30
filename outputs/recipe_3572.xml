@@ -151,8 +151,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="rahmsauce-sahnesauce">Rahmsauce (Sahnesauce)</object>
-			<object type="Zutaten" xml:id="schnecken">Schnecken</object>
+			<object type="ingredient" xml:id="rahmsauce-sahnesauce">Rahmsauce (Sahnesauce)</object>
+			<object type="ingredient" xml:id="schnecken">Schnecken</object>
                  </listObject>
             </div>
              <div type="utensil">

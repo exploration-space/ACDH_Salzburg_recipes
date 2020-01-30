@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="brunnenwasser">Brunnenwasser</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
-			<object type="Zutaten" xml:id="zucker-gelaeutert">Zucker (geläutert)</object>
-			<object type="Zutaten" xml:id="zwetschke-pflaume">Zwetschken (Pflaumen)</object>
+			<object type="ingredient" xml:id="brunnenwasser">Brunnenwasser</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="zucker-gelaeutert">Zucker (geläutert)</object>
+			<object type="ingredient" xml:id="zwetschke-pflaume">Zwetschken (Pflaumen)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="deckel">Deckel</object>
-			<object type="MaterielleKultur" xml:id="glas">Glas</object>
-			<object type="MaterielleKultur" xml:id="kessel">Kessel</object>
-			<object type="MaterielleKultur" xml:id="kessel-verzinnt">Kessel (verzinnt)</object>
-			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>
-			<object type="MaterielleKultur" xml:id="stecknadel">Stecknadel</object>
-			<object type="MaterielleKultur" xml:id="tiegel">Tiegel</object>
+			<object type="utensil" xml:id="deckel">Deckel</object>
+			<object type="utensil" xml:id="glas">Glas</object>
+			<object type="utensil" xml:id="kessel">Kessel</object>
+			<object type="utensil" xml:id="kessel-verzinnt">Kessel (verzinnt)</object>
+			<object type="utensil" xml:id="pfanne">Pfanne</object>
+			<object type="utensil" xml:id="stecknadel">Stecknadel</object>
+			<object type="utensil" xml:id="tiegel">Tiegel</object>
                 </listObject>
             </div>
             <div type="dietetic">

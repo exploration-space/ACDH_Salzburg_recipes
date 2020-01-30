@@ -151,30 +151,30 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="eierschale">Eierschale</object>
-			<object type="Zutaten" xml:id="hausenblase">Hausenblase</object>
-			<object type="Zutaten" xml:id="hirschhorn">Hirschhorn</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="pistazien">Pistazien</object>
-			<object type="Zutaten" xml:id="sauerdorn">Sauerdorn</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
-			<object type="Zutaten" xml:id="zitronat">Zitronat (eingelegte/kandierte Zitronen)</object>
-			<object type="Zutaten" xml:id="zitronensaft">Zitronensaft</object>
-			<object type="Zutaten" xml:id="zitronenschalen">Zitronenschalen</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="eierschale">Eierschale</object>
+			<object type="ingredient" xml:id="hausenblase">Hausenblase</object>
+			<object type="ingredient" xml:id="hirschhorn">Hirschhorn</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="pistazien">Pistazien</object>
+			<object type="ingredient" xml:id="sauerdorn">Sauerdorn</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="zitronat">Zitronat (eingelegte/kandierte Zitronen)</object>
+			<object type="ingredient" xml:id="zitronensaft">Zitronensaft</object>
+			<object type="ingredient" xml:id="zitronenschalen">Zitronenschalen</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="loth">Loth</object>
-			<object type="MaterielleKultur" xml:id="maas">Maas</object>
-			<object type="MaterielleKultur" xml:id="messingpfanne">Messingpfanne</object>
-			<object type="MaterielleKultur" xml:id="schale">Schale</object>
-			<object type="MaterielleKultur" xml:id="seidel">Seidel</object>
-			<object type="MaterielleKultur" xml:id="hafen-topf">Topf (Hafen)</object>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="loth">Loth</object>
+			<object type="utensil" xml:id="maas">Maas</object>
+			<object type="utensil" xml:id="messingpfanne">Messingpfanne</object>
+			<object type="utensil" xml:id="schale">Schale</object>
+			<object type="utensil" xml:id="seidel">Seidel</object>
+			<object type="utensil" xml:id="hafen-topf">Topf (Hafen)</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

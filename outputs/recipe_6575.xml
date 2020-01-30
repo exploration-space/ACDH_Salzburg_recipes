@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="kapaunbruehe">Kapaunbrühe</object>
-			<object type="Zutaten" xml:id="kapaunenbrust">Kapaunenbrust</object>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="weissbrot-gebaeht-weissbrot-brot">Weißbrot (gebäht)</object>
+			<object type="ingredient" xml:id="kapaunbruehe">Kapaunbrühe</object>
+			<object type="ingredient" xml:id="kapaunenbrust">Kapaunenbrust</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="weissbrot-gebaeht-weissbrot-brot">Weißbrot (gebäht)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="moerser">Mörser</object>
+			<object type="utensil" xml:id="moerser">Mörser</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="fuer-die-kranken">für die Kranken</object>
-			<object type="Diaetetik" xml:id="fuer-gesunde">für Gesunde</object>
+			<object type="dietetic" xml:id="fuer-die-kranken">für die Kranken</object>
+			<object type="dietetic" xml:id="fuer-gesunde">für Gesunde</object>
                 </listObject>
             </div>
         <div type="recipe">

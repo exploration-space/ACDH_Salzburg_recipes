@@ -151,10 +151,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="bertram">Bertram</object>
-			<object type="Zutaten" xml:id="bier">Bier</object>
-			<object type="Zutaten" xml:id="lorbeer">Lorbeerblätter</object>
-			<object type="Zutaten" xml:id="tausendguldenkraut">Tausendguldenkraut</object>
+			<object type="ingredient" xml:id="bertram">Bertram</object>
+			<object type="ingredient" xml:id="bier">Bier</object>
+			<object type="ingredient" xml:id="lorbeer">Lorbeerblätter</object>
+			<object type="ingredient" xml:id="tausendguldenkraut">Tausendguldenkraut</object>
                  </listObject>
             </div>
              <div type="utensil">

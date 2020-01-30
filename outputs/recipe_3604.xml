@@ -151,8 +151,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="kalbsfaschiertes">Kalbsfaschiertes</object>
-			<object type="Zutaten" xml:id="taube">Taube</object>
+			<object type="ingredient" xml:id="kalbsfaschiertes">Kalbsfaschiertes</object>
+			<object type="ingredient" xml:id="taube">Taube</object>
                  </listObject>
             </div>
              <div type="utensil">

@@ -151,29 +151,29 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="honig">Honig</object>
-			<object type="Zutaten" xml:id="mispeln">Mispeln</object>
-			<object type="Zutaten" xml:id="nelken">Nelken</object>
-			<object type="Zutaten" xml:id="quitten">Quitten</object>
-			<object type="Zutaten" xml:id="schlehen">Schlehen</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="honig">Honig</object>
+			<object type="ingredient" xml:id="mispeln">Mispeln</object>
+			<object type="ingredient" xml:id="nelken">Nelken</object>
+			<object type="ingredient" xml:id="quitten">Quitten</object>
+			<object type="ingredient" xml:id="schlehen">Schlehen</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="dreifuss">Dreifuß</object>
-			<object type="MaterielleKultur" xml:id="haarsieb">Haarsieb</object>
-			<object type="MaterielleKultur" xml:id="hoelzchen">Hölzchen</object>
-			<object type="MaterielleKultur" xml:id="hafen-topf">Topf (Hafen)</object>
+			<object type="utensil" xml:id="dreifuss">Dreifuß</object>
+			<object type="utensil" xml:id="haarsieb">Haarsieb</object>
+			<object type="utensil" xml:id="hoelzchen">Hölzchen</object>
+			<object type="utensil" xml:id="hafen-topf">Topf (Hafen)</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="fuer-die-verdauung">für die Verdauung</object>
-			<object type="Diaetetik" xml:id="magen">Magen</object>
+			<object type="dietetic" xml:id="fuer-die-verdauung">für die Verdauung</object>
+			<object type="dietetic" xml:id="magen">Magen</object>
                 </listObject>
             </div>
         <div type="recipe">

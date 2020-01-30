@@ -151,20 +151,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="hecht">Hecht</object>
-			<object type="Zutaten" xml:id="ingwer">Ingwer</object>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="milch">Milch</object>
-			<object type="Zutaten" xml:id="nelken-gem">Nelken (gem.)</object>
-			<object type="Zutaten" xml:id="orangen">Orangen (Pomeranzen)</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="semmelbroesel">Semmelbrösel</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zibeben">Zibeben</object>
-			<object type="Zutaten" xml:id="zitronen">Zitronen</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
-			<object type="Zutaten" xml:id="zwetschke-pflaume">Zwetschken (Pflaumen)</object>
+			<object type="ingredient" xml:id="hecht">Hecht</object>
+			<object type="ingredient" xml:id="ingwer">Ingwer</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="milch">Milch</object>
+			<object type="ingredient" xml:id="nelken-gem">Nelken (gem.)</object>
+			<object type="ingredient" xml:id="orangen">Orangen (Pomeranzen)</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="semmelbroesel">Semmelbrösel</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zibeben">Zibeben</object>
+			<object type="ingredient" xml:id="zitronen">Zitronen</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="zwetschke-pflaume">Zwetschken (Pflaumen)</object>
                  </listObject>
             </div>
              <div type="utensil">

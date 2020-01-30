@@ -151,14 +151,14 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="anis">Anis</object>
-			<object type="Zutaten" xml:id="kalbsschloegl">Kalbsschlögel</object>
-			<object type="Zutaten" xml:id="konfekt">Konfekt</object>
-			<object type="Zutaten" xml:id="koriander">Koriander</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
-			<object type="Zutaten" xml:id="weichselsaft">Weichselsaft</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="anis">Anis</object>
+			<object type="ingredient" xml:id="kalbsschloegl">Kalbsschlögel</object>
+			<object type="ingredient" xml:id="konfekt">Konfekt</object>
+			<object type="ingredient" xml:id="koriander">Koriander</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="weichselsaft">Weichselsaft</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">

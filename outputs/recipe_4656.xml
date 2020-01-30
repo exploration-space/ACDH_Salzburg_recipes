@@ -151,29 +151,29 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="brot-gerieben">Brot (gerieben)</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="hammel">Hammel</object>
-			<object type="Zutaten" xml:id="kardamom">Kardamom</object>
-			<object type="Zutaten" xml:id="mehl">Mehl</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="pastetenteig">Pastetenteig</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="salbeiblaetter">Salbeiblätter</object>
-			<object type="Zutaten" xml:id="sardellen">Sardellen</object>
-			<object type="Zutaten" xml:id="schinken">Schinken</object>
-			<object type="Zutaten" xml:id="wein-schlecht">Wein (schlecht)</object>
-			<object type="Zutaten" xml:id="zitronensaft">Zitronensaft</object>
-			<object type="Zutaten" xml:id="zitronenschalen">Zitronenschalen</object>
+			<object type="ingredient" xml:id="brot-gerieben">Brot (gerieben)</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="hammel">Hammel</object>
+			<object type="ingredient" xml:id="kardamom">Kardamom</object>
+			<object type="ingredient" xml:id="mehl">Mehl</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="pastetenteig">Pastetenteig</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="salbeiblaetter">Salbeiblätter</object>
+			<object type="ingredient" xml:id="sardellen">Sardellen</object>
+			<object type="ingredient" xml:id="schinken">Schinken</object>
+			<object type="ingredient" xml:id="wein-schlecht">Wein (schlecht)</object>
+			<object type="ingredient" xml:id="zitronensaft">Zitronensaft</object>
+			<object type="ingredient" xml:id="zitronenschalen">Zitronenschalen</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="gewichte">Gewichte</object>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
-			<object type="MaterielleKultur" xml:id="stein">Stein</object>
+			<object type="utensil" xml:id="gewichte">Gewichte</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="stein">Stein</object>
                 </listObject>
             </div>
             <div type="dietetic">

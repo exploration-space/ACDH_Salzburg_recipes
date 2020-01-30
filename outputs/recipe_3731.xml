@@ -151,19 +151,19 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="brot-gebaeht">Brot (gebäht)</object>
-			<object type="Zutaten" xml:id="huhn">Huhn</object>
-			<object type="Zutaten" xml:id="kalbsbraet">Kalbsbrät</object>
-			<object type="Zutaten" xml:id="kohl">Kohl</object>
-			<object type="Zutaten" xml:id="muskatnuss">Muskatnuss</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="brot-gebaeht">Brot (gebäht)</object>
+			<object type="ingredient" xml:id="huhn">Huhn</object>
+			<object type="ingredient" xml:id="kalbsbraet">Kalbsbrät</object>
+			<object type="ingredient" xml:id="kohl">Kohl</object>
+			<object type="ingredient" xml:id="muskatnuss">Muskatnuss</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="teller">Teller</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="teller">Teller</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -151,32 +151,32 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="bruehe">Brühe</object>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="lamm">Lamm</object>
-			<object type="Zutaten" xml:id="lammfett">Lammfett</object>
-			<object type="Zutaten" xml:id="lammnieren">Lammnieren</object>
-			<object type="Zutaten" xml:id="lammvorderviertel">Lammvorderviertel</object>
-			<object type="Zutaten" xml:id="milch-mit-rahm">Milch mit Rahm</object>
-			<object type="Zutaten" xml:id="muskatnuss">Muskatnuss</object>
-			<object type="Zutaten" xml:id="petersilie">Petersilie</object>
-			<object type="Zutaten" xml:id="petersilienkraut">Petersilienkraut</object>
-			<object type="Zutaten" xml:id="petersilienwurzel">Petersilienwurzel</object>
-			<object type="Zutaten" xml:id="salat">Salat</object>
-			<object type="Zutaten" xml:id="semmeln">Semmeln</object>
-			<object type="Zutaten" xml:id="semmeln-eingeweicht">Semmeln (eingeweicht)</object>
+			<object type="ingredient" xml:id="bruehe">Brühe</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="lamm">Lamm</object>
+			<object type="ingredient" xml:id="lammfett">Lammfett</object>
+			<object type="ingredient" xml:id="lammnieren">Lammnieren</object>
+			<object type="ingredient" xml:id="lammvorderviertel">Lammvorderviertel</object>
+			<object type="ingredient" xml:id="milch-mit-rahm">Milch mit Rahm</object>
+			<object type="ingredient" xml:id="muskatnuss">Muskatnuss</object>
+			<object type="ingredient" xml:id="petersilie">Petersilie</object>
+			<object type="ingredient" xml:id="petersilienkraut">Petersilienkraut</object>
+			<object type="ingredient" xml:id="petersilienwurzel">Petersilienwurzel</object>
+			<object type="ingredient" xml:id="salat">Salat</object>
+			<object type="ingredient" xml:id="semmeln">Semmeln</object>
+			<object type="ingredient" xml:id="semmeln-eingeweicht">Semmeln (eingeweicht)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="glut">Glut</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="spritze">Spritze</object>
+			<object type="utensil" xml:id="glut">Glut</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="spritze">Spritze</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="fuer-gesunde">für Gesunde</object>
+			<object type="dietetic" xml:id="fuer-gesunde">für Gesunde</object>
                 </listObject>
             </div>
         <div type="recipe">

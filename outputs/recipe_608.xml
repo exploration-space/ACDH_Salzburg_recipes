@@ -151,24 +151,24 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eiklar">Eiklar (Eiweiß)</object>
-			<object type="Zutaten" xml:id="quitten">Quitten</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="eiklar">Eiklar (Eiweiß)</object>
+			<object type="ingredient" xml:id="quitten">Quitten</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="holzloeffel">Holzlöffel</object>
-			<object type="MaterielleKultur" xml:id="keramiktopf-hafen">Keramiktopf (Hafen)</object>
-			<object type="MaterielleKultur" xml:id="kessel">Kessel</object>
-			<object type="MaterielleKultur" xml:id="messingbecken">Messingbecken</object>
-			<object type="MaterielleKultur" xml:id="presse">Presse</object>
-			<object type="MaterielleKultur" xml:id="reibstein">Reibstein</object>
-			<object type="MaterielleKultur" xml:id="sack">Sack</object>
-			<object type="MaterielleKultur" xml:id="wolltuch">Wolltuch</object>
-			<object type="MaterielleKultur" xml:id="zinnkanne">Zinnkanne</object>
-			<object type="MaterielleKultur" xml:id="zinnschuessel">Zinnschüssel</object>
+			<object type="utensil" xml:id="holzloeffel">Holzlöffel</object>
+			<object type="utensil" xml:id="keramiktopf-hafen">Keramiktopf (Hafen)</object>
+			<object type="utensil" xml:id="kessel">Kessel</object>
+			<object type="utensil" xml:id="messingbecken">Messingbecken</object>
+			<object type="utensil" xml:id="presse">Presse</object>
+			<object type="utensil" xml:id="reibstein">Reibstein</object>
+			<object type="utensil" xml:id="sack">Sack</object>
+			<object type="utensil" xml:id="wolltuch">Wolltuch</object>
+			<object type="utensil" xml:id="zinnkanne">Zinnkanne</object>
+			<object type="utensil" xml:id="zinnschuessel">Zinnschüssel</object>
                 </listObject>
             </div>
             <div type="dietetic">

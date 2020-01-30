@@ -151,31 +151,31 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="austern">Austern</object>
-			<object type="Zutaten" xml:id="bruehe">Brühe</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="butterteig">Butterteig</object>
-			<object type="Zutaten" xml:id="erbsen-gruene">Erbsen (grüne)</object>
-			<object type="Zutaten" xml:id="fisch">Fisch</object>
-			<object type="Zutaten" xml:id="hausen-fisch">Hausen (Fisch)</object>
-			<object type="Zutaten" xml:id="karfiol-blumenkohl">Karfiol (Blumenkohl)</object>
-			<object type="Zutaten" xml:id="knoedel-gebackene">Knödel (gebackene)</object>
-			<object type="Zutaten" xml:id="kraeuter">Kräuter</object>
-			<object type="Zutaten" xml:id="krebse">Krebse</object>
-			<object type="Zutaten" xml:id="morcheln">Morcheln</object>
-			<object type="Zutaten" xml:id="pastetenteig">Pastetenteig</object>
-			<object type="Zutaten" xml:id="pilze">Pilze</object>
-			<object type="Zutaten" xml:id="schnecken">Schnecken</object>
-			<object type="Zutaten" xml:id="spargel">Spargel</object>
+			<object type="ingredient" xml:id="austern">Austern</object>
+			<object type="ingredient" xml:id="bruehe">Brühe</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="butterteig">Butterteig</object>
+			<object type="ingredient" xml:id="erbsen-gruene">Erbsen (grüne)</object>
+			<object type="ingredient" xml:id="fisch">Fisch</object>
+			<object type="ingredient" xml:id="hausen-fisch">Hausen (Fisch)</object>
+			<object type="ingredient" xml:id="karfiol-blumenkohl">Karfiol (Blumenkohl)</object>
+			<object type="ingredient" xml:id="knoedel-gebackene">Knödel (gebackene)</object>
+			<object type="ingredient" xml:id="kraeuter">Kräuter</object>
+			<object type="ingredient" xml:id="krebse">Krebse</object>
+			<object type="ingredient" xml:id="morcheln">Morcheln</object>
+			<object type="ingredient" xml:id="pastetenteig">Pastetenteig</object>
+			<object type="ingredient" xml:id="pilze">Pilze</object>
+			<object type="ingredient" xml:id="schnecken">Schnecken</object>
+			<object type="ingredient" xml:id="spargel">Spargel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="geschirr">Geschirr</object>
-			<object type="MaterielleKultur" xml:id="kasserolle">Kasserolle</object>
-			<object type="MaterielleKultur" xml:id="kupfernes-becken-verzinnt">Kupfernes Becken (verzinnt)</object>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
-			<object type="MaterielleKultur" xml:id="topf">Topf (Rein)</object>
+			<object type="utensil" xml:id="geschirr">Geschirr</object>
+			<object type="utensil" xml:id="kasserolle">Kasserolle</object>
+			<object type="utensil" xml:id="kupfernes-becken-verzinnt">Kupfernes Becken (verzinnt)</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="topf">Topf (Rein)</object>
                 </listObject>
             </div>
             <div type="dietetic">

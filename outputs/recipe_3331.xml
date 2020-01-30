@@ -154,22 +154,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="salpeter">Salpeter</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="schaffleisch">Schaffleisch</object>
-			<object type="Zutaten" xml:id="wacholderbeeren">Wacholderbeeren</object>
+			<object type="ingredient" xml:id="salpeter">Salpeter</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="schaffleisch">Schaffleisch</object>
+			<object type="ingredient" xml:id="wacholderbeeren">Wacholderbeeren</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="brett">Brett</object>
-			<object type="MaterielleKultur" xml:id="fass-ohne-boden">Fass (ohne Boden)</object>
-			<object type="MaterielleKultur" xml:id="glut">Glut</object>
-			<object type="MaterielleKultur" xml:id="holz-gruen">Holz (grün)</object>
-			<object type="MaterielleKultur" xml:id="rebschnur">Rebschnur</object>
-			<object type="MaterielleKultur" xml:id="spagat">Spagat</object>
-			<object type="MaterielleKultur" xml:id="stange">Stange</object>
-			<object type="MaterielleKultur" xml:id="stein">Stein</object>
+			<object type="utensil" xml:id="brett">Brett</object>
+			<object type="utensil" xml:id="fass-ohne-boden">Fass (ohne Boden)</object>
+			<object type="utensil" xml:id="glut">Glut</object>
+			<object type="utensil" xml:id="holz-gruen">Holz (grün)</object>
+			<object type="utensil" xml:id="rebschnur">Rebschnur</object>
+			<object type="utensil" xml:id="spagat">Spagat</object>
+			<object type="utensil" xml:id="stange">Stange</object>
+			<object type="utensil" xml:id="stein">Stein</object>
                 </listObject>
             </div>
             <div type="dietetic">

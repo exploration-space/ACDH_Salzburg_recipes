@@ -151,12 +151,12 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="amber">Amber</object>
-			<object type="Zutaten" xml:id="behennuss">Behennuss</object>
-			<object type="Zutaten" xml:id="moschus-bisam">Moschus (Bisam)</object>
-			<object type="Zutaten" xml:id="orangenbluetenwasser">Orangenblütenwasser</object>
-			<object type="Zutaten" xml:id="tragant">Tragant</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="amber">Amber</object>
+			<object type="ingredient" xml:id="behennuss">Behennuss</object>
+			<object type="ingredient" xml:id="moschus-bisam">Moschus (Bisam)</object>
+			<object type="ingredient" xml:id="orangenbluetenwasser">Orangenblütenwasser</object>
+			<object type="ingredient" xml:id="tragant">Tragant</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">

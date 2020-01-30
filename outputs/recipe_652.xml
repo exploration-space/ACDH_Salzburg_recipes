@@ -151,26 +151,26 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="brunellen-pflaumen">Brunellen (Pflaumen)</object>
-			<object type="Zutaten" xml:id="eierbrot">Eierbrot</object>
-			<object type="Zutaten" xml:id="kardamom">Kardamom</object>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="orangeat">Orangeat (Aranzini)</object>
-			<object type="Zutaten" xml:id="orangenschalen">Orangenschalen</object>
-			<object type="Zutaten" xml:id="suesswein">Süßwein</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
-			<object type="Zutaten" xml:id="zitronat">Zitronat (eingelegte/kandierte Zitronen)</object>
-			<object type="Zutaten" xml:id="zitronenzesten">Zitronenzesten</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="brunellen-pflaumen">Brunellen (Pflaumen)</object>
+			<object type="ingredient" xml:id="eierbrot">Eierbrot</object>
+			<object type="ingredient" xml:id="kardamom">Kardamom</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="orangeat">Orangeat (Aranzini)</object>
+			<object type="ingredient" xml:id="orangenschalen">Orangenschalen</object>
+			<object type="ingredient" xml:id="suesswein">Süßwein</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="zitronat">Zitronat (eingelegte/kandierte Zitronen)</object>
+			<object type="ingredient" xml:id="zitronenzesten">Zitronenzesten</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="napf">Napf</object>
-			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="tonteller">Tonteller</object>
+			<object type="utensil" xml:id="napf">Napf</object>
+			<object type="utensil" xml:id="pfanne">Pfanne</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="tonteller">Tonteller</object>
                 </listObject>
             </div>
             <div type="dietetic">

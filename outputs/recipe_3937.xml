@@ -151,17 +151,17 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="brot-gebaeht">Brot (gebäht)</object>
-			<object type="Zutaten" xml:id="dotterbruehe-dotter">Dotterbrühe</object>
-			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
-			<object type="Zutaten" xml:id="huhn">Huhn</object>
-			<object type="Zutaten" xml:id="muskatnuss">Muskatnuss</object>
-			<object type="Zutaten" xml:id="ochsenmark">Ochsenmark</object>
+			<object type="ingredient" xml:id="brot-gebaeht">Brot (gebäht)</object>
+			<object type="ingredient" xml:id="dotterbruehe-dotter">Dotterbrühe</object>
+			<object type="ingredient" xml:id="fleischbruehe">Fleischbrühe</object>
+			<object type="ingredient" xml:id="huhn">Huhn</object>
+			<object type="ingredient" xml:id="muskatnuss">Muskatnuss</object>
+			<object type="ingredient" xml:id="ochsenmark">Ochsenmark</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="glut">Glut</object>
+			<object type="utensil" xml:id="glut">Glut</object>
                 </listObject>
             </div>
             <div type="dietetic">

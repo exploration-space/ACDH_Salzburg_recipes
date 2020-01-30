@@ -151,8 +151,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="rosmarinoel">Rosmarinöl</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="rosmarinoel">Rosmarinöl</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
                  </listObject>
             </div>
              <div type="utensil">
@@ -162,12 +162,12 @@
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-fisteln">bei Fisteln</object>
-			<object type="Diaetetik" xml:id="bei-krebs">bei Krebs</object>
-			<object type="Diaetetik" xml:id="bei-mundgeruch">bei Mundgeruch</object>
-			<object type="Diaetetik" xml:id="fuer-die-fuesse">für die Füße</object>
-			<object type="Diaetetik" xml:id="fuer-ein-schoenes-aussehen">für ein schönes Aussehen</object>
-			<object type="Diaetetik" xml:id="zahnfleisch">Zahnfleisch</object>
+			<object type="dietetic" xml:id="bei-fisteln">bei Fisteln</object>
+			<object type="dietetic" xml:id="bei-krebs">bei Krebs</object>
+			<object type="dietetic" xml:id="bei-mundgeruch">bei Mundgeruch</object>
+			<object type="dietetic" xml:id="fuer-die-fuesse">für die Füße</object>
+			<object type="dietetic" xml:id="fuer-ein-schoenes-aussehen">für ein schönes Aussehen</object>
+			<object type="dietetic" xml:id="zahnfleisch">Zahnfleisch</object>
                 </listObject>
             </div>
         <div type="recipe">

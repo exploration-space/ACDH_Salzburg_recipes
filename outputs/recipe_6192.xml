@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gaensebrust">Gänsebrust</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="sauce-braun">Sauce (braun)</object>
+			<object type="ingredient" xml:id="gaensebrust">Gänsebrust</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="sauce-braun">Sauce (braun)</object>
                  </listObject>
             </div>
              <div type="utensil">
@@ -163,7 +163,7 @@
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="fuer-die-kranken">für die Kranken</object>
+			<object type="dietetic" xml:id="fuer-die-kranken">für die Kranken</object>
                 </listObject>
             </div>
         <div type="recipe">

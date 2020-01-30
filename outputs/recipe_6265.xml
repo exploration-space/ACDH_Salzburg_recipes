@@ -151,8 +151,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="most">Most</object>
-			<object type="Zutaten" xml:id="pertrumkraut-schafgarbe">Pertrumkraut (Schafgarbe)</object>
+			<object type="ingredient" xml:id="most">Most</object>
+			<object type="ingredient" xml:id="pertrumkraut-schafgarbe">Pertrumkraut (Schafgarbe)</object>
                  </listObject>
             </div>
              <div type="utensil">

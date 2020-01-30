@@ -151,15 +151,15 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="kandiszucker">Kandiszucker</object>
-			<object type="Zutaten" xml:id="pistazien">Pistazien</object>
-			<object type="Zutaten" xml:id="zitronensaft">Zitronensaft</object>
-			<object type="Zutaten" xml:id="zitronenschalen">Zitronenschalen</object>
+			<object type="ingredient" xml:id="kandiszucker">Kandiszucker</object>
+			<object type="ingredient" xml:id="pistazien">Pistazien</object>
+			<object type="ingredient" xml:id="zitronensaft">Zitronensaft</object>
+			<object type="ingredient" xml:id="zitronenschalen">Zitronenschalen</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="teller-irden">Teller (irden)</object>
+			<object type="utensil" xml:id="teller-irden">Teller (irden)</object>
                 </listObject>
             </div>
             <div type="dietetic">

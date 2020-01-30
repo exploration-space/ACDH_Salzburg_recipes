@@ -151,25 +151,25 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="champignon">Champignon</object>
-			<object type="Zutaten" xml:id="einbrenn">Einbrenn</object>
-			<object type="Zutaten" xml:id="kapern">Kapern</object>
-			<object type="Zutaten" xml:id="kraeuter">Kräuter</object>
-			<object type="Zutaten" xml:id="lorbeer">Lorbeerblätter</object>
-			<object type="Zutaten" xml:id="nelken">Nelken</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="pilze">Pilze</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="sardellen-2">Sardellen</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
-			<object type="Zutaten" xml:id="suppe">Suppe</object>
-			<object type="Zutaten" xml:id="weisswein">Weißwein</object>
-			<object type="Zutaten" xml:id="zitronenscheiben">Zitronenscheiben</object>
+			<object type="ingredient" xml:id="champignon">Champignon</object>
+			<object type="ingredient" xml:id="einbrenn">Einbrenn</object>
+			<object type="ingredient" xml:id="kapern">Kapern</object>
+			<object type="ingredient" xml:id="kraeuter">Kräuter</object>
+			<object type="ingredient" xml:id="lorbeer">Lorbeerblätter</object>
+			<object type="ingredient" xml:id="nelken">Nelken</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="pilze">Pilze</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="sardellen-2">Sardellen</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="suppe">Suppe</object>
+			<object type="ingredient" xml:id="weisswein">Weißwein</object>
+			<object type="ingredient" xml:id="zitronenscheiben">Zitronenscheiben</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="spiess">Spieß</object>
+			<object type="utensil" xml:id="spiess">Spieß</object>
                 </listObject>
             </div>
             <div type="dietetic">

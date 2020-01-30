@@ -151,7 +151,7 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gelbe-rueben-moehren">Gelbe Rüben (Möhren)</object>
+			<object type="ingredient" xml:id="gelbe-rueben-moehren">Gelbe Rüben (Möhren)</object>
                  </listObject>
             </div>
              <div type="utensil">

@@ -151,13 +151,13 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="fuellung">Füllung</object>
-			<object type="Zutaten" xml:id="kraeuter-frisch">Kräuter (frisch)</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="petersilienwurzel">Petersilienwurzel</object>
-			<object type="Zutaten" xml:id="rindsuppe">Rindsuppe</object>
-			<object type="Zutaten" xml:id="safran">Safran</object>
-			<object type="Zutaten" xml:id="truthahnfluegel">Truthahnflügel</object>
+			<object type="ingredient" xml:id="fuellung">Füllung</object>
+			<object type="ingredient" xml:id="kraeuter-frisch">Kräuter (frisch)</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="petersilienwurzel">Petersilienwurzel</object>
+			<object type="ingredient" xml:id="rindsuppe">Rindsuppe</object>
+			<object type="ingredient" xml:id="safran">Safran</object>
+			<object type="ingredient" xml:id="truthahnfluegel">Truthahnflügel</object>
                  </listObject>
             </div>
              <div type="utensil">

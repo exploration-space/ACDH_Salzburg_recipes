@@ -151,28 +151,28 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="anis">Anis</object>
-			<object type="Zutaten" xml:id="bertram">Bertram</object>
-			<object type="Zutaten" xml:id="cardamom">Cardamom</object>
-			<object type="Zutaten" xml:id="ingwer">Ingwer</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="muskatnuss">Muskatnuss</object>
-			<object type="Zutaten" xml:id="nelken">Nelken</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="schwefel">Schwefel</object>
-			<object type="Zutaten" xml:id="weihrauch">Weihrauch</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="wismut-bismut">Wismut (Bismut)</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
-			<object type="Zutaten" xml:id="zitwer-weisse-curcuma">Zitwer (Weiße Curcuma)</object>
+			<object type="ingredient" xml:id="anis">Anis</object>
+			<object type="ingredient" xml:id="bertram">Bertram</object>
+			<object type="ingredient" xml:id="cardamom">Cardamom</object>
+			<object type="ingredient" xml:id="ingwer">Ingwer</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="muskatnuss">Muskatnuss</object>
+			<object type="ingredient" xml:id="nelken">Nelken</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="schwefel">Schwefel</object>
+			<object type="ingredient" xml:id="weihrauch">Weihrauch</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="wismut-bismut">Wismut (Bismut)</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="zitwer-weisse-curcuma">Zitwer (Weiße Curcuma)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="bratpfanne-irden">Bratpfanne (irden)</object>
-			<object type="MaterielleKultur" xml:id="glut">Glut</object>
-			<object type="MaterielleKultur" xml:id="holz">Holz</object>
-			<object type="MaterielleKultur" xml:id="leintuch">Leintuch</object>
+			<object type="utensil" xml:id="bratpfanne-irden">Bratpfanne (irden)</object>
+			<object type="utensil" xml:id="glut">Glut</object>
+			<object type="utensil" xml:id="holz">Holz</object>
+			<object type="utensil" xml:id="leintuch">Leintuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

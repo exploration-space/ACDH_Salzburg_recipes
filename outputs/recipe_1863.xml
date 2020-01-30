@@ -152,10 +152,10 @@ Willst du ein Mus an einem Fasttag zubereiten, ist das mit Mandeln möglich. Nim
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="fisch">Fisch</object>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="reis">Reis</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="fisch">Fisch</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="reis">Reis</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">

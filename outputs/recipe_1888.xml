@@ -151,20 +151,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="dotter">Dotter (Eigelb)</object>
-			<object type="Zutaten" xml:id="eiklar">Eiklar (Eiweiß)</object>
-			<object type="Zutaten" xml:id="quitten">Quitten</object>
-			<object type="Zutaten" xml:id="rosenwasser">Rosenwasser</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="dotter">Dotter (Eigelb)</object>
+			<object type="ingredient" xml:id="eiklar">Eiklar (Eiweiß)</object>
+			<object type="ingredient" xml:id="quitten">Quitten</object>
+			<object type="ingredient" xml:id="rosenwasser">Rosenwasser</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="haarsieb">Haarsieb</object>
-			<object type="MaterielleKultur" xml:id="hafen-topf">Topf (Hafen)</object>
-			<object type="MaterielleKultur" xml:id="zinnschuessel">Zinnschüssel</object>
+			<object type="utensil" xml:id="haarsieb">Haarsieb</object>
+			<object type="utensil" xml:id="hafen-topf">Topf (Hafen)</object>
+			<object type="utensil" xml:id="zinnschuessel">Zinnschüssel</object>
                 </listObject>
             </div>
             <div type="dietetic">

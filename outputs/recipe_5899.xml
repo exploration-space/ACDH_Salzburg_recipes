@@ -151,15 +151,15 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="fasan-geraeuchert">Fasan (geräuchert)</object>
-			<object type="Zutaten" xml:id="kapaun">Kapaun</object>
-			<object type="Zutaten" xml:id="sauerkraut">Sauerkraut</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="fasan-geraeuchert">Fasan (geräuchert)</object>
+			<object type="ingredient" xml:id="kapaun">Kapaun</object>
+			<object type="ingredient" xml:id="sauerkraut">Sauerkraut</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="loeffel-aus-holz">Löffel (aus Holz)</object>
+			<object type="utensil" xml:id="loeffel-aus-holz">Löffel (aus Holz)</object>
                 </listObject>
             </div>
             <div type="dietetic">

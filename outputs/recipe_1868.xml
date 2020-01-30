@@ -152,8 +152,8 @@ Willst du ein Mus aus Rehen haben, nimm das Blut von Lämmern und hack das Wildb
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="lammblut">Lammblut</object>
-			<object type="Zutaten" xml:id="rehbret">Rehbret</object>
+			<object type="ingredient" xml:id="lammblut">Lammblut</object>
+			<object type="ingredient" xml:id="rehbret">Rehbret</object>
                  </listObject>
             </div>
              <div type="utensil">

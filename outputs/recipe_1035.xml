@@ -151,16 +151,16 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="bratensaft">Bratensaft</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="dotter">Dotter (Eigelb)</object>
-			<object type="Zutaten" xml:id="kalbsfilet">Kalbsfilet</object>
-			<object type="Zutaten" xml:id="mehl">Mehl</object>
-			<object type="Zutaten" xml:id="muskatnuss">Muskatnuss</object>
-			<object type="Zutaten" xml:id="orangen">Orangen (Pomeranzen)</object>
-			<object type="Zutaten" xml:id="pilze">Pilze</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="zitronenzesten">Zitronenzesten</object>
+			<object type="ingredient" xml:id="bratensaft">Bratensaft</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="dotter">Dotter (Eigelb)</object>
+			<object type="ingredient" xml:id="kalbsfilet">Kalbsfilet</object>
+			<object type="ingredient" xml:id="mehl">Mehl</object>
+			<object type="ingredient" xml:id="muskatnuss">Muskatnuss</object>
+			<object type="ingredient" xml:id="orangen">Orangen (Pomeranzen)</object>
+			<object type="ingredient" xml:id="pilze">Pilze</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="zitronenzesten">Zitronenzesten</object>
                  </listObject>
             </div>
              <div type="utensil">

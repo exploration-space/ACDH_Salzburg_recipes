@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gruenkohl">Grünkohl</object>
-			<object type="Zutaten" xml:id="kaninchen">Kaninchen</object>
-			<object type="Zutaten" xml:id="kohl">Kohl</object>
-			<object type="Zutaten" xml:id="kraeuter-frisch">Kräuter (frisch)</object>
-			<object type="Zutaten" xml:id="spinat">Spinat</object>
+			<object type="ingredient" xml:id="gruenkohl">Grünkohl</object>
+			<object type="ingredient" xml:id="kaninchen">Kaninchen</object>
+			<object type="ingredient" xml:id="kohl">Kohl</object>
+			<object type="ingredient" xml:id="kraeuter-frisch">Kräuter (frisch)</object>
+			<object type="ingredient" xml:id="spinat">Spinat</object>
                  </listObject>
             </div>
              <div type="utensil">

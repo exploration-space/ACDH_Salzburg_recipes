@@ -155,23 +155,23 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="bier">Bier</object>
-			<object type="Zutaten" xml:id="essig">Essig</object>
-			<object type="Zutaten" xml:id="honig">Honig</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="sauerteig">Sauerteig</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="bier">Bier</object>
+			<object type="ingredient" xml:id="essig">Essig</object>
+			<object type="ingredient" xml:id="honig">Honig</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="sauerteig">Sauerteig</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="eichenfass-fass">Eichenfass</object>
-			<object type="MaterielleKultur" xml:id="fuder">Fuder</object>
-			<object type="MaterielleKultur" xml:id="loeffel">Löffel</object>
-			<object type="MaterielleKultur" xml:id="mass">Maß</object>
-			<object type="MaterielleKultur" xml:id="ruehrholz">Rührholz</object>
-			<object type="MaterielleKultur" xml:id="stein">Stein</object>
-			<object type="MaterielleKultur" xml:id="tonne">Tonne</object>
+			<object type="utensil" xml:id="eichenfass-fass">Eichenfass</object>
+			<object type="utensil" xml:id="fuder">Fuder</object>
+			<object type="utensil" xml:id="loeffel">Löffel</object>
+			<object type="utensil" xml:id="mass">Maß</object>
+			<object type="utensil" xml:id="ruehrholz">Rührholz</object>
+			<object type="utensil" xml:id="stein">Stein</object>
+			<object type="utensil" xml:id="tonne">Tonne</object>
                 </listObject>
             </div>
             <div type="dietetic">

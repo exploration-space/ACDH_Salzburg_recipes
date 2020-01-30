@@ -151,23 +151,23 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="erbsensuppe">Erbsenbrühe</object>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="milch">Milch</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="zitronensaft">Zitronensaft</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="erbsensuppe">Erbsenbrühe</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="milch">Milch</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="zitronensaft">Zitronensaft</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="eierkaesesieb">Eierkäsesieb</object>
-			<object type="MaterielleKultur" xml:id="erdene-model-mit-loechern">erdene Model mit Löchern</object>
-			<object type="MaterielleKultur" xml:id="glut">Glut</object>
-			<object type="MaterielleKultur" xml:id="haarsieb">Haarsieb</object>
-			<object type="MaterielleKultur" xml:id="kasserolle">Kasserolle</object>
-			<object type="MaterielleKultur" xml:id="rein">Rein</object>
+			<object type="utensil" xml:id="eierkaesesieb">Eierkäsesieb</object>
+			<object type="utensil" xml:id="erdene-model-mit-loechern">erdene Model mit Löchern</object>
+			<object type="utensil" xml:id="glut">Glut</object>
+			<object type="utensil" xml:id="haarsieb">Haarsieb</object>
+			<object type="utensil" xml:id="kasserolle">Kasserolle</object>
+			<object type="utensil" xml:id="rein">Rein</object>
                 </listObject>
             </div>
             <div type="dietetic">

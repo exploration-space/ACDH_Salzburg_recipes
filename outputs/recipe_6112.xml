@@ -151,26 +151,26 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="kalbfleisch">Kalbfleisch</object>
-			<object type="Zutaten" xml:id="kalbsschloegl">Kalbsschlögel</object>
-			<object type="Zutaten" xml:id="kapern">Kapern</object>
-			<object type="Zutaten" xml:id="knoblauch">Knoblauch</object>
-			<object type="Zutaten" xml:id="sardellen-2">Sardellen</object>
-			<object type="Zutaten" xml:id="schinken">Schinken</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
-			<object type="Zutaten" xml:id="zervelatwurst">Zervelatwurst</object>
-			<object type="Zutaten" xml:id="zitronen">Zitronen</object>
-			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="kalbfleisch">Kalbfleisch</object>
+			<object type="ingredient" xml:id="kalbsschloegl">Kalbsschlögel</object>
+			<object type="ingredient" xml:id="kapern">Kapern</object>
+			<object type="ingredient" xml:id="knoblauch">Knoblauch</object>
+			<object type="ingredient" xml:id="sardellen-2">Sardellen</object>
+			<object type="ingredient" xml:id="schinken">Schinken</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="zervelatwurst">Zervelatwurst</object>
+			<object type="ingredient" xml:id="zitronen">Zitronen</object>
+			<object type="ingredient" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="hackmesser">Hackmesser</object>
-			<object type="MaterielleKultur" xml:id="holz">Holz</object>
-			<object type="MaterielleKultur" xml:id="messer">Messer</object>
-			<object type="MaterielleKultur" xml:id="spagat">Spagat</object>
-			<object type="MaterielleKultur" xml:id="spiesschen">Spießchen</object>
+			<object type="utensil" xml:id="hackmesser">Hackmesser</object>
+			<object type="utensil" xml:id="holz">Holz</object>
+			<object type="utensil" xml:id="messer">Messer</object>
+			<object type="utensil" xml:id="spagat">Spagat</object>
+			<object type="utensil" xml:id="spiesschen">Spießchen</object>
                 </listObject>
             </div>
             <div type="dietetic">

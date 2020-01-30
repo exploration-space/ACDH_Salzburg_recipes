@@ -151,24 +151,24 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="butternockerl">Butternockerl</object>
-			<object type="Zutaten" xml:id="fette-bruehe">fette Brühe</object>
-			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
-			<object type="Zutaten" xml:id="gerste">Gerste</object>
-			<object type="Zutaten" xml:id="huhn">Huhn</object>
-			<object type="Zutaten" xml:id="makkaroni">Makkaroni</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="nudeln">Nudeln</object>
-			<object type="Zutaten" xml:id="pilze-getrocknet">Pilze (getrocknet)</object>
-			<object type="Zutaten" xml:id="reis">Reis</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="butternockerl">Butternockerl</object>
+			<object type="ingredient" xml:id="fette-bruehe">fette Brühe</object>
+			<object type="ingredient" xml:id="fleischbruehe">Fleischbrühe</object>
+			<object type="ingredient" xml:id="gerste">Gerste</object>
+			<object type="ingredient" xml:id="huhn">Huhn</object>
+			<object type="ingredient" xml:id="makkaroni">Makkaroni</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="nudeln">Nudeln</object>
+			<object type="ingredient" xml:id="pilze-getrocknet">Pilze (getrocknet)</object>
+			<object type="ingredient" xml:id="reis">Reis</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="glut">Glut</object>
-			<object type="MaterielleKultur" xml:id="kasserolle">Kasserolle</object>
-			<object type="MaterielleKultur" xml:id="rein">Rein</object>
+			<object type="utensil" xml:id="glut">Glut</object>
+			<object type="utensil" xml:id="kasserolle">Kasserolle</object>
+			<object type="utensil" xml:id="rein">Rein</object>
                 </listObject>
             </div>
             <div type="dietetic">

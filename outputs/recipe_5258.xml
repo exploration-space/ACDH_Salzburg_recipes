@@ -157,10 +157,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="erdaepfel-erdkastanien">Erdäpfel (Erdkastanien?)</object>
-			<object type="Zutaten" xml:id="milch">Milch</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="erdaepfel-erdkastanien">Erdäpfel (Erdkastanien?)</object>
+			<object type="ingredient" xml:id="milch">Milch</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
                  </listObject>
             </div>
              <div type="utensil">

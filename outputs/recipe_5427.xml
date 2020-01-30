@@ -151,24 +151,24 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="birnen">Birnen</object>
-			<object type="Zutaten" xml:id="birnensaft">Birnensaft</object>
-			<object type="Zutaten" xml:id="essig">Essig</object>
-			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
-			<object type="Zutaten" xml:id="hammelkeule">Hammelkeule</object>
-			<object type="Zutaten" xml:id="kuemmel">Kümmel</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
-			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
+			<object type="ingredient" xml:id="birnen">Birnen</object>
+			<object type="ingredient" xml:id="birnensaft">Birnensaft</object>
+			<object type="ingredient" xml:id="essig">Essig</object>
+			<object type="ingredient" xml:id="fleischbruehe">Fleischbrühe</object>
+			<object type="ingredient" xml:id="hammelkeule">Hammelkeule</object>
+			<object type="ingredient" xml:id="kuemmel">Kümmel</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="deckel-fuer-glut-stuerze">Deckel für Glut (Stürze)</object>
-			<object type="MaterielleKultur" xml:id="glut">Glut</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="stollhafen">Stollhafen</object>
-			<object type="MaterielleKultur" xml:id="sturz">Sturz</object>
+			<object type="utensil" xml:id="deckel-fuer-glut-stuerze">Deckel für Glut (Stürze)</object>
+			<object type="utensil" xml:id="glut">Glut</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="stollhafen">Stollhafen</object>
+			<object type="utensil" xml:id="sturz">Sturz</object>
                 </listObject>
             </div>
             <div type="dietetic">

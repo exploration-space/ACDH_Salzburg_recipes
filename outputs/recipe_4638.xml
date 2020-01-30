@@ -169,53 +169,53 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="berberitzensaft">Berberitzensaft</object>
-			<object type="Zutaten" xml:id="blattgold">Blattgold</object>
-			<object type="Zutaten" xml:id="essig">Essig</object>
-			<object type="Zutaten" xml:id="hausenblase">Hausenblase</object>
-			<object type="Zutaten" xml:id="heidelbeersaft">Heidelbeersaft</object>
-			<object type="Zutaten" xml:id="kalbsfuss">Kalbsfuß</object>
-			<object type="Zutaten" xml:id="kalbshachse">Kalbshachse</object>
-			<object type="Zutaten" xml:id="kardamom">Kardamom</object>
-			<object type="Zutaten" xml:id="kornsaft-gruen">Kornsaft (grün)</object>
-			<object type="Zutaten" xml:id="lorbeer">Lorbeerblätter</object>
-			<object type="Zutaten" xml:id="mandelfuelle">Mandelfülle</object>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="orangenschalen">Orangenschalen</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="pistazien">Pistazien</object>
-			<object type="Zutaten" xml:id="rosenwasser">Rosenwasser</object>
-			<object type="Zutaten" xml:id="safran">Safran</object>
-			<object type="Zutaten" xml:id="spanischer-wein">Spanischer Wein</object>
-			<object type="Zutaten" xml:id="suesswein">Süßwein</object>
-			<object type="Zutaten" xml:id="veilchensaft">Veilchensaft</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
-			<object type="Zutaten" xml:id="zitronat">Zitronat (eingelegte/kandierte Zitronen)</object>
-			<object type="Zutaten" xml:id="zitronenschalen">Zitronenschalen</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="berberitzensaft">Berberitzensaft</object>
+			<object type="ingredient" xml:id="blattgold">Blattgold</object>
+			<object type="ingredient" xml:id="essig">Essig</object>
+			<object type="ingredient" xml:id="hausenblase">Hausenblase</object>
+			<object type="ingredient" xml:id="heidelbeersaft">Heidelbeersaft</object>
+			<object type="ingredient" xml:id="kalbsfuss">Kalbsfuß</object>
+			<object type="ingredient" xml:id="kalbshachse">Kalbshachse</object>
+			<object type="ingredient" xml:id="kardamom">Kardamom</object>
+			<object type="ingredient" xml:id="kornsaft-gruen">Kornsaft (grün)</object>
+			<object type="ingredient" xml:id="lorbeer">Lorbeerblätter</object>
+			<object type="ingredient" xml:id="mandelfuelle">Mandelfülle</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="orangenschalen">Orangenschalen</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="pistazien">Pistazien</object>
+			<object type="ingredient" xml:id="rosenwasser">Rosenwasser</object>
+			<object type="ingredient" xml:id="safran">Safran</object>
+			<object type="ingredient" xml:id="spanischer-wein">Spanischer Wein</object>
+			<object type="ingredient" xml:id="suesswein">Süßwein</object>
+			<object type="ingredient" xml:id="veilchensaft">Veilchensaft</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="zitronat">Zitronat (eingelegte/kandierte Zitronen)</object>
+			<object type="ingredient" xml:id="zitronenschalen">Zitronenschalen</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="blech">Blech</object>
-			<object type="MaterielleKultur" xml:id="faerbeflecklein-blau">Färbeflecklein (blau)</object>
-			<object type="MaterielleKultur" xml:id="faerbeflecklein-rot">Färbeflecklein (rot)</object>
-			<object type="MaterielleKultur" xml:id="feuer">Feuer</object>
-			<object type="MaterielleKultur" xml:id="glas">Glas</object>
-			<object type="MaterielleKultur" xml:id="griffel">Griffel</object>
-			<object type="MaterielleKultur" xml:id="keller">Keller</object>
-			<object type="MaterielleKultur" xml:id="loeffel">Löffel</object>
-			<object type="MaterielleKultur" xml:id="maas">Maas</object>
-			<object type="MaterielleKultur" xml:id="messer">Messer</object>
-			<object type="MaterielleKultur" xml:id="quintlein">Quintlein</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="stift">Stift</object>
-			<object type="MaterielleKultur" xml:id="hafen-topf">Topf (Hafen)</object>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
-			<object type="MaterielleKultur" xml:id="zinnteller">Zinnteller</object>
+			<object type="utensil" xml:id="blech">Blech</object>
+			<object type="utensil" xml:id="faerbeflecklein-blau">Färbeflecklein (blau)</object>
+			<object type="utensil" xml:id="faerbeflecklein-rot">Färbeflecklein (rot)</object>
+			<object type="utensil" xml:id="feuer">Feuer</object>
+			<object type="utensil" xml:id="glas">Glas</object>
+			<object type="utensil" xml:id="griffel">Griffel</object>
+			<object type="utensil" xml:id="keller">Keller</object>
+			<object type="utensil" xml:id="loeffel">Löffel</object>
+			<object type="utensil" xml:id="maas">Maas</object>
+			<object type="utensil" xml:id="messer">Messer</object>
+			<object type="utensil" xml:id="quintlein">Quintlein</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="stift">Stift</object>
+			<object type="utensil" xml:id="hafen-topf">Topf (Hafen)</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="zinnteller">Zinnteller</object>
                 </listObject>
             </div>
             <div type="dietetic">

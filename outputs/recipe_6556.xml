@@ -151,8 +151,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="hausen-fisch">Hausen (Fisch)</object>
-			<object type="Zutaten" xml:id="kuemmel">Kümmel</object>
+			<object type="ingredient" xml:id="hausen-fisch">Hausen (Fisch)</object>
+			<object type="ingredient" xml:id="kuemmel">Kümmel</object>
                  </listObject>
             </div>
              <div type="utensil">

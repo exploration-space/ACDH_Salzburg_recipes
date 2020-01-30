@@ -151,18 +151,18 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="blaetterteig-spanischer-teig">Blätterteig (Spanischer Teig)</object>
-			<object type="Zutaten" xml:id="faschiertes">Faschiertes</object>
-			<object type="Zutaten" xml:id="huehnersuppe">Hühnersuppe</object>
-			<object type="Zutaten" xml:id="olivenoel">Olivenöl</object>
-			<object type="Zutaten" xml:id="pastetenteig">Pastetenteig</object>
-			<object type="Zutaten" xml:id="speck-ausgelassen">Speck (ausgelassen)</object>
+			<object type="ingredient" xml:id="blaetterteig-spanischer-teig">Blätterteig (Spanischer Teig)</object>
+			<object type="ingredient" xml:id="faschiertes">Faschiertes</object>
+			<object type="ingredient" xml:id="huehnersuppe">Hühnersuppe</object>
+			<object type="ingredient" xml:id="olivenoel">Olivenöl</object>
+			<object type="ingredient" xml:id="pastetenteig">Pastetenteig</object>
+			<object type="ingredient" xml:id="speck-ausgelassen">Speck (ausgelassen)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
-			<object type="MaterielleKultur" xml:id="papier">Papier</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="papier">Papier</object>
                 </listObject>
             </div>
             <div type="dietetic">

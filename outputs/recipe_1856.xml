@@ -153,11 +153,11 @@ Vom Kren (?) haben wir noch etwas. Dazu musst du Mandeln und 140 g Zucker haben,
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="kren">Kren (Meerrettich)</object>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="milch">Milch</object>
-			<object type="Zutaten" xml:id="topfen-quark">Topfen (Quark)</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="kren">Kren (Meerrettich)</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="milch">Milch</object>
+			<object type="ingredient" xml:id="topfen-quark">Topfen (Quark)</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">

@@ -151,18 +151,18 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="erbsen">Erbsen</object>
-			<object type="Zutaten" xml:id="gerste">Gerste</object>
-			<object type="Zutaten" xml:id="kuttelkraut">Kuttelkraut</object>
-			<object type="Zutaten" xml:id="majoran-getrocknet">Majoran (getrocknet)</object>
-			<object type="Zutaten" xml:id="reis">Reis</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="spanferkel">Spanferkel</object>
+			<object type="ingredient" xml:id="erbsen">Erbsen</object>
+			<object type="ingredient" xml:id="gerste">Gerste</object>
+			<object type="ingredient" xml:id="kuttelkraut">Kuttelkraut</object>
+			<object type="ingredient" xml:id="majoran-getrocknet">Majoran (getrocknet)</object>
+			<object type="ingredient" xml:id="reis">Reis</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="spanferkel">Spanferkel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="rauch">Rauch</object>
+			<object type="utensil" xml:id="rauch">Rauch</object>
                 </listObject>
             </div>
             <div type="dietetic">

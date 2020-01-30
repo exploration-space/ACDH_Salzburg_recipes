@@ -151,19 +151,19 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="hagebutten">Hagebutten</object>
-			<object type="Zutaten" xml:id="malvasia">Malvasier (Wein)</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="hagebutten">Hagebutten</object>
+			<object type="ingredient" xml:id="malvasia">Malvasier (Wein)</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="glas">Glas</object>
-			<object type="MaterielleKultur" xml:id="haartuch">Haartuch</object>
-			<object type="MaterielleKultur" xml:id="holzstoessel">Holzstößel</object>
-			<object type="MaterielleKultur" xml:id="keule-hoelzern">Keule (hölzern)</object>
-			<object type="MaterielleKultur" xml:id="moerser-aus-alabaster">Mörser (aus Alabaster)</object>
-			<object type="MaterielleKultur" xml:id="moerser-aus-marmor">Mörser (aus Marmor)</object>
+			<object type="utensil" xml:id="glas">Glas</object>
+			<object type="utensil" xml:id="haartuch">Haartuch</object>
+			<object type="utensil" xml:id="holzstoessel">Holzstößel</object>
+			<object type="utensil" xml:id="keule-hoelzern">Keule (hölzern)</object>
+			<object type="utensil" xml:id="moerser-aus-alabaster">Mörser (aus Alabaster)</object>
+			<object type="utensil" xml:id="moerser-aus-marmor">Mörser (aus Marmor)</object>
                 </listObject>
             </div>
             <div type="dietetic">

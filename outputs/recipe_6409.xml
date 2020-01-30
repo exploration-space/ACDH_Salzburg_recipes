@@ -156,11 +156,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="beifuss">Beifuß</object>
-			<object type="Zutaten" xml:id="bier">Bier</object>
-			<object type="Zutaten" xml:id="lindenblaetter">Lindenblätter</object>
-			<object type="Zutaten" xml:id="nussbaumlaub">Nußbaumlaub</object>
-			<object type="Zutaten" xml:id="wermut">Wermut</object>
+			<object type="ingredient" xml:id="beifuss">Beifuß</object>
+			<object type="ingredient" xml:id="bier">Bier</object>
+			<object type="ingredient" xml:id="lindenblaetter">Lindenblätter</object>
+			<object type="ingredient" xml:id="nussbaumlaub">Nußbaumlaub</object>
+			<object type="ingredient" xml:id="wermut">Wermut</object>
                  </listObject>
             </div>
              <div type="utensil">

@@ -151,25 +151,25 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="anis">Anis</object>
-			<object type="Zutaten" xml:id="mastix">Mastix</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="paradieskoerner">Paradieskörner (Guineapfeffer)</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="schwefel">Schwefel</object>
-			<object type="Zutaten" xml:id="veilchenwurzel">Veilchenwurzel</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="weihrauch">Weihrauch</object>
+			<object type="ingredient" xml:id="anis">Anis</object>
+			<object type="ingredient" xml:id="mastix">Mastix</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="paradieskoerner">Paradieskörner (Guineapfeffer)</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="schwefel">Schwefel</object>
+			<object type="ingredient" xml:id="veilchenwurzel">Veilchenwurzel</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="weihrauch">Weihrauch</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="feuer">Feuer</object>
-			<object type="MaterielleKultur" xml:id="leintuch">Leintuch</object>
-			<object type="MaterielleKultur" xml:id="moerser">Mörser</object>
-			<object type="MaterielleKultur" xml:id="sieb">Sieb</object>
-			<object type="MaterielleKultur" xml:id="tiegel">Tiegel</object>
-			<object type="MaterielleKultur" xml:id="hafen-topf">Topf (Hafen)</object>
+			<object type="utensil" xml:id="feuer">Feuer</object>
+			<object type="utensil" xml:id="leintuch">Leintuch</object>
+			<object type="utensil" xml:id="moerser">Mörser</object>
+			<object type="utensil" xml:id="sieb">Sieb</object>
+			<object type="utensil" xml:id="tiegel">Tiegel</object>
+			<object type="utensil" xml:id="hafen-topf">Topf (Hafen)</object>
                 </listObject>
             </div>
             <div type="dietetic">

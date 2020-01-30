@@ -151,12 +151,12 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gans">Gans</object>
-			<object type="Zutaten" xml:id="gaenseblut">Gänseblut</object>
-			<object type="Zutaten" xml:id="limonen-gesalzen">Limonen (gesalzen)</object>
-			<object type="Zutaten" xml:id="sauce-schwarz">Sauce (schwarz)</object>
-			<object type="Zutaten" xml:id="wacholderbeeren">Wacholderbeeren</object>
-			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
+			<object type="ingredient" xml:id="gans">Gans</object>
+			<object type="ingredient" xml:id="gaenseblut">Gänseblut</object>
+			<object type="ingredient" xml:id="limonen-gesalzen">Limonen (gesalzen)</object>
+			<object type="ingredient" xml:id="sauce-schwarz">Sauce (schwarz)</object>
+			<object type="ingredient" xml:id="wacholderbeeren">Wacholderbeeren</object>
+			<object type="ingredient" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
              <div type="utensil">

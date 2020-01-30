@@ -151,10 +151,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="fuellung">Füllung</object>
-			<object type="Zutaten" xml:id="kalb">Kalb</object>
-			<object type="Zutaten" xml:id="kraut">Kraut</object>
-			<object type="Zutaten" xml:id="suppe">Suppe</object>
+			<object type="ingredient" xml:id="fuellung">Füllung</object>
+			<object type="ingredient" xml:id="kalb">Kalb</object>
+			<object type="ingredient" xml:id="kraut">Kraut</object>
+			<object type="ingredient" xml:id="suppe">Suppe</object>
                  </listObject>
             </div>
              <div type="utensil">

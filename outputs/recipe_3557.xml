@@ -151,18 +151,18 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="aepfel-gedoerrt">Äpfel (gedörrt)</object>
-			<object type="Zutaten" xml:id="nelken">Nelken</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="aepfel-gedoerrt">Äpfel (gedörrt)</object>
+			<object type="ingredient" xml:id="nelken">Nelken</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="geschirr-irdenes">Geschirr (irdenes)</object>
-			<object type="MaterielleKultur" xml:id="geschirr-verzinnt">Geschirr (verzinnt)</object>
+			<object type="utensil" xml:id="geschirr-irdenes">Geschirr (irdenes)</object>
+			<object type="utensil" xml:id="geschirr-verzinnt">Geschirr (verzinnt)</object>
                 </listObject>
             </div>
             <div type="dietetic">

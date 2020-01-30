@@ -151,17 +151,17 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="broesel-rot">Brösel (rot)</object>
-			<object type="Zutaten" xml:id="fuellung">Füllung</object>
-			<object type="Zutaten" xml:id="krebsbutter-butter">Krebsbutter</object>
-			<object type="Zutaten" xml:id="muerbteig">Mürbteig</object>
-			<object type="Zutaten" xml:id="sahne">Rahm (Sahne)</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="broesel-rot">Brösel (rot)</object>
+			<object type="ingredient" xml:id="fuellung">Füllung</object>
+			<object type="ingredient" xml:id="krebsbutter-butter">Krebsbutter</object>
+			<object type="ingredient" xml:id="muerbteig">Mürbteig</object>
+			<object type="ingredient" xml:id="sahne">Rahm (Sahne)</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
                 </listObject>
             </div>
             <div type="dietetic">

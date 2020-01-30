@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="marille-aprikose">Marille (Aprikose)</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="weinteig">Weinteig</object>
+			<object type="ingredient" xml:id="marille-aprikose">Marille (Aprikose)</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="weinteig">Weinteig</object>
                  </listObject>
             </div>
              <div type="utensil">

@@ -152,18 +152,18 @@ Willst du guten gebackenen Fisch machen, musst du Hechte, Schleie oder Karpfen h
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="fischblut">Fischblut</object>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="hecht">Hecht</object>
-			<object type="Zutaten" xml:id="muskat">Muskat</object>
-			<object type="Zutaten" xml:id="nelken">Nelken</object>
+			<object type="ingredient" xml:id="fischblut">Fischblut</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="hecht">Hecht</object>
+			<object type="ingredient" xml:id="muskat">Muskat</object>
+			<object type="ingredient" xml:id="nelken">Nelken</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="kessel">Kessel</object>
-			<object type="MaterielleKultur" xml:id="spiess">Spieß</object>
-			<object type="MaterielleKultur" xml:id="tisch">Tisch</object>
+			<object type="utensil" xml:id="kessel">Kessel</object>
+			<object type="utensil" xml:id="spiess">Spieß</object>
+			<object type="utensil" xml:id="tisch">Tisch</object>
                 </listObject>
             </div>
             <div type="dietetic">

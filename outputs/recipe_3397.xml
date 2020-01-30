@@ -151,7 +151,7 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="elritze-pfrille">Elritze (Pfrille)</object>
+			<object type="ingredient" xml:id="elritze-pfrille">Elritze (Pfrille)</object>
                  </listObject>
             </div>
              <div type="utensil">

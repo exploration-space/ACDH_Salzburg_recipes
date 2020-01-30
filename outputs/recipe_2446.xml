@@ -151,13 +151,13 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="dotter">Dotter (Eigelb)</object>
-			<object type="Zutaten" xml:id="huehnerbraet">Hühnerbrät</object>
-			<object type="Zutaten" xml:id="huehnersuppe">Hühnersuppe</object>
-			<object type="Zutaten" xml:id="kardamom">Kardamom</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="semmelschnitten-gebaeht">Semmelschnitten (gebäht)</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="dotter">Dotter (Eigelb)</object>
+			<object type="ingredient" xml:id="huehnerbraet">Hühnerbrät</object>
+			<object type="ingredient" xml:id="huehnersuppe">Hühnersuppe</object>
+			<object type="ingredient" xml:id="kardamom">Kardamom</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="semmelschnitten-gebaeht">Semmelschnitten (gebäht)</object>
                  </listObject>
             </div>
              <div type="utensil">

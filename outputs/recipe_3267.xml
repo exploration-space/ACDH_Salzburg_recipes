@@ -154,22 +154,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="knoblauch">Knoblauch</object>
-			<object type="Zutaten" xml:id="petersilie">Petersilie</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="salbeiblaetter">Salbeiblätter</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="sardellen-2">Sardellen</object>
-			<object type="Zutaten" xml:id="schafsruecken">Schafsrücken</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
-			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="knoblauch">Knoblauch</object>
+			<object type="ingredient" xml:id="petersilie">Petersilie</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="salbeiblaetter">Salbeiblätter</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="sardellen-2">Sardellen</object>
+			<object type="ingredient" xml:id="schafsruecken">Schafsrücken</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="huehnerspritze">Hühnerspritze</object>
-			<object type="MaterielleKultur" xml:id="messer-mit-vorteil">Messer mit Vorteil</object>
+			<object type="utensil" xml:id="huehnerspritze">Hühnerspritze</object>
+			<object type="utensil" xml:id="messer-mit-vorteil">Messer mit Vorteil</object>
                 </listObject>
             </div>
             <div type="dietetic">

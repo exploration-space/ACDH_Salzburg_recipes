@@ -151,20 +151,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zitronen">Zitronen</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zitronen">Zitronen</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="brett">Brett</object>
-			<object type="MaterielleKultur" xml:id="geschirr">Geschirr</object>
-			<object type="MaterielleKultur" xml:id="pfriem">Pfriem</object>
-			<object type="MaterielleKultur" xml:id="topf-hafen-glasiert">Topf (Hafen - glasiert)</object>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
-			<object type="MaterielleKultur" xml:id="waage">Waage</object>
+			<object type="utensil" xml:id="brett">Brett</object>
+			<object type="utensil" xml:id="geschirr">Geschirr</object>
+			<object type="utensil" xml:id="pfriem">Pfriem</object>
+			<object type="utensil" xml:id="topf-hafen-glasiert">Topf (Hafen - glasiert)</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="waage">Waage</object>
                 </listObject>
             </div>
             <div type="dietetic">

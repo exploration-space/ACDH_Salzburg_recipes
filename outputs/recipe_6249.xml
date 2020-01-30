@@ -151,12 +151,12 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="wacholderfass">Wacholderfass</object>
+			<object type="utensil" xml:id="wacholderfass">Wacholderfass</object>
                 </listObject>
             </div>
             <div type="dietetic">

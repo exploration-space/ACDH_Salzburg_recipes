@@ -151,14 +151,14 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="berberitzensaft">Berberitzensaft</object>
-			<object type="Zutaten" xml:id="pistazien">Pistazien</object>
-			<object type="Zutaten" xml:id="zucker-gelaeutert">Zucker (geläutert)</object>
+			<object type="ingredient" xml:id="berberitzensaft">Berberitzensaft</object>
+			<object type="ingredient" xml:id="pistazien">Pistazien</object>
+			<object type="ingredient" xml:id="zucker-gelaeutert">Zucker (geläutert)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="blech-aus-zinn">Blech (aus Zinn)</object>
+			<object type="utensil" xml:id="blech-aus-zinn">Blech (aus Zinn)</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -151,23 +151,23 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="essig">Essig</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="mutternelken">Mutternelken</object>
-			<object type="Zutaten" xml:id="rosen">Rosen</object>
-			<object type="Zutaten" xml:id="stangenpfeffer">Stangenpfeffer</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="essig">Essig</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="mutternelken">Mutternelken</object>
+			<object type="ingredient" xml:id="rosen">Rosen</object>
+			<object type="ingredient" xml:id="stangenpfeffer">Stangenpfeffer</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="glas">Glas</object>
-			<object type="MaterielleKultur" xml:id="zinnteller">Zinnteller</object>
+			<object type="utensil" xml:id="glas">Glas</object>
+			<object type="utensil" xml:id="zinnteller">Zinnteller</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="fuer-die-kranken">für die Kranken</object>
+			<object type="dietetic" xml:id="fuer-die-kranken">für die Kranken</object>
                 </listObject>
             </div>
         <div type="recipe">

@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="biscorn">Biscorn</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="ingwer-gemahlen">Ingwer (gemahlen)</object>
-			<object type="Zutaten" xml:id="karpfenrogen">Karpfenrogen</object>
-			<object type="Zutaten" xml:id="kraut">Kraut</object>
-			<object type="Zutaten" xml:id="krautbruehe">Krautbrühe</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="safran">Safran</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="biscorn">Biscorn</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="ingwer-gemahlen">Ingwer (gemahlen)</object>
+			<object type="ingredient" xml:id="karpfenrogen">Karpfenrogen</object>
+			<object type="ingredient" xml:id="kraut">Kraut</object>
+			<object type="ingredient" xml:id="krautbruehe">Krautbrühe</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="safran">Safran</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="feuer">Feuer</object>
-			<object type="MaterielleKultur" xml:id="fischkessel">Fischkessel</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="feuer">Feuer</object>
+			<object type="utensil" xml:id="fischkessel">Fischkessel</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
                 </listObject>
             </div>
             <div type="dietetic">

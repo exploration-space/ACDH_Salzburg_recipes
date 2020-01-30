@@ -153,12 +153,12 @@ Willst du einen guten Brei zu Wachteln machen, dann nimm Fenchel und schneide ih
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="fenchel">Fenchel</object>
-			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
-			<object type="Zutaten" xml:id="kaese">Käse</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="wachtel">Wachtel</object>
-			<object type="Zutaten" xml:id="wachtelleber">Wachtelleber</object>
+			<object type="ingredient" xml:id="fenchel">Fenchel</object>
+			<object type="ingredient" xml:id="fleischbruehe">Fleischbrühe</object>
+			<object type="ingredient" xml:id="kaese">Käse</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="wachtel">Wachtel</object>
+			<object type="ingredient" xml:id="wachtelleber">Wachtelleber</object>
                  </listObject>
             </div>
              <div type="utensil">

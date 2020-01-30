@@ -151,15 +151,15 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="kalb">Kalb</object>
-			<object type="Zutaten" xml:id="pastete">Pastete</object>
-			<object type="Zutaten" xml:id="ragout">Ragout</object>
-			<object type="Zutaten" xml:id="suppe">Suppe</object>
+			<object type="ingredient" xml:id="kalb">Kalb</object>
+			<object type="ingredient" xml:id="pastete">Pastete</object>
+			<object type="ingredient" xml:id="ragout">Ragout</object>
+			<object type="ingredient" xml:id="suppe">Suppe</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="pastetentopf">Pastetentopf</object>
+			<object type="utensil" xml:id="pastetentopf">Pastetentopf</object>
                 </listObject>
             </div>
             <div type="dietetic">

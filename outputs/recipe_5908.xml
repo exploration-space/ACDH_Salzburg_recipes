@@ -151,38 +151,38 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="dotter">Dotter (Eigelb)</object>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="eigelb-gekocht">Eigelb (gekocht)</object>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="mandeln-gestossen">Mandeln (gestossen)</object>
-			<object type="Zutaten" xml:id="milch">Milch</object>
-			<object type="Zutaten" xml:id="milch-mit-rahm">Milch mit Rahm</object>
-			<object type="Zutaten" xml:id="muerbteig">Mürbteig</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
-			<object type="Zutaten" xml:id="teig">Teig</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="dotter">Dotter (Eigelb)</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="eigelb-gekocht">Eigelb (gekocht)</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="mandeln-gestossen">Mandeln (gestossen)</object>
+			<object type="ingredient" xml:id="milch">Milch</object>
+			<object type="ingredient" xml:id="milch-mit-rahm">Milch mit Rahm</object>
+			<object type="ingredient" xml:id="muerbteig">Mürbteig</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="teig">Teig</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="backofen">Backofen</object>
-			<object type="MaterielleKultur" xml:id="blech">Blech</object>
-			<object type="MaterielleKultur" xml:id="blech-rund">Blech (rund)</object>
-			<object type="MaterielleKultur" xml:id="hackmesser">Hackmesser</object>
-			<object type="MaterielleKultur" xml:id="loeffel">Löffel</object>
-			<object type="MaterielleKultur" xml:id="masse">Maße</object>
-			<object type="MaterielleKultur" xml:id="maesslein">Mäßlein</object>
-			<object type="MaterielleKultur" xml:id="nudelholz">Nudelholz</object>
-			<object type="MaterielleKultur" xml:id="nudelwalker-nudelholz">Nudelwalker (Nudelholz)</object>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="backofen">Backofen</object>
+			<object type="utensil" xml:id="blech">Blech</object>
+			<object type="utensil" xml:id="blech-rund">Blech (rund)</object>
+			<object type="utensil" xml:id="hackmesser">Hackmesser</object>
+			<object type="utensil" xml:id="loeffel">Löffel</object>
+			<object type="utensil" xml:id="masse">Maße</object>
+			<object type="utensil" xml:id="maesslein">Mäßlein</object>
+			<object type="utensil" xml:id="nudelholz">Nudelholz</object>
+			<object type="utensil" xml:id="nudelwalker-nudelholz">Nudelwalker (Nudelholz)</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="fuer-gesunde">für Gesunde</object>
+			<object type="dietetic" xml:id="fuer-gesunde">für Gesunde</object>
                 </listObject>
             </div>
         <div type="recipe">

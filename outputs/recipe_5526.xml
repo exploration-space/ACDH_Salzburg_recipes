@@ -151,16 +151,16 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="kaninchen">Kaninchen</object>
-			<object type="Zutaten" xml:id="kleie">Kleie</object>
-			<object type="Zutaten" xml:id="schwarzes-mehl">schwarzes Mehl</object>
-			<object type="Zutaten" xml:id="weisses-mehl">weißes Mehl</object>
+			<object type="ingredient" xml:id="kaninchen">Kaninchen</object>
+			<object type="ingredient" xml:id="kleie">Kleie</object>
+			<object type="ingredient" xml:id="schwarzes-mehl">schwarzes Mehl</object>
+			<object type="ingredient" xml:id="weisses-mehl">weißes Mehl</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
                 </listObject>
             </div>
             <div type="dietetic">

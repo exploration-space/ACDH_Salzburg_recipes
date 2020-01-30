@@ -151,21 +151,21 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="gerste">Gerste</object>
-			<object type="Zutaten" xml:id="kohl">Kohl</object>
-			<object type="Zutaten" xml:id="kraut">Kraut</object>
-			<object type="Zutaten" xml:id="kraeuter">Kräuter</object>
-			<object type="Zutaten" xml:id="ochsenmark">Ochsenmark</object>
-			<object type="Zutaten" xml:id="reis">Reis</object>
-			<object type="Zutaten" xml:id="rinderfett">Rinderfett</object>
-			<object type="Zutaten" xml:id="rindertalg">Rindertalg</object>
-			<object type="Zutaten" xml:id="rueben">Rüben</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="schinken">Schinken</object>
-			<object type="Zutaten" xml:id="semmelbroesel">Semmelbrösel</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
-			<object type="Zutaten" xml:id="zunge">Zunge</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="gerste">Gerste</object>
+			<object type="ingredient" xml:id="kohl">Kohl</object>
+			<object type="ingredient" xml:id="kraut">Kraut</object>
+			<object type="ingredient" xml:id="kraeuter">Kräuter</object>
+			<object type="ingredient" xml:id="ochsenmark">Ochsenmark</object>
+			<object type="ingredient" xml:id="reis">Reis</object>
+			<object type="ingredient" xml:id="rinderfett">Rinderfett</object>
+			<object type="ingredient" xml:id="rindertalg">Rindertalg</object>
+			<object type="ingredient" xml:id="rueben">Rüben</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="schinken">Schinken</object>
+			<object type="ingredient" xml:id="semmelbroesel">Semmelbrösel</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="zunge">Zunge</object>
                  </listObject>
             </div>
              <div type="utensil">

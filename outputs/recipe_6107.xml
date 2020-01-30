@@ -151,15 +151,15 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="bries">Bries</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="kapaungehaeck">Kapaungehäck</object>
-			<object type="Zutaten" xml:id="karfiol-blumenkohl">Karfiol (Blumenkohl)</object>
-			<object type="Zutaten" xml:id="pilze">Pilze</object>
-			<object type="Zutaten" xml:id="sauce">Sauce</object>
-			<object type="Zutaten" xml:id="schnecken">Schnecken</object>
-			<object type="Zutaten" xml:id="spargel">Spargel</object>
-			<object type="Zutaten" xml:id="teig">Teig</object>
+			<object type="ingredient" xml:id="bries">Bries</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="kapaungehaeck">Kapaungehäck</object>
+			<object type="ingredient" xml:id="karfiol-blumenkohl">Karfiol (Blumenkohl)</object>
+			<object type="ingredient" xml:id="pilze">Pilze</object>
+			<object type="ingredient" xml:id="sauce">Sauce</object>
+			<object type="ingredient" xml:id="schnecken">Schnecken</object>
+			<object type="ingredient" xml:id="spargel">Spargel</object>
+			<object type="ingredient" xml:id="teig">Teig</object>
                  </listObject>
             </div>
              <div type="utensil">

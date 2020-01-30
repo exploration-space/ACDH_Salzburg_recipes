@@ -151,15 +151,15 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="bratwurst-gehaeck">Bratwurst (Gehäck)</object>
-			<object type="Zutaten" xml:id="ochsenmark">Ochsenmark</object>
-			<object type="Zutaten" xml:id="rehschloegl">Rehschlögel</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="bratwurst-gehaeck">Bratwurst (Gehäck)</object>
+			<object type="ingredient" xml:id="ochsenmark">Ochsenmark</object>
+			<object type="ingredient" xml:id="rehschloegl">Rehschlögel</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
                 </listObject>
             </div>
             <div type="dietetic">

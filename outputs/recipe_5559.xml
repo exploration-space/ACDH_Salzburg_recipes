@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butterschmalz">(Butter)schmalz</object>
-			<object type="Zutaten" xml:id="aepfel">Äpfel</object>
-			<object type="Zutaten" xml:id="backteig-mit-wein">Backteig (mit Wein)</object>
-			<object type="Zutaten" xml:id="oblaten">Oblaten</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="butterschmalz">(Butter)schmalz</object>
+			<object type="ingredient" xml:id="aepfel">Äpfel</object>
+			<object type="ingredient" xml:id="backteig-mit-wein">Backteig (mit Wein)</object>
+			<object type="ingredient" xml:id="oblaten">Oblaten</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">

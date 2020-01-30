@@ -151,7 +151,7 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="ungarische-pflaumen">Ungarische Pflaumen</object>
+			<object type="ingredient" xml:id="ungarische-pflaumen">Ungarische Pflaumen</object>
                  </listObject>
             </div>
              <div type="utensil">

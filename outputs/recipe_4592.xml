@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="mandelfuelle">Mandelfülle</object>
-			<object type="Zutaten" xml:id="marillen-eingemacht">Marillen (eingemacht)</object>
-			<object type="Zutaten" xml:id="marzipanteig">Marzipanteig</object>
-			<object type="Zutaten" xml:id="muskatellerbirnen-eingemacht">Muskatellerbirnen (eingemacht)</object>
-			<object type="Zutaten" xml:id="orangeat">Orangeat (Aranzini)</object>
-			<object type="Zutaten" xml:id="orangenschalen-eingemacht">Orangenschalen (eingemacht)</object>
-			<object type="Zutaten" xml:id="pfirsiche-eingemacht">Pfirsiche (eingemacht)</object>
-			<object type="Zutaten" xml:id="pistazien">Pistazien</object>
-			<object type="Zutaten" xml:id="quitten-eingemacht">Quitten (eingemacht)</object>
-			<object type="Zutaten" xml:id="ribisel-johannisbeere">Ribisel (Johannisbeeren)</object>
-			<object type="Zutaten" xml:id="sauerdorn">Sauerdorn</object>
+			<object type="ingredient" xml:id="mandelfuelle">Mandelfülle</object>
+			<object type="ingredient" xml:id="marillen-eingemacht">Marillen (eingemacht)</object>
+			<object type="ingredient" xml:id="marzipanteig">Marzipanteig</object>
+			<object type="ingredient" xml:id="muskatellerbirnen-eingemacht">Muskatellerbirnen (eingemacht)</object>
+			<object type="ingredient" xml:id="orangeat">Orangeat (Aranzini)</object>
+			<object type="ingredient" xml:id="orangenschalen-eingemacht">Orangenschalen (eingemacht)</object>
+			<object type="ingredient" xml:id="pfirsiche-eingemacht">Pfirsiche (eingemacht)</object>
+			<object type="ingredient" xml:id="pistazien">Pistazien</object>
+			<object type="ingredient" xml:id="quitten-eingemacht">Quitten (eingemacht)</object>
+			<object type="ingredient" xml:id="ribisel-johannisbeere">Ribisel (Johannisbeeren)</object>
+			<object type="ingredient" xml:id="sauerdorn">Sauerdorn</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -151,21 +151,21 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="essig">Essig</object>
-			<object type="Zutaten" xml:id="indigo">Indigo</object>
-			<object type="Zutaten" xml:id="kornblumen">Kornblumen</object>
-			<object type="Zutaten" xml:id="kornblumenessig">Kornblumenessig</object>
-			<object type="Zutaten" xml:id="oel">Öl</object>
-			<object type="Zutaten" xml:id="rote-ruebenessig">Rote Rübenessig</object>
-			<object type="Zutaten" xml:id="saflor">Saflor</object>
-			<object type="Zutaten" xml:id="violenessig">Violenessig</object>
-			<object type="Zutaten" xml:id="wegwartensalat">Wegwartensalat</object>
-			<object type="Zutaten" xml:id="zichorien-wegwarten">Zichorien (Wegwarten)</object>
+			<object type="ingredient" xml:id="essig">Essig</object>
+			<object type="ingredient" xml:id="indigo">Indigo</object>
+			<object type="ingredient" xml:id="kornblumen">Kornblumen</object>
+			<object type="ingredient" xml:id="kornblumenessig">Kornblumenessig</object>
+			<object type="ingredient" xml:id="oel">Öl</object>
+			<object type="ingredient" xml:id="rote-ruebenessig">Rote Rübenessig</object>
+			<object type="ingredient" xml:id="saflor">Saflor</object>
+			<object type="ingredient" xml:id="violenessig">Violenessig</object>
+			<object type="ingredient" xml:id="wegwartensalat">Wegwartensalat</object>
+			<object type="ingredient" xml:id="zichorien-wegwarten">Zichorien (Wegwarten)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

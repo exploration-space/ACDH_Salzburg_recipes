@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="dotter">Dotter (Eigelb)</object>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="schokolade">Schokolade</object>
-			<object type="Zutaten" xml:id="teig">Teig</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="dotter">Dotter (Eigelb)</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="schokolade">Schokolade</object>
+			<object type="ingredient" xml:id="teig">Teig</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="blech">Blech</object>
-			<object type="MaterielleKultur" xml:id="loth">Loth</object>
-			<object type="MaterielleKultur" xml:id="pfund">Pfund</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="tortenblatt">Tortenblatt</object>
-			<object type="MaterielleKultur" xml:id="vierling">Vierling</object>
+			<object type="utensil" xml:id="blech">Blech</object>
+			<object type="utensil" xml:id="loth">Loth</object>
+			<object type="utensil" xml:id="pfund">Pfund</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="tortenblatt">Tortenblatt</object>
+			<object type="utensil" xml:id="vierling">Vierling</object>
                 </listObject>
             </div>
             <div type="dietetic">

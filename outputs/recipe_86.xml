@@ -151,23 +151,23 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="huehnerleber">Hühnerleber</object>
-			<object type="Zutaten" xml:id="huehnermagen">Hühnermagen</object>
-			<object type="Zutaten" xml:id="kalbsbries">Kalbsbries</object>
-			<object type="Zutaten" xml:id="kalbseuter">Kalbseuter</object>
-			<object type="Zutaten" xml:id="kalbsnetz">Kalbsnetz</object>
-			<object type="Zutaten" xml:id="krebse">Krebse</object>
-			<object type="Zutaten" xml:id="morcheln">Morcheln</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="sahne">Rahm (Sahne)</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="huehnerleber">Hühnerleber</object>
+			<object type="ingredient" xml:id="huehnermagen">Hühnermagen</object>
+			<object type="ingredient" xml:id="kalbsbries">Kalbsbries</object>
+			<object type="ingredient" xml:id="kalbseuter">Kalbseuter</object>
+			<object type="ingredient" xml:id="kalbsnetz">Kalbsnetz</object>
+			<object type="ingredient" xml:id="krebse">Krebse</object>
+			<object type="ingredient" xml:id="morcheln">Morcheln</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="sahne">Rahm (Sahne)</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="topf">Topf (Rein)</object>
+			<object type="utensil" xml:id="topf">Topf (Rein)</object>
                 </listObject>
             </div>
             <div type="dietetic">

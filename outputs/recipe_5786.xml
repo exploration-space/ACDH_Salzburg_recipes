@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gelbe-rueben-moehren">Gelbe Rüben (Möhren)</object>
-			<object type="Zutaten" xml:id="hammel">Hammel</object>
-			<object type="Zutaten" xml:id="ingwer">Ingwer</object>
-			<object type="Zutaten" xml:id="kalbsknorren-knoechel">Kalbsknorren (Knöchel)</object>
-			<object type="Zutaten" xml:id="knoblauchzehe">Knoblauchzehe</object>
-			<object type="Zutaten" xml:id="kraeuter">Kräuter</object>
-			<object type="Zutaten" xml:id="pastinakenwurzeln">Pastinakenwurzeln</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="rinderbruehe">Rinderbrühe</object>
-			<object type="Zutaten" xml:id="rindfleisch">Rindfleisch</object>
-			<object type="Zutaten" xml:id="safran">Safran</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="wecken-eingeweicht">Wecken (eingeweicht)</object>
-			<object type="Zutaten" xml:id="weisse-rueben-wasserrueben">Weiße Rüben (Wasserrüben)</object>
-			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
+			<object type="ingredient" xml:id="gelbe-rueben-moehren">Gelbe Rüben (Möhren)</object>
+			<object type="ingredient" xml:id="hammel">Hammel</object>
+			<object type="ingredient" xml:id="ingwer">Ingwer</object>
+			<object type="ingredient" xml:id="kalbsknorren-knoechel">Kalbsknorren (Knöchel)</object>
+			<object type="ingredient" xml:id="knoblauchzehe">Knoblauchzehe</object>
+			<object type="ingredient" xml:id="kraeuter">Kräuter</object>
+			<object type="ingredient" xml:id="pastinakenwurzeln">Pastinakenwurzeln</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="rinderbruehe">Rinderbrühe</object>
+			<object type="ingredient" xml:id="rindfleisch">Rindfleisch</object>
+			<object type="ingredient" xml:id="safran">Safran</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="wecken-eingeweicht">Wecken (eingeweicht)</object>
+			<object type="ingredient" xml:id="weisse-rueben-wasserrueben">Weiße Rüben (Wasserrüben)</object>
+			<object type="ingredient" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
              <div type="utensil">

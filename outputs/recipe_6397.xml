@@ -155,16 +155,16 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="alaun">Alaun</object>
-			<object type="Zutaten" xml:id="bier">Bier</object>
-			<object type="Zutaten" xml:id="bierhefe">Bierhefe</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="alaun">Alaun</object>
+			<object type="ingredient" xml:id="bier">Bier</object>
+			<object type="ingredient" xml:id="bierhefe">Bierhefe</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="fass">Fass</object>
-			<object type="MaterielleKultur" xml:id="fuder">Fuder</object>
+			<object type="utensil" xml:id="fass">Fass</object>
+			<object type="utensil" xml:id="fuder">Fuder</object>
                 </listObject>
             </div>
             <div type="dietetic">

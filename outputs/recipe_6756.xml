@@ -151,17 +151,17 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="hirse">Hirse</object>
-			<object type="Zutaten" xml:id="rinderfett">Rinderfett</object>
-			<object type="Zutaten" xml:id="rindsuppe">Rindsuppe</object>
-			<object type="Zutaten" xml:id="wachtel-wildgefluegel">Wachtel</object>
+			<object type="ingredient" xml:id="hirse">Hirse</object>
+			<object type="ingredient" xml:id="rinderfett">Rinderfett</object>
+			<object type="ingredient" xml:id="rindsuppe">Rindsuppe</object>
+			<object type="ingredient" xml:id="wachtel-wildgefluegel">Wachtel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="feuer">Feuer</object>
-			<object type="MaterielleKultur" xml:id="geschirr">Geschirr</object>
-			<object type="MaterielleKultur" xml:id="kohlen">Kohlen</object>
+			<object type="utensil" xml:id="feuer">Feuer</object>
+			<object type="utensil" xml:id="geschirr">Geschirr</object>
+			<object type="utensil" xml:id="kohlen">Kohlen</object>
                 </listObject>
             </div>
             <div type="dietetic">

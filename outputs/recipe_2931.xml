@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butterbruehe">Butterbrühe</object>
-			<object type="Zutaten" xml:id="erbsensuppe">Erbsenbrühe</object>
-			<object type="Zutaten" xml:id="weissfisch">Weißfisch</object>
-			<object type="Zutaten" xml:id="zitronenschalen">Zitronenschalen</object>
-			<object type="Zutaten" xml:id="zwiebelbruehe">Zwiebelbrühe</object>
+			<object type="ingredient" xml:id="butterbruehe">Butterbrühe</object>
+			<object type="ingredient" xml:id="erbsensuppe">Erbsenbrühe</object>
+			<object type="ingredient" xml:id="weissfisch">Weißfisch</object>
+			<object type="ingredient" xml:id="zitronenschalen">Zitronenschalen</object>
+			<object type="ingredient" xml:id="zwiebelbruehe">Zwiebelbrühe</object>
                  </listObject>
             </div>
              <div type="utensil">

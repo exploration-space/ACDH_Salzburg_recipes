@@ -151,24 +151,24 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="fenchel">Fenchel</object>
-			<object type="Zutaten" xml:id="fenchelkraut">Fenchelkraut</object>
-			<object type="Zutaten" xml:id="gurken">Gurken</object>
-			<object type="Zutaten" xml:id="pfeffer-grob-gest">Pfeffer (grob gest.)</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="weinessig-essig">Weinessig</object>
+			<object type="ingredient" xml:id="fenchel">Fenchel</object>
+			<object type="ingredient" xml:id="fenchelkraut">Fenchelkraut</object>
+			<object type="ingredient" xml:id="gurken">Gurken</object>
+			<object type="ingredient" xml:id="pfeffer-grob-gest">Pfeffer (grob gest.)</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="weinessig-essig">Weinessig</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="brett">Brett</object>
-			<object type="MaterielleKultur" xml:id="fass">Fass</object>
-			<object type="MaterielleKultur" xml:id="schachteldeckel">Schachteldeckel</object>
-			<object type="MaterielleKultur" xml:id="seidel">Seidel</object>
-			<object type="MaterielleKultur" xml:id="stein">Stein</object>
-			<object type="MaterielleKultur" xml:id="tiegel">Tiegel</object>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="brett">Brett</object>
+			<object type="utensil" xml:id="fass">Fass</object>
+			<object type="utensil" xml:id="schachteldeckel">Schachteldeckel</object>
+			<object type="utensil" xml:id="seidel">Seidel</object>
+			<object type="utensil" xml:id="stein">Stein</object>
+			<object type="utensil" xml:id="tiegel">Tiegel</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

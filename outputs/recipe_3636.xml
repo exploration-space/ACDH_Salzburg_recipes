@@ -151,27 +151,27 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="champignon">Champignon</object>
-			<object type="Zutaten" xml:id="erbsen-gruene">Erbsen (grüne)</object>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="kalbsfaschiertes">Kalbsfaschiertes</object>
-			<object type="Zutaten" xml:id="kalbsschnitzel">Kalbsschnitzel</object>
-			<object type="Zutaten" xml:id="kapaunenbrust">Kapaunenbrust</object>
-			<object type="Zutaten" xml:id="knoblauch">Knoblauch</object>
-			<object type="Zutaten" xml:id="kraeuter">Kräuter</object>
-			<object type="Zutaten" xml:id="pfifferling-eierschwammerl">Pfifferling (Eierschwammerl)</object>
-			<object type="Zutaten" xml:id="sahne">Rahm (Sahne)</object>
-			<object type="Zutaten" xml:id="rebhuhn">Rebhuhn</object>
-			<object type="Zutaten" xml:id="schinken">Schinken</object>
-			<object type="Zutaten" xml:id="spargel">Spargel</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
-			<object type="Zutaten" xml:id="trueffel">Trüffel</object>
+			<object type="ingredient" xml:id="champignon">Champignon</object>
+			<object type="ingredient" xml:id="erbsen-gruene">Erbsen (grüne)</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="kalbsfaschiertes">Kalbsfaschiertes</object>
+			<object type="ingredient" xml:id="kalbsschnitzel">Kalbsschnitzel</object>
+			<object type="ingredient" xml:id="kapaunenbrust">Kapaunenbrust</object>
+			<object type="ingredient" xml:id="knoblauch">Knoblauch</object>
+			<object type="ingredient" xml:id="kraeuter">Kräuter</object>
+			<object type="ingredient" xml:id="pfifferling-eierschwammerl">Pfifferling (Eierschwammerl)</object>
+			<object type="ingredient" xml:id="sahne">Rahm (Sahne)</object>
+			<object type="ingredient" xml:id="rebhuhn">Rebhuhn</object>
+			<object type="ingredient" xml:id="schinken">Schinken</object>
+			<object type="ingredient" xml:id="spargel">Spargel</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="trueffel">Trüffel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="feuer">Feuer</object>
-			<object type="MaterielleKultur" xml:id="kasserolle">Kasserolle</object>
+			<object type="utensil" xml:id="feuer">Feuer</object>
+			<object type="utensil" xml:id="kasserolle">Kasserolle</object>
                 </listObject>
             </div>
             <div type="dietetic">

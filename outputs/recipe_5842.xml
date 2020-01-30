@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="pfeffer-schwarz">Pfeffer (schwarz)</object>
-			<object type="Zutaten" xml:id="spanferkel">Spanferkel</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="pfeffer-schwarz">Pfeffer (schwarz)</object>
+			<object type="ingredient" xml:id="spanferkel">Spanferkel</object>
                  </listObject>
             </div>
              <div type="utensil">

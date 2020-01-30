@@ -151,10 +151,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="kohlrabi">Kohlrabi</object>
-			<object type="Zutaten" xml:id="krebsbutter">Krebsbutter</object>
-			<object type="Zutaten" xml:id="sahne">Rahm (Sahne)</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="kohlrabi">Kohlrabi</object>
+			<object type="ingredient" xml:id="krebsbutter">Krebsbutter</object>
+			<object type="ingredient" xml:id="sahne">Rahm (Sahne)</object>
                  </listObject>
             </div>
              <div type="utensil">

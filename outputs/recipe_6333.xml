@@ -151,21 +151,21 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="haselspaene">Haselspäne</object>
-			<object type="Zutaten" xml:id="schwefel">Schwefel</object>
-			<object type="Zutaten" xml:id="veilchenwurzel-weiss">Veilchenwurzel (weiß)</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="weihrauch-weiss">Weihrauch (weiß)</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="haselspaene">Haselspäne</object>
+			<object type="ingredient" xml:id="schwefel">Schwefel</object>
+			<object type="ingredient" xml:id="veilchenwurzel-weiss">Veilchenwurzel (weiß)</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="weihrauch-weiss">Weihrauch (weiß)</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="becken">Becken</object>
-			<object type="MaterielleKultur" xml:id="buechse">Büchse</object>
-			<object type="MaterielleKultur" xml:id="fass">Fass</object>
-			<object type="MaterielleKultur" xml:id="feuer">Feuer</object>
-			<object type="MaterielleKultur" xml:id="sieb">Sieb</object>
+			<object type="utensil" xml:id="becken">Becken</object>
+			<object type="utensil" xml:id="buechse">Büchse</object>
+			<object type="utensil" xml:id="fass">Fass</object>
+			<object type="utensil" xml:id="feuer">Feuer</object>
+			<object type="utensil" xml:id="sieb">Sieb</object>
                 </listObject>
             </div>
             <div type="dietetic">

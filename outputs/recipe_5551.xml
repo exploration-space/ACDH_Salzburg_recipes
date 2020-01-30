@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butterschmalz">(Butter)schmalz</object>
-			<object type="Zutaten" xml:id="backteig">Backteig</object>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="holunderbluete">Hollerblüte (Holunderblüte)</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="butterschmalz">(Butter)schmalz</object>
+			<object type="ingredient" xml:id="backteig">Backteig</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="holunderbluete">Hollerblüte (Holunderblüte)</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">

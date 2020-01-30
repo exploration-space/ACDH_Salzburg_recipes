@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gold">Gold</object>
-			<object type="Zutaten" xml:id="kalbskutteln">Kalbskutteln</object>
-			<object type="Zutaten" xml:id="kapaun">Kapaun</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="safran">Safran</object>
+			<object type="ingredient" xml:id="gold">Gold</object>
+			<object type="ingredient" xml:id="kalbskutteln">Kalbskutteln</object>
+			<object type="ingredient" xml:id="kapaun">Kapaun</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="safran">Safran</object>
                  </listObject>
             </div>
              <div type="utensil">
@@ -165,8 +165,8 @@
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="fuer-die-kranken">für die Kranken</object>
-			<object type="Diaetetik" xml:id="fuer-woechnerinnen">für Wöchnerinnen</object>
+			<object type="dietetic" xml:id="fuer-die-kranken">für die Kranken</object>
+			<object type="dietetic" xml:id="fuer-woechnerinnen">für Wöchnerinnen</object>
                 </listObject>
             </div>
         <div type="recipe">

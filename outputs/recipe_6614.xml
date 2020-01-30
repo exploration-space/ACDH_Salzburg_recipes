@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="pfeffer-schwarz">Pfeffer (schwarz)</object>
-			<object type="Zutaten" xml:id="wacholderbeeren">Wacholderbeeren</object>
-			<object type="Zutaten" xml:id="wildschwein">Wildschwein</object>
+			<object type="ingredient" xml:id="pfeffer-schwarz">Pfeffer (schwarz)</object>
+			<object type="ingredient" xml:id="wacholderbeeren">Wacholderbeeren</object>
+			<object type="ingredient" xml:id="wildschwein">Wildschwein</object>
                  </listObject>
             </div>
              <div type="utensil">

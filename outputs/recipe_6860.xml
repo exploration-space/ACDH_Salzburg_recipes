@@ -151,19 +151,19 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="birnen">Birnen</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="ingwer">Ingwer</object>
-			<object type="Zutaten" xml:id="pastetenteig">Pastetenteig</object>
-			<object type="Zutaten" xml:id="rosinen-schwarz">Rosinen (schwarz)</object>
-			<object type="Zutaten" xml:id="sauce-schwarz">Sauce (schwarz)</object>
-			<object type="Zutaten" xml:id="singvoegel">Singvögel</object>
-			<object type="Zutaten" xml:id="zibeben">Zibeben</object>
+			<object type="ingredient" xml:id="birnen">Birnen</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="ingwer">Ingwer</object>
+			<object type="ingredient" xml:id="pastetenteig">Pastetenteig</object>
+			<object type="ingredient" xml:id="rosinen-schwarz">Rosinen (schwarz)</object>
+			<object type="ingredient" xml:id="sauce-schwarz">Sauce (schwarz)</object>
+			<object type="ingredient" xml:id="singvoegel">Singvögel</object>
+			<object type="ingredient" xml:id="zibeben">Zibeben</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
                 </listObject>
             </div>
             <div type="dietetic">

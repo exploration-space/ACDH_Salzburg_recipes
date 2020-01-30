@@ -151,27 +151,27 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="fleischbruehe-bruehe">Fleischbrühe</object>
-			<object type="Zutaten" xml:id="huehnerbrust">Hühnerbrust</object>
-			<object type="Zutaten" xml:id="kapaunbruehe">Kapaunbrühe</object>
-			<object type="Zutaten" xml:id="kapaunenbrust">Kapaunenbrust</object>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="milch">Milch</object>
-			<object type="Zutaten" xml:id="sahne">Rahm (Sahne)</object>
-			<object type="Zutaten" xml:id="reis">Reis</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="weinbeeren">Weinbeeren</object>
+			<object type="ingredient" xml:id="fleischbruehe-bruehe">Fleischbrühe</object>
+			<object type="ingredient" xml:id="huehnerbrust">Hühnerbrust</object>
+			<object type="ingredient" xml:id="kapaunbruehe">Kapaunbrühe</object>
+			<object type="ingredient" xml:id="kapaunenbrust">Kapaunenbrust</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="milch">Milch</object>
+			<object type="ingredient" xml:id="sahne">Rahm (Sahne)</object>
+			<object type="ingredient" xml:id="reis">Reis</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="weinbeeren">Weinbeeren</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="glut">Glut</object>
-			<object type="MaterielleKultur" xml:id="moerser-aus-gestein">Mörser (aus Gestein)</object>
+			<object type="utensil" xml:id="glut">Glut</object>
+			<object type="utensil" xml:id="moerser-aus-gestein">Mörser (aus Gestein)</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="fuer-kranke-und-gesunde">für Kranke und Gesunde</object>
+			<object type="dietetic" xml:id="fuer-kranke-und-gesunde">für Kranke und Gesunde</object>
                 </listObject>
             </div>
         <div type="recipe">

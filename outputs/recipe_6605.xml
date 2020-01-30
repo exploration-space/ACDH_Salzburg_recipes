@@ -151,14 +151,14 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="brot-gerieben">Brot (gerieben)</object>
-			<object type="Zutaten" xml:id="wildschwein">Wildschwein</object>
+			<object type="ingredient" xml:id="brot-gerieben">Brot (gerieben)</object>
+			<object type="ingredient" xml:id="wildschwein">Wildschwein</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="daerme">Därme</object>
-			<object type="MaterielleKultur" xml:id="rost">Rost</object>
+			<object type="utensil" xml:id="daerme">Därme</object>
+			<object type="utensil" xml:id="rost">Rost</object>
                 </listObject>
             </div>
             <div type="dietetic">

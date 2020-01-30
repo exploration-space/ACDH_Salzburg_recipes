@@ -161,16 +161,16 @@ Der Fischhandel dieser Meeresfische für das gesamte Einflussgebiet des Heiligen
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="fisch">Fisch</object>
-			<object type="Zutaten" xml:id="muskat">Muskat</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="fisch">Fisch</object>
+			<object type="ingredient" xml:id="muskat">Muskat</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="loeffel">Löffel</object>
-			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>
-			<object type="MaterielleKultur" xml:id="tonschuessel">Tonschüssel</object>
+			<object type="utensil" xml:id="loeffel">Löffel</object>
+			<object type="utensil" xml:id="pfanne">Pfanne</object>
+			<object type="utensil" xml:id="tonschuessel">Tonschüssel</object>
                 </listObject>
             </div>
             <div type="dietetic">

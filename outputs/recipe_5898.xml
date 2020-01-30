@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="fasan-wildgefluegel">Fasan</object>
-			<object type="Zutaten" xml:id="kapaunbruehe">Kapaunbrühe</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="petersilienwurzel">Petersilienwurzel</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="fasan-wildgefluegel">Fasan</object>
+			<object type="ingredient" xml:id="kapaunbruehe">Kapaunbrühe</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="petersilienwurzel">Petersilienwurzel</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
                  </listObject>
             </div>
              <div type="utensil">

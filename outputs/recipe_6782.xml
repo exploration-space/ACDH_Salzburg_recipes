@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gruenkohl">Grünkohl</object>
-			<object type="Zutaten" xml:id="rueben-getrocknet">Rüben (getrocknet)</object>
-			<object type="Zutaten" xml:id="spinat">Spinat</object>
-			<object type="Zutaten" xml:id="wacholderdrosseln">Wacholderdrosseln</object>
-			<object type="Zutaten" xml:id="weisskraut-kraut">Weißkraut</object>
+			<object type="ingredient" xml:id="gruenkohl">Grünkohl</object>
+			<object type="ingredient" xml:id="rueben-getrocknet">Rüben (getrocknet)</object>
+			<object type="ingredient" xml:id="spinat">Spinat</object>
+			<object type="ingredient" xml:id="wacholderdrosseln">Wacholderdrosseln</object>
+			<object type="ingredient" xml:id="weisskraut-kraut">Weißkraut</object>
                  </listObject>
             </div>
              <div type="utensil">

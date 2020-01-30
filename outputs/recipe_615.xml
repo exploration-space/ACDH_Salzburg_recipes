@@ -151,25 +151,25 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="muskatnuss">Muskatnuss</object>
-			<object type="Zutaten" xml:id="pottasche">Pottasche</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="muskatnuss">Muskatnuss</object>
+			<object type="ingredient" xml:id="pottasche">Pottasche</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="haarsieb">Haarsieb</object>
+			<object type="utensil" xml:id="haarsieb">Haarsieb</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-milzschwellung">bei Milzschwellung</object>
-			<object type="Diaetetik" xml:id="bei-mundgeruch">bei Mundgeruch</object>
-			<object type="Diaetetik" xml:id="bei-wassersucht">bei Wassersucht</object>
-			<object type="Diaetetik" xml:id="leber">Leber</object>
-			<object type="Diaetetik" xml:id="magen">Magen</object>
-			<object type="Diaetetik" xml:id="zur-blutreinigung">zur Blutreinigung</object>
+			<object type="dietetic" xml:id="bei-milzschwellung">bei Milzschwellung</object>
+			<object type="dietetic" xml:id="bei-mundgeruch">bei Mundgeruch</object>
+			<object type="dietetic" xml:id="bei-wassersucht">bei Wassersucht</object>
+			<object type="dietetic" xml:id="leber">Leber</object>
+			<object type="dietetic" xml:id="magen">Magen</object>
+			<object type="dietetic" xml:id="zur-blutreinigung">zur Blutreinigung</object>
                 </listObject>
             </div>
         <div type="recipe">

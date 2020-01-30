@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="cardamom">Cardamom</object>
-			<object type="Zutaten" xml:id="galgant">Galgant</object>
-			<object type="Zutaten" xml:id="ingwer">Ingwer</object>
-			<object type="Zutaten" xml:id="kalmus-ackerwurz">Kalmus (Ackerwurz)</object>
-			<object type="Zutaten" xml:id="lavendel">Lavendel</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="muskatnuss">Muskatnuss</object>
-			<object type="Zutaten" xml:id="rosenwasser">Rosenwasser</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="cardamom">Cardamom</object>
+			<object type="ingredient" xml:id="galgant">Galgant</object>
+			<object type="ingredient" xml:id="ingwer">Ingwer</object>
+			<object type="ingredient" xml:id="kalmus-ackerwurz">Kalmus (Ackerwurz)</object>
+			<object type="ingredient" xml:id="lavendel">Lavendel</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="muskatnuss">Muskatnuss</object>
+			<object type="ingredient" xml:id="rosenwasser">Rosenwasser</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="marmorstein-platte">Marmorstein (Platte)</object>
-			<object type="MaterielleKultur" xml:id="messer">Messer</object>
+			<object type="utensil" xml:id="marmorstein-platte">Marmorstein (Platte)</object>
+			<object type="utensil" xml:id="messer">Messer</object>
                 </listObject>
             </div>
             <div type="dietetic">

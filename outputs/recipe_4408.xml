@@ -151,37 +151,37 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="artischockenboeden">Artischockenböden</object>
-			<object type="Zutaten" xml:id="bratwurst">Bratwurst</object>
-			<object type="Zutaten" xml:id="bries">Bries</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="einbrenn">Einbrenn</object>
-			<object type="Zutaten" xml:id="erbsen-gruene">Erbsen (grüne)</object>
-			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
-			<object type="Zutaten" xml:id="krebsschwaenze">Krebsschwänze</object>
-			<object type="Zutaten" xml:id="lammnieren">Lammnieren</object>
-			<object type="Zutaten" xml:id="mehl">Mehl</object>
-			<object type="Zutaten" xml:id="morcheln">Morcheln</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="sahne">Rahm (Sahne)</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="schnecken">Schnecken</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
-			<object type="Zutaten" xml:id="zitronenschalen">Zitronenschalen</object>
+			<object type="ingredient" xml:id="artischockenboeden">Artischockenböden</object>
+			<object type="ingredient" xml:id="bratwurst">Bratwurst</object>
+			<object type="ingredient" xml:id="bries">Bries</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="einbrenn">Einbrenn</object>
+			<object type="ingredient" xml:id="erbsen-gruene">Erbsen (grüne)</object>
+			<object type="ingredient" xml:id="fleischbruehe">Fleischbrühe</object>
+			<object type="ingredient" xml:id="krebsschwaenze">Krebsschwänze</object>
+			<object type="ingredient" xml:id="lammnieren">Lammnieren</object>
+			<object type="ingredient" xml:id="mehl">Mehl</object>
+			<object type="ingredient" xml:id="morcheln">Morcheln</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="sahne">Rahm (Sahne)</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="schnecken">Schnecken</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="zitronenschalen">Zitronenschalen</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="haefelein-2">Häfelein</object>
-			<object type="MaterielleKultur" xml:id="loeffel">Löffel</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="stollhafen">Stollhafen</object>
-			<object type="MaterielleKultur" xml:id="tortenpfanne">Tortenpfanne</object>
-			<object type="MaterielleKultur" xml:id="trichter">Trichter</object>
-			<object type="MaterielleKultur" xml:id="wanne">Wanne</object>
-			<object type="MaterielleKultur" xml:id="wanne-aus-kupfer">Wanne (aus Kupfer)</object>
+			<object type="utensil" xml:id="haefelein-2">Häfelein</object>
+			<object type="utensil" xml:id="loeffel">Löffel</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="stollhafen">Stollhafen</object>
+			<object type="utensil" xml:id="tortenpfanne">Tortenpfanne</object>
+			<object type="utensil" xml:id="trichter">Trichter</object>
+			<object type="utensil" xml:id="wanne">Wanne</object>
+			<object type="utensil" xml:id="wanne-aus-kupfer">Wanne (aus Kupfer)</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -151,17 +151,17 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="marzipanteig">Marzipanteig</object>
-			<object type="Zutaten" xml:id="spinatsaft">Spinatsaft</object>
-			<object type="Zutaten" xml:id="zimtpulver">Zimtpulver</object>
+			<object type="ingredient" xml:id="marzipanteig">Marzipanteig</object>
+			<object type="ingredient" xml:id="spinatsaft">Spinatsaft</object>
+			<object type="ingredient" xml:id="zimtpulver">Zimtpulver</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="messer">Messer</object>
-			<object type="MaterielleKultur" xml:id="model">Model</object>
-			<object type="MaterielleKultur" xml:id="moerser">Mörser</object>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="messer">Messer</object>
+			<object type="utensil" xml:id="model">Model</object>
+			<object type="utensil" xml:id="moerser">Mörser</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
                 </listObject>
             </div>
             <div type="dietetic">

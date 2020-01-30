@@ -151,17 +151,17 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="mehl">Mehl</object>
-			<object type="Zutaten" xml:id="milch">Milch</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="mehl">Mehl</object>
+			<object type="ingredient" xml:id="milch">Milch</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="saecklein-aus-weissem-leinen">Säcklein (aus weißem Leinen)</object>
-			<object type="MaterielleKultur" xml:id="seitlein">Seitlein</object>
+			<object type="utensil" xml:id="saecklein-aus-weissem-leinen">Säcklein (aus weißem Leinen)</object>
+			<object type="utensil" xml:id="seitlein">Seitlein</object>
                 </listObject>
             </div>
             <div type="dietetic">

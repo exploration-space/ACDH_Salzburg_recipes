@@ -151,21 +151,21 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="essig">Essig</object>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="kalbsschloegl">Kalbsschlögel</object>
-			<object type="Zutaten" xml:id="majoran">Majoran</object>
-			<object type="Zutaten" xml:id="rindermark">Rindermark</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="essig">Essig</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="kalbsschloegl">Kalbsschlögel</object>
+			<object type="ingredient" xml:id="majoran">Majoran</object>
+			<object type="ingredient" xml:id="rindermark">Rindermark</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="brett">Brett</object>
-			<object type="MaterielleKultur" xml:id="schlegel">Schlegel</object>
-			<object type="MaterielleKultur" xml:id="vogelspiess">Vogelspieß</object>
+			<object type="utensil" xml:id="brett">Brett</object>
+			<object type="utensil" xml:id="schlegel">Schlegel</object>
+			<object type="utensil" xml:id="vogelspiess">Vogelspieß</object>
                 </listObject>
             </div>
             <div type="dietetic">

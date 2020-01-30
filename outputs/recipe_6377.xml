@@ -151,16 +151,16 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="griess">Grieß</object>
-			<object type="Zutaten" xml:id="milch">Milch</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="griess">Grieß</object>
+			<object type="ingredient" xml:id="milch">Milch</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="fischkessel">Fischkessel</object>
-			<object type="MaterielleKultur" xml:id="haartuch">Haartuch</object>
-			<object type="MaterielleKultur" xml:id="hafendeckel-kupfern">Hafendeckel (kupfern)</object>
+			<object type="utensil" xml:id="fischkessel">Fischkessel</object>
+			<object type="utensil" xml:id="haartuch">Haartuch</object>
+			<object type="utensil" xml:id="hafendeckel-kupfern">Hafendeckel (kupfern)</object>
                 </listObject>
             </div>
             <div type="dietetic">

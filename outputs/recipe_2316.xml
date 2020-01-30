@@ -151,20 +151,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="pilze">Pilze</object>
-			<object type="Zutaten" xml:id="sahne">Rahm (Sahne)</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="spinat">Spinat</object>
-			<object type="Zutaten" xml:id="suessrahmbutter">Süßrahmbutter</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="pilze">Pilze</object>
+			<object type="ingredient" xml:id="sahne">Rahm (Sahne)</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="spinat">Spinat</object>
+			<object type="ingredient" xml:id="suessrahmbutter">Süßrahmbutter</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="glutpfanne">Glutpfanne</object>
-			<object type="MaterielleKultur" xml:id="kupferpfanne-verzinnt">Kupferpfanne (verzinnt)</object>
+			<object type="utensil" xml:id="glutpfanne">Glutpfanne</object>
+			<object type="utensil" xml:id="kupferpfanne-verzinnt">Kupferpfanne (verzinnt)</object>
                 </listObject>
             </div>
             <div type="dietetic">

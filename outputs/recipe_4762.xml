@@ -151,17 +151,17 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="backschmalz">Backschmalz</object>
-			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="roggenbrot-brot">Roggenbrot</object>
-			<object type="Zutaten" xml:id="sauerkraut">Sauerkraut</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="backschmalz">Backschmalz</object>
+			<object type="ingredient" xml:id="fleischbruehe">Fleischbrühe</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="roggenbrot-brot">Roggenbrot</object>
+			<object type="ingredient" xml:id="sauerkraut">Sauerkraut</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="haefelein-2">Häfelein</object>
+			<object type="utensil" xml:id="haefelein-2">Häfelein</object>
                 </listObject>
             </div>
             <div type="dietetic">

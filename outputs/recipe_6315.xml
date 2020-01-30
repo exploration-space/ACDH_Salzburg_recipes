@@ -151,8 +151,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="fenchel">Fenchel</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="fenchel">Fenchel</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
                  </listObject>
             </div>
              <div type="utensil">
@@ -162,15 +162,15 @@
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="augen">Augen</object>
-			<object type="Diaetetik" xml:id="aussatz">bei Aussatz</object>
-			<object type="Diaetetik" xml:id="bei-blattern">bei Blattern</object>
-			<object type="Diaetetik" xml:id="bei-husten">bei Husten</object>
-			<object type="Diaetetik" xml:id="bei-menstruationsbeschwerden">bei Menstruationsbeschwerden</object>
-			<object type="Diaetetik" xml:id="bei-wassersucht">bei Wassersucht</object>
-			<object type="Diaetetik" xml:id="leber">Leber</object>
-			<object type="Diaetetik" xml:id="milz">Milz</object>
-			<object type="Diaetetik" xml:id="nieren">Nieren</object>
+			<object type="dietetic" xml:id="augen">Augen</object>
+			<object type="dietetic" xml:id="aussatz">bei Aussatz</object>
+			<object type="dietetic" xml:id="bei-blattern">bei Blattern</object>
+			<object type="dietetic" xml:id="bei-husten">bei Husten</object>
+			<object type="dietetic" xml:id="bei-menstruationsbeschwerden">bei Menstruationsbeschwerden</object>
+			<object type="dietetic" xml:id="bei-wassersucht">bei Wassersucht</object>
+			<object type="dietetic" xml:id="leber">Leber</object>
+			<object type="dietetic" xml:id="milz">Milz</object>
+			<object type="dietetic" xml:id="nieren">Nieren</object>
                 </listObject>
             </div>
         <div type="recipe">

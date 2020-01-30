@@ -151,12 +151,12 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="forelle">Forelle</object>
-			<object type="Zutaten" xml:id="kren">Kren (Meerrettich)</object>
-			<object type="Zutaten" xml:id="mandeln-gerieben">Mandeln (gerieben)</object>
-			<object type="Zutaten" xml:id="sahne">Rahm (Sahne)</object>
-			<object type="Zutaten" xml:id="saibling">Saibling</object>
-			<object type="Zutaten" xml:id="semmelbroesel">Semmelbrösel</object>
+			<object type="ingredient" xml:id="forelle">Forelle</object>
+			<object type="ingredient" xml:id="kren">Kren (Meerrettich)</object>
+			<object type="ingredient" xml:id="mandeln-gerieben">Mandeln (gerieben)</object>
+			<object type="ingredient" xml:id="sahne">Rahm (Sahne)</object>
+			<object type="ingredient" xml:id="saibling">Saibling</object>
+			<object type="ingredient" xml:id="semmelbroesel">Semmelbrösel</object>
                  </listObject>
             </div>
              <div type="utensil">

@@ -151,12 +151,12 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="agrest">Agrest (unreife Trauben)</object>
-			<object type="Zutaten" xml:id="agrestkerne">Agrestkerne</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="rindsuppe">Rindsuppe</object>
-			<object type="Zutaten" xml:id="singvoegel">Singvögel</object>
-			<object type="Zutaten" xml:id="weissbrot-brot">Weißbrot</object>
+			<object type="ingredient" xml:id="agrest">Agrest (unreife Trauben)</object>
+			<object type="ingredient" xml:id="agrestkerne">Agrestkerne</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="rindsuppe">Rindsuppe</object>
+			<object type="ingredient" xml:id="singvoegel">Singvögel</object>
+			<object type="ingredient" xml:id="weissbrot-brot">Weißbrot</object>
                  </listObject>
             </div>
              <div type="utensil">

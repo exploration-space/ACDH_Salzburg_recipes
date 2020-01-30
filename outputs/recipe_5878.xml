@@ -151,17 +151,17 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="fasan-wildgefluegel">Fasan</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="rinderfett">Rinderfett</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
-			<object type="Zutaten" xml:id="weissbrot-gebaeht-weissbrot-brot">Weißbrot (gebäht)</object>
+			<object type="ingredient" xml:id="fasan-wildgefluegel">Fasan</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="rinderfett">Rinderfett</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="weissbrot-gebaeht-weissbrot-brot">Weißbrot (gebäht)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="messerruecken">Messerrücken</object>
+			<object type="utensil" xml:id="messerruecken">Messerrücken</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gans">Gans</object>
-			<object type="Zutaten" xml:id="kren">Kren (Meerrettich)</object>
-			<object type="Zutaten" xml:id="sauce">Sauce</object>
+			<object type="ingredient" xml:id="gans">Gans</object>
+			<object type="ingredient" xml:id="kren">Kren (Meerrettich)</object>
+			<object type="ingredient" xml:id="sauce">Sauce</object>
                  </listObject>
             </div>
              <div type="utensil">

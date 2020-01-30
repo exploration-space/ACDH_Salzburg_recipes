@@ -151,16 +151,16 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="amarellen-sauerkirschen">Amarellen (Sauerkirschen)</object>
-			<object type="Zutaten" xml:id="eierbrot">Eierbrot</object>
-			<object type="Zutaten" xml:id="trisenet">Trisenet</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="amarellen-sauerkirschen">Amarellen (Sauerkirschen)</object>
+			<object type="ingredient" xml:id="eierbrot">Eierbrot</object>
+			<object type="ingredient" xml:id="trisenet">Trisenet</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="stollhafen">Stollhafen</object>
+			<object type="utensil" xml:id="stollhafen">Stollhafen</object>
                 </listObject>
             </div>
             <div type="dietetic">

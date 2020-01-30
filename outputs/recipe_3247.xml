@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="kapernsauce">Kapernsauce</object>
-			<object type="Zutaten" xml:id="orangensauce">Orangensauce</object>
-			<object type="Zutaten" xml:id="rehruecken">Rehrücken</object>
-			<object type="Zutaten" xml:id="sardellensauce">Sardellensauce</object>
-			<object type="Zutaten" xml:id="zitronensauce">Zitronensauce</object>
+			<object type="ingredient" xml:id="kapernsauce">Kapernsauce</object>
+			<object type="ingredient" xml:id="orangensauce">Orangensauce</object>
+			<object type="ingredient" xml:id="rehruecken">Rehrücken</object>
+			<object type="ingredient" xml:id="sardellensauce">Sardellensauce</object>
+			<object type="ingredient" xml:id="zitronensauce">Zitronensauce</object>
                  </listObject>
             </div>
              <div type="utensil">

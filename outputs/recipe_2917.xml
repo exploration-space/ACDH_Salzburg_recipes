@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="backteig">Backteig</object>
-			<object type="Zutaten" xml:id="karfiol-blumenkohl">Karfiol (Blumenkohl)</object>
-			<object type="Zutaten" xml:id="sauce-braun">Sauce (braun)</object>
-			<object type="Zutaten" xml:id="sauce-weiss">Sauce (weiß)</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="backteig">Backteig</object>
+			<object type="ingredient" xml:id="karfiol-blumenkohl">Karfiol (Blumenkohl)</object>
+			<object type="ingredient" xml:id="sauce-braun">Sauce (braun)</object>
+			<object type="ingredient" xml:id="sauce-weiss">Sauce (weiß)</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
                  </listObject>
             </div>
              <div type="utensil">

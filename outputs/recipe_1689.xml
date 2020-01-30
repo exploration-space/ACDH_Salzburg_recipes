@@ -155,20 +155,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eiklar">Eiklar (Eiweiß)</object>
-			<object type="Zutaten" xml:id="staerke">Stärke</object>
-			<object type="Zutaten" xml:id="weizenmehl">Weizenmehl</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="eiklar">Eiklar (Eiweiß)</object>
+			<object type="ingredient" xml:id="staerke">Stärke</object>
+			<object type="ingredient" xml:id="weizenmehl">Weizenmehl</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="becken">Becken</object>
-			<object type="MaterielleKultur" xml:id="gewichte">Gewichte</object>
-			<object type="MaterielleKultur" xml:id="holz">Holz</object>
-			<object type="MaterielleKultur" xml:id="messer">Messer</object>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
-			<object type="MaterielleKultur" xml:id="papier">Papier</object>
+			<object type="utensil" xml:id="becken">Becken</object>
+			<object type="utensil" xml:id="gewichte">Gewichte</object>
+			<object type="utensil" xml:id="holz">Holz</object>
+			<object type="utensil" xml:id="messer">Messer</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="papier">Papier</object>
                 </listObject>
             </div>
             <div type="dietetic">

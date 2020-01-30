@@ -151,18 +151,18 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="griess">Grieß</object>
-			<object type="Zutaten" xml:id="milch">Milch</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="trisenet">Trisenet</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="griess">Grieß</object>
+			<object type="ingredient" xml:id="milch">Milch</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="trisenet">Trisenet</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="haartuch">Haartuch</object>
-			<object type="MaterielleKultur" xml:id="hafendeckel">Hafendeckel</object>
+			<object type="utensil" xml:id="haartuch">Haartuch</object>
+			<object type="utensil" xml:id="hafendeckel">Hafendeckel</object>
                 </listObject>
             </div>
             <div type="dietetic">

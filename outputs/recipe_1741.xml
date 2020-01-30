@@ -153,17 +153,17 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="ingwer">Ingwer</object>
-			<object type="Zutaten" xml:id="nelken">Nelken</object>
-			<object type="Zutaten" xml:id="rebhuhn">Rebhuhn</object>
-			<object type="Zutaten" xml:id="reinfal-suesswein">Reinfal</object>
-			<object type="Zutaten" xml:id="weidbacher-wein">Weidbacher (Wein)</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="ingwer">Ingwer</object>
+			<object type="ingredient" xml:id="nelken">Nelken</object>
+			<object type="ingredient" xml:id="rebhuhn">Rebhuhn</object>
+			<object type="ingredient" xml:id="reinfal-suesswein">Reinfal</object>
+			<object type="ingredient" xml:id="weidbacher-wein">Weidbacher (Wein)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="eichenfass">Eichenfass</object>
+			<object type="utensil" xml:id="eichenfass">Eichenfass</object>
                 </listObject>
             </div>
             <div type="dietetic">

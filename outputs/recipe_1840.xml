@@ -152,16 +152,16 @@ Willst du eine gute Wurst aus Rebhühnern machen, dann nimm Rebhuhn- und Schwein
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="darm">Darm</object>
-			<object type="Zutaten" xml:id="ingwer">Ingwer</object>
-			<object type="Zutaten" xml:id="kuemmel">Kümmel</object>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="muskat">Muskat</object>
-			<object type="Zutaten" xml:id="rebhuhn">Rebhuhn</object>
-			<object type="Zutaten" xml:id="schweinefleisch">Schweinefleisch</object>
-			<object type="Zutaten" xml:id="schweineschmalz">Schweineschmalz</object>
-			<object type="Zutaten" xml:id="speck-gruen">Speck (grün)</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="darm">Darm</object>
+			<object type="ingredient" xml:id="ingwer">Ingwer</object>
+			<object type="ingredient" xml:id="kuemmel">Kümmel</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="muskat">Muskat</object>
+			<object type="ingredient" xml:id="rebhuhn">Rebhuhn</object>
+			<object type="ingredient" xml:id="schweinefleisch">Schweinefleisch</object>
+			<object type="ingredient" xml:id="schweineschmalz">Schweineschmalz</object>
+			<object type="ingredient" xml:id="speck-gruen">Speck (grün)</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
                  </listObject>
             </div>
              <div type="utensil">

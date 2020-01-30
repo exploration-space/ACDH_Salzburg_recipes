@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="oblaten">Oblaten</object>
-			<object type="Zutaten" xml:id="rosenwasser">Rosenwasser</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="oblaten">Oblaten</object>
+			<object type="ingredient" xml:id="rosenwasser">Rosenwasser</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="blech-rund">Blech (rund)</object>
-			<object type="MaterielleKultur" xml:id="glut">Glut</object>
-			<object type="MaterielleKultur" xml:id="holzschaeufelein">Holzschäufelein</object>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
-			<object type="MaterielleKultur" xml:id="pfund">Pfund</object>
-			<object type="MaterielleKultur" xml:id="reibstein">Reibstein</object>
-			<object type="MaterielleKultur" xml:id="schaelchen">Schälchen</object>
-			<object type="MaterielleKultur" xml:id="tortenpfanne-aus-kupfer">Tortenpfanne (aus Kupfer)</object>
+			<object type="utensil" xml:id="blech-rund">Blech (rund)</object>
+			<object type="utensil" xml:id="glut">Glut</object>
+			<object type="utensil" xml:id="holzschaeufelein">Holzschäufelein</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="pfund">Pfund</object>
+			<object type="utensil" xml:id="reibstein">Reibstein</object>
+			<object type="utensil" xml:id="schaelchen">Schälchen</object>
+			<object type="utensil" xml:id="tortenpfanne-aus-kupfer">Tortenpfanne (aus Kupfer)</object>
                 </listObject>
             </div>
             <div type="dietetic">

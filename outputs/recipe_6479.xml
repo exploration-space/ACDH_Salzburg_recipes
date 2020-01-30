@@ -151,14 +151,14 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="marzipan">Marzipan</object>
-			<object type="Zutaten" xml:id="oblaten">Oblaten</object>
+			<object type="ingredient" xml:id="marzipan">Marzipan</object>
+			<object type="ingredient" xml:id="oblaten">Oblaten</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
-			<object type="MaterielleKultur" xml:id="papier">Papier</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="papier">Papier</object>
                 </listObject>
             </div>
             <div type="dietetic">

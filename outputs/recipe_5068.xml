@@ -151,18 +151,18 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="ochsenfleisch">Ochsenfleisch</object>
-			<object type="Zutaten" xml:id="ochsenzunge">Ochsenzunge</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="schweinefleisch">Schweinefleisch</object>
+			<object type="ingredient" xml:id="ochsenfleisch">Ochsenfleisch</object>
+			<object type="ingredient" xml:id="ochsenzunge">Ochsenzunge</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="schweinefleisch">Schweinefleisch</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="moerser">Mörser</object>
-			<object type="MaterielleKultur" xml:id="rauch">Rauch</object>
-			<object type="MaterielleKultur" xml:id="schornstein">Schornstein</object>
+			<object type="utensil" xml:id="moerser">Mörser</object>
+			<object type="utensil" xml:id="rauch">Rauch</object>
+			<object type="utensil" xml:id="schornstein">Schornstein</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -151,13 +151,13 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="kalbseuter">Kalbseuter</object>
-			<object type="Zutaten" xml:id="kraeuter">Kräuter</object>
-			<object type="Zutaten" xml:id="petersilienkraut">Petersilienkraut</object>
-			<object type="Zutaten" xml:id="salbei">Salbei</object>
-			<object type="Zutaten" xml:id="salbeiteig">Salbeiteig</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
-			<object type="Zutaten" xml:id="taube">Taube</object>
+			<object type="ingredient" xml:id="kalbseuter">Kalbseuter</object>
+			<object type="ingredient" xml:id="kraeuter">Kräuter</object>
+			<object type="ingredient" xml:id="petersilienkraut">Petersilienkraut</object>
+			<object type="ingredient" xml:id="salbei">Salbei</object>
+			<object type="ingredient" xml:id="salbeiteig">Salbeiteig</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="taube">Taube</object>
                  </listObject>
             </div>
              <div type="utensil">

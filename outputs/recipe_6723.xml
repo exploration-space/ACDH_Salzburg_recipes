@@ -151,7 +151,7 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="polch-fisch">Polch (Fisch)</object>
+			<object type="ingredient" xml:id="polch-fisch">Polch (Fisch)</object>
                  </listObject>
             </div>
              <div type="utensil">

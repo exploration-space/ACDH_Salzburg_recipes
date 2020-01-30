@@ -151,24 +151,24 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gerste">Gerste</object>
-			<object type="Zutaten" xml:id="huehnerbruehe">Hühnerbrühe</object>
-			<object type="Zutaten" xml:id="huehnerbrust">Hühnerbrust</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="gerste">Gerste</object>
+			<object type="ingredient" xml:id="huehnerbruehe">Hühnerbrühe</object>
+			<object type="ingredient" xml:id="huehnerbrust">Hühnerbrust</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="durchschlag">Durchschlag</object>
-			<object type="MaterielleKultur" xml:id="feldkessel-verzinnt">Feldkessel (verzinnt)</object>
-			<object type="MaterielleKultur" xml:id="hafen-topf">Topf (Hafen)</object>
+			<object type="utensil" xml:id="durchschlag">Durchschlag</object>
+			<object type="utensil" xml:id="feldkessel-verzinnt">Feldkessel (verzinnt)</object>
+			<object type="utensil" xml:id="hafen-topf">Topf (Hafen)</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="fuer-die-kranken">für die Kranken</object>
-			<object type="Diaetetik" xml:id="fuer-gesunde">für Gesunde</object>
+			<object type="dietetic" xml:id="fuer-die-kranken">für die Kranken</object>
+			<object type="dietetic" xml:id="fuer-gesunde">für Gesunde</object>
                 </listObject>
             </div>
         <div type="recipe">

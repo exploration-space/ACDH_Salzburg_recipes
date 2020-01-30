@@ -151,14 +151,14 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="dotter">Dotter (Eigelb)</object>
-			<object type="Zutaten" xml:id="kandiszucker">Kandiszucker</object>
-			<object type="Zutaten" xml:id="roggenbrot-brot">Roggenbrot</object>
-			<object type="Zutaten" xml:id="weissbier">Weißbier</object>
-			<object type="Zutaten" xml:id="weissbrot-brot">Weißbrot</object>
-			<object type="Zutaten" xml:id="weizenbrot">Weizenbrot</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="dotter">Dotter (Eigelb)</object>
+			<object type="ingredient" xml:id="kandiszucker">Kandiszucker</object>
+			<object type="ingredient" xml:id="roggenbrot-brot">Roggenbrot</object>
+			<object type="ingredient" xml:id="weissbier">Weißbier</object>
+			<object type="ingredient" xml:id="weissbrot-brot">Weißbrot</object>
+			<object type="ingredient" xml:id="weizenbrot">Weizenbrot</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
@@ -168,7 +168,7 @@
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-husten">bei Husten</object>
+			<object type="dietetic" xml:id="bei-husten">bei Husten</object>
                 </listObject>
             </div>
         <div type="recipe">

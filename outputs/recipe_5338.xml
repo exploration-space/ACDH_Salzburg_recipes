@@ -151,8 +151,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="indianisches-schwein">Indianisches Schwein</object>
-			<object type="Zutaten" xml:id="kohl">Kohl</object>
+			<object type="ingredient" xml:id="indianisches-schwein">Indianisches Schwein</object>
+			<object type="ingredient" xml:id="kohl">Kohl</object>
                  </listObject>
             </div>
              <div type="utensil">

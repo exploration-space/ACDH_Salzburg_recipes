@@ -151,7 +151,7 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="aesche-fisch">Äsche (Fisch)</object>
+			<object type="ingredient" xml:id="aesche-fisch">Äsche (Fisch)</object>
                  </listObject>
             </div>
              <div type="utensil">

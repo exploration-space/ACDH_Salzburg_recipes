@@ -152,14 +152,14 @@ Nimm Berberitzen und ein wenig geriebenen Lebkuchen und reibe alles gemeinsam mi
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="berberitzen">Berberitzen (Sauerdorn)</object>
-			<object type="Zutaten" xml:id="lebzelten">Lebzelten</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="berberitzen">Berberitzen (Sauerdorn)</object>
+			<object type="ingredient" xml:id="lebzelten">Lebzelten</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

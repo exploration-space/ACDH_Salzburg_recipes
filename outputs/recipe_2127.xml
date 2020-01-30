@@ -151,20 +151,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="fisch">Fisch</object>
-			<object type="Zutaten" xml:id="suelze">Sülze</object>
-			<object type="Zutaten" xml:id="wachs">Wachs</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zimtstange">Zimtstange</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="fisch">Fisch</object>
+			<object type="ingredient" xml:id="suelze">Sülze</object>
+			<object type="ingredient" xml:id="wachs">Wachs</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zimtstange">Zimtstange</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="dressiersack">Dressiersack</object>
-			<object type="MaterielleKultur" xml:id="faden">Faden</object>
-			<object type="MaterielleKultur" xml:id="schachtel">Schachtel</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="dressiersack">Dressiersack</object>
+			<object type="utensil" xml:id="faden">Faden</object>
+			<object type="utensil" xml:id="schachtel">Schachtel</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="meersalz">Meersalz</object>
-			<object type="Zutaten" xml:id="salpeter">Salpeter</object>
-			<object type="Zutaten" xml:id="zunge">Zunge</object>
+			<object type="ingredient" xml:id="meersalz">Meersalz</object>
+			<object type="ingredient" xml:id="salpeter">Salpeter</object>
+			<object type="ingredient" xml:id="zunge">Zunge</object>
                  </listObject>
             </div>
              <div type="utensil">

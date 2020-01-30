@@ -151,26 +151,26 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eiklar">Eiklar (Eiweiß)</object>
-			<object type="Zutaten" xml:id="honig">Honig</object>
-			<object type="Zutaten" xml:id="preiselbeeren">Preiselbeeren</object>
-			<object type="Zutaten" xml:id="zuckersirup">Zuckersirup</object>
+			<object type="ingredient" xml:id="eiklar">Eiklar (Eiweiß)</object>
+			<object type="ingredient" xml:id="honig">Honig</object>
+			<object type="ingredient" xml:id="preiselbeeren">Preiselbeeren</object>
+			<object type="ingredient" xml:id="zuckersirup">Zuckersirup</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="dreifuss">Dreifuß</object>
-			<object type="MaterielleKultur" xml:id="kochloeffel">Kochlöffel</object>
-			<object type="MaterielleKultur" xml:id="messingbecken">Messingbecken</object>
-			<object type="MaterielleKultur" xml:id="moerser">Mörser</object>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
-			<object type="MaterielleKultur" xml:id="zinnschuessel">Zinnschüssel</object>
+			<object type="utensil" xml:id="dreifuss">Dreifuß</object>
+			<object type="utensil" xml:id="kochloeffel">Kochlöffel</object>
+			<object type="utensil" xml:id="messingbecken">Messingbecken</object>
+			<object type="utensil" xml:id="moerser">Mörser</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="zinnschuessel">Zinnschüssel</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-fieber">bei Fieber</object>
-			<object type="Diaetetik" xml:id="bei-pest">bei Pest</object>
+			<object type="dietetic" xml:id="bei-fieber">bei Fieber</object>
+			<object type="dietetic" xml:id="bei-pest">bei Pest</object>
                 </listObject>
             </div>
         <div type="recipe">

@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="birkhuhn-wildgefluegel">Birkhuhn</object>
-			<object type="Zutaten" xml:id="birkhuhnleber">Birkhuhnleber</object>
-			<object type="Zutaten" xml:id="rosinen-schwarz">Rosinen (schwarz)</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="weissbrot-gebaeht-weissbrot-brot">Weißbrot (gebäht)</object>
+			<object type="ingredient" xml:id="birkhuhn-wildgefluegel">Birkhuhn</object>
+			<object type="ingredient" xml:id="birkhuhnleber">Birkhuhnleber</object>
+			<object type="ingredient" xml:id="rosinen-schwarz">Rosinen (schwarz)</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="weissbrot-gebaeht-weissbrot-brot">Weißbrot (gebäht)</object>
                  </listObject>
             </div>
              <div type="utensil">

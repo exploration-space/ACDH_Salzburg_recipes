@@ -152,11 +152,11 @@ Damit lassen wir es gut sein, von fremdartigen Gerichten hatten wir zwei, aber a
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="hecht">Hecht</object>
-			<object type="Zutaten" xml:id="hechtblut">Hechtblut</object>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="nelken">Nelken</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="hecht">Hecht</object>
+			<object type="ingredient" xml:id="hechtblut">Hechtblut</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="nelken">Nelken</object>
                  </listObject>
             </div>
              <div type="utensil">

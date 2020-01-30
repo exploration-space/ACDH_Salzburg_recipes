@@ -151,19 +151,19 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="agrest">Agrest (unreife Trauben)</object>
-			<object type="Zutaten" xml:id="faschiertes">Faschiertes</object>
-			<object type="Zutaten" xml:id="maulbeersaft">Maulbeersaft</object>
-			<object type="Zutaten" xml:id="rehbrust">Rehbrust</object>
-			<object type="Zutaten" xml:id="sardellen-2">Sardellen</object>
-			<object type="Zutaten" xml:id="sauerdornsaft">Sauerdornsaft</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="weichselsaft">Weichselsaft</object>
+			<object type="ingredient" xml:id="agrest">Agrest (unreife Trauben)</object>
+			<object type="ingredient" xml:id="faschiertes">Faschiertes</object>
+			<object type="ingredient" xml:id="maulbeersaft">Maulbeersaft</object>
+			<object type="ingredient" xml:id="rehbrust">Rehbrust</object>
+			<object type="ingredient" xml:id="sardellen-2">Sardellen</object>
+			<object type="ingredient" xml:id="sauerdornsaft">Sauerdornsaft</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="weichselsaft">Weichselsaft</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="rost">Rost</object>
+			<object type="utensil" xml:id="rost">Rost</object>
                 </listObject>
             </div>
             <div type="dietetic">

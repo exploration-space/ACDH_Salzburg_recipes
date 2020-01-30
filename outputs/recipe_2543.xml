@@ -157,20 +157,20 @@ Bleivergiftungen durch Wasserleitungen und Gefäße aus Blei (auch für Wein, Es
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="olivenoel">Olivenöl</object>
-			<object type="Zutaten" xml:id="veilchen">Veilchen</object>
-			<object type="Zutaten" xml:id="weinessig">Weinessig</object>
+			<object type="ingredient" xml:id="olivenoel">Olivenöl</object>
+			<object type="ingredient" xml:id="veilchen">Veilchen</object>
+			<object type="ingredient" xml:id="weinessig">Weinessig</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="essloeffel">Esslöffel</object>
-			<object type="MaterielleKultur" xml:id="geschirr">Geschirr</object>
-			<object type="MaterielleKultur" xml:id="glas">Glas</object>
-			<object type="MaterielleKultur" xml:id="loeffel">Löffel</object>
-			<object type="MaterielleKultur" xml:id="schale">Schale</object>
-			<object type="MaterielleKultur" xml:id="zinnflasche">Zinnflasche</object>
-			<object type="MaterielleKultur" xml:id="zinnteller">Zinnteller</object>
+			<object type="utensil" xml:id="essloeffel">Esslöffel</object>
+			<object type="utensil" xml:id="geschirr">Geschirr</object>
+			<object type="utensil" xml:id="glas">Glas</object>
+			<object type="utensil" xml:id="loeffel">Löffel</object>
+			<object type="utensil" xml:id="schale">Schale</object>
+			<object type="utensil" xml:id="zinnflasche">Zinnflasche</object>
+			<object type="utensil" xml:id="zinnteller">Zinnteller</object>
                 </listObject>
             </div>
             <div type="dietetic">

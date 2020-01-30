@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="kraut">Kraut</object>
-			<object type="Zutaten" xml:id="rueben">Rüben</object>
-			<object type="Zutaten" xml:id="schweinsfuesse">Schweinsfüße</object>
-			<object type="Zutaten" xml:id="schweinsohren">Schweinsohren</object>
-			<object type="Zutaten" xml:id="schweinsruecken">Schweinsrücken</object>
+			<object type="ingredient" xml:id="kraut">Kraut</object>
+			<object type="ingredient" xml:id="rueben">Rüben</object>
+			<object type="ingredient" xml:id="schweinsfuesse">Schweinsfüße</object>
+			<object type="ingredient" xml:id="schweinsohren">Schweinsohren</object>
+			<object type="ingredient" xml:id="schweinsruecken">Schweinsrücken</object>
                  </listObject>
             </div>
              <div type="utensil">

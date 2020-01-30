@@ -151,21 +151,21 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="agrest">Agrest (unreife Trauben)</object>
-			<object type="Zutaten" xml:id="austern">Austern</object>
-			<object type="Zutaten" xml:id="bruehe">Brühe</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="kartoffeln">Kartoffeln</object>
-			<object type="Zutaten" xml:id="kitz-jungtier-von-ziegen">Kitz (Jungtier von Ziegen)</object>
-			<object type="Zutaten" xml:id="krebse">Krebse</object>
-			<object type="Zutaten" xml:id="lammfleisch">Lammfleisch</object>
-			<object type="Zutaten" xml:id="muscheln">Muscheln</object>
-			<object type="Zutaten" xml:id="pilze">Pilze</object>
-			<object type="Zutaten" xml:id="stachelbeeren">Stachelbeeren</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="weintrauben">Weintrauben</object>
-			<object type="Zutaten" xml:id="weisses-mehl">weißes Mehl</object>
+			<object type="ingredient" xml:id="agrest">Agrest (unreife Trauben)</object>
+			<object type="ingredient" xml:id="austern">Austern</object>
+			<object type="ingredient" xml:id="bruehe">Brühe</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="kartoffeln">Kartoffeln</object>
+			<object type="ingredient" xml:id="kitz-jungtier-von-ziegen">Kitz (Jungtier von Ziegen)</object>
+			<object type="ingredient" xml:id="krebse">Krebse</object>
+			<object type="ingredient" xml:id="lammfleisch">Lammfleisch</object>
+			<object type="ingredient" xml:id="muscheln">Muscheln</object>
+			<object type="ingredient" xml:id="pilze">Pilze</object>
+			<object type="ingredient" xml:id="stachelbeeren">Stachelbeeren</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="weintrauben">Weintrauben</object>
+			<object type="ingredient" xml:id="weisses-mehl">weißes Mehl</object>
                  </listObject>
             </div>
              <div type="utensil">

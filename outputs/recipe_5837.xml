@@ -151,20 +151,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="weisswein">Weißwein</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="weisswein">Weißwein</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="kasserolle">Kasserolle</object>
-			<object type="MaterielleKultur" xml:id="kohlenfeuer">Kohlenfeuer</object>
-			<object type="MaterielleKultur" xml:id="kupferpfanne-verzinnt">Kupferpfanne (verzinnt)</object>
-			<object type="MaterielleKultur" xml:id="messingpfanne">Messingpfanne</object>
-			<object type="MaterielleKultur" xml:id="rein-glasiert">Rein (glasiert)</object>
-			<object type="MaterielleKultur" xml:id="schaumloeffel">Schaumlöffel</object>
-			<object type="MaterielleKultur" xml:id="straubenloeffel">Straubenlöffel</object>
+			<object type="utensil" xml:id="kasserolle">Kasserolle</object>
+			<object type="utensil" xml:id="kohlenfeuer">Kohlenfeuer</object>
+			<object type="utensil" xml:id="kupferpfanne-verzinnt">Kupferpfanne (verzinnt)</object>
+			<object type="utensil" xml:id="messingpfanne">Messingpfanne</object>
+			<object type="utensil" xml:id="rein-glasiert">Rein (glasiert)</object>
+			<object type="utensil" xml:id="schaumloeffel">Schaumlöffel</object>
+			<object type="utensil" xml:id="straubenloeffel">Straubenlöffel</object>
                 </listObject>
             </div>
             <div type="dietetic">

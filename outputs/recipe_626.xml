@@ -151,25 +151,25 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="sauerampfer">Sauerampfer</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="sauerampfer">Sauerampfer</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="glas">Glas</object>
-			<object type="MaterielleKultur" xml:id="keramikgeschirr">Keramikgeschirr</object>
-			<object type="MaterielleKultur" xml:id="moerser">Mörser</object>
-			<object type="MaterielleKultur" xml:id="pfanne">Pfanne</object>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="glas">Glas</object>
+			<object type="utensil" xml:id="keramikgeschirr">Keramikgeschirr</object>
+			<object type="utensil" xml:id="moerser">Mörser</object>
+			<object type="utensil" xml:id="pfanne">Pfanne</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-fieber">bei Fieber</object>
-			<object type="Diaetetik" xml:id="leber">Leber</object>
-			<object type="Diaetetik" xml:id="magen">Magen</object>
+			<object type="dietetic" xml:id="bei-fieber">bei Fieber</object>
+			<object type="dietetic" xml:id="leber">Leber</object>
+			<object type="dietetic" xml:id="magen">Magen</object>
                 </listObject>
             </div>
         <div type="recipe">

@@ -151,21 +151,21 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="amber">Amber</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="nelken">Nelken</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="schweinebraet">Schweinebrät</object>
-			<object type="Zutaten" xml:id="schweinedarm">Schweinedarm</object>
-			<object type="Zutaten" xml:id="schweinefleisch">Schweinefleisch</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="amber">Amber</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="nelken">Nelken</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="schweinebraet">Schweinebrät</object>
+			<object type="ingredient" xml:id="schweinedarm">Schweinedarm</object>
+			<object type="ingredient" xml:id="schweinefleisch">Schweinefleisch</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="wanne">Wanne</object>
+			<object type="utensil" xml:id="wanne">Wanne</object>
                 </listObject>
             </div>
             <div type="dietetic">

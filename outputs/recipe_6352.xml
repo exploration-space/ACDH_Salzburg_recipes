@@ -154,8 +154,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="bier">Bier</object>
-			<object type="Zutaten" xml:id="kienspaene">Kienspäne</object>
+			<object type="ingredient" xml:id="bier">Bier</object>
+			<object type="ingredient" xml:id="kienspaene">Kienspäne</object>
                  </listObject>
             </div>
              <div type="utensil">

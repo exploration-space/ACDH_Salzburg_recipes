@@ -151,19 +151,19 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="kandiszucker">Kandiszucker</object>
-			<object type="Zutaten" xml:id="zitronensaft">Zitronensaft</object>
-			<object type="Zutaten" xml:id="zitronenschalen">Zitronenschalen</object>
+			<object type="ingredient" xml:id="kandiszucker">Kandiszucker</object>
+			<object type="ingredient" xml:id="zitronensaft">Zitronensaft</object>
+			<object type="ingredient" xml:id="zitronenschalen">Zitronenschalen</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="blatt-blech">Blatt (= Blech)</object>
-			<object type="MaterielleKultur" xml:id="feuer">Feuer</object>
-			<object type="MaterielleKultur" xml:id="kohlen">Kohlen</object>
-			<object type="MaterielleKultur" xml:id="kohlenfeuer">Kohlenfeuer</object>
-			<object type="MaterielleKultur" xml:id="marmorstein-platte">Marmorstein (Platte)</object>
-			<object type="MaterielleKultur" xml:id="zinnteller">Zinnteller</object>
+			<object type="utensil" xml:id="blatt-blech">Blatt (= Blech)</object>
+			<object type="utensil" xml:id="feuer">Feuer</object>
+			<object type="utensil" xml:id="kohlen">Kohlen</object>
+			<object type="utensil" xml:id="kohlenfeuer">Kohlenfeuer</object>
+			<object type="utensil" xml:id="marmorstein-platte">Marmorstein (Platte)</object>
+			<object type="utensil" xml:id="zinnteller">Zinnteller</object>
                 </listObject>
             </div>
             <div type="dietetic">

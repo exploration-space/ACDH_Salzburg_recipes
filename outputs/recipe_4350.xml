@@ -151,18 +151,18 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="marille-aprikose">Marille (Aprikose)</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="marille-aprikose">Marille (Aprikose)</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="feuer">Feuer</object>
-			<object type="MaterielleKultur" xml:id="glas">Glas</object>
-			<object type="MaterielleKultur" xml:id="hafendeckel">Hafendeckel</object>
-			<object type="MaterielleKultur" xml:id="kupferkessel">Kupferkessel</object>
-			<object type="MaterielleKultur" xml:id="messingpfanne">Messingpfanne</object>
+			<object type="utensil" xml:id="feuer">Feuer</object>
+			<object type="utensil" xml:id="glas">Glas</object>
+			<object type="utensil" xml:id="hafendeckel">Hafendeckel</object>
+			<object type="utensil" xml:id="kupferkessel">Kupferkessel</object>
+			<object type="utensil" xml:id="messingpfanne">Messingpfanne</object>
                 </listObject>
             </div>
             <div type="dietetic">

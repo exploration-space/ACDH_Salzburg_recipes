@@ -151,19 +151,19 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="fenchelsamen">Fenchelsamen</object>
-			<object type="Zutaten" xml:id="gurken">Gurken</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="salzwasser">Salzwasser</object>
-			<object type="Zutaten" xml:id="weichselblaetter">Weichselblätter</object>
-			<object type="Zutaten" xml:id="weinessig">Weinessig</object>
+			<object type="ingredient" xml:id="fenchelsamen">Fenchelsamen</object>
+			<object type="ingredient" xml:id="gurken">Gurken</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="salzwasser">Salzwasser</object>
+			<object type="ingredient" xml:id="weichselblaetter">Weichselblätter</object>
+			<object type="ingredient" xml:id="weinessig">Weinessig</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="brett">Brett</object>
-			<object type="MaterielleKultur" xml:id="gefaess">Gefäß</object>
-			<object type="MaterielleKultur" xml:id="stein">Stein</object>
+			<object type="utensil" xml:id="brett">Brett</object>
+			<object type="utensil" xml:id="gefaess">Gefäß</object>
+			<object type="utensil" xml:id="stein">Stein</object>
                 </listObject>
             </div>
             <div type="dietetic">

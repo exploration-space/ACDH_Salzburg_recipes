@@ -151,14 +151,14 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="forelle-geraeuchert">Forelle (geräuchert)</object>
-			<object type="Zutaten" xml:id="saibling-geraeuchert">Saibling (geräuchert)</object>
+			<object type="ingredient" xml:id="forelle-geraeuchert">Forelle (geräuchert)</object>
+			<object type="ingredient" xml:id="saibling-geraeuchert">Saibling (geräuchert)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="tafel-tisch">Tafel (Tisch)</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="tafel-tisch">Tafel (Tisch)</object>
                 </listObject>
             </div>
             <div type="dietetic">

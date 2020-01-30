@@ -151,21 +151,21 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="quitten">Quitten</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zitronen">Zitronen</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="quitten">Quitten</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zitronen">Zitronen</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="blech-aus-zinn">Blech (aus Zinn)</object>
-			<object type="MaterielleKultur" xml:id="blechmodel-ohne-boden">Blechmodel (ohne Boden)</object>
-			<object type="MaterielleKultur" xml:id="glasschale">Glasschale</object>
-			<object type="MaterielleKultur" xml:id="marmorstein-platte">Marmorstein (Platte)</object>
-			<object type="MaterielleKultur" xml:id="messingbecken-becken">Messingbecken</object>
-			<object type="MaterielleKultur" xml:id="schachtel">Schachtel</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="blech-aus-zinn">Blech (aus Zinn)</object>
+			<object type="utensil" xml:id="blechmodel-ohne-boden">Blechmodel (ohne Boden)</object>
+			<object type="utensil" xml:id="glasschale">Glasschale</object>
+			<object type="utensil" xml:id="marmorstein-platte">Marmorstein (Platte)</object>
+			<object type="utensil" xml:id="messingbecken-becken">Messingbecken</object>
+			<object type="utensil" xml:id="schachtel">Schachtel</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -152,15 +152,15 @@ Willst du einen (falschen) Wildbraten machen, dann nimm mageres Rindfleisch und 
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="brot">Brot</object>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="kalbsblut">Kalbsblut</object>
-			<object type="Zutaten" xml:id="pfeffersauce">Pfeffersauce</object>
-			<object type="Zutaten" xml:id="rindfleisch">Rindfleisch</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="brot">Brot</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="fleischbruehe">Fleischbrühe</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="kalbsblut">Kalbsblut</object>
+			<object type="ingredient" xml:id="pfeffersauce">Pfeffersauce</object>
+			<object type="ingredient" xml:id="rindfleisch">Rindfleisch</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
                  </listObject>
             </div>
              <div type="utensil">

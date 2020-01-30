@@ -151,26 +151,26 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eiklar">Eiklar (Eiweiß)</object>
-			<object type="Zutaten" xml:id="faerbesaft">Färbesaft</object>
-			<object type="Zutaten" xml:id="hirschhornpulver">Hirschhornpulver</object>
-			<object type="Zutaten" xml:id="lackmus">Lackmus</object>
-			<object type="Zutaten" xml:id="muschelfarbe">Muschelfarbe</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="weisswein">Weißwein</object>
-			<object type="Zutaten" xml:id="zimtessenz">Zimtessenz</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="eiklar">Eiklar (Eiweiß)</object>
+			<object type="ingredient" xml:id="faerbesaft">Färbesaft</object>
+			<object type="ingredient" xml:id="hirschhornpulver">Hirschhornpulver</object>
+			<object type="ingredient" xml:id="lackmus">Lackmus</object>
+			<object type="ingredient" xml:id="muschelfarbe">Muschelfarbe</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="weisswein">Weißwein</object>
+			<object type="ingredient" xml:id="zimtessenz">Zimtessenz</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="kasserolle">Kasserolle</object>
-			<object type="MaterielleKultur" xml:id="pfanne-verzinnt">Pfanne (verzinnt)</object>
-			<object type="MaterielleKultur" xml:id="schale">Schale</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="hafen-topf">Topf (Hafen)</object>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
-			<object type="MaterielleKultur" xml:id="windofen">Windofen</object>
+			<object type="utensil" xml:id="kasserolle">Kasserolle</object>
+			<object type="utensil" xml:id="pfanne-verzinnt">Pfanne (verzinnt)</object>
+			<object type="utensil" xml:id="schale">Schale</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="hafen-topf">Topf (Hafen)</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="windofen">Windofen</object>
                 </listObject>
             </div>
             <div type="dietetic">

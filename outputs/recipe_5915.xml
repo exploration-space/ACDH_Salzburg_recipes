@@ -151,27 +151,27 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="essig">Essig</object>
-			<object type="Zutaten" xml:id="gans">Gans</object>
-			<object type="Zutaten" xml:id="lunge">Lunge</object>
-			<object type="Zutaten" xml:id="magen">Magen</object>
-			<object type="Zutaten" xml:id="niere">Niere</object>
-			<object type="Zutaten" xml:id="ochsennieren">Ochsennieren</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="rag">Rag</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="saure-bruehe">saure Brühe</object>
-			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
+			<object type="ingredient" xml:id="essig">Essig</object>
+			<object type="ingredient" xml:id="gans">Gans</object>
+			<object type="ingredient" xml:id="lunge">Lunge</object>
+			<object type="ingredient" xml:id="magen">Magen</object>
+			<object type="ingredient" xml:id="niere">Niere</object>
+			<object type="ingredient" xml:id="ochsennieren">Ochsennieren</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="rag">Rag</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="saure-bruehe">saure Brühe</object>
+			<object type="ingredient" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="messer">Messer</object>
+			<object type="utensil" xml:id="messer">Messer</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="fuer-gesunde">für Gesunde</object>
+			<object type="dietetic" xml:id="fuer-gesunde">für Gesunde</object>
                 </listObject>
             </div>
         <div type="recipe">

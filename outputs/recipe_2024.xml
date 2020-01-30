@@ -151,25 +151,25 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="baerlapp">Bärlapp</object>
-			<object type="Zutaten" xml:id="gerstenzucker">Gerstenzucker</object>
-			<object type="Zutaten" xml:id="honig">Honig</object>
-			<object type="Zutaten" xml:id="rosenwasser">Rosenwasser</object>
-			<object type="Zutaten" xml:id="suessholz-lakritze">Süßholz (Lakritze)</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="ysop">Ysop</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="baerlapp">Bärlapp</object>
+			<object type="ingredient" xml:id="gerstenzucker">Gerstenzucker</object>
+			<object type="ingredient" xml:id="honig">Honig</object>
+			<object type="ingredient" xml:id="rosenwasser">Rosenwasser</object>
+			<object type="ingredient" xml:id="suessholz-lakritze">Süßholz (Lakritze)</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="ysop">Ysop</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="moerser">Mörser</object>
+			<object type="utensil" xml:id="moerser">Mörser</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-atemwegserkrankungen">bei Atemwegserkrankungen</object>
-			<object type="Diaetetik" xml:id="brust">Brust</object>
+			<object type="dietetic" xml:id="bei-atemwegserkrankungen">bei Atemwegserkrankungen</object>
+			<object type="dietetic" xml:id="brust">Brust</object>
                 </listObject>
             </div>
         <div type="recipe">

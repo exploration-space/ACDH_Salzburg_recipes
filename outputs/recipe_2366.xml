@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="ingwer">Ingwer</object>
-			<object type="Zutaten" xml:id="senna">Senna</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
-			<object type="Zutaten" xml:id="zwetschke-pflaume">Zwetschken (Pflaumen)</object>
+			<object type="ingredient" xml:id="ingwer">Ingwer</object>
+			<object type="ingredient" xml:id="senna">Senna</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="zwetschke-pflaume">Zwetschken (Pflaumen)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="brett">Brett</object>
-			<object type="MaterielleKultur" xml:id="geschirr">Geschirr</object>
+			<object type="utensil" xml:id="brett">Brett</object>
+			<object type="utensil" xml:id="geschirr">Geschirr</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="abfuehrmittel">Abführmittel</object>
+			<object type="dietetic" xml:id="abfuehrmittel">Abführmittel</object>
                 </listObject>
             </div>
         <div type="recipe">

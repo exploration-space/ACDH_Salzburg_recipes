@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="bratensaft">Bratensaft</object>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="rotwein">Rotwein</object>
-			<object type="Zutaten" xml:id="schalotten">Schalotten</object>
-			<object type="Zutaten" xml:id="wildgefluegel">Wildgeflügel</object>
+			<object type="ingredient" xml:id="bratensaft">Bratensaft</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="rotwein">Rotwein</object>
+			<object type="ingredient" xml:id="schalotten">Schalotten</object>
+			<object type="ingredient" xml:id="wildgefluegel">Wildgeflügel</object>
                  </listObject>
             </div>
              <div type="utensil">

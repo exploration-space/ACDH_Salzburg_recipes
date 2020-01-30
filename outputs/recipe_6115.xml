@@ -153,21 +153,21 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="artischockenboeden">Artischockenböden</object>
-			<object type="Zutaten" xml:id="bries">Bries</object>
-			<object type="Zutaten" xml:id="champignon">Champignon</object>
-			<object type="Zutaten" xml:id="fuellung">Füllung</object>
-			<object type="Zutaten" xml:id="huehnercoulis">Hühnercoulis</object>
-			<object type="Zutaten" xml:id="huehnerkaemme">Hühnerkämme</object>
-			<object type="Zutaten" xml:id="kartoffeln">Kartoffeln</object>
-			<object type="Zutaten" xml:id="limonensaft">Limonensaft</object>
-			<object type="Zutaten" xml:id="rehling">Rehling</object>
+			<object type="ingredient" xml:id="artischockenboeden">Artischockenböden</object>
+			<object type="ingredient" xml:id="bries">Bries</object>
+			<object type="ingredient" xml:id="champignon">Champignon</object>
+			<object type="ingredient" xml:id="fuellung">Füllung</object>
+			<object type="ingredient" xml:id="huehnercoulis">Hühnercoulis</object>
+			<object type="ingredient" xml:id="huehnerkaemme">Hühnerkämme</object>
+			<object type="ingredient" xml:id="kartoffeln">Kartoffeln</object>
+			<object type="ingredient" xml:id="limonensaft">Limonensaft</object>
+			<object type="ingredient" xml:id="rehling">Rehling</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="feuer">Feuer</object>
-			<object type="MaterielleKultur" xml:id="messer">Messer</object>
+			<object type="utensil" xml:id="feuer">Feuer</object>
+			<object type="utensil" xml:id="messer">Messer</object>
                 </listObject>
             </div>
             <div type="dietetic">

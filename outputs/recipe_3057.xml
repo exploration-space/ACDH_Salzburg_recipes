@@ -151,23 +151,23 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eiklar">Eiklar (Eiweiß)</object>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
-			<object type="Zutaten" xml:id="zucker-gefaeht">Zucker (gefäht)</object>
+			<object type="ingredient" xml:id="eiklar">Eiklar (Eiweiß)</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="zucker-gefaeht">Zucker (gefäht)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="blechteller">Blechteller</object>
-			<object type="MaterielleKultur" xml:id="schale">Schale</object>
-			<object type="MaterielleKultur" xml:id="schaumloeffel">Schaumlöffel</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="teller">Teller</object>
-			<object type="MaterielleKultur" xml:id="tortenpfanne">Tortenpfanne</object>
-			<object type="MaterielleKultur" xml:id="tortenschuessel">Tortenschüssel</object>
+			<object type="utensil" xml:id="blechteller">Blechteller</object>
+			<object type="utensil" xml:id="schale">Schale</object>
+			<object type="utensil" xml:id="schaumloeffel">Schaumlöffel</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="teller">Teller</object>
+			<object type="utensil" xml:id="tortenpfanne">Tortenpfanne</object>
+			<object type="utensil" xml:id="tortenschuessel">Tortenschüssel</object>
                 </listObject>
             </div>
             <div type="dietetic">

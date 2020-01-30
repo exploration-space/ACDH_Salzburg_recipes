@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="sauerkraut">Sauerkraut</object>
-			<object type="Zutaten" xml:id="sauerrahm">Sauerrahm</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="sauerkraut">Sauerkraut</object>
+			<object type="ingredient" xml:id="sauerrahm">Sauerrahm</object>
                  </listObject>
             </div>
              <div type="utensil">

@@ -151,27 +151,27 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="honig">Honig</object>
-			<object type="Zutaten" xml:id="kalmus-ackerwurz">Kalmus (Ackerwurz)</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="honig">Honig</object>
+			<object type="ingredient" xml:id="kalmus-ackerwurz">Kalmus (Ackerwurz)</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="haarsieb">Haarsieb</object>
-			<object type="MaterielleKultur" xml:id="messer">Messer</object>
+			<object type="utensil" xml:id="haarsieb">Haarsieb</object>
+			<object type="utensil" xml:id="messer">Messer</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-kater">bei Kater</object>
-			<object type="Diaetetik" xml:id="bei-menstruationsbeschwerden">bei Menstruationsbeschwerden</object>
-			<object type="Diaetetik" xml:id="bei-mundgeruch">bei Mundgeruch</object>
-			<object type="Diaetetik" xml:id="blase">Blase</object>
-			<object type="Diaetetik" xml:id="gegen-den-stein">gegen den Stein</object>
-			<object type="Diaetetik" xml:id="magen">Magen</object>
-			<object type="Diaetetik" xml:id="nieren">Nieren</object>
+			<object type="dietetic" xml:id="bei-kater">bei Kater</object>
+			<object type="dietetic" xml:id="bei-menstruationsbeschwerden">bei Menstruationsbeschwerden</object>
+			<object type="dietetic" xml:id="bei-mundgeruch">bei Mundgeruch</object>
+			<object type="dietetic" xml:id="blase">Blase</object>
+			<object type="dietetic" xml:id="gegen-den-stein">gegen den Stein</object>
+			<object type="dietetic" xml:id="magen">Magen</object>
+			<object type="dietetic" xml:id="nieren">Nieren</object>
                 </listObject>
             </div>
         <div type="recipe">

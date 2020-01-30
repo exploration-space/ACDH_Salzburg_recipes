@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="bierwuerze">Bierwürze</object>
-			<object type="Zutaten" xml:id="germ-hefe">Germ (Hefe)</object>
-			<object type="Zutaten" xml:id="honig">Honig</object>
+			<object type="ingredient" xml:id="bierwuerze">Bierwürze</object>
+			<object type="ingredient" xml:id="germ-hefe">Germ (Hefe)</object>
+			<object type="ingredient" xml:id="honig">Honig</object>
                  </listObject>
             </div>
              <div type="utensil">

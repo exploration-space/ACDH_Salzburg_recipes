@@ -151,16 +151,16 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="milch">Milch</object>
-			<object type="Zutaten" xml:id="safran">Safran</object>
-			<object type="Zutaten" xml:id="spinat">Spinat</object>
-			<object type="Zutaten" xml:id="suelze">Sülze</object>
-			<object type="Zutaten" xml:id="tournesol">Tournesol</object>
+			<object type="ingredient" xml:id="milch">Milch</object>
+			<object type="ingredient" xml:id="safran">Safran</object>
+			<object type="ingredient" xml:id="spinat">Spinat</object>
+			<object type="ingredient" xml:id="suelze">Sülze</object>
+			<object type="ingredient" xml:id="tournesol">Tournesol</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="blechschuessel">Blechschüssel</object>
+			<object type="utensil" xml:id="blechschuessel">Blechschüssel</object>
                 </listObject>
             </div>
             <div type="dietetic">

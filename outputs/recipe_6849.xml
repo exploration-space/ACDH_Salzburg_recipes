@@ -151,8 +151,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="huhn-alt">Huhn (alt)</object>
-			<object type="Zutaten" xml:id="roggenteig">Roggenteig</object>
+			<object type="ingredient" xml:id="huhn-alt">Huhn (alt)</object>
+			<object type="ingredient" xml:id="roggenteig">Roggenteig</object>
                  </listObject>
             </div>
              <div type="utensil">

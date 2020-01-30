@@ -151,18 +151,18 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="bohnen">Bohnen</object>
-			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
-			<object type="Zutaten" xml:id="gans">Gans</object>
-			<object type="Zutaten" xml:id="jus">Jus</object>
-			<object type="Zutaten" xml:id="linsen">Linsen</object>
-			<object type="Zutaten" xml:id="reis">Reis</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="bohnen">Bohnen</object>
+			<object type="ingredient" xml:id="fleischbruehe">Fleischbrühe</object>
+			<object type="ingredient" xml:id="gans">Gans</object>
+			<object type="ingredient" xml:id="jus">Jus</object>
+			<object type="ingredient" xml:id="linsen">Linsen</object>
+			<object type="ingredient" xml:id="reis">Reis</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="geschirr">Geschirr</object>
+			<object type="utensil" xml:id="geschirr">Geschirr</object>
                 </listObject>
             </div>
             <div type="dietetic">

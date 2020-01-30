@@ -156,21 +156,21 @@ Im Sommer fange ich an, im Winter werde ich Ruhe haben. Wir sollen uns um selten
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="himbeeren">Himbeeren</object>
-			<object type="Zutaten" xml:id="honig">Honig</object>
-			<object type="Zutaten" xml:id="kornblume">Kornblume</object>
-			<object type="Zutaten" xml:id="lebzelten">Lebzelten</object>
-			<object type="Zutaten" xml:id="petersilie">Petersilie</object>
-			<object type="Zutaten" xml:id="safran">Safran</object>
-			<object type="Zutaten" xml:id="semmeln">Semmeln</object>
-			<object type="Zutaten" xml:id="weichseln-sauerkirschen">Weichseln (Sauerkirschen)</object>
-			<object type="Zutaten" xml:id="weizenaehren">Weizenähren</object>
+			<object type="ingredient" xml:id="himbeeren">Himbeeren</object>
+			<object type="ingredient" xml:id="honig">Honig</object>
+			<object type="ingredient" xml:id="kornblume">Kornblume</object>
+			<object type="ingredient" xml:id="lebzelten">Lebzelten</object>
+			<object type="ingredient" xml:id="petersilie">Petersilie</object>
+			<object type="ingredient" xml:id="safran">Safran</object>
+			<object type="ingredient" xml:id="semmeln">Semmeln</object>
+			<object type="ingredient" xml:id="weichseln-sauerkirschen">Weichseln (Sauerkirschen)</object>
+			<object type="ingredient" xml:id="weizenaehren">Weizenähren</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
-			<object type="MaterielleKultur" xml:id="topf-hafen-glasiert">Topf (Hafen - glasiert)</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="topf-hafen-glasiert">Topf (Hafen - glasiert)</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -154,17 +154,17 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="dotterbruehe">Dotterbrühe</object>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="erbsen">Erbsen</object>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="kraeuter">Kräuter</object>
-			<object type="Zutaten" xml:id="krebsschwaenze">Krebsschwänze</object>
-			<object type="Zutaten" xml:id="rindermark">Rindermark</object>
-			<object type="Zutaten" xml:id="schafsbrust">Schafsbrust</object>
-			<object type="Zutaten" xml:id="semmelbroesel">Semmelbrösel</object>
-			<object type="Zutaten" xml:id="spargel">Spargel</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="dotterbruehe">Dotterbrühe</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="erbsen">Erbsen</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="kraeuter">Kräuter</object>
+			<object type="ingredient" xml:id="krebsschwaenze">Krebsschwänze</object>
+			<object type="ingredient" xml:id="rindermark">Rindermark</object>
+			<object type="ingredient" xml:id="schafsbrust">Schafsbrust</object>
+			<object type="ingredient" xml:id="semmelbroesel">Semmelbrösel</object>
+			<object type="ingredient" xml:id="spargel">Spargel</object>
                  </listObject>
             </div>
              <div type="utensil">

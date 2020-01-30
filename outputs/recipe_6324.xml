@@ -155,22 +155,22 @@ Unter Ablaß ist der Wechsel des Fasses zu verstehen.</note>
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="galgantwurzel">Galgantwurzel</object>
-			<object type="Zutaten" xml:id="gerstenbrot">Gerstenbrot</object>
-			<object type="Zutaten" xml:id="hopfen">Hopfen</object>
-			<object type="Zutaten" xml:id="mittelholz">Mittelholz</object>
-			<object type="Zutaten" xml:id="salbei">Salbei</object>
-			<object type="Zutaten" xml:id="wacholderbeeren">Wacholderbeeren</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="weinspan">Weinspan</object>
-			<object type="Zutaten" xml:id="ysop">Ysop</object>
+			<object type="ingredient" xml:id="galgantwurzel">Galgantwurzel</object>
+			<object type="ingredient" xml:id="gerstenbrot">Gerstenbrot</object>
+			<object type="ingredient" xml:id="hopfen">Hopfen</object>
+			<object type="ingredient" xml:id="mittelholz">Mittelholz</object>
+			<object type="ingredient" xml:id="salbei">Salbei</object>
+			<object type="ingredient" xml:id="wacholderbeeren">Wacholderbeeren</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="weinspan">Weinspan</object>
+			<object type="ingredient" xml:id="ysop">Ysop</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="fass">Fass</object>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
-			<object type="MaterielleKultur" xml:id="saecklein-aus-weissem-leinen">Säcklein (aus weißem Leinen)</object>
+			<object type="utensil" xml:id="fass">Fass</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="saecklein-aus-weissem-leinen">Säcklein (aus weißem Leinen)</object>
                 </listObject>
             </div>
             <div type="dietetic">

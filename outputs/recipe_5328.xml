@@ -151,20 +151,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="jus">Jus</object>
-			<object type="Zutaten" xml:id="petersilie">Petersilie</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="semmeln">Semmeln</object>
-			<object type="Zutaten" xml:id="spanferkelleber">Spanferkelleber</object>
-			<object type="Zutaten" xml:id="spanferkellunge">Spanferkellunge</object>
-			<object type="Zutaten" xml:id="spanferkelmagen">Spanferkelmagen</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
-			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
-			<object type="Zutaten" xml:id="zwiebelbruehe">Zwiebelbrühe</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="fleischbruehe">Fleischbrühe</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="jus">Jus</object>
+			<object type="ingredient" xml:id="petersilie">Petersilie</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="semmeln">Semmeln</object>
+			<object type="ingredient" xml:id="spanferkelleber">Spanferkelleber</object>
+			<object type="ingredient" xml:id="spanferkellunge">Spanferkellunge</object>
+			<object type="ingredient" xml:id="spanferkelmagen">Spanferkelmagen</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="zwiebel">Zwiebel</object>
+			<object type="ingredient" xml:id="zwiebelbruehe">Zwiebelbrühe</object>
                  </listObject>
             </div>
              <div type="utensil">

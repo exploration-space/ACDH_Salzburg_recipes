@@ -151,8 +151,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="wildgans">Wildgans</object>
-			<object type="Zutaten" xml:id="zwiebelbruehe-gelb">Zwiebelbrühe (gelb)</object>
+			<object type="ingredient" xml:id="wildgans">Wildgans</object>
+			<object type="ingredient" xml:id="zwiebelbruehe-gelb">Zwiebelbrühe (gelb)</object>
                  </listObject>
             </div>
              <div type="utensil">

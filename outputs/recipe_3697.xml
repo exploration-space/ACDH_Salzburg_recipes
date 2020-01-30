@@ -153,16 +153,16 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="ingwer">Ingwer</object>
-			<object type="Zutaten" xml:id="kabeljau-in-salzlake">Kabeljau (in Salzlake)</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="ingwer">Ingwer</object>
+			<object type="ingredient" xml:id="kabeljau-in-salzlake">Kabeljau (in Salzlake)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="tiegel">Tiegel</object>
-			<object type="MaterielleKultur" xml:id="tonne">Tonne</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="tiegel">Tiegel</object>
+			<object type="utensil" xml:id="tonne">Tonne</object>
                 </listObject>
             </div>
             <div type="dietetic">

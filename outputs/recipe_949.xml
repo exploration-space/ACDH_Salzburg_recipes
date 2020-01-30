@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="berberitzen">Berberitzen (Sauerdorn)</object>
-			<object type="Zutaten" xml:id="quitten">Quitten</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
-			<object type="Zutaten" xml:id="zwetschke-pflaume">Zwetschken (Pflaumen)</object>
+			<object type="ingredient" xml:id="berberitzen">Berberitzen (Sauerdorn)</object>
+			<object type="ingredient" xml:id="quitten">Quitten</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="zwetschke-pflaume">Zwetschken (Pflaumen)</object>
                  </listObject>
             </div>
              <div type="utensil">

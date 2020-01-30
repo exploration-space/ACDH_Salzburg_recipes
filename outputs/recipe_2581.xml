@@ -151,10 +151,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="feldsalat">Feldsalat</object>
-			<object type="Zutaten" xml:id="gruener-salat">grüner Salat</object>
-			<object type="Zutaten" xml:id="rapunzeln">Rapunzeln</object>
-			<object type="Zutaten" xml:id="schafmaul-feldsalat">Schafmaul (Feldsalat)</object>
+			<object type="ingredient" xml:id="feldsalat">Feldsalat</object>
+			<object type="ingredient" xml:id="gruener-salat">grüner Salat</object>
+			<object type="ingredient" xml:id="rapunzeln">Rapunzeln</object>
+			<object type="ingredient" xml:id="schafmaul-feldsalat">Schafmaul (Feldsalat)</object>
                  </listObject>
             </div>
              <div type="utensil">

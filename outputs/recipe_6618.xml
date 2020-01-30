@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="karpfenschweiss">Karpfenschweiß</object>
-			<object type="Zutaten" xml:id="pertrumkraut-schafgarbe">Pertrumkraut (Schafgarbe)</object>
-			<object type="Zutaten" xml:id="wallerwels">Waller/Wels</object>
+			<object type="ingredient" xml:id="karpfenschweiss">Karpfenschweiß</object>
+			<object type="ingredient" xml:id="pertrumkraut-schafgarbe">Pertrumkraut (Schafgarbe)</object>
+			<object type="ingredient" xml:id="wallerwels">Waller/Wels</object>
                  </listObject>
             </div>
              <div type="utensil">

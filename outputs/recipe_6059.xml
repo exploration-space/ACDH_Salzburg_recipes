@@ -151,19 +151,19 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="braune-butter">Braune Butter</object>
-			<object type="Zutaten" xml:id="brot">Brot</object>
-			<object type="Zutaten" xml:id="fuellung">Füllung</object>
-			<object type="Zutaten" xml:id="kalb">Kalb</object>
-			<object type="Zutaten" xml:id="kalbsfuss">Kalbsfuß</object>
-			<object type="Zutaten" xml:id="kohl">Kohl</object>
-			<object type="Zutaten" xml:id="kohlrabi">Kohlrabi</object>
-			<object type="Zutaten" xml:id="pofesen">Pofesen</object>
+			<object type="ingredient" xml:id="braune-butter">Braune Butter</object>
+			<object type="ingredient" xml:id="brot">Brot</object>
+			<object type="ingredient" xml:id="fuellung">Füllung</object>
+			<object type="ingredient" xml:id="kalb">Kalb</object>
+			<object type="ingredient" xml:id="kalbsfuss">Kalbsfuß</object>
+			<object type="ingredient" xml:id="kohl">Kohl</object>
+			<object type="ingredient" xml:id="kohlrabi">Kohlrabi</object>
+			<object type="ingredient" xml:id="pofesen">Pofesen</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="messer">Messer</object>
+			<object type="utensil" xml:id="messer">Messer</object>
                 </listObject>
             </div>
             <div type="dietetic">

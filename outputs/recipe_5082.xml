@@ -151,15 +151,15 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="fischbruehe">Fischbrühe</object>
-			<object type="Zutaten" xml:id="petersilienkraut">Petersilienkraut</object>
-			<object type="Zutaten" xml:id="schleie">Schleie</object>
-			<object type="Zutaten" xml:id="weinessig">Weinessig</object>
+			<object type="ingredient" xml:id="fischbruehe">Fischbrühe</object>
+			<object type="ingredient" xml:id="petersilienkraut">Petersilienkraut</object>
+			<object type="ingredient" xml:id="schleie">Schleie</object>
+			<object type="ingredient" xml:id="weinessig">Weinessig</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="feuer">Feuer</object>
+			<object type="utensil" xml:id="feuer">Feuer</object>
                 </listObject>
             </div>
             <div type="dietetic">

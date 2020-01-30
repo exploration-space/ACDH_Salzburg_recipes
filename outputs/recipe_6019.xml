@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="bries-geschnitten">Bries (geschnitten)</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="sauce-braun">Sauce (braun)</object>
+			<object type="ingredient" xml:id="bries-geschnitten">Bries (geschnitten)</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="sauce-braun">Sauce (braun)</object>
                  </listObject>
             </div>
              <div type="utensil">

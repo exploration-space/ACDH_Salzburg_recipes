@@ -151,19 +151,19 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="brennnesseln">Brennnesseln</object>
-			<object type="Zutaten" xml:id="hopfenblueten">Hopfenblüten</object>
-			<object type="Zutaten" xml:id="mehl">Mehl</object>
-			<object type="Zutaten" xml:id="wacholderwurzel">Wacholderwurzel</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="weinrebenasche">Weinrebenasche</object>
+			<object type="ingredient" xml:id="brennnesseln">Brennnesseln</object>
+			<object type="ingredient" xml:id="hopfenblueten">Hopfenblüten</object>
+			<object type="ingredient" xml:id="mehl">Mehl</object>
+			<object type="ingredient" xml:id="wacholderwurzel">Wacholderwurzel</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="weinrebenasche">Weinrebenasche</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="fass">Fass</object>
-			<object type="MaterielleKultur" xml:id="saecklein">Säcklein</object>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="fass">Fass</object>
+			<object type="utensil" xml:id="saecklein">Säcklein</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

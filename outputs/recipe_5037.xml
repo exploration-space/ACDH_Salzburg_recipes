@@ -151,34 +151,34 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="erbsen-gruene">Erbsen (grüne)</object>
-			<object type="Zutaten" xml:id="fett-faisten">Fett - Faisten</object>
-			<object type="Zutaten" xml:id="gelbe-rueben-moehren">Gelbe Rüben (Möhren)</object>
-			<object type="Zutaten" xml:id="hammel">Hammel</object>
-			<object type="Zutaten" xml:id="kalbfleisch">Kalbfleisch</object>
-			<object type="Zutaten" xml:id="knoblauch">Knoblauch</object>
-			<object type="Zutaten" xml:id="kraeuter-frisch">Kräuter (frisch)</object>
-			<object type="Zutaten" xml:id="kuttelkraut">Kuttelkraut</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="pastinaken">Pastinaken</object>
-			<object type="Zutaten" xml:id="petersilie">Petersilie</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="rindfleisch">Rindfleisch</object>
-			<object type="Zutaten" xml:id="rindsuppe">Rindsuppe</object>
-			<object type="Zutaten" xml:id="rosmarin">Rosmarin</object>
-			<object type="Zutaten" xml:id="schweinefleisch">Schweinefleisch</object>
-			<object type="Zutaten" xml:id="semmeln">Semmeln</object>
-			<object type="Zutaten" xml:id="spanische-erbsen">Spanische Erbsen</object>
-			<object type="Zutaten" xml:id="speck-gruen">Speck (grün)</object>
-			<object type="Zutaten" xml:id="suesse-rueben">Süße Rüben</object>
-			<object type="Zutaten" xml:id="thymian">Thymian</object>
-			<object type="Zutaten" xml:id="weisskraut-kraut">Weißkraut</object>
-			<object type="Zutaten" xml:id="wurst-geraeuchert">Wurst (geräuchert)</object>
+			<object type="ingredient" xml:id="erbsen-gruene">Erbsen (grüne)</object>
+			<object type="ingredient" xml:id="fett-faisten">Fett - Faisten</object>
+			<object type="ingredient" xml:id="gelbe-rueben-moehren">Gelbe Rüben (Möhren)</object>
+			<object type="ingredient" xml:id="hammel">Hammel</object>
+			<object type="ingredient" xml:id="kalbfleisch">Kalbfleisch</object>
+			<object type="ingredient" xml:id="knoblauch">Knoblauch</object>
+			<object type="ingredient" xml:id="kraeuter-frisch">Kräuter (frisch)</object>
+			<object type="ingredient" xml:id="kuttelkraut">Kuttelkraut</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="pastinaken">Pastinaken</object>
+			<object type="ingredient" xml:id="petersilie">Petersilie</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="rindfleisch">Rindfleisch</object>
+			<object type="ingredient" xml:id="rindsuppe">Rindsuppe</object>
+			<object type="ingredient" xml:id="rosmarin">Rosmarin</object>
+			<object type="ingredient" xml:id="schweinefleisch">Schweinefleisch</object>
+			<object type="ingredient" xml:id="semmeln">Semmeln</object>
+			<object type="ingredient" xml:id="spanische-erbsen">Spanische Erbsen</object>
+			<object type="ingredient" xml:id="speck-gruen">Speck (grün)</object>
+			<object type="ingredient" xml:id="suesse-rueben">Süße Rüben</object>
+			<object type="ingredient" xml:id="thymian">Thymian</object>
+			<object type="ingredient" xml:id="weisskraut-kraut">Weißkraut</object>
+			<object type="ingredient" xml:id="wurst-geraeuchert">Wurst (geräuchert)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="kessel-verzinnt">Kessel (verzinnt)</object>
+			<object type="utensil" xml:id="kessel-verzinnt">Kessel (verzinnt)</object>
                 </listObject>
             </div>
             <div type="dietetic">

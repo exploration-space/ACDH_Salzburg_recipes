@@ -151,8 +151,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="hammelfleisch">Hammelfleisch</object>
-			<object type="Zutaten" xml:id="limonen-gesalzen">Limonen (gesalzen)</object>
+			<object type="ingredient" xml:id="hammelfleisch">Hammelfleisch</object>
+			<object type="ingredient" xml:id="limonen-gesalzen">Limonen (gesalzen)</object>
                  </listObject>
             </div>
              <div type="utensil">

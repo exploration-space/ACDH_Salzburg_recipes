@@ -151,18 +151,18 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="kraeuter-frisch">Kräuter (frisch)</object>
-			<object type="Zutaten" xml:id="spanferkelhaut">Spanferkelhaut</object>
-			<object type="Zutaten" xml:id="spanferkelleber">Spanferkelleber</object>
-			<object type="Zutaten" xml:id="spanferkellunge">Spanferkellunge</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="kraeuter-frisch">Kräuter (frisch)</object>
+			<object type="ingredient" xml:id="spanferkelhaut">Spanferkelhaut</object>
+			<object type="ingredient" xml:id="spanferkelleber">Spanferkelleber</object>
+			<object type="ingredient" xml:id="spanferkellunge">Spanferkellunge</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="daerme">Därme</object>
+			<object type="utensil" xml:id="daerme">Därme</object>
                 </listObject>
             </div>
             <div type="dietetic">

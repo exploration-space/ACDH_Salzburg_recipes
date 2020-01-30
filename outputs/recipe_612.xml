@@ -151,15 +151,15 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="honig">Honig</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="honig">Honig</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="kupferkessel">Kupferkessel</object>
-			<object type="MaterielleKultur" xml:id="messingkessel">Messingkessel</object>
-			<object type="MaterielleKultur" xml:id="wolltuch">Wolltuch</object>
+			<object type="utensil" xml:id="kupferkessel">Kupferkessel</object>
+			<object type="utensil" xml:id="messingkessel">Messingkessel</object>
+			<object type="utensil" xml:id="wolltuch">Wolltuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

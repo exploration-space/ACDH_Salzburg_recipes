@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="aloeholz">Aloeholz</object>
-			<object type="Zutaten" xml:id="asant-benzoe">Asant (Benzoe)</object>
-			<object type="Zutaten" xml:id="lavendelwasser">Lavendelwasser</object>
-			<object type="Zutaten" xml:id="moschus-bisam">Moschus (Bisam)</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="aloeholz">Aloeholz</object>
+			<object type="ingredient" xml:id="asant-benzoe">Asant (Benzoe)</object>
+			<object type="ingredient" xml:id="lavendelwasser">Lavendelwasser</object>
+			<object type="ingredient" xml:id="moschus-bisam">Moschus (Bisam)</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
@@ -165,7 +165,7 @@
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-magenverstimmung">bei Magenverstimmung</object>
+			<object type="dietetic" xml:id="bei-magenverstimmung">bei Magenverstimmung</object>
                 </listObject>
             </div>
         <div type="recipe">

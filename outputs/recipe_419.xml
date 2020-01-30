@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="branntwein">Branntwein</object>
-			<object type="Zutaten" xml:id="hagebutten">Hagebutten</object>
-			<object type="Zutaten" xml:id="rosenwasser">Rosenwasser</object>
-			<object type="Zutaten" xml:id="staerke">Stärke</object>
-			<object type="Zutaten" xml:id="veigelwurzel">Veigelwurzel</object>
+			<object type="ingredient" xml:id="branntwein">Branntwein</object>
+			<object type="ingredient" xml:id="hagebutten">Hagebutten</object>
+			<object type="ingredient" xml:id="rosenwasser">Rosenwasser</object>
+			<object type="ingredient" xml:id="staerke">Stärke</object>
+			<object type="ingredient" xml:id="veigelwurzel">Veigelwurzel</object>
                  </listObject>
             </div>
              <div type="utensil">

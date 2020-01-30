@@ -152,8 +152,8 @@ Willst du etwas Gutes, Weißes aus Reis backen, dann trenne das Eiklar von den D
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eiklar">Eiklar (Eiweiß)</object>
-			<object type="Zutaten" xml:id="reis">Reis</object>
+			<object type="ingredient" xml:id="eiklar">Eiklar (Eiweiß)</object>
+			<object type="ingredient" xml:id="reis">Reis</object>
                  </listObject>
             </div>
              <div type="utensil">

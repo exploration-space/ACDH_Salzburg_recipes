@@ -151,10 +151,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="kitzleber">Kitzleber</object>
-			<object type="Zutaten" xml:id="kitzlunge">Kitzlunge</object>
-			<object type="Zutaten" xml:id="lammleber">Lammleber</object>
-			<object type="Zutaten" xml:id="lammlunge">Lammlunge</object>
+			<object type="ingredient" xml:id="kitzleber">Kitzleber</object>
+			<object type="ingredient" xml:id="kitzlunge">Kitzlunge</object>
+			<object type="ingredient" xml:id="lammleber">Lammleber</object>
+			<object type="ingredient" xml:id="lammlunge">Lammlunge</object>
                  </listObject>
             </div>
              <div type="utensil">

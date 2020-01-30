@@ -151,17 +151,17 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="kapernsauce">Kapernsauce</object>
-			<object type="Zutaten" xml:id="rehlauf">Rehlauf</object>
-			<object type="Zutaten" xml:id="rehschulter">Rehschulter</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="sardellensauce">Sardellensauce</object>
+			<object type="ingredient" xml:id="kapernsauce">Kapernsauce</object>
+			<object type="ingredient" xml:id="rehlauf">Rehlauf</object>
+			<object type="ingredient" xml:id="rehschulter">Rehschulter</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="sardellensauce">Sardellensauce</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="rost">Rost</object>
-			<object type="MaterielleKultur" xml:id="spiess">Spieß</object>
+			<object type="utensil" xml:id="rost">Rost</object>
+			<object type="utensil" xml:id="spiess">Spieß</object>
                 </listObject>
             </div>
             <div type="dietetic">

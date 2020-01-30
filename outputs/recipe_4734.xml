@@ -154,20 +154,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="rosenwasser">Rosenwasser</object>
-			<object type="Zutaten" xml:id="tonerde-bolo-armena">Tonerde (Bolo Armena)</object>
-			<object type="Zutaten" xml:id="tragant">Tragant</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
-			<object type="Zutaten" xml:id="zimtoel">Zimtöl</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="rosenwasser">Rosenwasser</object>
+			<object type="ingredient" xml:id="tonerde-bolo-armena">Tonerde (Bolo Armena)</object>
+			<object type="ingredient" xml:id="tragant">Tragant</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="zimtoel">Zimtöl</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="holzstaebchen">Holzstäbchen</object>
-			<object type="MaterielleKultur" xml:id="nudelwalker-nudelholz">Nudelwalker (Nudelholz)</object>
-			<object type="MaterielleKultur" xml:id="papier">Papier</object>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="holzstaebchen">Holzstäbchen</object>
+			<object type="utensil" xml:id="nudelwalker-nudelholz">Nudelwalker (Nudelholz)</object>
+			<object type="utensil" xml:id="papier">Papier</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

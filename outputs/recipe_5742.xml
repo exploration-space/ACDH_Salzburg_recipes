@@ -151,8 +151,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="adler-wildgefluegel">Adler</object>
-			<object type="Zutaten" xml:id="sauce-schwarz">Sauce (schwarz)</object>
+			<object type="ingredient" xml:id="adler-wildgefluegel">Adler</object>
+			<object type="ingredient" xml:id="sauce-schwarz">Sauce (schwarz)</object>
                  </listObject>
             </div>
              <div type="utensil">

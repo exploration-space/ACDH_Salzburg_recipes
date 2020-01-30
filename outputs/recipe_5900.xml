@@ -151,12 +151,12 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="birnen">Birnen</object>
-			<object type="Zutaten" xml:id="loeffler-loeffelreiher">Löffler (Löffelreiher)</object>
-			<object type="Zutaten" xml:id="maroni">Maroni (Esskastanie)</object>
-			<object type="Zutaten" xml:id="quitten">Quitten</object>
-			<object type="Zutaten" xml:id="rosinen-schwarz">Rosinen (schwarz)</object>
-			<object type="Zutaten" xml:id="zibeben">Zibeben</object>
+			<object type="ingredient" xml:id="birnen">Birnen</object>
+			<object type="ingredient" xml:id="loeffler-loeffelreiher">Löffler (Löffelreiher)</object>
+			<object type="ingredient" xml:id="maroni">Maroni (Esskastanie)</object>
+			<object type="ingredient" xml:id="quitten">Quitten</object>
+			<object type="ingredient" xml:id="rosinen-schwarz">Rosinen (schwarz)</object>
+			<object type="ingredient" xml:id="zibeben">Zibeben</object>
                  </listObject>
             </div>
              <div type="utensil">

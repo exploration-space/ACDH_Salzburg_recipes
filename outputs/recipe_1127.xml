@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gundermann">Gundermann</object>
-			<object type="Zutaten" xml:id="salatoel">Salatöl</object>
-			<object type="Zutaten" xml:id="weisswein">Weißwein</object>
+			<object type="ingredient" xml:id="gundermann">Gundermann</object>
+			<object type="ingredient" xml:id="salatoel">Salatöl</object>
+			<object type="ingredient" xml:id="weisswein">Weißwein</object>
                  </listObject>
             </div>
              <div type="utensil">
@@ -163,7 +163,7 @@
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="gegen-den-wahnsinn-raserei">gegen den Wahnsinn (Raserei)</object>
+			<object type="dietetic" xml:id="gegen-den-wahnsinn-raserei">gegen den Wahnsinn (Raserei)</object>
                 </listObject>
             </div>
         <div type="recipe">

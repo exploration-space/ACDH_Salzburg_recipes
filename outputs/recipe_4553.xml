@@ -151,18 +151,18 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="aepfel-saeuerlich">Äpfel (säuerlich)</object>
-			<object type="Zutaten" xml:id="orangeat">Orangeat (Aranzini)</object>
-			<object type="Zutaten" xml:id="rotwein">Rotwein</object>
-			<object type="Zutaten" xml:id="weintrauben-schwarz">Weintrauben (schwarz)</object>
-			<object type="Zutaten" xml:id="zitronat">Zitronat (eingelegte/kandierte Zitronen)</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="aepfel-saeuerlich">Äpfel (säuerlich)</object>
+			<object type="ingredient" xml:id="orangeat">Orangeat (Aranzini)</object>
+			<object type="ingredient" xml:id="rotwein">Rotwein</object>
+			<object type="ingredient" xml:id="weintrauben-schwarz">Weintrauben (schwarz)</object>
+			<object type="ingredient" xml:id="zitronat">Zitronat (eingelegte/kandierte Zitronen)</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="maas">Maas</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="maas">Maas</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
                 </listObject>
             </div>
             <div type="dietetic">

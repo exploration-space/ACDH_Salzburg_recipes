@@ -151,19 +151,19 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="beifusswurtzel">Beifußwurtzel</object>
-			<object type="Zutaten" xml:id="eiklar">Eiklar (Eiweiß)</object>
-			<object type="Zutaten" xml:id="rosen">Rosen</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="tannensamen">Tannensamen</object>
-			<object type="Zutaten" xml:id="weihrauch">Weihrauch</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="weinraute">Weinraute</object>
+			<object type="ingredient" xml:id="beifusswurtzel">Beifußwurtzel</object>
+			<object type="ingredient" xml:id="eiklar">Eiklar (Eiweiß)</object>
+			<object type="ingredient" xml:id="rosen">Rosen</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="tannensamen">Tannensamen</object>
+			<object type="ingredient" xml:id="weihrauch">Weihrauch</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="weinraute">Weinraute</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="saecklein">Säcklein</object>
+			<object type="utensil" xml:id="saecklein">Säcklein</object>
                 </listObject>
             </div>
             <div type="dietetic">

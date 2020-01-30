@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="essig">Essig</object>
-			<object type="Zutaten" xml:id="kotelett">Kotelett</object>
-			<object type="Zutaten" xml:id="schalotten">Schalotten</object>
+			<object type="ingredient" xml:id="essig">Essig</object>
+			<object type="ingredient" xml:id="kotelett">Kotelett</object>
+			<object type="ingredient" xml:id="schalotten">Schalotten</object>
                  </listObject>
             </div>
              <div type="utensil">

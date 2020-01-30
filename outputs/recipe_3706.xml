@@ -151,33 +151,33 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="borretsch">Borretsch</object>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="endivie">Endivie</object>
-			<object type="Zutaten" xml:id="feldsalat">Feldsalat</object>
-			<object type="Zutaten" xml:id="kohl">Kohl</object>
-			<object type="Zutaten" xml:id="kopfsalat">Kopfsalat</object>
-			<object type="Zutaten" xml:id="kopfsalat-lactucken">Kopfsalat (Lactucken)</object>
-			<object type="Zutaten" xml:id="kraeuter">Kräuter</object>
-			<object type="Zutaten" xml:id="krautsalat">Krautsalat</object>
-			<object type="Zutaten" xml:id="kresse">Kresse</object>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="muskatnuss">Muskatnuss</object>
-			<object type="Zutaten" xml:id="portulak">Portulak</object>
-			<object type="Zutaten" xml:id="sahne">Rahm (Sahne)</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="sauerampfer">Sauerampfer</object>
-			<object type="Zutaten" xml:id="sellerie">Sellerie</object>
-			<object type="Zutaten" xml:id="spinat">Spinat</object>
-			<object type="Zutaten" xml:id="wirsing">Wirsing</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
-			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
+			<object type="ingredient" xml:id="borretsch">Borretsch</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="endivie">Endivie</object>
+			<object type="ingredient" xml:id="feldsalat">Feldsalat</object>
+			<object type="ingredient" xml:id="kohl">Kohl</object>
+			<object type="ingredient" xml:id="kopfsalat">Kopfsalat</object>
+			<object type="ingredient" xml:id="kopfsalat-lactucken">Kopfsalat (Lactucken)</object>
+			<object type="ingredient" xml:id="kraeuter">Kräuter</object>
+			<object type="ingredient" xml:id="krautsalat">Krautsalat</object>
+			<object type="ingredient" xml:id="kresse">Kresse</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="muskatnuss">Muskatnuss</object>
+			<object type="ingredient" xml:id="portulak">Portulak</object>
+			<object type="ingredient" xml:id="sahne">Rahm (Sahne)</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="sauerampfer">Sauerampfer</object>
+			<object type="ingredient" xml:id="sellerie">Sellerie</object>
+			<object type="ingredient" xml:id="spinat">Spinat</object>
+			<object type="ingredient" xml:id="wirsing">Wirsing</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="zwiebel">Zwiebel</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="dortenpfann">Dorten=Pfann</object>
+			<object type="utensil" xml:id="dortenpfann">Dorten=Pfann</object>
                 </listObject>
             </div>
             <div type="dietetic">

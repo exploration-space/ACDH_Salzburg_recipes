@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="salbei">Salbei</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="salbei">Salbei</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="fass">Fass</object>
+			<object type="utensil" xml:id="fass">Fass</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-epilepsie-fallsucht">bei Epilepsie (Fallsucht)</object>
-			<object type="Diaetetik" xml:id="bei-kraempfen">bei Krämpfen</object>
-			<object type="Diaetetik" xml:id="zahnfleisch">Zahnfleisch</object>
-			<object type="Diaetetik" xml:id="zahnschmerzen">Zahnschmerzen</object>
-			<object type="Diaetetik" xml:id="zunge">Zunge</object>
+			<object type="dietetic" xml:id="bei-epilepsie-fallsucht">bei Epilepsie (Fallsucht)</object>
+			<object type="dietetic" xml:id="bei-kraempfen">bei Krämpfen</object>
+			<object type="dietetic" xml:id="zahnfleisch">Zahnfleisch</object>
+			<object type="dietetic" xml:id="zahnschmerzen">Zahnschmerzen</object>
+			<object type="dietetic" xml:id="zunge">Zunge</object>
                 </listObject>
             </div>
         <div type="recipe">

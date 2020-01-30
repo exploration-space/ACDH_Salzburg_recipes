@@ -151,26 +151,26 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="brotbruehe">Brotbrühe</object>
-			<object type="Zutaten" xml:id="champignon">Champignon</object>
-			<object type="Zutaten" xml:id="einbrenn">Einbrenn</object>
-			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
-			<object type="Zutaten" xml:id="huehnerkaemme">Hühnerkämme</object>
-			<object type="Zutaten" xml:id="kalbsbries">Kalbsbries</object>
-			<object type="Zutaten" xml:id="kalbsschnitzel">Kalbsschnitzel</object>
-			<object type="Zutaten" xml:id="kraeuter">Kräuter</object>
-			<object type="Zutaten" xml:id="salat">Salat</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
-			<object type="Zutaten" xml:id="trueffel">Trüffel</object>
-			<object type="Zutaten" xml:id="verjus">Verjus</object>
-			<object type="Zutaten" xml:id="zitronenscheiben">Zitronenscheiben</object>
+			<object type="ingredient" xml:id="brotbruehe">Brotbrühe</object>
+			<object type="ingredient" xml:id="champignon">Champignon</object>
+			<object type="ingredient" xml:id="einbrenn">Einbrenn</object>
+			<object type="ingredient" xml:id="fleischbruehe">Fleischbrühe</object>
+			<object type="ingredient" xml:id="huehnerkaemme">Hühnerkämme</object>
+			<object type="ingredient" xml:id="kalbsbries">Kalbsbries</object>
+			<object type="ingredient" xml:id="kalbsschnitzel">Kalbsschnitzel</object>
+			<object type="ingredient" xml:id="kraeuter">Kräuter</object>
+			<object type="ingredient" xml:id="salat">Salat</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="trueffel">Trüffel</object>
+			<object type="ingredient" xml:id="verjus">Verjus</object>
+			<object type="ingredient" xml:id="zitronenscheiben">Zitronenscheiben</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="feuer">Feuer</object>
-			<object type="MaterielleKultur" xml:id="kasserolle">Kasserolle</object>
-			<object type="MaterielleKultur" xml:id="kohlen">Kohlen</object>
+			<object type="utensil" xml:id="feuer">Feuer</object>
+			<object type="utensil" xml:id="kasserolle">Kasserolle</object>
+			<object type="utensil" xml:id="kohlen">Kohlen</object>
                 </listObject>
             </div>
             <div type="dietetic">

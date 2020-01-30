@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="aal">Aal</object>
-			<object type="Zutaten" xml:id="hecht">Hecht</object>
-			<object type="Zutaten" xml:id="karpfen">Karpfen</object>
-			<object type="Zutaten" xml:id="karpfenmilch">Karpfenmilch</object>
-			<object type="Zutaten" xml:id="lachs">Lachs</object>
+			<object type="ingredient" xml:id="aal">Aal</object>
+			<object type="ingredient" xml:id="hecht">Hecht</object>
+			<object type="ingredient" xml:id="karpfen">Karpfen</object>
+			<object type="ingredient" xml:id="karpfenmilch">Karpfenmilch</object>
+			<object type="ingredient" xml:id="lachs">Lachs</object>
                  </listObject>
             </div>
              <div type="utensil">

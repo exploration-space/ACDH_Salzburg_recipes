@@ -151,12 +151,12 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="kalbslunge">Kalbslunge</object>
-			<object type="Zutaten" xml:id="lorbeer-2">Lorbeer</object>
-			<object type="Zutaten" xml:id="petersilienkraut">Petersilienkraut</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zwiebelbruehe-gelb">Zwiebelbrühe (gelb)</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="kalbslunge">Kalbslunge</object>
+			<object type="ingredient" xml:id="lorbeer-2">Lorbeer</object>
+			<object type="ingredient" xml:id="petersilienkraut">Petersilienkraut</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zwiebelbruehe-gelb">Zwiebelbrühe (gelb)</object>
                  </listObject>
             </div>
              <div type="utensil">

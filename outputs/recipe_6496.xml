@@ -151,7 +151,7 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="zirbelnuesse-zirbensamen">Zirbelnüsse (Zirbensamen)</object>
+			<object type="ingredient" xml:id="zirbelnuesse-zirbensamen">Zirbelnüsse (Zirbensamen)</object>
                  </listObject>
             </div>
              <div type="utensil">

@@ -151,10 +151,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="essig">Essig</object>
-			<object type="Zutaten" xml:id="hollersproesslinge-holundersproesslinge">Hollersprösslinge (Holundersprösslinge)</object>
-			<object type="Zutaten" xml:id="oel">Öl</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="essig">Essig</object>
+			<object type="ingredient" xml:id="hollersproesslinge-holundersproesslinge">Hollersprösslinge (Holundersprösslinge)</object>
+			<object type="ingredient" xml:id="oel">Öl</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
                  </listObject>
             </div>
              <div type="utensil">
@@ -164,7 +164,7 @@
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="abfuehrmittel">Abführmittel</object>
+			<object type="dietetic" xml:id="abfuehrmittel">Abführmittel</object>
                 </listObject>
             </div>
         <div type="recipe">

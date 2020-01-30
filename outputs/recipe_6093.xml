@@ -151,10 +151,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="dotter">Dotter (Eigelb)</object>
-			<object type="Zutaten" xml:id="kalbsbraten">Kalbsbraten</object>
-			<object type="Zutaten" xml:id="kerbel">Kerbel</object>
-			<object type="Zutaten" xml:id="sauerampfer">Sauerampfer</object>
+			<object type="ingredient" xml:id="dotter">Dotter (Eigelb)</object>
+			<object type="ingredient" xml:id="kalbsbraten">Kalbsbraten</object>
+			<object type="ingredient" xml:id="kerbel">Kerbel</object>
+			<object type="ingredient" xml:id="sauerampfer">Sauerampfer</object>
                  </listObject>
             </div>
              <div type="utensil">

@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="bierwuerze">Bierwürze</object>
-			<object type="Zutaten" xml:id="hopfen">Hopfen</object>
-			<object type="Zutaten" xml:id="kleie">Kleie</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="weizenmalz">Weizenmalz</object>
+			<object type="ingredient" xml:id="bierwuerze">Bierwürze</object>
+			<object type="ingredient" xml:id="hopfen">Hopfen</object>
+			<object type="ingredient" xml:id="kleie">Kleie</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="weizenmalz">Weizenmalz</object>
                  </listObject>
             </div>
              <div type="utensil">

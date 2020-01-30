@@ -151,25 +151,25 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="kalbshachse">Kalbshachse</object>
-			<object type="Zutaten" xml:id="kraeuter">Kräuter</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="rinderbruehe">Rinderbrühe</object>
-			<object type="Zutaten" xml:id="rinderfett">Rinderfett</object>
-			<object type="Zutaten" xml:id="rindsbraten">Rindsbraten</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="kalbshachse">Kalbshachse</object>
+			<object type="ingredient" xml:id="kraeuter">Kräuter</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="rinderbruehe">Rinderbrühe</object>
+			<object type="ingredient" xml:id="rinderfett">Rinderfett</object>
+			<object type="ingredient" xml:id="rindsbraten">Rindsbraten</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="brett">Brett</object>
-			<object type="MaterielleKultur" xml:id="feuer">Feuer</object>
-			<object type="MaterielleKultur" xml:id="haartuch">Haartuch</object>
-			<object type="MaterielleKultur" xml:id="hackmesser">Hackmesser</object>
-			<object type="MaterielleKultur" xml:id="holzspiess">Holzspieß</object>
-			<object type="MaterielleKultur" xml:id="messerruecken">Messerrücken</object>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
-			<object type="MaterielleKultur" xml:id="vogelspiess">Vogelspieß</object>
+			<object type="utensil" xml:id="brett">Brett</object>
+			<object type="utensil" xml:id="feuer">Feuer</object>
+			<object type="utensil" xml:id="haartuch">Haartuch</object>
+			<object type="utensil" xml:id="hackmesser">Hackmesser</object>
+			<object type="utensil" xml:id="holzspiess">Holzspieß</object>
+			<object type="utensil" xml:id="messerruecken">Messerrücken</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="vogelspiess">Vogelspieß</object>
                 </listObject>
             </div>
             <div type="dietetic">

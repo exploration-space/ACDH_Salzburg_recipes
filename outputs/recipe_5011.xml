@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="schweineschwanz">Schweineschwanz</object>
-			<object type="Zutaten" xml:id="schweinsruecken">Schweinsrücken</object>
-			<object type="Zutaten" xml:id="zwiebel">Zwiebel</object>
-			<object type="Zutaten" xml:id="zwiebelbruehe">Zwiebelbrühe</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="schweineschwanz">Schweineschwanz</object>
+			<object type="ingredient" xml:id="schweinsruecken">Schweinsrücken</object>
+			<object type="ingredient" xml:id="zwiebel">Zwiebel</object>
+			<object type="ingredient" xml:id="zwiebelbruehe">Zwiebelbrühe</object>
                  </listObject>
             </div>
              <div type="utensil">

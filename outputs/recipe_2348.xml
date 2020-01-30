@@ -151,20 +151,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="zimtstange">Zimtstange</object>
-			<object type="Zutaten" xml:id="zitronat">Zitronat (eingelegte/kandierte Zitronen)</object>
-			<object type="Zutaten" xml:id="zitronatzitrone">Zitronatzitrone</object>
-			<object type="Zutaten" xml:id="zitronenzesten">Zitronenzesten</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
-			<object type="Zutaten" xml:id="zuckerglasur">Zuckerglasur</object>
+			<object type="ingredient" xml:id="zimtstange">Zimtstange</object>
+			<object type="ingredient" xml:id="zitronat">Zitronat (eingelegte/kandierte Zitronen)</object>
+			<object type="ingredient" xml:id="zitronatzitrone">Zitronatzitrone</object>
+			<object type="ingredient" xml:id="zitronenzesten">Zitronenzesten</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="zuckerglasur">Zuckerglasur</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="faden">Faden</object>
-			<object type="MaterielleKultur" xml:id="hoelzchen">Hölzchen</object>
-			<object type="MaterielleKultur" xml:id="reibeisen">Reibeisen</object>
-			<object type="MaterielleKultur" xml:id="sieb">Sieb</object>
+			<object type="utensil" xml:id="faden">Faden</object>
+			<object type="utensil" xml:id="hoelzchen">Hölzchen</object>
+			<object type="utensil" xml:id="reibeisen">Reibeisen</object>
+			<object type="utensil" xml:id="sieb">Sieb</object>
                 </listObject>
             </div>
             <div type="dietetic">

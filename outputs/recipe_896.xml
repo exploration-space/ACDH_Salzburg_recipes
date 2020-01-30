@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="engelwurzen-angelica">Engelwurzen (Angelica)</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
-			<object type="Zutaten" xml:id="zuckersirup">Zuckersirup</object>
+			<object type="ingredient" xml:id="engelwurzen-angelica">Engelwurzen (Angelica)</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="zuckersirup">Zuckersirup</object>
                  </listObject>
             </div>
              <div type="utensil">

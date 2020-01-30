@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="kitzschlegel">Kitzschlegel</object>
-			<object type="Zutaten" xml:id="knoblauch">Knoblauch</object>
-			<object type="Zutaten" xml:id="lammschlegel">Lammschlegel</object>
-			<object type="Zutaten" xml:id="rosmarin">Rosmarin</object>
-			<object type="Zutaten" xml:id="sardellen-2">Sardellen</object>
+			<object type="ingredient" xml:id="kitzschlegel">Kitzschlegel</object>
+			<object type="ingredient" xml:id="knoblauch">Knoblauch</object>
+			<object type="ingredient" xml:id="lammschlegel">Lammschlegel</object>
+			<object type="ingredient" xml:id="rosmarin">Rosmarin</object>
+			<object type="ingredient" xml:id="sardellen-2">Sardellen</object>
                  </listObject>
             </div>
              <div type="utensil">

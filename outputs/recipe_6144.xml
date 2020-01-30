@@ -151,18 +151,18 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="anis">Anis</object>
-			<object type="Zutaten" xml:id="birnen">Birnen</object>
-			<object type="Zutaten" xml:id="brauner-senf">brauner Senf</object>
-			<object type="Zutaten" xml:id="koriander">Koriander</object>
-			<object type="Zutaten" xml:id="senfmehl">Senfmehl</object>
-			<object type="Zutaten" xml:id="suessmost">Süßmost</object>
-			<object type="Zutaten" xml:id="suesswein">Süßwein</object>
+			<object type="ingredient" xml:id="anis">Anis</object>
+			<object type="ingredient" xml:id="birnen">Birnen</object>
+			<object type="ingredient" xml:id="brauner-senf">brauner Senf</object>
+			<object type="ingredient" xml:id="koriander">Koriander</object>
+			<object type="ingredient" xml:id="senfmehl">Senfmehl</object>
+			<object type="ingredient" xml:id="suessmost">Süßmost</object>
+			<object type="ingredient" xml:id="suesswein">Süßwein</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="brett">Brett</object>
+			<object type="utensil" xml:id="brett">Brett</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="fleischbruehe">Fleischbrühe</object>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="roehrenwasser-leitungswasser">Röhrenwasser (Leitungswasser)</object>
-			<object type="Zutaten" xml:id="schwarzwurzel-scorzonera">Schwarzwurzel (Scorzonera)</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="fleischbruehe">Fleischbrühe</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="roehrenwasser-leitungswasser">Röhrenwasser (Leitungswasser)</object>
+			<object type="ingredient" xml:id="schwarzwurzel-scorzonera">Schwarzwurzel (Scorzonera)</object>
                  </listObject>
             </div>
              <div type="utensil">

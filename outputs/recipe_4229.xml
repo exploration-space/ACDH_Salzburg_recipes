@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="aalbraet">Aalbrät</object>
-			<object type="Zutaten" xml:id="barschbraet">Barschbrät</object>
-			<object type="Zutaten" xml:id="biberdarm">Biberdarm</object>
-			<object type="Zutaten" xml:id="biberfleisch">Biberfleisch</object>
-			<object type="Zutaten" xml:id="flussbarsch-schraetz">Flussbarsch (Schrätz]</object>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="hechtbraet">Hechtbrät</object>
-			<object type="Zutaten" xml:id="otterdarm">Otterdarm</object>
-			<object type="Zutaten" xml:id="otterfleisch">Otterfleisch</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="aalbraet">Aalbrät</object>
+			<object type="ingredient" xml:id="barschbraet">Barschbrät</object>
+			<object type="ingredient" xml:id="biberdarm">Biberdarm</object>
+			<object type="ingredient" xml:id="biberfleisch">Biberfleisch</object>
+			<object type="ingredient" xml:id="flussbarsch-schraetz">Flussbarsch (Schrätz]</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="hechtbraet">Hechtbrät</object>
+			<object type="ingredient" xml:id="otterdarm">Otterdarm</object>
+			<object type="ingredient" xml:id="otterfleisch">Otterfleisch</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="kasserolle">Kasserolle</object>
-			<object type="MaterielleKultur" xml:id="rost">Rost</object>
+			<object type="utensil" xml:id="kasserolle">Kasserolle</object>
+			<object type="utensil" xml:id="rost">Rost</object>
                 </listObject>
             </div>
             <div type="dietetic">

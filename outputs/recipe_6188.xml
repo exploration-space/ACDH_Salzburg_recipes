@@ -153,9 +153,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gaenseleber">Gänseleber</object>
-			<object type="Zutaten" xml:id="kalbsnetz">Kalbsnetz</object>
-			<object type="Zutaten" xml:id="sauce">Sauce</object>
+			<object type="ingredient" xml:id="gaenseleber">Gänseleber</object>
+			<object type="ingredient" xml:id="kalbsnetz">Kalbsnetz</object>
+			<object type="ingredient" xml:id="sauce">Sauce</object>
                  </listObject>
             </div>
              <div type="utensil">

@@ -151,8 +151,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="wacholderdrosseln">Wacholderdrosseln</object>
-			<object type="Zutaten" xml:id="weichselsauce">Weichselsauce</object>
+			<object type="ingredient" xml:id="wacholderdrosseln">Wacholderdrosseln</object>
+			<object type="ingredient" xml:id="weichselsauce">Weichselsauce</object>
                  </listObject>
             </div>
              <div type="utensil">

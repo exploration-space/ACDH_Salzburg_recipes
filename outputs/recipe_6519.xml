@@ -151,16 +151,16 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="kitzschlegel">Kitzschlegel</object>
-			<object type="Zutaten" xml:id="lammschlegel">Lammschlegel</object>
-			<object type="Zutaten" xml:id="petersilienkraut">Petersilienkraut</object>
-			<object type="Zutaten" xml:id="salbei">Salbei</object>
-			<object type="Zutaten" xml:id="speck">Speck</object>
+			<object type="ingredient" xml:id="kitzschlegel">Kitzschlegel</object>
+			<object type="ingredient" xml:id="lammschlegel">Lammschlegel</object>
+			<object type="ingredient" xml:id="petersilienkraut">Petersilienkraut</object>
+			<object type="ingredient" xml:id="salbei">Salbei</object>
+			<object type="ingredient" xml:id="speck">Speck</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="glut">Glut</object>
+			<object type="utensil" xml:id="glut">Glut</object>
                 </listObject>
             </div>
             <div type="dietetic">

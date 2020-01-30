@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="kalbsbraten">Kalbsbraten</object>
-			<object type="Zutaten" xml:id="pilze">Pilze</object>
-			<object type="Zutaten" xml:id="speck-gewuerzt">Speck (gewürzt)</object>
+			<object type="ingredient" xml:id="kalbsbraten">Kalbsbraten</object>
+			<object type="ingredient" xml:id="pilze">Pilze</object>
+			<object type="ingredient" xml:id="speck-gewuerzt">Speck (gewürzt)</object>
                  </listObject>
             </div>
              <div type="utensil">

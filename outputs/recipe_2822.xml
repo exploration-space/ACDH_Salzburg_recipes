@@ -154,20 +154,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="mehl">Mehl</object>
-			<object type="Zutaten" xml:id="milch">Milch</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="mehl">Mehl</object>
+			<object type="ingredient" xml:id="milch">Milch</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="brett">Brett</object>
-			<object type="MaterielleKultur" xml:id="deckel-hoelzern">Deckel (hölzern)</object>
-			<object type="MaterielleKultur" xml:id="geschirr">Geschirr</object>
-			<object type="MaterielleKultur" xml:id="kessel">Kessel</object>
-			<object type="MaterielleKultur" xml:id="kupfergeschirr-verzinnt">Kupfergeschirr (verzinnt)</object>
-			<object type="MaterielleKultur" xml:id="rein-irden">Rein (irden)</object>
-			<object type="MaterielleKultur" xml:id="schoepfloeffel">Schöpflöffel</object>
+			<object type="utensil" xml:id="brett">Brett</object>
+			<object type="utensil" xml:id="deckel-hoelzern">Deckel (hölzern)</object>
+			<object type="utensil" xml:id="geschirr">Geschirr</object>
+			<object type="utensil" xml:id="kessel">Kessel</object>
+			<object type="utensil" xml:id="kupfergeschirr-verzinnt">Kupfergeschirr (verzinnt)</object>
+			<object type="utensil" xml:id="rein-irden">Rein (irden)</object>
+			<object type="utensil" xml:id="schoepfloeffel">Schöpflöffel</object>
                 </listObject>
             </div>
             <div type="dietetic">

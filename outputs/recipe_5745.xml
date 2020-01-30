@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="adlerfluegel">Adlerflügel</object>
-			<object type="Zutaten" xml:id="adlerschenkel">Adlerschenkel</object>
-			<object type="Zutaten" xml:id="fuellung">Füllung</object>
+			<object type="ingredient" xml:id="adlerfluegel">Adlerflügel</object>
+			<object type="ingredient" xml:id="adlerschenkel">Adlerschenkel</object>
+			<object type="ingredient" xml:id="fuellung">Füllung</object>
                  </listObject>
             </div>
              <div type="utensil">

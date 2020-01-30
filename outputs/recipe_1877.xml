@@ -157,18 +157,18 @@ Pflücke im Mai Petersilie, Pfefferkraut*, Salbei, junge Rübenblätter und schn
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="petersilie">Petersilie</object>
-			<object type="Zutaten" xml:id="pfefferkraut">Pfefferkraut</object>
-			<object type="Zutaten" xml:id="ruebenblaetter">Rübenblätter</object>
-			<object type="Zutaten" xml:id="salbeiblaetter">Salbeiblätter</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="petersilie">Petersilie</object>
+			<object type="ingredient" xml:id="pfefferkraut">Pfefferkraut</object>
+			<object type="ingredient" xml:id="ruebenblaetter">Rübenblätter</object>
+			<object type="ingredient" xml:id="salbeiblaetter">Salbeiblätter</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="multer">Multer</object>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="multer">Multer</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -154,15 +154,15 @@ Willst du Kolben-Eier machen, dann reibe ein kleines Stück Semmel fein, gib Mus
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="muskat">Muskat</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="semmeln">Semmeln</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="muskat">Muskat</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="semmeln">Semmeln</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="hoelzchen">Hölzchen</object>
+			<object type="utensil" xml:id="hoelzchen">Hölzchen</object>
                 </listObject>
             </div>
             <div type="dietetic">

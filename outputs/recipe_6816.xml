@@ -151,7 +151,7 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="schied-fisch">Schied (Fisch)</object>
+			<object type="ingredient" xml:id="schied-fisch">Schied (Fisch)</object>
                  </listObject>
             </div>
              <div type="utensil">

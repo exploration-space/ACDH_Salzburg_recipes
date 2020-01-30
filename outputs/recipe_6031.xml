@@ -151,15 +151,15 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="bergfink-gegler">Bergfink (Gegler)</object>
-			<object type="Zutaten" xml:id="fink">Fink</object>
-			<object type="Zutaten" xml:id="goldammer-emmerling">Goldammer (Emmerling)</object>
-			<object type="Zutaten" xml:id="meise">Meise</object>
+			<object type="ingredient" xml:id="bergfink-gegler">Bergfink (Gegler)</object>
+			<object type="ingredient" xml:id="fink">Fink</object>
+			<object type="ingredient" xml:id="goldammer-emmerling">Goldammer (Emmerling)</object>
+			<object type="ingredient" xml:id="meise">Meise</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="spiess">Spieß</object>
+			<object type="utensil" xml:id="spiess">Spieß</object>
                 </listObject>
             </div>
             <div type="dietetic">

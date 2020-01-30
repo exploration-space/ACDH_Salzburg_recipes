@@ -151,10 +151,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="petersilie">Petersilie</object>
-			<object type="Zutaten" xml:id="petersilienwurzel">Petersilienwurzel</object>
-			<object type="Zutaten" xml:id="sauce">Sauce</object>
-			<object type="Zutaten" xml:id="wachtel-wildgefluegel">Wachtel</object>
+			<object type="ingredient" xml:id="petersilie">Petersilie</object>
+			<object type="ingredient" xml:id="petersilienwurzel">Petersilienwurzel</object>
+			<object type="ingredient" xml:id="sauce">Sauce</object>
+			<object type="ingredient" xml:id="wachtel-wildgefluegel">Wachtel</object>
                  </listObject>
             </div>
              <div type="utensil">

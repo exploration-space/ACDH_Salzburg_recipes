@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="esperodi">Esperodi</object>
-			<object type="Zutaten" xml:id="kampfer">Kampfer</object>
-			<object type="Zutaten" xml:id="purgierwinde">Purgierwinde</object>
-			<object type="Zutaten" xml:id="rosensaft">Rosensaft</object>
-			<object type="Zutaten" xml:id="sandelholz">Sandelholz</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="esperodi">Esperodi</object>
+			<object type="ingredient" xml:id="kampfer">Kampfer</object>
+			<object type="ingredient" xml:id="purgierwinde">Purgierwinde</object>
+			<object type="ingredient" xml:id="rosensaft">Rosensaft</object>
+			<object type="ingredient" xml:id="sandelholz">Sandelholz</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="deckel">Deckel</object>
+			<object type="utensil" xml:id="deckel">Deckel</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="abfuehrmittel">Abführmittel</object>
+			<object type="dietetic" xml:id="abfuehrmittel">Abführmittel</object>
                 </listObject>
             </div>
         <div type="recipe">

@@ -151,21 +151,21 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="granatapfelsaft">Granatapfelsaft</object>
-			<object type="Zutaten" xml:id="himbeersaft">Himbeersaft</object>
-			<object type="Zutaten" xml:id="hirschhorn">Hirschhorn</object>
-			<object type="Zutaten" xml:id="orangenbluetenwasser">Orangenblütenwasser</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zimtessenz">Zimtessenz</object>
-			<object type="Zutaten" xml:id="zitronenschalen">Zitronenschalen</object>
+			<object type="ingredient" xml:id="granatapfelsaft">Granatapfelsaft</object>
+			<object type="ingredient" xml:id="himbeersaft">Himbeersaft</object>
+			<object type="ingredient" xml:id="hirschhorn">Hirschhorn</object>
+			<object type="ingredient" xml:id="orangenbluetenwasser">Orangenblütenwasser</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zimtessenz">Zimtessenz</object>
+			<object type="ingredient" xml:id="zitronenschalen">Zitronenschalen</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="loth">Loth</object>
-			<object type="MaterielleKultur" xml:id="maas">Maas</object>
-			<object type="MaterielleKultur" xml:id="quintlein">Quintlein</object>
-			<object type="MaterielleKultur" xml:id="seidel">Seidel</object>
+			<object type="utensil" xml:id="loth">Loth</object>
+			<object type="utensil" xml:id="maas">Maas</object>
+			<object type="utensil" xml:id="quintlein">Quintlein</object>
+			<object type="utensil" xml:id="seidel">Seidel</object>
                 </listObject>
             </div>
             <div type="dietetic">

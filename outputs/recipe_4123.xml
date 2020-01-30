@@ -151,7 +151,7 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="hirschmagen">Hirschmagen</object>
+			<object type="ingredient" xml:id="hirschmagen">Hirschmagen</object>
                  </listObject>
             </div>
              <div type="utensil">

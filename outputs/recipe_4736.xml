@@ -156,28 +156,28 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="blattgold">Blattgold</object>
-			<object type="Zutaten" xml:id="mandelmehl">Mandelmehl</object>
-			<object type="Zutaten" xml:id="moschus-bisam">Moschus (Bisam)</object>
-			<object type="Zutaten" xml:id="roehrenwasser-leitungswasser">Röhrenwasser (Leitungswasser)</object>
-			<object type="Zutaten" xml:id="rosenwasser">Rosenwasser</object>
-			<object type="Zutaten" xml:id="tragant">Tragant</object>
-			<object type="Zutaten" xml:id="zimtsafran">Zimtsafran</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
-			<object type="Zutaten" xml:id="zuckerblau-lebensmittelfarbe">Zuckerblau (Lebensmittelfarbe)</object>
+			<object type="ingredient" xml:id="blattgold">Blattgold</object>
+			<object type="ingredient" xml:id="mandelmehl">Mandelmehl</object>
+			<object type="ingredient" xml:id="moschus-bisam">Moschus (Bisam)</object>
+			<object type="ingredient" xml:id="roehrenwasser-leitungswasser">Röhrenwasser (Leitungswasser)</object>
+			<object type="ingredient" xml:id="rosenwasser">Rosenwasser</object>
+			<object type="ingredient" xml:id="tragant">Tragant</object>
+			<object type="ingredient" xml:id="zimtsafran">Zimtsafran</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="zuckerblau-lebensmittelfarbe">Zuckerblau (Lebensmittelfarbe)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="bezetta-rubra">Bezetta rubra</object>
-			<object type="MaterielleKultur" xml:id="blech">Blech</object>
-			<object type="MaterielleKultur" xml:id="holzteller">Holzteller</object>
-			<object type="MaterielleKultur" xml:id="loth">Loth</object>
-			<object type="MaterielleKultur" xml:id="model">Model</object>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
-			<object type="MaterielleKultur" xml:id="papier">Papier</object>
-			<object type="MaterielleKultur" xml:id="reibstein-aus-marmor">Reibstein (aus Marmor)</object>
-			<object type="MaterielleKultur" xml:id="sieb">Sieb</object>
+			<object type="utensil" xml:id="bezetta-rubra">Bezetta rubra</object>
+			<object type="utensil" xml:id="blech">Blech</object>
+			<object type="utensil" xml:id="holzteller">Holzteller</object>
+			<object type="utensil" xml:id="loth">Loth</object>
+			<object type="utensil" xml:id="model">Model</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="papier">Papier</object>
+			<object type="utensil" xml:id="reibstein-aus-marmor">Reibstein (aus Marmor)</object>
+			<object type="utensil" xml:id="sieb">Sieb</object>
                 </listObject>
             </div>
             <div type="dietetic">

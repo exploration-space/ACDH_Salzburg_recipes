@@ -151,23 +151,23 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="efeu">Efeu</object>
-			<object type="Zutaten" xml:id="milch">Milch</object>
-			<object type="Zutaten" xml:id="wasen-rasenstueck">Wasen (Rasenstück)</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="weinrebenasche">Weinrebenasche</object>
-			<object type="Zutaten" xml:id="weizenkorn">Weizenkorn</object>
+			<object type="ingredient" xml:id="efeu">Efeu</object>
+			<object type="ingredient" xml:id="milch">Milch</object>
+			<object type="ingredient" xml:id="wasen-rasenstueck">Wasen (Rasenstück)</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="weinrebenasche">Weinrebenasche</object>
+			<object type="ingredient" xml:id="weizenkorn">Weizenkorn</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="becher">Becher</object>
-			<object type="MaterielleKultur" xml:id="fass">Fass</object>
-			<object type="MaterielleKultur" xml:id="gespaltenes-holz">Gespaltenes Holz</object>
-			<object type="MaterielleKultur" xml:id="holz-gespalten-und-gelocht">Holz (gespalten und gelocht)</object>
-			<object type="MaterielleKultur" xml:id="leintuch">Leintuch</object>
-			<object type="MaterielleKultur" xml:id="sand">Sand</object>
+			<object type="utensil" xml:id="becher">Becher</object>
+			<object type="utensil" xml:id="fass">Fass</object>
+			<object type="utensil" xml:id="gespaltenes-holz">Gespaltenes Holz</object>
+			<object type="utensil" xml:id="holz-gespalten-und-gelocht">Holz (gespalten und gelocht)</object>
+			<object type="utensil" xml:id="leintuch">Leintuch</object>
+			<object type="utensil" xml:id="sand">Sand</object>
                 </listObject>
             </div>
             <div type="dietetic">

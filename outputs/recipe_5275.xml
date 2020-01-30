@@ -151,7 +151,7 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="muerbteig">Mürbteig</object>
+			<object type="ingredient" xml:id="muerbteig">Mürbteig</object>
                  </listObject>
             </div>
              <div type="utensil">

@@ -151,15 +151,15 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="weichselsaft">Weichselsaft</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="weichselsaft">Weichselsaft</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="raedlein">Rädlein</object>
-			<object type="MaterielleKultur" xml:id="teig">Teig</object>
+			<object type="utensil" xml:id="raedlein">Rädlein</object>
+			<object type="utensil" xml:id="teig">Teig</object>
                 </listObject>
             </div>
             <div type="dietetic">

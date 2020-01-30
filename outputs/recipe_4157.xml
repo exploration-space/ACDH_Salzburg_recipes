@@ -151,10 +151,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="truthahnfluegel">Truthahnflügel</object>
-			<object type="Zutaten" xml:id="truthahnleber">Truthahnleber</object>
-			<object type="Zutaten" xml:id="truthahnmagen">Truthahnmagen</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="truthahnfluegel">Truthahnflügel</object>
+			<object type="ingredient" xml:id="truthahnleber">Truthahnleber</object>
+			<object type="ingredient" xml:id="truthahnmagen">Truthahnmagen</object>
                  </listObject>
             </div>
              <div type="utensil">

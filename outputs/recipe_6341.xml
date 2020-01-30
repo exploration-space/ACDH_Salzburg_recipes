@@ -155,20 +155,20 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="bertram">Bertram</object>
-			<object type="Zutaten" xml:id="essig">Essig</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="bertram">Bertram</object>
+			<object type="ingredient" xml:id="essig">Essig</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="fass">Fass</object>
-			<object type="MaterielleKultur" xml:id="geschirr-aus-messing">Geschirr (aus Messing)</object>
-			<object type="MaterielleKultur" xml:id="mass">Maß</object>
-			<object type="MaterielleKultur" xml:id="ohm">Ohm</object>
-			<object type="MaterielleKultur" xml:id="pfund">Pfund</object>
-			<object type="MaterielleKultur" xml:id="schnur">Schnur</object>
-			<object type="MaterielleKultur" xml:id="ziegel">Ziegel</object>
+			<object type="utensil" xml:id="fass">Fass</object>
+			<object type="utensil" xml:id="geschirr-aus-messing">Geschirr (aus Messing)</object>
+			<object type="utensil" xml:id="mass">Maß</object>
+			<object type="utensil" xml:id="ohm">Ohm</object>
+			<object type="utensil" xml:id="pfund">Pfund</object>
+			<object type="utensil" xml:id="schnur">Schnur</object>
+			<object type="utensil" xml:id="ziegel">Ziegel</object>
                 </listObject>
             </div>
             <div type="dietetic">

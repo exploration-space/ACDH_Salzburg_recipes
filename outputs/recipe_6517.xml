@@ -151,10 +151,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="kitz-jungtier-von-ziegen">Kitz (Jungtier von Ziegen)</object>
-			<object type="Zutaten" xml:id="lammschnitzel">Lammschnitzel</object>
-			<object type="Zutaten" xml:id="salbeiteig">Salbeiteig</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="kitz-jungtier-von-ziegen">Kitz (Jungtier von Ziegen)</object>
+			<object type="ingredient" xml:id="lammschnitzel">Lammschnitzel</object>
+			<object type="ingredient" xml:id="salbeiteig">Salbeiteig</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
                  </listObject>
             </div>
              <div type="utensil">

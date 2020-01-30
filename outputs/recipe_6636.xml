@@ -151,12 +151,12 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="renken-fisch">Renken (Fisch)</object>
+			<object type="ingredient" xml:id="renken-fisch">Renken (Fisch)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="cassenat">Cassenat</object>
+			<object type="utensil" xml:id="cassenat">Cassenat</object>
                 </listObject>
             </div>
             <div type="dietetic">

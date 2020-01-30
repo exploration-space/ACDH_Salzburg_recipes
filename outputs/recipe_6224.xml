@@ -151,21 +151,21 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="laugensamen">Laugensamen</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="wachs">Wachs</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="weinrebenasche">Weinrebenasche</object>
-			<object type="Zutaten" xml:id="weinstein">Weinstein</object>
+			<object type="ingredient" xml:id="laugensamen">Laugensamen</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="wachs">Wachs</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="weinrebenasche">Weinrebenasche</object>
+			<object type="ingredient" xml:id="weinstein">Weinstein</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="becher">Becher</object>
-			<object type="MaterielleKultur" xml:id="blech-aus-blei">Blech (aus Blei)</object>
-			<object type="MaterielleKultur" xml:id="blech-aus-stahl">Blech (aus Stahl)</object>
-			<object type="MaterielleKultur" xml:id="fass">Fass</object>
-			<object type="MaterielleKultur" xml:id="hafen-topf">Topf (Hafen)</object>
+			<object type="utensil" xml:id="becher">Becher</object>
+			<object type="utensil" xml:id="blech-aus-blei">Blech (aus Blei)</object>
+			<object type="utensil" xml:id="blech-aus-stahl">Blech (aus Stahl)</object>
+			<object type="utensil" xml:id="fass">Fass</object>
+			<object type="utensil" xml:id="hafen-topf">Topf (Hafen)</object>
                 </listObject>
             </div>
             <div type="dietetic">

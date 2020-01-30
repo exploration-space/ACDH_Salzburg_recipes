@@ -151,21 +151,21 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="artischockenherzen">Artischockenherzen</object>
-			<object type="Zutaten" xml:id="endivie">Endivie</object>
-			<object type="Zutaten" xml:id="erbsen">Erbsen</object>
-			<object type="Zutaten" xml:id="kitz-jungtier-von-ziegen">Kitz (Jungtier von Ziegen)</object>
-			<object type="Zutaten" xml:id="kohlrabi">Kohlrabi</object>
-			<object type="Zutaten" xml:id="kopfsalat">Kopfsalat</object>
-			<object type="Zutaten" xml:id="lammfleisch">Lammfleisch</object>
-			<object type="Zutaten" xml:id="pastinakenwurzeln">Pastinakenwurzeln</object>
-			<object type="Zutaten" xml:id="petersilienkraut">Petersilienkraut</object>
-			<object type="Zutaten" xml:id="petersilienwurzel">Petersilienwurzel</object>
-			<object type="Zutaten" xml:id="rueben">Rüben</object>
-			<object type="Zutaten" xml:id="selleriewurzel">Selleriewurzel</object>
-			<object type="Zutaten" xml:id="spargel">Spargel</object>
-			<object type="Zutaten" xml:id="spinat">Spinat</object>
-			<object type="Zutaten" xml:id="zuckerruebe">Zuckerrübe</object>
+			<object type="ingredient" xml:id="artischockenherzen">Artischockenherzen</object>
+			<object type="ingredient" xml:id="endivie">Endivie</object>
+			<object type="ingredient" xml:id="erbsen">Erbsen</object>
+			<object type="ingredient" xml:id="kitz-jungtier-von-ziegen">Kitz (Jungtier von Ziegen)</object>
+			<object type="ingredient" xml:id="kohlrabi">Kohlrabi</object>
+			<object type="ingredient" xml:id="kopfsalat">Kopfsalat</object>
+			<object type="ingredient" xml:id="lammfleisch">Lammfleisch</object>
+			<object type="ingredient" xml:id="pastinakenwurzeln">Pastinakenwurzeln</object>
+			<object type="ingredient" xml:id="petersilienkraut">Petersilienkraut</object>
+			<object type="ingredient" xml:id="petersilienwurzel">Petersilienwurzel</object>
+			<object type="ingredient" xml:id="rueben">Rüben</object>
+			<object type="ingredient" xml:id="selleriewurzel">Selleriewurzel</object>
+			<object type="ingredient" xml:id="spargel">Spargel</object>
+			<object type="ingredient" xml:id="spinat">Spinat</object>
+			<object type="ingredient" xml:id="zuckerruebe">Zuckerrübe</object>
                  </listObject>
             </div>
              <div type="utensil">

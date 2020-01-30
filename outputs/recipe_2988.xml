@@ -151,10 +151,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="apfelmus">Apfelmus</object>
-			<object type="Zutaten" xml:id="bohnen">Bohnen</object>
-			<object type="Zutaten" xml:id="brotwuerfel-geroestet">Brotwürfel geröstet</object>
-			<object type="Zutaten" xml:id="schmalz">Schmalz</object>
+			<object type="ingredient" xml:id="apfelmus">Apfelmus</object>
+			<object type="ingredient" xml:id="bohnen">Bohnen</object>
+			<object type="ingredient" xml:id="brotwuerfel-geroestet">Brotwürfel geröstet</object>
+			<object type="ingredient" xml:id="schmalz">Schmalz</object>
                  </listObject>
             </div>
              <div type="utensil">

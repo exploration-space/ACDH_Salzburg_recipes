@@ -151,10 +151,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="anis">Anis</object>
-			<object type="Zutaten" xml:id="fenchelsaft">Fenchelsaft</object>
-			<object type="Zutaten" xml:id="suessholz-lakritze">Süßholz (Lakritze)</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="anis">Anis</object>
+			<object type="ingredient" xml:id="fenchelsaft">Fenchelsaft</object>
+			<object type="ingredient" xml:id="suessholz-lakritze">Süßholz (Lakritze)</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
                  </listObject>
             </div>
              <div type="utensil">
@@ -164,7 +164,7 @@
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-husten">bei Husten</object>
+			<object type="dietetic" xml:id="bei-husten">bei Husten</object>
                 </listObject>
             </div>
         <div type="recipe">

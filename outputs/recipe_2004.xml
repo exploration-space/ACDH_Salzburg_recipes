@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="naesling">Näsling</object>
-			<object type="Zutaten" xml:id="pastete">Pastete</object>
-			<object type="Zutaten" xml:id="zitronen">Zitronen</object>
+			<object type="ingredient" xml:id="naesling">Näsling</object>
+			<object type="ingredient" xml:id="pastete">Pastete</object>
+			<object type="ingredient" xml:id="zitronen">Zitronen</object>
                  </listObject>
             </div>
              <div type="utensil">

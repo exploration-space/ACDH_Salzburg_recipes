@@ -151,8 +151,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="ochsenzunge-blume">Ochsenzunge (Blume)</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="ochsenzunge-blume">Ochsenzunge (Blume)</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
@@ -162,12 +162,12 @@
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-fieber">bei Fieber</object>
-			<object type="Diaetetik" xml:id="bei-ohnmacht">bei Ohnmacht</object>
-			<object type="Diaetetik" xml:id="bei-schwaeche">bei Schwäche</object>
-			<object type="Diaetetik" xml:id="gegen-depressionen">gegen Depressionen</object>
-			<object type="Diaetetik" xml:id="herz">Herz</object>
-			<object type="Diaetetik" xml:id="zur-blutreinigung">zur Blutreinigung</object>
+			<object type="dietetic" xml:id="bei-fieber">bei Fieber</object>
+			<object type="dietetic" xml:id="bei-ohnmacht">bei Ohnmacht</object>
+			<object type="dietetic" xml:id="bei-schwaeche">bei Schwäche</object>
+			<object type="dietetic" xml:id="gegen-depressionen">gegen Depressionen</object>
+			<object type="dietetic" xml:id="herz">Herz</object>
+			<object type="dietetic" xml:id="zur-blutreinigung">zur Blutreinigung</object>
                 </listObject>
             </div>
         <div type="recipe">

@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="dotter">Dotter (Eigelb)</object>
-			<object type="Zutaten" xml:id="met">Met</object>
-			<object type="Zutaten" xml:id="weissbrot-brot">Weißbrot</object>
+			<object type="ingredient" xml:id="dotter">Dotter (Eigelb)</object>
+			<object type="ingredient" xml:id="met">Met</object>
+			<object type="ingredient" xml:id="weissbrot-brot">Weißbrot</object>
                  </listObject>
             </div>
              <div type="utensil">

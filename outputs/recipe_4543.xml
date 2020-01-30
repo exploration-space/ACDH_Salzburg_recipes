@@ -151,15 +151,15 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="dotterbrot">Dotterbrot</object>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="muskatbrot">Muskatbrot</object>
-			<object type="Zutaten" xml:id="reinfal-suesswein">Reinfal</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
-			<object type="Zutaten" xml:id="zitronensaft">Zitronensaft</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="dotterbrot">Dotterbrot</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="muskatbrot">Muskatbrot</object>
+			<object type="ingredient" xml:id="reinfal-suesswein">Reinfal</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="zitronensaft">Zitronensaft</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
@@ -169,8 +169,8 @@
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-der-ruhr">bei der Ruhr</object>
-			<object type="Diaetetik" xml:id="bei-durchfall">bei Durchfall</object>
+			<object type="dietetic" xml:id="bei-der-ruhr">bei der Ruhr</object>
+			<object type="dietetic" xml:id="bei-durchfall">bei Durchfall</object>
                 </listObject>
             </div>
         <div type="recipe">

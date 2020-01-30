@@ -151,21 +151,21 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="broesel-geroestet">Brösel (geröstet)</object>
-			<object type="Zutaten" xml:id="brot-geroestet">Brot (geröstet)</object>
-			<object type="Zutaten" xml:id="hecht">Hecht</object>
-			<object type="Zutaten" xml:id="johannisbeerbruehe">Johannisbeerbrühe</object>
-			<object type="Zutaten" xml:id="kuettenbruehe">Küttenbrühe</object>
-			<object type="Zutaten" xml:id="maulbeerbruehe">Maulbeerbrühe</object>
-			<object type="Zutaten" xml:id="pflaumenbruehe">Pflaumenbrühe</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="broesel-geroestet">Brösel (geröstet)</object>
+			<object type="ingredient" xml:id="brot-geroestet">Brot (geröstet)</object>
+			<object type="ingredient" xml:id="hecht">Hecht</object>
+			<object type="ingredient" xml:id="johannisbeerbruehe">Johannisbeerbrühe</object>
+			<object type="ingredient" xml:id="kuettenbruehe">Küttenbrühe</object>
+			<object type="ingredient" xml:id="maulbeerbruehe">Maulbeerbrühe</object>
+			<object type="ingredient" xml:id="pflaumenbruehe">Pflaumenbrühe</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="kasserolle">Kasserolle</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="kasserolle">Kasserolle</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
                 </listObject>
             </div>
             <div type="dietetic">

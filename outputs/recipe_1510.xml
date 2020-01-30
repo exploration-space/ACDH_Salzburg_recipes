@@ -151,12 +151,12 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="marille-aprikose">Marille (Aprikose)</object>
+			<object type="ingredient" xml:id="marille-aprikose">Marille (Aprikose)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="loeffel">Löffel</object>
+			<object type="utensil" xml:id="loeffel">Löffel</object>
                 </listObject>
             </div>
             <div type="dietetic">

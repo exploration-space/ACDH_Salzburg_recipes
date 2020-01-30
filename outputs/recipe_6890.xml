@@ -151,14 +151,14 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="hammelfleisch">Hammelfleisch</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="zwiebel-weiss">Zwiebel weiss</object>
+			<object type="ingredient" xml:id="hammelfleisch">Hammelfleisch</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="zwiebel-weiss">Zwiebel weiss</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="holzspiess">Holzspieß</object>
+			<object type="utensil" xml:id="holzspiess">Holzspieß</object>
                 </listObject>
             </div>
             <div type="dietetic">

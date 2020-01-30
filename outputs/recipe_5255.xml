@@ -154,10 +154,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="blaesshuhn">Blässhuhn</object>
-			<object type="Zutaten" xml:id="gruenkohl">Grünkohl</object>
-			<object type="Zutaten" xml:id="weisskraut">Weißkraut</object>
-			<object type="Zutaten" xml:id="wirsing">Wirsing</object>
+			<object type="ingredient" xml:id="blaesshuhn">Blässhuhn</object>
+			<object type="ingredient" xml:id="gruenkohl">Grünkohl</object>
+			<object type="ingredient" xml:id="weisskraut">Weißkraut</object>
+			<object type="ingredient" xml:id="wirsing">Wirsing</object>
                  </listObject>
             </div>
              <div type="utensil">

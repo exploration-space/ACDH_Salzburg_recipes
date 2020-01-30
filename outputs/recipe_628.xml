@@ -151,10 +151,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="brombeeren">Brombeeren</object>
-			<object type="Zutaten" xml:id="honig">Honig</object>
-			<object type="Zutaten" xml:id="maulbeeren">Maulbeeren</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="brombeeren">Brombeeren</object>
+			<object type="ingredient" xml:id="honig">Honig</object>
+			<object type="ingredient" xml:id="maulbeeren">Maulbeeren</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
                  </listObject>
             </div>
              <div type="utensil">
@@ -164,11 +164,11 @@
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-faeulnis">bei Fäulnis</object>
-			<object type="Diaetetik" xml:id="bei-fieber">bei Fieber</object>
-			<object type="Diaetetik" xml:id="bei-halsschmerzen">bei Halsschmerzen</object>
-			<object type="Diaetetik" xml:id="mandeln">Mandeln</object>
-			<object type="Diaetetik" xml:id="rachenraum">Rachenraum</object>
+			<object type="dietetic" xml:id="bei-faeulnis">bei Fäulnis</object>
+			<object type="dietetic" xml:id="bei-fieber">bei Fieber</object>
+			<object type="dietetic" xml:id="bei-halsschmerzen">bei Halsschmerzen</object>
+			<object type="dietetic" xml:id="mandeln">Mandeln</object>
+			<object type="dietetic" xml:id="rachenraum">Rachenraum</object>
                 </listObject>
             </div>
         <div type="recipe">

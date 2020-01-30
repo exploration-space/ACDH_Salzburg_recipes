@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="borretschblueten">Borretschblüten</object>
-			<object type="Zutaten" xml:id="ochsenzunge-blume">Ochsenzunge (Blume)</object>
-			<object type="Zutaten" xml:id="ochsenzungenwurz">Ochsenzungenwurz</object>
-			<object type="Zutaten" xml:id="roeslein-gefeint">Rose (rot)</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="borretschblueten">Borretschblüten</object>
+			<object type="ingredient" xml:id="ochsenzunge-blume">Ochsenzunge (Blume)</object>
+			<object type="ingredient" xml:id="ochsenzungenwurz">Ochsenzungenwurz</object>
+			<object type="ingredient" xml:id="roeslein-gefeint">Rose (rot)</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="fass">Fass</object>
-			<object type="MaterielleKultur" xml:id="sack">Sack</object>
+			<object type="utensil" xml:id="fass">Fass</object>
+			<object type="utensil" xml:id="sack">Sack</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="zur-staerkung-des-leibes">Zur Stärkung des Leibes</object>
+			<object type="dietetic" xml:id="zur-staerkung-des-leibes">Zur Stärkung des Leibes</object>
                 </listObject>
             </div>
         <div type="recipe">

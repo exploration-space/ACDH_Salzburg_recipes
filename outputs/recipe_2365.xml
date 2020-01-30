@@ -151,18 +151,18 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="muskatbluete">Muskatblüte</object>
-			<object type="Zutaten" xml:id="zimtstange">Zimtstange</object>
-			<object type="Zutaten" xml:id="zuckersirup">Zuckersirup</object>
-			<object type="Zutaten" xml:id="zwetschke-pflaume">Zwetschken (Pflaumen)</object>
+			<object type="ingredient" xml:id="muskatbluete">Muskatblüte</object>
+			<object type="ingredient" xml:id="zimtstange">Zimtstange</object>
+			<object type="ingredient" xml:id="zuckersirup">Zuckersirup</object>
+			<object type="ingredient" xml:id="zwetschke-pflaume">Zwetschken (Pflaumen)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="glas">Glas</object>
-			<object type="MaterielleKultur" xml:id="stecknadel">Stecknadel</object>
-			<object type="MaterielleKultur" xml:id="tiegel">Tiegel</object>
-			<object type="MaterielleKultur" xml:id="zinnbuechse">Zinnbüchse</object>
+			<object type="utensil" xml:id="glas">Glas</object>
+			<object type="utensil" xml:id="stecknadel">Stecknadel</object>
+			<object type="utensil" xml:id="tiegel">Tiegel</object>
+			<object type="utensil" xml:id="zinnbuechse">Zinnbüchse</object>
                 </listObject>
             </div>
             <div type="dietetic">

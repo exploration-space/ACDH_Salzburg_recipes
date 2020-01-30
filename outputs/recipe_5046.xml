@@ -153,8 +153,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="rinderleber">Rinderleber</object>
-			<object type="Zutaten" xml:id="rinderlunge">Rinderlunge</object>
+			<object type="ingredient" xml:id="rinderleber">Rinderleber</object>
+			<object type="ingredient" xml:id="rinderlunge">Rinderlunge</object>
                  </listObject>
             </div>
              <div type="utensil">

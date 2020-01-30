@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="hammel">Hammel</object>
-			<object type="Zutaten" xml:id="rinderbruehe">Rinderbrühe</object>
-			<object type="Zutaten" xml:id="rote-melden">Rote Melden</object>
+			<object type="ingredient" xml:id="hammel">Hammel</object>
+			<object type="ingredient" xml:id="rinderbruehe">Rinderbrühe</object>
+			<object type="ingredient" xml:id="rote-melden">Rote Melden</object>
                  </listObject>
             </div>
              <div type="utensil">

@@ -151,21 +151,21 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="anis">Anis</object>
-			<object type="Zutaten" xml:id="rosenwasser">Rosenwasser</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="anis">Anis</object>
+			<object type="ingredient" xml:id="rosenwasser">Rosenwasser</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="faden">Faden</object>
-			<object type="MaterielleKultur" xml:id="tongeschirr">Tongeschirr</object>
+			<object type="utensil" xml:id="faden">Faden</object>
+			<object type="utensil" xml:id="tongeschirr">Tongeschirr</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="appetitanregend">Appetitanregend</object>
-			<object type="Diaetetik" xml:id="magen">Magen</object>
+			<object type="dietetic" xml:id="appetitanregend">Appetitanregend</object>
+			<object type="dietetic" xml:id="magen">Magen</object>
                 </listObject>
             </div>
         <div type="recipe">

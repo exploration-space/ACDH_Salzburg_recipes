@@ -151,19 +151,19 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eigelb-gekocht">Eigelb (gekocht)</object>
-			<object type="Zutaten" xml:id="limonenschalen">Limonenschalen</object>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="wasser-parfuemiert">Wasser (parfümiert)</object>
-			<object type="Zutaten" xml:id="zucker-gefaeht">Zucker (gefäht)</object>
-			<object type="Zutaten" xml:id="zuckerglasur">Zuckerglasur</object>
+			<object type="ingredient" xml:id="eigelb-gekocht">Eigelb (gekocht)</object>
+			<object type="ingredient" xml:id="limonenschalen">Limonenschalen</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="wasser-parfuemiert">Wasser (parfümiert)</object>
+			<object type="ingredient" xml:id="zucker-gefaeht">Zucker (gefäht)</object>
+			<object type="ingredient" xml:id="zuckerglasur">Zuckerglasur</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="blatt">Blatt</object>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
-			<object type="MaterielleKultur" xml:id="pfund">Pfund</object>
+			<object type="utensil" xml:id="blatt">Blatt</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="pfund">Pfund</object>
                 </listObject>
             </div>
             <div type="dietetic">

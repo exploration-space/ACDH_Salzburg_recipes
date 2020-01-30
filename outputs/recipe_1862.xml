@@ -155,11 +155,11 @@ Noch einmal reden wir von einem Mus: Willst du ein Hirschmus machen, dann koche 
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="hirschfleisch">Hirschfleisch</object>
-			<object type="Zutaten" xml:id="kalbsblut">Kalbsblut</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="hirschfleisch">Hirschfleisch</object>
+			<object type="ingredient" xml:id="kalbsblut">Kalbsblut</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">

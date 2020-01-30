@@ -156,18 +156,18 @@ Was du für ein gutes Mus* brauchst, sind Lebkuchen, Mandeln und Rosinen. Davon 
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="fisch">Fisch</object>
-			<object type="Zutaten" xml:id="lebzelten">Lebzelten</object>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="met">Met</object>
-			<object type="Zutaten" xml:id="rosinen">Rosinen</object>
+			<object type="ingredient" xml:id="fisch">Fisch</object>
+			<object type="ingredient" xml:id="lebzelten">Lebzelten</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="met">Met</object>
+			<object type="ingredient" xml:id="rosinen">Rosinen</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="presse">Presse</object>
-			<object type="MaterielleKultur" xml:id="tisch">Tisch</object>
-			<object type="MaterielleKultur" xml:id="tuch">Tuch</object>
+			<object type="utensil" xml:id="presse">Presse</object>
+			<object type="utensil" xml:id="tisch">Tisch</object>
+			<object type="utensil" xml:id="tuch">Tuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

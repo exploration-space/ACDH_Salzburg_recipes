@@ -151,39 +151,39 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="honig">Honig</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="wermut">Wermut</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="honig">Honig</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="wermut">Wermut</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="trichter">Trichter</object>
+			<object type="utensil" xml:id="trichter">Trichter</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-gelbsucht">bei Gelbsucht</object>
-			<object type="Diaetetik" xml:id="bei-geschwuelsten">bei Geschwülsten</object>
-			<object type="Diaetetik" xml:id="bei-menstruationsbeschwerden">bei Menstruationsbeschwerden</object>
-			<object type="Diaetetik" xml:id="bei-pest">bei Pest</object>
-			<object type="Diaetetik" xml:id="bei-schlechter-luft">bei schlechter Luft</object>
-			<object type="Diaetetik" xml:id="bei-wuermern">bei Würmern</object>
-			<object type="Diaetetik" xml:id="fuer-die-kranken">für die Kranken</object>
-			<object type="Diaetetik" xml:id="fuer-die-verdauung">für die Verdauung</object>
-			<object type="Diaetetik" xml:id="gegen-den-wahnsinn-raserei">gegen den Wahnsinn (Raserei)</object>
-			<object type="Diaetetik" xml:id="gehoerverlust">Gehörverlust</object>
-			<object type="Diaetetik" xml:id="kraetze">Krätze</object>
-			<object type="Diaetetik" xml:id="leber">Leber</object>
-			<object type="Diaetetik" xml:id="magen">Magen</object>
-			<object type="Diaetetik" xml:id="melancholie">Melancholie</object>
-			<object type="Diaetetik" xml:id="milz">Milz</object>
-			<object type="Diaetetik" xml:id="phlegma">Phlegma</object>
-			<object type="Diaetetik" xml:id="seuchen">Seuchen</object>
-			<object type="Diaetetik" xml:id="wunden">Wunden</object>
-			<object type="Diaetetik" xml:id="zum-einschlafen">zum Einschlafen</object>
-			<object type="Diaetetik" xml:id="zunge">Zunge</object>
+			<object type="dietetic" xml:id="bei-gelbsucht">bei Gelbsucht</object>
+			<object type="dietetic" xml:id="bei-geschwuelsten">bei Geschwülsten</object>
+			<object type="dietetic" xml:id="bei-menstruationsbeschwerden">bei Menstruationsbeschwerden</object>
+			<object type="dietetic" xml:id="bei-pest">bei Pest</object>
+			<object type="dietetic" xml:id="bei-schlechter-luft">bei schlechter Luft</object>
+			<object type="dietetic" xml:id="bei-wuermern">bei Würmern</object>
+			<object type="dietetic" xml:id="fuer-die-kranken">für die Kranken</object>
+			<object type="dietetic" xml:id="fuer-die-verdauung">für die Verdauung</object>
+			<object type="dietetic" xml:id="gegen-den-wahnsinn-raserei">gegen den Wahnsinn (Raserei)</object>
+			<object type="dietetic" xml:id="gehoerverlust">Gehörverlust</object>
+			<object type="dietetic" xml:id="kraetze">Krätze</object>
+			<object type="dietetic" xml:id="leber">Leber</object>
+			<object type="dietetic" xml:id="magen">Magen</object>
+			<object type="dietetic" xml:id="melancholie">Melancholie</object>
+			<object type="dietetic" xml:id="milz">Milz</object>
+			<object type="dietetic" xml:id="phlegma">Phlegma</object>
+			<object type="dietetic" xml:id="seuchen">Seuchen</object>
+			<object type="dietetic" xml:id="wunden">Wunden</object>
+			<object type="dietetic" xml:id="zum-einschlafen">zum Einschlafen</object>
+			<object type="dietetic" xml:id="zunge">Zunge</object>
                 </listObject>
             </div>
         <div type="recipe">

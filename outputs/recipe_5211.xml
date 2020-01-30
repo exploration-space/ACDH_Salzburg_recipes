@@ -151,10 +151,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="limonenschalen">Limonenschalen</object>
-			<object type="Zutaten" xml:id="zitronat">Zitronat (eingelegte/kandierte Zitronen)</object>
-			<object type="Zutaten" xml:id="zitronen-eingemacht">Zitronen (eingemacht)</object>
-			<object type="Zutaten" xml:id="zitronenkraut">Zitronenkraut</object>
+			<object type="ingredient" xml:id="limonenschalen">Limonenschalen</object>
+			<object type="ingredient" xml:id="zitronat">Zitronat (eingelegte/kandierte Zitronen)</object>
+			<object type="ingredient" xml:id="zitronen-eingemacht">Zitronen (eingemacht)</object>
+			<object type="ingredient" xml:id="zitronenkraut">Zitronenkraut</object>
                  </listObject>
             </div>
              <div type="utensil">

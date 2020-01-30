@@ -154,25 +154,25 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="blattgold">Blattgold</object>
-			<object type="Zutaten" xml:id="blattsilber">Blattsilber</object>
-			<object type="Zutaten" xml:id="essig">Essig</object>
-			<object type="Zutaten" xml:id="safran">Safran</object>
-			<object type="Zutaten" xml:id="schwan-wildgefluegel">Schwan</object>
-			<object type="Zutaten" xml:id="suelze">Sülze</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="blattgold">Blattgold</object>
+			<object type="ingredient" xml:id="blattsilber">Blattsilber</object>
+			<object type="ingredient" xml:id="essig">Essig</object>
+			<object type="ingredient" xml:id="safran">Safran</object>
+			<object type="ingredient" xml:id="schwan-wildgefluegel">Schwan</object>
+			<object type="ingredient" xml:id="suelze">Sülze</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="brett">Brett</object>
-			<object type="MaterielleKultur" xml:id="draht">Draht</object>
-			<object type="MaterielleKultur" xml:id="naegel">Nägel</object>
-			<object type="MaterielleKultur" xml:id="ofen">Ofen</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="silberschuessel">Silberschüssel</object>
-			<object type="MaterielleKultur" xml:id="spiess">Spieß</object>
+			<object type="utensil" xml:id="brett">Brett</object>
+			<object type="utensil" xml:id="draht">Draht</object>
+			<object type="utensil" xml:id="naegel">Nägel</object>
+			<object type="utensil" xml:id="ofen">Ofen</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="silberschuessel">Silberschüssel</object>
+			<object type="utensil" xml:id="spiess">Spieß</object>
                 </listObject>
             </div>
             <div type="dietetic">

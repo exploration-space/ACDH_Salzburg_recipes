@@ -151,10 +151,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="butter">Butter</object>
-			<object type="Zutaten" xml:id="kitz-jungtier-von-ziegen">Kitz (Jungtier von Ziegen)</object>
-			<object type="Zutaten" xml:id="lammfleisch">Lammfleisch</object>
-			<object type="Zutaten" xml:id="mehl">Mehl</object>
+			<object type="ingredient" xml:id="butter">Butter</object>
+			<object type="ingredient" xml:id="kitz-jungtier-von-ziegen">Kitz (Jungtier von Ziegen)</object>
+			<object type="ingredient" xml:id="lammfleisch">Lammfleisch</object>
+			<object type="ingredient" xml:id="mehl">Mehl</object>
                  </listObject>
             </div>
              <div type="utensil">

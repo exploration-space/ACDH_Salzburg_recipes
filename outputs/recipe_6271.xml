@@ -151,13 +151,13 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="ochsendarm">Ochsendarm</object>
-			<object type="Zutaten" xml:id="rinderdarm">Rinderdarm</object>
+			<object type="ingredient" xml:id="ochsendarm">Ochsendarm</object>
+			<object type="ingredient" xml:id="rinderdarm">Rinderdarm</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="rost">Rost</object>
+			<object type="utensil" xml:id="rost">Rost</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -151,26 +151,26 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="mandeln">Mandeln</object>
-			<object type="Zutaten" xml:id="sahne">Rahm (Sahne)</object>
-			<object type="Zutaten" xml:id="rosenwasser">Rosenwasser</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
-			<object type="Zutaten" xml:id="zimtwasser">Zimtwasser</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="mandeln">Mandeln</object>
+			<object type="ingredient" xml:id="sahne">Rahm (Sahne)</object>
+			<object type="ingredient" xml:id="rosenwasser">Rosenwasser</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="zimtwasser">Zimtwasser</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="erdene-model">erdene Model</object>
-			<object type="MaterielleKultur" xml:id="erdene-model-mit-loechern">erdene Model mit Löchern</object>
-			<object type="MaterielleKultur" xml:id="gefaess">Gefäß</object>
-			<object type="MaterielleKultur" xml:id="hafen">Hafen</object>
-			<object type="MaterielleKultur" xml:id="laengliche-koerbchen">längliche Körbchen</object>
-			<object type="MaterielleKultur" xml:id="loeffel-gelocht">Löffel (gelocht)</object>
-			<object type="MaterielleKultur" xml:id="schale">Schale</object>
-			<object type="MaterielleKultur" xml:id="seiher">Seiher</object>
-			<object type="MaterielleKultur" xml:id="zinnerne-kanne">zinnerne Kanne</object>
+			<object type="utensil" xml:id="erdene-model">erdene Model</object>
+			<object type="utensil" xml:id="erdene-model-mit-loechern">erdene Model mit Löchern</object>
+			<object type="utensil" xml:id="gefaess">Gefäß</object>
+			<object type="utensil" xml:id="hafen">Hafen</object>
+			<object type="utensil" xml:id="laengliche-koerbchen">längliche Körbchen</object>
+			<object type="utensil" xml:id="loeffel-gelocht">Löffel (gelocht)</object>
+			<object type="utensil" xml:id="schale">Schale</object>
+			<object type="utensil" xml:id="seiher">Seiher</object>
+			<object type="utensil" xml:id="zinnerne-kanne">zinnerne Kanne</object>
                 </listObject>
             </div>
             <div type="dietetic">

@@ -151,18 +151,18 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="fasanenbrust-fasan-wildgefluegel">Fasanenbrust</object>
-			<object type="Zutaten" xml:id="kalbsfett">Kalbsfett</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="sauce-braun">Sauce (braun)</object>
+			<object type="ingredient" xml:id="fasanenbrust-fasan-wildgefluegel">Fasanenbrust</object>
+			<object type="ingredient" xml:id="kalbsfett">Kalbsfett</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="sauce-braun">Sauce (braun)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="feuer">Feuer</object>
-			<object type="MaterielleKultur" xml:id="holzspiess">Holzspieß</object>
-			<object type="MaterielleKultur" xml:id="rost">Rost</object>
+			<object type="utensil" xml:id="feuer">Feuer</object>
+			<object type="utensil" xml:id="holzspiess">Holzspieß</object>
+			<object type="utensil" xml:id="rost">Rost</object>
                 </listObject>
             </div>
             <div type="dietetic">

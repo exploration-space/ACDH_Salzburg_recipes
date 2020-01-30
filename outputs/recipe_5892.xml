@@ -151,8 +151,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="fasanenbrust-fasan-wildgefluegel">Fasanenbrust</object>
-			<object type="Zutaten" xml:id="kapaunbruehe">Kapaunbrühe</object>
+			<object type="ingredient" xml:id="fasanenbrust-fasan-wildgefluegel">Fasanenbrust</object>
+			<object type="ingredient" xml:id="kapaunbruehe">Kapaunbrühe</object>
                  </listObject>
             </div>
              <div type="utensil">

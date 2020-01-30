@@ -151,17 +151,17 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="brot-geroestet">Brot (geröstet)</object>
-			<object type="Zutaten" xml:id="bruehe">Brühe</object>
-			<object type="Zutaten" xml:id="gewuerze">Gewürze</object>
-			<object type="Zutaten" xml:id="johannisbeersaft">Johannisbeersaft</object>
-			<object type="Zutaten" xml:id="maulbeersaft">Maulbeersaft</object>
-			<object type="Zutaten" xml:id="pomeranzensaft">Pomeranzensaft</object>
-			<object type="Zutaten" xml:id="schweinsruecken">Schweinsrücken</object>
-			<object type="Zutaten" xml:id="weichselsaft">Weichselsaft</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
-			<object type="Zutaten" xml:id="zitronensaft">Zitronensaft</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="brot-geroestet">Brot (geröstet)</object>
+			<object type="ingredient" xml:id="bruehe">Brühe</object>
+			<object type="ingredient" xml:id="gewuerze">Gewürze</object>
+			<object type="ingredient" xml:id="johannisbeersaft">Johannisbeersaft</object>
+			<object type="ingredient" xml:id="maulbeersaft">Maulbeersaft</object>
+			<object type="ingredient" xml:id="pomeranzensaft">Pomeranzensaft</object>
+			<object type="ingredient" xml:id="schweinsruecken">Schweinsrücken</object>
+			<object type="ingredient" xml:id="weichselsaft">Weichselsaft</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="zitronensaft">Zitronensaft</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">

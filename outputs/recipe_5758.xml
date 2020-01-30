@@ -154,8 +154,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="truthahn">Truthahn</object>
-			<object type="Zutaten" xml:id="weinsauce">Weinsauce</object>
+			<object type="ingredient" xml:id="truthahn">Truthahn</object>
+			<object type="ingredient" xml:id="weinsauce">Weinsauce</object>
                  </listObject>
             </div>
              <div type="utensil">

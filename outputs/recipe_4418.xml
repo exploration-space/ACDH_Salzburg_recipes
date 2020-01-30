@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="kalbslunge">Kalbslunge</object>
-			<object type="Zutaten" xml:id="lammlunge">Lammlunge</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="kalbslunge">Kalbslunge</object>
+			<object type="ingredient" xml:id="lammlunge">Lammlunge</object>
                  </listObject>
             </div>
              <div type="utensil">

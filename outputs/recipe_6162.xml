@@ -151,7 +151,7 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="wildschweinzungen">Wildschweinzungen</object>
+			<object type="ingredient" xml:id="wildschweinzungen">Wildschweinzungen</object>
                  </listObject>
             </div>
              <div type="utensil">

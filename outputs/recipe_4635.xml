@@ -154,21 +154,21 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="hausenblase">Hausenblase</object>
-			<object type="Zutaten" xml:id="hirschhornsulz">Hirschhornsulz</object>
-			<object type="Zutaten" xml:id="mutterzimt">Mutterzimt (Wilder Zimt)</object>
-			<object type="Zutaten" xml:id="orangenmark-fruchtfleisch">Orangenmark (Fruchtfleisch)</object>
+			<object type="ingredient" xml:id="hausenblase">Hausenblase</object>
+			<object type="ingredient" xml:id="hirschhornsulz">Hirschhornsulz</object>
+			<object type="ingredient" xml:id="mutterzimt">Mutterzimt (Wilder Zimt)</object>
+			<object type="ingredient" xml:id="orangenmark-fruchtfleisch">Orangenmark (Fruchtfleisch)</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="loth">Loth</object>
-			<object type="MaterielleKultur" xml:id="maas">Maas</object>
-			<object type="MaterielleKultur" xml:id="schale">Schale</object>
-			<object type="MaterielleKultur" xml:id="schuessel">Schüssel</object>
-			<object type="MaterielleKultur" xml:id="seitlein">Seitlein</object>
-			<object type="MaterielleKultur" xml:id="hafen-topf">Topf (Hafen)</object>
-			<object type="MaterielleKultur" xml:id="zinnflasche">Zinnflasche</object>
+			<object type="utensil" xml:id="loth">Loth</object>
+			<object type="utensil" xml:id="maas">Maas</object>
+			<object type="utensil" xml:id="schale">Schale</object>
+			<object type="utensil" xml:id="schuessel">Schüssel</object>
+			<object type="utensil" xml:id="seitlein">Seitlein</object>
+			<object type="utensil" xml:id="hafen-topf">Topf (Hafen)</object>
+			<object type="utensil" xml:id="zinnflasche">Zinnflasche</object>
                 </listObject>
             </div>
             <div type="dietetic">

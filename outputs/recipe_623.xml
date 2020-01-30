@@ -151,8 +151,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="pfingstrosen">Pfingstrosen</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="pfingstrosen">Pfingstrosen</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
@@ -162,14 +162,14 @@
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-albtraeumen">bei Albträumen</object>
-			<object type="Diaetetik" xml:id="bauchschmerzen">bei Bauchschmerzen</object>
-			<object type="Diaetetik" xml:id="bei-durchfall">bei Durchfall</object>
-			<object type="Diaetetik" xml:id="bei-gelbsucht">bei Gelbsucht</object>
-			<object type="Diaetetik" xml:id="bei-menstruationsbeschwerden">bei Menstruationsbeschwerden</object>
-			<object type="Diaetetik" xml:id="fuer-die-verdauung">für die Verdauung</object>
-			<object type="Diaetetik" xml:id="fuer-woechnerinnen">für Wöchnerinnen</object>
-			<object type="Diaetetik" xml:id="gegen-den-stein">gegen den Stein</object>
+			<object type="dietetic" xml:id="bei-albtraeumen">bei Albträumen</object>
+			<object type="dietetic" xml:id="bauchschmerzen">bei Bauchschmerzen</object>
+			<object type="dietetic" xml:id="bei-durchfall">bei Durchfall</object>
+			<object type="dietetic" xml:id="bei-gelbsucht">bei Gelbsucht</object>
+			<object type="dietetic" xml:id="bei-menstruationsbeschwerden">bei Menstruationsbeschwerden</object>
+			<object type="dietetic" xml:id="fuer-die-verdauung">für die Verdauung</object>
+			<object type="dietetic" xml:id="fuer-woechnerinnen">für Wöchnerinnen</object>
+			<object type="dietetic" xml:id="gegen-den-stein">gegen den Stein</object>
                 </listObject>
             </div>
         <div type="recipe">

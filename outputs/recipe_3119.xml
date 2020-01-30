@@ -151,11 +151,11 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="essig">Essig</object>
-			<object type="Zutaten" xml:id="kohlrabisproesslinge">Kohlrabisprösslinge</object>
-			<object type="Zutaten" xml:id="kohlsproesslinge">Kohlsprösslinge</object>
-			<object type="Zutaten" xml:id="oel">Öl</object>
-			<object type="Zutaten" xml:id="pfeffer">Pfeffer</object>
+			<object type="ingredient" xml:id="essig">Essig</object>
+			<object type="ingredient" xml:id="kohlrabisproesslinge">Kohlrabisprösslinge</object>
+			<object type="ingredient" xml:id="kohlsproesslinge">Kohlsprösslinge</object>
+			<object type="ingredient" xml:id="oel">Öl</object>
+			<object type="ingredient" xml:id="pfeffer">Pfeffer</object>
                  </listObject>
             </div>
              <div type="utensil">

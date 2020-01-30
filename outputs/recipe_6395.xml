@@ -151,16 +151,16 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="himbeeren">Himbeeren</object>
-			<object type="Zutaten" xml:id="wecken-gerieben">Wecken (gerieben)</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="himbeeren">Himbeeren</object>
+			<object type="ingredient" xml:id="wecken-gerieben">Wecken (gerieben)</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="feuer">Feuer</object>
-			<object type="MaterielleKultur" xml:id="fischkessel">Fischkessel</object>
-			<object type="MaterielleKultur" xml:id="haartuch">Haartuch</object>
+			<object type="utensil" xml:id="feuer">Feuer</object>
+			<object type="utensil" xml:id="fischkessel">Fischkessel</object>
+			<object type="utensil" xml:id="haartuch">Haartuch</object>
                 </listObject>
             </div>
             <div type="dietetic">

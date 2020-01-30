@@ -151,13 +151,13 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="most">Most</object>
-			<object type="Zutaten" xml:id="weinstein">Weinstein</object>
+			<object type="ingredient" xml:id="most">Most</object>
+			<object type="ingredient" xml:id="weinstein">Weinstein</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="fass">Fass</object>
+			<object type="utensil" xml:id="fass">Fass</object>
                 </listObject>
             </div>
             <div type="dietetic">

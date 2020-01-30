@@ -151,10 +151,10 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="wacholderbeergeist">Wacholderbeergeist</object>
-			<object type="Zutaten" xml:id="wacholderbeeroel">Wacholderbeeröl</object>
-			<object type="Zutaten" xml:id="wacholdersalz">Wacholdersalz</object>
-			<object type="Zutaten" xml:id="weisswein">Weißwein</object>
+			<object type="ingredient" xml:id="wacholderbeergeist">Wacholderbeergeist</object>
+			<object type="ingredient" xml:id="wacholderbeeroel">Wacholderbeeröl</object>
+			<object type="ingredient" xml:id="wacholdersalz">Wacholdersalz</object>
+			<object type="ingredient" xml:id="weisswein">Weißwein</object>
                  </listObject>
             </div>
              <div type="utensil">
@@ -164,16 +164,16 @@
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="appetitanregend">Appetitanregend</object>
-			<object type="Diaetetik" xml:id="bei-epilepsie-fallsucht">bei Epilepsie (Fallsucht)</object>
-			<object type="Diaetetik" xml:id="bei-husten">bei Husten</object>
-			<object type="Diaetetik" xml:id="bei-lethargie">bei Lethargie</object>
-			<object type="Diaetetik" xml:id="bei-menstruationsbeschwerden">bei Menstruationsbeschwerden</object>
-			<object type="Diaetetik" xml:id="bei-ohnmacht">bei Ohnmacht</object>
-			<object type="Diaetetik" xml:id="bei-schwindsucht">bei Schwindsucht</object>
-			<object type="Diaetetik" xml:id="bei-wassersucht">bei Wassersucht</object>
-			<object type="Diaetetik" xml:id="gegen-den-stein">gegen den Stein</object>
-			<object type="Diaetetik" xml:id="gegen-gicht">gegen Gicht</object>
+			<object type="dietetic" xml:id="appetitanregend">Appetitanregend</object>
+			<object type="dietetic" xml:id="bei-epilepsie-fallsucht">bei Epilepsie (Fallsucht)</object>
+			<object type="dietetic" xml:id="bei-husten">bei Husten</object>
+			<object type="dietetic" xml:id="bei-lethargie">bei Lethargie</object>
+			<object type="dietetic" xml:id="bei-menstruationsbeschwerden">bei Menstruationsbeschwerden</object>
+			<object type="dietetic" xml:id="bei-ohnmacht">bei Ohnmacht</object>
+			<object type="dietetic" xml:id="bei-schwindsucht">bei Schwindsucht</object>
+			<object type="dietetic" xml:id="bei-wassersucht">bei Wassersucht</object>
+			<object type="dietetic" xml:id="gegen-den-stein">gegen den Stein</object>
+			<object type="dietetic" xml:id="gegen-gicht">gegen Gicht</object>
                 </listObject>
             </div>
         <div type="recipe">

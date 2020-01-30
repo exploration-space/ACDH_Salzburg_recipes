@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="ente">Ente</object>
-			<object type="Zutaten" xml:id="gruenkohl">Grünkohl</object>
-			<object type="Zutaten" xml:id="weisskraut-kraut">Weißkraut</object>
+			<object type="ingredient" xml:id="ente">Ente</object>
+			<object type="ingredient" xml:id="gruenkohl">Grünkohl</object>
+			<object type="ingredient" xml:id="weisskraut-kraut">Weißkraut</object>
                  </listObject>
             </div>
              <div type="utensil">

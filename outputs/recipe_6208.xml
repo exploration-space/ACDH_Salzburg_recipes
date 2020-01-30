@@ -151,29 +151,29 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="most">Most</object>
-			<object type="Zutaten" xml:id="myrrhe">Myrrhe</object>
-			<object type="Zutaten" xml:id="salz">Salz</object>
-			<object type="Zutaten" xml:id="wacholderspan">Wacholderspan</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="weihrauch">Weihrauch</object>
-			<object type="Zutaten" xml:id="wein">Wein</object>
+			<object type="ingredient" xml:id="most">Most</object>
+			<object type="ingredient" xml:id="myrrhe">Myrrhe</object>
+			<object type="ingredient" xml:id="salz">Salz</object>
+			<object type="ingredient" xml:id="wacholderspan">Wacholderspan</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="weihrauch">Weihrauch</object>
+			<object type="ingredient" xml:id="wein">Wein</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="fass">Fass</object>
-			<object type="MaterielleKultur" xml:id="sack">Sack</object>
+			<object type="utensil" xml:id="fass">Fass</object>
+			<object type="utensil" xml:id="sack">Sack</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="augen">Augen</object>
-			<object type="Diaetetik" xml:id="bei-cholera">bei Cholera</object>
-			<object type="Diaetetik" xml:id="blut">Blut</object>
-			<object type="Diaetetik" xml:id="erwaermt">erwärmt</object>
-			<object type="Diaetetik" xml:id="fuer-die-verdauung">für die Verdauung</object>
-			<object type="Diaetetik" xml:id="gehirn">Gehirn</object>
+			<object type="dietetic" xml:id="augen">Augen</object>
+			<object type="dietetic" xml:id="bei-cholera">bei Cholera</object>
+			<object type="dietetic" xml:id="blut">Blut</object>
+			<object type="dietetic" xml:id="erwaermt">erwärmt</object>
+			<object type="dietetic" xml:id="fuer-die-verdauung">für die Verdauung</object>
+			<object type="dietetic" xml:id="gehirn">Gehirn</object>
                 </listObject>
             </div>
         <div type="recipe">

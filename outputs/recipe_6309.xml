@@ -151,8 +151,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="borretsch">Borretsch</object>
-			<object type="Zutaten" xml:id="most">Most</object>
+			<object type="ingredient" xml:id="borretsch">Borretsch</object>
+			<object type="ingredient" xml:id="most">Most</object>
                  </listObject>
             </div>
              <div type="utensil">
@@ -162,8 +162,8 @@
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="herzrasen">Herzrasen</object>
-			<object type="Diaetetik" xml:id="melancholie">Melancholie</object>
+			<object type="dietetic" xml:id="herzrasen">Herzrasen</object>
+			<object type="dietetic" xml:id="melancholie">Melancholie</object>
                 </listObject>
             </div>
         <div type="recipe">

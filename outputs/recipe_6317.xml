@@ -151,22 +151,22 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="most">Most</object>
-			<object type="Zutaten" xml:id="nelken">Nelken</object>
+			<object type="ingredient" xml:id="most">Most</object>
+			<object type="ingredient" xml:id="nelken">Nelken</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="fass">Fass</object>
-			<object type="MaterielleKultur" xml:id="saecklein">Säcklein</object>
+			<object type="utensil" xml:id="fass">Fass</object>
+			<object type="utensil" xml:id="saecklein">Säcklein</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-epilepsie-fallsucht">bei Epilepsie (Fallsucht)</object>
-			<object type="Diaetetik" xml:id="bei-husten">bei Husten</object>
-			<object type="Diaetetik" xml:id="bei-kurzatmigkeit">bei Kurzatmigkeit</object>
-			<object type="Diaetetik" xml:id="fuer-die-verdauung">für die Verdauung</object>
+			<object type="dietetic" xml:id="bei-epilepsie-fallsucht">bei Epilepsie (Fallsucht)</object>
+			<object type="dietetic" xml:id="bei-husten">bei Husten</object>
+			<object type="dietetic" xml:id="bei-kurzatmigkeit">bei Kurzatmigkeit</object>
+			<object type="dietetic" xml:id="fuer-die-verdauung">für die Verdauung</object>
                 </listObject>
             </div>
         <div type="recipe">

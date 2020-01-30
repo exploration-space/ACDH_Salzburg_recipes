@@ -151,25 +151,25 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="benediktenkraut">Benediktenkraut</object>
-			<object type="Zutaten" xml:id="betonie">Betonie</object>
-			<object type="Zutaten" xml:id="bibernellen">Bibernellen</object>
-			<object type="Zutaten" xml:id="birkenspitzen">Birkenspitzen</object>
-			<object type="Zutaten" xml:id="bohnen">Bohnen</object>
-			<object type="Zutaten" xml:id="eier">Eier</object>
-			<object type="Zutaten" xml:id="hafermalz">Hafermalz</object>
-			<object type="Zutaten" xml:id="holunderbluete">Hollerblüte (Holunderblüte)</object>
-			<object type="Zutaten" xml:id="kardamom">Kardamom</object>
-			<object type="Zutaten" xml:id="lorbeerbeeren">Lorbeerbeeren</object>
-			<object type="Zutaten" xml:id="majoran">Majoran</object>
-			<object type="Zutaten" xml:id="nelkenwurz">Nelkenwurz</object>
-			<object type="Zutaten" xml:id="polei-minze">Polei Minze</object>
-			<object type="Zutaten" xml:id="sonnentau">Sonnentau</object>
-			<object type="Zutaten" xml:id="tannenrinde">Tannenrinde</object>
-			<object type="Zutaten" xml:id="tannenspitzen">Tannenspitzen</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="weizenmalz">Weizenmalz</object>
-			<object type="Zutaten" xml:id="wilder-thymian-quendel">Wilder Thymian (Quendel)</object>
+			<object type="ingredient" xml:id="benediktenkraut">Benediktenkraut</object>
+			<object type="ingredient" xml:id="betonie">Betonie</object>
+			<object type="ingredient" xml:id="bibernellen">Bibernellen</object>
+			<object type="ingredient" xml:id="birkenspitzen">Birkenspitzen</object>
+			<object type="ingredient" xml:id="bohnen">Bohnen</object>
+			<object type="ingredient" xml:id="eier">Eier</object>
+			<object type="ingredient" xml:id="hafermalz">Hafermalz</object>
+			<object type="ingredient" xml:id="holunderbluete">Hollerblüte (Holunderblüte)</object>
+			<object type="ingredient" xml:id="kardamom">Kardamom</object>
+			<object type="ingredient" xml:id="lorbeerbeeren">Lorbeerbeeren</object>
+			<object type="ingredient" xml:id="majoran">Majoran</object>
+			<object type="ingredient" xml:id="nelkenwurz">Nelkenwurz</object>
+			<object type="ingredient" xml:id="polei-minze">Polei Minze</object>
+			<object type="ingredient" xml:id="sonnentau">Sonnentau</object>
+			<object type="ingredient" xml:id="tannenrinde">Tannenrinde</object>
+			<object type="ingredient" xml:id="tannenspitzen">Tannenspitzen</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="weizenmalz">Weizenmalz</object>
+			<object type="ingredient" xml:id="wilder-thymian-quendel">Wilder Thymian (Quendel)</object>
                  </listObject>
             </div>
              <div type="utensil">
@@ -179,16 +179,16 @@
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-atemwegserkrankungen">bei Atemwegserkrankungen</object>
-			<object type="Diaetetik" xml:id="bei-fieber">bei Fieber</object>
-			<object type="Diaetetik" xml:id="bei-wassersucht">bei Wassersucht</object>
-			<object type="Diaetetik" xml:id="fuer-die-verdauung">für die Verdauung</object>
-			<object type="Diaetetik" xml:id="gegen-den-stein">gegen den Stein</object>
-			<object type="Diaetetik" xml:id="gegen-skorbut">gegen Skorbut</object>
-			<object type="Diaetetik" xml:id="kopf">Kopf</object>
-			<object type="Diaetetik" xml:id="magen">Magen</object>
-			<object type="Diaetetik" xml:id="unterleib">Unterleib</object>
-			<object type="Diaetetik" xml:id="zur-blutreinigung">zur Blutreinigung</object>
+			<object type="dietetic" xml:id="bei-atemwegserkrankungen">bei Atemwegserkrankungen</object>
+			<object type="dietetic" xml:id="bei-fieber">bei Fieber</object>
+			<object type="dietetic" xml:id="bei-wassersucht">bei Wassersucht</object>
+			<object type="dietetic" xml:id="fuer-die-verdauung">für die Verdauung</object>
+			<object type="dietetic" xml:id="gegen-den-stein">gegen den Stein</object>
+			<object type="dietetic" xml:id="gegen-skorbut">gegen Skorbut</object>
+			<object type="dietetic" xml:id="kopf">Kopf</object>
+			<object type="dietetic" xml:id="magen">Magen</object>
+			<object type="dietetic" xml:id="unterleib">Unterleib</object>
+			<object type="dietetic" xml:id="zur-blutreinigung">zur Blutreinigung</object>
                 </listObject>
             </div>
         <div type="recipe">

@@ -151,28 +151,28 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="most">Most</object>
-			<object type="Zutaten" xml:id="rosinen">Rosinen</object>
-			<object type="Zutaten" xml:id="zimt">Zimt</object>
+			<object type="ingredient" xml:id="most">Most</object>
+			<object type="ingredient" xml:id="rosinen">Rosinen</object>
+			<object type="ingredient" xml:id="zimt">Zimt</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="fass">Fass</object>
+			<object type="utensil" xml:id="fass">Fass</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-husten">bei Husten</object>
-			<object type="Diaetetik" xml:id="blut">Blut</object>
-			<object type="Diaetetik" xml:id="brust">Brust</object>
-			<object type="Diaetetik" xml:id="fuer-alte-leute">für alte Leute</object>
-			<object type="Diaetetik" xml:id="fuer-die-kranken">für die Kranken</object>
-			<object type="Diaetetik" xml:id="fuer-die-verdauung">für die Verdauung</object>
-			<object type="Diaetetik" xml:id="leber">Leber</object>
-			<object type="Diaetetik" xml:id="magen">Magen</object>
-			<object type="Diaetetik" xml:id="melancholie">Melancholie</object>
-			<object type="Diaetetik" xml:id="phlegma">Phlegma</object>
+			<object type="dietetic" xml:id="bei-husten">bei Husten</object>
+			<object type="dietetic" xml:id="blut">Blut</object>
+			<object type="dietetic" xml:id="brust">Brust</object>
+			<object type="dietetic" xml:id="fuer-alte-leute">für alte Leute</object>
+			<object type="dietetic" xml:id="fuer-die-kranken">für die Kranken</object>
+			<object type="dietetic" xml:id="fuer-die-verdauung">für die Verdauung</object>
+			<object type="dietetic" xml:id="leber">Leber</object>
+			<object type="dietetic" xml:id="magen">Magen</object>
+			<object type="dietetic" xml:id="melancholie">Melancholie</object>
+			<object type="dietetic" xml:id="phlegma">Phlegma</object>
                 </listObject>
             </div>
         <div type="recipe">

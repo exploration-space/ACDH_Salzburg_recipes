@@ -151,28 +151,28 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="veilchen">Veilchen</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="veilchen">Veilchen</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="glas">Glas</object>
-			<object type="MaterielleKultur" xml:id="moerser">Mörser</object>
-			<object type="MaterielleKultur" xml:id="papier">Papier</object>
-			<object type="MaterielleKultur" xml:id="steinkrug">Steinkrug</object>
-			<object type="MaterielleKultur" xml:id="zinnkanne">Zinnkanne</object>
+			<object type="utensil" xml:id="glas">Glas</object>
+			<object type="utensil" xml:id="moerser">Mörser</object>
+			<object type="utensil" xml:id="papier">Papier</object>
+			<object type="utensil" xml:id="steinkrug">Steinkrug</object>
+			<object type="utensil" xml:id="zinnkanne">Zinnkanne</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-epilepsie-fallsucht">bei Epilepsie (Fallsucht)</object>
-			<object type="Diaetetik" xml:id="bei-fieber">bei Fieber</object>
-			<object type="Diaetetik" xml:id="bei-geschwuelsten">bei Geschwülsten</object>
-			<object type="Diaetetik" xml:id="bei-seitenstechen">bei Seitenstechen</object>
-			<object type="Diaetetik" xml:id="fuer-kinder">für Kinder</object>
-			<object type="Diaetetik" xml:id="herz">Herz</object>
+			<object type="dietetic" xml:id="bei-epilepsie-fallsucht">bei Epilepsie (Fallsucht)</object>
+			<object type="dietetic" xml:id="bei-fieber">bei Fieber</object>
+			<object type="dietetic" xml:id="bei-geschwuelsten">bei Geschwülsten</object>
+			<object type="dietetic" xml:id="bei-seitenstechen">bei Seitenstechen</object>
+			<object type="dietetic" xml:id="fuer-kinder">für Kinder</object>
+			<object type="dietetic" xml:id="herz">Herz</object>
                 </listObject>
             </div>
         <div type="recipe">

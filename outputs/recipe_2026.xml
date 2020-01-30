@@ -151,18 +151,18 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="honigwasser">Honigwasser</object>
-			<object type="Zutaten" xml:id="quitten">Quitten</object>
+			<object type="ingredient" xml:id="honigwasser">Honigwasser</object>
+			<object type="ingredient" xml:id="quitten">Quitten</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="messingpfanne">Messingpfanne</object>
+			<object type="utensil" xml:id="messingpfanne">Messingpfanne</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="fuer-die-kranken">für die Kranken</object>
+			<object type="dietetic" xml:id="fuer-die-kranken">für die Kranken</object>
                 </listObject>
             </div>
         <div type="recipe">

@@ -151,27 +151,27 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="eiklar">Eiklar (Eiweiß)</object>
-			<object type="Zutaten" xml:id="wasser">Wasser</object>
-			<object type="Zutaten" xml:id="zucker">Zucker</object>
+			<object type="ingredient" xml:id="eiklar">Eiklar (Eiweiß)</object>
+			<object type="ingredient" xml:id="wasser">Wasser</object>
+			<object type="ingredient" xml:id="zucker">Zucker</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="becken">Becken</object>
-			<object type="MaterielleKultur" xml:id="marmor">Marmor</object>
-			<object type="MaterielleKultur" xml:id="messingmoerser">Messingmörser</object>
-			<object type="MaterielleKultur" xml:id="rute">Rute</object>
-			<object type="MaterielleKultur" xml:id="wolltuch">Wolltuch</object>
+			<object type="utensil" xml:id="becken">Becken</object>
+			<object type="utensil" xml:id="marmor">Marmor</object>
+			<object type="utensil" xml:id="messingmoerser">Messingmörser</object>
+			<object type="utensil" xml:id="rute">Rute</object>
+			<object type="utensil" xml:id="wolltuch">Wolltuch</object>
                 </listObject>
             </div>
             <div type="dietetic">
                 <listObject>
-			<object type="Diaetetik" xml:id="bei-geschwuelsten">bei Geschwülsten</object>
-			<object type="Diaetetik" xml:id="blase">Blase</object>
-			<object type="Diaetetik" xml:id="brust">Brust</object>
-			<object type="Diaetetik" xml:id="magen">Magen</object>
-			<object type="Diaetetik" xml:id="nieren">Nieren</object>
+			<object type="dietetic" xml:id="bei-geschwuelsten">bei Geschwülsten</object>
+			<object type="dietetic" xml:id="blase">Blase</object>
+			<object type="dietetic" xml:id="brust">Brust</object>
+			<object type="dietetic" xml:id="magen">Magen</object>
+			<object type="dietetic" xml:id="nieren">Nieren</object>
                 </listObject>
             </div>
         <div type="recipe">

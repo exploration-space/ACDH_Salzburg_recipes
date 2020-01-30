@@ -151,7 +151,7 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="chicoree-radicchio">Chicoree (Radicchio)</object>
+			<object type="ingredient" xml:id="chicoree-radicchio">Chicoree (Radicchio)</object>
                  </listObject>
             </div>
              <div type="utensil">

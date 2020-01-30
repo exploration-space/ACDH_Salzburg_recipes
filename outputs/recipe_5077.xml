@@ -153,14 +153,14 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="ochsendarm">Ochsendarm</object>
-			<object type="Zutaten" xml:id="ochsenfleisch">Ochsenfleisch</object>
-			<object type="Zutaten" xml:id="ochsenzunge">Ochsenzunge</object>
+			<object type="ingredient" xml:id="ochsendarm">Ochsendarm</object>
+			<object type="ingredient" xml:id="ochsenfleisch">Ochsenfleisch</object>
+			<object type="ingredient" xml:id="ochsenzunge">Ochsenzunge</object>
                  </listObject>
             </div>
              <div type="utensil">
                 <listObject>
-			<object type="MaterielleKultur" xml:id="rauch">Rauch</object>
+			<object type="utensil" xml:id="rauch">Rauch</object>
                 </listObject>
             </div>
             <div type="dietetic">

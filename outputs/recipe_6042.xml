@@ -151,8 +151,8 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="gruener-salat">grüner Salat</object>
-			<object type="Zutaten" xml:id="rote-rueben-rote-bete">Rote Rüben (Rote Bete)</object>
+			<object type="ingredient" xml:id="gruener-salat">grüner Salat</object>
+			<object type="ingredient" xml:id="rote-rueben-rote-bete">Rote Rüben (Rote Bete)</object>
                  </listObject>
             </div>
              <div type="utensil">

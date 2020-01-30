@@ -151,9 +151,9 @@
         <body>
             <div type="ingredient">
                 <listObject>
-			<object type="Zutaten" xml:id="safran">Safran</object>
-			<object type="Zutaten" xml:id="wachtel-wildgefluegel">Wachtel</object>
-			<object type="Zutaten" xml:id="weinsauce">Weinsauce</object>
+			<object type="ingredient" xml:id="safran">Safran</object>
+			<object type="ingredient" xml:id="wachtel-wildgefluegel">Wachtel</object>
+			<object type="ingredient" xml:id="weinsauce">Weinsauce</object>
                  </listObject>
             </div>
              <div type="utensil">
