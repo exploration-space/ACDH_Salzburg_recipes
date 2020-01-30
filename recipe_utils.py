@@ -9,7 +9,6 @@ from bs4 import BeautifulSoup as bs
 
 def get_recipe_title(recipe:str)->str:
     soup = bs(recipe, features='lxml')
-    
     title = soup.find('title').text
     return title
 
@@ -31,9 +30,9 @@ def exact_match(str1, str2):
 def fuzzy_match(str1, str2):
     # the maximum distance is based on the length 
     # of the first string
-    dst = Levenshtein.distance(str1.lower().replace('*',''), str2.lower().replace('*',''))
+    dst = Levenshtein.ratio(str1.lower().replace('*',''), str2.lower().replace('*',''))
 
-    return dst < max(1, len(str1)/3)
+    return dst > 0.8
 
 def get_recipe(recipe):
     soup = bs(recipe, features='lxml')
@@ -53,10 +52,9 @@ def annotate_recipe(recipe, ingredients, matching=exact_match):
     return ' '.join(recipe_tokens)
 
 def get_ingredients(recipe):
-    try:
-        container = et.fromstring('<div>'+recipe+'</div>')
-    except Exception:
-        print(recipe)
+    content = recipe.replace('&', '&amp;')
+    container = et.fromstring('<div>'+content+'</div>')
+    
     namespaces = {'xmlns': "http://www.tei-c.org/ns/1.0"}
     ingredients = container.xpath('.//objectName[@type="ingredient"]', namespaces=namespaces)
     s = set(c.get('ref') for c in ingredients)

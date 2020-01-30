@@ -30,7 +30,7 @@ class XMLRecipe:
         }
         
         xml = self._create_xml(features_override)
-        xml = xml.replace('&lt;', '<').replace('&gt;', '>')
+        xml = xml.replace('&lt;', '<').replace('&gt;', '>').replace('&amp;', '&')
         
         return xml
     
