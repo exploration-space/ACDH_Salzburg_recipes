@@ -1,13 +1,12 @@
 import recipe_utils
 
 class XMLRecipe:
-    def __init__(self, recipe:str, ingredients:list):
+    def __init__(self, recipe:str, ingredients:list, utensils:list):
         self._features = recipe_utils.get_features(recipe)
         self.title = self._features['title']
         self._original_recipe = recipe_utils.get_recipe(recipe)
-        self._annotated_recipe = recipe_utils.annotate_recipe(recipe, 
-                                                              ingredients, 
-                                                              matching=recipe_utils.fuzzy_match)
+        self._annotated_recipe, self._ingredients, self._utensils = \
+            recipe_utils.annotate_recipe(recipe, ingredients, utensils, matching=recipe_utils.fuzzy_match)
     
     def _create_xml(self, features_override:dict)->str:
         data = {}
@@ -26,7 +25,8 @@ class XMLRecipe:
     def annotated(self)->str:
         features_override = {
             'recipe': self._annotated_recipe,
-            'ingredients': recipe_utils.get_ingredients(self._annotated_recipe)
+            'ingredients': recipe_utils.refs_2_objects(self._ingredients, 'ingredient'),
+            'utensils': recipe_utils.refs_2_objects(self._utensils, 'utensil')
         }
         
         xml = self._create_xml(features_override)

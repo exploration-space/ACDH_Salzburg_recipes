@@ -40,28 +40,35 @@ def get_recipe(recipe):
 
     return content
 
-def annotate_recipe(recipe, ingredients, matching=exact_match):
+def annotate_recipe(recipe, ingredients, utensils, matching=exact_match):
     recipe_tokens = get_content_tokens(recipe, skipPunctuation=False)
+    
+    ingredients_found = set()
+    utensils_found = set()
 
     for idx, token in enumerate(recipe_tokens):
+        matched = False
+        # search for an ingredient
         for ingredient in ingredients:
             if matching(token, ingredient):
-                recipe_tokens[idx] = f'<objectName type="ingredient" ref="#{ingredient}">{token}</objectName>'
+                recipe_tokens[idx] = f'<objectName ref="#{ingredient}">{token}</objectName>'
+                ingredients_found.add(ingredient)
+                matched = True
                 break
+        # search for an utensil
+        if not matched:
+            for utensil in utensils:
+                if matching(token, utensil):
+                    recipe_tokens[idx] = f'<objectName ref="#{utensil}">{token}</objectName>'
+                    utensils_found.add(utensil)
+                    break
 
-    return ' '.join(recipe_tokens)
+    return (' '.join(recipe_tokens), ingredients_found, utensils_found)
 
-def get_ingredients(recipe):
-    content = recipe.replace('&', '&amp;')
-    container = et.fromstring('<div>'+content+'</div>')
-    
-    namespaces = {'xmlns': "http://www.tei-c.org/ns/1.0"}
-    ingredients = container.xpath('.//objectName[@type="ingredient"]', namespaces=namespaces)
-    s = set(c.get('ref') for c in ingredients)
-    
-    ref_2_tag = lambda x:f'\t\t<object type="ingredient" xml:id="{x[1:]}">{x[1:].capitalize()}</object>'
-    ingredients_entities = '\n' + '\n'.join(map(ref_2_tag, s)) + '\n'
-    return ingredients_entities
+def refs_2_objects(refs:list, object_type:str):
+    ref_2_tag = lambda x:f'\t\t\t\t\t<object type="{object_type}" xml:id="{x}">{x.capitalize()}</object>'
+    objects = '\n' + '\n'.join(map(ref_2_tag, refs)) + '\n'
+    return objects
 
 def get_features(raw):
     features = {
